@@ -8,7 +8,6 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "615"
-epigrafe: "Modifíquese el artículo 150 de la Ley 1437 de 2011, el cual quedará así"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título II|TÍTULO II - DISPOSICIONES RELATIVAS A LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO]]"
 vigencia: "vigente"
@@ -25,9 +24,9 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título II|Título II]]
 
-## Artículo 615. Modifíquese el artículo 150 de la Ley 1437 de 2011, el cual quedará así
+## Artículo 615
 
-"Artículo [[art. 150 CGP|150]]. Competencia del Consejo de Estado en segunda instancia y cambio de radicación. El Consejo de Estado, en Sala de lo Contencioso Administrativo conocerá en segunda instancia de las apelaciones de las sentencias dictadas en primera instancia por los tribunales administrativos y de las apelaciones de autos susceptibles de este medio de impugnación, así como de los recursos de queja cuando no se conceda el de apelación por parte de los tribunales, o se conceda en un efecto distinto del que corresponda, o no se concedan los extraordinarios de revisión o de unificación de jurisprudencia.
+Modifíquese el artículo [[art. 150 CPACA|150]] de la Ley 1437 de 2011, el cual quedará así "Artículo [[art. 150 CGP|150]]. Competencia del Consejo de Estado en segunda instancia y cambio de radicación. El Consejo de Estado, en Sala de lo Contencioso Administrativo conocerá en segunda instancia de las apelaciones de las sentencias dictadas en primera instancia por los tribunales administrativos y de las apelaciones de autos susceptibles de este medio de impugnación, así como de los recursos de queja cuando no se conceda el de apelación por parte de los tribunales, o se conceda en un efecto distinto del que corresponda, o no se concedan los extraordinarios de revisión o de unificación de jurisprudencia.
 
 El Consejo de Estado, en Sala de lo Contencioso Administrativo, conocerá de las peticiones de cambio de radicación de un proceso o actuación, que se podrá disponer excepcionalmente cuando en el lugar en donde se esté adelantando existan circunstancias que puedan afectar el orden público, la imparcialidad o la independencia de la administración de justicia, las garantías procesales o la seguridad o integridad de los intervinientes.
 

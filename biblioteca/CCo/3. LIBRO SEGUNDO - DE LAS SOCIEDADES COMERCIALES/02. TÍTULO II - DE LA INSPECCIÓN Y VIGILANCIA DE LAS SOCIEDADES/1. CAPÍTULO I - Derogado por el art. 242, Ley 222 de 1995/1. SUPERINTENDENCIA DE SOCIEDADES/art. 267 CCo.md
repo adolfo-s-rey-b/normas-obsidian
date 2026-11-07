@@ -8,7 +8,6 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "267"
-epigrafe: "Derogado por el artículo 242, Ley 222 de 1995"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título II|TÍTULO II - DE LA INSPECCIÓN Y VIGILANCIA DE LAS SOCIEDADES]]"
 capitulo: "[[CCo - Libro Segundo - Título II - Capítulo I|CAPÍTULO I - Derogado por el art. 242, Ley 222 de 1995]]"
@@ -16,6 +15,8 @@ rubro: "[[CCo - Libro Segundo - Título II - Capítulo I - Superintendencia de s
 vigencia: "modificado"
 modificado_por:
   - "[[art. 1 Decreto 1171 de 1980]]"
+derogado_por:
+  - "[[art. 242 Ley 222 de 1995]]"
 anterior: "[[art. 266 CCo]]"
 siguiente: "[[art. 268 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#267"
@@ -28,7 +29,9 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título II|Título II]] › [[CCo - Libro Segundo - Título II - Capítulo I|Capítulo I]] › [[CCo - Libro Segundo - Título II - Capítulo I - Superintendencia de sociedades|Superintendencia de sociedades]]
 
-## Artículo 267. Derogado por el artículo 242, Ley 222 de 1995
+## Artículo 267
+
+> [!warning] Derogado por el artículo [[art. 242 Ley 222 de 1995|242]], Ley 222 de 1995
 
 Adiciona (ordinal 10,11) por el Artículo [[art. 8 Ley 44 de 1981|8]] de la Ley 44 de 1981. Además de las atribuciones conferidas en otras disposiciones de este Código y en leyes especiales, el Superintendente de Sociedades tendrá las siguientes:
 

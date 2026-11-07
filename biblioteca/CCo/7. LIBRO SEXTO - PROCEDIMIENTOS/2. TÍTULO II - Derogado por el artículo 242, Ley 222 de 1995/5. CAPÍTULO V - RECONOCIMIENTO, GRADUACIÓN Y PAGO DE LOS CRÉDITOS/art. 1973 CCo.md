@@ -8,11 +8,12 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "1973"
-epigrafe: "Derogado por el artículo 242, Ley 222 de 1995"
 libro: "[[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]]"
 titulo: "[[CCo - Libro Sexto - Título II|TÍTULO II - Derogado por el artículo 242, Ley 222 de 1995]]"
 capitulo: "[[CCo - Libro Sexto - Título II - Capítulo V|CAPÍTULO V - RECONOCIMIENTO, GRADUACIÓN Y PAGO DE LOS CRÉDITOS]]"
 vigencia: "vigente"
+derogado_por:
+  - "[[art. 242 Ley 222 de 1995]]"
 anterior: "[[art. 1972 CCo]]"
 siguiente: "[[art. 1974 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1973"
@@ -25,7 +26,9 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Sexto|Libro Sexto]] › [[CCo - Libro Sexto - Título II|Título II]] › [[CCo - Libro Sexto - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 1973. Derogado por el artículo 242, Ley 222 de 1995
+## Artículo 1973
+
+> [!warning] Derogado por el artículo [[art. 242 Ley 222 de 1995|242]], Ley 222 de 1995
 
 Los acreedores sin garantía real podrán hacerse parte en el proceso hasta el vencimiento del término probatorio. Los que no se presenten oportunamente no perderán sus acciones personales contra el quebrado: podrán ejercitarlas por las vías comunes, sobre el remanente de la masa de la quiebra, si lo hubiere, o sobre los bienes que adquiera el deudor con posterioridad a la terminación el proceso de quiebra.
 

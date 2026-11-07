@@ -4,11 +4,13 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "67"
-epigrafe: "Derogado por el art. 49 Ley 640 de 2001Clases"
+epigrafe: "Clases"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 1|CAPÍTULO 1 - NORMAS GENERALES APLICABLES A LA CONCILIACIÓN ORDINARIA]]"
 vigencia: "vigente"
+derogado_por:
+  - "[[art. 49 Ley 640 de 2001]]"
 anterior: "[[art. 66 Ley 446 de 1998]]"
 siguiente: "[[art. 68 Ley 446 de 1998]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992#67"
@@ -21,7 +23,9 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 1|Capítulo 1]]
 
-## Artículo 67. Derogado por el art. 49 Ley 640 de 2001Clases
+## Artículo 67. Clases
+
+> [!warning] Derogado por el art. [[art. 49 Ley 640 de 2001|49]] Ley 640 de 2001
 
 La conciliación podrá ser judicial o extrajudicial. La conciliación extrajudicial será institucional cuando se realice en los Centros de Conciliación; administrativa cuando se realice ante autoridades administrativas en cumplimiento de sus funciones conciliatorias; y en equidad cuando se realice ante conciliadores en equidad según lo previsto en esta ley.
 

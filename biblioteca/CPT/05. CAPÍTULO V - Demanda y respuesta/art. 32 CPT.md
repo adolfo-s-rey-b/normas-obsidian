@@ -8,10 +8,11 @@ tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"
 articulo: "32"
-epigrafe: "Modificado por el art. 19, Ley 712 de 2001,"
+epigrafe: ","
 capitulo: "[[CPT - Capítulo V|CAPÍTULO V - Demanda y respuesta]]"
 vigencia: "derogado"
 modificado_por:
+  - "[[art. 19 Ley 712 de 2001]]"
   - "[[art. 1 Ley 1149 de 2007]]"
 anterior: "[[art. 31 CPT]]"
 siguiente: "[[art. 33 CPT]]"
@@ -25,9 +26,11 @@ tags:
 
 [[CPT|CPT]] › [[CPT - Capítulo V|Capítulo V]]
 
-## Artículo 32. Modificado por el art. 19, Ley 712 de 2001,
+## Artículo 32. ,
 
 > [!warning] Norma derogada: Código Procesal del Trabajo (derogado por la Ley 2452 de 2025)
+
+> [!info] Modificado por el art. [[art. 19 Ley 712 de 2001|19]], Ley 712 de 2001
 
 > [!info] Modificado por el art. [[art. 1 Ley 1149 de 2007|1]], Ley 1149 de 2007
 

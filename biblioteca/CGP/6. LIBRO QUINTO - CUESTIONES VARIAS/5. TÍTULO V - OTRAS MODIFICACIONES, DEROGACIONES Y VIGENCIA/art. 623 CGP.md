@@ -8,7 +8,6 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "623"
-epigrafe: "Modifíquese la parte final del numeral 4 del artículo 247 de la Ley 1437 de 2010 (Sic), la cual quedará así"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título V|TÍTULO V - OTRAS MODIFICACIONES, DEROGACIONES Y VIGENCIA]]"
 vigencia: "vigente"
@@ -25,7 +24,9 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título V|Título V]]
 
-## Artículo 623. Modifíquese la parte final del numeral 4 del artículo 247 de la Ley 1437 de 2010 (Sic), la cual quedará así
+## Artículo 623
+
+Modifíquese la parte final del numeral 4 del artículo [[art. 247 Ley 1437 de 2010|247]] de la Ley 1437 de 2010 (Sic), la cual quedará así
 
 "Vencido el término que tienen las partes para alegar, se surtirá traslado al Ministerio Público por el término de diez (10) días, sin retiro del expediente".
 

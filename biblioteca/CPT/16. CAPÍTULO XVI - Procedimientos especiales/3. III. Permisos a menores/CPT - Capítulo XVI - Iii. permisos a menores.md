@@ -23,7 +23,7 @@ tags:
 ### Contenido
 
 - [[art. 119 CPT|Artículo 119]] — Subrogado. CST, ARTICULO 30. Requisitos para solicitar y otorgar los permisos
-- [[art. 120 CPT|Artículo 120]] — Derogado por D. 2737/89, art. 238. Ejercicio de acciones
+- [[art. 120 CPT|Artículo 120]] — /89, art. 238. Ejercicio de acciones
 
 ---
 ← [[CPT - Capítulo XVI - Ii. fuero sindical|Ii. fuero sindical]] · ↑ [[CPT - Capítulo XVI|Capítulo XVI]] · [[CPT - Capítulo XVI - Iv. huelgas|Iv. huelgas]] →

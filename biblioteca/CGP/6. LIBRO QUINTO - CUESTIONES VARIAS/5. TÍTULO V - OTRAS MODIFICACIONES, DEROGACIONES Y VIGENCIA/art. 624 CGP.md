@@ -8,7 +8,6 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "624"
-epigrafe: "Modifíquese el artículo 40 de la Ley 153 de 1887, el cual quedará así"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título V|TÍTULO V - OTRAS MODIFICACIONES, DEROGACIONES Y VIGENCIA]]"
 vigencia: "vigente"
@@ -25,7 +24,9 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título V|Título V]]
 
-## Artículo 624. Modifíquese el artículo 40 de la Ley 153 de 1887, el cual quedará así
+## Artículo 624
+
+Modifíquese el artículo [[art. 40 Ley 153 de 1887|40]] de la Ley 153 de 1887, el cual quedará así
 
 "Artículo [[art. 40 CGP|40]]. Las leyes concernientes a la sustanciación y ritualidad de los juicios prevalecen sobre las anteriores desde el momento en que deben empezar a regir.
 

@@ -25,7 +25,7 @@ tags:
 - [[art. 64 Ley 446 de 1998|Artículo 64]] — Definición
 - [[art. 65 Ley 446 de 1998|Artículo 65]] — Asuntos conciliables
 - [[art. 66 Ley 446 de 1998|Artículo 66]] — Efectos
-- [[art. 67 Ley 446 de 1998|Artículo 67]] — Derogado por el art. 49 Ley 640 de 2001Clases
+- [[art. 67 Ley 446 de 1998|Artículo 67]] — Clases
 - [[art. 68 Ley 446 de 1998|Artículo 68]] — Requisito de procedibilidad
 - [[art. 69 Ley 446 de 1998|Artículo 69]] — Conciliación sobre inmueble arrendado
 

@@ -29,9 +29,9 @@
       "actualizacion_fuente": null,
       "fecha_extraccion": "2026-11-07",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102",
-      "hash": "22c0a3a2efbbceb1f5d5ec91235847afc1a9f038b35aed9ec4b4bebb792b51e0",
+      "hash": "2e298f7c6f6af41096185becd9f177963dd4f967a821ab5bb05f47901a8b8623",
       "notas": 2280,
-      "bytes": 4301647,
+      "bytes": 4300887,
       "paquete": "CCo.json"
     },
     {
@@ -45,9 +45,9 @@
       "actualizacion_fuente": "27 de agosto de 2025",
       "fecha_extraccion": "2026-11-07",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425",
-      "hash": "9c80cab5ed9547be079bd6ba20a873245c20e225ca3d6541abfaf967e9b5870e",
+      "hash": "5938c427d742053bb89dec54f7ff1bb1bddabeb5482c0c13dfdfb23c8b7e5419",
       "notas": 767,
-      "bytes": 1990833,
+      "bytes": 1989907,
       "paquete": "CGP.json"
     },
     {
@@ -61,9 +61,9 @@
       "actualizacion_fuente": null,
       "fecha_extraccion": "2026-11-07",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388",
-      "hash": "1df4b0b0f87f47ce4692303de615d953b5078b4ab54e6542a54fe227576b3f3c",
+      "hash": "d83bedf8466151e30f8912d35db503f82dcc3a2e91d4e09c8fc0a976fc3a6a9a",
       "notas": 713,
-      "bytes": 1478820,
+      "bytes": 1478774,
       "paquete": "CP.json"
     },
     {
@@ -93,9 +93,9 @@
       "actualizacion_fuente": null,
       "fecha_extraccion": "2026-11-07",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787",
-      "hash": "e175387d745a7a67cc8de07eb613e8f9eba96251f10e5239e052cbbfb0eba5af",
+      "hash": "ec115f95f2bcb673ec285bd66902b770a43e9f9b1b0671a30e537fd981ad569d",
       "notas": 688,
-      "bytes": 1345650,
+      "bytes": 1345655,
       "paquete": "CPP.json"
     },
     {
@@ -109,9 +109,9 @@
       "actualizacion_fuente": null,
       "fecha_extraccion": "2026-11-07",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259",
-      "hash": "e0650955128a325168a9fc10087a35b6b6b9a77b9712e8a42156eebf4ce3a48c",
+      "hash": "e5eee4db1863ccd5f2faf4517d4f380ee0c71bee7c9159a0df93828a1e3f4049",
       "notas": 175,
-      "bytes": 258273,
+      "bytes": 258245,
       "paquete": "CPT.json"
     },
     {
@@ -253,9 +253,9 @@
       "actualizacion_fuente": null,
       "fecha_extraccion": "2026-11-07",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992",
-      "hash": "bd239e1257044756d92d651f485faff9c4ba96d97694cbde4eb6d01783fb9851",
+      "hash": "c8b315b071e7f029a7ab624ec26287700aa9a9720afb34de5f78c9c4a4d0596b",
       "notas": 237,
-      "bytes": 533129,
+      "bytes": 533148,
       "paquete": "Ley 446 de 1998.json"
     },
     {

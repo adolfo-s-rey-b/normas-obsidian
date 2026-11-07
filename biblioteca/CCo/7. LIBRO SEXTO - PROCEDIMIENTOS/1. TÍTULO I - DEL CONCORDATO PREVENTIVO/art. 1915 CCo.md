@@ -8,10 +8,11 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "1915"
-epigrafe: "Derogado por el art. 61, Decreto extraordinario 350 de 1989"
 libro: "[[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]]"
 titulo: "[[CCo - Libro Sexto - Título I|TÍTULO I - DEL CONCORDATO PREVENTIVO]]"
 vigencia: "vigente"
+derogado_por:
+  - "[[art. 61 Decreto 350 de 1989]]"
 anterior: "[[art. 1914 CCo]]"
 siguiente: "[[art. 1916 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1915"
@@ -24,7 +25,9 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Sexto|Libro Sexto]] › [[CCo - Libro Sexto - Título I|Título I]]
 
-## Artículo 1915. Derogado por el art. 61, Decreto extraordinario 350 de 1989
+## Artículo 1915
+
+> [!warning] Derogado por el art. [[art. 61 Decreto 350 de 1989|61]], Decreto extraordinario 350 de 1989
 
 Si la solicitud no es aceptada, por no reunir los requisitos prescritos en el Artículo [[art. 1912 CCo|1912]], el juez declarará el estado de quiebra, si ella se ha formulado después de la cesación en los pagos.
 

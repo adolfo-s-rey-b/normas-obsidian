@@ -23,19 +23,19 @@ tags:
 
 ### Contenido
 
-- [[art. 1973 CCo|Artículo 1973]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1974 CCo|Artículo 1974]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1975 CCo|Artículo 1975]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1976 CCo|Artículo 1976]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1977 CCo|Artículo 1977]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1978 CCo|Artículo 1978]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1979 CCo|Artículo 1979]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1980 CCo|Artículo 1980]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1981 CCo|Artículo 1981]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1982 CCo|Artículo 1982]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1983 CCo|Artículo 1983]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1984 CCo|Artículo 1984]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1985 CCo|Artículo 1985]] — Derogado por el artículo 242, Ley 222 de 1995
+- [[art. 1973 CCo|Artículo 1973]]
+- [[art. 1974 CCo|Artículo 1974]]
+- [[art. 1975 CCo|Artículo 1975]]
+- [[art. 1976 CCo|Artículo 1976]]
+- [[art. 1977 CCo|Artículo 1977]]
+- [[art. 1978 CCo|Artículo 1978]]
+- [[art. 1979 CCo|Artículo 1979]]
+- [[art. 1980 CCo|Artículo 1980]]
+- [[art. 1981 CCo|Artículo 1981]]
+- [[art. 1982 CCo|Artículo 1982]]
+- [[art. 1983 CCo|Artículo 1983]]
+- [[art. 1984 CCo|Artículo 1984]]
+- [[art. 1985 CCo|Artículo 1985]]
 
 ---
 ← [[CCo - Libro Sexto - Título II - Capítulo IV|Capítulo IV]] · ↑ [[CCo - Libro Sexto - Título II|Título II]] · [[CCo - Libro Sexto - Título II - Capítulo VI|Capítulo VI]] →

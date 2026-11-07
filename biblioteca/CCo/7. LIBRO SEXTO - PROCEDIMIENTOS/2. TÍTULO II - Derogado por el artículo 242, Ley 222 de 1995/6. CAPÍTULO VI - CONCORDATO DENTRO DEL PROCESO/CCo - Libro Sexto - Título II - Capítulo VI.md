@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 1986 CCo|Artículo 1986]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1987 CCo|Artículo 1987]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1988 CCo|Artículo 1988]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1989 CCo|Artículo 1989]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1990 CCo|Artículo 1990]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1991 CCo|Artículo 1991]] — Derogado por el artículo 242, Ley 222 de 1995
-- [[art. 1992 CCo|Artículo 1992]] — Derogado por el artículo 242, Ley 222 de 1995
+- [[art. 1986 CCo|Artículo 1986]]
+- [[art. 1987 CCo|Artículo 1987]]
+- [[art. 1988 CCo|Artículo 1988]]
+- [[art. 1989 CCo|Artículo 1989]]
+- [[art. 1990 CCo|Artículo 1990]]
+- [[art. 1991 CCo|Artículo 1991]]
+- [[art. 1992 CCo|Artículo 1992]]
 
 ---
 ← [[CCo - Libro Sexto - Título II - Capítulo V|Capítulo V]] · ↑ [[CCo - Libro Sexto - Título II|Título II]] · [[CCo - Libro Sexto - Título II - Capítulo VII|Capítulo VII]] →

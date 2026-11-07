@@ -8,11 +8,12 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "1975"
-epigrafe: "Derogado por el artículo 242, Ley 222 de 1995"
 libro: "[[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]]"
 titulo: "[[CCo - Libro Sexto - Título II|TÍTULO II - Derogado por el artículo 242, Ley 222 de 1995]]"
 capitulo: "[[CCo - Libro Sexto - Título II - Capítulo V|CAPÍTULO V - RECONOCIMIENTO, GRADUACIÓN Y PAGO DE LOS CRÉDITOS]]"
 vigencia: "vigente"
+derogado_por:
+  - "[[art. 242 Ley 222 de 1995]]"
 anterior: "[[art. 1974 CCo]]"
 siguiente: "[[art. 1976 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1975"
@@ -25,7 +26,9 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Sexto|Libro Sexto]] › [[CCo - Libro Sexto - Título II|Título II]] › [[CCo - Libro Sexto - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 1975. Derogado por el artículo 242, Ley 222 de 1995
+## Artículo 1975
+
+> [!warning] Derogado por el artículo [[art. 242 Ley 222 de 1995|242]], Ley 222 de 1995
 
 Las obligaciones a cargo del quebrado con garantías reales o personales de terceros deberán hacerse efectivas por los correspondientes acreedores dentro del proceso de quiebra, intentando la acción respectiva antes de la sentencia, con citación personal de dichos garantes.
 

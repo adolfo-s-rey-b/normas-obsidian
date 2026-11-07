@@ -27,7 +27,7 @@ tags:
 - [[art. 612 CGP|Artículo 612]]
 - [[art. 613 CGP|Artículo 613]] — Audiencia de conciliación extrajudicial en los asuntos contencioso administrativos
 - [[art. 614 CGP|Artículo 614]] — Extensión de la jurisprudencia
-- [[art. 615 CGP|Artículo 615]] — Modifíquese el artículo 150 de la Ley 1437 de 2011, el cual quedará así
+- [[art. 615 CGP|Artículo 615]]
 - [[art. 616 CGP|Artículo 616]]
 
 ---

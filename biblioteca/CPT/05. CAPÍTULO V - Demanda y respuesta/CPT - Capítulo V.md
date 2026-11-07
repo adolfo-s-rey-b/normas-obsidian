@@ -29,7 +29,7 @@ tags:
 - [[art. 29 CPT|Artículo 29]] — Nombramiento de curador ad litem para el demandado
 - [[art. 30 CPT|Artículo 30]] — Procedimiento en caso de contumacia
 - [[art. 31 CPT|Artículo 31]] — Requisitos de la contestación de la demanda
-- [[art. 32 CPT|Artículo 32]] — Modificado por el art. 19, Ley 712 de 2001,
+- [[art. 32 CPT|Artículo 32]] — ,
 
 ---
 ← [[CPT - Capítulo IV|Capítulo IV]] · ↑ [[CPT|CPT]] · [[CPT - Capítulo VI|Capítulo VI]] →

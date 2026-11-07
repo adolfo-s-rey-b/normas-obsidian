@@ -12,11 +12,13 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "313A"
-epigrafe: "Adicionado por el art. 24, Ley 1908 de 2018"
+epigrafe: "de 2018"
 libro: "[[CPP - Libro II|LIBRO II - TECNICAS DE INDAGACION E INVESTIGACION DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo III|CAPÍTULO III - Medidas de Aseguramiento]]"
-vigencia: "vigente"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 24 CPP]]"
 anterior: "[[art. 313 CPP]]"
 siguiente: "[[art. 314 CPP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#313A"
@@ -24,12 +26,14 @@ fecha_extraccion: 2026-11-07
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 313A. Adicionado por el art. 24, Ley 1908 de 2018
+## Artículo 313A. de 2018
+
+> [!info] Adicionado por el art. [[art. 24 CPP|24]], Ley 1908
 
 En las investigaciones contra miembros de Grupos Delictivos Organizados y Grupos Armados Organizados, para los efectos del artículo [[art. 296 CPP|296]] de la Ley 906 de 2004, constituirán criterios de peligro futuro y riesgo de no comparecencia, cualquiera de los siguientes:
 

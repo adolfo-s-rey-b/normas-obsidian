@@ -26,7 +26,7 @@ tags:
 - [[art. 323 CP|Artículo 323]]
 - [[art. 324 CP|Artículo 324]] — Circunstancias especificas de agravacion
 - [[art. 325 CP|Artículo 325]] — Omisión de control
-- [[art. 325A CP|Artículo 325A]] — Adicionado por el art. 2, Decreto Nacional 4449 de 2008, asi: OMISION DE REPORTES SOBRE TRANSACCIONES EN EFECTIVO, MOVILIZACIÓN O ALMACENAMIENTO DE DINERO EN EFECTIVO
+- [[art. 325A CP|Artículo 325A]] — de 2008, asi: OMISION DE REPORTES SOBRE TRANSACCIONES EN EFECTIVO, MOVILIZACIÓN O ALMACENAMIENTO DE DINERO EN EFECTIVO
 - [[art. 325B CP|Artículo 325B]]
 - [[art. 326 CP|Artículo 326]] — Testaferrato
 - [[art. 327 CP|Artículo 327]] — Enriquecimiento ilícito de particulares

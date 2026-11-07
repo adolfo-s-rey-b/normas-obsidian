@@ -32,7 +32,7 @@ tags:
 - [[art. 311 CPP|Artículo 311]] — Peligro para la víctima
 - [[art. 312 CPP|Artículo 312]] — No comparecencia
 - [[art. 313 CPP|Artículo 313]] — Procedencia de la detención preventiva
-- [[art. 313A CPP|Artículo 313A]] — Adicionado por el art. 24, Ley 1908 de 2018
+- [[art. 313A CPP|Artículo 313A]] — de 2018
 - [[art. 314 CPP|Artículo 314]] — Sustitución de la detención preventiva
 - [[art. 315 CPP|Artículo 315]] — Medidas de aseguramiento no privativas de la libertad
 - [[art. 316 CPP|Artículo 316]] — Incumplimiento

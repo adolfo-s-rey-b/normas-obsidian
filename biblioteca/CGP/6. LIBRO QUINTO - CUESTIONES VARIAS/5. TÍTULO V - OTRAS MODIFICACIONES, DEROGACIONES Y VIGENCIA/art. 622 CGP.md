@@ -8,7 +8,6 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "622"
-epigrafe: "Modifíquese el numeral 4 del artículo 2° del Código Procesal del Trabajo y de la Seguridad Social, el cual quedará así"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título V|TÍTULO V - OTRAS MODIFICACIONES, DEROGACIONES Y VIGENCIA]]"
 vigencia: "vigente"
@@ -25,7 +24,9 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título V|Título V]]
 
-## Artículo 622. Modifíquese el numeral 4 del artículo 2° del Código Procesal del Trabajo y de la Seguridad Social, el cual quedará así
+## Artículo 622
+
+Modifíquese el numeral 4 del artículo [[art. 2 CPT|2]]° del Código Procesal del Trabajo y de la Seguridad Social, el cual quedará así
 
 "4. Las controversias relativas a la prestación de los servicios de la seguridad social que se susciten entre los afiliados, beneficiarios o usuarios, los empleadores y las entidades administradoras o prestadoras, salvo los de responsabilidad médica y los relacionados con contratos".
 

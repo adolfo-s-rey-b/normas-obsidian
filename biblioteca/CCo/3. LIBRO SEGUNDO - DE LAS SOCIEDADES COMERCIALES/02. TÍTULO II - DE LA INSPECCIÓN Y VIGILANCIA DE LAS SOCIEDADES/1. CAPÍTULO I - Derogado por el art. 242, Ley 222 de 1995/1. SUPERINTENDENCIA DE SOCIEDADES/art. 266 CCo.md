@@ -8,12 +8,13 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "266"
-epigrafe: "Derogado por el artículo 242, Ley 222 de 1995"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título II|TÍTULO II - DE LA INSPECCIÓN Y VIGILANCIA DE LAS SOCIEDADES]]"
 capitulo: "[[CCo - Libro Segundo - Título II - Capítulo I|CAPÍTULO I - Derogado por el art. 242, Ley 222 de 1995]]"
 rubro: "[[CCo - Libro Segundo - Título II - Capítulo I - Superintendencia de sociedades|SUPERINTENDENCIA DE SOCIEDADES]]"
 vigencia: "vigente"
+derogado_por:
+  - "[[art. 242 Ley 222 de 1995]]"
 anterior: "[[art. 265 CCo]]"
 siguiente: "[[art. 267 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#266"
@@ -26,7 +27,9 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título II|Título II]] › [[CCo - Libro Segundo - Título II - Capítulo I|Capítulo I]] › [[CCo - Libro Segundo - Título II - Capítulo I - Superintendencia de sociedades|Superintendencia de sociedades]]
 
-## Artículo 266. Derogado por el artículo 242, Ley 222 de 1995
+## Artículo 266
+
+> [!warning] Derogado por el artículo [[art. 242 Ley 222 de 1995|242]], Ley 222 de 1995
 
 El Presidente de la República ejercerá por medio de la Superintendencia de Sociedades la inspección y vigilancia de las sociedades comerciales no sometidas al control de la Superintendencia Bancaria, con el fin de que en su formación y funcionamiento se ajusten a las leyes y decretos y de que se cumplan normalmente sus propios estatutos, según lo previsto en este Código o en leyes posteriores.
 
