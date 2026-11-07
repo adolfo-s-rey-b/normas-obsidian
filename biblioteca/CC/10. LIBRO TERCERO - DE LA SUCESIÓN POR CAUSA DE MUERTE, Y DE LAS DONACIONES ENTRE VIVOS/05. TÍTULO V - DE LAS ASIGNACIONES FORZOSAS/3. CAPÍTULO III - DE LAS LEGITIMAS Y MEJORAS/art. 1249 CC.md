@@ -30,7 +30,7 @@ tags:
 
 ## Artículo 1249
 
-LEGÍTIMAS EFECTIVAS. <Artículo CONDICIONALMENTE exequible> <Artículo modificado por el artículo [[art. 9 Ley 1934 de 2018|9]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> Acrece a las legítimas rigurosas toda aquella porción de los bienes de que el testador ha podido disponer con absoluta libertad, y no ha dispuesto, y si lo ha hecho ha quedado sin efecto la disposición.
+LEGÍTIMAS EFECTIVAS. <Artículo modificado por el artículo [[art. 9 Ley 1934 de 2018|9]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> Acrece a las legítimas rigurosas toda aquella porción de los bienes de que el testador ha podido disponer con absoluta libertad, y no ha dispuesto, y si lo ha hecho ha quedado sin efecto la disposición.
 
 Aumentadas así las legítimas rigurosas, se llaman legítimas efectivas.
 

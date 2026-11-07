@@ -37,7 +37,9 @@ La cuarta clase de créditos comprende:
 
 2\. Los de los establecimientos de caridad o de educación, costeados con fondos públicos y los del común de los corregimientos contra los recaudadores, administradores y rematadores de sus bienes y rentas.
 
-3\. <Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.>
+> [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
+
+3.
 
 > [!warning] Notas de vigencia: Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 
@@ -45,7 +47,9 @@ La cuarta clase de créditos comprende:
 
 5\. Los de las personas que están bajo tutela y curaduría, contra sus respectivos tutores o curadores.
 
-6\. <Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.>
+> [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
+
+6.
 
 > [!warning] Notas de vigencia: Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

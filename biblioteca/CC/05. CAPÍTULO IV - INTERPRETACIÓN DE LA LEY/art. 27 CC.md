@@ -32,5 +32,7 @@ Cuando el sentido de la ley sea claro, no se desatenderá su tenor literal a pre
 
 Pero bien se puede, para interpretar una expresión oscura de la ley, recurrir a su intención o espíritu, claramente manifestados en ella misma o en la historia fidedigna de su establecimiento.
 
+(SIGNIFICADO DE LAS PALABRAS)
+
 ---
 ← [[art. 26 CC]] · ↑ [[CC - Capítulo IV|Capítulo IV]] · [[art. 28 CC]] →

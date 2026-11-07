@@ -35,7 +35,9 @@ tags:
 
 La emancipación judicial se efectúa, por decreto del juez, cuando los padres que ejerzan la patria potestad incurran en alguna de las siguientes causales:
 
-1a) <Apartes tachados INEXEQUIBLES> Por maltrato ~~habitual~~ del hijo, ~~en términos de poner en peligro su vida o de causarle grave daño~~.
+> [!warning] Apartes tachados INEXEQUIBLES
+
+1a) Por maltrato ~~habitual~~ del hijo, ~~en términos de poner en peligro su vida o de causarle grave daño~~.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Apartes tachados declarados INEXEQUIBLES, el resto del numeral EXEQUIBLE, por la Corte Constitucional mediante Sentencia C-1003-07 de 21 de noviembre de 2007, Magistrada Ponente Dra. Clara Inés Vargas Hernández. El editor destaca el siguiente aparte de las razones expuestas en el Comunicado de Prensa: 'De esta manera, la causal de emancipación se contrae al maltrato del hijo y en cada caso, el juez de conocimiento deberá valorar las circunstancias que rodean al menor afectado, para efectos de determinar si amerita decretar la pérdida de la patria potestad del padre o padres responsables'
 
@@ -43,7 +45,9 @@ La emancipación judicial se efectúa, por decreto del juez, cuando los padres q
 
 3a) Por depravación que los incapacite de ejercer la patria potestad.
 
-4a) <Numeral adicionado por el artículo [[art. 10 Decreto 772 de 1975|10]] del Decreto 772 de 1975. El nuevo texto es el siguiente:> Por haber sido condenados a pena privativa de la libertad superior a un año. .
+> [!info] Numeral adicionado por el artículo [[art. 10 Decreto 772 de 1975|10]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
+
+4a) Por haber sido condenados a pena privativa de la libertad superior a un año. .
 
 > [!info] Notas de Vigencia: Numeral adicionado por el artículo [[art. 10 Decreto 772 de 1975|10]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975.
 

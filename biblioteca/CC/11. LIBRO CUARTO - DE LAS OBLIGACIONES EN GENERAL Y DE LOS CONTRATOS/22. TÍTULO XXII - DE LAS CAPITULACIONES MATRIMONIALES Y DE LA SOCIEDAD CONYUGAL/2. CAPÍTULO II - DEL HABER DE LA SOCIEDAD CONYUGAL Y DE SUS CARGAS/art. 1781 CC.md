@@ -38,7 +38,9 @@ El haber de la sociedad conyugal se compone:
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Numeral declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-278-14 de 7 de mayo de 2014, Magistrado Ponente Dr. Mauricio González Cuervo. Adicionalmente destaca el editor: ' (...) El deber de recompensa al cónyuge que ha aportado a la sociedad conyugal los bienes del haber relativo descritos en los numerales 3º, 4º y 6º del artículo [[art. 1781 CC|1781]] del Código Civil, comprende el valor aportado con la corrección monetaria correspondiente, la cual no pertenece a dicha sociedad. La valorización adicional del bien como resultado de las fluctuaciones económicas y del mercado pertenece a la sociedad conyugal y deberá ser divididas entre los cónyuges sin que lo anterior se configure en una violación del derecho a la propiedad privada, ya que no es el fin del matrimonio lucrarse ni enriquecerse a costa del otro. En todo caso, los cónyuges no están obligados a someter todos sus bienes al régimen de la sociedad conyugal, ya que cuentan con la posibilidad de excluirlos a través de las capitulaciones.'
 
-4.) De las cosas fungibles y especies muebles que cualquiera de los cónyuges aportare al matrimonio, o durante él adquiere <sic>; quedando obligada la Sociedad a restituir su valor según el que tuvieron al tiempo del aporte o de la adquisición.
+(sic)
+
+4.) De las cosas fungibles y especies muebles que cualquiera de los cónyuges aportare al matrimonio, o durante él adquiere ; quedando obligada la Sociedad a restituir su valor según el que tuvieron al tiempo del aporte o de la adquisición.
 
 Pero podrán los cónyuges eximir de la comunión cualquiera parte de sus especies muebles, designándolas en las capitulaciones, o en una lista firmada por ambos y por tres testigos domiciliados en el territorio.
 
@@ -46,7 +48,9 @@ Pero podrán los cónyuges eximir de la comunión cualquiera parte de sus especi
 
 5.) De todos los bienes que cualquiera de los cónyuges adquiera durante el matrimonio a título oneroso.
 
-6.) <Numeral CONDICIONALMENTE exequible> De los bienes raíces que la mujer aporta al matrimonio, apreciados para que la sociedad le restituya su valor en dinero.
+> [!note] Numeral CONDICIONALMENTE exequible
+
+6.) De los bienes raíces que la mujer aporta al matrimonio, apreciados para que la sociedad le restituya su valor en dinero.
 
 Se expresara así en las capitulaciones matrimoniales o en otro instrumento público otorgado al tiempo del aporte, designándose el valor, y se procederá en lo demás como en el contrato de venta de bienes raíces.
 

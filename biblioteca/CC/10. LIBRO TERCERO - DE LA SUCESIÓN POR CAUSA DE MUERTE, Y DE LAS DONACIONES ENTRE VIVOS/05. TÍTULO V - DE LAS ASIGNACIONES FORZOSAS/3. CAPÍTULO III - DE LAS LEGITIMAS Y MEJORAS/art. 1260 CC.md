@@ -33,7 +33,9 @@ tags:
 
 No se imputarán a la legítima de una persona las donaciones o las asignaciones testamentarias que el difunto haya hecho a otra, salvo el caso del artículo [[art. 1258 CC|1258]], inciso 3o.
 
-ARTÍCULO (PAGOS IMPUTABLES A LA LEGÍTIMA) 1261. <PAGOS IMPUTABLES A LA LEGÍTIMA>. <Artículo modificado por el artículo [[art. 14 Ley 1934 de 2018|14]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> PAGOS IMPUTABLES A LA LEGITIMA O MEJORA. Los desembolsos hechos para el pago de deudas de un legitimario, descendiente, se imputarán a su legítima, pero sólo en cuanto hayan sido útiles para el pago de dichas deudas
+(PAGOS IMPUTABLES A LA LEGÍTIMA)
+
+ARTÍCULO (PAGOS IMPUTABLES A LA LEGÍTIMA) 1261. . <Artículo modificado por el artículo [[art. 14 Ley 1934 de 2018|14]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> PAGOS IMPUTABLES A LA LEGITIMA O MEJORA. Los desembolsos hechos para el pago de deudas de un legitimario, descendiente, se imputarán a su legítima, pero sólo en cuanto hayan sido útiles para el pago de dichas deudas
 
 > [!note] Notas del Editor: * En criterio del editor, en la modificacion a este artículo por la Ley 1934 de 2018, el legislador incurrió en error en la titulación del mismo, al no tener en cuenta la eliminación de la cuarta de mejoras de la distribución de la masa.
 

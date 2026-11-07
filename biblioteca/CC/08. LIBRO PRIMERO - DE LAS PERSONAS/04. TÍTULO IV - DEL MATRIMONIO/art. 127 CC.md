@@ -32,7 +32,9 @@ tags:
 
 No podrán ser testigos para presenciar y autorizar un matrimonio:
 
-1o) <Numeral derogado por el artículo [[art. 4 CC|4]]o. de la Ley 8a. de 1922>
+> [!warning] Numeral derogado por el artículo [[art. 4 CC|4]]o. de la Ley 8a. de 1922
+
+1o)
 
 > [!warning] Notas de Vigencia: Numeral derogado po el artículo [[art. 4 CC|4]]o. de la Ley 8 de 1922, publicada en el Diario Oficial No. 18.199bis, del 23 de febrero de 1913, cuyo texto original establece: 'ARTÍCULO 4. Con los mismos requisitos y excepciones que los hombres, las mujeres pueden ser testigos en todos los actos de la vida civil'. 'ARTÍCULO 6. En los términos anteriores queda modificado y adicionado el Código Civil.'
 
@@ -46,11 +48,15 @@ No podrán ser testigos para presenciar y autorizar un matrimonio:
 
 4o) Todos los que actualmente se hallaren privados de la razón.
 
-5o), 6o), 7o) <Numerales INEXEQUIBLES>.
+> [!warning] Numerales INEXEQUIBLES
+
+5o), 6o), 7o) .
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Numerales 5), 6) y 7) declarados INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-401-99 del 2 de junio de 1999, Magistrado Ponente Dr. Fabio Morón Díaz.
 
-8o) <Aparte tachado INEXEQUIBLE> ~~Los condenados a la pena de reclusión por más de cuatro años~~, y en general los que por sentencia ejecutoriada estuvieren inhabilitados para ser testigos.
+> [!warning] Aparte tachado INEXEQUIBLE
+
+8o) ~~Los condenados a la pena de reclusión por más de cuatro años~~, y en general los que por sentencia ejecutoriada estuvieren inhabilitados para ser testigos.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-725-15 de 25 de noviembre de 2015, Magistrada Ponente Dra. Myriam Ávila Roldán.
 

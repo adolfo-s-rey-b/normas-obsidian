@@ -29,7 +29,9 @@ tags:
 
 El usufructo termina, en fin, por sentencia del juez que, a instancia del propietario, lo declara extinguido por haber faltado el usufructuario a sus obligaciones en materia grave, o por haber causado daños o deterioros considerables a la cosa fructuaria.
 
-El juez, según la gravedad del caso, podrá ordenar, o que cese absolutamente el usufructo, o que vuelva al propietario la cosa fructuaria, con cargo de pagar al fructuario <sic> una pensión anual determinada, hasta la terminación del usufructo.
+(sic)
+
+El juez, según la gravedad del caso, podrá ordenar, o que cese absolutamente el usufructo, o que vuelva al propietario la cosa fructuaria, con cargo de pagar al fructuario una pensión anual determinada, hasta la terminación del usufructo.
 
 ---
 ← [[art. 867 CC]] · ↑ [[CC - Libro Segundo - Título IX|Título IX]] · [[art. 869 CC]] →

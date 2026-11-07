@@ -34,5 +34,7 @@ Sobre lo demás que se haya dejado o se deje a los legitimarios, excepto bajo la
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-641-00 del 31 de mayo de 2000 de Magistrado Ponente Dr. Fabio Morón Díaz.
 
+> [!note] Artículo CONDICIONALMENTE exequible
+
 ---
 ← [[art. 1249 CC]] · ↑ [[CC - Libro Tercero - Título V - Capítulo III|Capítulo III]] · [[art. 1251 CC]] →

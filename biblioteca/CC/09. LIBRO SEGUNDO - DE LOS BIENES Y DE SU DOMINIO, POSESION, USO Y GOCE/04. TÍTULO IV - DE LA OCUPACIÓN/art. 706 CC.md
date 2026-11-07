@@ -29,5 +29,7 @@ tags:
 
 Estímanse bienes vacantes los bienes inmuebles que se encuentran dentro del territorio respectivo a cargo de la nación, sin dueño aparente o conocido, y mostrencos los bienes muebles que se hallen en el mismo caso.
 
+(sic - 82)
+
 ---
 ← [[art. 705 CC]] · ↑ [[CC - Libro Segundo - Título IV|Título IV]] · [[art. 707 CC]] →

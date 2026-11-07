@@ -29,5 +29,7 @@ tags:
 
 El hijo de familia no necesita de la autorización paterna para disponer de sus bienes por acto testamentario que haya de tener efecto después de su muerte.
 
+(padres)
+
 ---
 ← [[art. 308 CC]] · ↑ [[CC - Libro Primero - Título XIV|Título XIV]] · [[art. 310 CC]] →

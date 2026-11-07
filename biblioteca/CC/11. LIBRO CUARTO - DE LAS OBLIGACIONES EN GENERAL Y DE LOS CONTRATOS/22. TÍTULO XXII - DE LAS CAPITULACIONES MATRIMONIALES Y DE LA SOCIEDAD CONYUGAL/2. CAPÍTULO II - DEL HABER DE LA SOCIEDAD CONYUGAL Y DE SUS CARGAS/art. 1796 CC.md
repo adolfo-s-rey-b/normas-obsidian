@@ -14,8 +14,8 @@ titulo: "[[CC - Libro Cuarto - Título XXII|TÍTULO XXII - DE LAS CAPITULACIONES
 capitulo: "[[CC - Libro Cuarto - Título XXII - Capítulo II|CAPÍTULO II - DEL HABER DE LA SOCIEDAD CONYUGAL Y DE SUS CARGAS]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 3 Ley 1676 de 2013]]"
   - "[[art. 62 Decreto 2820 de 1974]]"
+  - "[[art. 3 Ley 1676 de 2013]]"
 anterior: "[[art. 1795 CC]]"
 siguiente: "[[art. 1797 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
@@ -35,7 +35,9 @@ La sociedad es obligada al pago:
 
 1o.) De todas las pensiones e intereses que corra, sea contra la sociedad, sea contra cualquiera de los cónyuges y que se devenguen durante la sociedad.
 
-2o.) <Numeral modificado por el artículo [[art. 62 Decreto 2820 de 1974|62]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:>
+> [!info] Numeral modificado por el artículo [[art. 62 Decreto 2820 de 1974|62]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
+
+2o.)
 
 2\. De las deudas y obligaciones contraídas durante su existencia por el marido o la mujer, y que no fueren personales de aquél o ésta, como lo serían las que se contrayeren por el establecimiento de los hijos de un matrimonio anterior.
 

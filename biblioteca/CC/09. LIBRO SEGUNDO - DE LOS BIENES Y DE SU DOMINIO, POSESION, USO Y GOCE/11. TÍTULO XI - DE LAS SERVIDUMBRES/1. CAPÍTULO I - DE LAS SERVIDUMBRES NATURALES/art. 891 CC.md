@@ -32,7 +32,9 @@ El predio inferior está sujeto a recibir las aguas que descienden del predio su
 
 No se puede, por consiguiente, dirigir un albañal o acequia sobre el predio vecino, si no se ha constituido esta servidumbre especial.
 
-En el predio servil no se puede hacer cosa alguna que estorbe la servidumbre natural, ni <sic> el predio dominante, que la grave.
+(sic)
+
+En el predio servil no se puede hacer cosa alguna que estorbe la servidumbre natural, ni el predio dominante, que la grave.
 
 ---
 ← [[art. 890 CC]] · ↑ [[CC - Libro Segundo - Título XI - Capítulo I|Capítulo I]] · [[art. 892 CC]] →

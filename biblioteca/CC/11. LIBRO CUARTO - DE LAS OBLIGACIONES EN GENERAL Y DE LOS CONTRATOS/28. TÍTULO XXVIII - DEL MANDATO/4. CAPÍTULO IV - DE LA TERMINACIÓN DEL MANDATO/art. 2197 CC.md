@@ -28,7 +28,7 @@ tags:
 
 ## Artículo 2197. MANDATO CONTRAIDO ANTES DEL MATRIMONIO
 
-(sic) Si la mujer ha contraído <sic> un mandato antes del matrimonio, subsiste el mandato; pero el marido podrá revocarlo a su arbitrio.
+(sic) Si la mujer ha contraído un mandato antes del matrimonio, subsiste el mandato; pero el marido podrá revocarlo a su arbitrio.
 
 > [!note] Notas del Editor: El artículo [[art. 5 Ley 28 de 1932|5]] de la Ley 28 de 1932, publicada en el Diario Oficial No. 22.139, de 17 de noviembre de 1932, otorgó plena capacidad a la mujer casada para comparecer libremente en juicio, y para la administración y disposición de sus bienes; así mismo mediante la expedición del Decreto ley 2820 de 1974, 'se otorgan iguales derechos y obligaciones a las mujeres y a los varones'.
 

@@ -33,13 +33,15 @@ tags:
 
 Toda persona es responsable, no sólo de sus propias acciones para el efecto de indemnizar el daño sino del hecho de aquellos que estuvieren a su cuidado.
 
-<Inciso segundo modificado por el artículo [[art. 65 Decreto 2820 de 1974|65]] del Decreto 2820 de 1974. El nuevo texto es el siguiente.> Así, los padres son responsables solidariamente del hecho de los hijos menores que habiten en la misma casa.
+> [!info] Inciso segundo modificado por el artículo [[art. 65 Decreto 2820 de 1974|65]] del Decreto 2820 de 1974. El nuevo texto es el siguiente.
+
+Así, los padres son responsables solidariamente del hecho de los hijos menores que habiten en la misma casa.
 
 > [!info] Notas de vigencia: Inciso segundo modificado por el artículo [[art. 65 Decreto 2820 de 1974|65]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 
 Así, el tutor o curador es responsable de la conducta del pupilo que vive bajo su dependencia y cuidado.
 
-<Inciso cuarto derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.>
+> [!warning] Inciso cuarto derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 
 > [!warning] Notas de vigencia: Inciso 4o. derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

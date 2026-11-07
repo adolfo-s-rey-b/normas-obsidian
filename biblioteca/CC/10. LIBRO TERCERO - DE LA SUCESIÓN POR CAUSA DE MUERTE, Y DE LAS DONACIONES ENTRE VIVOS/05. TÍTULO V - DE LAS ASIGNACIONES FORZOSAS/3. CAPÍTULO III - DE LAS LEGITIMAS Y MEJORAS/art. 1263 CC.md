@@ -35,5 +35,7 @@ tags:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 15 Ley 1934 de 2018|15]] de la Ley 1934 de 2018, 'por medio de la cual se reforma y adiciona el Código Civil', publicada en el Diario Oficial No. 50.673 de 2 de agosto de 2018. Esta ley entrará a regir a partir del 1 de enero del año siguiente de su expedición y no será aplicable a los testamentos que hayan sido depositados en notaría antes de la vigencia de la presente ley, los cuales seguirán regulados por la legislación anterior (Art. [[art. 22 CC|22]] ).
 
+(DONACIÓN DE ESPECIES IMPUTABLES A LA LEGÍTIMA)
+
 ---
 ← [[art. 1262 CC]] · ↑ [[CC - Libro Tercero - Título V - Capítulo III|Capítulo III]] · [[art. 1264 CC]] →

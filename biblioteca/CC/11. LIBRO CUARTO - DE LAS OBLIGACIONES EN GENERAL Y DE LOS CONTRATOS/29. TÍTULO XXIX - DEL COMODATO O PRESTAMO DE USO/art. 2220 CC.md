@@ -29,7 +29,9 @@ tags:
 
 Se entiende precario cuando no se presta la cosa para un servicio particular, ni se fija tiempo para su restitución.
 
-Constituye también precaria <sic> la tenencia de una cosa ajena, sin previo contrato y por ignorancia o mera tolerancia del dueño.
+(sic)
+
+Constituye también precaria la tenencia de una cosa ajena, sin previo contrato y por ignorancia o mera tolerancia del dueño.
 
 ---
 ← [[art. 2219 CC]] · ↑ [[CC - Libro Cuarto - Título XXIX|Título XXIX]] · [[art. 2221 CC]] →

@@ -30,7 +30,9 @@ tags:
 
 Para que valga la tradición se requiere un título traslaticio de dominio, como el de venta, permuta, donación, etc.
 
-<Aparte subrayado CONDICIONALMENTE exequible> Se requiere, además, que el título sea válido respecto de la persona a quien se confiere. Así el título de donación irrevocable no transfiere el dominio entre cónyuges .
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+Se requiere, además, que el título sea válido respecto de la persona a quien se confiere. Así el título de donación irrevocable no transfiere el dominio entre cónyuges .
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'cónyuges' declarada CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-456-20 de 21 de octubre de 2020, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, 'bajo el entendido de que estas expresiones se refieren, en igualdad de derechos y deberes, a los cónyuges y a los compañeros permanentes de las uniones maritales de hecho, tanto de parejas de distinto sexo como de parejas del mismo sexo.' .
 

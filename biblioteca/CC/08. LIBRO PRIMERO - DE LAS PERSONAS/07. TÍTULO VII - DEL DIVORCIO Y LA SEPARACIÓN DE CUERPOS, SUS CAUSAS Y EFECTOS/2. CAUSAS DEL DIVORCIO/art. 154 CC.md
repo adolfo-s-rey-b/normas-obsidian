@@ -36,7 +36,9 @@ tags:
 
 <Artículo modificado por el artículo [[art. 6 Ley 25 de 1992|6]] de la Ley 25 de 1992. El nuevo texto es el siguiente:> Son causales de divorcio:
 
-1\. <Aparte tachado INEXEQUIBLE> Las relaciones sexuales extramatrimoniales de uno de los cónyuges , ~~salvo que el demandante las haya consentido, facilitado o perdonado~~.
+> [!warning] Aparte tachado INEXEQUIBLE
+
+1\. Las relaciones sexuales extramatrimoniales de uno de los cónyuges , ~~salvo que el demandante las haya consentido, facilitado o perdonado~~.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-821-05 de 9 de agosto de 2005, Magistrado Ponente Dr. Rodrigo Escobar Gil. - Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-660-00 del 8 de junio de 2000, Magistrado Ponente Dr. Alvaro Tafur Galvis.
 
@@ -48,7 +50,9 @@ tags:
 
 4\. La embriaguez habitual de uno de los cónyuges.
 
-5\. <Numeral CONDICIONALMENTE exequible> El uso habitual de sustancias alucinógenas o estupefacientes, salvo prescripción médica.
+> [!note] Numeral CONDICIONALMENTE exequible
+
+5\. El uso habitual de sustancias alucinógenas o estupefacientes, salvo prescripción médica.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Numeral 5 declarado CONDICIONALMENTE EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-096-24 de 3 de abril de 2024, Magistrada Ponente Dra. Paola Andrea Meneses Mosquera, 'en el entendido de que no da lugar al pago de alimentos previsto en el numeral 4 del artículo [[art. 411 CC|411]] del Código Civil ni a la revocación de las donaciones que hubiere hecho por causa del matrimonio el cónyuge que reclama la disolución del vínculo matrimonial, prevista en el artículo [[art. 162 CC|162]] del Código Civil.'
 

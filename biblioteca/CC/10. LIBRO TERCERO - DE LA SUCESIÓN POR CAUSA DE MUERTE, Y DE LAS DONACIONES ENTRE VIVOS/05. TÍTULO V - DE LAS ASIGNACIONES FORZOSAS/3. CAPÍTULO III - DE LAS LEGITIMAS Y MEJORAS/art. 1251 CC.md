@@ -30,7 +30,7 @@ tags:
 
 ## Artículo 1251
 
-EXCESO EN EL MONTO DE LAS LEGÍTIMAS. <Artículo CONDICIONALMENTE exequible> <Artículo modificado por el artículo [[art. 10 Ley 1934 de 2018|10]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> Si lo que se ha dado o se da en razón de legítimas, excediere a la mitad del acervo imaginario, el exceso se imputará a la mitad de libre disposición, con exclusión del cónyuge sobreviviente, en el caso del artículo [[art. 1236 CC|1236]] , inciso 2, todo ello sin perjuicio de cualquier otro objeto de libre disposición, a que el difunto las haya destinado.
+EXCESO EN EL MONTO DE LAS LEGÍTIMAS. <Artículo modificado por el artículo [[art. 10 Ley 1934 de 2018|10]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> Si lo que se ha dado o se da en razón de legítimas, excediere a la mitad del acervo imaginario, el exceso se imputará a la mitad de libre disposición, con exclusión del cónyuge sobreviviente, en el caso del artículo [[art. 1236 CC|1236]] , inciso 2, todo ello sin perjuicio de cualquier otro objeto de libre disposición, a que el difunto las haya destinado.
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 10 Ley 1934 de 2018|10]] de la Ley 1934 de 2018, 'por medio de la cual se reforma y adiciona el Código Civil', publicada en el Diario Oficial No. 50.673 de 2 de agosto de 2018. Esta ley entrará a regir a partir del 1 de enero del año siguiente de su expedición y no será aplicable a los testamentos que hayan sido depositados en notaría antes de la vigencia de la presente ley, los cuales seguirán regulados por la legislación anterior (Art. [[art. 22 CC|22]] ).
 

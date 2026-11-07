@@ -33,9 +33,13 @@ En primer lugar, el que tenga según el inciso 10.
 
 En segundo, el que tenga según los incisos 1o. y 4o.
 
-<Inciso CONDICIONALMENTE exequible> En tercero, el que tenga según los incisos 2o. y 5o.
+> [!note] Inciso CONDICIONALMENTE exequible
 
-<Inciso CONDICIONALMENTE exequible> En cuarto, el que tenga según los incisos 3o. y 6o.
+En tercero, el que tenga según los incisos 2o. y 5o.
+
+> [!note] Inciso CONDICIONALMENTE exequible
+
+En cuarto, el que tenga según los incisos 3o. y 6o.
 
 En quinto, el que tenga según los incisos 7o. y 8o.
 

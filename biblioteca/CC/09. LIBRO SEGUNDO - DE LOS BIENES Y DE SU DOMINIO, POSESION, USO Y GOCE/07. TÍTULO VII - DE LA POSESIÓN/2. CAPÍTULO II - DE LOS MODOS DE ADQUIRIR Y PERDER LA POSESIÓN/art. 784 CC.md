@@ -37,5 +37,7 @@ tags:
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-534-05 de 24 de mayo de 2005, Magistrado Ponente Dr. Humberto Antonio Sierra Porto. Corte Suprema de Justicia: - Artículo declarado exequible por la Corte Suprema de Justicia, mediante Sentencia No. 18 del 4 de mayo de 1989, magistrado Ponente Dr. Hernando Gómez Otálora.
 
+(sic)
+
 ---
 ← [[art. 783 CC]] · ↑ [[CC - Libro Segundo - Título VII - Capítulo II|Capítulo II]] · [[art. 785 CC]] →

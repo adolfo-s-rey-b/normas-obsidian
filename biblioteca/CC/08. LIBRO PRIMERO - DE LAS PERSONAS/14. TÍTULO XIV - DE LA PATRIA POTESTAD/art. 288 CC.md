@@ -14,6 +14,7 @@ titulo: "[[CC - Libro Primero - Título XIV|TÍTULO XIV - DE LA PATRIA POTESTAD]
 vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 19 Ley 75 de 1968]]"
+  - "[[art. 24 Decreto 2820 de 1974]]"
 anterior: "[[art. 287 CC]]"
 siguiente: "[[art. 289 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
@@ -33,7 +34,11 @@ tags:
 
 La patria potestad es el conjunto de derechos que la ley reconoce a los padres sobre sus hijos no emancipados, para facilitar a aquéllos el cumplimiento de los deberes que su calidad les impone.
 
-<Aparte tachado INEXEQUIBLE> <Inciso modificado por el artículo [[art. 24 Decreto 2820 de 1974|24]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:> Corresponde a los padres, conjuntamente, el ejercicio de la patria potestad sobre sus hijos ~~legítimos.~~ A falta de uno de los padres, la ejercerá el otro.
+> [!warning] Aparte tachado INEXEQUIBLE
+
+> [!info] Inciso modificado por el artículo [[art. 24 Decreto 2820 de 1974|24]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
+
+Corresponde a los padres, conjuntamente, el ejercicio de la patria potestad sobre sus hijos ~~legítimos.~~ A falta de uno de los padres, la ejercerá el otro.
 
 Los hijos no emancipados son hijos de familia, y el padre o madre con relación a ellos, padre o madre de familia.
 

@@ -25,7 +25,7 @@ tags:
 
 ## Artículo 37
 
-<GRADOS DE CONSANGUINIDAD> . Los grados de consanguinidad entre dos personas se cuentan por el número de generaciones. Así, el nieto está en segundo grado de consanguinidad con el abuelo, y dos primos hermanos en cuarto grado de consanguinidad entre sí.
+Los grados de consanguinidad entre dos personas se cuentan por el número de generaciones. Así, el nieto está en segundo grado de consanguinidad con el abuelo, y dos primos hermanos en cuarto grado de consanguinidad entre sí.
 
 ---
 ← [[art. 36 CC]] · ↑ [[CC - Capítulo V|Capítulo V]] · [[art. 38 CC]] →

@@ -29,5 +29,7 @@ tags:
 
 Los estatutos de una corporación tienen fuerza obligatoria sobre ella, y sus miembros están obligados a obedecerlos bajo las penas que los mismos estatutos impongan.
 
+(DERECHO DE POLICIA CORRECCIONAL)
+
 ---
 ← [[art. 640 CC]] · ↑ [[CC - Libro Primero - Título XXXVI|Título XXXVI]] · [[art. 642 CC]] →

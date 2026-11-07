@@ -34,5 +34,7 @@ Pero si no fuere posible dejar de obrar sin comprometer gravemente al mandante, 
 
 Compete al mandatario probar la fuerza mayor o caso fortuito que la imposibilitó de llevar a efecto las órdenes del mandante.
 
+(sic)
+
 ---
 ← [[art. 2175 CC]] · ↑ [[CC - Libro Cuarto - Título XXVIII - Capítulo II|Capítulo II]] · [[art. 2177 CC]] →

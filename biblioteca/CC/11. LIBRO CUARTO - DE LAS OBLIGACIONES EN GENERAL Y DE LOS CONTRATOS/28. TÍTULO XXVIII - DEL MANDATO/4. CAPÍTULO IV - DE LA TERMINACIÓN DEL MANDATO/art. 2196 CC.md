@@ -32,5 +32,7 @@ Los herederos del mandatario que fueren hábiles para la administración de sus 
 
 A igual responsabilidad estarán sujetos los albaceas, los tutores y curadores, y todos aquéllos que sucedan en la administración de los bienes del mandatario que ha fallecido o se ha hecho incapaz.
 
+(sic)
+
 ---
 ← [[art. 2195 CC]] · ↑ [[CC - Libro Cuarto - Título XXVIII - Capítulo IV|Capítulo IV]] · [[art. 2197 CC]] →

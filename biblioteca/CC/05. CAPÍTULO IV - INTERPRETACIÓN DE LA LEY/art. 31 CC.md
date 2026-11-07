@@ -25,7 +25,7 @@ tags:
 
 ## Artículo 31
 
-<INTERPRETACIÓN SOBRE LA EXTENSIÓN DE UNA LEY> . Lo favorable u odioso de una disposición no se tomará en cuenta para ampliar o restringir su interpretación. La extensión que deba darse a toda ley se determinará por su genuino sentido, y según las reglas de interpretación precedentes.
+Lo favorable u odioso de una disposición no se tomará en cuenta para ampliar o restringir su interpretación. La extensión que deba darse a toda ley se determinará por su genuino sentido, y según las reglas de interpretación precedentes.
 
 ---
 ← [[art. 30 CC]] · ↑ [[CC - Capítulo IV|Capítulo IV]] · [[art. 32 CC]] →

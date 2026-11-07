@@ -25,7 +25,7 @@ tags:
 
 ## Artículo 28
 
-<SIGNIFICADO DE LAS PALABRAS> . Las palabras de la ley se entenderán en su sentido natural y obvio, según el uso general de las mismas palabras; pero cuando el legislador las haya definido expresamente para ciertas materias, se les dará en éstas su significado legal.
+Las palabras de la ley se entenderán en su sentido natural y obvio, según el uso general de las mismas palabras; pero cuando el legislador las haya definido expresamente para ciertas materias, se les dará en éstas su significado legal.
 
 ---
 ← [[art. 27 CC]] · ↑ [[CC - Capítulo IV|Capítulo IV]] · [[art. 29 CC]] →

@@ -31,5 +31,7 @@ Se puede representar al ascendiente cuya herencia se ha repudiado.
 
 Se puede, asimismo, representar al incapaz, al indigno, al desheredado y al que repudió la herencia del difunto.
 
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
 ---
 ← [[art. 1043 CC]] · ↑ [[CC - Libro Tercero - Título II|Título II]] · [[art. 1045 CC]] →

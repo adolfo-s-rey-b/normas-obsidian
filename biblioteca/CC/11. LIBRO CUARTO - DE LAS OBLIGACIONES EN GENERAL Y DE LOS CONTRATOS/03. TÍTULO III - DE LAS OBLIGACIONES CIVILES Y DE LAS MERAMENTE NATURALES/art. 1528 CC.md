@@ -29,5 +29,7 @@ tags:
 
 La sentencia judicial que rechaza la acción intentada contra el naturalmente obligado, no extingue la obligación natural.
 
+(sic)
+
 ---
 ← [[art. 1527 CC]] · ↑ [[CC - Libro Cuarto - Título III|Título III]] · [[art. 1529 CC]] →

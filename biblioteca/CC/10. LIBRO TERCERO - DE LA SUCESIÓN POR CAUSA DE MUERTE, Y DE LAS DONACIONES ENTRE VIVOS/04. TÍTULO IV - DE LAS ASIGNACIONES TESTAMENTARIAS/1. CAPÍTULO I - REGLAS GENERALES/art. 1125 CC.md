@@ -30,7 +30,9 @@ tags:
 
 Si el cumplimiento de una asignación se dejare al arbitrio de un heredero o legatario, a quien aprovechare rehusarla, será el heredero o legatario obligado a llevarla a efecto, a menos que pruebe justo motivo para no hacerlo así. Si de rehusar la asignación no resultare utilidad al heredero o legatario, no será obligado a justificar su resolución, cualquiera que sea.
 
-<Aparte subrayado CONDICIONALMENTE exequible> El provecho de un ascendiente o descendiente, de un cónyuge o de un hermano o cuñado, se reputará, para el efecto de esta disposición, provecho de dicho heredero o legatario.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+El provecho de un ascendiente o descendiente, de un cónyuge o de un hermano o cuñado, se reputará, para el efecto de esta disposición, provecho de dicho heredero o legatario.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'cónyuge' declarada CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-456-20 de 21 de octubre de 2020, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, 'bajo el entendido de que estas expresiones se refieren, en igualdad de derechos y deberes, a los cónyuges y a los compañeros permanentes de las uniones maritales de hecho, tanto de parejas de distinto sexo como de parejas del mismo sexo.' .
 

@@ -12,7 +12,9 @@ epigrafe: "BIENES INCLUIDOS EN LA CESIÓN"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XIV|TÍTULO XIV - DE LOS MODOS DE EXTINGUIRSE LAS OBLIGACIONES Y PRIMERAMENTE DE LA SOLUCIÓN O PAGO EFECTIVO]]"
 capitulo: "[[CC - Libro Cuarto - Título XIV - Capítulo IX|CAPÍTULO IX - DEL PAGO POR CESIÓN DE BIENES O POR ACCIÓN EJECUTIVA DEL ACREEDOR O ACREEDORES]]"
-vigencia: "vigente"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 3 CC]]"
 derogado_por:
   - "[[art. 3 Ley 11 de 1984]]"
   - "[[art. 13 Ley 34 de 1936]]"
@@ -28,7 +30,7 @@ fecha_extraccion: 2026-11-07
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XIV|Título XIV]] › [[CC - Libro Cuarto - Título XIV - Capítulo IX|Capítulo IX]]
@@ -39,7 +41,9 @@ La cesión comprenderá todos los bienes, derechos y acciones del deudor, except
 
 No son embargables:
 
-1o.) <Numeral modificado por el artículo [[art. 3 CC|3]]o. de la Ley 11 de 1984. El nuevo texto es el siguiente:> No es embargable el salario mínimo legal o convencional.
+> [!info] Numeral modificado por el artículo [[art. 3 CC|3]]o. de la Ley 11 de 1984. El nuevo texto es el siguiente:
+
+1o.) No es embargable el salario mínimo legal o convencional.
 
 > [!warning] Notas de vigencia: Numeral modificado por el artículo [[art. 3 Ley 11 de 1984|3]] de la Ley 11 de 1984, publicada en el Diario Oficial No. 36.517, de 30 de abril de 1984. - Artículo [[art. 13 Ley 34 de 1936|13]] de la Ley 34 de 1936 derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil - Decreto 1400 de 1970, publicado en el Diario Oficial No. 33.150 de 21 de septiembre de 1970. - Numeral modificado por el artículo [[art. 13 Ley 34 de 1936|13]] de la Ley 34 de 1936, publicada en el Diario Oficial No. 23.129, de 7 de marzo de 1936.
 

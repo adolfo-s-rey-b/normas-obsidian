@@ -28,7 +28,7 @@ tags:
 
 ## Artículo 1302. ACTO DE HEREDERO SIN INVENTARIO SOLEMNE QUE LES PRECEDA
 
-(sic) El que hace acto al <sic> heredero, sin previo inventario solemne, sucede en todas las obligaciones transmisibles del difunto, a prorrata de su cuota hereditaria, aunque le impongan un gravamen que exceda al valor de los bienes que hereda.
+(sic) El que hace acto al heredero, sin previo inventario solemne, sucede en todas las obligaciones transmisibles del difunto, a prorrata de su cuota hereditaria, aunque le impongan un gravamen que exceda al valor de los bienes que hereda.
 
 Habiendo precedido inventario solemne, gozará del beneficio de inventario.
 

@@ -30,7 +30,7 @@ tags:
 
 ## Artículo 152. CAUSALES Y EFECTOS DE LA DISOLUCIÓN
 
-<Artículo modificado por el artículo [[art. 5 CC|5]]o. de la Ley 25 de 1992. El nuevo texto es el siguiente:> <Ver Notas del Editor>
+<Artículo modificado por el artículo [[art. 5 CC|5]]o. de la Ley 25 de 1992. El nuevo texto es el siguiente:>
 
 El matrimonio civil se disuelve por la muerte real o presunta de uno de los cónyuges o por divorcio judicialmente decretado.
 

@@ -32,7 +32,7 @@ tags:
 
 Los que no tienen la libre administración de sus bienes no pueden repudiar una asignación a título universal, ni una asignación de bienes raíces o de bienes muebles que valgan más de mil pesos, sin autorización judicial, con conocimiento de causa.
 
-<Incisos 2o. y 3o. derogados por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.>
+> [!warning] Incisos 2o. y 3o. derogados por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 
 > [!warning] Notas de vigencia: Incisos 2 y 3 derogados por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

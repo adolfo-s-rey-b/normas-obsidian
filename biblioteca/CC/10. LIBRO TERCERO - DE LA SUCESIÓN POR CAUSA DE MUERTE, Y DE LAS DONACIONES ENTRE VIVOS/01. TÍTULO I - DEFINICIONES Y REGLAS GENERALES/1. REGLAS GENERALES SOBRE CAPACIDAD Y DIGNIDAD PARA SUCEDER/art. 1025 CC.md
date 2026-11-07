@@ -34,11 +34,15 @@ INDIGNIDAD SUCESORAL. <Artículo modificado por el artículo [[art. 1 Ley 1893 d
 
 1\. El que ha cometido el crimen de homicidio en la persona del difunto o ha intervenido en este crimen por obra o consejo, o la dejó perecer pudiendo salvarla.
 
-2\. <Aparte subrayado CONDICIONALMENTE exequible> El que cometió atentado grave contra la vida, el honor o los bienes de la persona de cuya sucesión se trata, o de su cónyuge o de cualquiera de sus ascendientes o descendientes, con tal que dicho atentado se pruebe por sentencia ejecutoriada.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+2\. El que cometió atentado grave contra la vida, el honor o los bienes de la persona de cuya sucesión se trata, o de su cónyuge o de cualquiera de sus ascendientes o descendientes, con tal que dicho atentado se pruebe por sentencia ejecutoriada.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'cónyuge' declarada CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-456-20 de 21 de octubre de 2020, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, 'bajo el entendido de que estas expresiones se refieren, en igualdad de derechos y deberes, a los cónyuges y a los compañeros permanentes de las uniones maritales de hecho, tanto de parejas de distinto sexo como de parejas del mismo sexo.' .
 
-3\. <Numeral CONDICIONALMENTE exequible> El consanguíneo dentro del sexto grado inclusive que en el estado de demencia o destitución de la persona de cuya sucesión se trata no la socorrió pudiendo.
+> [!note] Numeral CONDICIONALMENTE exequible
+
+3\. El consanguíneo dentro del sexto grado inclusive que en el estado de demencia o destitución de la persona de cuya sucesión se trata no la socorrió pudiendo.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Numeral declarado CONDICIONALMENTE EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-156-22 de 5 de mayo de 2022, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, ' bajo el entendido de que también comprende a los parientes civiles hasta el sexto grado inclusive '.
 

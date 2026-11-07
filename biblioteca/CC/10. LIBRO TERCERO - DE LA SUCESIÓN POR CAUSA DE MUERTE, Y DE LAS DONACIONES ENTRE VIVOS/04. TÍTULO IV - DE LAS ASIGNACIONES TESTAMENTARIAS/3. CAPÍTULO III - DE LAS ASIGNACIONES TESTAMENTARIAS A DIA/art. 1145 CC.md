@@ -37,7 +37,9 @@ La asignación de prestaciones periódicas es intransmisible por causa de muerte
 
 Si es a favor de una corporación o fundación no podrá durar más de diez años.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 1 Ley 791 de 2002|1]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002; el cual establece: 'Redúzcase a diez (10) años el término de todos <sic> las prescripciones veintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas.' - Artículo modificado por el artículo [[art. 1 Ley 50 de 1936|1]] de la Ley 50 de 1936, publicada en el Diario Oficial No. 23.160, del 17 de abril de 1936; el cual establece: 'Redúcese a veinte años el término de todas las prescripciones treintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas, la extintiva de censos, etc. '.
+(sic)
+
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 1 Ley 791 de 2002|1]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002; el cual establece: 'Redúzcase a diez (10) años el término de todos las prescripciones veintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas.' - Artículo modificado por el artículo [[art. 1 Ley 50 de 1936|1]] de la Ley 50 de 1936, publicada en el Diario Oficial No. 23.160, del 17 de abril de 1936; el cual establece: 'Redúcese a veinte años el término de todas las prescripciones treintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas, la extintiva de censos, etc. '.
 
 ---
 ← [[art. 1144 CC]] · ↑ [[CC - Libro Tercero - Título IV - Capítulo III|Capítulo III]] · [[art. 1146 CC]] →

@@ -34,7 +34,7 @@ El marido no será responsable con sus bienes, sino cuando hubiere accedido como
 
 Será asimismo responsable, a prorrata del beneficio que hubiese reportado de las obligaciones contraídas por la mujer; comprendiendo en este beneficio el de la familia común, en la parte en que de derecho haya él debido proveer a las necesidades de ésta.
 
-<Ver Notas del Editor> La simple autorización no le constituye responsable.
+La simple autorización no le constituye responsable.
 
 > [!note] Notas del Editor: Para la interpretación de este inciso debe tenerse en cuenta las reformas civiles sobre régimen patrimonial en el matrimonio introducidas por la Ley 28 de 1932, publicada en el Diario Oficial No. 22.139, de 17 de noviembre de 1932.
 

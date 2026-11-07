@@ -33,7 +33,11 @@ tags:
 
 Un descendiente no puede ser desheredado sino por alguna de las causas siguientes:
 
-1a.) <Aparte subrayado CONDICIONALMENTE exequible> <Palabra tachada INEXEQUIBLE> Por haber cometido injuria grave contra el testador en su persona, honor o bienes, o en la persona, honor o bienes de su cónyuge , o de cualquiera de sus ascendientes o descendientes ~~legítimos~~.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+> [!warning] Palabra tachada INEXEQUIBLE
+
+1a.) Por haber cometido injuria grave contra el testador en su persona, honor o bienes, o en la persona, honor o bienes de su cónyuge , o de cualquiera de sus ascendientes o descendientes ~~legítimos~~.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'cónyuge' declarada CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-456-20 de 21 de octubre de 2020, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, 'bajo el entendido de que estas expresiones se refieren, en igualdad de derechos y deberes, a los cónyuges y a los compañeros permanentes de las uniones maritales de hecho, tanto de parejas de distinto sexo como de parejas del mismo sexo.' . '(...) la posible configuración del fenómeno de la cosa juzgada constitucional (...). Respecto de la segunda cuestión previa, se estableció que, si bien se configuraba el fenómeno de la cosa juzgada constitucional, el contexto jurídico y social en el cual se juzgó la constitucionalidad de las normas demandadas había variado de manera sustancial, en especial en lo que tiene que ver con los derechos de las parejas del mismo sexo y con la interpretación del artículo [[art. 42 CPol|42]] de la Constitución Política. ' - En la parte resolutiva de la Sentencia C-174-96 del 29 de abril de 1996. Magistrado Ponente Dr.Jorge Arango Mejía, se declara la exequibilidad de los apartes demandados de este numeral, sinembargo en la parte motiva no se encuentra claramente especificado el o los apartes demandados. Se tiene en cuenta entonces el carácter de la demanda en la cual pretende el demandante que la Corte Constitucional reforme una serie de normas que se refieren a los cónyuges, a la sociedad conyugal, a la porción conyugal, etc. - Artículo declarado EXEQUIBLE, excepto la palabra 'legítimos' tachada declarada INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-105-94 del 10 de marzo de 1994, Magistrado Ponente Dr. Jorge Arango Mejía.
 
@@ -47,7 +51,9 @@ Un descendiente no puede ser desheredado sino por alguna de las causas siguiente
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Numeral 4) declarado exequible por la Corte Constitucional mediante Sentencia C-344-93 de agosto 26 de 1993
 
-5a.) <Inciso INEXEQUIBLE> ~~Por haber cometido un delito a que se haya aplicado alguna de las penas designadas en el número 4o. del artículo [[art. 315 CC|315]]~~, ~~o por haberse abandonado a los vicios o ejercido granjerías infames; a menos que se pruebe que el testador no cuidó de la educación del desheredado~~.
+> [!warning] Inciso INEXEQUIBLE
+
+5a.) ~~Por haber cometido un delito a que se haya aplicado alguna de las penas designadas en el número 4o. del artículo [[art. 315 CC|315]]~~, ~~o por haberse abandonado a los vicios o ejercido granjerías infames; a menos que se pruebe que el testador no cuidó de la educación del desheredado~~.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Inciso primero declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-430-03 de 27 de mayo de 2003, Magistrado Ponente Dr. Alfredo Beltrán Sierra.
 

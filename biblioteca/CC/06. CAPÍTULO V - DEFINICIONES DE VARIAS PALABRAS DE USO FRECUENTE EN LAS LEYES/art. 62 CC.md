@@ -37,13 +37,17 @@ tags:
 
 Las personas incapaces de celebrar negocios serán representadas:
 
-1\. <Ordinal modificado por el artículo [[art. 1 Decreto 772 de 1975|1]] del Decreto 772 de 1975. El nuevo texto es el siguiente:> Por los padres, quienes ejercerán conjuntamente la patria potestad sobre sus hijos menores de 21* años.
+> [!info] Ordinal modificado por el artículo [[art. 1 Decreto 772 de 1975|1]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
+
+1\. Por los padres, quienes ejercerán conjuntamente la patria potestad sobre sus hijos menores de 21* años.
 
 > [!note] Notas del Editor: * La Ley 27 de 1977, publicada en el Diario Oficial No. 34.902, de 4 de noviembre de 1977, estableció la mayoría de edad a los 18 años.
 
 Si falta uno de los padres la representación legal será ejercida por el otro.
 
-<Aparte tachado INEXEQUIBLE, aparte subrrayado CONDICIONALMENTE exequible> ~~Cuando se trate de hijos extramatrimoniales~~, no tiene la patria potestad, ni puede ser nombrado guardador, el padre o la madre declarado tal en juicio contradictorio . Igualmente, podrá el juez con conocimiento de causa y a petición de parte, conferir la patria potestad exclusivamente a uno de los padres, o poner bajo guarda al hijo, si lo considera más conveniente a los intereses de este. La guarda pondrá fin a la patria potestad en los casos que el artículo [[art. 315 CC|315]] contempla como causales de emancipación judicial; en los demás casos la suspenderá.
+> [!warning] Aparte tachado INEXEQUIBLE, aparte subrrayado CONDICIONALMENTE exequible
+
+~~Cuando se trate de hijos extramatrimoniales~~, no tiene la patria potestad, ni puede ser nombrado guardador, el padre o la madre declarado tal en juicio contradictorio . Igualmente, podrá el juez con conocimiento de causa y a petición de parte, conferir la patria potestad exclusivamente a uno de los padres, o poner bajo guarda al hijo, si lo considera más conveniente a los intereses de este. La guarda pondrá fin a la patria potestad en los casos que el artículo [[art. 315 CC|315]] contempla como causales de emancipación judicial; en los demás casos la suspenderá.
 
 > [!info] Notas de Vigencia: Ordinal modificado por el artículo [[art. 1 Decreto 772 de 1975|1]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975.
 

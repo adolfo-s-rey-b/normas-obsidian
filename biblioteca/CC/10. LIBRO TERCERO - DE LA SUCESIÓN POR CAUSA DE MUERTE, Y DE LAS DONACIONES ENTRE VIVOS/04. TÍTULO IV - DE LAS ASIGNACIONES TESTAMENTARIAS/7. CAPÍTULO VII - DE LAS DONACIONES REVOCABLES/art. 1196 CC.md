@@ -32,7 +32,9 @@ Son nulas las donaciones revocables de personas que no pueden testar o donar ent
 
 Son nulas, así mismo, las entre personas que no pueden recibir asignaciones testamentarias o donaciones entre vivos una de otra.
 
-<Aparte subrayado CONDICIONALMENTE exequible> Sin embargo, las donaciones entre cónyuges valen como donaciones revocables.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+Sin embargo, las donaciones entre cónyuges valen como donaciones revocables.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'cónyuges' declarada CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-456-20 de 21 de octubre de 2020, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, 'bajo el entendido de que estas expresiones se refieren, en igualdad de derechos y deberes, a los cónyuges y a los compañeros permanentes de las uniones maritales de hecho, tanto de parejas de distinto sexo como de parejas del mismo sexo.' . - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-534-05 de 24 de mayo de 2005, Magistrado Ponente Dr. Humberto Antonio Sierra Porto. - Mediante Sentencia C-1031-02 de 27 de noviembre de 2002, Magistrado Ponente Dr. Rodrigo Escobar Gil, la Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda.
 

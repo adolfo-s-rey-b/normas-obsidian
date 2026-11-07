@@ -36,9 +36,11 @@ tags:
 
 > [!info] Artículo modificado por el artículo [[art. 7 CC|7]]o. del Decreto 772 de 1975. El nuevo texto es el siguiente:
 
-La patria potestad se suspende, con respecto a cualquiera de los padres, por su demencia, por estar en entredicho de administrar sus propios bienes y por su larga ausencia. Así mismo, termina por las causales contempladas en el artículo [[art. 315 CC|315]]; pero si éstas se dan respecto de ambos ~~cónyuges~~ <padres>, se aplicará lo dispuesto en dicho artículo.
+La patria potestad se suspende, con respecto a cualquiera de los padres, por su demencia, por estar en entredicho de administrar sus propios bienes y por su larga ausencia. Así mismo, termina por las causales contempladas en el artículo [[art. 315 CC|315]]; pero si éstas se dan respecto de ambos ~~cónyuges~~ , se aplicará lo dispuesto en dicho artículo.
 
-Cuando la patria potestad se suspenda respecto de ambos ~~cónyuges~~ <padres>, mientras dure la suspensión se dará guardador al hijo no habilitado de edad*.
+(padres)
+
+Cuando la patria potestad se suspenda respecto de ambos ~~cónyuges~~ , mientras dure la suspensión se dará guardador al hijo no habilitado de edad*.
 
 > [!warning] Notas del Editor: * La Ley 27 de 1977, publicada en el Diario Oficial No. 34.902, de 4 de noviembre de 1977, estableció la mayoría de edad a los 18 años, El artículo [[art. 340 CC|340]] del Código Civil otorgaba la habilitación de edad a partir de los 18 años. En este sentido quedó derogada la habilitación de edad.
 

@@ -310,7 +310,9 @@ Diario Oficial No. 2.867 de 31 de mayo de 1873
 
 CÓDIGO CIVIL DE LOS ESTADOS UNIDOS DE COLOMBIA.
 
-Los textos encerrados entre los símbolos <...> fueron agregados por el editor, con el único propósito de facilitar la consulta de este documento legal. Dichos textos no corresponden a la edición del Código de Civil Nacional original.
+(...)
+
+Los textos encerrados entre los símbolos fueron agregados por el editor, con el único propósito de facilitar la consulta de este documento legal. Dichos textos no corresponden a la edición del Código de Civil Nacional original.
 
 <En la edición número 2.867 del Diario Oficial de 31 de mayo de 1873 aparece la siguiente nota en el léxico castellano de la época: "Esta lei, por ser demasiado estensa, será publicada mas tarde".
 
@@ -333,6 +335,8 @@ DECRETA:
 <Para la interpretación de este Título debe consultarse el Decreto 2737 de 1989, Código del Menor, Sección Qunta (Art. [[art. 88 CC|88]] a [[art. 128 CC|128]] ) mediante el cual se reglamentó el tema de la adopción.>
 
 <A partir de los seis meses de su promulgación, entra en vigencia la Ley 1098 de 2006, publicada en el Diario Oficial No. 46.446 de 8 de noviembre de 2006, "por la cual se expide el Código de la Infancia y la Adolescencia", deroga parcialmente el Código del Menor y los artículos [[art. 60 CC|60]] a [[art. 78 CC|78]] entran a reglamentar el tema de la adopción.>
+
+(sic)
 
 ## Firmas
 

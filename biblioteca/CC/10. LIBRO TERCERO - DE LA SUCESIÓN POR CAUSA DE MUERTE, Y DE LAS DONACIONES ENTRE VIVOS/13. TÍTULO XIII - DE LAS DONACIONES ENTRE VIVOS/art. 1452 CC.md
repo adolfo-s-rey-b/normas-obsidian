@@ -29,9 +29,13 @@ tags:
 
 No hay donación en el comodato de un objeto cualquiera, aunque su uso o goce costumbre a darse en arriendo.
 
-Tampoco lo <sic> hay en el mutuo sin interés.
+(sic)
 
-Pero lo <sic> hay en la remisión o cesión del derecho de percibir los réditos de un capital colocado a interés o a censo.
+Tampoco lo hay en el mutuo sin interés.
+
+(sic)
+
+Pero lo hay en la remisión o cesión del derecho de percibir los réditos de un capital colocado a interés o a censo.
 
 ---
 ← [[art. 1451 CC]] · ↑ [[CC - Libro Tercero - Título XIII|Título XIII]] · [[art. 1453 CC]] →

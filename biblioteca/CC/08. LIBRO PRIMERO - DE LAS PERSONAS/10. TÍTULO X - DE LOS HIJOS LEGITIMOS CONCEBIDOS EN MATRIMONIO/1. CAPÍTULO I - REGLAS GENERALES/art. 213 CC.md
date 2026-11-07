@@ -36,5 +36,7 @@ tags:
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional: - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-562-04 de 1 de junio de 2004, Magistrado Ponente Dr. Jaime Araujo Rentería. - Mediante Sentencia C-1298-01 de 6 de diciembre de 2001, Magistrada Ponente Dra. Clara Inés Vargas Hernández, la Corte Constitucional se declaró INHIBIDA de fallar sobre la expresión 'legítimos' contenida en este artículo por ineptitud de la demanda.
 
+> [!note] Inciso CONDICIONALMENTE exequible
+
 ---
 ← [[art. 212 CC]] · ↑ [[CC - Libro Primero - Título X - Capítulo I|Capítulo I]] · [[art. 214 CC]] →

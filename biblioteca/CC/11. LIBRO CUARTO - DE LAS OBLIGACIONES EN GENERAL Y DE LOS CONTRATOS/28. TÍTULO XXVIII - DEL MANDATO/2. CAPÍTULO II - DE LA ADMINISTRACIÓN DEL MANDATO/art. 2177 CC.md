@@ -28,7 +28,7 @@ tags:
 
 ## Artículo 2177. CONTRATACIÓN DEL MANDATARIO
 
-(sic) El mandatario puede, en el ejercicio de su cargo, contestar <sic> a su propio nombre o al del mandante; si contrata a su propio nombre no obliga respecto de terceros al mandante.
+(sic) El mandatario puede, en el ejercicio de su cargo, contestar a su propio nombre o al del mandante; si contrata a su propio nombre no obliga respecto de terceros al mandante.
 
 ---
 ← [[art. 2176 CC]] · ↑ [[CC - Libro Cuarto - Título XXVIII - Capítulo II|Capítulo II]] · [[art. 2178 CC]] →

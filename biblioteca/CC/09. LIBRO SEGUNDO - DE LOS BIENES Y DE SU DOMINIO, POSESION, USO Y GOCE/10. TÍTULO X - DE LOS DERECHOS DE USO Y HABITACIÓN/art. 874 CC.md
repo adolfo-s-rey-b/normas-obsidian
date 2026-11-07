@@ -35,7 +35,11 @@ En las necesidades personales del usuario o del habitador se comprenden las de s
 
 La familia comprende la mujer y los hijos; tanto los que existen al momento de la constitución, como los que sobrevienen después, y esto aun cuando el usuario o habitador no esté casado, ni haya reconocido hijo alguno a la fecha de la constitución.
 
-<Aparte tachado INEXEQUIBLE> Comprende, asimismo, el número de ~~sirvientes~~* <empledados o trabajadores> necesarios para la familia.
+> [!warning] Aparte tachado INEXEQUIBLE
+
+(empledados o trabajadores)
+
+Comprende, asimismo, el número de ~~sirvientes~~* necesarios para la familia.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'sirvientes' tachada declarada INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-552-19 de 19 de noviembre de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera, debe sustituirse por las expresiones 'trabajadores' o 'empleados'.
 

@@ -38,7 +38,9 @@ tags:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 7 Ley 791 de 2002|7]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002.
 
-> [!note] Notas del Editor: * Para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 1 Ley 791 de 2002|1]] de la Ley 791 de 2002, cuyo texto original establece: 'ARTÍCULO 1. Redúzcase a diez (10) años el término de todos <sic> las prescripciones veintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas.'
+(sic)
+
+> [!note] Notas del Editor: * Para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 1 Ley 791 de 2002|1]] de la Ley 791 de 2002, cuyo texto original establece: 'ARTÍCULO 1. Redúzcase a diez (10) años el término de todos las prescripciones veintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas.'
 
 ---
 ← [[art. 2532 CC]] · ↑ [[CC - Libro Cuarto - Título XLI - Capítulo II|Capítulo II]] · [[art. 2534 CC]] →

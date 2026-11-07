@@ -33,7 +33,9 @@ La nulidad a que se contrae el número 1o del artículo [[art. 140 CC|140]] no p
 
 No habrá lugar a la nulidad del matrimonio por error, si el que lo ha padecido hubiere continuado en la cohabitación después de haber conocido el error.
 
-ARTÍCULO (NULIDAD POR MATRIMONIO DE IMPÚBER) 143. <NULIDAD POR MATRIMONIO DE IMPÚBER>. <Artículo modificado por el artículo [[art. 6 Ley 2447 de 2025|6]] de la Ley 2447 de 2025. El nuevo texto es el siguiente:> La nulidad a que se contrae el número 2 del mismo artículo [[art. 140 CC|140]] , mientras uno o ambos contrayentes sea menor de 18 años, puede ser promovida por el padre o la madre, o por aquellos con asistencia de un curador para la litis; por el guardador del niño, niña o adolescente; o por el Defensor de Familia, el Ministerio Público o los Comisarios de Familia o cualquier persona como garantes de los derechos y el interés superior de los niños, niñas y adolescentes.
+(NULIDAD POR MATRIMONIO DE IMPÚBER)
+
+ARTÍCULO (NULIDAD POR MATRIMONIO DE IMPÚBER) 143. . <Artículo modificado por el artículo [[art. 6 Ley 2447 de 2025|6]] de la Ley 2447 de 2025. El nuevo texto es el siguiente:> La nulidad a que se contrae el número 2 del mismo artículo [[art. 140 CC|140]] , mientras uno o ambos contrayentes sea menor de 18 años, puede ser promovida por el padre o la madre, o por aquellos con asistencia de un curador para la litis; por el guardador del niño, niña o adolescente; o por el Defensor de Familia, el Ministerio Público o los Comisarios de Familia o cualquier persona como garantes de los derechos y el interés superior de los niños, niñas y adolescentes.
 
 Una vez el niño, niña o adolescente alcance los 18 años, la acción de nulidad sólo la podrá ejercer este o el otro contrayente. En los casos en que haya violencia, podrá ser ejercida también por el Defensor de Familia, el Ministerio Público o los Comisarios de Familia.
 

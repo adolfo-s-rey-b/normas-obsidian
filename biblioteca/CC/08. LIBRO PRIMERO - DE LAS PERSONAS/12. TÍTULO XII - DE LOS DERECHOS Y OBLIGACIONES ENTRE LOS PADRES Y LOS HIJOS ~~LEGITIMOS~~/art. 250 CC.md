@@ -34,7 +34,9 @@ tags:
 
 Los hijos deben respeto y obediencia a sus padres.
 
-<Inciso adicionado por el artículo [[art. 1 CC|1]]o. de la Ley 29 de 1982. El inciso adicionado es el siguiente:> Los hijos son legítimos, extramatrimoniales y adoptivos y tendrán iguales derechos y obligaciones.
+> [!info] Inciso adicionado por el artículo [[art. 1 CC|1]]o. de la Ley 29 de 1982. El inciso adicionado es el siguiente:
+
+Los hijos son legítimos, extramatrimoniales y adoptivos y tendrán iguales derechos y obligaciones.
 
 > [!info] Notas de Vigencia: Inciso adicionado por el artículo [[art. 1 CC|1]]o. de la Ley 29 de 1982, publicada en el Diario Oficial No. 35.961, del 9 de marzo de 1982. - Artículo modificado por el artículo [[art. 18 Decreto 2820 de 1974|18]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

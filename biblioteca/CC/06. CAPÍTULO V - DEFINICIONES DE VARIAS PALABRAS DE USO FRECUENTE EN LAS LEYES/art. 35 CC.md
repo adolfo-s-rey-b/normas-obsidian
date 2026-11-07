@@ -25,7 +25,7 @@ tags:
 
 ## Artículo 35
 
-<PARENTESCO DE CONSANGUINIDAD> . Parentesco de consanguinidad es la relación o conexión que existe entre las personas que descienden de un mismo tronco o raíz, o que están unidas por los vínculos de la sangre.
+Parentesco de consanguinidad es la relación o conexión que existe entre las personas que descienden de un mismo tronco o raíz, o que están unidas por los vínculos de la sangre.
 
 ---
 ← [[art. 34 CC]] · ↑ [[CC - Capítulo V|Capítulo V]] · [[art. 36 CC]] →

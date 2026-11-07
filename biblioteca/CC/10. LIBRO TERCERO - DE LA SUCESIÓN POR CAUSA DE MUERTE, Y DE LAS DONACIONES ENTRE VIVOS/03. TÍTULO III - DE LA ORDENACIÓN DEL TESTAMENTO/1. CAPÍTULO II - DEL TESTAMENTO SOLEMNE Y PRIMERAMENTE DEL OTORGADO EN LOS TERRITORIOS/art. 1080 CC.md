@@ -50,7 +50,7 @@ Si el testador no pudiere firmar al tiempo del otorgamiento, firmará por él ot
 
 Durante el otorgamiento estarán presentes, además del testador, un mismo notario y unos mismo testigos, y no habrá interrupción alguna sino en los breves intervalos en que algún accidente lo exigiere.
 
-<Artículo adicionado por la Ley 36 de 1931, con el siguiente texto:>
+> [!info] Artículo adicionado por la Ley 36 de 1931, con el siguiente texto:
 
 "ARTÍCULO 1o. Inmediatamente después del acto en que el testador presenta al Notario y a los testigos la escritura en que declara que se contiene su testamento, según el artículo [[art. 1080 CC|1080]] del Código Civil, se deberá extender una escritura pública en que conste el lugar, día, mes y año de la constitución del testamento cerrado; el nombre y apellido del Notario; el nombre y apellido, domicilio y vecindad del testador y cada uno de los testigos; la edad del otorgante, la circunstancia de hallarse éste en su entero y cabal juicio, el lugar de sus nacimiento y la nación a que pertenece.
 

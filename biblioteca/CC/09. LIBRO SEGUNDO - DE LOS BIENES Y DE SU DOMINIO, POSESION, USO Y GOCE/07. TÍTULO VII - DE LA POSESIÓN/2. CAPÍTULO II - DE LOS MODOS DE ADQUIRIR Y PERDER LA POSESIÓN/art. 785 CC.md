@@ -28,7 +28,7 @@ tags:
 
 ## Artículo 785. POSESIÓN DE BIENES SUJETOS A REGISTRO
 
-(sic) Si la cosa es de aquellas cuya tradición deba hacerse por inscripción en el registro de instrumentos públicos, nadie podrá adquirir la posesión de ellas <sic> sino por este medio.
+(sic) Si la cosa es de aquellas cuya tradición deba hacerse por inscripción en el registro de instrumentos públicos, nadie podrá adquirir la posesión de ellas sino por este medio.
 
 > [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia: - Artículo declarado exequible por la Corte Suprema de Justicia, mediante Sentencia del 18 de febrero de 1972.
 

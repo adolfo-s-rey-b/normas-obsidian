@@ -28,7 +28,7 @@ tags:
 
 ## Artículo 95. CONMORIENCIA
 
-(sic) Si por haber perecido dos o más personas en un mismo acontecimiento, como en un naufragio, incendio, ruina o batalla, o por otra causa cualquiera que no pudiere saberse el orden en que han ocurrido sus fallecimientos, se procederá en todos <sic> casos como si dichas personas hubiesen perecido en un mismo momento y ninguna de ellas hubiese sobrevivido a las otras.
+(sic) Si por haber perecido dos o más personas en un mismo acontecimiento, como en un naufragio, incendio, ruina o batalla, o por otra causa cualquiera que no pudiere saberse el orden en que han ocurrido sus fallecimientos, se procederá en todos casos como si dichas personas hubiesen perecido en un mismo momento y ninguna de ellas hubiese sobrevivido a las otras.
 
 ---
 ← [[art. 94 CC]] · ↑ [[CC - Libro Primero - Título II - Capítulo II|Capítulo II]] · [[art. 96 CC]] →

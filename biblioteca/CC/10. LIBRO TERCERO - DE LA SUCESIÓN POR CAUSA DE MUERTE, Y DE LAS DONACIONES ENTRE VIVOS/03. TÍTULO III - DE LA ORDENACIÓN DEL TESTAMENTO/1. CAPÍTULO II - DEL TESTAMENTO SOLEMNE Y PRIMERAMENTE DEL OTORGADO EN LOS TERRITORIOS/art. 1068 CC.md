@@ -17,6 +17,7 @@ modificado_por:
   - "[[art. 4 Ley 8 de 1922]]"
   - "[[art. 59 Decreto 2820 de 1974]]"
 derogado_por:
+  - "[[art. 4 CC]]"
   - "[[art. 61 Ley 1996 de 2019]]"
 anterior: "[[art. 1067 CC]]"
 siguiente: "[[art. 1069 CC]]"
@@ -35,7 +36,9 @@ tags:
 
 No podrán ser testigos en un testamento solemne, otorgado en los territorios:
 
-1o.) <Numeral derogado por el artículo [[art. 4 CC|4]]o. de la Ley 8a. de 1922>.
+> [!warning] Numeral derogado por el artículo [[art. 4 CC|4]]o. de la Ley 8a. de 1922
+
+1o.) .
 
 > [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 4 Ley 8 de 1922|4]] de la Ley 8 de 1922.
 
@@ -47,19 +50,27 @@ No podrán ser testigos en un testamento solemne, otorgado en los territorios:
 
 4o.) Todos los que actualmente se hallaren privados de la razón.
 
-5o.) <Numeral inexequible> ~~Los ciegos~~
+> [!warning] Numeral inexequible
+
+5o.) ~~Los ciegos~~
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Numeral declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-065-03 de 4 de febrero de 2003, Magistrado Ponente Dr. Alfredo Beltrán Sierra.
 
-6o.) <Numeral inexequible> ~~Los sordos~~
+> [!warning] Numeral inexequible
+
+6o.) ~~Los sordos~~
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Numeral declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-065-03 de 4 de febrero de 2003, Magistrado Ponente Dr. Alfredo Beltrán Sierra.
 
-7o.) <Numeral inexequible> ~~Los mudos.~~
+> [!warning] Numeral inexequible
+
+7o.) ~~Los mudos.~~
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Numeral declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-065-03 de 4 de febrero de 2003, Magistrado Ponente Dr. Alfredo Beltrán Sierra.
 
-8o.) <Aparte subrayado CONDICIONALMENTE exequible> Los condenados a alguna de las penas designadas en el artículo [[art. 315 CC|315]] , número 4o , y en general, los que por sentencia ejecutoriada estuvieren inhabilitados para ser testigos.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+8o.) Los condenados a alguna de las penas designadas en el artículo [[art. 315 CC|315]] , número 4o , y en general, los que por sentencia ejecutoriada estuvieren inhabilitados para ser testigos.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-230-03 de 18 de marzo de 2003, Magistrado Ponente Dr. Alfredo Beltrán Sierra, 'la exequibilidad se hace en el entendido que la prohibición de ser testigo en un testamento solemne tendrá como tiempo máximo de duración el equivalente al término de la pena prevista para el hecho punible'.
 
@@ -69,11 +80,17 @@ No podrán ser testigos en un testamento solemne, otorgado en los territorios:
 
 11.) Las personas que no entienden el idioma del testador, sin perjuicio de lo dispuesto en el artículo [[art. 1081 CC|1081]] .
 
-12.) <Numeral CONDICIONALMENTE exequible> Los ascendientes, descendientes y parientes dentro del tercer grado de consanguinidad, o segundo de afinidad del otorgante o del funcionario público que autorice el testamento.
+> [!note] Numeral CONDICIONALMENTE exequible
+
+12.) Los ascendientes, descendientes y parientes dentro del tercer grado de consanguinidad, o segundo de afinidad del otorgante o del funcionario público que autorice el testamento.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Numeral declarado CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-416-22 de 23 de noviembre de 2022, Magistrado Ponente Dr. Alejandro Linares Cantillo.
 
-13.) <Aparte subrayado CONDICIONALMENTE exequible> <Numeral modificado por el artículo [[art. 59 Decreto 2820 de 1974|59]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:> El cónyuge del testador.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+> [!info] Numeral modificado por el artículo [[art. 59 Decreto 2820 de 1974|59]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
+
+13.) El cónyuge del testador.
 
 > [!info] Notas de vigencia: Numeral modificado por el artículo [[art. 59 Decreto 2820 de 1974|59]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

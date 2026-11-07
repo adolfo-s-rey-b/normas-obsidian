@@ -30,7 +30,7 @@ tags:
 
 ## Artículo 1264
 
-<DONACIÓN DE ESPECIES IMPUTABLES A LA LEGÍTIMA>. <Artículo modificado por el artículo [[art. 16 Ley 1934 de 2018|16]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> DONACIÓN DE ESPECIES IMPUTABLES A LA LEGÍTIMA O MEJORA. Si al donatario de especies, que deban imputarse a su legítima, le cupiere definitivamente una cantidad no inferior a la que valgan las mismas especies, tendrá derecho a conservarlas y exigir el saldo, y no podrá obligar a los demás asignatarios a que le cambien las especies, o le den su valor en dinero.
+<Artículo modificado por el artículo [[art. 16 Ley 1934 de 2018|16]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> DONACIÓN DE ESPECIES IMPUTABLES A LA LEGÍTIMA O MEJORA. Si al donatario de especies, que deban imputarse a su legítima, le cupiere definitivamente una cantidad no inferior a la que valgan las mismas especies, tendrá derecho a conservarlas y exigir el saldo, y no podrá obligar a los demás asignatarios a que le cambien las especies, o le den su valor en dinero.
 
 Y si le cupiere definitivamente una cantidad inferior al valor de las mismas especies, y estuviere obligado a pagar un saldo, podrá, a su arbitrio, hacer este pago en dinero, o restituir una o más de dichas especies, y exigir la debida compensación pecuniaria, por lo que el valor actual de las especies que restituya excediere el saldo que debe.
 

@@ -31,7 +31,9 @@ tags:
 
 Los alimentos que se deben por ley, se entienden concedidos para toda la vida del alimentario, continuando las circunstancias que legitimaron la demanda.
 
-<Aparte subrayado CONDICIONALMENTE exequible> Con todo, ningún varón de aquéllos a quienes sólo se deben alimentos necesarios, podrá pedirlos después que haya cumplido veintiún* años, salvo que por algún impedimento corporal o mental, se halle inhabilitado para subsistir de su trabajo ; pero si posteriormente se inhabilitare, revivirá la obligación de alimentarle.
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
+
+Con todo, ningún varón de aquéllos a quienes sólo se deben alimentos necesarios, podrá pedirlos después que haya cumplido veintiún* años, salvo que por algún impedimento corporal o mental, se halle inhabilitado para subsistir de su trabajo ; pero si posteriormente se inhabilitare, revivirá la obligación de alimentarle.
 
 > [!note] Notas del Editor: * La Ley 27 de 1977, publicada en el Diario Oficial No. 34.902, de 4 de noviembre de 1977, estableció la mayoría de edad a los 18 años.
 

@@ -34,7 +34,7 @@ tags:
 
 ## Artículo 214. IMPUGNACIÓN DE LA PATERNIDAD
 
-<Artículo modificado por el artículo [[art. 2 Ley 1060 de 2006|2]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> <Inciso CONDICIONALMENTE exequible> El hijo que nace después de expirados los ciento ochenta días subsiguientes al matrimonio o a la declaración de la unión marital de hecho, se reputa concebido en el vínculo y tiene por padres a los cónyuges o a los compañeros permanentes, excepto en los siguientes casos:
+<Artículo modificado por el artículo [[art. 2 Ley 1060 de 2006|2]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> El hijo que nace después de expirados los ciento ochenta días subsiguientes al matrimonio o a la declaración de la unión marital de hecho, se reputa concebido en el vínculo y tiene por padres a los cónyuges o a los compañeros permanentes, excepto en los siguientes casos:
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso declarado CONDICIONALMENTE EXEQUIBLE, 'en el entendido que para el caso de los hijos nacidos durante la unión marital de hecho, la contabilización del término de ciento ochenta días se empezará a contar desde cuando se acredite el inicio de la convivencia entre los padres' por la Corte Constitucional mediante Sentencia C-131-18 de 28 de noviembre de 2018, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado.
 

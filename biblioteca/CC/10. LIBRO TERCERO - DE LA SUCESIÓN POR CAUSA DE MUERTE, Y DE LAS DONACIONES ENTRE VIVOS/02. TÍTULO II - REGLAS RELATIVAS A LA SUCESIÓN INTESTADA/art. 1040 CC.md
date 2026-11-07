@@ -32,7 +32,9 @@ tags:
 
 > [!info] Artículo subrogado por el artículo [[art. 2 CC|2]]o. de la Ley 29 de 1982. El nuevo texto es el siguiente:
 
-<Aparte subrayado y el letra itálica CONDICIONALMENTE exequible> Son llamados a sucesión intestada: los descendientes; los hijos adoptivos; los ascendientes; los padres adoptantes ; los hermanos; los hijos de éstos ; el cónyuge supérstite; el Instituto Colombiano de Bienestar Familiar.
+> [!note] Aparte subrayado y el letra itálica CONDICIONALMENTE exequible
+
+Son llamados a sucesión intestada: los descendientes; los hijos adoptivos; los ascendientes; los padres adoptantes ; los hermanos; los hijos de éstos ; el cónyuge supérstite; el Instituto Colombiano de Bienestar Familiar.
 
 > [!note] Notas del Editor: Además de lo dispuesto en este artículo, tener en cuenta lo dispuesto en el artículo [[art. 7 CC|7]] de la Ley 2388 de 26 de julio de 2024, 'por medio de la cual se dictan disposiciones sobre la familia de crianza', publicada en el Diario Oficial No. 52.829 de 26 de julio de 2024. Rige a partir de su promulgación.. Cuyo texto original establece: (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 7o. LA FAMILIA DE CRIANZA EN LAS SUCESIONES. La familia de crianza tendrá, en materia de sucesión testada o intestada, la calidad de herederos o legatarios, teniendo en cuenta los derechos y obligaciones que suscita el Libro Tercero, Título I, II y III de la ley 84 de 1873.'.
 

@@ -31,7 +31,9 @@ Las nulidades a que se contraen los números 5o y 6o no podrán declararse sino 
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso 1o. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-533-00 del 10 de mayo de 2001 de Magistrado Ponente Dr. Vladimiro Naranjo Mesa.
 
-<Inciso CONDICIONALMENTE exequible> No habrá lugar a la nulidad por las causas expresadas en dichos incisos, si después de que los cónyuges quedaron en libertad, han vivido juntos por el espacio de tres meses, sin reclamar.
+> [!note] Inciso CONDICIONALMENTE exequible
+
+No habrá lugar a la nulidad por las causas expresadas en dichos incisos, si después de que los cónyuges quedaron en libertad, han vivido juntos por el espacio de tres meses, sin reclamar.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso 2o. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-533-00 del 10 de mayo de 2001 de Magistrado Ponente Dr. Vladimiro Naranjo Mesa, 'bajo el entendido de que la cohabitación a que se refieren sea en todo caso voluntaria y libre, y dejando a salvo el derecho de demostrar, en todo tiempo, que ella no tuvo por objeto convalidar el matrimonio.'.
 

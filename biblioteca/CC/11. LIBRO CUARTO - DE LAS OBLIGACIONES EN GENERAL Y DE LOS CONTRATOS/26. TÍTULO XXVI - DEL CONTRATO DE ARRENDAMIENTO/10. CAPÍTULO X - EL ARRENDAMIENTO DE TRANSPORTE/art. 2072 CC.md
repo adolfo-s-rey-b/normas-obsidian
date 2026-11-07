@@ -34,7 +34,11 @@ El acarreador es responsable del daño o perjuicio que sobrevenga a la persona, 
 
 Es asimismo responsable de la destrucción y deterioro de la carga, a menos que se haya estipulado lo contrario, o que se pruebe vicio de la carga, fuerza mayor o caso fortuito.
 
-<Aparte tachado INEXEQUIBLE> Y tendrá lugar la responsabilidad del acarreador, no sólo por su propio hecho, sino por el de sus agentes o ~~sirvientes~~* <empleados o trabajadores>.
+> [!warning] Aparte tachado INEXEQUIBLE
+
+(empleados o trabajadores)
+
+Y tendrá lugar la responsabilidad del acarreador, no sólo por su propio hecho, sino por el de sus agentes o ~~sirvientes~~* .
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'sirvientes' declarada INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-390-17 de 14 de junio de 2017, Magistrada Ponente Dra. Cristina Pardo Schlesinger, 'la cual en lo sucesivo debe ser sustituida por la expresión 'empleados' o 'trabajadores' .'
 

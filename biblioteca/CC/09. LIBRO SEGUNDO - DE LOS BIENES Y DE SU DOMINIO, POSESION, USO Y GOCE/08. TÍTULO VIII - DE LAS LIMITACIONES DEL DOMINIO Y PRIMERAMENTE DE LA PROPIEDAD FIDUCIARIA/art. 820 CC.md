@@ -31,7 +31,9 @@ El fideicomisario, mientras pende la condición, no tiene derecho ninguno sobre 
 
 Podrá, sin embargo, impetrar las providencias conservatorias que le convengan, si la propiedad pareciere peligrar o deteriorarse en manos del fiduciario.
 
-<Aparte tachado INEXEQUIBLE> Tendrán el mismo derecho los ascendientes ~~legítimos~~ del fideicomisario que todavía no existe y cuya existencia se espera, y los personeros o representantes de las corporaciones y fundaciones interesadas.
+> [!warning] Aparte tachado INEXEQUIBLE
+
+Tendrán el mismo derecho los ascendientes ~~legítimos~~ del fideicomisario que todavía no existe y cuya existencia se espera, y los personeros o representantes de las corporaciones y fundaciones interesadas.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-046-17 de 1 de febrero de 2017, Magistrado Ponente Dr. Luis Guillermo Guerrero Pérez.
 

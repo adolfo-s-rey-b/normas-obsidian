@@ -31,7 +31,9 @@ tags:
 
 Los tutores y curadores, y en general, los que administran bienes ajenos, por disposición de la ley, no podrán proceder a la partición de las herencias o de los bienes raíces en que tengan parte sus pupilos, sin autorización judicial.
 
-<Inciso 2o. derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974>.
+> [!warning] Inciso 2o. derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974
+
+.
 
 > [!warning] Notas de vigencia: Inciso 2o. derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

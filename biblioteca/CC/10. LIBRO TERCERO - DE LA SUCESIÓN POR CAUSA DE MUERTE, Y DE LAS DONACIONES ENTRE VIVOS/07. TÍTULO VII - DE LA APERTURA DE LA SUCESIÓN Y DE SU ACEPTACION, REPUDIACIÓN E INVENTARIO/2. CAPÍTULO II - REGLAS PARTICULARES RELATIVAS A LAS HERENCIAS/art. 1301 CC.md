@@ -30,5 +30,7 @@ tags:
 
 La enajenación de cualquier efecto hereditario, aun para objeto de administración urgente, es acto de heredero, si no ha sido autorizada por el juez, a petición del heredero, protestando éste que no es su ánimo obligarse en calidad de tal.
 
+(sic)
+
 ---
 ← [[art. 1300 CC]] · ↑ [[CC - Libro Tercero - Título VII - Capítulo II|Capítulo II]] · [[art. 1302 CC]] →

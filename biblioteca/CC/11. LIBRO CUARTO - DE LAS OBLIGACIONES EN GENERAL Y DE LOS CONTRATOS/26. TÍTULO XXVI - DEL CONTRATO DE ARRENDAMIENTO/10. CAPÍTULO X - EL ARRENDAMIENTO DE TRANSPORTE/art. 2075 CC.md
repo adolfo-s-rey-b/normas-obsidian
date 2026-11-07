@@ -32,7 +32,7 @@ tags:
 
 > [!warning] Aparte tachado INEXEQUIBLE
 
-(trabajadores o empleados) El que ha contratado con el acarreador para el transporte de una persona o carga, es obligado a pagar el precio o flete del transporte y el resarcimiento de daños ocasionados por hecho o culpa del pasajero o de su familia o ~~sirvientes~~ <trabajadores o empleados>, o por el vicio de la carga.
+(trabajadores o empleados) El que ha contratado con el acarreador para el transporte de una persona o carga, es obligado a pagar el precio o flete del transporte y el resarcimiento de daños ocasionados por hecho o culpa del pasajero o de su familia o ~~sirvientes~~ , o por el vicio de la carga.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'sirvientes' declarada INEXEQUIBLES por la Corte Constitucional mediante Sentencia C-383-17 de 14 de junio de 2017, Magistrado Ponente Dr. Luis Guillermo Guerrero Pérez, 'la que se sustituye por la expresión 'trabajadores o empleados'.
 

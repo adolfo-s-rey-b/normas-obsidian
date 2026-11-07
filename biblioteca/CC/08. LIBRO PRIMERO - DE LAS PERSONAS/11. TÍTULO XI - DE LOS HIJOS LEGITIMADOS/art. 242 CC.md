@@ -31,7 +31,7 @@ tags:
 
 El que necesite de tutor o curador para la administración de sus bienes no podrá aceptar ni repudiar la legitimación sino por el ministerio o con el consentimiento de su tutor o curador general o de un curador especial, y previo decreto judicial, con conocimiento de causa.
 
-<Inciso segundo derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.>
+> [!warning] Inciso segundo derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 
 > [!warning] Notas de vigencia: Inciso segundo derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

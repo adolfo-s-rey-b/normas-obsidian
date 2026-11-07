@@ -30,5 +30,7 @@ El contexto de la ley servirá para ilustrar el sentido de cada una de sus parte
 
 Los pasajes oscuros de una ley pueden ser ilustrados por medio de otras leyes, particularmente si versan sobre el mismo asunto.
 
+(INTERPRETACIÓN SOBRE LA EXTENSIÓN DE UNA LEY)
+
 ---
 ← [[art. 29 CC]] · ↑ [[CC - Capítulo IV|Capítulo IV]] · [[art. 31 CC]] →

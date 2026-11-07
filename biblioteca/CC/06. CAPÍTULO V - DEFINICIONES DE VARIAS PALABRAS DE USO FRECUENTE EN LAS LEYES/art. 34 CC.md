@@ -42,5 +42,7 @@ Las expresiones mayor de edad o mayor, empleadas en las leyes comprenden a los m
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-507-04 de 25 de mayo de 2004, Magistrado Ponente Dr. Manuel José Cepeda Espinosa.
 
+(PARENTESCO DE CONSANGUINIDAD)
+
 ---
 ← [[art. 33 CC]] · ↑ [[CC - Capítulo V|Capítulo V]] · [[art. 35 CC]] →

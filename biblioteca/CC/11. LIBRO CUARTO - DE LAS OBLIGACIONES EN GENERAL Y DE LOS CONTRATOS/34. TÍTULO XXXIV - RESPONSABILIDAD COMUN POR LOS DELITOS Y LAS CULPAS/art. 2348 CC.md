@@ -29,5 +29,15 @@ tags:
 
 Los padres serán siempre responsables del daño causado por las culpas o los delitos cometidos por sus hijos menores, y que conocidamente provengan de mala educación o de hábitos viciosos que les han dejado adquirir.
 
+(empleadores)
+
+(trabajadores)
+
+(trabajadores)
+
+(empleadores)
+
+(trabajadores)
+
 ---
 ← [[art. 2347 CC]] · ↑ [[CC - Libro Cuarto - Título XXXIV|Título XXXIV]] · [[art. 2349 CC]] →

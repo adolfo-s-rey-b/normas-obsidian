@@ -26,7 +26,7 @@ tags:
 
 ## Artículo 642
 
-<DERECHO DE POLICIA CORRECCIONAL>. Toda corporación tiene sobre sus miembros el derecho de policía correccional que sus estatutos le confieran, y ejercerá este derecho en conformidad a ellos.
+Toda corporación tiene sobre sus miembros el derecho de policía correccional que sus estatutos le confieran, y ejercerá este derecho en conformidad a ellos.
 
 ---
 ← [[art. 641 CC]] · ↑ [[CC - Libro Primero - Título XXXVI|Título XXXVI]] · [[art. 643 CC]] →

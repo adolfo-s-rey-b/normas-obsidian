@@ -30,5 +30,7 @@ tags:
 
 El precio de la conducción de una mujer no se aumenta por el hecho de parir en el viaje, aunque el acarreador haya ignorado que estaba encinta.
 
+(trabajadores o empleados)
+
 ---
 ← [[art. 2073 CC]] · ↑ [[CC - Libro Cuarto - Título XXVI - Capítulo X|Capítulo X]] · [[art. 2075 CC]] →
