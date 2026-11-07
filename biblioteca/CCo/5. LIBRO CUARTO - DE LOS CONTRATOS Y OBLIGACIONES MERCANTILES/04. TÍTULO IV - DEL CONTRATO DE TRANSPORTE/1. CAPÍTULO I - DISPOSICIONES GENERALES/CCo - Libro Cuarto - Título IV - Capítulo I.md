@@ -1,0 +1,45 @@
+---
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "DISPOSICIONES GENERALES"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título IV|TÍTULO IV - DEL CONTRATO DE TRANSPORTE]]"
+articulos: "arts. 981 a 999"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título IV|Título IV]]
+
+## CAPÍTULO I - DISPOSICIONES GENERALES
+
+*Arts. 981 a 999*
+
+### Contenido
+
+- [[art. 981 CCo|Artículo 981]] — CONTRATO DE TRANSPORTE
+- [[art. 982 CCo|Artículo 982]] — OBLIGACIONES DEL TRANSPORTADOR
+- [[art. 983 CCo|Artículo 983]] — EMPRESAS DE TRANSPORTE
+- [[art. 984 CCo|Artículo 984]] — DELEGACIÓN DE LA CONDUCCIÓN A TERCEROS
+- [[art. 985 CCo|Artículo 985]] — FORMAS DE TRANSPORTE COMBINADO
+- [[art. 986 CCo|Artículo 986]] — PLURALIDAD DE TRANSPORTADORES REGLAS PARA DEFINIR LA RESPONSABILIDAD
+- [[art. 987 CCo|Artículo 987]] — TRANSPORTE MULTIMODAL
+- [[art. 988 CCo|Artículo 988]] — REPRESENTACIÓN POR PARTE DEL ÚLTIMO TRANSPORTADOR
+- [[art. 989 CCo|Artículo 989]] — CONDICIONES PARA EL CUMPLIMIENTO DE LA OBLIGACIÓN DEL TRANSPORTADOR
+- [[art. 990 CCo|Artículo 990]] — EJECUCIÓN DEL CONTRATO DE TRANSPORTE
+- [[art. 991 CCo|Artículo 991]] — RESPONSABILIDAD SOLIDARIA
+- [[art. 992 CCo|Artículo 992]] — EXONERACIÓN TOTAL O PARCIAL DE LA RESPONSABILIDAD DEL TRANSPORTADOR
+- [[art. 993 CCo|Artículo 993]] — PRESCRIPCIÓN DE ACCIONES
+- [[art. 994 CCo|Artículo 994]] — EXIGENCIA DE TOMAR SEGURO
+- [[art. 995 CCo|Artículo 995]] — TRANSPORTE BENÉVOLO O GRATUITO Y TRANSPORTE DE TRABAJADORES POR PARTE DEL PATRONO
+- [[art. 996 CCo|Artículo 996]] — TRANSPORTE PACTADO EN FORMA DE SUMINISTRO
+- [[art. 997 CCo|Artículo 997]] — REGLAMENTACIÓN
+- [[art. 998 CCo|Artículo 998]] — CONTINUIDAD DEL CONTRATO DE TRANSPORTE
+- [[art. 999 CCo|Artículo 999]] — REGLAMENTACIÓN Y APLICACIÓN DE DISPOSICIONES
+
+---
+↑ [[CCo - Libro Cuarto - Título IV|Título IV]] · [[CCo - Libro Cuarto - Título IV - Capítulo II|Capítulo II]] →

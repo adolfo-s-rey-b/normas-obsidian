@@ -1,0 +1,32 @@
+---
+aliases:
+  - "CGP CAPÍTULO II - Medidas cautelares en procesos ejecutivos"
+tipo: indice
+norma: "Ley 1564 de 2012"
+sigla: "CGP"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "Medidas cautelares en procesos ejecutivos"
+libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
+titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
+articulos: "arts. 599 a 602"
+tags:
+  - normas/indice
+  - normas/cgp
+---
+
+[[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]]
+
+## CAPÍTULO II - Medidas cautelares en procesos ejecutivos
+
+*Arts. 599 a 602*
+
+### Contenido
+
+- [[art. 599 CGP|Artículo 599]] — Embargo y secuestro
+- [[art. 600 CGP|Artículo 600]] — Reducción de embargos
+- [[art. 601 CGP|Artículo 601]] — Secuestro de bienes sujetos a registro
+- [[art. 602 CGP|Artículo 602]] — Consignación para impedir o levantar embargos y secuestros
+
+---
+← [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Cuarto - Título I|Título I]]

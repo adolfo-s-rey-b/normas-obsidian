@@ -1,0 +1,42 @@
+---
+aliases:
+  - "CCo art. 1094"
+  - "art. 1094 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 1094"
+  - "CCo 1094"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "1094"
+epigrafe: "PLURALIDAD O COEXISTENCIA DE SEGUROS-CONDICIONES"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título V|TÍTULO V - DEL CONTRATO DE SEGURO]]"
+capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo II|CAPÍTULO II - SEGUROS DE DAÑOS]]"
+seccion: "[[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|SECCIÓN I - PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS]]"
+vigencia: "vigente"
+anterior: "[[art. 1093 CCo]]"
+siguiente: "[[art. 1095 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1094"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título V|Título V]] › [[CCo - Libro Cuarto - Título V - Capítulo II|Capítulo II]] › [[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|Sección I]]
+
+## Artículo 1094. PLURALIDAD O COEXISTENCIA DE SEGUROS-CONDICIONES
+
+Hay pluralidad o coexistencia de seguros cuando éstos reúnan las condiciones siguientes:
+
+1\. Diversidad de aseguradores;
+
+2\. Identidad de asegurado;
+
+3\. Identidad de interés asegurado, y
+
+4\. Identidad de riesgo.
+
+---
+← [[art. 1093 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|Sección I]] · [[art. 1095 CCo]] →

@@ -1,0 +1,42 @@
+---
+aliases:
+  - "CCo CAPÍTULO IX - INDEMNIZACIÓN"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "IX"
+nombre: "INDEMNIZACIÓN"
+libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
+titulo: "[[CCo - Libro Quinto - Título XIII|TÍTULO XIII - DEL SEGURO MARÍTIMO]]"
+articulos: "arts. 1752 a 1765"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]] › [[CCo - Libro Quinto - Título XIII|Título XIII]]
+
+## CAPÍTULO IX - INDEMNIZACIÓN
+
+*Arts. 1752 a 1765*
+
+### Contenido
+
+- [[art. 1752 CCo|Artículo 1752]] — IMPORTE DE LA INDEMNIZACIÓN
+- [[art. 1753 CCo|Artículo 1753]] — VALOR DE LA INDEMNIZACIÓN EN CASO DE PÉRDIDA TOTAL
+- [[art. 1754 CCo|Artículo 1754]] — DETERMINACIÓN DE LA INDEMNIZACIÓN DE LA NAVE OBJETO DE AVERÍA
+- [[art. 1755 CCo|Artículo 1755]] — REGLAS PARA LOS CASOS DE PÉRDIDA PARCIAL DEL FLETE
+- [[art. 1756 CCo|Artículo 1756]] — REGLAS PARA LOS CASOS DE PÉRDIDA PARCIAL DE COSA DIFERENTE DE LA NAVE Y FLETE
+- [[art. 1757 CCo|Artículo 1757]] — PRORRATAGE DE COSAS HETEROGENEAS ASEGURADAS
+- [[art. 1758 CCo|Artículo 1758]] — RESPONSABILIDAD O PAGO DE CONTRIBUCIÓN DE AVERÍA COMÚN POR EL ASEGURADO
+- [[art. 1759 CCo|Artículo 1759]] — SEGURO DE RESPONSABILIDAD ANTE TERCERO
+- [[art. 1760 CCo|Artículo 1760]] — OBJETO ASEGURADO GARANTIZADO LIBRE DE AVERÍA - DERECHO A INDEMNIZACIÓN
+- [[art. 1761 CCo|Artículo 1761]] — OBJETO ASEGURADO GARANTIZADO LIBRE DE AVERÍA TOTAL O PARCIAL
+- [[art. 1762 CCo|Artículo 1762]] — OBJETO ASEGURADO LIBRE DE AVERÍA PARTICULAR BAJO PORCENTAJE DETERMINADO
+- [[art. 1763 CCo|Artículo 1763]] — RESPONSABILIDAD DEL ASEGURADOR POR PÉRDIDAS SUCESIVAS
+- [[art. 1764 CCo|Artículo 1764]] — PÓLIZA DE VALOR NO ESTIMADO POR IMPORTE DE INDEMNIZACIÓN
+- [[art. 1765 CCo|Artículo 1765]] — APLICACIÓN DE OTRAS NORMAS AL RÉGIMEN DE SEGUROS MARÍTIMOS
+
+---
+← [[CCo - Libro Quinto - Título XIII - Capítulo VIII|Capítulo VIII]] · ↑ [[CCo - Libro Quinto - Título XIII|Título XIII]] · [[CCo - Libro Quinto - Título XIII - Capítulo X|Capítulo X]] →

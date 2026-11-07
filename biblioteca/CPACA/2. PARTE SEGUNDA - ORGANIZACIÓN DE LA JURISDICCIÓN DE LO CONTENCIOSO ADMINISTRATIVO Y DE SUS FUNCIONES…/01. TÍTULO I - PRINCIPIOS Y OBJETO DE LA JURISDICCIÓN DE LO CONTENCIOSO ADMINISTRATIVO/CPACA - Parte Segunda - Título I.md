@@ -1,0 +1,30 @@
+---
+aliases:
+  - "CPACA TÍTULO I - PRINCIPIOS Y OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO"
+tipo: indice
+norma: "Ley 1437 de 2011"
+sigla: "CPACA"
+nivel: "TÍTULO"
+etiqueta: "I"
+nombre: "PRINCIPIOS Y OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO"
+parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
+articulos: "arts. 103 a 105"
+tags:
+  - normas/indice
+  - normas/cpaca
+---
+
+[[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]]
+
+## TÍTULO I - PRINCIPIOS Y OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
+
+*Arts. 103 a 105*
+
+### Contenido
+
+- [[art. 103 CPACA|Artículo 103]] — Objeto y principios
+- [[art. 104 CPACA|Artículo 104]] — De la Jurisdicción de lo Contencioso Administrativo
+- [[art. 105 CPACA|Artículo 105]] — Excepciones
+
+---
+↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título II|Título II]] →

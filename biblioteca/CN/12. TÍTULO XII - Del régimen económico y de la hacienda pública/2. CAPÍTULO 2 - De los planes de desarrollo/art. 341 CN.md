@@ -1,0 +1,209 @@
+---
+aliases:
+  - "CN art. 341"
+  - "art. 341 Constitución Política de 1991"
+  - "Constitución Política de 1991 art. 341"
+  - "CN 341"
+tipo: articulo
+norma: "Constitución Política de 1991"
+sigla: "CN"
+articulo: "341"
+titulo: "[[CN - Título XII|TÍTULO XII - Del régimen económico y de la hacienda pública]]"
+capitulo: "[[CN - Título XII - Capítulo 2|CAPÍTULO 2 - De los planes de desarrollo]]"
+vigencia: "vigente"
+anterior: "[[art. 340 CN]]"
+siguiente: "[[art. 342 CN]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#341"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cn
+  - vigencia/vigente
+---
+
+[[CN|CN]] › [[CN - Título XII|Título XII]] › [[CN - Título XII - Capítulo 2|Capítulo 2]]
+
+## Artículo 341
+
+El gobierno elaborará el Plan Nacional de Desarrollo con participación activa de las autoridades de planeación, de las entidades territoriales y del Consejo Superior de la Judicatura y someterá el proyecto correspondiente al concepto del Consejo Nacional de Planeación; oída la opinión del Consejo procederá a efectuar las enmiendas que considere pertinentes y presentará el proyecto a consideración del Congreso, dentro de los seis meses siguientes a la iniciación del período presidencial respectivo.
+
+Sustituida la expresión "Consejo Superior de la Judicatura" con "Consejo de Gobierno Judicial" por el Art 26 del Acto Legislativo 2 de 2015. Declarado INEXEQUIBLE, mediante Sentencia de la Corte Constitucional C-285 de 2016)
+
+Con fundamento en el informe que elaboren las comisiones conjuntas de asuntos económicos, cada corporación discutirá y evaluará el plan en sesión plenaria. Los desacuerdos con el contenido de la parte general, si los hubiere, no serán obstáculo para que el gobierno ejecute las políticas propuestas en lo que sea de su competencia. No obstante, cuando el gobierno decida modificar la parte general del plan deberá seguir el procedimiento indicado en el artículo siguiente.
+
+El Plan Nacional de Inversiones se expedirá mediante una ley que tendrá prelación sobre las demás leyes; en consecuencia, sus mandatos constituirán mecanismos idóneos para su ejecución y suplirán los existentes sin necesidad de la expedición de leyes posteriores, con todo, en las leyes anuales de presupuesto se podrán aumentar o disminuir las partidas y recursos aprobados en la ley del plan. Si el Congreso no aprueba el Plan Nacional de Inversiones Públicas en un término de tres meses después de presentado, el gobierno podrá ponerlo en vigencia mediante decreto con fuerza de ley.
+
+> [!note] Ver Ley 152 de 1994; Art. [[art. 25 Ley 152 de 1994|25]]
+
+> [!note] Ver Sentencia de la Corte Constitucional: C-1403-00
+
+El Congreso podrá modificar el Plan de Inversiones Públicas siempre y cuando se mantenga el equilibrio financiero. Cualquier incremento en las autorizaciones de endeudamiento solicitadas en el proyecto gubernamental o inclusión de proyectos de inversión no contemplados en él, requerirá el visto bueno del Gobierno Nacional.
+
+> [!note] Ver Constitución Política; Art. [[art. 71 CN|71]]; Art. [[art. 339 CN|339]]
+
+> [!note] Ver Acto Legislativo 1 de 2016; Art. [[art. 3 Acto Legislativo 1 de 2016|3]] (C.P Transitorio
+
+> [!note] Ver Ley 5 de 1992; Art. [[art. 119 Ley 5 de 1992|119]] Num. 3 Lit. g); Art. [[art. 169 Ley 5 de 1992|169]] Incs. 1 y 2; Art. [[art. 211 Ley 5 de 1992|211]] Inc. 4
+
+> [!note] Ver Ley 50 de 1993; Art. [[art. 3 Ley 50 de 1993|3]]
+
+> [!note] Ver Ley 88 de 1993
+
+> [!note] Ver Ley 99 de 1993
+
+> [!note] Ver Ley 135 de 1994; Art. [[art. 2 Ley 135 de 1994|2]]
+
+> [!note] Ver Ley 152 de 1994; Art. [[art. 22 Ley 152 de 1994|22]]
+
+> [!note] Ver Ley 179 de 1994; Art. [[art. 55 Ley 179 de 1994|55]]
+
+> [!note] Ver Ley 185 de 1995
+
+> [!note] Ver Ley 188 de 1995
+
+> [!note] Ver Ley 221 de 1995; Art. [[art. 2 Ley 221 de 1995|2]]
+
+> [!note] Ver Ley 231 de 1995; Art. [[art. 3 Ley 231 de 1995|3]]
+
+> [!note] Ver Ley 317 de 1996; Art. [[art. 2 Ley 317 de 1996|2]]
+
+> [!note] Ver Ley 334 de 1996; Art. [[art. 2 Ley 334 de 1996|2]]
+
+> [!note] Ver Ley 342 de 1996; Art. [[art. 2 Ley 342 de 1996|2]]
+
+> [!note] Ver Ley 355 de 1997; Art. [[art. 2 Ley 355 de 1997|2]]
+
+> [!note] Ver Ley 388 de 1997; Art. [[art. 18 Ley 388 de 1997|18]]
+
+> [!note] Ver Ley 483 de 1998; Art. [[art. 2 Ley 483 de 1998|2]]
+
+> [!note] Ver Ley 484 de 1998; Art. [[art. 2 Ley 484 de 1998|2]]
+
+> [!note] Ver Ley 508 de 1999
+
+> [!note] Ver Ley 751 de 2002
+
+> [!note] Ver Ley 812 de 2003
+
+> [!note] Ver Ley 966 de 2005
+
+> [!note] Ver Ley 983 de 2005; Art. [[art. 2 Ley 983 de 2005|2]]
+
+> [!note] Ver Ley 1022 de 2006; Art. [[art. 2 Ley 1022 de 2006|2]]
+
+> [!note] Ver Ley 1138 de 2007; Art. [[art. 6 Ley 1138 de 2007|6]]
+
+> [!note] Ver Ley 1263 de 2008
+
+> [!note] Ver Ley 1271 de 2009
+
+> [!note] Ver Ley 1272 de 2009
+
+> [!note] Ver Ley 1292 de 2009; Art. [[art. 3 Ley 1292 de 2009|3]]
+
+> [!note] Ver Ley 1308 de 2009
+
+> [!note] Ver Ley 1337 de 2009; Art. [[art. 4 Ley 1337 de 2009|4]]
+
+> [!note] Ver Ley 1339 de 2009
+
+> [!note] Ver Ley 1352 de 2009; Art. [[art. 2 Ley 1352 de 2009|2]]
+
+> [!note] Ver Ley 1353 de 2009
+
+> [!note] Ver Ley 1358 de 2009; Art. [[art. 2 Ley 1358 de 2009|2]]
+
+> [!note] Ver Ley 1417 de 2010; Art. [[art. 2 Ley 1417 de 2010|2]]
+
+> [!note] Ver Ley 1439 de 2011; Art. [[art. 4 Ley 1439 de 2011|4]]
+
+> [!note] Ver Ley 1450 de 2011
+
+> [!note] Ver Ley 1467 de 2011
+
+> [!note] Ver Ley 1495 de 2011
+
+> [!note] Ver Ley 1521 de 2012
+
+> [!note] Ver Ley 1522 de 2012
+
+> [!note] Ver Ley 1524 de 2012
+
+> [!note] Ver Ley 1525 de 2012
+
+> [!note] Ver Ley 1533 de 2012
+
+> [!note] Ver Ley 1534 de 2012
+
+> [!note] Ver Ley 1535 de 2012
+
+> [!note] Ver Ley 1538 de 2012
+
+> [!note] Ver Ley 1540 de 2012
+
+> [!note] Ver Ley 1541 de 2012
+
+> [!note] Ver Ley 1544 de 2012
+
+> [!note] Ver Ley 1545 de 2012
+
+> [!note] Ver Ley 1552 de 2012
+
+> [!note] Ver Ley 1553 de 2012
+
+> [!note] Ver Ley 1560 de 2012
+
+> [!note] Ver Ley 1576 de 2012
+
+> [!note] Ver Ley 1603 de 2012
+
+> [!note] Ver Ley 1646 de 2013
+
+> [!note] Ver Ley 1647 de 2013
+
+> [!note] Ver Ley 1649 de 2013
+
+> [!note] Ver Ley 1683 de 2013
+
+> [!note] Ver Ley 1684 de 2013
+
+> [!note] Ver Ley 1686 de 2013
+
+> [!note] Ver Ley 1704 de 2014
+
+> [!note] Ver Ley 1711 de 2014
+
+> [!note] Ver Ley 1713 de 2014
+
+> [!note] Ver Ley 1717 de 2014
+
+> [!note] Ver Ley 1723 de 2014
+
+> [!note] Ver Ley 1724 de 2014
+
+> [!note] Ver Ley 1726 de 2014
+
+> [!note] Ver Ley 1753 de 2015
+
+> [!note] Ver Ley 1772 de 2016; Art. [[art. 7 Ley 1772 de 2016|7]]
+
+> [!note] Ver Ley 1783 de 2016; Art. [[art. 10 Ley 1783 de 2016|10]]
+
+> [!note] Ver Ley 1808 de 2016; Art. [[art. 8 Ley 1808 de 2016|8]]
+
+> [!note] Ver Ley 1852 de 2017; Art. [[art. 3 Ley 1852 de 2017|3]]
+
+> [!note] Ver Ley 1899 de 2018; Art. [[art. 2 Ley 1899 de 2018|2]]
+
+> [!note] Ver Ley 1906 de 2018; Art. [[art. 2 Ley 1906 de 2018|2]]
+
+> [!note] Ver Ley 1909 de 2018; Art. [[art. 11 Ley 1909 de 2018|11]] Lit. j ); Art. [[art. 22 Ley 1909 de 2018|22]]
+
+> [!note] Ver Ley 1914 de 2018; Art. [[art. 3 Ley 1914 de 2018|3]]
+
+> [!note] Ver Ley 1955 de 2019
+
+> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-337-93 ; C-548-93; C-051-2001; C-197-2001; C-809-2001; C-1051-2001; C-1065-2001; C-1168-2001; C-032-04; C-373-04 ; C-376-08; C-377-08; C-507-08 ; C-714-08; C-334-12; C-292-15
+
+---
+← [[art. 340 CN]] · ↑ [[CN - Título XII - Capítulo 2|Capítulo 2]] · [[art. 342 CN]] →

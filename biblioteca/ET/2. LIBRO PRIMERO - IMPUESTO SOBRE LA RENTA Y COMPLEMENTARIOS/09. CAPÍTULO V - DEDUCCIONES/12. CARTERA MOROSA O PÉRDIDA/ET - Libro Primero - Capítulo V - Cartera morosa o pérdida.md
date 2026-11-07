@@ -1,0 +1,30 @@
+---
+aliases:
+  - "ET CARTERA MOROSA O PÉRDIDA"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "CARTERA MOROSA O PÉRDIDA"
+libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
+capitulo: "[[ET - Libro Primero - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
+articulos: "arts. 145 a 146"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Capítulo V|Capítulo V]]
+
+## CARTERA MOROSA O PÉRDIDA
+
+*Arts. 145 a 146*
+
+### Contenido
+
+- [[art. 145 ET|Artículo 145]] — DEDUCCIÓN DE DEUDAS DE DUDOSO O DIFÍCIL COBRO
+- [[art. 146 ET|Artículo 146]] — DEDUCCIÓN POR DEUDAS MANIFIESTAMENTE PERDIDAS O SIN VALOR
+
+---
+← [[ET - Libro Primero - Capítulo V - Depreciación|Depreciación]] · ↑ [[ET - Libro Primero - Capítulo V|Capítulo V]] · [[ET - Libro Primero - Capítulo V - Pérdidas|Pérdidas]] →

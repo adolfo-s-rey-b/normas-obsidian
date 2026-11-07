@@ -1,0 +1,40 @@
+---
+aliases:
+  - "CST CAPÍTULO V - PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES"
+tipo: indice
+norma: "Decreto 2663 de 1950"
+sigla: "CST"
+nivel: "CAPÍTULO"
+etiqueta: "V"
+nombre: "PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES"
+titulo: "[[CST - Título VIII|TÍTULO VIII - PRESTACIONES PATRONALES COMUNES]]"
+articulos: "arts. 235A a 246"
+tags:
+  - normas/indice
+  - normas/cst
+---
+
+[[CST|CST]] › [[CST - Título VIII|Título VIII]]
+
+## CAPÍTULO V - PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES
+
+*Arts. 235A a 246*
+
+### Contenido
+
+- [[art. 235A CST|Artículo 235A]] — PROTECCION A LA MATERNIDAD
+- [[art. 236 CST|Artículo 236]] — LICENCIA EN LA ÉPOCA DEL PARTO E INCENTIVOS PARA LA ADECUADA ATENCIÓN Y CUIDADO DEL RECIÉN NACIDO
+- [[art. 237 CST|Artículo 237]] — DESCANSO REMUNERADO EN CASO DE ABORTO
+- [[art. 238 CST|Artículo 238]] — DESCANSO REMUNERADO DURANTE LA LACTANCIA
+- [[art. 239 CST|Artículo 239]] — PROHIBICIÓN DE DESPIDO
+- [[art. 240 CST|Artículo 240]] — PERMISO PARA DESPEDIR
+- [[art. 241 CST|Artículo 241]] — NULIDAD DEL DESPIDO
+- [[art. 241A CST|Artículo 241A]] — MEDIDAS ANTIDISCRIMINATORIAS EN MATERIA LABORAL
+- [[art. 242 CST|Artículo 242]] — TRABAJOS PROHIBIDOS
+- [[art. 243 CST|Artículo 243]] — INCUMPLIMIENTO
+- [[art. 244 CST|Artículo 244]] — CERTIFICADOS MEDICOS
+- [[art. 245 CST|Artículo 245]] — SALA CUNAS
+- [[art. 246 CST|Artículo 246]] — COMPUTO DE NUMERO DE TRABAJADORAS
+
+---
+← [[CST - Título VIII - Capítulo IV|Capítulo IV]] · ↑ [[CST - Título VIII|Título VIII]] · [[CST - Título VIII - Capítulo VI|Capítulo VI]] →

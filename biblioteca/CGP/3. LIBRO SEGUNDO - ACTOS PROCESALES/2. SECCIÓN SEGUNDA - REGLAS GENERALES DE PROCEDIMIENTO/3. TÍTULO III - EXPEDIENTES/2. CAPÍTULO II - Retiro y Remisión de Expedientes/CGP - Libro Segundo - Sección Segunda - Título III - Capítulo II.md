@@ -1,0 +1,31 @@
+---
+aliases:
+  - "CGP CAPÍTULO II - Retiro y Remisión de Expedientes"
+tipo: indice
+norma: "Ley 1564 de 2012"
+sigla: "CGP"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "Retiro y Remisión de Expedientes"
+libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
+seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
+titulo: "[[CGP - Libro Segundo - Sección Segunda - Título III|TÍTULO III - EXPEDIENTES]]"
+articulos: "arts. 124 a 125"
+tags:
+  - normas/indice
+  - normas/cgp
+---
+
+[[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]]
+
+## CAPÍTULO II - Retiro y Remisión de Expedientes
+
+*Arts. 124 a 125*
+
+### Contenido
+
+- [[art. 124 CGP|Artículo 124]] — Retiro de expediente
+- [[art. 125 CGP|Artículo 125]] — Remisión de expedientes, oficios y despachos
+
+---
+← [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] · [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo III|Capítulo III]] →

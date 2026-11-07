@@ -1,0 +1,41 @@
+---
+aliases:
+  - "CPACA art. 262"
+  - "art. 262 Ley 1437 de 2011"
+  - "Ley 1437 de 2011 art. 262"
+  - "CPACA 262"
+tipo: articulo
+norma: "Ley 1437 de 2011"
+sigla: "CPACA"
+articulo: "262"
+epigrafe: "Requisitos del recurso"
+parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
+titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
+capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - Recurso Extraordinario de Unificación de Jurisprudencia]]"
+vigencia: "vigente"
+anterior: "[[art. 261 CPACA]]"
+siguiente: "[[art. 263 CPACA]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249#262"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cpaca
+  - vigencia/vigente
+---
+
+[[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]]
+
+## Artículo 262. Requisitos del recurso
+
+El recurso extraordinario de unificación de jurisprudencia deberá contener.
+
+1\. La designación de las partes.
+
+2\. La indicación de la providencia impugnada.
+
+3\. La relación concreta, breve y sucinta de los hechos en litigio.
+
+4\. La indicación precisa de la sentencia de unificación jurisprudencial que se estima contrariada y las razones que le sirven de fundamento.
+
+---
+← [[art. 261 CPACA]] · ↑ [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]] · [[art. 263 CPACA]] →

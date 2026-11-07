@@ -1,0 +1,52 @@
+---
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "SECCIÓN"
+etiqueta: "I"
+nombre: "GENERALIDADES"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título XIII|TÍTULO XIII - DEL MANDATO]]"
+capitulo: "[[CCo - Libro Cuarto - Título XIII - Capítulo IV|CAPÍTULO IV - COMISIÓN]]"
+articulos: "arts. 1287 a 1311"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título XIII|Título XIII]] › [[CCo - Libro Cuarto - Título XIII - Capítulo IV|Capítulo IV]]
+
+## SECCIÓN I - GENERALIDADES
+
+*Arts. 1287 a 1311*
+
+### Contenido
+
+- [[art. 1287 CCo|Artículo 1287]] — COMISIÓN
+- [[art. 1288 CCo|Artículo 1288]] — PRESUNCIÓN DE ACEPTACIÓN
+- [[art. 1289 CCo|Artículo 1289]] — COMISIÓN POR CUENTA AJENA Y EFECTOS
+- [[art. 1290 CCo|Artículo 1290]] — POSIBILIDAD DEL COMISIONISTA DE VENDER EN BOLSAS O MARTILLOS LOS EFECTOS CONSIGNADOS
+- [[art. 1291 CCo|Artículo 1291]] — PROHIBICIÓN DE DELEGAR SU COMETIDO SIN AUTORIZACIÓN
+- [[art. 1292 CCo|Artículo 1292]] — DE QUIEN ASUME LA PÉRDIDA DE LAS COSAS
+- [[art. 1293 CCo|Artículo 1293]] — RESPONSABILIDAD DEL COMISIONISTA POR BIENES RECIBIDOS
+- [[art. 1294 CCo|Artículo 1294]] — PÉRDIDA DE LAS MERCADERIAS POR CASO FORTUITO O VICIO INHERENTE DE LAS MISMAS
+- [[art. 1295 CCo|Artículo 1295]] — OBLIGACIÓN DE ASEGURAR LAS MERCADERIAS
+- [[art. 1296 CCo|Artículo 1296]] — OBLIGACIÓN DE IDENTIFICAR LAS MERCADERIAS
+- [[art. 1297 CCo|Artículo 1297]] — PRÉSTAMOS, ANTICIPOS Y VENTAS AL FIADO A CARGO DEL COMISIONISTA
+- [[art. 1298 CCo|Artículo 1298]] — VENTAS A PLAZO
+- [[art. 1299 CCo|Artículo 1299]] — CORRESPONDENCIA DE LAS CUENTAS RENDIDAS Y LOS ASIENTOS DE SUS LIBROS
+- [[art. 1300 CCo|Artículo 1300]] — COBRANZA DE CRÉDITOS Y EFECTOS POR OMISIÓN O TARDANZA
+- [[art. 1301 CCo|Artículo 1301]]
+- [[art. 1302 CCo|Artículo 1302]] — DERECHO DE RETENCIÓN
+- [[art. 1303 CCo|Artículo 1303]] — TÉRMINO DE LA COMISIÓN
+- [[art. 1304 CCo|Artículo 1304]] — INTERMEDIACIÓN EN EL MERCADO PÚBLICO DE VALORES
+- [[art. 1305 CCo|Artículo 1305]] — PROHIBICIÓN DE TENER AGENTES O MANDATARIOS
+- [[art. 1306 CCo|Artículo 1306]] — TÉRMINO PARA CUMPLIR LA COMISIÓN
+- [[art. 1307 CCo|Artículo 1307]] — PROHIBICIONES A LOS COMISIONISTAS DE BOLSA
+- [[art. 1308 CCo|Artículo 1308]] — APLICACIÓN DE NORMATIVIDAD DEL MANDATO
+- [[art. 1309 CCo|Artículo 1309]] — CUENTAS SEPARADAS E IDENTIFICACIÓN DE MERCADERIAS
+- [[art. 1310 CCo|Artículo 1310]] — REGLAS PARA LA IMPUTACIÓN DEL PAGO
+- [[art. 1311 CCo|Artículo 1311]] — RESPONSABILIDAD DE LA AUTENTICIDAD DEL ÚLTIMO ENDOSO
+
+---
+↑ [[CCo - Libro Cuarto - Título XIII - Capítulo IV|Capítulo IV]] · [[CCo - Libro Cuarto - Título XIII - Capítulo IV - Sección II|Sección II]] →

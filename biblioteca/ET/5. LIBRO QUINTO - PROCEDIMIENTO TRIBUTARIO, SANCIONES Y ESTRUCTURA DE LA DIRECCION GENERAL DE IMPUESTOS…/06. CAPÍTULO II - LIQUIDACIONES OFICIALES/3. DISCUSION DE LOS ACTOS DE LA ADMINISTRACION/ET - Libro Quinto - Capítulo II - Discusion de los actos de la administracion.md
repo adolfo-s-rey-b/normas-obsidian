@@ -1,0 +1,51 @@
+---
+aliases:
+  - "ET DISCUSION DE LOS ACTOS DE LA ADMINISTRACION"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "DISCUSION DE LOS ACTOS DE LA ADMINISTRACION"
+libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCION GENERAL DE IMPUESTOS NACIONALES]]"
+capitulo: "[[ET - Libro Quinto - Capítulo II (2)|CAPÍTULO II - LIQUIDACIONES OFICIALES]]"
+articulos: "arts. 720 a 741"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Capítulo II (2)|Capítulo II]]
+
+## DISCUSION DE LOS ACTOS DE LA ADMINISTRACION
+
+*Arts. 720 a 741*
+
+### Contenido
+
+- [[art. 720 ET|Artículo 720]] — RECURSOS CONTRA LOS ACTOS DE LA ADMINISTRACIÓN TRIBUTARIA
+- [[art. 721 ET|Artículo 721]] — COMPETENCIA FUNCIONAL DE DISCUSIÓN
+- [[art. 722 ET|Artículo 722]] — REQUISITOS DE LOS RECURSOS DE RECONSIDERACIÓN Y REPOSICIÓN
+- [[art. 723 ET|Artículo 723]] — LOS HECHOS ACEPTADOS NO SON OBJETO DE RECURSO
+- [[art. 724 ET|Artículo 724]] — PRESENTACIÓN DEL RECURSO
+- [[art. 725 ET|Artículo 725]] — CONSTANCIA DE PRESENTACIÓN DEL RECURSO
+- [[art. 726 ET|Artículo 726]] — INADMISIÓN DEL RECURSO
+- [[art. 727 ET|Artículo 727]] — NOTIFICACIÓN DEL AUTO
+- [[art. 728 ET|Artículo 728]] — RECURSO CONTRA EL AUTO INADMISORIO
+- [[art. 729 ET|Artículo 729]] — RESERVA DEL EXPEDIENTE
+- [[art. 730 ET|Artículo 730]] — CAUSALES DE NULIDAD
+- [[art. 731 ET|Artículo 731]] — TÉRMINO PARA ALEGARLAS
+- [[art. 732 ET|Artículo 732]] — TÉRMINO PARA RESOLVER LOS RECURSOS
+- [[art. 733 ET|Artículo 733]] — SUSPENSIÓN DEL TÉRMINO PARA RESOLVER
+- [[art. 734 ET|Artículo 734]] — SILENCIO ADMINISTRATIVO
+- [[art. 735 ET|Artículo 735]] — RECURSOS CONTRA LAS RESOLUCIONES QUE IMPONEN SANCIÓN DE CLAUSURA Y SANCIÓN POR INCUMPLIR LA CLAUSURA
+- [[art. 736 ET|Artículo 736]] — REVOCATORIA DIRECTA
+- [[art. 737 ET|Artículo 737]] — OPORTUNIDAD
+- [[art. 738 ET|Artículo 738]] — COMPETENCIA
+- [[art. 738-1 ET|Artículo 738-1]] — TÉRMINO PARA RESOLVER LAS SOLICITUDES DE REVOCATORIA DIRECTA
+- [[art. 739 ET|Artículo 739]] — RECURSO CONTRA PROVIDENCIAS QUE SANCIONAN A CONTADORES PÚBLICOS O REVISORES FISCALES
+- [[art. 740 ET|Artículo 740]] — INDEPENDENCIA DE LOS RECURSOS
+- [[art. 741 ET|Artículo 741]] — RECURSO EQUIVOCADOS
+
+---
+← [[ET - Libro Quinto - Capítulo II - Liquidación de revisión|Liquidación de revisión]] · ↑ [[ET - Libro Quinto - Capítulo II (2)|Capítulo II]]

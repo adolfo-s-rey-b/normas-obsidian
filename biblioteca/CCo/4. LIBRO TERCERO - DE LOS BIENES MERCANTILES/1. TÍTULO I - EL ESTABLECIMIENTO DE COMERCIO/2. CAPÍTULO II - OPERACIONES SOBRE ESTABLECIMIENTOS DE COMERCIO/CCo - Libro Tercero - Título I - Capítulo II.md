@@ -1,0 +1,37 @@
+---
+aliases:
+  - "CCo CAPÍTULO II - OPERACIONES SOBRE ESTABLECIMIENTOS DE COMERCIO"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "OPERACIONES SOBRE ESTABLECIMIENTOS DE COMERCIO"
+libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
+titulo: "[[CCo - Libro Tercero - Título I|TÍTULO I - EL ESTABLECIMIENTO DE COMERCIO]]"
+articulos: "arts. 525 a 533"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título I|Título I]]
+
+## CAPÍTULO II - OPERACIONES SOBRE ESTABLECIMIENTOS DE COMERCIO
+
+*Arts. 525 a 533*
+
+### Contenido
+
+- [[art. 525 CCo|Artículo 525]] — PRESUNCIÓN DE ENAJENACIÓN DE ESTABLECIMIENTO DE COMERCIO COMO UNIDAD ECONÓMICA
+- [[art. 526 CCo|Artículo 526]] — REQUISITOS PARA LA ENAJENACIÓN
+- [[art. 527 CCo|Artículo 527]] — ENTREGA DE BALANCE Y RELACIÓN DE PASIVOS EN LA ENAJENACIÓN
+- [[art. 528 CCo|Artículo 528]] — RESPONSABILIDAD DEL ENAJENANTE Y ADQUIRENTE - RESPONSABILIDAD SOLIDARIA
+- [[art. 529 CCo|Artículo 529]] — RESPONSABILIDAD POR OBLIGACIONES QUE NO CONSTEN EN LOS LIBROS
+- [[art. 530 CCo|Artículo 530]] — OPOSICIÓN DE ACREEDORES
+- [[art. 531 CCo|Artículo 531]] — INEXACTITUD DE LIBROS DE CONTABILIDAD EN LA ENAJENACIÓN
+- [[art. 532 CCo|Artículo 532]] — PRENDA DE ESTABLECIMIENTO DE COMERCIO
+- [[art. 533 CCo|Artículo 533]] — ARRENDAMIENTO, USUFRUCTO Y ANTICRESIS DE ESTABLECIMIENTO DE COMERCIO
+
+---
+← [[CCo - Libro Tercero - Título I - Capítulo I|Capítulo I]] · ↑ [[CCo - Libro Tercero - Título I|Título I]]

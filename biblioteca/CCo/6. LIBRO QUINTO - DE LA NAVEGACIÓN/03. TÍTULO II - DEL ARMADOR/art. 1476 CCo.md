@@ -1,0 +1,32 @@
+---
+aliases:
+  - "CCo art. 1476"
+  - "art. 1476 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 1476"
+  - "CCo 1476"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "1476"
+epigrafe: "ENTREGA DE COPIA AUTÉNTICA DEL TÍTULO RESPECTIVO A LA EXPLOTACIÓN DE LA NAVE"
+libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
+titulo: "[[CCo - Libro Quinto - Título II|TÍTULO II - DEL ARMADOR]]"
+vigencia: "vigente"
+anterior: "[[art. 1475 CCo]]"
+siguiente: "[[art. 1477 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1476"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]] › [[CCo - Libro Quinto - Título II|Título II]]
+
+## Artículo 1476. ENTREGA DE COPIA AUTÉNTICA DEL TÍTULO RESPECTIVO A LA EXPLOTACIÓN DE LA NAVE
+
+El armador deberá entregar en el acto de la declaración copia auténtica del título que le atribuya la explotación de la nave.
+
+---
+← [[art. 1475 CCo]] · ↑ [[CCo - Libro Quinto - Título II|Título II]] · [[art. 1477 CCo]] →

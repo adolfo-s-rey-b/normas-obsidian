@@ -1,0 +1,35 @@
+---
+aliases:
+  - "CCo TÍTULO PRELIMINAR - DISPOSICIONES GENERALES"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "TÍTULO"
+etiqueta: "PRELIMINAR"
+nombre: "DISPOSICIONES GENERALES"
+articulos: "arts. 1 a 9"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]]
+
+## TÍTULO PRELIMINAR - DISPOSICIONES GENERALES
+
+*Arts. 1 a 9*
+
+### Contenido
+
+- [[art. 1 CCo|Artículo 1]] — APLICABILIDAD DE LA LEY COMERCIAL
+- [[art. 2 CCo|Artículo 2]] — APLICACIÓN DE LA LEGISLACIÓN CIVIL
+- [[art. 3 CCo|Artículo 3]] — AUTORIDAD DE LA COSTUMBRE MERCANTIL - COSTUMBRE LOCAL - COSTUMBRE GENERAL
+- [[art. 4 CCo|Artículo 4]] — PREFERENCIA DE LAS ESTIPULACIONES CONTRACTUALES
+- [[art. 5 CCo|Artículo 5]] — APLICACIÓN DE LA COSTUMBRE MERCANTIL
+- [[art. 6 CCo|Artículo 6]] — PRUEBA DE LA COSTUMBRE MERCANTIL - PRUEBA CON TESTIGOS
+- [[art. 7 CCo|Artículo 7]] — APLICACIÓN DE TRATADOS, CONVENCIONES Y COSTUMBRE INTERNACIONALES
+- [[art. 8 CCo|Artículo 8]] — PRUEBA DE COSTUMBRE MERCANTIL EXTRANJERA - ACREDITACIÓN
+- [[art. 9 CCo|Artículo 9]] — PRUEBA DE COSTUMBRE MERCANTIL INTERNACIONAL - ACREDITACIÓN
+
+---
+↑ [[CCo|CCo]] · [[CCo - Libro Primero|Libro Primero]] →

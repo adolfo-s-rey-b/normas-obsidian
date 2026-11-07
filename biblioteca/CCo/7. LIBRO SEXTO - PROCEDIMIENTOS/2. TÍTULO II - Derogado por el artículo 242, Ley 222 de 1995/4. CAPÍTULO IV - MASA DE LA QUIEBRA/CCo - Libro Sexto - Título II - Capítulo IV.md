@@ -1,0 +1,40 @@
+---
+aliases:
+  - "CCo CAPÍTULO IV - MASA DE LA QUIEBRA"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "IV"
+nombre: "MASA DE LA QUIEBRA"
+libro: "[[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]]"
+titulo: "[[CCo - Libro Sexto - Título II|TÍTULO II - Derogado por el artículo 242, Ley 222 de 1995]]"
+articulos: "arts. 1961 a 1972"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Sexto|Libro Sexto]] › [[CCo - Libro Sexto - Título II|Título II]]
+
+## CAPÍTULO IV - MASA DE LA QUIEBRA
+
+*Arts. 1961 a 1972*
+
+### Contenido
+
+- [[art. 1961 CCo|Artículo 1961]] — ALCANCE DE LA MASA DE LA QUIEBRA
+- [[art. 1962 CCo|Artículo 1962]] — BIENES QUE NO FORMAN PARTE DE LA MASA DE LA QUIEBRA
+- [[art. 1963 CCo|Artículo 1963]] — ENTREGA DE LOS BIENES QUE NO FORMAN PARTE DE LA MASA DE LA QUIEBRA
+- [[art. 1964 CCo|Artículo 1964]] — NORMAS ESPECIALES RELATIVAS A AERONAVES Y EMBARCACIONES
+- [[art. 1965 CCo|Artículo 1965]] — INSUFICIENCIA DE BIENES Y ENTORPECIMIENTO DE PAGOS - OPERACIONES DEL QUEBRADO SOBRE LAS CUALES SE PUEDE IMPETRAR LA REVOCACIÓN
+- [[art. 1966 CCo|Artículo 1966]] — INSUFICIENCIA DE BIENES Y ENTORPECIMIENTO DE PAGOS - OTRAS ACCIONES
+- [[art. 1967 CCo|Artículo 1967]] — RESTITUCIÓN DE BIENES A LA MASA DE LA QUIEBRA POR CONTRATACIÓN DE MALA FE
+- [[art. 1968 CCo|Artículo 1968]] — TÉRMINO PARA PROPONER LAS ACCIONES DE REVOCACIÓN Y DE SIMULACIÓN
+- [[art. 1969 CCo|Artículo 1969]] — MEDIDAS CAUTELARES
+- [[art. 1970 CCo|Artículo 1970]] — FACULTAD DEL SINDICO DE INCOAR POR LA VIA ORDINARIA LAS ACCIONES DE REVOCATORIA Y DE SIMULACIÓN
+- [[art. 1971 CCo|Artículo 1971]] — FACULTAD DEL SINDICO PARA SOLICITAR LA DECLARATORIA DE DISOLUCIÓN Y LIQUIDACIÓN DE SOCIEDADES EN QUE SEA SOCIO O SOCIO GESTOR EL QUEBRADO
+- [[art. 1972 CCo|Artículo 1972]] — TRÁMITE DE LAS ACCIONES DE REVOCACION, DE SIMULACIÓN Y DE DISOLUCIÓN
+
+---
+← [[CCo - Libro Sexto - Título II - Capítulo III|Capítulo III]] · ↑ [[CCo - Libro Sexto - Título II|Título II]] · [[CCo - Libro Sexto - Título II - Capítulo V|Capítulo V]] →

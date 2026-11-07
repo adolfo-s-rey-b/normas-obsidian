@@ -1,0 +1,43 @@
+---
+aliases:
+  - "CCo TÍTULO II - DEL ARMADOR"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "TÍTULO"
+etiqueta: "II"
+nombre: "DEL ARMADOR"
+libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
+articulos: "arts. 1473 a 1488"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]]
+
+## TÍTULO II - DEL ARMADOR
+
+*Arts. 1473 a 1488*
+
+### Contenido
+
+- [[art. 1473 CCo|Artículo 1473]] — DEFINICIÓN DE ARMADOR
+- [[art. 1474 CCo|Artículo 1474]] — DECLARACIÓN DEL ARMADOR CUANDO ASUMA LA EXPLOTACIÓN DE LA NAVE
+- [[art. 1475 CCo|Artículo 1475]] — REPRESENTACIÓN DEL ARMADOR EN EL PUERTO DE MATRÍCULA
+- [[art. 1476 CCo|Artículo 1476]] — ENTREGA DE COPIA AUTÉNTICA DEL TÍTULO RESPECTIVO A LA EXPLOTACIÓN DE LA NAVE
+- [[art. 1477 CCo|Artículo 1477]] — ATRIBUCIONES DEL ARMADOR
+- [[art. 1478 CCo|Artículo 1478]] — OBLIGACIONES DEL ARMADOR
+- [[art. 1479 CCo|Artículo 1479]] — RESPONSABILIDAD DEL ARMADOR POR CULPAS DEL CAPITÁN
+- [[art. 1480 CCo|Artículo 1480]] — EXCEPCIONES A LA RESPONSABILIDAD DEL ARMADOR
+- [[art. 1481 CCo|Artículo 1481]] — CASOS DE RESPONSABILIDAD DEL ARMADOR, PROPIETARIO O NO DE LA NAVE
+- [[art. 1482 CCo|Artículo 1482]] — CASOS EN QUE NO SE APLICAN LAS LIMITACIONES DE RESPONSABILIDAD
+- [[art. 1483 CCo|Artículo 1483]] — LIMITE DE RESPONSABILIDAD DEL CAPITÁN
+- [[art. 1484 CCo|Artículo 1484]] — PRUEBA DEL VALOR DE LA NAVE PARA EL LIMITE DE LA RESPONSABILIDAD
+- [[art. 1485 CCo|Artículo 1485]] — FLETE INCLUIDO EN EL PRECIO DEL PASAJE
+- [[art. 1486 CCo|Artículo 1486]] — NORMATIVIDAD PARA LOS CRÉDITOS
+- [[art. 1487 CCo|Artículo 1487]] — EXTENSIÓN DE LA RESPONSABILIDAD POR MUERTE O LESIONES
+- [[art. 1488 CCo|Artículo 1488]] — REGLAS PARA CALCULAR EL ARQUEO
+
+---
+← [[CCo - Libro Quinto - Título I|Título I]] · ↑ [[CCo - Libro Quinto|Libro Quinto]] · [[CCo - Libro Quinto - Título III|Título III]] →

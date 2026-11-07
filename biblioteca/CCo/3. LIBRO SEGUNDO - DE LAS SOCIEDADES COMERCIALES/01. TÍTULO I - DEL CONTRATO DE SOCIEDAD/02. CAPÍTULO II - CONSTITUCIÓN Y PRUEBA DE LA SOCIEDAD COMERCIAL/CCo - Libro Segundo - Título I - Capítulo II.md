@@ -1,0 +1,40 @@
+---
+aliases:
+  - "CCo CAPÍTULO II - CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL"
+libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
+titulo: "[[CCo - Libro Segundo - Título I|TÍTULO I - DEL CONTRATO DE SOCIEDAD]]"
+articulos: "arts. 110 a 121"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título I|Título I]]
+
+## CAPÍTULO II - CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD COMERCIAL
+
+*Arts. 110 a 121*
+
+### Contenido
+
+- [[art. 110 CCo|Artículo 110]] — REQUISITOS PARA LA CONSTITUCIÓN DE UNA SOCIEDAD
+- [[art. 111 CCo|Artículo 111]] — INSCRIPCIÓN DE ESCRITURA PÚBLICA DE CONSTITUCIÓN EN EL REGISTRO DE LA CÁMARA DE COMERCIO
+- [[art. 112 CCo|Artículo 112]] — EFECTOS DEL NO REGISTRO DE LA SOCIEDAD ANTE LA CÁMARA DE COMERCIO
+- [[art. 113 CCo|Artículo 113]] — OMISIÓN DE REQUISITOS EN ESCRITURA SOCIAL
+- [[art. 114 CCo|Artículo 114]] — INDETERMINACIÓN DE FACULTADES DE LOS ADMINISTRADORES DE SUCURSALES
+- [[art. 115 CCo|Artículo 115]] — IMPUGNACIÓN DE LA ESCRITURA SOCIAL REGISTRADA LEGALMENTE
+- [[art. 116 CCo|Artículo 116]] — REGISTRO MERCANTIL - REQUISITO PARA INICIAR ACTIVIDADES
+- [[art. 117 CCo|Artículo 117]] — PRUEBA DE LA EXISTENCIA, CLÁUSULAS DEL CONTRATO Y REPRESENTACIÓN DE LA SOCIEDAD
+- [[art. 118 CCo|Artículo 118]] — INADMISIÓN DE PRUEBAS CONTRA EL TENOR DE LAS ESCRITURAS
+- [[art. 119 CCo|Artículo 119]] — REQUISITOS DE LA PROMESA DE CONTRATO DE SOCIEDAD
+- [[art. 120 CCo|Artículo 120]] — TRÁNSITO DE LEGISLACIÓN VIGENTE
+- [[art. 121 CCo|Artículo 121]] — CONSTITUCIÓN DE SOCIEDADES COLECTIVAS Y EN COMANDITA
+
+---
+← [[CCo - Libro Segundo - Título I - Capítulo I|Capítulo I]] · ↑ [[CCo - Libro Segundo - Título I|Título I]] · [[CCo - Libro Segundo - Título I - Capítulo III|Capítulo III]] →

@@ -1,0 +1,34 @@
+---
+aliases:
+  - "CCo art. 1100"
+  - "art. 1100 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 1100"
+  - "CCo 1100"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "1100"
+epigrafe: "SEGURO DE ACCIDENTES DE TRABAJO"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título V|TÍTULO V - DEL CONTRATO DE SEGURO]]"
+capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo II|CAPÍTULO II - SEGUROS DE DAÑOS]]"
+seccion: "[[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|SECCIÓN I - PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS]]"
+vigencia: "vigente"
+anterior: "[[art. 1099 CCo]]"
+siguiente: "[[art. 1101 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1100"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título V|Título V]] › [[CCo - Libro Cuarto - Título V - Capítulo II|Capítulo II]] › [[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|Sección I]]
+
+## Artículo 1100. SEGURO DE ACCIDENTES DE TRABAJO
+
+Las normas de los artículos [[art. 1096 CCo|1096]] y siguientes se aplican también al seguro de accidentes de trabajo si así lo convinieren las partes.
+
+---
+← [[art. 1099 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|Sección I]] · [[art. 1101 CCo]] →

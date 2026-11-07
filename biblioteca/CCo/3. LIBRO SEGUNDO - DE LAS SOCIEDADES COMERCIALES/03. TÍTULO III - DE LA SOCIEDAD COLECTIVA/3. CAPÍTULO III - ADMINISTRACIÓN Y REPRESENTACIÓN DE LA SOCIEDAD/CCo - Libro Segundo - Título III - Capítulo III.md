@@ -1,0 +1,37 @@
+---
+aliases:
+  - "CCo CAPÍTULO III - ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "III"
+nombre: "ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD"
+libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
+titulo: "[[CCo - Libro Segundo - Título III|TÍTULO III - DE LA SOCIEDAD COLECTIVA]]"
+articulos: "arts. 310 a 318"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título III|Título III]]
+
+## CAPÍTULO III - ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD
+
+*Arts. 310 a 318*
+
+### Contenido
+
+- [[art. 310 CCo|Artículo 310]] — ADMINISTRACIÓN Y REPRESENTACIÓN DE LA SOCIEDAD COLECTIVA- GENERALIDAD
+- [[art. 311 CCo|Artículo 311]] — FACULTADES DE LA REPRESENTACIÓN EN LA SOCIEDAD COLECTIVA
+- [[art. 312 CCo|Artículo 312]] — DELEGACIÓN DE LA ADMINISTRACIÓN EN SOCIEDAD COLECTIVA
+- [[art. 313 CCo|Artículo 313]] — REVOCACIÓN DE LA ADMINISTRACIÓN DELEGADA
+- [[art. 314 CCo|Artículo 314]] — DERECHO DE INSPECCIÓN DE LOS SOCIOS EN LA SOCIEDAD COLECTIVA
+- [[art. 315 CCo|Artículo 315]] — ASIGNACIÓN DE COADMINISTRADOR POR ABUSO O NEGLIGENCIA DE UN ADMINISTRADOR NOMBRADO DE FORMA CONDICIONAL
+- [[art. 316 CCo|Artículo 316]] — DECISIONES QUE REQUIEREN VOTO UNÁNIME O MAYORÍA ABSOLUTA EN LA SOCIEDAD COLECTIVA
+- [[art. 317 CCo|Artículo 317]] — DERECHO DE VETO - RESPONSABILIDAD POR OPERACIONES EN CONTRARIO
+- [[art. 318 CCo|Artículo 318]] — OBLIGACIÓN DEL ADMINISTRADOR DE RENDIR CUENTAS EN LA SOCIEDAD COLECTIVA
+
+---
+← [[CCo - Libro Segundo - Título III - Capítulo II|Capítulo II]] · ↑ [[CCo - Libro Segundo - Título III|Título III]] · [[CCo - Libro Segundo - Título III - Capítulo IV|Capítulo IV]] →

@@ -1,0 +1,52 @@
+---
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "SUJETOS PASIVOS"
+libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
+articulos: "arts. 7 a 21"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Primero|Libro Primero]]
+
+## SUJETOS PASIVOS
+
+*Arts. 7 a 21*
+
+### Contenido
+
+- [[art. 7 ET|Artículo 7]] — LAS PERSONAS NATURALES ESTÁN SOMETIDAS AL IMPUESTO
+- [[art. 8 ET|Artículo 8]] — LOS CÓNYUGES SE GRAVAN EN FORMA INDIVIDUAL
+- [[art. 9 ET|Artículo 9]] — IMPUESTO DE LAS PERSONAS NATURALES, RESIDENTES Y NO RESIDENTES
+- [[art. 10 ET|Artículo 10]] — Residencia para efectos tributarios
+- [[art. 11 ET|Artículo 11]] — BIENES DESTINADOS A FINES ESPECIALES
+- [[art. 12 ET|Artículo 12]] — SOCIEDADES Y ENTIDADES SOMETIDAS AL IMPUESTO
+- [[art. 12-1 ET|Artículo 12-1]] — Concepto de sociedades y entidades nacionales para efectos tributarios
+- [[art. 13 ET|Artículo 13]] — SOCIEDADES LIMITADAS Y ASIMILADAS
+- [[art. 14 ET|Artículo 14]] — LAS SOCIEDADES ANÓNIMAS Y ASIMILADAS ESTÁN SOMETIDAS AL IMPUESTO
+- [[art. 14-1 ET|Artículo 14-1]]
+- [[art. 14-2 ET|Artículo 14-2]]
+- [[art. 15 ET|Artículo 15]] — ENTIDADES COOPERATIVAS QUE SON CONTRIBUYENTES
+- [[art. 16 ET|Artículo 16]] — LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO A LAS SOCIEDADES DE ECONOMÍA MIXTA, ESTÁN SOMETIDAS AL IMPUESTO
+- [[art. 17 ET|Artículo 17]] — LOS FONDOS PÚBLICOS Y TELECOM SON CONTRIBUYENTES
+- [[art. 18 ET|Artículo 18]] — CONTRATOS DE COLABORACIÓN EMPRESARIAL
+- [[art. 18-1 ET|Artículo 18-1]]
+- [[art. 19 ET|Artículo 19]] — CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL
+- [[art. 19-1 ET|Artículo 19-1]] — RETENCIÓN EN LA FUENTE SOBRE RENDIMIENTOS FINANCIEROS A CARGO DE CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL
+- [[art. 19-2 ET|Artículo 19-2]] — OTROS CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA
+- [[art. 19-3 ET|Artículo 19-3]] — Otros contribuyentes del impuesto sobre la renta y complementarios
+- [[art. 19-4 ET|Artículo 19-4]] — TRIBUTACIÓN SOBRE LA RENTA DE LAS COOPERATIVAS
+- [[art. 19-5 ET|Artículo 19-5]] — OTROS CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS
+- [[art. 20 ET|Artículo 20]] — LAS SOCIEDADES Y ENTIDADES EXTRANJERAS SON CONTRIBUYENTES
+- [[art. 20-1 ET|Artículo 20-1]] — ESTABLECIMIENTO PERMANENTE
+- [[art. 20-2 ET|Artículo 20-2]] — TRIBUTACIÓN DE LOS ESTABLECIMIENTOS PERMANENTES Y SUCURSALES
+- [[art. 20-3 ET|Artículo 20-3]] — TRIBUTACIÓN POR PRESENCIA ECONÓMICA SIGNIFICATIVA EN COLOMBIA
+- [[art. 21 ET|Artículo 21]] — CONCEPTO DE SOCIEDAD EXTRANJERA
+
+---
+← [[ET - Libro Primero - Disposiciones generales|Disposiciones generales]] · ↑ [[ET - Libro Primero|Libro Primero]] · [[ET - Libro Primero - No contribuyentes|No contribuyentes]] →

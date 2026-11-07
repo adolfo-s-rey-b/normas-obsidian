@@ -1,0 +1,37 @@
+---
+aliases:
+  - "CCo TÍTULO VII - DE LA ASISTENCIA Y SALVAMENTO"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "TÍTULO"
+etiqueta: "VII"
+nombre: "DE LA ASISTENCIA Y SALVAMENTO"
+libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
+articulos: "arts. 1545 a 1554"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]]
+
+## TÍTULO VII - DE LA ASISTENCIA Y SALVAMENTO
+
+*Arts. 1545 a 1554*
+
+### Contenido
+
+- [[art. 1545 CCo|Artículo 1545]] — DEFINICIÓN DE REMUNERACIÓN POR ASISTENCIA Y SALVAMENTO
+- [[art. 1546 CCo|Artículo 1546]] — PROHIBICIÓN EXPRESA Y RAZONABLE DEL ASISTIDO - NO REMUNERACIÓN
+- [[art. 1547 CCo|Artículo 1547]] — DERECHO DEL REMOLCADOR A REMUNERACIÓN POR ASISTENCIA O SALVAMENTO DE LA NAVE
+- [[art. 1548 CCo|Artículo 1548]] — REMUNERACIÓN EN CASO DE PERTENECER LAS NAVES AL MISMO DUEÑO
+- [[art. 1549 CCo|Artículo 1549]] — FIJACIÓN DEL MONTO DE LA REMUNERACIÓN-DISTRIBUCIÓN
+- [[art. 1550 CCo|Artículo 1550]] — CONTRATO DE ASISTENCIA Y SALVAMENTO - EQUIDAD DE CONDICIONES
+- [[art. 1551 CCo|Artículo 1551]] — BASES PARA LA FIJACIÓN DE LA REMUNERACIÓN POR EL JUEZ
+- [[art. 1552 CCo|Artículo 1552]] — PERSONAS SALVADAS NO OBLIGADAS A REMUNERAR
+- [[art. 1553 CCo|Artículo 1553]] — OBLIGACIÓN DEL CAPITÁN DE PRESTAR ASISTENCIA - SANCIONES - RESPONSABILIDAD
+- [[art. 1554 CCo|Artículo 1554]] — PRESCRIPCIÓN DE ACCIONES PARA EJERCITAR DERECHOS
+
+---
+← [[CCo - Libro Quinto - Título VI|Título VI]] · ↑ [[CCo - Libro Quinto|Libro Quinto]] · [[CCo - Libro Quinto - Título VIII|Título VIII]] →

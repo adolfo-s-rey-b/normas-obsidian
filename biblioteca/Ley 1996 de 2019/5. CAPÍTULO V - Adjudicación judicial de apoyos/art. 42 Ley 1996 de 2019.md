@@ -1,15 +1,29 @@
 ---
 aliases:
   - "Ley 1996 de 2019 art. 42"
+tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "42"
+epigrafe: "Modificación y terminación de los procesos de adjudicación judicial de apoyos"
+capitulo: "[[Ley 1996 de 2019 - Capítulo V|CAPÍTULO V - Adjudicación judicial de apoyos]]"
+vigencia: "vigente"
+anterior: "[[art. 41 Ley 1996 de 2019]]"
+siguiente: "[[art. 43 Ley 1996 de 2019]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=99712#42"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/ley_1996_de_2019
+  - vigencia/vigente
 ---
 
-## Modificación y terminación de los procesos de adjudicación judicial de apoyos
+[[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo V|Capítulo V]]
 
-El artículo [[art. 587 Ley 1564 de 2012|587]] de la Ley 1564 de 2012 quedará así:
+## Artículo 42. Modificación y terminación de los procesos de adjudicación judicial de apoyos
 
-"ARTÍCULO [[art. 587 Ley 1996 de 2019|587]] . Modificación y terminación de la adjudicación de apoyos. En cualquier momento, podrán solicitar la modificación o terminación de los apoyos adjudicados:
+El artículo [[art. 587 CGP|587]] de la Ley 1564 de 2012 quedará así:
+
+"ARTÍCULO 587 . Modificación y terminación de la adjudicación de apoyos. En cualquier momento, podrán solicitar la modificación o terminación de los apoyos adjudicados:
 
 a. La persona titular del acto jurídico;
 
@@ -22,3 +36,6 @@ d. El juez de oficio.
 El Juez deberá notificar de ello a las personas designadas como apoyo y a la persona titular del acto, si es del caso, y correrá traslado de la solicitud por diez (10) días para que estas se pronuncien al respecto.
 
 En caso de no presentarse oposición, el Juez modificará o terminará la adjudicación de apoyos, conforme a la solicitud".
+
+---
+← [[art. 41 Ley 1996 de 2019]] · ↑ [[Ley 1996 de 2019 - Capítulo V|Capítulo V]] · [[art. 43 Ley 1996 de 2019]] →

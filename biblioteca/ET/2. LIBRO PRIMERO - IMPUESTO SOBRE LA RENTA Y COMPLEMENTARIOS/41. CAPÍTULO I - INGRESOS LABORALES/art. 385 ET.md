@@ -1,0 +1,46 @@
+---
+aliases:
+  - "ET art. 385"
+  - "art. 385 Decreto Ley 624 de 1989"
+  - "Decreto Ley 624 de 1989 art. 385"
+  - "art. 385 Decreto 624 de 1989"
+  - "Decreto 624 de 1989 art. 385"
+  - "ET 385"
+tipo: articulo
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+articulo: "385"
+epigrafe: "PRIMERA OPCIÓN FRENTE A LA RETENCIÓN"
+libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
+capitulo: "[[ET - Libro Primero - Capítulo I (6)|CAPÍTULO I - INGRESOS LABORALES]]"
+vigencia: "parcialmente derogado"
+derogado_por:
+  - "[[art. 140 Ley 6 de 1992]]"
+anterior: "[[art. 384 ET]]"
+siguiente: "[[art. 386 ET]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#385"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/et
+  - vigencia/parcialmente_derogado
+---
+
+[[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Capítulo I (6)|Capítulo I]]
+
+## Artículo 385. PRIMERA OPCIÓN FRENTE A LA RETENCIÓN
+
+Para efectos de la retención en la fuente, el retenedor deberá aplicar el procedimiento establecido en este Artículo, o en el Artículo siguiente:
+
+~~Procedimiento 1. Con relación a los pagos o abonos en cuenta gravables diferentes de la cesantía, los intereses sobre cesantía, y la prima mínima legal de servicios del sector privado o de navidad del sector público, el "valor a retener" mensualmente es el indicado frente al intervalo de la tabla al cual correspondan la totalidad de dichos pagos o abonos que se hagan al trabajador, directa o indirectamente durante el respectivo mes. Si tales pagos o abonos en cuenta se realizan por períodos inferiores a treinta (30) días, su retención podrá calcularse así:~~
+
+> [!warning] Nota: Texto subrayado, Derogado por el Art. [[art. 140 Ley 6 de 1992|140]] de la Ley 6 de 1992
+
+a) El valor total de los pagos o abonos en cuenta gravables, recibidos directa o indirectamente por el trabajador en el respectivo período, se divide por el número de días a que correspondan tales pagos o abonos y su resultado se multiplica por 30;
+
+b) Se determina el porcentaje de retención que figure en la tabla frente al valor obtenido de acuerdo con lo previsto en el literal anterior y dicho porcentaje se aplica a la totalidad de los pagos o abonos en cuenta gravables recibidos directa o indirectamente por el trabajador en el respectivo período. La cifra resultante será el "valor a retener".
+
+Cuando se trate de la prima mínima legal de servicios del sector privado, o de navidad del sector público, el "valor a retener" es el que figure frente al intervalo al cual corresponda la respectiva prima.
+
+---
+← [[art. 384 ET]] · ↑ [[ET - Libro Primero - Capítulo I (6)|Capítulo I]] · [[art. 386 ET]] →

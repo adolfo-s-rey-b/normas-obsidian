@@ -1,0 +1,33 @@
+---
+aliases:
+  - "CCo art. 1082"
+  - "art. 1082 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 1082"
+  - "CCo 1082"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "1082"
+epigrafe: "CLASES DE SEGUROS"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título V|TÍTULO V - DEL CONTRATO DE SEGURO]]"
+capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo I|CAPÍTULO I - PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES]]"
+vigencia: "vigente"
+anterior: "[[art. 1081 CCo]]"
+siguiente: "[[art. 1083 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1082"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título V|Título V]] › [[CCo - Libro Cuarto - Título V - Capítulo I|Capítulo I]]
+
+## Artículo 1082. CLASES DE SEGUROS
+
+Los seguros podrán ser de daños o de personas; aquellos, a su vez, podrán ser reales o patrimoniales.
+
+---
+← [[art. 1081 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo I|Capítulo I]] · [[art. 1083 CCo]] →

@@ -1,0 +1,59 @@
+---
+aliases:
+  - "CCo SECCIÓN I - PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "SECCIÓN"
+etiqueta: "I"
+nombre: "PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título V|TÍTULO V - DEL CONTRATO DE SEGURO]]"
+capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo II|CAPÍTULO II - SEGUROS DE DAÑOS]]"
+articulos: "arts. 1083 a 1112"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título V|Título V]] › [[CCo - Libro Cuarto - Título V - Capítulo II|Capítulo II]]
+
+## SECCIÓN I - PRINCIPIOS COMUNES A LOS SEGUROS DE DAÑOS
+
+*Arts. 1083 a 1112*
+
+### Contenido
+
+- [[art. 1083 CCo|Artículo 1083]] — INTERÉS ASEGURABLE
+- [[art. 1084 CCo|Artículo 1084]] — CONCURRENCIA DE DISTINTOS INTERESES
+- [[art. 1085 CCo|Artículo 1085]] — SEGURO SOBRE PLURALIDAD DE BIENES
+- [[art. 1086 CCo|Artículo 1086]] — EXISTENCIA DEL INTERÉS Y EXTINCIÓN
+- [[art. 1087 CCo|Artículo 1087]] — LIBRE ESTIPULACIÓN DEL VALOR DEL SEGURO
+- [[art. 1088 CCo|Artículo 1088]] — CARÁCTER INDEMNIZATORIO DEL SEGURO
+- [[art. 1089 CCo|Artículo 1089]] — LIMITE MÁXIMO DE LA INDEMNIZACIÓN
+- [[art. 1090 CCo|Artículo 1090]] — PAGO DE INDEMNIZACIÓN POR EL VALOR DE REPOSICIÓN O DE REEMPLAZO
+- [[art. 1091 CCo|Artículo 1091]] — NULIDAD DEL CONTRATO POR SOBRESEGURO
+- [[art. 1092 CCo|Artículo 1092]] — INDEMNIZACIÓN EN CASO DE COEXISTENCIA DE SEGUROS
+- [[art. 1093 CCo|Artículo 1093]] — INFORMACIÓN SOBRE COEXISTENCIA DE SEGUROS
+- [[art. 1094 CCo|Artículo 1094]] — PLURALIDAD O COEXISTENCIA DE SEGUROS-CONDICIONES
+- [[art. 1095 CCo|Artículo 1095]] — COASEGURO
+- [[art. 1096 CCo|Artículo 1096]] — SUBROGACIÓN DEL ASEGURADOR QUE PAGA LA INDEMNIZACIÓN
+- [[art. 1097 CCo|Artículo 1097]] — IRRENUNCIABILIDAD DE DERECHOS CONTRA TERCEROS
+- [[art. 1098 CCo|Artículo 1098]] — COLABORACIÓN DEL ASEGURADO EN CASO DE SUBROGACIÓN
+- [[art. 1099 CCo|Artículo 1099]] — PROHIBICIÓN DE SUBROGACIÓN
+- [[art. 1100 CCo|Artículo 1100]] — SEGURO DE ACCIDENTES DE TRABAJO
+- [[art. 1101 CCo|Artículo 1101]] — SUBROGACIÓN REAL
+- [[art. 1102 CCo|Artículo 1102]] — INFRASEGURO E INDEMNIZACIÓN
+- [[art. 1103 CCo|Artículo 1103]] — DEDUCIBLE
+- [[art. 1104 CCo|Artículo 1104]] — VICIO PROPIO DE LAS COSAS
+- [[art. 1105 CCo|Artículo 1105]] — DEFINICIÓN DE RIESGOS CATASTROFICOS
+- [[art. 1106 CCo|Artículo 1106]] — TRANSMISIÓN POR CAUSA DE MUERTE DEL INTERÉS ASEGURABLE
+- [[art. 1107 CCo|Artículo 1107]] — TRANSFERENCIA POR ACTO ENTRE VIVOS DEL INTERÉS ASEGURABLE
+- [[art. 1108 CCo|Artículo 1108]] — EXCEPCIONES QUE SE PUEDEN OPONER AL ADQUIRIENTE
+- [[art. 1109 CCo|Artículo 1109]] — EXTINCIÓN DEL CONTRATO
+- [[art. 1110 CCo|Artículo 1110]] — FOMA DE PAGO DE LA INDEMNIZACIÓN
+- [[art. 1111 CCo|Artículo 1111]] — REDUCCIÓN DE LA SUMA ASEGURADA
+- [[art. 1112 CCo|Artículo 1112]] — PROHIBICIÓN DEL ABANDONO DE LAS COSAS ASEGURADAS
+
+---
+↑ [[CCo - Libro Cuarto - Título V - Capítulo II|Capítulo II]] · [[CCo - Libro Cuarto - Título V - Capítulo II - Sección II|Sección II]] →

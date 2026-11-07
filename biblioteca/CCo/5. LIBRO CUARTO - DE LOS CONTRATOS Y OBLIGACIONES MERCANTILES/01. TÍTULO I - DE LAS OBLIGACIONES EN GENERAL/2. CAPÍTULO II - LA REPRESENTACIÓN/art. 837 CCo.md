@@ -1,0 +1,33 @@
+---
+aliases:
+  - "CCo art. 837"
+  - "art. 837 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 837"
+  - "CCo 837"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "837"
+epigrafe: "EXHIBICIÓN DEL PODER"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título I|TÍTULO I - DE LAS OBLIGACIONES EN GENERAL]]"
+capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo II|CAPÍTULO II - LA REPRESENTACIÓN]]"
+vigencia: "vigente"
+anterior: "[[art. 836 CCo]]"
+siguiente: "[[art. 838 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#837"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título I|Título I]] › [[CCo - Libro Cuarto - Título I - Capítulo II|Capítulo II]]
+
+## Artículo 837. EXHIBICIÓN DEL PODER
+
+El tercero que contrate con el representante podrá, en todo caso, exigir de este que justifique sus poderes, y si la representación proviene de un acto escrito, tendrá derecho a que se le entregue una copia auténtica del mismo.
+
+---
+← [[art. 836 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo II|Capítulo II]] · [[art. 838 CCo]] →

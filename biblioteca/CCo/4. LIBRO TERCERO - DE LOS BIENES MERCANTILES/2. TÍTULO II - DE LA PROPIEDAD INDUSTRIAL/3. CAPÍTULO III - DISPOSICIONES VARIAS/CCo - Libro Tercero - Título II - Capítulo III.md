@@ -1,0 +1,35 @@
+---
+aliases:
+  - "CCo CAPÍTULO III - DISPOSICIONES VARIAS"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "III"
+nombre: "DISPOSICIONES VARIAS"
+libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
+titulo: "[[CCo - Libro Tercero - Título II|TÍTULO II - DE LA PROPIEDAD INDUSTRIAL]]"
+articulos: "arts. 612 a 618"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título II|Título II]]
+
+## CAPÍTULO III - DISPOSICIONES VARIAS
+
+*Arts. 612 a 618*
+
+### Contenido
+
+- [[art. 612 CCo|Artículo 612]] — TRAMITACIÓN DE PROCESOS RELATIVOS A PROPIEDAD INDUSTRIAL - COMPETENCIA DEL CONSEJO DE ESTADO
+- [[art. 613 CCo|Artículo 613]] — PROCEDIMIENTO CUANDO CORRESPONDA AL JUEZ FIJAR COMPENSACIONES O PRECIOS
+- [[art. 614 CCo|Artículo 614]] — JUEZ COMPETENTE PARA ASUNTOS DE LA PROPIEDAD INDUSTRIAL
+- [[art. 615 CCo|Artículo 615]] — APLICACIÓN DE VENTAJAS DE UNA CONVENCIÓN INTERNACIONAL SUSCRITA POR COLOMBIA EN MATERIA DE PROPIEDAD INDUSTRIAL
+- [[art. 616 CCo|Artículo 616]] — CONCESIONES QUE REQUIEREN INSCRIPCIÓN EN LA OFICINA DE REGISTRO DE PROPIEDAD INDUSTRIAL
+- [[art. 617 CCo|Artículo 617]] — CESIÓN DE LOS DERECHOS INHERENTES A LA PROPIEDAD INDUSTRIAL
+- [[art. 618 CCo|Artículo 618]] — DERECHO AL GOBIERNO PARA REGLAMENTAR NORMAS SOBRE PROPIEDAD INDUSTRIAL
+
+---
+← [[CCo - Libro Tercero - Título II - Capítulo II|Capítulo II]] · ↑ [[CCo - Libro Tercero - Título II|Título II]]

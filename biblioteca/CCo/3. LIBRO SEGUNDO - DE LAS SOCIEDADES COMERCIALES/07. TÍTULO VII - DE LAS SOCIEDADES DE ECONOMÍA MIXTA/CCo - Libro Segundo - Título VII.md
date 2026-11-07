@@ -1,0 +1,35 @@
+---
+aliases:
+  - "CCo TÍTULO VII - DE LAS SOCIEDADES DE ECONOMÍA MIXTA"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "TÍTULO"
+etiqueta: "VII"
+nombre: "DE LAS SOCIEDADES DE ECONOMÍA MIXTA"
+libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
+articulos: "arts. 461 a 468"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]]
+
+## TÍTULO VII - DE LAS SOCIEDADES DE ECONOMÍA MIXTA
+
+*Arts. 461 a 468*
+
+### Contenido
+
+- [[art. 461 CCo|Artículo 461]] — DEFINICIÓN DE LA SOCIEDAD DE ECONOMÍA MIXTA
+- [[art. 462 CCo|Artículo 462]] — CONTENIDO DEL ACTO DE CONSTITUCIÓN DE SOCIEDAD DE ECONOMÍA MIXTA
+- [[art. 463 CCo|Artículo 463]] — APORTES ESTATALES EN LA SOCIEDAD DE ECONOMÍA MIXTA
+- [[art. 464 CCo|Artículo 464]] — SOCIEDADES DE ECONOMÍA MIXTA SOMETIDA A LAS DISPOSICIONES PREVIAS PARA LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO
+- [[art. 465 CCo|Artículo 465]] — CLASE Y EMISIÓN DE ACCIONES DE SOCIEDAD ANÓNIMA DE ECONOMÍA MIXTA
+- [[art. 466 CCo|Artículo 466]] — SOCIEDADES DE ECONOMÍA MIXTA CON PARTICIPACIÓN ESTATAL SUPERIOR AL CINCUENTA POR CIENTO DEL CAPITAL SOCIAL
+- [[art. 467 CCo|Artículo 467]] — APORTE ESTATAL Y APORTE DE CAPITAL PÚBLICO-DEFINICIÓN
+- [[art. 468 CCo|Artículo 468]] — APLICACIÓN DE DISPOSICIONES EN LO NO PREVISTO
+
+---
+← [[CCo - Libro Segundo - Título VI|Título VI]] · ↑ [[CCo - Libro Segundo|Libro Segundo]] · [[CCo - Libro Segundo - Título VIII|Título VIII]] →

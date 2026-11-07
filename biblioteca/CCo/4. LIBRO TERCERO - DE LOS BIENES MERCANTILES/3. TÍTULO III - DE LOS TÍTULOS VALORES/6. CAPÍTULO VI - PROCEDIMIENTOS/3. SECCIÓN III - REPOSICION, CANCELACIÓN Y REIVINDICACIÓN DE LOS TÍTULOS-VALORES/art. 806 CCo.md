@@ -1,0 +1,38 @@
+---
+aliases:
+  - "CCo art. 806"
+  - "art. 806 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 806"
+  - "CCo 806"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "806"
+epigrafe: "OTORGAMIENTO DE GARANTÍA SUFICIENTE POR EL ACTOR - MEDIDAS TOMADAS POR EL JUEZ"
+libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
+titulo: "[[CCo - Libro Tercero - Título III|TÍTULO III - DE LOS TÍTULOS VALORES]]"
+capitulo: "[[CCo - Libro Tercero - Título III - Capítulo VI|CAPÍTULO VI - PROCEDIMIENTOS]]"
+seccion: "[[CCo - Libro Tercero - Título III - Capítulo VI - Sección III|SECCIÓN III - REPOSICION, CANCELACIÓN Y REIVINDICACIÓN DE LOS TÍTULOS-VALORES]]"
+vigencia: "vigente"
+derogado_por:
+  - "[[art. 626 CGP]]"
+anterior: "[[art. 805 CCo]]"
+siguiente: "[[art. 807 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#806"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título III|Título III]] › [[CCo - Libro Tercero - Título III - Capítulo VI|Capítulo VI]] › [[CCo - Libro Tercero - Título III - Capítulo VI - Sección III|Sección III]]
+
+## Artículo 806. OTORGAMIENTO DE GARANTÍA SUFICIENTE POR EL ACTOR - MEDIDAS TOMADAS POR EL JUEZ
+
+> [!warning] Derogado por el literal c), art. [[art. 626 CGP|626]], Ley 1564 de 2012
+
+El juez, si el actor otorga garantía suficiente, ordenará la suspensión del cumplimiento de las obligaciones derivadas del título y, con las restricciones y requisitos que señale, facultará al demandante para ejercitar aquellos derechos que sólo podrían ejercitarse durante el procedimiento de cancelación o de reposición, en su caso.
+
+---
+← [[art. 805 CCo]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo VI - Sección III|Sección III]] · [[art. 807 CCo]] →

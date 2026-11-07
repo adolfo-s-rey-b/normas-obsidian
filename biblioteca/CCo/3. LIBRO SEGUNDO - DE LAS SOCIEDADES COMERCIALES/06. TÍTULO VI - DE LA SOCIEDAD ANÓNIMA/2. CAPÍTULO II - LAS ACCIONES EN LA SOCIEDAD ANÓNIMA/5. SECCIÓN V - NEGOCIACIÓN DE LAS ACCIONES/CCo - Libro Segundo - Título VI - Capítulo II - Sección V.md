@@ -1,0 +1,45 @@
+---
+aliases:
+  - "CCo SECCIÓN V - NEGOCIACIÓN DE LAS ACCIONES"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "SECCIÓN"
+etiqueta: "V"
+nombre: "NEGOCIACIÓN DE LAS ACCIONES"
+libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
+titulo: "[[CCo - Libro Segundo - Título VI|TÍTULO VI - DE LA SOCIEDAD ANÓNIMA]]"
+capitulo: "[[CCo - Libro Segundo - Título VI - Capítulo II|CAPÍTULO II - LAS ACCIONES EN LA SOCIEDAD ANÓNIMA]]"
+articulos: "arts. 403 a 418"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título VI|Título VI]] › [[CCo - Libro Segundo - Título VI - Capítulo II|Capítulo II]]
+
+## SECCIÓN V - NEGOCIACIÓN DE LAS ACCIONES
+
+*Arts. 403 a 418*
+
+### Contenido
+
+- [[art. 403 CCo|Artículo 403]] — EXCEPCIONES A LA LIBRE NEGOCIACIÓN DE ACCIONES
+- [[art. 404 CCo|Artículo 404]] — PROHIBICIÓN A LOS ADMINISTRADORES DE ENAJENAR O ADQUIRIR ACCIONES - SANCIONES
+- [[art. 405 CCo|Artículo 405]] — NEGOCIACIÓN DE ACCIONES NOMINATIVAS NO PAGADAS EN SU TOTALIDAD
+- [[art. 406 CCo|Artículo 406]] — NEGOCIACIÓN DE ACCIONES NOMINATIVAS
+- [[art. 407 CCo|Artículo 407]] — NEGOCIACIÓN DE ACCIONES NOMINATIVAS CON DERECHO PREFERENCIAL
+- [[art. 408 CCo|Artículo 408]] — NEGOCIACIÓN DE ACCIONES CUYA PROPIEDAD ESTE EN LITIGIO
+- [[art. 409 CCo|Artículo 409]] — IMPEDIMENTO DE ENAJENACIÓN DE ACCIONES
+- [[art. 410 CCo|Artículo 410]] — PERFECCIONAMIENTO DE LA ANTICRESIS DE ACCIONES
+- [[art. 411 CCo|Artículo 411]] — DERECHOS DEL ACREEDOR PRENDARIO
+- [[art. 412 CCo|Artículo 412]] — DERECHOS DEL USUFRUCTUARIO-RESERVA DEL NUDO PROPIETARIO
+- [[art. 413 CCo|Artículo 413]] — PERFECCIONAMIENTO DE LA ANTICRESIS DE ACCIONES
+- [[art. 414 CCo|Artículo 414]] — EMBARGO Y ENAJENACIÓN FORZOSA DE ACCIONES
+- [[art. 415 CCo|Artículo 415]] — CONSUMACIÓN DEL EMBARGO DE ACCIONES NOMINATIVAS Y AL PORTADOR
+- [[art. 416 CCo|Artículo 416]] — NEGATIVA DE LA SOCIEDAD ANÓNIMA A LA INSCRIPCIÓN DE ACCIONES EN EL LIBRO DE REGISTRO
+- [[art. 417 CCo|Artículo 417]] — ADQUISICIÓN DE ACCIONES PROPIAS DE LA SOCIEDAD ANÓNIMA - MEDIDAS
+- [[art. 418 CCo|Artículo 418]] — PERTENENCIA DE LOS DIVIDENDOS PENDIENTES
+
+---
+← [[CCo - Libro Segundo - Título VI - Capítulo II - Sección IV|Sección IV]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II|Capítulo II]]

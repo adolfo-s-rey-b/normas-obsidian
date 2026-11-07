@@ -1,11 +1,25 @@
 ---
 aliases:
   - "Ley 1996 de 2019 art. 56"
+tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "56"
+epigrafe: "Proceso de revisión de interdicción o inhabilitación"
+capitulo: "[[Ley 1996 de 2019 - Capítulo VIII|CAPÍTULO VIII - Régimen de transición]]"
+vigencia: "vigente"
+anterior: "[[art. 55 Ley 1996 de 2019]]"
+siguiente: "[[art. 57 Ley 1996 de 2019]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=99712#56"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/ley_1996_de_2019
+  - vigencia/vigente
 ---
 
-## Proceso de revisión de interdicción o inhabilitación
+[[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]]
+
+## Artículo 56. Proceso de revisión de interdicción o inhabilitación
 
 En un plazo no superior a treinta y seis (36) meses contados a partir de la entrada en vigencia del Capítulo V de la presente ley, los jueces de familia que hayan adelantado procesos de interdicción o inhabilitación deberán citar de oficio a las personas que cuenten con sentencia de interdicción o inhabilitación anterior a la promulgación de la presente ley, al igual que a las personas designadas como curadores o consejeros, a que comparezcan ante el juzgado para determinar si requieren de la adjudicación judicial de apoyos.
 
@@ -13,9 +27,9 @@ En este mismo plazo, las personas bajo medida de interdicción o inhabilitación
 
 En ambos casos, el juez de familia determinará si las personas bajo medida de interdicción o inhabilitación requieren la adjudicación judicial de apoyos, de acuerdo a:
 
-1. La voluntad y preferencias de las personas bajo medida de interdicción o inhabilitación, en concordancia con lo dispuesto en el artículo [[art. 13 Ley 1996 de 2019|13]] de la presente ley. Por lo anterior, la participación de estas personas en el proceso de adjudicación judicial de apoyos es indispensable so pena de la nulidad del proceso, salvo las excepciones previstas en la presente ley.
+1\. La voluntad y preferencias de las personas bajo medida de interdicción o inhabilitación, en concordancia con lo dispuesto en el artículo [[art. 13 Ley 1996 de 2019|13]] de la presente ley. Por lo anterior, la participación de estas personas en el proceso de adjudicación judicial de apoyos es indispensable so pena de la nulidad del proceso, salvo las excepciones previstas en la presente ley.
 
-2. El informe de valoración de apoyos, que deberá ser aportado al juzgado por cualquiera de los citados a comparecer según lo dispuesto en el presente artículo, en el plazo que el juez disponga, y en todo caso, antes de la fecha señalada para comparecer ante el juzgado. En caso de que los citados a comparecer aporten más de un informe de valoración de apoyos, el juez deberá tener en consideración el informe más favorable para la autonomía e independencia de la persona, de acuerdo a la primacía de su voluntad y preferencias, así como las demás condiciones establecidas en el artículo [[art. 13 Ley 1996 de 2019|13]] de la presente ley.
+2\. El informe de valoración de apoyos, que deberá ser aportado al juzgado por cualquiera de los citados a comparecer según lo dispuesto en el presente artículo, en el plazo que el juez disponga, y en todo caso, antes de la fecha señalada para comparecer ante el juzgado. En caso de que los citados a comparecer aporten más de un informe de valoración de apoyos, el juez deberá tener en consideración el informe más favorable para la autonomía e independencia de la persona, de acuerdo a la primacía de su voluntad y preferencias, así como las demás condiciones establecidas en el artículo [[art. 13 Ley 1996 de 2019|13]] de la presente ley.
 
 El informe de valoración de apoyos deberá consignar, como mínimo:
 
@@ -35,11 +49,11 @@ f) Un informe sobre el proyecto de vida de la persona.
 
 g) La aprobación de la valoración de apoyos por parte de la persona bajo medida de interdicción o inhabilidad. En aquellos casos en que la persona bajo medida de interdicción o inhabilidad se encuentre imposibilitada para manifestar su voluntad y preferencias por cualquier medio posible, le corresponderá al juez aprobar dicha valoración de apoyos.
 
-3. La relación de confianza entre las personas bajo medida de interdicción o inhabilidad y la o las personas que serán designadas para prestar apoyo en la celebración de actos jurídicos.
+3\. La relación de confianza entre las personas bajo medida de interdicción o inhabilidad y la o las personas que serán designadas para prestar apoyo en la celebración de actos jurídicos.
 
-4. Las demás pruebas que el juez estime conveniente decretar.
+4\. Las demás pruebas que el juez estime conveniente decretar.
 
-5. Una vez vencido el término para la práctica de pruebas, el juez escuchará a los citados y verificará si tienen alguna objeción. Posteriormente, el juez procederá a dictar sentencia de adjudicación judicial de apoyos, la cual deberá:
+5\. Una vez vencido el término para la práctica de pruebas, el juez escuchará a los citados y verificará si tienen alguna objeción. Posteriormente, el juez procederá a dictar sentencia de adjudicación judicial de apoyos, la cual deberá:
 
 a) Hacer claridad frente a la adjudicación de apoyos en relación con los distintos tipos de actos jurídicos.
 
@@ -59,6 +73,5 @@ g) Disponer las demás medidas que el juez considere necesarias para asegurar la
 
 **PARÁGRAFO 2.** Las personas bajo medida de interdicción o inhabilitación anterior a la promulgación de la presente Ley, se entenderán como personas con capacidad legal plena cuando la sentencia del procese de revisión de la interdicción o de la inhabilitación quede ejecutoriada.
 
-CAPÍTULOIX
-
-Derogatorias, modificaciones y disposiciones finales
+---
+← [[art. 55 Ley 1996 de 2019]] · ↑ [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]] · [[art. 57 Ley 1996 de 2019]] →

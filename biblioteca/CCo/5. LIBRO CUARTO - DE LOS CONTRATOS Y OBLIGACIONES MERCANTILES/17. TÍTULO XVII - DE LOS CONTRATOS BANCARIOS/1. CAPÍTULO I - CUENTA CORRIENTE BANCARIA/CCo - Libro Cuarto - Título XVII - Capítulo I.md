@@ -1,0 +1,39 @@
+---
+aliases:
+  - "CCo CAPÍTULO I - CUENTA CORRIENTE BANCARIA"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "CUENTA CORRIENTE BANCARIA"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título XVII|TÍTULO XVII - DE LOS CONTRATOS BANCARIOS]]"
+articulos: "arts. 1382 a 1392"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título XVII|Título XVII]]
+
+## CAPÍTULO I - CUENTA CORRIENTE BANCARIA
+
+*Arts. 1382 a 1392*
+
+### Contenido
+
+- [[art. 1382 CCo|Artículo 1382]] — DEFINICIÓN DE CUENTA CORRIENTE BANCARIA
+- [[art. 1383 CCo|Artículo 1383]] — CONDICIÓN DE SALVO A BUEN COBRO EN UN CHEQUE
+- [[art. 1384 CCo|Artículo 1384]] — DISPOSICIÓN DE DEPÓSITOS EN CUENTA CORRIENTE COLECTIVA
+- [[art. 1385 CCo|Artículo 1385]] — OPERANCIA DE LA COMPENSACIÓN DE DEUDAS
+- [[art. 1386 CCo|Artículo 1386]] — PRUEBA DE LA CONSIGNACIÓN EN CUENTA CORRIENTE - RECIBO DE CHEQUERA
+- [[art. 1387 CCo|Artículo 1387]] — AFECTACIÓN DE EMBARGO DE SUMAS DEPOSITADAS
+- [[art. 1388 CCo|Artículo 1388]] — PAGO DE CHEQUE POR VALOR SUPERIOR AL SALDO EXISTENTE EN CUENTA CORRIENTE
+- [[art. 1389 CCo|Artículo 1389]] — TERMINACIÓN DEL CONTRATO DE CUENTA CORRIENTE
+- [[art. 1390 CCo|Artículo 1390]] — OBLIGACIÓN DEL BANCO A PAGAR CHEQUES LIBRADOS DESPUÉS DE LA MUERTE O INCAPACIDAD DEL CUENTACORRENTISTA
+- [[art. 1391 CCo|Artículo 1391]] — RESPONSABILIDAD DEL BANCO POR PAGO DE CHEQUES FALSOS O ALTERADOS
+- [[art. 1392 CCo|Artículo 1392]] — CONSTANCIA DE TÍTULOS DISPONIBLES
+
+---
+↑ [[CCo - Libro Cuarto - Título XVII|Título XVII]] · [[CCo - Libro Cuarto - Título XVII - Capítulo II|Capítulo II]] →

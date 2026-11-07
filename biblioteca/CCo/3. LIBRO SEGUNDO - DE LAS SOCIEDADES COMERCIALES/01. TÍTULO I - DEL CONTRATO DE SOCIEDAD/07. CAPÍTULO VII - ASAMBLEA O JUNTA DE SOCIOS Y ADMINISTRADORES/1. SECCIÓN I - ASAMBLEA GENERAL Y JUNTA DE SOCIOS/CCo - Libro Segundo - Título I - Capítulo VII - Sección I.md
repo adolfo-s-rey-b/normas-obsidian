@@ -1,0 +1,44 @@
+---
+aliases:
+  - "CCo SECCIÓN I - ASAMBLEA GENERAL Y JUNTA DE SOCIOS"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "SECCIÓN"
+etiqueta: "I"
+nombre: "ASAMBLEA GENERAL Y JUNTA DE SOCIOS"
+libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
+titulo: "[[CCo - Libro Segundo - Título I|TÍTULO I - DEL CONTRATO DE SOCIEDAD]]"
+capitulo: "[[CCo - Libro Segundo - Título I - Capítulo VII|CAPÍTULO VII - ASAMBLEA O JUNTA DE SOCIOS Y ADMINISTRADORES]]"
+articulos: "arts. 181 a 195"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título I|Título I]] › [[CCo - Libro Segundo - Título I - Capítulo VII|Capítulo VII]]
+
+## SECCIÓN I - ASAMBLEA GENERAL Y JUNTA DE SOCIOS
+
+*Arts. 181 a 195*
+
+### Contenido
+
+- [[art. 181 CCo|Artículo 181]] — REUNIONES ORDINARIAS DE LA ASAMBLEA O JUNTA DE SOCIOS
+- [[art. 182 CCo|Artículo 182]] — CONVOCATORIA Y DELIBERACIÓN DE REUNIONES ORDINARIAS Y EXTRAORDINARIAS
+- [[art. 183 CCo|Artículo 183]] — COMUNICACIÓN DE REUNIONES A LA SUPERINTENDENCIA
+- [[art. 184 CCo|Artículo 184]] — REPRESENTACIÓN DEL SOCIO EN ASAMBLEA O JUNTA DE SOCIOS
+- [[art. 185 CCo|Artículo 185]] — INCOMPATIBILIDAD DE ADMINISTRADORES Y EMPLEADOS
+- [[art. 186 CCo|Artículo 186]] — LUGAR Y QUORUM DE REUNIONES
+- [[art. 187 CCo|Artículo 187]] — FUNCIONES GENERALES DE LA JUNTA O ASAMBLEA DE SOCIOS
+- [[art. 188 CCo|Artículo 188]] — OBLIGATORIEDAD DE DECISIONES DE LA JUNTA O ASAMBLEA
+- [[art. 189 CCo|Artículo 189]] — CONSTANCIA EN ACTAS DE DECISIONES DE LA JUNTA O ASAMBLEA DE SOCIOS
+- [[art. 190 CCo|Artículo 190]] — DECISIONES INEFICACES, NULAS O INOPONIBLES TOMADAS EN ASAMBLEA O JUNTA DE SOCIOS
+- [[art. 191 CCo|Artículo 191]] — IMPUGNACIÓN DE DECISIONES DE LA ASAMBLEA O JUNTA DE SOCIOS
+- [[art. 192 CCo|Artículo 192]] — DECLARACIÓN DE NULIDAD DE UNA DECISIÓN DE LA ASAMBLEA O JUNTA DE SOCIOS
+- [[art. 193 CCo|Artículo 193]] — PROTECCIÓN DE DERECHOS DE TERCEROS E INDEMNIZACIÓN A LA SOCIEDAD
+- [[art. 194 CCo|Artículo 194]] — ACCIONES DE IMPUGNACIÓN INTERPOSICIÓN Y TRÁMITE
+- [[art. 195 CCo|Artículo 195]] — INSCRIPCIÓN DE REUNIONES EN LIBRO DE ACTAS Y ACCIONES
+
+---
+↑ [[CCo - Libro Segundo - Título I - Capítulo VII|Capítulo VII]] · [[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|Sección II]] →

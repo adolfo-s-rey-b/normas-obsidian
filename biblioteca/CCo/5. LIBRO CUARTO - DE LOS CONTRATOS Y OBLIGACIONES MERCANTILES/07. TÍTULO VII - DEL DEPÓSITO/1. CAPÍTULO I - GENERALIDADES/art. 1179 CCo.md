@@ -1,0 +1,35 @@
+---
+aliases:
+  - "CCo art. 1179"
+  - "art. 1179 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 1179"
+  - "CCo 1179"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "1179"
+epigrafe: "DEPÓSITO DE COSAS FUNGIBLES"
+libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
+titulo: "[[CCo - Libro Cuarto - Título VII|TÍTULO VII - DEL DEPÓSITO]]"
+capitulo: "[[CCo - Libro Cuarto - Título VII - Capítulo I|CAPÍTULO I - GENERALIDADES]]"
+vigencia: "vigente"
+anterior: "[[art. 1178 CCo]]"
+siguiente: "[[art. 1180 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1179"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título VII|Título VII]] › [[CCo - Libro Cuarto - Título VII - Capítulo I|Capítulo I]]
+
+## Artículo 1179. DEPÓSITO DE COSAS FUNGIBLES
+
+En el depósito de cosas fungibles el depositante podrá convenir con el depositario en que le restituya cosas de la misma especie y calidad.
+
+En este caso, sin que cesen las obligaciones propias del depositario adquirirá la propiedad de las cosas depositadas.
+
+---
+← [[art. 1178 CCo]] · ↑ [[CCo - Libro Cuarto - Título VII - Capítulo I|Capítulo I]] · [[art. 1180 CCo]] →

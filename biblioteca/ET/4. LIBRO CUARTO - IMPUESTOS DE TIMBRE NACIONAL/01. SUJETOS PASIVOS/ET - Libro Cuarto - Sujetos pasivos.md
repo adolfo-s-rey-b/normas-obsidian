@@ -1,0 +1,30 @@
+---
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "SUJETOS PASIVOS"
+libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTOS DE TIMBRE NACIONAL]]"
+articulos: "arts. 514 a 518"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]]
+
+## SUJETOS PASIVOS
+
+*Arts. 514 a 518*
+
+### Contenido
+
+- [[art. 514 ET|Artículo 514]] — CONTRIBUYENTES O RESPONSABLES SON SUJETOS PASIVOS
+- [[art. 515 ET|Artículo 515]] — QUIÉNES SON CONTRIBUYENTES
+- [[art. 516 ET|Artículo 516]] — QUIÉNES SON RESPONSABLES
+- [[art. 517 ET|Artículo 517]]
+- [[art. 518 ET|Artículo 518]] — AGENTES DE RETENCIÓN
+
+---
+↑ [[ET - Libro Cuarto|Libro Cuarto]] · [[ET - Libro Cuarto - Actuaciones gravadas y sus tarifas|Actuaciones gravadas y sus tarifas]] →

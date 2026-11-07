@@ -1,0 +1,33 @@
+---
+aliases:
+  - "CCo art. 1869"
+  - "art. 1869 Decreto 410 de 1971"
+  - "Decreto 410 de 1971 art. 1869"
+  - "CCo 1869"
+tipo: articulo
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+articulo: "1869"
+epigrafe: "APLICACIÓN DE NORMAS A EXPLOTADORES DE SERVICIOS AÉREOS ESPECIALES"
+libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
+parte: "[[CCo - Libro Quinto - Parte Segunda|PARTE SEGUNDA - DE LA AERONÁUTICA]]"
+capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo X|CAPÍTULO X - EXPLOTADOR DE AERONAVES]]"
+vigencia: "vigente"
+anterior: "[[art. 1868 CCo]]"
+siguiente: "[[art. 1870 CCo]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1869"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cco
+  - vigencia/vigente
+---
+
+[[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]] › [[CCo - Libro Quinto - Parte Segunda|Parte Segunda]] › [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]]
+
+## Artículo 1869. APLICACIÓN DE NORMAS A EXPLOTADORES DE SERVICIOS AÉREOS ESPECIALES
+
+Los artículos anteriores se aplicarán igualmente a los explotadores de servicios aéreos especiales.
+
+---
+← [[art. 1868 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]] · [[art. 1870 CCo]] →

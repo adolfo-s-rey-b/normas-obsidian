@@ -1,0 +1,38 @@
+---
+aliases:
+  - "ET OTRAS DISPOSICIONES PROCEDIMENTALES"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "OTRAS DISPOSICIONES PROCEDIMENTALES"
+libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCION GENERAL DE IMPUESTOS NACIONALES]]"
+capitulo: "[[ET - Libro Quinto - Capítulo II (4)|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACION TRIBUTARIA]]"
+articulos: "arts. 866 a 869-3"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Capítulo II (4)|Capítulo II]]
+
+## OTRAS DISPOSICIONES PROCEDIMENTALES
+
+*Arts. 866 a 869-3*
+
+### Contenido
+
+- [[art. 866 ET|Artículo 866]] — CORRECCIÓN DE LOS ACTOS ADMINISTRATIVOS Y LIQUIDACIONES PRIVADAS
+- [[art. 867 ET|Artículo 867]] — PAGO O CAUCIÓN PARA DEMANDAR
+- [[art. 867-1 ET|Artículo 867-1]] — ACTUALIZACIÓN DEL VALOR DE LAS SANCIONES TRIBUTARIAS PENDIENTES DE PAGO
+- [[art. 868 ET|Artículo 868]] — UNIDAD DE VALOR TRIBUTARIO, UVT
+- [[art. 868-1 ET|Artículo 868-1]] — VALORES ABSOLUTOS REEXPRESADOS EN UNIDADES DE VALOR TRIBUTARIO, UVT
+- [[art. 868-2 ET|Artículo 868-2]] — MONEDA PARA EFECTOS FISCALES
+- [[art. 869 ET|Artículo 869]] — ABUSO EN MATERIA TRIBUTARIA
+- [[art. 869-1 ET|Artículo 869-1]] — SUPUESTOS PARA LA APLICACIÓN DEL ARTÍCULO 869 DEL ESTATUTO TRIBUTARIO
+- [[art. 869-2 ET|Artículo 869-2]] — FACULTADES DE LA ADMINISTRACIÓN TRIBUTARIA EN CASO DE ABUSO
+- [[art. 869-3 ET|Artículo 869-3]] — PROCEDIMIENTO DE MUTUO ACUERDO
+
+---
+← [[ET - Libro Quinto - Capítulo II - Devoluciones|Devoluciones]] · ↑ [[ET - Libro Quinto - Capítulo II (4)|Capítulo II]]
