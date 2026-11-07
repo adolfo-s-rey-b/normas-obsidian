@@ -32,6 +32,21 @@ RE_MISMA = re.compile(
     r"|\bib[íi]dem\b|\bejusdem\b",
     re.I,
 )
+# Abreviaturas usuales de los códigos («C. P. artículo 188», «art. 20 del C.G.P.»).
+ABREVIATURAS = [
+    (r"C\.\s?P\.\s?P\.", "CPP"), (r"C\.\s?P\.\s?C\.", "CPC"), (r"C\.\s?G\.\s?P\.", "CGP"),
+    (r"C\.\s?P\.\s?A\.\s?C\.\s?A\.", "CPACA"), (r"C\.\s?S\.\s?T\.", "CST"),
+    (r"C\.\s?P\.\s?T\.", "CPT"), (r"C\.\s?de\s?Co\.|C\.\s?Co\.", "CCo"), (r"E\.\s?T\.", "ET"),
+    (r"C\.\s?C\.", "CC"), (r"C\.\s?P\.", "CP"), (r"C\.\s?N\.|C\.\s?Pol\.", "CPol"),
+]
+RE_ABREV = re.compile(r"(?<![\w.])(?:" + "|".join(f"(?P<a{k}>{p})" for k, (p, _) in enumerate(ABREVIATURAS)) + r")")
+RE_ABREV_PREVIA = re.compile(r"(?:" + "|".join(p for p, _ in ABREVIATURAS) + r")\s*,?\s*$")
+
+
+def _sigla_abrev(m: re.Match) -> str:
+    return ABREVIATURAS[int(m.lastgroup[1:])][1]
+
+
 # Referencias anafóricas a otra norma ya mencionada: no se puede resolver.
 RE_ANAFORA = re.compile(
     r"\b(?:del?|de\s+la|en\s+el|en\s+la)\s+(?:citad[oa]|mism[oa]|dich[oa]|mencionad[oa]|referid[oa])\s+"
@@ -60,10 +75,13 @@ RE_FECHA = re.compile(
     r"setiembre|octubre|noviembre|diciembre)\b",
     re.I,
 )
-RE_REFORMA = re.compile(r"(?:quedar[áa]n?\s+)?as[íi]\s*:\s*", re.I)
+RE_REFORMA = re.compile(
+    r"(?:(?:quedar[áa]n?\s+)?as[íi]|del?\s+siguiente\s+tenor|(?:el|lo)\s+siguiente|siguientes?)\s*:\s*",
+    re.I,
+)
 RE_VERBO_REFORMA = re.compile(
     r"\b(?:modif[íi]quese|modif[íi]case|adici[óo]nese|sustit[úu]yase|subr[óo]guese|reempl[áa]cese|"
-    r"quedar[áa]n?)\b",
+    r"quedar[áa]n?|tendr[áa]n?|adici[óo]nase|modif[íi]case|sustit[úu]yese|der[óo]gase)\b",
     re.I,
 )
 
@@ -110,6 +128,8 @@ def marcadores(texto: str, etiqueta_actual: str | None, reg: Registry) -> list[t
         hallados.append((m.start(), m.end(), etiqueta_actual))
     for m in RE_ANAFORA.finditer(texto):
         hallados.append((m.start(), m.end(), None))
+    for m in RE_ABREV.finditer(texto):
+        hallados.append((m.start(), m.end(), _sigla_abrev(m)))
     # Sin solapamientos: el que empieza antes; a igual inicio, el más largo y
     # los conocidos antes que los desconocidos.
     hallados.sort(key=lambda h: (h[0], -(h[1] - h[0]), h[2] is None))
@@ -128,7 +148,8 @@ def _clausula_fin(texto: str, inicio: int) -> tuple[int, bool]:
     """Fin de la cláusula y si es un fin natural (no truncado por longitud)."""
     for m in re.finditer(r"[.;:](?=\s|$)|\n", texto[inicio:]):
         antes = texto[max(0, inicio + m.start() - 4): inicio + m.start()]
-        if m.group() == "." and re.search(r"(?:\bart|\barts|\bNo|\bnum|\bLit|\bInc)$", antes, re.I):
+        if m.group() == "." and (re.search(r"(?:\bart|\barts|\bNo|\bnum|\bLit|\bInc|\bCo)$", antes, re.I)
+                                   or re.search(r"(?:^|[\s.(])[A-Z]$", antes)):
             continue
         if m.start() > LIMITE_CLAUSULA:
             break
@@ -186,6 +207,28 @@ def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry) -> str:
         fin, natural = _clausula_fin(texto, ini)
         clausula = texto[ini:fin]
         marcs = marcadores(clausula, etiqueta_actual, reg)
+        if not marcs:
+            # «(C. P. artículo 188)»: abreviatura del código justo antes.
+            ma = RE_ABREV_PREVIA.search(texto, max(0, m.start() - 14), m.start())
+            if ma:
+                mm = RE_ABREV.search(ma.group(0))
+                if mm:
+                    zona_enl, _ = _enlazar_zona(clausula, _sigla_abrev(mm), "art")
+                    salida.append(zona_enl)
+                    pos = fin
+                    continue
+            # «La Ley 599 de 2000 tendrá un artículo 250A…»: la norma reformada
+            # va antes de «artículo», en la misma oración y con verbo de reforma.
+            ini_or = max(texto.rfind(". ", 0, m.start()), texto.rfind("; ", 0, m.start())) + 1
+            previo = texto[ini_or:m.start()]
+            if RE_VERBO_REFORMA.search(previo):
+                externos = [e for (_, _, e) in marcadores(previo, etiqueta_actual, reg)
+                            if e != etiqueta_actual]
+                if externos and externos[-1] is not None:
+                    zona_enl, _ = _enlazar_zona(clausula, externos[-1], "art")
+                    salida.append(zona_enl)
+                    pos = fin
+                    continue
         if not marcs and not natural:
             # Enumeración demasiado larga para saber a qué norma pertenece.
             salida.append(clausula)

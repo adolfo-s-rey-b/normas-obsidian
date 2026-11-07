@@ -142,7 +142,7 @@ def test_decreto_1991_malformado():
 
 
 def test_cn_transitorios_y_esquema(reg):
-    n = _norma("cn_i4125_recorte.html", "4125", reg, "CN")
+    n = _norma("cn_i4125_recorte.html", "4125", reg, "CPol")
     assert n.nombre_canonico == "Constitución Política de 1991"
     nums = [a.numero for a in n.articulos]
     assert len(nums) == len(set(nums))
@@ -205,7 +205,7 @@ def test_tablas_y_numeracion_compuesta():
     ("Corregido por el art. 16, Decreto Nacional 1736 de 2012", "CGP",
      ["[[art. 16 Decreto 1736 de 2012|16]]"], []),
     ("artículo 22 de la Ley 1564 de 2012", "Ley 1996 de 2019", ["[[art. 22 CGP|22]]"], []),
-    ("el artículo transitorio 5 de la Constitución", "CGP", ["[[art. transitorio 5 CN|5]]"], []),
+    ("el artículo transitorio 5 de la Constitución", "CGP", ["[[art. transitorio 5 CPol|5]]"], []),
     ("del artículo 123 del Código Penitenciario", "CGP", [], ["[["]),
     ("del artículo 1944 del citado código", "CGP", [], ["[["]),
     ("declarado EXEQUIBLE por el artículo 5 en Sentencia C-726 de 2014", "CGP", [], ["|726]]", "|2014]]"]),
@@ -218,6 +218,17 @@ def test_enlaces(reg, texto, actual, esperado, prohibido):
         assert e in t, t
     for p in prohibido:
         assert p not in t, t
+
+
+@pytest.mark.parametrize("texto,actual,esperado", [
+    ("La Ley 599 de 2000 tendrá un artículo 250A, el cual quedará así:", "Ley 1474 de 2011",
+     "[[art. 250A CP|250A]]"),
+    ("Tráfico de migrantes (C. P. artículo 188), trata", "Ley 1474 de 2011", "[[art. 188 CP|188]]"),
+    ("el artículo 20 del C.G.P. y el artículo 5 del C. de Co. Fin.", "CPP", "[[art. 5 CCo|5]]"),
+    ("el artículo 20 del C.G.P. y otros", "CPP", "[[art. 20 CGP|20]]"),
+])
+def test_enlaces_reforma_y_abreviaturas(reg, texto, actual, esperado):
+    assert esperado in enlazar(texto, actual, reg)
 
 
 def test_enlace_texto_citado(reg):
@@ -255,6 +266,7 @@ def test_render_frontmatter_y_navegacion(biblioteca):
     txt = art22.read_text(encoding="utf-8")
     fm = frontmatter(txt)
     assert "art. 22 Ley 1564 de 2012" in fm["aliases"]
+    assert "CGP 22" in fm["aliases"]
     assert fm["vigencia"] == "parcialmente derogado"
     assert "[[art. 61 Ley 1996 de 2019]]" in fm["derogado_por"]
     assert fm["anterior"] == "[[art. 21 CGP]]" and fm["siguiente"] == "[[art. 23 CGP]]"

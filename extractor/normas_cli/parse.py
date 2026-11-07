@@ -156,6 +156,9 @@ class Cabecera:
     transitorio: bool
     base: int  # parte numérica principal (0 si no tiene)
     clave: tuple  # para comparar orden
+    # Lectura alternativa sin la letra separada por espacio («ARTÍCULO 179 A»
+    # es 179A tras un 179, pero «ARTÍCULO 5 A partir de…» es el 5).
+    sin_letra: "Cabecera | None" = None
 
 
 RE_ART_INICIO = re.compile(r"^\s*(ART[ÍI]CULO|Art[íi]culo|ARTICULO)(S?)\s+")
@@ -196,10 +199,18 @@ def _cabecera(texto: str) -> Cabecera | None:
         return None
     if m.group(2) and not re.match(r"\s*\.\s", despues):
         return None  # «ARTICULOS 93, 94 y 95» no es una cabecera
+    alternativa = None
+    if not letra and not transitorio:
+        ml = re.match(r"\s([A-N])(?=[\s.:-]|$)", despues)
+        if ml:
+            alternativa = Cabecera(numero, fin, False, base, (base, sub, 0))
+            letra = ml.group(1)
+            numero += letra
+            fin += ml.end()
     if transitorio:
         numero = f"transitorio {numero}"
     letra_ord = (ord(letra) - 64) if letra else 0
-    return Cabecera(numero, fin, transitorio, base, (base, sub, letra_ord))
+    return Cabecera(numero, fin, transitorio, base, (base, sub, letra_ord), alternativa)
 
 
 # --- Unidades del documento ----------------------------------------------------
@@ -664,6 +675,15 @@ def parse(
     return norma
 
 
+RE_CITA_ARTICULO = re.compile(r"^\s*[\"“]\s*(?:ART[ÍI]CULO|Art[íi]culo)\s+\d")
+RE_INTRO_CITA = re.compile(r"(?:as[íi]|siguiente|siguientes|tenor)\s*:\s*[\"“]?\s*$", re.I)
+RE_VERBO_CITA = re.compile(
+    r"\b(?:modif[íi]c[ae]se|adici[óo]n[ae]se|sustit[úu]y[ae]se|subr[óo]g[ae]se|reempl[áa]z[ae]se|"
+    r"quedar[áa]n?)\b",
+    re.I,
+)
+
+
 def _cabeceras_aceptadas(unidades: list[Unidad], norma: Norma) -> dict:
     """Decide qué cabeceras candidatas son artículos reales.
 
@@ -677,8 +697,26 @@ def _cabeceras_aceptadas(unidades: list[Unidad], norma: Norma) -> dict:
     ultimo_trans: Cabecera | None = None
     env_ult = 0  # último artículo de la norma envoltura
     ultimo_fue_trans = False
+    k_previo = -1
+
+    def en_cita(k: int) -> bool:
+        """¿La cabecera k está dentro de un texto citado de otra norma?
+
+        Señales desde la cabecera anterior: un párrafo que empieza con
+        «"ARTÍCULO N» o un párrafo que termina en «…así:» con verbo de reforma.
+        """
+        for u in unidades[k_previo + 1: k]:
+            if RE_CITA_ARTICULO.match(u.texto):
+                return True
+        previo = next((u.texto for u in reversed(unidades[k_previo + 1: k]) if u.texto), "")
+        if not previo and k_previo >= 0:
+            previo = unidades[k_previo].texto
+        return bool(RE_INTRO_CITA.search(previo) and RE_VERBO_CITA.search(previo))
+
     for pos, (k, c) in enumerate(cands):
         sig = [cc for _, cc in cands[pos + 1: pos + 4]]
+        if c.sin_letra is not None and not (ultimo is not None and c.base == ultimo.base):
+            c = c.sin_letra
         if c.numero == "transitorio" and not ultimo_fue_trans:
             # «ARTÍCULO TRANSITORIO.» sin número entre artículos ordinarios: es
             # un inciso añadido al artículo anterior por un acto reformatorio.
@@ -701,18 +739,30 @@ def _cabeceras_aceptadas(unidades: list[Unidad], norma: Norma) -> dict:
         if ultimo is None:
             acept[k] = c
             ultimo = c
+            k_previo = k
             if RE_ENVOLTURA.search(unidades[k].texto):
                 envoltura.add(k)
                 env_ult = c.base
                 ultimo = None
+            continue
+        continua = 0 <= c.base - ultimo.base <= 3 and c.clave > ultimo.clave
+        if not continua and en_cita(k):
+            norma.avisos.append(f"cabecera descartada (texto citado): {unidades[k].texto[:60]}")
             continue
         if c.clave > ultimo.clave:
             salto = c.base - ultimo.base
             if salto > 30 and not any(not s.transitorio and 0 < s.base - c.base <= 3 for s in sig):
                 norma.avisos.append(f"cabecera descartada (salto {salto}): {unidades[k].texto[:60]}")
                 continue
+            # Un salto con la secuencia actual continuando poco después es una
+            # interpolación (p. ej. el texto citado del artículo reformado).
+            prox = [cc for _, cc in cands[pos + 1: pos + 16] if not cc.transitorio]
+            if salto > 3 and any(ultimo.base < s.base <= ultimo.base + 3 and s.base < c.base for s in prox):
+                norma.avisos.append(f"cabecera descartada (interpolada): {unidades[k].texto[:60]}")
+                continue
             acept[k] = c
             ultimo = c
+            k_previo = k
         elif envoltura and c.base == env_ult + 1:
             acept[k] = c
             envoltura.add(k)

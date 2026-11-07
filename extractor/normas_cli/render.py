@@ -195,6 +195,10 @@ class Renderizador:
         self.fecha = fecha_extraccion or _dt.date.today().isoformat()
         opciones = reg.opciones(norma.id_fuente, norma.sigla)
         self.estado_norma = opciones.get("estado")
+        self.alias_siglas = [str(x) for x in opciones.get("alias_siglas") or []]
+        # Fuentes que marcan los apartes tachados explícitamente (Senado):
+        # no se infiere el tachado a partir de las notas.
+        self.tachado_explicito = opciones.get("fuente") == "senado"
         if norma.url_fuente and norma.url_fuente.startswith("http"):
             self.url = norma.url_fuente
         elif norma.id_fuente:
@@ -304,6 +308,13 @@ class Renderizador:
             out += [f"art. {num} {f}", f"{f} art. {num}"]
         if n.sigla:
             out.append(f"{n.sigla} {num}")
+        mletra = re.fullmatch(r"(\d+)([A-Z])", num)
+        if mletra:  # «410A» también se cita como «410-A» y «410 A»
+            for variante in (f"{mletra.group(1)}-{mletra.group(2)}", f"{mletra.group(1)} {mletra.group(2)}"):
+                for f in dict.fromkeys(formas_norma):
+                    out.append(f"art. {variante} {f}")
+        for s in self.alias_siglas:
+            out += [f"art. {num} {s}", f"{s} art. {num}", f"{s} {num}"]
         archivo = f"art. {num} {self.slug_etq}"
         return [x for x in dict.fromkeys(out) if x != archivo]
 
@@ -337,7 +348,9 @@ class Renderizador:
             if objetivo:
                 siguiente_ctx = objetivo
             sig = bloques[i + 1] if i + 1 < len(bloques) else None
-            if (sig is not None and sig.tipo == "nota" and sig.clase_nota == "warning"
+            if self.tachado_explicito:
+                tachados += "~~" in texto
+            elif (sig is not None and sig.tipo == "nota" and sig.clase_nota == "warning"
                     and not RE_ART_COMPLETO.search(sig.texto)) or articulo_completo:
                 texto = f"~~{texto}~~"
                 tachados += 1
@@ -377,7 +390,7 @@ class Renderizador:
         if sig:
             fm.append(f"siguiente: {_q(f'[[{sig}]]')}")
         if self.url:
-            ancla = "" if a.es_transitorio else f"#{a.numero}"
+            ancla = "" if a.es_transitorio or "funcionpublica" not in self.url else f"#{a.numero}"
             fm.append(f"fuente: {_q(self.url + ancla)}")
         if n.actualizacion_fuente:
             fm.append(f"actualizacion_fuente: {_q(n.actualizacion_fuente)}")
@@ -462,7 +475,7 @@ class Renderizador:
         n = self.norma
         titulo = n.nombre_largo or n.titulo or n.nombre_canonico
         aliases = [n.nombre_canonico, nombre_normalizado(n.tipo, n.numero, n.anio), n.nombre_largo,
-                   f"art. INTRO {self.etq}"]
+                   f"art. INTRO {self.etq}", *self.alias_siglas]
         aliases = [a for a in dict.fromkeys(x for x in aliases if x) if a != self.slug_etq]
         fm = ["---", "aliases:"] + [f"  - {_q(a)}" for a in aliases]
         fm += ["tipo: norma", f"norma: {_q(n.nombre_canonico)}"]
@@ -486,7 +499,9 @@ class Renderizador:
             cuerpo.append("> [!warning] Norma derogada.")
         meta = []
         if self.url:
-            meta.append(f"- Fuente: [Gestor Normativo de Función Pública]({self.url})")
+            origen = ("Secretaría General del Senado" if "secretariasenado" in self.url
+                      else "Gestor Normativo de Función Pública")
+            meta.append(f"- Fuente: [{origen}]({self.url})")
         if n.actualizacion_fuente:
             meta.append(f"- Actualización de la fuente: {n.actualizacion_fuente}")
         meta.append(f"- Extraído el {self.fecha} · {n_arts} artículos")

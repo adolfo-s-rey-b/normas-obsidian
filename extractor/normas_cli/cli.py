@@ -17,6 +17,7 @@ from .fetch import CACHE_DIR, fetch_html, id_desde_url, url_para_id
 from .parse import parse
 from .registry import Registry
 from .render import render
+from .senado import descargar_norma as descargar_senado
 
 AQUI = Path(__file__).resolve().parent.parent  # carpeta extractor/
 REPO = AQUI.parent
@@ -69,10 +70,19 @@ def construir_parser() -> argparse.ArgumentParser:
 
 def _extraer(origen: str, reg: Registry, *, sigla: str | None, id_fuente: str | None,
              output: str, cache_dir: str | None, actualizar_registry: bool, forzar: bool) -> dict:
-    html, url = fetch_html(origen, cache_dir=cache_dir)
-    id_fuente = id_fuente or id_desde_url(url) or (origen if origen.isdigit() else None)
-    if not url.startswith("http"):
-        url = url_para_id(id_fuente) if id_fuente else None
+    ent_senado = next((e for e in reg.normas if e.extra.get("fuente") == "senado"
+                       and origen in (e.extra.get("url"), e.sigla)), None)
+    if ent_senado is not None:
+        # Normas que el DAFP no publica: Secretaría del Senado (ver senado.py).
+        html = descargar_senado(ent_senado.extra["url"], cache_dir=cache_dir or CACHE_DIR,
+                                titulo=f"{ent_senado.tipo} {ent_senado.numero} de {ent_senado.anio}")
+        url = ent_senado.extra["url"]
+        sigla = sigla or ent_senado.sigla
+    else:
+        html, url = fetch_html(origen, cache_dir=cache_dir)
+        id_fuente = id_fuente or id_desde_url(url) or (origen if origen.isdigit() else None)
+        if not url.startswith("http"):
+            url = url_para_id(id_fuente) if id_fuente else None
     opciones = reg.opciones(id_fuente, sigla)
     norma = parse(html, url=url, id_fuente=id_fuente, opciones=opciones)
     if sigla:
@@ -124,11 +134,12 @@ def main(argv: list[str] | None = None) -> int:
     for ent in reg.normas:
         if args.solo and ent.sigla not in args.solo and ent.id not in args.solo:
             continue
-        if not ent.id:
-            print(f"✗ {ent.etiqueta}: sin id en el registry", file=sys.stderr)
+        origen = ent.id or (ent.extra.get("url") if ent.extra.get("fuente") == "senado" else None)
+        if not origen:
+            print(f"✗ {ent.etiqueta}: sin id ni fuente en el registry", file=sys.stderr)
             continue
         try:
-            _extraer(ent.id, reg, sigla=ent.sigla, id_fuente=ent.id, output=args.output,
+            _extraer(origen, reg, sigla=ent.sigla, id_fuente=ent.id, output=args.output,
                      cache_dir=args.cache_dir, actualizar_registry=True, forzar=args.forzar)
         except Exception as e:  # noqa: BLE001 — se informa y se sigue con las demás
             errores += 1

@@ -9,6 +9,8 @@
 #     ruta      carpeta dentro de biblioteca/
 #     estado    vigente | derogada (informativo; se copia al frontmatter)
 #     jerarquia (opcional) orden forzado de niveles, de mayor a menor
+#     alias_siglas (opcional) otras siglas por las que se cita (alias en las notas)
+#     fuente/url (opcional) `senado` para normas que el DAFP no publica
 #     esquema   (opcional) niveles a insertar antes de ciertos artículos, para
 #               páginas del DAFP sin encabezados fiables (la Constitución).
 # codigos: diccionario «nombre del código» → sigla, para resolver referencias
@@ -35,10 +37,11 @@ normas:
   tipo: Constitución Política
   numero: '1'
   anio: '1991'
-  sigla: CN
+  sigla: CPol
   nombre: Constitución Política de Colombia
-  ruta: CN
+  ruta: CPol
   estado: vigente
+  alias_siglas: [CN]
   esquema:
   - {antes: '1', tipo: TÍTULO, etiqueta: I, nombre: "De los principios fundamentales"}
   - {antes: '11', tipo: TÍTULO, etiqueta: II, nombre: "De los derechos, las garantías y los deberes"}
@@ -164,6 +167,88 @@ normas:
   nombre: Estatuto Tributario
   ruta: ET
   estado: vigente
+- tipo: Ley
+  numero: '84'
+  anio: '1873'
+  sigla: CC
+  nombre: Código Civil
+  ruta: CC
+  estado: vigente
+  # No está en el Gestor Normativo del DAFP: se toma de la Secretaría del Senado.
+  fuente: senado
+  url: http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html
+- id: '14787'
+  tipo: Ley
+  numero: '906'
+  anio: '2004'
+  sigla: CPP
+  nombre: Código de Procedimiento Penal
+  ruta: CPP
+  estado: vigente
+- id: '6388'
+  tipo: Ley
+  numero: '599'
+  anio: '2000'
+  sigla: CP
+  nombre: Código Penal
+  ruta: CP
+  estado: vigente
+- id: '188'
+  tipo: Ley
+  numero: '472'
+  anio: '1998'
+  sigla: null
+  nombre: Acciones populares y de grupo
+  ruta: Ley 472 de 1998
+  estado: vigente
+- id: '304'
+  tipo: Ley
+  numero: '80'
+  anio: '1993'
+  sigla: null
+  nombre: Estatuto General de Contratación de la Administración Pública
+  ruta: Ley 80 de 1993
+  estado: vigente
+- id: '6739'
+  tipo: Ley
+  numero: '222'
+  anio: '1995'
+  sigla: null
+  nombre: Reforma del Libro II del Código de Comercio (sociedades)
+  ruta: Ley 222 de 1995
+  estado: vigente
+- id: '8738'
+  tipo: Ley
+  numero: '820'
+  anio: '2003'
+  sigla: null
+  nombre: Régimen de arrendamiento de vivienda urbana
+  ruta: Ley 820 de 2003
+  estado: vigente
+- id: '3992'
+  tipo: Ley
+  numero: '446'
+  anio: '1998'
+  sigla: null
+  nombre: Descongestión, eficiencia y acceso a la justicia
+  ruta: Ley 446 de 1998
+  estado: vigente
+- id: '34130'
+  tipo: Ley
+  numero: '1258'
+  anio: '2008'
+  sigla: null
+  nombre: Sociedad por acciones simplificada (SAS)
+  ruta: Ley 1258 de 2008
+  estado: vigente
+- id: '43292'
+  tipo: Ley
+  numero: '1474'
+  anio: '2011'
+  sigla: null
+  nombre: Estatuto Anticorrupción
+  ruta: Ley 1474 de 2011
+  estado: vigente
 codigos:
   codigo general del proceso: CGP
   codigo de comercio: CCo
@@ -186,8 +271,8 @@ codigos:
   codigo de minas: CMin
   codigo nacional de transito: CNT
   codigo nacional de transito terrestre: CNT
-  constitucion politica de colombia: CN
-  constitucion politica: CN
-  constitucion nacional: CN
-  constitucion: CN
+  constitucion politica de colombia: CPol
+  constitucion politica: CPol
+  constitucion nacional: CPol
+  constitucion: CPol
   estatuto tributario: ET
