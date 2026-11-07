@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node / plugin
+plugin-obsidian/node_modules/
+plugin-obsidian/main.js
+plugin-obsidian/*.js.map
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Descargas crudas de HTML (no versionar; usar tests/fixtures para muestras)
+*.html.cache
+/tmp_html/

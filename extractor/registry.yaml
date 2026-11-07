@@ -1,0 +1,28 @@
+normas:
+- id: '48425'
+  tipo: Ley
+  numero: '1564'
+  anio: '2012'
+  sigla: CGP
+  ruta: CGP
+- id: '99712'
+  tipo: Ley
+  numero: '1996'
+  anio: '2019'
+  sigla: null
+  ruta: Ley 1996 de 2019
+codigos:
+  codigo general del proceso: CGP
+  codigo de comercio: CCo
+  codigo civil: CC
+  codigo sustantivo del trabajo: CST
+  codigo penal: CP
+  codigo de procedimiento penal: CPP
+  codigo procesal del trabajo: CPT
+  codigo procesal del trabajo y de la seguridad social: CPT
+  codigo de procedimiento administrativo y de lo contencioso administrativo: CPACA
+  codigo contencioso administrativo: CCA
+  codigo nacional de policia: CNP
+  codigo nacional de seguridad y convivencia ciudadana: CNSCC
+  constitucion politica: CN
+  estatuto tributario: ET

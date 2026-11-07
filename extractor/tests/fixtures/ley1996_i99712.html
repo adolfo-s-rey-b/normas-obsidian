@@ -1,0 +1,1240 @@
+	
+﻿<!doctype html>
+<html lang="es">
+<head>
+
+
+
+<!-- Required meta tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="Ley 1996 de 2019 - Gestor Normativo" />
+<meta property="og:description" content="Establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad." />
+<meta property="og:image" content="https://www.funcionpublica.gov.co/documents/28587425/35428802/Logo_gestor_normativo_iconos.jpg/704e6daf-bdde-be35-374c-dee67809d4d1?t=1654122375247" />
+<meta name="description" content="">
+<meta name="author" content="">
+<meta name="keywords" content="apoyos,jurídicos,adjudicación,preferencias,valoración,discapacidad,anticipada,interdicción,inhabilitación,comunicación,discapacitados,capacidad,legal">    <meta itemprop="dateModified" content="2022-12-16">
+<title>Ley 1996 de 2019 - Gestor Normativo - Función Pública</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="Expires" content="0">
+<!-- <meta> -->
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<link rel="stylesheet" href="css_nuevo/style_gn.css"/>
+<!--Fontawesome-->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+
+
+<script>
+	//Cambiar tamaño fuente
+	function cambia_tamano_fuente(accion){
+		<!-- console.log('Entró a cambia_tamano_fuente'); -->
+		var vcontenido;
+		
+		//div que contiene el texto de la norma
+		var divspag = document.getElementsByTagName('div'); //descripcion-contenido
+		for ( var j = 0; j < divspag.length; j++) {
+			<!-- console.log('className: ' + divspag[j].className); -->
+			if(divspag[j].className == 'descripcion-contenido'){
+				vcontenido = divspag[j];
+			}
+		}
+		
+		<!-- console.log('ENCONTRADO!!!!: ' + vcontenido.className); -->
+		
+		
+		var elementos_parrafo = vcontenido.getElementsByTagName('p');
+		var tam_actual;
+		for ( var i = 0; i < elementos_parrafo.length; i++) {
+			<!-- console.log(elementos_parrafo[i].style.fontSize); -->
+			tam_actual = parseInt(elementos_parrafo[i].style.fontSize.replace('px',''));
+			<!-- console.log('tam_actual:' + tam_actual); -->
+			if(Number.isNaN(tam_actual))
+				tam_actual = 16;
+			<!-- console.log('tam_actual:' + tam_actual); -->
+			if(accion=='aumenta'){
+					elementos_parrafo[i].style.fontSize = (tam_actual + 1) + 'px';
+			}
+			if(accion=='reduce'){
+					elementos_parrafo[i].style.fontSize = (tam_actual - 1) + 'px';
+			}
+		}
+	}
+	
+	
+
+	
+</script>
+<style>
+p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+</style>
+
+</head>
+<body>
+
+  
+
+
+<!--header-->
+<header class="header" style="margin-top:-28px;">
+  <div class="header-top d-none d-lg-block">
+    <div class="container logo-nav-container"> <a href="https://www.gov.co/home/" class="img-fluid"><img src="img_nuevo/logo-gov1.png" alt="Logo gov.co"/></a>
+      <nav class="navigation accesibilidad">
+        <ul>
+          <li class="mr-5" style="font-size: 15px;"><a href="https://www.funcionpublica.gov.co/inicio?p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin">INGRESAR A LA INTRANET</a></li>
+          <li class="mr-1"> <button href="https://www.funcionpublica.gov.co/rss" type="button" role="button" class="btn btn-white" alt="Página principal de Función Pública"><i class="fa fa-rss pr-1 pl-1" aria-hidden="true"></i></button> </li>
+          <li class="mr-1">
+            <button type="button" class="btn btn-white" onclick="cambia_tamano_fuente('aumenta')">A+</button>
+          </li>
+          <li>
+            <button type="button" class="btn btn-white" onclick="cambia_tamano_fuente('reduce')">A-</button>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <!-- 
+  <div class="navbar-right">
+		<div id="iconos_barra">
+			<a class="navbar-link link-intranet" href="/web/intranet/inicio" title="Ingresar a la intranet">INGRESAR A LA INTRANET</a>
+			<a class="opcion" href="/rss" aria-label="Rss" target="_blank"><i class="icon-rss" aria-hidden="true"></i><span class="sr-only">RSS</span></a>
+			<a class="opcion" onclick="aumentarTexto()">A+</a>
+			<a class="opcion" onclick="reducirTexto()">A-</a>
+			<a title="Reestablecer el tama?o de la fuente" class="opcion" onclick="reducirTexto()"><i class="fa fa-refresh" aria-hidden="true"></i></a>
+		</div>					
+	</div> -->
+  
+  
+  <!--Reemplazar img Banner acÃ¡-->
+  <!-- <div class="banner  d-none d-lg-block"><a href="#"><img src="img_nuevo/banner1.png" alt="" width="1440" class="img-fluid" height="120" border="0"/></a></div> -->
+  <!--fin banner--> 
+  <!--logo y buscador-->
+  <div class="container ">
+    <div class="row align-items-center logo2-search">
+      <div class="col-lg-4 col-md-6"> 
+		<a href="https://www.funcionpublica.gov.co" class="logo">
+			<!--<img src="https://www.funcionpublica.gov.co/documents/418537/37421537/logo-CP-2023.png/63ca9626-0978-03ad-1312-b0050ab726b0?t=1684959039170" width="285px" class="img-fluid" alt="Logo Función Pública"/>-->
+			<img src="https://www.funcionpublica.gov.co/image/layout_set_logo?img_id=224510&t=1718837174316" width="285px" class="img-fluid" alt="Logo Función Pública"/>
+		</a> 
+	  </div>
+      <div class="col-lg-4 col-md-6"> 
+		<!--<a href="https://www.funcionpublica.gov.co/" class="logo">
+			<img src="https://www.funcionpublica.gov.co/documents/418537/37421537/layout_set_logo_FP.png/0587270b-880a-4f78-9b74-aaf988700c87?t=1659904736491" width="285px" class="img-fluid" alt="Logo Función Pública"/>
+		</a>--> 
+	  </div>      
+	  <form action="/web/eva/curso-para-veedurias-ciudadanas?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath=%2Fsearch.jsp&amp;_com_liferay_portal_search_web_portlet_SearchPortlet_redirect=http%3A%2F%2Fwww.funcionpublica.gov.co%2Fweb%2Feva%2Fcurso-para-veedurias-ciudadanas%3Fp_p_id%3Dcom_liferay_portal_search_web_portlet_SearchPortlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview" class="form " data-fm-namespace="_com_liferay_portal_search_web_portlet_SearchPortlet_" id="_com_liferay_portal_search_web_portlet_SearchPortlet_fm" method="get" name="_com_liferay_portal_search_web_portlet_SearchPortlet_fm"> 
+	  <div class="col d-none d-lg-block  mt-md-4 align-self-end "> <span name="btnsearch" style="cursor: pointer;" class="g-pos-abs g-right-20 d-block g-width-50 h-100"> <i class="admin-search g-absolute-centered"></i> </span>
+	    <input class="field form-control" id="_com_liferay_portal_search_web_portlet_SearchPortlet_formDate" name="_com_liferay_portal_search_web_portlet_SearchPortlet_formDate" value="1535491536559" type="hidden"> 
+		<input name="p_p_id" value="com_liferay_portal_search_web_portlet_SearchPortlet" type="hidden">
+		<input name="p_p_lifecycle" value="0" type="hidden">
+		<input name="p_p_state" value="maximized" type="hidden">
+		<input name="p_p_mode" value="view" type="hidden">
+		<input name="_com_liferay_portal_search_web_portlet_SearchPortlet_mvcPath" value="/search.jsp" type="hidden">
+		<input name="_com_liferay_portal_search_web_portlet_SearchPortlet_redirect" value="/web/eva/curso-para-veedurias-ciudadanas?p_p_id=com_liferay_portal_search_web_portlet_SearchPortlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view" type="hidden"> 
+        <input name="_com_liferay_portal_search_web_portlet_SearchPortlet_keywords" class="form-control mr-sm-2 buscador_fp" type="search" placeholder="Buscar..." aria-label="Search">
+		</div>
+	  </form>
+      
+    </div>
+  </div>
+  
+  <!--menu principal-->
+  <div class="container">
+  
+
+  
+  
+  
+  
+    <nav class="navbar navbar-expand-lg navbar-light"> <a class="navbar-brand" href="https://www.funcionpublica.gov.co/web/eva">EVA</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item "> <a class="nav-link" href="https://www.funcionpublica.gov.co/web/eva/publicaciones">Publicaciones </a> </li>
+          <li class="nav-item active"> <a class="nav-link" href="https://www.funcionpublica.gov.co/web/eva/gestor-normativo">Gestor Normativo</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="https://www.funcionpublica.gov.co/eva/red">Red de servidores</a> </li>
+          <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Cursos virtuales </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown"> <a class="dropdown-item" href="https://www.funcionpublica.gov.co/web/eva/curso-integridad">Curso de integridad</a> <a class="dropdown-item" href="https://www.funcionpublica.gov.co/web/eva/programa-de-induccion-y-reinduccion">Programa de inducción y reinducción</a> <a class="dropdown-item" href="https://www.funcionpublica.gov.co/web/eva/curso-para-veedurias-ciudadanas">Curso para Veedurías Ciudadanas</a> <a class="dropdown-item" href="https://www.funcionpublica.gov.co/web/eva/curso-gerentes-publicos">Curso para Gerentes PÃºblicos</a> <a class="dropdown-item" href="https://www.funcionpublica.gov.co/web/eva/curso-mipg">Curso MIPG</a> <a class="dropdown-item" href="https://www.funcionpublica.gov.co/web/eva/curso-de-empleo-publico">Curso de Empleo PÃºblico</a> </div>
+          </li>
+          <li class="nav-item"> <a class="nav-link" href="https://www.funcionpublica.gov.co/eva/es/formatos-administracion-publica">Formatos</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="https://www.funcionpublica.gov.co/web/eva/contactenos">Contáctenos</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="https://www.funcionpublica.gov.co/web/eva/preguntas-frecuentes">Preguntas frecuentes</a> </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+  
+  <!---breadcrumb-->
+  <div class="container">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb"  id="spanmiga" >
+        <li class="breadcrumb-item"><a href="https://www.funcionpublica.gov.co/web/eva">EVA</a></li>
+        <li class="breadcrumb-item"><a href="https://www.funcionpublica.gov.co/web/eva/gestor-normativo">Gestor Normativo</a></li>
+		<li class="breadcrumb-item active" aria-current="page">Normas de la Función Pública</li>
+      </ol>
+    </nav>
+  </div>
+  </div>
+  <!-- End Breadcrumbs --> 
+
+</header>
+
+<!---End header-->
+	
+	<script>
+	
+
+
+	
+	
+	
+	function Scrolldown() {
+			window.scroll(0,-30); 
+	}
+	function eliminateDuplicates(arr) {
+				//console.log(arr);
+			  var i,
+				  len=arr.length,
+				  out=[],
+				  obj={};
+
+			  for (i=len-1;i>=0;i--) {
+					obj[arr[i]]=0;
+			  }
+			  //console.log(obj);
+			  for (i in obj) {
+					out.push(i);
+					//console.log(i);
+			  }
+			  out.reverse();
+			  return out;
+	}
+		
+	function mostrar_ocultar_jurisprudencia(iddiv){
+		if(document.getElementById("juris"+iddiv).style.display=='none'){
+			document.getElementById("juris"+iddiv).style.display='block';
+		}else{
+			document.getElementById("juris"+iddiv).style.display='none';
+		}
+	}
+	
+	if (sessionStorage.migapan) {
+				sessionStorage.migapan = sessionStorage.migapan + '+Ley 1996/19|99712';
+				var normas = sessionStorage.migapan.split('+');
+				normas = eliminateDuplicates(normas);
+				sessionStorage.migapan = normas.join('+');
+	} else {
+				sessionStorage.migapan = 'Ley 1996/19|99712';
+	}
+	var migadepan = sessionStorage.migapan.split("+");
+	var txt_miga='<li class="breadcrumb-item"><a href="https://www.funcionpublica.gov.co/web/eva">EVA</a></li>'+
+        '<li class="breadcrumb-item"><a href="https://www.funcionpublica.gov.co/web/eva/gestor-normativo">Gestor Normativo</a></li>'+
+	    '<li class="breadcrumb-item"><a href="https://www.funcionpublica.gov.co/eva/gestornormativo/consulta_avanzada.php">Consulta</a></li>';
+	for (j=0;j<migadepan.length;j++) {
+		var xnorma=migadepan[j].split("|");
+		txt_miga+='<li class="breadcrumb-item"><a href="/eva/gestornormativo/norma.php?i='+xnorma[1]+'">'+xnorma[0]+'</a></li>'; 
+	}
+	document.getElementById("spanmiga").innerHTML=txt_miga;
+	//document.getElementById("result").innerHTML = "You have clicked the button " +
+	//sessionStorage.migapan + " time(s) in this session.";
+
+	function mostrarMensajeNoDisponible() {
+		alert("Esta funcionalidad no está disponible por el momento.");
+	}
+	
+	</script>
+	<style>
+		h2,h3,h4 {
+			  text-align: center;
+			      font-size: 1em;
+			}
+		.titulo-norma{
+			  font-size: 2.441em;
+			  text-align: left;
+			}
+		h1 {
+			  text-align: center;
+			      font-size: 1em;
+			}
+		.jurisprudencia a {
+			color: #007bff!important;
+		}
+		ol {
+			padding-inline-start: 20px;
+		}
+	</style>
+  	
+  <main class="main"> 
+  <!-- Breadcrumbs -->
+  
+  <!-- getRealIP 186.155.18.67-->  <!-- cache: cache/99712-20221216111026.fp -->  
+  
+  <div class="container">
+    <h2 class="titulo-norma"><strong>Ley 1996 de 2019</strong></h2>  
+  <div class="row" style="margin-top: 4rem">
+  <!--col left-->
+        <div class="col-lg-3 col-md-12">
+							
+		<a href="norma_pdf.php?i=99712" target="_blank">
+		<!--<a href="#" onclick="mostrarMensajeNoDisponible(); return false;" target="_blank">-->
+			<button type="button" class="btn btn-yellow">Descargar PDF</button>
+		</a>
+					 <!--accordion-->
+      <div class="accordion" id="accordion">
+	  <div class="card-accordion">
+	  <div class="card-header" id="headingOne">
+	  <h5 class="mb-0">
+	  <button class="btn btn-link collapsed  btn-accordion" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          Fechas
+        </button>
+	  </h5>
+	  </div>
+	  <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+      <div class="card-body">
+			<p>Fecha de Expedición: 26 de agosto de 2019</p>
+			<p class="subrayado2"></p>
+			<p>Fecha de Entrada en Vigencia: </p>
+			<p class="subrayado2"></p>
+			<p>Medio de Publicación: </p>
+			<p class="subrayado2"></p>
+      </div>
+    </div>
+	  </div>
+	  
+	  <div class="card-accordion">
+			<div class="card-header" id="headingTwo">
+			  <h5 class="mb-0">
+				<button class="btn btn-link collapsed ; btn-accordion" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				 Temas (1)
+				</button>
+			  </h5>
+			</div>
+			
+			<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+			  <div class="card-body">
+			  				  <h5 class="txt-18">DISCAPACITADOS</h5> 
+				  <h6>- Subtema: Capacidad Legal</h6>
+				  
+				  				  <p>Establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad.</p>
+										
+								  			  </div>
+			</div>
+	</div>
+	  
+		
+	
+	 <div class="card-accordion">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+		<button class="btn btn-link collapsed; btn-accordion" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+          Vigencias(1)
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse  show" aria-labelledby="headingThree" data-parent="#accordion">
+      <div class="card-body">
+	  <p><a href="norma.php?i=48425#">Modifica Ley 1564 de 2012</a></p>	  <p class="subrayado2"></p>
+      </div>
+    </div>
+  </div> 
+
+  </div>
+	   <!--end accordion-->
+	  </div>
+	  
+	  <!--end col left-->
+
+<!--col right-->
+<div class="col-lg-9 col-md-12">
+
+			
+											
+						
+						
+											<div class="alert alert-dismissible alert-info">
+												  <!-- <button type="button" class="close" data-dismiss="alert">X</button> -->
+												  <p ><small>Los datos publicados tienen propósitos exclusivamente informativos. El Departamento Administrativo de la Función Pública no se hace responsable de la vigencia de la presente norma. Nos encontramos en un proceso permanente de actualización de los contenidos.</small></p>
+											</div>
+
+
+	<div class="descripcion-contenido">
+		<p align="center"><strong>LEY 1996 DE 2019</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>(Agosto 26)</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>"Por medio de la cual se establece el r&eacute;gimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad"</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL CONGRESO DE COLOMBIA</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>DECRETA:</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>CAPITULO I</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Disposiciones generales</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 1&#176;. </strong>Objeto. La presente ley tiene por objeto establecer medidas espec&iacute;ficas para la garant&iacute;a del derecho a la capacidad legal plena de las personas con discapacidad, mayores de edad, y al acceso a los apoyos que puedan requerirse para el ejercicio de la misma.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 2&#176;.</strong> Interpretaci&oacute;n normativa. La presente ley debe interpretarse conforme a la Convenci&oacute;n de Naciones Unidas sobre los Derechos de las Personas con Discapacidad y los dem&aacute;s pactos, convenios y convenciones internacionales sobre derechos humanos aprobados por Colombia que integren el bloque de constitucionalidad y la Constituci&oacute;n colombiana.</p>
+<p>No podr&aacute; restringirse o menoscabar ninguno de los derechos reconocidos y vigentes en la legislaci&oacute;n interna o en instrumentos internacionales, aduciendo que la presente ley no los reconoce o los reconoce en menor grado.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 3&#176;.</strong> Definiciones. Para efectos de la presente ley, se utilizar&aacute;n las siguientes definiciones:</p>
+<p> </p>
+<p>1. Actos jur&iacute;dicos. Es toda manifestaci&oacute;n de la voluntad y preferencias de una persona encaminada a producir efectos jur&iacute;dicos.</p>
+<p> </p>
+<p>2. Actos jur&iacute;dicos con apoyos. Son aquellos actos jur&iacute;dicos que se realizan por la persona titular del acto utilizando alg&uacute;n tipo de apoyo formal.</p>
+<p> </p>
+<p>3. Titular del acto jur&iacute;dico. Es la persona, mayor de edad, cuya voluntad y preferencias se manifiestan en un acto jur&iacute;dico determinado.</p>
+<p> </p>
+<p>4. Apoyos. Los apoyos de los que trata la presente ley son tipos de asistencia que se prestan a la persona con discapacidad para facilitar el ejercicio de su capacidad legal. Esto puede incluir la asistencia en la comunicaci&oacute;n, la asistencia para la comprensi&oacute;n de actos jur&iacute;dicos y sus consecuencias, y la asistencia en la manifestaci&oacute;n de la voluntad y preferencias personales.</p>
+<p> </p>
+<p>5. Apoyos formales. Son aquellos apoyos reconocidos por la presente ley, que han sido formalizados por alguno de los procedimientos contemplados en la legislaci&oacute;n nacional, por medio de los cuales se facilita y garantiza el proceso de toma de decisiones o el reconocimiento de una voluntad expresada de manera anticipada, por parte del titular del acto jur&iacute;dico determinado.</p>
+<p> </p>
+<p>6. Ajustes razonables. Son aquellas modificaciones y adaptaciones que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones que las dem&aacute;s, de todos los derechos humanos y libertades fundamentales.</p>
+<p> </p>
+<p>7. Valoraci&oacute;n de apoyos. Es el proceso que se realiza, con base en est&aacute;ndares t&eacute;cnicos, que tiene como finalidad determinar cu&aacute;les son los apoyos formales que requiere una persona para tomar decisiones relacionadas con el ejercicio de su capacidad legal.</p>
+<p> </p>
+<p>8. Comunicaci&oacute;n. El concepto de comunicaci&oacute;n se utilizar&aacute; en la presente ley para incluir sus distintas formas, incluyendo pero no limitado a, la lengua de se&ntilde;as colombiana, la visualizaci&oacute;n de textos, el braille, la comunicaci&oacute;n t&aacute;ctil, los macrotipos, los dispositivos multimedia de f&aacute;cil acceso, as&iacute; como el lenguaje escrito, los sistemas auditivos, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios y formatos aumentativos o alternativos de comunicaci&oacute;n, incluida la tecnolog&iacute;a de la informaci&oacute;n y las comunicaciones de f&aacute;cil acceso.</p>
+<p> </p>
+<p>9. Conflicto de inter&eacute;s. Situaci&oacute;n en la cual un inter&eacute;s laboral, personal, profesional, familiar o de negocios de una persona, puede llegar a afectar el desempe&ntilde;o y/o las decisiones imparciales y objetivas de sus funciones.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 4&#176;.</strong> Principios. Los siguientes principios guiar&aacute;n la aplicaci&oacute;n y la interpretaci&oacute;n de la presente ley, en concordancia con los dem&aacute;s principios establecidos en la Convenci&oacute;n sobre los Derechos de las Personas con Discapacidad, con el fin de garantizar la efectiva realizaci&oacute;n del derecho a la capacidad legal de las personas con discapacidad.</p>
+<p> </p>
+<p>1. Dignidad. En todas las actuaciones se observar&aacute; el respeto por la dignidad inherente a la persona con discapacidad como ser humano.</p>
+<p> </p>
+<p>2. Autonom&iacute;a. En todas las actuaciones se respetar&aacute; el derecho de las personas a autodeterminarse, a tomar sus propias decisiones, a equivocarse, a su independencia y al libre desarrollo de la personalidad conforme a la voluntad, deseos y preferencias propias, siempre y cuando estos, no sean contrarios a la Constituci&oacute;n, a la ley, y a los reglamentos internos que rigen las entidades p&uacute;blicas y privadas.</p>
+<p> </p>
+<p>3. Primac&iacute;a de la voluntad y preferencias de la persona titular del acto jur&iacute;dico. Los apoyos utilizados para celebrar un acto jur&iacute;dico deber&aacute;n siempre responder a la voluntad y preferencias de la persona titular del mismo. En los casos en los que, aun despu&eacute;s de haber agotado todos los ajustes razonables disponibles, no sea posible establecer la voluntad y preferencias de la persona de forma inequ&iacute;voca, se usar&aacute; el criterio de la mejor interpretaci&oacute;n de la voluntad, el cual se establecer&aacute; con base en la trayectoria de vida de la persona, previas manifestaciones de la voluntad y preferencias en otros contextos, informaci&oacute;n con la que cuenten personas de confianza, la consideraci&oacute;n de sus preferencias, gustos e historia conocida, nuevas tecnolog&iacute;as disponibles en el tiempo, y cualquier otra consideraci&oacute;n pertinente para el caso concreto.</p>
+<p> </p>
+<p>4. No discriminaci&oacute;n. En todas las actuaciones se observar&aacute; un trato igualitario a todas las personas sin discriminaci&oacute;n por ning&uacute;n motivo, incluyendo raza, etnia, religi&oacute;n, credo, orientaci&oacute;n sexual, genero e identidad de g&eacute;nero o discapacidad.</p>
+<p> </p>
+<p>5. Accesibilidad. En todas las actuaciones, se identificar&aacute;n y eliminar&aacute;n aquellos obst&aacute;culos y barreras que imposibiliten o dificulten el acceso a uno o varios de los servicios y derechos consagrados en la presente ley.</p>
+<p> </p>
+<p>6. Igualdad de oportunidades. En todas las actuaciones se deber&aacute; buscar la remoci&oacute;n de obst&aacute;culos o barreras que generen desigualdades de hecho que se opongan al pleno disfrute de los derechos de las personas con discapacidad.</p>
+<p> </p>
+<p>7. Celeridad. Las personas que solicitan apoyos formales para tomar decisiones jur&iacute;dicamente vinculantes, tienen derecho a acceder a estos sin dilaciones injustificadas, por lo que los tr&aacute;mites previstos en la presente ley deber&aacute;n tener una duraci&oacute;n razonable y se observar&aacute;n los t&eacute;rminos procesales con diligencia.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 5&#176;.</strong> Criterios para establecer salvaguardias. Las salvaguardias son todas aquellas medidas adecuadas y efectivas relativas al ejercicio de la capacidad legal, usadas para impedir abusos y garantizar la primac&iacute;a de la voluntad y preferencias de la persona titular del acto jur&iacute;dico, de conformidad con el derecho internacional en materia de derechos humanos. Todas estas deber&aacute;n regirse por los siguientes criterios:</p>
+<p> </p>
+<p>1. Necesidad. Habr&aacute; lugar a los apoyos solo en los casos en que la persona titular del acto jur&iacute;dico los solicite o, en los que, aun despu&eacute;s de haber agotado todos los ajustes razonables disponibles y medidas de apoyo, no sea posible establecer de forma inequ&iacute;voca la voluntad y preferencias de la persona titular del acto jur&iacute;dico.</p>
+<p> </p>
+<p>2. Correspondencia. Los apoyos que se presten para tomar decisiones deben corresponder a las circunstancias espec&iacute;ficas de cada persona.</p>
+<p> </p>
+<p>3. Duraci&oacute;n. Los apoyos utilizados para celebrar un determinado acto jur&iacute;dico deber&aacute;n ser instituidos por per&iacute;odos de tiempo definidos y podr&aacute;n ser prorrogados dependiendo de las necesidades de la persona titular del mismo. Ning&uacute;n apoyo podr&aacute; establecerse por per&iacute;odos superiores a los establecidos en la presente ley.</p>
+<p> </p>
+<p>4. Imparcialidad. La persona o personas que presten apoyo para la realizaci&oacute;n de actos jur&iacute;dicos deben, en el ejercicio de sus funciones como apoyo, obrar de manera ecu&aacute;nime en relaci&oacute;n con dichos actos. Ello implica, entre otras cosas, que las personas que prestan apoyo deben actuar en congruencia con lo establecido en el numeral 2 del art&iacute;culo 4&#176; de la presente ley, respetando siempre la voluntad y preferencias de la persona titular del acto jur&iacute;dico, con independencia de si quien presta apoyo considera que deber&iacute;a actuar de otra manera, respetando tambi&eacute;n el derecho a tomar riesgos y cometer errores. As&iacute; mismo, las personas que prestan el apoyo no podr&aacute;n influenciar indebidamente la decisi&oacute;n. Se considera que hay influencia indebida cuando la calidad de la interacci&oacute;n entre la persona que presta el apoyo y la que lo recibe presenta se&ntilde;ales de miedo, agresi&oacute;n, amenaza, enga&ntilde;o o manipulaci&oacute;n.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 6&#176;.</strong> Presunci&oacute;n de capacidad. Todas las personas con discapacidad son sujetos de derecho y obligaciones, y tienen capacidad legal en igualdad de condiciones, sin distinci&oacute;n alguna e independientemente de si usar o no apoyos para la realizaci&oacute;n de actos jur&iacute;dicos.</p>
+<p> </p>
+<p>En ning&uacute;n caso la existencia de una discapacidad podr&aacute; ser motivo para la restricci&oacute;n de la capacidad de ejercicio de una persona.</p>
+<p> </p>
+<p>La presunci&oacute;n aplicar&aacute; tambi&eacute;n para el ejercicio de los derechos laborales de las personas con discapacidad, protegiendo su vinculaci&oacute;n e inclusi&oacute;n laboral.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> El reconocimiento de la capacidad legal plena previsto en el presente art&iacute;culo aplicar&aacute;, para las personas bajo medidas de interdicci&oacute;n o inhabilitaci&oacute;n anteriores a la promulgaci&oacute;n de la presente ley, una vez se hayan surtido los tr&aacute;mites se&ntilde;alados en el art&iacute;culo 56 de la misma.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 7</strong>&#176;. Ni&ntilde;os, ni&ntilde;as y adolescentes. Las personas con discapacidad que no hayan alcanzado la mayor&iacute;a de edad tendr&aacute;n derecho a los mismos apoyos consagrados en la presente ley para aquellos actos jur&iacute;dicos que la ley les permita realizar de manera aut&oacute;noma y de conformidad con el principio de autonom&iacute;a progresiva, o en aquellos casos en los que debe tenerse en cuenta la voluntad y preferencias del menor para el ejercicio digno de la patria potestad.</p>
+<p> </p>
+<p align="center"><strong>CAP&Iacute;TULO II</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Mecanismos para el ejercicio de la capacidad legal y para la realizaci&oacute;n de actos jur&iacute;dicos</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 8&#176;.</strong> Ajustes razonables en el ejercicio de la capacidad legal. Todas las personas con discapacidad, mayores de edad, tienen derecho a realizar actos jur&iacute;dicos de manera independiente y a contar con las modificaciones y adaptaciones necesarias para realizar los mismos. La capacidad de realizar actos jur&iacute;dicos de manera independiente se presume.</p>
+<p> </p>
+<p>La necesidad de ajustes razonables para la comunicaci&oacute;n y comprensi&oacute;n de la informaci&oacute;n, no desestima la presunci&oacute;n de la capacidad para realizar actos jur&iacute;dicos de manera independiente.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 9&#176;.</strong> Mecanismos para establecer apoyos para la realizaci&oacute;n de actos jur&iacute;dicos. Todas las personas con discapacidad, mayores de edad, tienen derecho a realizar actos jur&iacute;dicos de manera independiente y a contar con apoyos para la realizaci&oacute;n de los mismos.</p>
+<p> </p>
+<p>Los apoyos para la realizaci&oacute;n de actos jur&iacute;dicos podr&aacute;n ser establecidos por medio de dos mecanismos:</p>
+<p> </p>
+<p>1. A trav&eacute;s de la celebraci&oacute;n de un acuerdo de apoyos entre la persona titular del acto jur&iacute;dico y las personas naturales mayores de edad o personas jur&iacute;dicas que prestar&aacute;n apoyo en la celebraci&oacute;n del mismo;</p>
+<p> </p>
+<p>2. A trav&eacute;s de un proceso de jurisdicci&oacute;n voluntaria o verbal sumario, seg&uacute;n sea el caso, para la designaci&oacute;n de apoyos, denominado proceso de adjudicaci&oacute;n judicial de apoyos.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 10.</strong> Determinaci&oacute;n de los apoyos. La naturaleza de los apoyos que la persona titular del acto jur&iacute;dico desee utilizar podr&aacute; establecerse mediante la declaraci&oacute;n de voluntad de la persona sobre sus necesidades de apoyo o a trav&eacute;s de la realizaci&oacute;n de una valoraci&oacute;n de apoyos.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 11.</strong> Valoraci&oacute;n de apoyos. La valoraci&oacute;n de apoyos podr&aacute; ser realizada por entes p&uacute;blicos o privados, siempre y cuando sigan los lineamientos y protocolos establecidos para este fin por el ente rector de la Pol&iacute;tica Nacional de Discapacidad. Cualquier persona podr&aacute; solicitar de manera gratuita el servicio de valoraci&oacute;n de apoyos ante los entes p&uacute;blicos que presten dicho servicio. En todo caso, el servicio de valoraci&oacute;n de apoyos deber&aacute;n prestarlo, como m&iacute;nimo, la Defensor&iacute;a del Pueblo, la Personer&iacute;a, los entes territoriales a trav&eacute;s de las gobernaciones y de las alcald&iacute;as en el caso de los distritos.</p>
+<p> </p>
+<p>Los entes p&uacute;blicos o privados solo ser&aacute;n responsables de prestar los servicios de valoraci&oacute;n de apoyos, y no ser&aacute;n responsables de proveer los apoyos derivados de la valoraci&oacute;n, ni deber&aacute;n considerarse responsables por las decisiones que las personas tomen, a partir de la o las valoraciones realizadas.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 12.</strong> Lineamientos y protocolos para la realizaci&oacute;n de valoraci&oacute;n de apoyos. El Gobierno nacional, a trav&eacute;s del ente rector del Sistema Nacional de Discapacidad, en un plazo no superior a un (1) a&ntilde;o contado a partir de la promulgaci&oacute;n de la presente ley, y previo concepto del Consejo Nacional de Discapacidad, expedir&aacute; los lineamientos y el protocolo nacional para la realizaci&oacute;n de la valoraci&oacute;n de apoyos, referida en el art&iacute;culo 11, los cuales deben actualizarse peri&oacute;dicamente. Adicionalmente, aprobar&aacute; y ejecutar&aacute; un plan de capacitaci&oacute;n sobre los mismos, previo concepto del Consejo Nacional de Discapacidad, dirigido a las entidades p&uacute;blicas encargadas de realizar valoraciones de apoyos.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> Para la construcci&oacute;n de estos lineamientos se contar&aacute; con la participaci&oacute;n de las entidades a las que se refiere el art&iacute;culo 11 de la presente ley y se garantizar&aacute; la participaci&oacute;n de las organizaciones de y para personas con discapacidad.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 13.</strong> Reglamentaci&oacute;n de la prestaci&oacute;n del servicio de valoraci&oacute;n de apoyos. El ente rector del Sistema Nacional de Discapacidad, en un plazo no superior a dieciocho (18) meses contados a partir de la promulgaci&oacute;n de la presente ley, y previo concepto del Consejo Nacional de Discapacidad, reglamentar&aacute; la prestaci&oacute;n de servicios de valoraci&oacute;n de apoyos que realicen las entidades p&uacute;blicas y privadas.</p>
+<p> </p>
+<p>La elaboraci&oacute;n de la reglamentaci&oacute;n deber&aacute; contar con la participaci&oacute;n de las entidades p&uacute;blicas que prestar&aacute;n los servicios de valoraci&oacute;n, as&iacute; como de las organizaciones de y para personas con discapacidad.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 14.</strong> Defensor Personal. En los casos en que la persona con discapacidad necesite apoyos, pero no tenga personas de confianza a qui&eacute;n designar con este fin, el juez de familia designar&aacute; un defensor personal, de la Defensor&iacute;a del Pueblo, que preste los apoyos requeridos para la realizaci&oacute;n de los actos jur&iacute;dicos que designe el titular.</p>
+<p align="center"> </p>
+<p align="center"><strong>CAPITULO III</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Acuerdos de apoyo para la celebraci&oacute;n de actos jur&iacute;dicos</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 15.</strong> Acuerdos de apoyo. Los acuerdos de apoyo son un mecanismo de apoyo formal por medio del cual una persona, mayor de edad, formaliza la designaci&oacute;n de la o las personas, naturales o jur&iacute;dicas, que le asistir&aacute;n en la toma de decisiones respecto a uno o m&aacute;s actos jur&iacute;dicos determinados.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp16" name="16"></a> 16.</strong> Acuerdos de apoyo por escritura p&uacute;blica ante notario. Los acuerdos de apoyo deber&aacute;n constar en escritura p&uacute;blica suscrita por la persona titular del acto jur&iacute;dico y la o las personas naturales mayores de edad o jur&iacute;dicas que act&uacute;en como apoyos, conforme a las reglas contenidas en el Decreto n&uacute;mero <a title="vinculo" href="norma.php?i=149249#0">960</a> de 1970 y aquellas normas que lo modifiquen, adicionen o sustituyan.</p>
+<p> </p>
+<p>Previo a la suscripci&oacute;n del acuerdo, el notario deber&aacute; entrevistarse por separado con la persona titular del acto jur&iacute;dico y verificar que el contenido del acuerdo de apoyo se ajuste a su voluntad, preferencias y a la ley.</p>
+<p> </p>
+<p>Es obligaci&oacute;n del notario garantizar la disponibilidad de los ajustes razonables que puedan requerirse para la comunicaci&oacute;n de la informaci&oacute;n relevante, as&iacute; como para satisfacer las dem&aacute;s necesidades particulares que la persona requiera para permitir su accesibilidad.</p>
+<p> </p>
+<p>Con anterioridad a la suscripci&oacute;n del acuerdo, el notario deber&aacute; poner de presente a la o las personas de apoyo las obligaciones legales que adquieren con la persona titular del acto jur&iacute;dico y dejar constancia de haberlo hecho.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO 1.</strong> La autorizaci&oacute;n de la escritura p&uacute;blica que contenga los acuerdos de apoyo causar&aacute;, por concepto de derechos notariales, la tarifa fijada para los actos sin cuant&iacute;a.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO 2&#176;.</strong> El Ministerio de Justicia y del Derecho, en un plazo no superior a un (1) a&ntilde;o contado a partir de la promulgaci&oacute;n de la presente ley, dise&ntilde;ar&aacute; e implementar&aacute; un plan de formaci&oacute;n a notar&iacute;as sobre el contenido de la presente ley y sus obligaciones espec&iacute;ficas en relaci&oacute;n con los acuerdos de apoyo. Cumplido el anterior plazo, el presente art&iacute;culo entrar&aacute; en vigencia.</p>
+<p align="left">(Ver Decreto <a title="vinculo" href="norma.php?i=144938#0">1429</a> de 2020)</p>
+<p> </p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp17" name="17"></a> 17.</strong> Acuerdos de apoyo ante conciliadores extrajudiciales en derecho. Los acuerdos de apoyo podr&aacute;n realizarse ante los conciliadores extrajudiciales en derecho inscritos en los centros de conciliaci&oacute;n. Durante la conciliaci&oacute;n, el conciliador deber&aacute; entrevistarse por separado con la persona titular del acto y verificar que es su voluntad suscribir el acuerdo de apoyos.</p>
+<p> </p>
+<p>Es obligaci&oacute;n del centro de conciliaci&oacute;n garantizar la disponibilidad de los ajustes razonables que puedan requerirse para la comunicaci&oacute;n de la informaci&oacute;n relevante, as&iacute; como para satisfacer las dem&aacute;s necesidades particulares que la persona requiera para permitir su accesibilidad.</p>
+<p> </p>
+<p>Durante el tr&aacute;mite, el conciliador deber&aacute; poner de presente a la o las personas de apoyo las obligaciones legales que adquieren con la persona titular del acto jur&iacute;dico y dejar constancia de haberlo hecho.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> El Ministerio de Justicia y del Derecho, en un plazo no superior a un (1) a&ntilde;o contado a partir de la promulgaci&oacute;n de la presente ley, dise&ntilde;ar&aacute; e implementar&aacute; un plan de formaci&oacute;n a conciliadores extrajudiciales en derecho sobre el contenido de la presente ley y sus obligaciones espec&iacute;ficas en relaci&oacute;n con los acuerdos de apoyo. Cumplido el anterior plazo, el presente art&iacute;culo entrar&aacute; en vigencia.</p>
+<p align="left">(Ver Decreto <a href="norma.php?i=144938#1429">1429</a> de 2020)</p>
+<p> </p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 18.</strong> Duraci&oacute;n de los acuerdos de apoyo. Ning&uacute;n acuerdo de apoyo puede extenderse por un per&iacute;odo superior a cinco (5) a&ntilde;os, pasados los cuales se deber&aacute; agotar de nuevo alguno de los procedimientos previstos en la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 19.</strong> Acuerdos de apoyo como requisito de validez para la realizaci&oacute;n de actos jur&iacute;dicos. La persona titular del acto jur&iacute;dico que cuente con un acuerdo de apoyos vigente para la celebraci&oacute;n de determinados actos jur&iacute;dicos, deber&aacute; utilizarlos, al momento de la celebraci&oacute;n de dichos actos jur&iacute;dicos, como requisito de validez de los mismos.</p>
+<p> </p>
+<p>En consecuencia, si la persona titular del acto jur&iacute;dico lleva a cabo los actos jur&iacute;dicos especificados por el acuerdo de apoyos, sin hacer uso de los apoyos all&iacute; estipulados, ello ser&aacute; causal de nulidad relativa, conforme a las reglas generales del r&eacute;gimen civil.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO</strong>. Lo dispuesto en el presente art&iacute;culo no puede interpretarse como una obligaci&oacute;n para la persona titular del acto jur&iacute;dico, de actuar de acuerdo al criterio de la persona o personas que prestan el apoyo. En concordancia con lo establecido en el numeral 3 del art&iacute;culo 4&#176; de la presente ley, los apoyos deben respetar siempre la voluntad y preferencias de la persona titular del acto jur&iacute;dico, as&iacute; como su derecho a tomar riesgos y a cometer errores.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp20" name="20"></a> 20.</strong> Terminaci&oacute;n y modificaci&oacute;n del acuerdo de apoyos. La persona titular del acto puede terminar de manera unilateral un acuerdo de apoyos previamente celebrado en cualquier momento, por medio de escritura p&uacute;blica o ante los conciliadores extrajudiciales en derecho, dependiendo de la forma en que se haya formalizado el acuerdo.</p>
+<p> </p>
+<p>El acuerdo de apoyo puede ser modificado por mutuo acuerdo entre las partes en cualquier momento, por medio de escritura p&uacute;blica o ante los conciliadores extrajudiciales en derecho y ante los servidores p&uacute;blicos a los que se refiere el art&iacute;culo 17 de la presente ley, dependiendo de la forma en que se haya formalizado el acuerdo.</p>
+<p> </p>
+<p>La persona designada como apoyo deber&aacute; comunicar al titular del acto jur&iacute;dico todas aquellas circunstancias que puedan dar lugar a la modificaci&oacute;n o terminaci&oacute;n del apoyo, o que le impidan cumplir con sus funciones.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO 1&#176;.</strong> La muerte de la persona titular del acto jur&iacute;dico dar&aacute; lugar a la terminaci&oacute;n del acuerdo de apoyos.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO 2&#176;.</strong> La muerte de la persona de apoyo dar&aacute; lugar a la terminaci&oacute;n del acuerdo de apoyos o a su modificaci&oacute;n cuando hubiese m&aacute;s de una persona de apoyo.</p>
+<p align="left">(Ver Decreto <a href="norma.php?i=144938#1429">1429 </a>de 2020)</p>
+<p> </p>
+<p> </p>
+<p align="center"><strong>CAP&Iacute;TULO IV</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Directivas anticipadas</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 21</strong>. Directivas anticipadas. Las directivas anticipadas son una herramienta por medio de la cual una persona, mayor de edad puede establecer la expresi&oacute;n fidedigna de voluntad y preferencias en decisiones relativas a uno o varios actos jur&iacute;dicos, con antelaci&oacute;n a los mismos. Estas decisiones pueden versar sobre asuntos de salud, financieros o personales, entre otros actos encaminados a tener efectos jur&iacute;dicos.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp22" name="22"></a> 22</strong>. Suscripci&oacute;n de la directiva anticipada. La directiva anticipada deber&aacute; suscribirse mediante escritura p&uacute;blica ante notario o mediante acta de conciliaci&oacute;n ante conciliadores extrajudiciales en derecho, siguiendo el tr&aacute;mite se&ntilde;alado en los art&iacute;culos 16 o 17 de la presente ley, seg&uacute;n el caso, para ser v&aacute;lida.</p>
+<p align="left">(Ver Decreto <a href="norma.php?i=144938#1429">1429</a> de 2020)</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 23</strong>. Contenido de las directivas anticipadas. Las directivas anticipadas deber&aacute;n constar por escrito y contener, como m&iacute;nimo, los siguientes aspectos:</p>
+<p> </p>
+<p>1. Ciudad y fecha de expedici&oacute;n del documento.</p>
+<p> </p>
+<p>2. Identificaci&oacute;n de la persona titular del acto jur&iacute;dico que realiza la directiva y, en caso de estar realiz&aacute;ndola con personas de apoyo, la identificaci&oacute;n de las mismas.</p>
+<p> </p>
+<p>3. Si hay personas de apoyo colaborando con la creaci&oacute;n del documento, se deber&aacute; dejar constancia de haber discutido con el titular del acto jur&iacute;dico las consecuencias o implicaciones de los actos incluidos en las directivas para su vida.</p>
+<p> </p>
+<p>4. La manifestaci&oacute;n de voluntad de la persona titular del acto jur&iacute;dico en la que se&ntilde;ale las decisiones anticipadas que busca formalizar.</p>
+<p> </p>
+<p>5. Firma de la persona titular del acto jur&iacute;dico.</p>
+<p> </p>
+<p>6. Firma de la persona de apoyo o personas de apoyo designadas en la directiva anticipada.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 24.</strong> Ajustes razonables relacionados con las directivas anticipadas. En caso de que la persona titular del acto jur&iacute;dico requiera ajustes razonables para la suscripci&oacute;n de la directiva anticipada, ser&aacute; obligaci&oacute;n del notario o del conciliador extrajudicial en derecho, seg&uacute;n sea el caso, realizar los ajustes razonables necesarios.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> Las declaraciones de la o las directivas anticipadas podr&aacute;n ser expresadas mediante cualquier forma de comunicaci&oacute;n, y podr&aacute; realizarse a trav&eacute;s de videos o audios y otros medios tecnol&oacute;gicos, as&iacute; como a trav&eacute;s de lenguajes alternativos de comunicaci&oacute;n que permitan establecer con claridad tanto el contenido de la declaraci&oacute;n como la autor&iacute;a, siempre y cuando se realicen en presencia de notario o conciliador extrajudicial en derecho y contengan los elementos de que trata el art&iacute;culo 23 de la presente ley. De ello se dejar&aacute; la respectiva constancia en un acta o se elevar&aacute; a escritura p&uacute;blica, seg&uacute;n sea el caso, que sustenta la expresi&oacute;n de la directiva anticipada mediante esta clase de medios. El documento que se levante cumplir&aacute; el requisito de constar por escrito al que se refiere el art&iacute;culo 23 de la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 25.</strong> Personas de apoyo en directivas anticipadas. Aquellas personas distintas a la persona titular del acto que adquieran obligaciones de hacer en cumplimiento de la voluntad y preferencias expresadas por medio de una directiva anticipada, y que suscriban la misma, se entender&aacute;n como personas de apoyo y estar&aacute;n sujetas a las reglas de responsabilidad establecidas para estos efectos en la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 26.</strong> Obligatoriedad de las decisiones expresadas por medio de una directiva anticipada. Las decisiones expresadas con anterioridad al acto jur&iacute;dico por medio de una directiva anticipada son de obligatorio cumplimiento para las personas de apoyo designadas a trav&eacute;s de la directiva anticipada y que hayan asumido dicho cargo conforme a las reglas del art&iacute;culo 46 de la presente ley.</p>
+<p> </p>
+<p>Las decisiones expresadas a trav&eacute;s de una directiva anticipada ser&aacute;n de obligatorio cumplimiento para el tercero, siempre y cuando se trate de obligaciones de no hacer que no sean contrarias a la ley, o cuando verse sobre procedimientos m&eacute;dicos.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 27.</strong> Prevalencia de la voluntad posterior de la persona titular del acto. En todo caso, la suscripci&oacute;n de una directiva anticipada no invalida la voluntad y preferencias expresadas por la persona titular del acto con posterioridad a la suscripci&oacute;n de la misma, salvo en aquellos casos en que en ella se estipule una cl&aacute;usula de voluntad perenne, la cual solo podr&aacute; ser anulada por los procedimientos establecidos en el art&iacute;culo 28 de la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 28.</strong> Cl&aacute;usula de voluntad perenne. La persona titular del acto jur&iacute;dico que realice una directiva anticipada podr&aacute; incluir en la misma una cl&aacute;usula de voluntad perenne, por medio de la cual invalida de manera anticipada las declaraciones de voluntad y preferencias que exprese con posterioridad a la suscripci&oacute;n de la directiva anticipada, siempre que contradigan las decisiones establecidas en esta. Dicha cl&aacute;usula podr&aacute; ser modificada, sustituida o revocada conforme a las reglas establecidas en el art&iacute;culo 31 de la presente ley.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO</strong>. Este tipo de cl&aacute;usulas solo podr&aacute;n ser obviadas en decisiones de salud.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 29.</strong> Publicidad de la directiva anticipada. Cualquier persona podr&aacute; allegar una copia u original de la directiva anticipada con el fin de que sea tenida en cuenta por terceros con el fin de garantizar el cumplimiento de las decisiones expresadas de manera anticipada en la misma. Igualmente, podr&aacute; informar sobre la existencia de una directiva anticipada para que los familiares o personas de apoyo puedan realizar los tr&aacute;mites pertinentes y aportar copia u original de la misma ante terceros, de tal manera que se garantice la voluntad y preferencias expresadas por la persona titular del acto jur&iacute;dico.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 30.</strong> Incorporaci&oacute;n de la directiva anticipada en la historia cl&iacute;nica. Cuando la persona titular del acto jur&iacute;dico que suscriba una directiva anticipada lo desee, podr&aacute; solicitar que se incorpore en la historia cl&iacute;nica una copia de la escritura p&uacute;blica o acta de conciliaci&oacute;n mediante la cual se constituy&oacute; la directiva anticipada, como anexo de la historia cl&iacute;nica, con el fin de garantizar el respeto de las decisiones establecidas en la misma, siempre que las decisiones all&iacute; contenidas tengan relaci&oacute;n con la atenci&oacute;n en salud que decide o no recibir.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> El Ministerio de Salud y Protecci&oacute;n Social, o quien haga sus veces, reglamentar&aacute; el proceso de incorporaci&oacute;n de las directivas anticipadas en la historia cl&iacute;nica de las personas con discapacidad en un plazo no superior a un (1) a&ntilde;o contado a partir de la promulgaci&oacute;n de la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp31" name="31"></a> 31.</strong> Modificaci&oacute;n, sustituci&oacute;n y revocaci&oacute;n. El documento de directiva anticipada puede ser modificado, sustituido o revocado en cualquier momento por quien lo suscribi&oacute;, mediante el mismo tr&aacute;mite surtido para su creaci&oacute;n, se&ntilde;alando expl&iacute;citamente la voluntad de modificar, sustituir o revocar la directiva anticipada, seg&uacute;n sea el caso, en los siguientes t&eacute;rminos:</p>
+<p> </p>
+<p>1. Modificaci&oacute;n: El documento de directiva anticipada se entender&aacute; modificado cuando se cambie de manera parcial el contenido de este.</p>
+<p> </p>
+<p>2. Sustituci&oacute;n: El documento de directiva anticipada se entender&aacute; sustituido cuando se le prive de efectos al contenido original, otorgando efectos jur&iacute;dicos a uno nuevo en su lugar.</p>
+<p> </p>
+<p>3. Revocaci&oacute;n: El documento de directiva anticipada se entender&aacute; revocado cuando la persona titular del acto manifieste su voluntad de dejar sin efectos del contenido del mismo de manera definitiva.</p>
+<p align="left">(Ver Decreto <a href="norma.php?i=144938#1429">1429 </a>de 2020)</p>
+<p> </p>
+<p> </p>
+<p align="center"><strong>CAP&Iacute;TULO V</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Adjudicaci&oacute;n judicial de apoyos</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 32</strong>. Adjudicaci&oacute;n judicial de apoyos para la realizaci&oacute;n de actos jur&iacute;dicos. Es el proceso judicial por medio del cual se designan apoyos formales a una persona con discapacidad, mayor de edad, para el ejercicio de su capacidad legal frente a uno o varios actos jur&iacute;dicos concretos.</p>
+<p> </p>
+<p>La adjudicaci&oacute;n judicial de apoyos se adelantar&aacute; por medio del procedimiento de jurisdicci&oacute;n voluntaria, cuando sea promovido por la persona titular del acto jur&iacute;dico, de acuerdo con las reglas se&ntilde;aladas en el art&iacute;culo 37 de la presente ley, ante el juez de familia del domicilio de la persona titular del acto.</p>
+<p> </p>
+<p>Excepcionalmente, la adjudicaci&oacute;n judicial de apoyos se tramitar&aacute; por medio de un proceso verbal sumario cuando sea promovido por persona distinta al titular del acto jur&iacute;dico, conforme a los requisitos se&ntilde;alados en el art&iacute;culo 38 de la presente ley.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> El Consejo Superior de la Judicatura, a trav&eacute;s de la Escuela Judicial Rodrigo Lara Bonilla, en un plazo no superior a un (1) a&ntilde;o contado a partir de la expedici&oacute;n de los lineamientos de valoraci&oacute;n se&ntilde;alados en el art&iacute;culo 12, dise&ntilde;ar&aacute; e implementar&aacute; un plan de formaci&oacute;n a jueces y juezas de familia sobre el contenido de la presente ley, sus obligaciones espec&iacute;ficas en relaci&oacute;n con procesos de adjudicaci&oacute;n judicial de apoyos y sobre la Convenci&oacute;n sobre los Derechos de las Personas con Discapacidad.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 33.</strong> Valoraci&oacute;n de apoyos. En todo proceso de adjudicaci&oacute;n judicial de apoyos se contar&aacute; con una valoraci&oacute;n de apoyos sobre la persona titular del acto jur&iacute;dico. La valoraci&oacute;n de apoyos deber&aacute; acreditar el nivel y grados de apoyos que la persona requiere para decisiones determinadas y en un &aacute;mbito espec&iacute;fico al igual que las personas que conforman su red de apoyo y qui&eacute;nes podr&aacute;n asistir en aquellas decisiones.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> El Consejo Superior de la Judicatura, en un plazo no superior a un (1) a&ntilde;o a partir de la expedici&oacute;n de los lineamientos de valoraci&oacute;n se&ntilde;alados en el art&iacute;culo 12, dise&ntilde;ar&aacute; e implementar&aacute; un plan de formaci&oacute;n al personal dispuesto para conformar el equipo interdisciplinario de los juzgados de familia con el fin de asesorar al juez respecto de la valoraci&oacute;n de apoyos que se allegue al proceso y velar por el cumplimiento de la Convenci&oacute;n en la decisi&oacute;n final.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 34.</strong> Criterios generales para la actuaci&oacute;n judicial. En el proceso de adjudicaci&oacute;n de apoyos, el juez de familia deber&aacute; tener presente, adem&aacute;s de lo dispuesto en la presente ley, los siguientes criterios:</p>
+<p> </p>
+<p>1. En los procesos de adjudicaci&oacute;n judicial de apoyos se deber&aacute; tener en cuenta y favorecer la voluntad y preferencias de la persona titular del acto frente al tipo y la intensidad del apoyo para la celebraci&oacute;n del mismo. La participaci&oacute;n de la persona en el proceso de adjudicaci&oacute;n es indispensable, so pena de nulidad del proceso, salvo las excepciones previstas en el art&iacute;culo 38 de la ley.</p>
+<p> </p>
+<p>2. Se deber&aacute; tener en cuenta la relaci&oacute;n de confianza entre la persona titular del acto y la o las personas que ser&aacute;n designadas para prestar apoyo en la celebraci&oacute;n de los mismos.</p>
+<p> </p>
+<p>3. Se podr&aacute;n adjudicar distintas personas de apoyo para distintos actos jur&iacute;dicos en el mismo proceso.</p>
+<p> </p>
+<p>4. La valoraci&oacute;n de apoyos que se haga en el proceso deber&aacute; ser llevada a cabo de acuerdo a las normas t&eacute;cnicas establecidas para ello.</p>
+<p> </p>
+<p>5. En todas las etapas de los procesos de adjudicaci&oacute;n judicial de apoyos, incluida la de presentaci&oacute;n de la demanda, se deber&aacute; garantizar la disponibilidad de los ajustes razonables que puedan requerirse para la comunicaci&oacute;n de la informaci&oacute;n relevante, as&iacute; como para satisfacer las dem&aacute;s necesidades particulares que la persona requiera para permitir su accesibilidad.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp35" name="35"></a> 35</strong>. Competencia de los jueces de familia en primera instancia en la adjudicaci&oacute;n judicial de apoyos. Modif&iacute;quese el numeral <a href="norma.php?i=48425#22.7">7</a> contenido en el art&iacute;culo 22 de la Ley 1564 de 2012, quedar&aacute; as&iacute;.</p>
+<p> </p>
+<p>"<strong>ART&Iacute;CULO 22</strong>. Competencia de los jueces de familia en primera instancia. Los jueces de familia conocen, en primera instancia, de los siguientes asuntos:</p>
+<p> </p>
+<p>7. De la adjudicaci&oacute;n, modificaci&oacute;n y terminaci&oacute;n de apoyos adjudicados judicialmente".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp36" name="36"></a> 36</strong>. Adjudicaci&oacute;n de apoyos sujeto a tr&aacute;mite de jurisdicci&oacute;n voluntaria. Modif&iacute;quese el numeral <a href="norma.php?i=48425#577.6">6</a> del art&iacute;culo 577 de la Ley 1564 de 2012, as&iacute;:</p>
+<p> </p>
+<p><strong>"ART&Iacute;CULO 577</strong>. Asuntos sujetos a su tr&aacute;mite. Se sujetar&aacute;n al procedimiento de jurisdicci&oacute;n voluntaria los siguientes casos:</p>
+<p> </p>
+<p>6. La adjudicaci&oacute;n, modificaci&oacute;n o terminaci&oacute;n de apoyos en la toma de decisiones promovido por la persona titular del acto jur&iacute;dico".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO<a id="sp37" name="37"></a> 37.</strong> Adjudicaci&oacute;n de apoyos en la toma de decisiones promovido por la persona titular del acto jur&iacute;dico. El art&iacute;culo <a href="norma.php?i=48425#586">586 </a>de la Ley 1564 de 2012 quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p>"<strong>ART&Iacute;CULO 586.</strong> Adjudicaci&oacute;n de apoyos en la toma de decisiones promovido por la persona titular del acto jur&iacute;dico. Para la adjudicaci&oacute;n de apoyos promovida por la persona titular del acto jur&iacute;dico, se observar&aacute;n las siguientes reglas:</p>
+<p> </p>
+<p>1. En la demanda que eleve la persona titular del acto jur&iacute;dico deber&aacute; constar su voluntad ex presa de solicitar apoyos en la toma de decisiones para la celebraci&oacute;n de uno o m&aacute;s actos jur&iacute;dicos en concreto.</p>
+<p> </p>
+<p>2. En la demanda se podr&aacute; anexar la valoraci&oacute;n de apoyos realizada al titular del acto jur&iacute;dico por parte de una entidad p&uacute;blica o privada.</p>
+<p> </p>
+<p>3. En caso de que la persona no anexe una valoraci&oacute;n de apoyos o cuando el juez considere que el informe de valoraci&oacute;n de apoyos aportado por la persona titular del acto jur&iacute;dico es insuficiente para establecer apoyos para la realizaci&oacute;n del acto o actos jur&iacute;dicos para los que se inici&oacute; el proceso, el Juez podr&aacute; solicitar una nueva valoraci&oacute;n de apoyos u oficiar a los entes p&uacute;blicos encargados de realizarlas, en concordancia con el art&iacute;culo 11 de la presente ley.</p>
+<p> </p>
+<p>4. En todo caso, como m&iacute;nimo, el informe de valoraci&oacute;n de apoyos deber&aacute; consignar:</p>
+<p> </p>
+<p>a) Los apoyos que la persona requiere para la comunicaci&oacute;n y la toma de decisiones en los aspectos que la persona considere relevantes.</p>
+<p> </p>
+<p>b) Los ajustes procesales y razonables que la persona requiera para participar activamente del proceso.</p>
+<p> </p>
+<p>c) Las sugerencias frente a mecanismos que permitan desarrollar las capacidades de la persona en relaci&oacute;n con la toma de decisiones para alcanzar mayor autonom&iacute;a en las mismas.</p>
+<p> </p>
+<p>d) Las personas que pueden actuar como apoyo en la toma de decisiones de la persona, para cada aspecto relevante de su vida, y en especial, para la realizaci&oacute;n de los actos jur&iacute;dicos por los cuales se inici&oacute; el proceso.</p>
+<p> </p>
+<p>e) Un informe general sobre el proyecto de vida de la persona.</p>
+<p> </p>
+<p>5. En el auto admisorio de la demanda se ordenar&aacute; notificar a las personas que hayan sido identificadas como personas de apoyo en la demanda.</p>
+<p> </p>
+<p>6. Recibido el informe de valoraci&oacute;n de apoyos, el Juez, dentro de los cinco (5) d&iacute;as siguientes, correr&aacute; traslado del mismo, por un t&eacute;rmino de diez (10) d&iacute;as a las personas involucradas en el proceso y al Ministerio P&uacute;blico.</p>
+<p> </p>
+<p>7. Una vez corrido el traslado, el Juez decretar&aacute; las pruebas que considere necesarias y convocar&aacute; a audiencia para escuchar a la persona titular del acto jur&iacute;dico, a las personas citadas en el auto admisorio y para practicar las dem&aacute;s pruebas decretadas, en concordancia con el art&iacute;culo 34 de la presente ley.</p>
+<p> </p>
+<p>8. Vencido el t&eacute;rmino probatorio, se dictar&aacute; sentencia en la que deber&aacute; constar:</p>
+<p> </p>
+<p>a) El acto o actos jur&iacute;dicos delimitados por la sentencia que requieren el apoyo solicitado. </p>
+<p> </p>
+<p>b) La individualizaci&oacute;n de la o las personas designadas como apoyo.</p>
+<p> </p>
+<p>c) La delimitaci&oacute;n de las funciones de la o las personas designadas como apoyo.</p>
+<p> </p>
+<p>d) Los programas de acompa&ntilde;amiento a las familias cuando sean pertinentes y las dem&aacute;s medidas que se consideren necesarias para asegurar la autonom&iacute;a y respeto a la voluntad y preferencias de la persona.</p>
+<p> </p>
+<p>e) En ning&uacute;n caso el Juez podr&aacute; pronunciarse sobre la necesidad de apoyos para la realizaci&oacute;n de actos jur&iacute;dicos sobre los que no verse el proceso.</p>
+<p> </p>
+<p>f) Las salvaguardias destinadas a evitar y asegurar que no existan los conflictos de inter&eacute;s o influencia indebida del apoyo sobre la persona.</p>
+<p> </p>
+<p>9. Se reconocer&aacute; la funci&oacute;n de apoyo de las personas designadas para ello. Si la persona designada como apoyo presenta dentro de los siguientes cinco (5) d&iacute;as excusa, se niega a ser designado como apoyo, o alega inhabilidad, se tramitar&aacute; incidente para decidir sobre el mismo".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp38" name="38"></a> 38</strong>. Adjudicaci&oacute;n de apoyos para la toma de decisiones promovida por persona distinta al titular del acto jur&iacute;dico. El art&iacute;culo <a title="vinculo" href="norma.php?i=48425#396">396</a> de la Ley 1564 de 2012 quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p><strong>"ART&Iacute;CULO 396</strong>. En el proceso de adjudicaci&oacute;n de apoyos para la toma de decisiones promovido por persona distinta al titular del acto jur&iacute;dico se observar&aacute;n las siguientes reglas:</p>
+<p> </p>
+<p>1. La demanda solo podr&aacute; interponerse en beneficio exclusivo de la persona con discapacidad. Esto se demostrar&aacute; mediante la prueba de las circunstancias que justifican la interposici&oacute;n de la demanda, es decir que a) la persona titular del acto jur&iacute;dico se encuentra absolutamente imposibilitada para manifestar su voluntad y preferencias por cualquier medio, modo y formato de comunicaci&oacute;n posible, y b) que la persona con discapacidad se encuentre imposibilitada de ejercer su capacidad legal y esto conlleve a la vulneraci&oacute;n o amenaza de sus derechos por parte de un tercero.</p>
+<p> </p>
+<p>2. En la demanda se podr&aacute; anexar la valoraci&oacute;n de apoyos realizada al titular del acto jur&iacute;dico por parte de una entidad p&uacute;blica o privada.</p>
+<p> </p>
+<p>3. En caso de que la persona no anexe una valoraci&oacute;n de apoyos o cuando el juez considere que el informe de valoraci&oacute;n de apoyos aportado por el demandante es insuficiente para establecer apoyos para la realizaci&oacute;n del acto o actos jur&iacute;dicos para los que se inici&oacute; el proceso, el Juez podr&aacute; solicitar una nueva valoraci&oacute;n de apoyos u oficiar a los entes p&uacute;blicos encargados de realizarlas, en concordancia con el art&iacute;culo 11 de la presente ley.</p>
+<p> </p>
+<p>4. El informe de valoraci&oacute;n de apoyos deber&aacute; consignar, como m&iacute;nimo:</p>
+<p> </p>
+<p>a) La verificaci&oacute;n que permita concluir que la persona titular del acto jur&iacute;dico se encuentra imposibilita da para manifestar su voluntad y preferencias por cualquier medio, modo y formato de comunicaci&oacute;n posible.</p>
+<p> </p>
+<p>b) Las sugerencias frente a mecanismos que permitan desarrollar las capacidades de la persona en relaci&oacute;n con la toma de decisiones para alcanzar mayor autonom&iacute;a en las mismas.</p>
+<p> </p>
+<p>c) Las personas que pueden actuar como apoyo en la toma de decisiones de la persona frente al acto o actos jur&iacute;dicos concretos que son objeto del proceso.</p>
+<p> </p>
+<p>d) Un informe general sobre la mejor interpretaci&oacute;n de la voluntad y preferencias de la persona titular del acto jur&iacute;dico que deber&aacute; tener en consideraci&oacute;n, entre otros aspectos, el proyecto de vida de la persona, sus actitudes, argumentos, actuaciones anteriores, opiniones, creencias y las formas de comunicaci&oacute;n verbales y no verbales de la persona titular del acto jur&iacute;dico.</p>
+<p> </p>
+<p>5. Antes de la audiencia inicial, se ordenar&aacute; notificar a las personas identificadas en la demanda y en el informe de valoraci&oacute;n de apoyos como personas de apoyo.</p>
+<p> </p>
+<p>6. Recibido el informe de valoraci&oacute;n de apoyos, el Juez, dentro de los cinco (5) d&iacute;as siguientes, correr&aacute; traslado del mismo, por un t&eacute;rmino de diez (10) d&iacute;as a las personas involucradas en el proceso y al Ministerio P&uacute;blico.</p>
+<p> </p>
+<p>7. Una vez corrido el traslado, el Juez decretar&aacute; las pruebas que considere necesarias y convocar&aacute; a audiencia para practicar las dem&aacute;s pruebas decretadas, en concordancia con el art&iacute;culo 34 de la presente ley.</p>
+<p> </p>
+<p>8. Vencido el t&eacute;rmino probatorio, se dictar&aacute; sentencia en la que deber&aacute; constar:</p>
+<p> </p>
+<p>a) El acto o actos jur&iacute;dicos delimitados que requieren el apoyo solicitado. En ning&uacute;n caso el Juez podr&aacute; pronunciarse sobre la necesidad de apoyos para la realizaci&oacute;n de actos jur&iacute;dicos sobre los que no verse el proceso.</p>
+<p> </p>
+<p>b) La individualizaci&oacute;n de la o las personas designadas como apoyo.</p>
+<p> </p>
+<p>c) Las salvaguardias destinadas a evitar y asegurar que no existan los conflictos de inter&eacute;s o influencia indebida del apoyo sobre la persona.</p>
+<p> </p>
+<p>d) La delimitaci&oacute;n de las funciones y la naturaleza del rol de apoyo.</p>
+<p> </p>
+<p>e) La duraci&oacute;n de los apoyos a prestarse de la o las personas que han sido designadas como tal.</p>
+<p> </p>
+<p>f) Los programas de acompa&ntilde;amiento a las familias cuando sean pertinentes y las dem&aacute;s medidas que se consideren necesarias para asegurar la autonom&iacute;a y respeto a la voluntad y preferencias de la persona.</p>
+<p> </p>
+<p>9. Se reconocer&aacute; la funci&oacute;n de apoyo de las personas designadas para ello. Si la persona designada como apoyo presenta dentro de los siguientes cinco (5) d&iacute;as excusa, se niega a aceptar sus obligaciones o alega inhabilidad, se tramitar&aacute; incidente para decidir sobre el mismo".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 39.</strong> Validez de los actos establecidos en la sentencia de adjudicaci&oacute;n de apoyos. La persona titular del acto jur&iacute;dico que tenga una sentencia de adjudicaci&oacute;n de apoyos ejecutoriada para la celebraci&oacute;n de determinados actos jur&iacute;dicos deber&aacute; utilizar los apoyos all&iacute; estipulados en el momento de la celebraci&oacute;n de dichos actos jur&iacute;dicos como requisito de validez de los mismos.</p>
+<p> </p>
+<p>En consecuencia, si la persona titular del acto jur&iacute;dico lleva a cabo los actos jur&iacute;dicos especificados en la sentencia de adjudicaci&oacute;n de apoyos sin utilizar los apoyos all&iacute; estipulados, dichos actos jur&iacute;dicos ser&aacute;n sancionables con nulidad relativa.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO</strong>. Lo dispuesto en el presente art&iacute;culo no puede interpretarse como una obligaci&oacute;n para la persona titular del acto jur&iacute;dico, de actuar de acuerdo al criterio de la persona o personas que prestan el apoyo. En concordancia con lo establecido en los numerales 2 y 3 del art&iacute;culo 4&#176; de la presente ley, los apoyos deben respetar siempre la voluntad y preferencias de la persona titular del acto jur&iacute;dico, as&iacute; como su derecho a tomar riesgos y a cometer errores.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 40.</strong> Participaci&oacute;n del Ministerio P&uacute;blico. El Ministerio P&uacute;blico tendr&aacute; la obligaci&oacute;n de velar por los derechos de las personas con discapacidad en el curso de los procesos de adjudicaci&oacute;n judicial de apoyos y supervisar&aacute; el efectivo cumplimiento de la sentencia de adjudicaci&oacute;n de apoyos.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 41.</strong> Evaluaci&oacute;n de desempe&ntilde;o de los apoyos adjudicados judicialmente. Al t&eacute;rmino de cada a&ntilde;o desde la ejecutoria de la sentencia de adjudicaci&oacute;n de apoyos, la persona o personas de apoyo deber&aacute;n realizar un balance en el cual se exhibir&aacute; a la persona titular de los actos ejecutados y al Juez:</p>
+<p> </p>
+<p>1. El tipo de apoyo que prest&oacute; en los actos jur&iacute;dicos en los cuales tuvo injerencia.</p>
+<p> </p>
+<p>2. Las razones que motivaron la forma en que prest&oacute; el apoyo, con especial &eacute;nfasis en c&oacute;mo estas representaban la voluntad y preferencias de la persona.</p>
+<p> </p>
+<p>3. La persistencia de una relaci&oacute;n de confianza entre la persona de apoyo y el titular del acto jur&iacute;dico.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> Quienes est&eacute;n interesados en ser citados a participar de la gesti&oacute;n de apoyos deber&aacute;n informar al Juez a m&aacute;s tardar diez (10) d&iacute;as h&aacute;biles antes del cierre del a&ntilde;o del que trata el inciso anterior, a efectos de que el Juez les comunique la fecha de la audiencia. El no solicitar oportunamente la convocatoria, releva al Juez de la carga de citar al o a las personas interesadas, lo que no impide su participaci&oacute;n en la audiencia.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp42" name="42"></a> 42.</strong> Modificaci&oacute;n y terminaci&oacute;n de los procesos de adjudicaci&oacute;n judicial de apoyos. El art&iacute;culo <a title="vinculo" href="norma.php?i=48425#587">587</a> de la Ley 1564 de 2012 quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p><strong>"ART&Iacute;CULO 587</strong>. Modificaci&oacute;n y terminaci&oacute;n de la adjudicaci&oacute;n de apoyos. En cualquier momento, podr&aacute;n solicitar la modificaci&oacute;n o terminaci&oacute;n de los apoyos adjudicados:</p>
+<p> </p>
+<p>a. La persona titular del acto jur&iacute;dico;</p>
+<p> </p>
+<p>b. La persona distinta que haya promovido el proceso de adjudicaci&oacute;n judicial y que demuestre inter&eacute;s leg&iacute;timo podr&aacute; solicitar;</p>
+<p> </p>
+<p>c. La persona designada como apoyo, cuando medie justa causa;</p>
+<p> </p>
+<p>d. El juez de oficio.</p>
+<p> </p>
+<p>El Juez deber&aacute; notificar de ello a las personas designadas como apoyo y a la persona titular del acto, si es del caso, y correr&aacute; traslado de la solicitud por diez (10) d&iacute;as para que estas se pronuncien al respecto.</p>
+<p> </p>
+<p>En caso de no presentarse oposici&oacute;n, el Juez modificar&aacute; o terminar&aacute; la adjudicaci&oacute;n de apoyos, conforme a la solicitud".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 43</strong>. Unidad de actuaciones y expedientes. Cualquier actuaci&oacute;n judicial relacionada con personas a quienes se les haya adjudicado apoyos ser&aacute; de competencia del Juez que haya conocido del proceso de adjudicaci&oacute;n de apoyos.</p>
+<p> </p>
+<p>Cada despacho contar&aacute; con un archivo de expedientes inactivos sobre las personas a quienes se les haya adjudicado apoyos en la toma de decisiones del cual se pueden retomar las diligencias, cuando estas se requieran. En el evento de requerirse el env&iacute;o al archivo general, estos expedientes se conservar&aacute;n en una secci&oacute;n especial que permita su desarchivo a requerimiento del juzgado.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO.</strong> El expediente de quienes hayan terminado la adjudicaci&oacute;n de apoyos, que no haya tenido movimiento en un lapso superior a dos (2) a&ntilde;os, podr&aacute; ser remitido al archivo general. Un nuevo proceso de adjudicaci&oacute;n de apoyos con posterioridad har&aacute; necesario abrir un nuevo expediente.</p>
+<p> </p>
+<p>Tambi&eacute;n ser&aacute; causa de archivo general la muerte de la persona.</p>
+<p align="center"> </p>
+<p align="center"><strong>CAP&Iacute;TULO VI</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Personas de apoyo</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp44" name="44"></a> 44.</strong> Requisitos para ser persona de apoyo. Para asumir el cargo de persona de apoyo se requiere:</p>
+<p> </p>
+<p>1. Ser una persona natural mayor de edad o una persona jur&iacute;dica.</p>
+<p> </p>
+<p>2. Cuando la designaci&oacute;n derive de un acuerdo de apoyos o una directiva anticipada, la simple suscripci&oacute;n y el agotamiento de las formalidades del mismo, cuando sean del caso, implicar&aacute; que el cargo de persona de apoyo ha sido asumido.</p>
+<p> </p>
+<p>3. Cuando la designaci&oacute;n derive de un proceso de adjudicaci&oacute;n de apoyos, la posesi&oacute;n se har&aacute; ante el juez que hace la designaci&oacute;n.</p>
+<p align="left">(Ver Decreto <a href="norma.php?i=144938#1429">1429 </a>de 2020)</p>
+<p> </p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp45" name="45"></a> 45.</strong> Inhabilidades para ser persona de apoyo. Son causales de inhabilidad para asumir el cargo de persona de apoyo las siguientes:</p>
+<p> </p>
+<p>1. La existencia de un litigio pendiente entre la persona titular del acto jur&iacute;dico y la persona designada como apoyo.</p>
+<p> </p>
+<p>2. La existencia de conflictos de inter&eacute;s entre la persona titular del acto jur&iacute;dico y la persona designada como apoyo.</p>
+<p align="left">(Ver Decreto <a href="norma.php?i=144938#1429">1429 </a>de 2020)</p>
+<p> </p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 46</strong>. Obligaciones de las personas de apoyo. Las personas de apoyo tienen las siguientes obligaciones:</p>
+<p> </p>
+<p>1. Guiar sus actuaciones como apoyo conforme a la voluntad y preferencias de la persona titular del acto.</p>
+<p> </p>
+<p>2. Actuar de manera diligente, honesta y de buena fe conforme a los principios de la presente Ley.</p>
+<p> </p>
+<p>3. Mantener y conservar una relaci&oacute;n de confianza con la persona a quien presta apoyo.</p>
+<p> </p>
+<p>4. Mantener la confidencialidad de la informaci&oacute;n personal de la persona a quien presta apoyo.</p>
+<p> </p>
+<p>5. Las dem&aacute;s que le sean asignadas judicialmente o acordadas entre la persona titular del acto y la persona de apoyo.</p>
+<p> </p>
+<p>6. Comunicar al juez y al titular del acto jur&iacute;dico todas aquellas circunstancias que puedan dar lugar a la modificaci&oacute;n o terminaci&oacute;n del apoyo, o que le impidan cumplir con sus funciones.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 47.</strong> Acciones de las personas de apoyo. Entre las acciones que pueden adelantar las personas de apoyo para la celebraci&oacute;n de actos jur&iacute;dicos est&aacute;n los siguientes, sin perjuicio de que se establezcan otros adicionales seg&uacute;n las necesidades y preferencias de cada persona:</p>
+<p> </p>
+<p>1. Facilitar la manifestaci&oacute;n de la voluntad y preferencias de la o el titular del acto jur&iacute;dico para la realizaci&oacute;n del mismo, habiendo discutido con la persona las consecuencias o implicaciones de sus actos.</p>
+<p> </p>
+<p>2. Facilitar la comprensi&oacute;n de un determinado acto jur&iacute;dico a su titular.</p>
+<p> </p>
+<p>3. Representar a la persona en determinado acto jur&iacute;dico.</p>
+<p> </p>
+<p>4. Interpretar de la mejor manera la voluntad y las preferencias de la persona titular del acto jur&iacute;dico, en los casos en que esta se encuentre absolutamente imposibilitada para interactuar con su entorno por cualquier medio.</p>
+<p> </p>
+<p>5. Honrar la voluntad y las preferencias de la o el titular del acto jur&iacute;dico, establecida a trav&eacute;s de una directiva anticipada.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="48"></a>48.</strong> Representaci&oacute;n de la persona titular del acto. La persona de apoyo representar&aacute; a la persona titular del acto solo en aquellos casos en donde exista un mandato expreso de la persona titular para efectuar uno o varios actos jur&iacute;dicos en su nombre y representaci&oacute;n.</p>
+<p> </p>
+<p>En los casos en que no haya este mandato expreso y se hayan adjudicado apoyos por v&iacute;a judicial, la persona de apoyo deber&aacute; solicitar autorizaci&oacute;n del juez para actuar en representaci&oacute;n de la persona titular del acto, siempre que se cumpla con los siguientes requisitos:</p>
+<p> </p>
+<p>1. Que el titular del acto se encuentre absolutamente imposibilitado para manifestar su voluntad y preferencias por cualquier medio, modo y formato de comunicaci&oacute;n posible; y,</p>
+<p> </p>
+<p>2. Que la persona de apoyo demuestre que el acto jur&iacute;dico a celebrar refleja la mejor interpretaci&oacute;n de la voluntad y preferencias de la persona titular del acto.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 49.</strong> Formas de apoyo que no implican representaci&oacute;n. Las personas de apoyo podr&aacute;n llevar a cabo las siguientes acciones, siempre y cuando est&eacute;n contempladas en el acuerdo de apoyos, en la directiva anticipada o en la sentencia de adjudicaci&oacute;n de apoyos, sin que las mismas impliquen actos de representaci&oacute;n:</p>
+<p> </p>
+<p>1. Asistir y hacer recomendaciones a la persona titular del acto en relaci&oacute;n con el acto jur&iacute;dico a celebrar.</p>
+<p> </p>
+<p>2. Interpretar la expresi&oacute;n de voluntad y preferencias de la persona titular del acto jur&iacute;dico en la realizaci&oacute;n del mismo.</p>
+<p> </p>
+<p>3. Cualquier otra forma de apoyo que se establezca por medio del acuerdo de apoyos, la directiva anticipada o en la sentencia de adjudicaci&oacute;n de apoyos.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 50.</strong> Responsabilidad de las personas de apoyo. La responsabilidad de las personas de apoyo, frente a sus funciones como apoyo, ser&aacute; individual solo cuando en su actuar hayan contravenido los mandatos de la presente ley, las dem&aacute;s normas civiles y comerciales vigentes en Colombia, o hayan ido en contrav&iacute;a manifiesta de las indicaciones convenidas en los acuerdos de apoyo, las directivas anticipadas o la sentencia de apoyos, y por ello se hayan causado da&ntilde;os al titular del acto jur&iacute;dico o frente a terceros.</p>
+<p> </p>
+<p>Las personas de apoyo no ser&aacute;n responsables por los da&ntilde;os personales o financieros de la persona titular del cito jur&iacute;dico siempre y cuando hayan actuado conforme a la voluntad y preferencias de la persona.</p>
+<p align="center"> </p>
+<p align="center"><strong>CAP&Iacute;TULO VII</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Actos jur&iacute;dicos sujetos a registro</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 51</strong>. Actos jur&iacute;dicos que involucren bienes sujetos a registro. Para efectos de publicidad a terceros, los actos jur&iacute;dicos que involucren bienes sujetos a registro deber&aacute;n contar con una anotaci&oacute;n de que el acto en cuesti&oacute;n fue realizado utilizando apoyos, independientemente del mecanismo para la celebraci&oacute;n de apoyos que se utilice.</p>
+<p align="center"> </p>
+<p align="center"><strong>CAP&Iacute;TULO VIII</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>R&eacute;gimen de transici&oacute;n</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 52.</strong> Vigencia. Las disposiciones establecidas en esta ley entrar&aacute;n en vigencia desde su promulgaci&oacute;n, con excepci&oacute;n de aquellos art&iacute;culos que establezcan un plazo para su implementaci&oacute;n y los art&iacute;culos contenidos en el Cap&iacute;tulo V de la presente ley, los cuales entrar&aacute;n en vigencia veinticuatro (24) meses despu&eacute;s de la promulgaci&oacute;n de la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 53.</strong> Prohibici&oacute;n de interdicci&oacute;n. Queda prohibido iniciar procesos de interdicci&oacute;n o inhabilitaci&oacute;n, o solicitar la sentencia de interdicci&oacute;n o inhabilitaci&oacute;n para dar inicio a cualquier tr&aacute;mite p&uacute;blico o privado a partir de la promulgaci&oacute;n de la presente ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 54.</strong> Proceso de adjudicaci&oacute;n judicial de apoyos transitorio. Hasta tanto entren en vigencia los art&iacute;culos contenidos en el Cap&iacute;tulo V de la presente ley, el juez de familia del domicilio de la persona titular del acto jur&iacute;dico puede determinar de manera excepcional los apoyos necesarios para una persona mayor de edad cuando se encuentre absolutamente imposibilitada para expresar su voluntad y preferencias por cualquier medio, siempre que sea necesario para garantizar el ejercicio y la protecci&oacute;n de los derechos de la persona titular del acto.</p>
+<p> </p>
+<p>El proceso de adjudicaci&oacute;n judicial de apoyos transitorio ser&aacute; promovido por una persona con inter&eacute;s leg&iacute;timo y que acredite una relaci&oacute;n de confianza con la persona titular del acto.</p>
+<p> </p>
+<p>El juez, por medio de un proceso verbal sumario, determinar&aacute; la persona o personas de apoyo que asistir&aacute;n a la persona titular del acto jur&iacute;dico, teniendo en cuenta la relaci&oacute;n de confianza, amistad, parentesco o convivencia entre estos y la persona titular. La sentencia de adjudicaci&oacute;n de apoyos fijar&aacute; el alcance de los apoyos teniendo en cuenta las normas establecidas en la presente ley, al igual que el plazo del mismo, el cual no podr&aacute; superar la fecha final del periodo de transici&oacute;n.</p>
+<p> </p>
+<p>La persona titular del acto jur&iacute;dico podr&aacute; oponerse a la adjudicaci&oacute;n judicial de apoyos en cualquier momento del proceso.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 55.</strong> Procesos de interdicci&oacute;n o inhabilitaci&oacute;n en curso. Aquellos procesos de interdicci&oacute;n o inhabilitaci&oacute;n que se hayan iniciado con anterioridad a la promulgaci&oacute;n de la presente ley deber&aacute;n ser suspendidos de forma inmediata. El juez podr&aacute; decretar, de manera excepcional, el levantamiento de la suspensi&oacute;n y la aplicaci&oacute;n de medidas cautelares, nominadas o innominadas, cuando lo considere pertinente para garantizar la protecci&oacute;n y disfrute de los derechos patrimoniales de la persona con discapacidad.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 56</strong>. Proceso de revisi&oacute;n de interdicci&oacute;n o inhabilitaci&oacute;n. En un plazo no superior a treinta y seis (36) meses contados a partir de la entrada en vigencia del Cap&iacute;tulo V de la presente ley, los jueces de familia que hayan adelantado procesos de interdicci&oacute;n o inhabilitaci&oacute;n deber&aacute;n citar de oficio a las personas que cuenten con sentencia de interdicci&oacute;n o inhabilitaci&oacute;n anterior a la promulgaci&oacute;n de la presente ley, al igual que a las personas designadas como curadores o consejeros, a que comparezcan ante el juzgado para determinar si requieren de la adjudicaci&oacute;n judicial de apoyos.</p>
+<p> </p>
+<p>En este mismo plazo, las personas bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n podr&aacute;n solicitar la revisi&oacute;n de su situaci&oacute;n jur&iacute;dica directamente ante el juez de familia que adelant&oacute; el proceso de interdicci&oacute;n o inhabilitaci&oacute;n. Recibida la solicitud, el juez citar&aacute; a la persona bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n, al igual que a las personas designadas como curadores o consejeros, a que comparezcan ante el juzgado para determinar si requieren de la adjudicaci&oacute;n judicial de apoyos.</p>
+<p> </p>
+<p>En ambos casos, el juez de familia determinar&aacute; si las personas bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n requieren la adjudicaci&oacute;n judicial de apoyos, de acuerdo a:</p>
+<p> </p>
+<p>1. La voluntad y preferencias de las personas bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n, en concordancia con lo dispuesto en el art&iacute;culo 13 de la presente ley. Por lo anterior, la participaci&oacute;n de estas personas en el proceso de adjudicaci&oacute;n judicial de apoyos es indispensable so pena de la nulidad del proceso, salvo las excepciones previstas en la presente ley.</p>
+<p> </p>
+<p>2. El informe de valoraci&oacute;n de apoyos, que deber&aacute; ser aportado al juzgado por cualquiera de los citados a comparecer seg&uacute;n lo dispuesto en el presente art&iacute;culo, en el plazo que el juez disponga, y en todo caso, antes de la fecha se&ntilde;alada para comparecer ante el juzgado. En caso de que los citados a comparecer aporten m&aacute;s de un informe de valoraci&oacute;n de apoyos, el juez deber&aacute; tener en consideraci&oacute;n el informe m&aacute;s favorable para la autonom&iacute;a e independencia de la persona, de acuerdo a la primac&iacute;a de su voluntad y preferencias, as&iacute; como las dem&aacute;s condiciones establecidas en el art&iacute;culo 13 de la presente ley.</p>
+<p> </p>
+<p>El informe de valoraci&oacute;n de apoyos deber&aacute; consignar, como m&iacute;nimo:</p>
+<p> </p>
+<p>a) La verificaci&oacute;n que permita concluir, cuando sea el caso, que a&uacute;n despu&eacute;s de haber agotado todos los ajustes razonables y apoyos t&eacute;cnicos disponibles, la persona bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n se encuentra imposibilitada para manifestar su voluntad y preferencias por cualquier medio posible.</p>
+<p> </p>
+<p>b) Los apoyos que la persona requiere para la comunicaci&oacute;n y la toma de decisiones en su vida diaria; o en lo relacionado al manejo financiero, salud y dem&aacute;s aspectos relevantes, en caso de que la persona se encuentre imposibilitada para manifestar su voluntad y preferencias por cualquier medio.</p>
+<p> </p>
+<p>c) Los ajustes que la persona requiera para participar activamente en el proceso.</p>
+<p> </p>
+<p>d) Las sugerencias frente a mecanismos que permitan desarrollar las</p>
+<p>capacidades de la persona en relaci&oacute;n con la toma de decisiones para alcanzar mayor autonom&iacute;a e independencia en las mismas.</p>
+<p> </p>
+<p>e) Las personas que han fungido o pueden fungir como apoyo en la toma de decisiones de la persona, para cada aspecto relevante de su vida.</p>
+<p> </p>
+<p>f) Un informe sobre el proyecto de vida de la persona.</p>
+<p> </p>
+<p>g) La aprobaci&oacute;n de la valoraci&oacute;n de apoyos por parte de la persona bajo medida de interdicci&oacute;n o inhabilidad. En aquellos casos en que la persona bajo medida de interdicci&oacute;n o inhabilidad se encuentre imposibilitada para manifestar su voluntad y preferencias por cualquier medio posible, le corresponder&aacute; al juez aprobar dicha valoraci&oacute;n de apoyos.</p>
+<p> </p>
+<p>3. La relaci&oacute;n de confianza entre las personas bajo medida de interdicci&oacute;n o inhabilidad y la o las personas que ser&aacute;n designadas para prestar apoyo en la celebraci&oacute;n de actos jur&iacute;dicos.</p>
+<p> </p>
+<p>4. Las dem&aacute;s pruebas que el juez estime conveniente decretar.</p>
+<p> </p>
+<p>5. Una vez vencido el t&eacute;rmino para la pr&aacute;ctica de pruebas, el juez escuchar&aacute; a los citados y verificar&aacute; si tienen alguna objeci&oacute;n. Posteriormente, el juez proceder&aacute; a dictar sentencia de adjudicaci&oacute;n judicial de apoyos, la cual deber&aacute;:</p>
+<p> </p>
+<p>a) Hacer claridad frente a la adjudicaci&oacute;n de apoyos en relaci&oacute;n con los distintos tipos de actos jur&iacute;dicos.</p>
+<p> </p>
+<p>b) Designar la o las personas de apoyo y sus respectivas funciones para asegurar el respeto a la voluntad y preferencias de la persona.</p>
+<p> </p>
+<p>c) Oficiar a la Oficina de Registro del Estado Civil para que anule la sentencia de interdicci&oacute;n o inhabilitaci&oacute;n del registro civil.</p>
+<p> </p>
+<p>d) Emitir sentencia en lectura f&aacute;cil para la persona con discapacidad inmersa en el proceso, explicando lo resuelto.</p>
+<p> </p>
+<p>e) Ordenar la notificaci&oacute;n al p&uacute;blico por aviso que se insertar&aacute; una vez por lo menos en un diario de amplia circulaci&oacute;n nacional, se&ntilde;alado por el juez.</p>
+<p> </p>
+<p>f) Ordenar los programas de acompa&ntilde;amiento a las familias, en el caso de que resulten pertinentes.</p>
+<p> </p>
+<p>g) Disponer las dem&aacute;s medidas que el juez considere necesarias para asegurar la autonom&iacute;a y respeto a la voluntad y preferencias de la persona, en particular aquellas relacionadas con el manejo de patrimonio que se hubiesen establecido en la sentencia de interdicci&oacute;n sujeta a revisi&oacute;n.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO 1.</strong> En caso de que el juez considere que las personas bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n no requieren de la adjudicaci&oacute;n judicial de apoyos, la sentencia deber&aacute; consignar esta determinaci&oacute;n y los motivos que la fundamentan. Asimismo, oficiar&aacute; a la Oficina de Registro del Estado civil para que anule la sentencia de interdicci&oacute;n o inhabilitaci&oacute;n del registro civil correspondiente. Una vez la sentencia se encuentre en firme, las personas quedar&aacute;n habilitadas para acceder a cualquiera de los mecanismos de apoyo contemplados en la presente ley.</p>
+<p> </p>
+<p><strong>PAR&Aacute;GRAFO 2.</strong> Las personas bajo medida de interdicci&oacute;n o inhabilitaci&oacute;n anterior a la promulgaci&oacute;n de la presente Ley, se entender&aacute;n como personas con capacidad legal plena cuando la sentencia del procese de revisi&oacute;n de la interdicci&oacute;n o de la inhabilitaci&oacute;n quede ejecutoriada.</p>
+<p> </p>
+<p align="center"><strong>CAP&Iacute;TULOIX</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Derogatorias, modificaciones y disposiciones finales</strong></p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp57" name="57"></a> 57.</strong> Modif&iacute;quese el art&iacute;culo <a href="norma.php?i=39535#1504">1504 </a>del C&oacute;digo Civil, que quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p><strong>"ART&Iacute;CULO 1504.</strong> Incapacidad absoluta y relativa. Son absolutamente incapaces los imp&uacute;beres. Sus actos no producen ni a&uacute;n obligaciones naturales, y no admiten cauci&oacute;n. Son tambi&eacute;n incapaces los menores p&uacute;beres. Pero la incapacidad de estas personas no es absoluta y sus actos pueden tener valor en ciertas circunstancias y bajo ciertos respectos determinados por las leyes. Adem&aacute;s de estas incapacidades hay otras particulares que consisten en la prohibici&oacute;n que la ley ha impuesto a ciertas personas para ejecutar ciertos actos".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp58" name="58"></a> 58</strong>. Modif&iacute;quese el art&iacute;culo <a href="norma.php?i=39535#784">784 </a>del C&oacute;digo Civil, que quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p>"<strong>ART&Iacute;CULO 784.</strong> Incapaces poseedores. Los que no pueden administrar libremente lo suyo no necesitan de autorizaci&oacute;n alguna para adquirir la posesi&oacute;n de una cosa mueble, con tal que concurran en ello la voluntad y la aprehensi&oacute;n material o legal; pero no pueden ejercer los derechos de poseedores, sino con la autorizaci&oacute;n que competa. Los infantes son incapaces de adquirir por su voluntad la posesi&oacute;n, sea para s&iacute; mismos, o para otros".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp59" name="59"></a> 59.</strong> Modif&iacute;quese el ordinal <a href="norma.php?i=39535#62.2">2 </a>contenido en el art&iacute;culo 62 del C&oacute;digo Civil, que quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p>"2&#176;. Por el tutor o curador que ejerciere la guarda sobre menores de edad no sometidos a patria potestad".</p>
+<p> </p>
+<p>Modif&iacute;quese el inciso 1 del art&iacute;culo <a href="norma.php?i=48425#68">68</a> de la Ley 1564 de 2012, que quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p>"<strong>ART&Iacute;CULO 68.</strong> Sucesi&oacute;n procesal. Fallecido un litigante o declarado ausente, el proceso continuar&aacute; con el c&oacute;nyuge, el albacea con tenencia de bienes, los herederos o el correspondiente curador".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp60" name="60"></a> 60</strong>. Modif&iacute;quese el art&iacute;culo <a href="norma.php?i=39535#2346">2346 </a>del C&oacute;digo Civil, que quedar&aacute; as&iacute;:</p>
+<p> </p>
+<p>"<strong>ART&Iacute;CULO 2346</strong>. Responsabilidad por da&ntilde;os causados por imp&uacute;beres. Los menores de 12 a&ntilde;os no son capaces de cometer delito o culpa; pero de los da&ntilde;os por ellos causados ser&aacute;n responsables las personas a cuyo cargo est&eacute;n dichos menores, si a tales personas pudieren imput&aacute;rseles negligencia".</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp61" name="61"></a> 61.</strong> Derogatorias. Quedan derogados los numerales <a href="norma.php?i=48425#22.5">5 </a>y <a href="norma.php?i=48425#22.6">6</a> contenidos en el art&iacute;culo 22 de la Ley 1564 de 2012; el ordinal <a href="norma.php?i=39535#127.3">3</a> del art&iacute;culo 127, el ordinal <a href="norma.php?i=39535#1061.2">2</a>&#176; del art&iacute;culo 1061 y el ordinal <a href="norma.php?i=39535#1068.3">3 </a>del art&iacute;culo 1068 de la Ley 57 de 1887; los art&iacute;culos <a href="norma.php?i=36400#1">1&#176;</a> a <a href="norma.php?i=36400#48">48</a>, <a href="norma.php?i=36400#50">50 </a>a <a href="norma.php?i=36400#52">52</a>, <a href="norma.php?i=36400#55">55</a>, <a href="norma.php?i=36400#64">64 </a>y <a href="norma.php?i=36400#90">90 </a>de la Ley 1306 de 2009, el art&iacute;culo <a href="norma.php?i=40604#6">6 </a>de la Ley 1412 de 2010; el inciso 1&#176; del art&iacute;culo <a href="norma.php?i=48425#210">210 </a>del C&oacute;digo General del Proceso; el par&aacute;grafo<a href="norma.php?i=22106#36.p1"> 1</a> del art&iacute;culo 36 de la Ley 1098 de 2006 y las dem&aacute;s normas que sean contrarias a esta ley.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO <a id="sp62" name="62"></a> 62.</strong> El Gobierno nacional, en un plazo m&aacute;ximo de cuatro (4) meses contados a partir de la vigencia de la presente ley, deber&aacute; emitir los decretos reglamentarios con el fin de cumplir las medidas ordenadas en el art&iacute;culo <a href="norma.php?i=52081#13">13 </a>de la Ley 1618 de 2013 que permitan garantizar el derecho al trabajo de las personas con discapacidad.</p>
+<p> </p>
+<p><strong>ART&Iacute;CULO 63</strong>. Vigencia. La presente ley rige a partir de su promulgaci&oacute;n.</p>
+<p align="center"> </p>
+<p align="center"><strong>EL PRESIDENTE DEL HONORABLE SENADO DE LA REP&Uacute;BLICA</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>ERNESTO MACIAS TOVAR</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL SECRETARIO GENERAL DEL HONORABLE SENADO DE LA REPUBLICA</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>GREGORIO ELJACH PACHECO</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL PRESIDENTE DE LA HONORABLE C&Aacute;MARA DE REPRESENTANTES</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>ALEJANDRO CARLOS CHAC&Oacute;N CAMARGO</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL SECRETARIO GENERAL DE LA HONORABLE C&Aacute;MARA DE REPRESENTANTES</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>JORGE HUMBERTO MANTILLA SERRANO</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>REP&Uacute;BLICA DE COLOMBIA- GOBIERNO NACIONAL</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>PUBL&Iacute;QUESE Y C&Uacute;MPLASE</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>Dada en Bogot&aacute;, D.C., a los 26 d&iacute;as del mes de agosto de 2019</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL PRESIDENTE DE LA REP&Uacute;BLICA</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>(FDO.) IVAN DUQUE</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>LA MINISTRA DEL INTERIOR,</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>NANCY PATRICIA GUTI&Eacute;RREZ CASTANEDA</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL MINISTRO DE HACIENDA Y CR&Eacute;DITO P&Uacute;BLICO,</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>ALBERTO CARRASQUILLA BARRERA</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>LA MINISTRA DE JUSTICIA Y DEL DERECHO,</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>MARGARITA LEONOR CABELLO BLANCO</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>EL MINISTRO DE SALUD Y PROTECCI&Oacute;N SOCIAL,</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>JUAN PABLO URIBE RESTREPO</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>LA DIRECTORA DEL DEPARTAMENTO ADMINISTRATIVO PARA LA PROSPERIDAD SOCIAL,</strong></p>
+<p align="center"> </p>
+<p align="center"><strong>SUSANA CORREA BORRERO</strong></p>	</div>
+	
+		
+</div>
+<!--end col right-->
+	  
+  </div>
+    </div>
+  
+  </main>
+	
+	
+    <div class="container">
+
+		<style type="text/css">
+		.stl-1-white-blue-second {
+			background-color: transparent;
+			border: 2px solid #1E3559 !important;
+			color: #1E3559;
+			transition-duration: .4s;
+			border-radius: 3px;
+			padding: 10px 30px;
+			font-size: 1.0em;
+			font-weight: 700;
+			display: inline-block;
+		}
+
+		.stl-1-white-blue-second:hover {
+			background-color: #1E3559;
+			color: #fff;
+			border: 2px solid #1E3559;
+			border-radius: 3px;
+			padding: 10px 30px;
+			font-weight: 700;
+			text-decoration: none;
+		}
+
+		.stl-1-white-blue-second:active {
+			background-color: #bfbfbf;
+			color: white;
+		}
+
+		</style>
+		<a href="javascript:history.back(1)">
+			<div class="col-md-4"><button type="submit" class="stl-1-white-blue-second mtop20">Volver Atrás</button>
+			</div>
+		</a>
+</div>
+
+
+<footer class="footer">
+  <div class="menu-gobierno">
+    <div class="container">
+      <div class="row" style="align-items: center">
+        <div class="col-lg-4 col-md-12 text-center mb-5"> <a href="https://www.presidencia.gov.co/" class="logo img-fluid"><img width="40%" src="https://www.funcionpublica.gov.co/documents/418537/37421537/logo-gobierno.png/af775a00-cdd7-3268-7e00-d2d89fabf76b?t=1659904736649" alt="Gobierno de Colombia"/></a> </div>
+        <div class="col-lg-2 col-md-3">
+          <ul>
+            <!-- <li><a href="https://www.presidencia.gov.co/">Presidencia</a></li> -->
+            <li><a href="https://www.vicepresidencia.gov.co/">Vicepresidencia</a></li>
+            <li><a href="https://www.minjusticia.gov.co/">MinJusticia</a></li>
+            <li><a href="https://www.mindefensa.gov.co/irj/portal/Mindefensa">MinDefensa</a></li>
+            <li><a href="https://www.mintrabajo.gov.co/web/guest/inicio">MinTrabajo</a></li>
+            <li><a href="https://www.mininterior.gov.co/">MinInterior</a></li>
+            <li><a href="https://minciencias.gov.co/">MinCiencias</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-2 col-md-3">
+          <ul>
+            <li><a href="https://www.cancilleria.gov.co/">MinRelaciones</a></li>
+            <li><a href="https://www.minhacienda.gov.co/">MinHacienda</a></li>
+            <li><a href="https://www.minsalud.gov.co/portada-covid-19.html">MinSalud</a></li>
+            <li><a href="https://www.minenergia.gov.co/">MinEnergía</a></li>
+            <li><a href="https://www.mincit.gov.co/">MinComercio</a></li>
+            <li><a href="https://www.mindeporte.gov.co/">MinDeporte</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-2 col-md-3">
+          <ul>
+            <li><a href="https://www.mintic.gov.co/portal/inicio/">MinTIC</a></li>
+            <li><a href="https://www.mineducacion.gov.co/portal/">MinEducacion</a></li>
+            <li><a href="https://www.mincultura.gov.co/Paginas/Inicio.aspx">MinCultura</a></li>
+            <li><a href="https://www.minagricultura.gov.co/paginas/default.aspx">MinAgricultura</a></li>
+            <li><a href="https://www.minambiente.gov.co">MinAmbiente</a></li>
+          </ul>
+        </div>
+        <div class="col-lg-2 col-md-3">
+          <ul>
+            <li><a href="https://www.mintransporte.gov.co/">MinTransporte</a></li>
+            <li><a href="http://www.minvivienda.gov.co/">MinVivienda</a></li>
+            <li><a href="https://www.urnadecristal.gov.co/">Urna de Cristal</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-menu">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-2">
+          <div class="row text-center align-items-center">
+            <div class="col-lg-12 col-sm-6 mb-5">
+              <p><a haref="#"><img src="https://www.funcionpublica.gov.co/o/Fpublica-2021-theme/images/logos/logofinal_gov.png" class="img-fluid p-2" alt="Logo gov.co"/></a></p>
+            </div>
+            <div class="col-lg-12 col-sm-6 mb-5">
+              <p><a haref="#"><img src="img_nuevo/colombia-co.png" class="img-fluid" alt="Logo Marca Pais Colombia"/></a></p>
+            </div>
+          </div>
+          <div class="d-none d-lg-block">
+            <p style="text-align: left; text-transform: uppercase; font-size: 17px;">entidad del sector</p>
+            <p class="subrayado1"></p>
+            <br>
+            <br>
+            <p><a haref="#"><img src="img_nuevo/logo-esap.png" class="img-fluid" alt="Logo ESAP"/></a></p>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-7">
+          <p style="text-align: left; text-transform: uppercase; font-size: 17px;">función publica</p>
+          <p class="subrayado1"></p>
+          <!--direccion-->
+          <div style="background-image: url(img_nuevo/map2.png); background-repeat: no-repeat;background-position: center top;">
+            <div class="d-flex">
+              <div class="mr-2"> <i class="fa fa-map-marker bg-white-opacity-0_1 g-color-white-opacity-0_6"></i> </div>
+              <p class="ml-1">Carrera 6 # 12-62,<br>
+                Bogotá D.C.</p>
+            </div>
+            <!--phone-->
+            <div class="d-flex mt-1">
+              <div class="mr-2"> <i class="fa fa-phone bg-white-opacity-0_1 g-color-white-opacity-0_6"></i> </div>
+              <p class="ml-1"><strong>Código Postal: </strong>111711<br>
+                <strong>PBX:</strong> (+57) 601 7395656<br>
+                <strong>FAX:</strong> (+57) 601 7395657<br>
+              </p>
+            </div>
+          </div>
+          <!--url-->
+          <div class="d-flex">
+            <div class="mr-2"> <i class="fa fa-globe bg-white-opacity-0_1 g-color-white-opacity-0_6"></i> </div>
+            <p class="ml-1" style="word-wrap: break-word"><a href="#">www.funcionpublica.gov.co</a> <br>
+              Correo de Contacto: <a href="mailto:eva@funcionpublica.gov.co">eva@funcionpublica.gov.co</a><br>
+              <span class="d-none d-lg-block d-lg-block d-md-block"> Notificaciones judiciales:<br>
+              <a style="word-wrap: break-word" href="mailto:notificacionesjudiciales@funcionpublica.gov.co?Subject=Notificación%20judicial" target="_top">notificacionesjudiciales@funcionpublica.gov.co</a></span> <br>
+            </p>
+          </div>
+          <p class="mt-2" style="text-align: left; text-transform: uppercase; font-size: 17px;">contacto</p>
+          <p class="subrayado1"></p>
+          <p>Horario de atención presencial grupo de Servicio al ciudadano:<br>
+            Lunes a Viernes, 7:30 a.m a 6:00 p.m</p>
+          <p class="border-footer"></p>
+          <p>Recepción de correspondencia:<br>
+            Lunes a viernes, 8:00 am a 4:00 pm Jornada Continua</p>
+          <p class="subrayado2"></p>
+          <p>Línea gratuita nacional: 018000917770</p>
+          <p class="subrayado2"></p>
+        </div>
+        <div class="col-lg-4 col-md-5">
+          <p style="text-align: left; text-transform: uppercase; font-size: 17px;">servicios al ciudadano</p>
+          <p class="subrayado1"></p>
+          <p><a href="mailto:notificacionesjudiciales@funcionpublica.gov.co?Subject=Notificación%20judicial" target="_top">Notificaciones judiciales</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="mailto:actosadministrativos@funcionpublica.gov.co?Subject=Notificaciones o comunicaciones de acto administrativo" target="_top">Notificación de actos administrativos</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/notificaciones-a-terceros" target="_top">Notificaciones a terceros</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/denuncias-por-actos-de-corrupci%C3%B3n">Denuncias por actos de corrupción</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/web/intranet/registrosyencuestas">Participación ciudadana</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/preguntas-frecuentes">Preguntas frecuentes</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/formule-su-peticion">Formule su petición PQRS</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/mapa-del-sitio">Mapa del sitio</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://mail.office365.com/">Ingreso correo institucional</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/estadisticas-sitio">Estadísticas del sitio</a></p>
+          <p class="subrayado2"></p>
+          <p><a href="https://www.funcionpublica.gov.co/inicio?p_p_id=com_liferay_login_web_portlet_LoginPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view&saveLastPath=false&_com_liferay_login_web_portlet_LoginPortlet_mvcRenderCommandName=%2Flogin%2Flogin">Acceder</a></p>
+          <p class="subrayado2"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--redes sociales-->
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-lg-6"> <a href="https://www.funcionpublica.gov.co/politica-de-privacidad-y-condiciones-de-uso">Política de Privacidad &nbsp; | &nbsp; </a><a href="https://www.funcionpublica.gov.co/politica-de-privacidad-y-condiciones-de-uso"> Términos y condiciones de uso</a> </div>
+        <div class="col-sm-4 col-lg-6 text-left  text-md-right text-xl-right">
+          <nav class="navigation">
+            <ul>
+              <li class="mr-2"><a href="https://www.facebook.com/FuncionPublica" target="_blank" title="Icono facebook"> <i class="fa fa-facebook fa-2x g-color-white-opacity-0_6 link-footer-img"></i></a></li>
+              <li class="mr-2"><a href="https://www.linkedin.com/company/departamento-administrativo-de-la-funci%C3%B3n-p%C3%BAblica" target="_blank" title="Icono Linkedin"> <i class="fa fa-linkedin fa-2x g-color-white-opacity-0_6 link-footer-img" ></i> </a></li>
+              <li class="mr-2"><a href="https://twitter.com/dafp_colombia"  target="_blank" title="Icono Twitter"> <i class="fa fa-twitter fa-2x g-color-white-opacity-0_6 link-footer-img" ></i> </a></li>
+              <li><a href="https://www.instagram.com/funcionpublicacolombia/" target="_blank" title="Icono Instagram"> <i class="fa fa fa-instagram fa-2x g-color-white-opacity-0_6 link-footer-img"></i> </a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Optional JavaScript --> 
+<!-- jQuery first, then Popper.js, then Bootstrap JS --> 
+<!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script> -->
+<!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>  -->
+<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>  -->
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+  <!-- Script para mostrar el modal al cargar la página -->
+  <script>
+    $(document).ready(function(){
+      // Verificar si el sessionStorage tiene la fecha guardada
+      var modalShownTime = sessionStorage.getItem('modalShownTime');
+      if (!modalShownTime) {
+        // Si no hay fecha guardada, guardar la fecha actual
+        sessionStorage.setItem('modalShownTime', new Date().getTime());
+      } else {
+        // Si hay fecha guardada, verificar si han pasado 2 minutos desde entonces
+        var currentTime = new Date().getTime();
+		sessionStorage.setItem('modalShownTimeresta', (currentTime - modalShownTime));
+        if ((currentTime - modalShownTime) < (15 * 1000)) {
+          // Si han pasado menos de 2 minutos, no mostrar el modal
+          return;
+        }
+      }
+      // Verificar si el modal existe antes de mostrarlo
+      if ($('#exampleModal').length) {
+        $('#exampleModal').modal('show');
+		sessionStorage.setItem('modalShownTime', new Date().getTime());
+		
+      }
+    });
+  </script>
+  <!-- Lupa del buscador del Header -->
+<script>
+	 $('[name="btnsearch"]').click(function(){
+	  $('[name="_com_liferay_portal_search_web_portlet_SearchPortlet_fm"]').submit();
+	});
+</script>
+
+<!-- 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'anteriorUA-///71957172-1', 'anteriorUA-///71957172-1');
+  ga('send', 'pageview');
+
+</script>
+-->
+
+			
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DVZ2E88S6R"></script>
+<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-DVZ2E88S6R');
+</script>
+
+
+
+
+</body>
+</html>

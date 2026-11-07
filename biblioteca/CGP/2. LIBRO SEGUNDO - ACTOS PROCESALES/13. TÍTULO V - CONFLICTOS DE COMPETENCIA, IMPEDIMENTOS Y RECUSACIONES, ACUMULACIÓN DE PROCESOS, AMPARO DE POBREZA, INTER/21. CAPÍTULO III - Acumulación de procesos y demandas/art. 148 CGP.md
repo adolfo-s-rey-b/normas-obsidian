@@ -1,0 +1,36 @@
+---
+aliases:
+  - "art. 148 Ley 1564 de 2012"
+  - "CGP art. 148"
+  - "Ley 1564 de 2012 art. 148"
+  - "CGP 148"
+norma: "Ley 1564 de 2012"
+sigla: CGP
+articulo: "148"
+---
+
+## Procedencia de la acumulación en los procesos declarativos
+
+Para la acumulación de procesos y demandas se aplicarán las siguientes reglas:
+
+1. Acumulación de procesos. De oficio o a petición de parte podrán acumularse dos (2) o más procesos que se encuentren en la misma instancia, aunque no se haya notificado el auto admisorio de la demanda, siempre que deban tramitarse por el mismo procedimiento, en cualquiera de los siguientes casos:
+
+a) Cuando las pretensiones formuladas habrían podido acumularse en la misma demanda.
+
+b) Cuando se trate de pretensiones conexas y las partes sean demandantes y demandados recíprocos.
+
+c) Cuando el demandado sea el mismo y las excepciones de mérito propuestas se fundamenten en los mismos hechos.
+
+2. Acumulación de demandas. Aun antes de haber sido notificado el auto admisorio de la demanda, podrán formularse nuevas demandas declarativas en los mismos eventos en que hubiese sido procedente la acumulación de pretensiones.
+
+3. Disposiciones comunes. Las acumulaciones en los procesos declarativos procederán hasta antes de señalarse fecha y hora para la audiencia inicial.
+
+Si en alguno de los procesos ya se hubiere notificado al demandado el auto admisorio de la demanda, al decretarse la acumulación de procesos se dispondrá la notificación por estado del auto admisorio que estuviere pendiente de notificación.
+
+De la misma manera se notificará el auto admisorio de la nueva demanda acumulada, cuando el demandado ya esté notificado en el proceso donde se presenta la acumulación.
+
+En estos casos el demandado podrá solicitar en la secretaría que se le suministre la reproducción de la demanda y de sus anexos dentro de los tres (3) días siguientes, vencidos los cuales comenzará a correr el término de ejecutoria y el de traslado de la demanda que estaba pendiente de notificación al momento de la acumulación.
+
+Cuando un demandado no se hubiere notificado personalmente en ninguno de los procesos, se aplicarán las reglas generales.
+
+La acumulación de demandas y de procesos ejecutivos se regirá por lo dispuesto en los artículos [[art. 463 CGP|463]] y [[art. 464 CGP|464]] de este código.
