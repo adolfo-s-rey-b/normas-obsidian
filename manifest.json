@@ -1,0 +1,10 @@
+{
+  "id": "normas-colombianas",
+  "name": "Normas Colombianas",
+  "version": "0.2.0",
+  "minAppVersion": "1.6.6",
+  "description": "Descarga normativa colombiana ya convertida (códigos, leyes y decretos) a tu vault: un artículo por nota, con jerarquía, vigencia y enlaces entre artículos y normas.",
+  "author": "adolfo-s-rey-b",
+  "authorUrl": "https://github.com/adolfo-s-rey-b",
+  "isDesktopOnly": false
+}

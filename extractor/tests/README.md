@@ -5,7 +5,7 @@
 ## Fixtures (`fixtures/`)
 
 | Archivo | Norma | Qué cubre |
-|---|---|---|
+| --- | --- | --- |
 | `cgp_i48425.html` | CGP (completo) | `<em>` en la rúbrica, jerarquía LIBRO › SECCIÓN › TÍTULO › CAPÍTULO, art. 626 con enumeraciones |
 | `ley1996_i99712.html` | Ley 1996 de 2019 (completa) | rúbrica fuera de la negrita, firmas, cruce de derogatoria con el CGP |
 | `decreto2651_i14319.html` | Decreto 2651 de 1991 (completo) | `<P>` sin cerrar, varios artículos en un párrafo |

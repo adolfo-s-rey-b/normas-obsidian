@@ -1,34 +1,61 @@
-# Plugin de Obsidian — Normas Colombianas
+# Normas Colombianas — plugin de Obsidian
 
-Plugin **fino**: no descarga de los sitios del gobierno (eso lo hace el CLI de
-Python). En su lugar, lista las normas ya convertidas en la carpeta
-`biblioteca/` de este repositorio y descarga la que elijas directamente a tu
-*vault*, conservando la estructura de carpetas y los wikilinks.
+Descarga a tu *vault* normativa colombiana ya convertida a notas de Obsidian:
+un artículo por nota, carpetas por Libro/Título/Capítulo, notas índice,
+estado de vigencia y enlaces entre artículos y normas.
+
+El plugin **no** hace *scraping* de sitios del gobierno: descarga normas ya
+convertidas y verificadas desde el catálogo del repositorio
+[`adolfo-s-rey-b/normas-obsidian`](https://github.com/adolfo-s-rey-b/normas-obsidian).
 
 ## Uso
 
-1. Comando: **«Descargar norma de la biblioteca»** (paleta de comandos).
-2. Elige la norma en el selector.
-3. Las notas se crean bajo la carpeta destino configurada (por defecto `Normas/`).
+- **Descargar norma de la biblioteca** (paleta de comandos): elige la norma en
+  el selector (muestra sigla, nombre, número de artículos, tamaño y si ya la
+  tienes o hay actualización). La norma se guarda en `Normas/<sigla>/`.
+- **Actualizar normas descargadas**: compara tus normas con el catálogo y
+  reemplaza las que tengan una versión nueva.
+
+Al reemplazar una norma, las notas de su carpeta que ya no existan en la
+biblioteca se envían a la papelera (según tu configuración de Obsidian). El
+plugin pide confirmación antes, porque **los cambios que hayas hecho dentro de
+esas notas se pierden**. Escribe tus propias notas fuera de la carpeta de la
+norma y enlázalas con `[[art. 22 CGP]]`.
 
 ## Ajustes
 
-- **Repositorio**: `usuario/repositorio` con la biblioteca (por defecto
-  `argonautarey/normas-obsidian`).
-- **Rama**: por defecto `main`.
-- **Carpeta de biblioteca**: ruta dentro del repo (por defecto `biblioteca`).
-- **Carpeta destino**: dónde guardar las normas en tu *vault* (por defecto `Normas`).
+| Ajuste | Por defecto | |
+| --- | --- | --- |
+| Carpeta destino | `Normas` | Carpeta del vault para las normas. |
+| Repositorio | `adolfo-s-rey-b/normas-obsidian` | Repositorio de GitHub que publica el catálogo. |
+| Rama | `main` | |
+| Carpeta del catálogo | `catalogo` | |
 
-## Compilar
+## Uso de red
+
+Para cumplir las [directrices de Obsidian](https://docs.obsidian.md/Developer+policies):
+el plugin se conecta **solo** a `raw.githubusercontent.com`, para leer
+`catalogo/index.json` y el paquete JSON de la norma que elijas, y **únicamente**
+cuando ejecutas uno de sus comandos. No envía datos del vault ni del usuario,
+no tiene telemetría y no se conecta en segundo plano.
+
+## Instalación manual
+
+1. Descarga `main.js` y `manifest.json` del
+   [último release](https://github.com/adolfo-s-rey-b/normas-obsidian/releases).
+2. Cópialos a `<TuVault>/.obsidian/plugins/normas-colombianas/`.
+3. Activa «Normas Colombianas» en *Ajustes → Plugins de la comunidad*.
+
+## Desarrollo
 
 ```bash
 cd plugin-obsidian
-npm install
-npm run build      # genera main.js
+npm ci
+npm run build      # genera main.js (comprueba tipos con tsc)
+npm test           # prueba de humo con un vault simulado y el catálogo local
+npm run dev        # compila en modo watch
 ```
 
-Luego copia `manifest.json` y `main.js` a
-`<TuVault>/.obsidian/plugins/normas-colombianas/` y activa el plugin.
-
-> El plugin usa `requestUrl` de la API de Obsidian para evitar restricciones de
-> CORS al consultar la API de GitHub y `raw.githubusercontent.com`.
+`manifest.json` y `versions.json` están en la raíz del repositorio (la tienda de
+Obsidian los busca ahí). `npm version X.Y.Z` los actualiza; al empujar el tag
+`X.Y.Z`, el workflow `release.yml` publica el release.
