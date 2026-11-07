@@ -1,6 +1,7 @@
 """Control de calidad de una biblioteca generada.
 
 Errores (código de salida 1):
+  * enlaces que solo coinciden con un alias: Obsidian no resuelve [[alias]];
   * notas con el mismo nombre (Obsidian no distingue mayúsculas) — los
     wikilinks serían ambiguos;
   * alias que apuntan a notas distintas;
@@ -65,8 +66,9 @@ def verificar(biblioteca: Path, *, estricto: bool = False, salida=print) -> int:
         salida(f"✗ carpeta vacía: {d.relative_to(biblioteca)}")
     errores += len(vacias)
 
-    # Normas presentes: etiqueta = parte final de «art. N <ETIQUETA>».
-    resolubles = set(nombres) | set(alias)
+    # Obsidian resuelve los wikilinks SOLO por nombre de archivo (o ruta): los alias
+    # sirven para el buscador y el autocompletado, no para resolver [[alias]].
+    resolubles = set(nombres)
     etiquetas_presentes: set[str] = set()
     for p, (fm, _) in datos.items():
         if fm.get("tipo") == "norma":
@@ -76,10 +78,14 @@ def verificar(biblioteca: Path, *, estricto: bool = False, salida=print) -> int:
     rotos_internos: Counter = Counter()
     ejemplos: dict[str, str] = {}
     externos: Counter = Counter()
+    solo_alias: Counter = Counter()
     for p, (fm, txt) in datos.items():
         for m in RE_LINK.finditer(txt):
             destino = m.group(1).strip()
-            if destino.lower() in resolubles:
+            if destino.lower() in resolubles or destino.lower().split("/")[-1] in resolubles:
+                continue
+            if destino.lower() in alias:
+                solo_alias[destino] += 1
                 continue
             mm = re.match(r"art\. (?:transitorio )?[\w-]+(?: \([^)]*\))?(?: \d+)? (.+)$", destino)
             etq = mm.group(1) if mm else destino
@@ -99,6 +105,11 @@ def verificar(biblioteca: Path, *, estricto: bool = False, salida=print) -> int:
         salida(f"{'✗' if estricto else '!'} enlaces internos rotos: {sum(rotos_internos.values())}")
         for etq, n in rotos_internos.most_common():
             salida(f"    {etq}: {n}  (p. ej. {ejemplos[etq]})")
+    if solo_alias:
+        salida(f"✗ enlaces que solo coinciden con un alias (Obsidian no los resuelve): {sum(solo_alias.values())}")
+        for d, n in solo_alias.most_common(8):
+            salida(f"    [[{d}]] ×{n}")
+        errores += sum(solo_alias.values())
     if vacios:
         salida(f"{'✗' if estricto else '!'} artículos sin texto en la fuente: {len(vacios)}")
     if externos:

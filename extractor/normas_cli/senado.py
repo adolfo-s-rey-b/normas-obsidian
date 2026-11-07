@@ -29,6 +29,7 @@ from bs4 import BeautifulSoup
 from .fetch import USER_AGENT, _get
 
 INICIO = "<!--Inicio documento-->"
+RE_MARCA = re.compile(r"<\s*([^<>]{3,600}?)\s*>")
 FIN = "<!--Fin documento-->"
 # Recuadros que no se incluyen (texto histórico muy largo).
 RECUADROS_OMITIDOS = ("legislación anterior", "legislacion anterior")
@@ -126,6 +127,24 @@ def _normalizar_pagina(html: str, recuadros: dict[str, str]) -> str:
                 strong.string = cab + " " + " ".join(f"({x})" for x in utiles)
             sig.replace_with(resto)
         a.replace_with(strong)
+    # Marcas editoriales dentro del texto («<Artículo modificado por el artículo 3 de
+    # la Ley 2445 de 2025. El nuevo texto es el siguiente:>»): se sacan del texto
+    # normativo y se convierten en notas antes del párrafo.
+    for p in sopa.find_all("p"):
+        if p.find("strong") is not None and p.get("align") == "center":
+            continue
+        marcas: list[str] = []
+        for s in list(p.find_all(string=True)):
+            if "<" not in s:
+                continue
+            for m in RE_MARCA.finditer(str(s)):
+                if not re.match(r"(?i)\s*ver\b", m.group(1)):
+                    marcas.append(m.group(1).strip())
+            s.replace_with(RE_MARCA.sub(" ", str(s)))
+        for texto in marcas:
+            nota = sopa.new_tag("p")
+            nota.string = f"({texto})"
+            p.insert_before(nota)
     return str(sopa)
 
 

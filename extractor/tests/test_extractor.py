@@ -320,3 +320,41 @@ def test_utilidades():
     assert largo.endswith("…") and len(largo) <= 111
     assert largo[:-1].split()[-1] in ("POBREZA", "AMPARO", "DE", "INTERRUPCIÓN", "PROCESOS")  # palabra completa
     assert isinstance(Nivel("LIBRO", "I", "x").es_preliminar, bool)
+
+
+# --- Senado y comparación de fuentes ------------------------------------------------
+
+
+def test_senado_normaliza_pagina():
+    from normas_cli.senado import _normalizar_pagina, _recuadros
+
+    pagina = (FIXTURES / "senado_cc_pr001_recorte.html").read_text(encoding="utf-8")
+    js_ = (FIXTURES / "senado_cc_pr001_recorte.js").read_text(encoding="utf-8")
+    cuerpo = _normalizar_pagina(pagina, _recuadros(js_))
+    html = (f'<h2 class="titulo-norma">Ley 84 de 1873</h2>'
+            f'<div class="descripcion-contenido">{cuerpo}</div>')
+    n = parse(html)
+    arts = {a.numero: a for a in n.articulos}
+    assert {"33", "34"} <= arts.keys()
+    a33 = arts["33"]
+    assert a33.epigrafe == "PALABRAS RELACIONADAS CON LAS PERSONAS"
+    assert a33.bloques[0].texto.startswith("La~~s~~ palabra~~s~~")  # tachados del editor
+    assert not any(re.search(r"(?:^|\s)~~\s", b.texto) for b in a33.bloques)  # apertura sin espacio
+    assert any(b.tipo == "nota" and "INEXEQUIBLES" in b.texto for b in a33.bloques + a33.notas_cabecera)
+    assert any(nv.tipo == "CAPÍTULO" and nv.etiqueta == "V" for nv in n.niveles)
+
+
+def test_comparar_fuentes():
+    from normas_cli.comparar import comparar, url_senado
+
+    a = parse('<h2 class="titulo-norma">Ley 1 de 2000</h2><div class="descripcion-contenido">'
+              "<p><strong>ARTÍCULO 1o.</strong> Texto igual.</p>"
+              "<p><strong>ARTÍCULO 2o.</strong> Texto viejo del artículo.</p>"
+              "<p><strong>ARTÍCULO 3o.</strong> Solo aquí.</p></div>")
+    b = parse('<h2 class="titulo-norma">Ley 1 de 2000</h2><div class="descripcion-contenido">'
+              "<p><strong>ARTÍCULO 1.</strong> Texto  igual</p>"
+              "<p><strong>ARTÍCULO 2.</strong> Texto nuevo del artículo.</p></div>")
+    c = comparar(a, b)
+    assert c.identicos == 1 and [d.numero for d in c.diferentes] == ["2"] and c.solo_a == ["3"]
+    assert url_senado(None, "Ley", "80", "1993").endswith("ley_0080_1993.html")
+    assert url_senado("CCo", None, None, None).endswith("codigo_comercio.html")

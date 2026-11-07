@@ -5,6 +5,7 @@
     normas-cli todas [--cache-dir DIR]           # regenerar todo lo del registry
     normas-cli verificar [biblioteca]            # revisar duplicados, vacíos, enlaces
     normas-cli catalogo                          # índice + paquetes para el plugin
+    normas-cli comparar CGP                      # DAFP frente al Senado (informe)
 """
 
 from __future__ import annotations
@@ -24,7 +25,7 @@ REPO = AQUI.parent
 BIBLIOTECA = REPO / "biblioteca"
 CATALOGO = REPO / "catalogo"
 REGISTRY = AQUI / "registry.yaml"
-SUBCOMANDOS = ("extraer", "todas", "verificar", "catalogo")
+SUBCOMANDOS = ("extraer", "todas", "verificar", "catalogo", "comparar")
 
 
 def _comunes(p: argparse.ArgumentParser) -> None:
@@ -61,6 +62,13 @@ def construir_parser() -> argparse.ArgumentParser:
     v.add_argument("biblioteca", nargs="?", default=str(BIBLIOTECA))
     v.add_argument("--estricto", action="store_true",
                    help="fallar también por enlaces internos rotos y artículos vacíos")
+
+    k = sub.add_parser("comparar", help="comparar una norma entre el DAFP y el Senado")
+    k.add_argument("norma", help="sigla o carpeta de la norma registrada (CGP, «Ley 80 de 1993»…)")
+    k.add_argument("--url-senado", help="URL de la norma en el Senado (si no sigue el patrón)")
+    k.add_argument("--salida", help="escribir el informe en este archivo (Markdown)")
+    k.add_argument("--registry", "-r", default=str(REGISTRY))
+    k.add_argument("--cache-dir", default=str(CACHE_DIR / "html"))
 
     c = sub.add_parser("catalogo", help="generar catalogo/ (índice y paquetes para el plugin)")
     c.add_argument("--biblioteca", default=str(BIBLIOTECA))
@@ -104,6 +112,33 @@ def _extraer(origen: str, reg: Registry, *, sigla: str | None, id_fuente: str | 
     return stats
 
 
+def _comparar(args) -> int:
+    from .comparar import comparar, informe, url_senado
+
+    reg = Registry.cargar(args.registry)
+    ent = next((e for e in reg.normas if args.norma in (e.sigla, e.ruta, e.nombre_canonico)), None)
+    if ent is None or not ent.id:
+        print(f"✗ «{args.norma}» no es una norma del DAFP registrada", file=sys.stderr)
+        return 1
+    url_s = args.url_senado or ent.extra.get("url_senado") or url_senado(ent.sigla, ent.tipo, ent.numero, ent.anio)
+    if not url_s:
+        print("✗ no se conoce la URL del Senado; usa --url-senado", file=sys.stderr)
+        return 1
+    opciones = reg.opciones(ent.id)
+    html_a, url_a = fetch_html(ent.id, cache_dir=args.cache_dir)
+    a = parse(html_a, url=url_a, id_fuente=ent.id, opciones=opciones)
+    titulo = f"{ent.tipo} {ent.numero} de {ent.anio}"
+    b = parse(descargar_senado(url_s, cache_dir=CACHE_DIR, titulo=titulo),
+              url=url_s, opciones={k: v for k, v in opciones.items() if k != "esquema"})
+    texto = informe(comparar(a, b), f"{ent.etiqueta} ({titulo})")
+    if args.salida:
+        Path(args.salida).write_text(texto, encoding="utf-8")
+        print(f"✓ informe en {args.salida}")
+    else:
+        print(texto)
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     argv = list(sys.argv[1:] if argv is None else argv)
     # Compatibilidad: `normas-cli 48425 --sigla CGP` equivale a `normas-cli extraer …`.
@@ -118,6 +153,8 @@ def main(argv: list[str] | None = None) -> int:
         from .catalogo import generar_catalogo
         generar_catalogo(Path(args.biblioteca), Path(args.salida))
         return 0
+    if args.comando == "comparar":
+        return _comparar(args)
     if args.comando is None:
         construir_parser().print_help()
         return 1
