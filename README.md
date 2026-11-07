@@ -22,21 +22,33 @@ Función Pública (DAFP)**:
 
 ## Normas disponibles
 
-| Sigla | Norma | Artículos | Estado |
-| --- | --- | ---: | --- |
-| `CN` | Constitución Política de 1991 | 484 | vigente |
-| `CGP` | Código General del Proceso (Ley 1564 de 2012) | 628 | vigente |
-| `CCo` | Código de Comercio (Decreto 410 de 1971) | 2.037 | vigente |
-| `CST` | Código Sustantivo del Trabajo (Decreto 2663 de 1950) | 496 | vigente |
-| `CPTSS` | Código Procesal del Trabajo y de la Seguridad Social (Ley 2452 de 2025) | 331 | vigente |
-| `CPT` | Código Procesal del Trabajo (Decreto 2158 de 1948) | 149 | derogado por la Ley 2452 de 2025 |
-| `CPACA` | Código de Procedimiento Administrativo y de lo Contencioso Administrativo (Ley 1437 de 2011) | 320 | vigente |
-| `ET` | Estatuto Tributario (Decreto Ley 624 de 1989) | 1.307 | vigente |
-| — | Ley 1996 de 2019 (capacidad legal de las personas con discapacidad) | 63 | vigente |
+| Sigla | Norma | Artículos | Fuente | Estado |
+| --- | --- | ---: | --- | --- |
+| `CPol` | Constitución Política de 1991 (alias `CN`) | 484 | DAFP | vigente |
+| `CC` | Código Civil (Ley 84 de 1873) | 2.679 | Senado | vigente |
+| `CCo` | Código de Comercio (Decreto 410 de 1971) | 2.037 | DAFP | vigente |
+| `CGP` | Código General del Proceso (Ley 1564 de 2012) | 628 | DAFP | vigente |
+| `CPACA` | Código de Procedimiento Administrativo y de lo Contencioso Administrativo (Ley 1437 de 2011) | 320 | DAFP | vigente |
+| `CP` | Código Penal (Ley 599 de 2000) | 588 | DAFP | vigente |
+| `CPP` | Código de Procedimiento Penal (Ley 906 de 2004) | 590 | DAFP | vigente |
+| `CST` | Código Sustantivo del Trabajo (Decreto 2663 de 1950) | 496 | DAFP | vigente |
+| `CPTSS` | Código Procesal del Trabajo y de la Seguridad Social (Ley 2452 de 2025) | 331 | DAFP | vigente |
+| `CPT` | Código Procesal del Trabajo (Decreto 2158 de 1948) | 149 | DAFP | derogado por la Ley 2452 de 2025 |
+| `ET` | Estatuto Tributario (Decreto Ley 624 de 1989) | 1.307 | DAFP | vigente |
+| — | Ley 80 de 1993 (contratación estatal) | 83 | DAFP | vigente |
+| — | Ley 222 de 1995 (reforma del régimen de sociedades) | 242 | DAFP | vigente |
+| — | Ley 446 de 1998 (descongestión y acceso a la justicia) | 167 | DAFP | vigente |
+| — | Ley 472 de 1998 (acciones populares y de grupo) | 87 | DAFP | vigente |
+| — | Ley 820 de 2003 (arrendamiento de vivienda urbana) | 43 | DAFP | vigente |
+| — | Ley 1258 de 2008 (SAS) | 46 | DAFP | vigente |
+| — | Ley 1474 de 2011 (Estatuto Anticorrupción) | 142 | DAFP | vigente |
+| — | Ley 1996 de 2019 (capacidad legal de las personas con discapacidad) | 63 | DAFP | vigente |
 
-Texto del DAFP con fecha de extracción del 7 de noviembre de 2026; cada nota
-indica su fuente y fecha. **El Código Civil no está disponible**: el DAFP no lo
-publica (ver [Pendientes](#pendientes)).
+19 normas y 10.482 artículos, extraídos el 7 de noviembre de 2026; cada nota
+indica su fuente y fecha. El **Código Civil** no está en el Gestor Normativo del
+DAFP, así que se toma de la [Secretaría General del Senado](http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html)
+(compilación de Avance Jurídico; sus epígrafes son editoriales). Las leyes sin
+sigla se citan por su identificador: `[[art. 3 Ley 80 de 1993]]`.
 
 ## Tres formas de usarlo
 
@@ -81,14 +93,21 @@ biblioteca/CGP/
 - Artículo: `art. N <ETIQUETA>.md`, donde la etiqueta es la **sigla** (`CGP`) o,
   si la norma no tiene, el identificador (`Ley 1996 de 2019`).
 - Números compuestos y con letra se conservan: `art. 115-1 ET`, `art. 397A CGP`.
-- **Transitorios**: `art. transitorio 1 CN`. Cuando un Acto Legislativo reinicia
-  la numeración se añade el acto: `art. transitorio 1 (AL 1 de 2017) CN`; los
+- **Transitorios**: `art. transitorio 1 CPol`. Cuando un Acto Legislativo reinicia
+  la numeración se añade el acto: `art. transitorio 1 (AL 1 de 2017) CPol`; los
   transitorios sin número toman el acto que los adicionó:
-  `art. transitorio (AL 1 de 2016) 2 CN`.
-- Cada artículo tiene alias con todas las notaciones, de modo que
-  `[[art. 22 CGP]]`, `[[art. 22 Ley 1564 de 2012]]`, `[[CGP art. 22]]` y
-  `[[CGP 22]]` llevan a la misma nota.
-- Nota raíz: `CGP.md`, con alias `Ley 1564 de 2012` y `Código General del Proceso`.
+  `art. transitorio (AL 1 de 2016) 2 CPol`.
+- **Para enlazar, usa el nombre de la nota**: `[[art. 22 CGP]]`. Obsidian
+  resuelve los wikilinks solo por nombre de archivo; **un `[[alias]]` escrito a
+  mano queda sin resolver**.
+- Cada artículo tiene además alias con otras notaciones (`art. 22 Ley 1564 de
+  2012`, `CGP art. 22`, `CGP 22`, `art. 410-A CP` para los artículos con letra,
+  `art. 29 CN` para la Constitución). Sirven para el buscador rápido
+  (<kbd>Ctrl</kbd>+<kbd>O</kbd>) y el autocompletado: al escribir `[[art. 22 Ley 1564`
+  y elegir la sugerencia, Obsidian inserta `[[art. 22 CGP|art. 22 Ley 1564 de 2012]]`,
+  que sí resuelve. `normas-cli verificar` marca como error cualquier enlace que
+  dependa solo de un alias.
+- Nota raíz: `CGP.md` (alias `Ley 1564 de 2012` y `Código General del Proceso` para el buscador).
 - Nota índice: `CGP - Libro Primero - Sección Primera - Título I - Capítulo I.md`.
 
 ### Frontmatter de un artículo
@@ -130,8 +149,8 @@ WHERE tipo = "articulo" AND vigencia != "vigente"
   diccionario `codigos` de `registry.yaml` (gana el nombre más largo).
 - «de la Ley 1996 de 2019», «del Decreto Nacional 1736 de 2012» → sigla si la
   norma está registrada; si no, `Ley 1996 de 2019` / `Decreto 1736 de 2012`.
-  Así, cuando esa norma se agregue a la biblioteca, los enlaces ya existentes
-  resolverán solos.
+  Al agregar esa norma y regenerar la biblioteca, el enlace se recalcula con la
+  etiqueta definitiva (la sigla, si se le asigna una).
 - No se enlazan los números de numerales, incisos, literales, parágrafos,
   sentencias ni años, ni las referencias a un «Código X» desconocido o a «el
   citado código». Ante la duda, el motor prefiere **no** enlazar.
@@ -168,7 +187,21 @@ normas-cli verificar --estricto          # también falla por enlaces internos r
 
 # Generar el catálogo para el plugin:
 normas-cli catalogo
+
+# Comparar una norma entre el DAFP y el Senado (informe Markdown):
+normas-cli comparar CGP --salida comparacion-cgp.md
 ```
+
+### Dos fuentes: DAFP y Senado
+
+La fuente principal es el DAFP; el Senado (compilación de Avance Jurídico) se
+usa para normas que el DAFP no publica (`fuente: senado` en el registry, hoy el
+Código Civil). `normas-cli comparar` descarga la norma de ambas, alinea los
+artículos por número y compara el **texto normativo** (sin notas, tachados ni
+puntuación): fechas de actualización declaradas, artículos idénticos, con
+diferencias y presentes en una sola fuente, con extractos. Ninguna fuente es
+siempre la más reciente: las diferencias aparecen artículo por artículo, por eso
+el informe sirve para decidir y corregir, no se fusiona automáticamente.
 
 | Opción | Descripción |
 | --- | --- |

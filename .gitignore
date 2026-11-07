@@ -26,3 +26,4 @@ Thumbs.db
 # Configuración local de Claude Code (permisos de esta máquina)
 .claude/settings.local.json
 plugin-obsidian/test/.main-test.js
+e2e/.tmp-catalogo/

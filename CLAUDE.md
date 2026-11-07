@@ -17,6 +17,16 @@ cd extractor
 
 # Plugin
 cd plugin-obsidian && npm ci && npm run build && npm test
+
+# Comparar fuentes (DAFP vs Senado)
+.venv/bin/normas-cli comparar CGP --salida /tmp/cgp.md
+
+# E2E en Obsidian real (Obsidian del usuario CERRADO; usa configuración aislada)
+export E2E_DIR=/tmp/normas-e2e
+VAULT_ORIGEN=~/Documentos/Obsidian/adolfo-s-rey-b e2e/preparar.sh   # copia Derecho/ (solo lectura)
+e2e/servir.sh &                      # catálogo local en http://127.0.0.1:8765/catalogo
+e2e/obsidian.sh &                    # app aislada (XDG_CONFIG_HOME propio)
+node e2e/run.mjs [escenario …]       # informe en $E2E_DIR/informe.md + capturas
 ```
 
 Flujo al cambiar el parser o el render: pytest → `todas` → `verificar` →
@@ -35,13 +45,16 @@ separado.
 | `render.py` | Árbol → carpetas/notas (raíz, índices, artículos), frontmatter, vigencia, escritura atómica. |
 | `verificar.py` | QA de la biblioteca (duplicados, alias ambiguos, carpetas vacías, enlaces rotos). |
 | `catalogo.py` | `catalogo/index.json` + un paquete JSON por norma para el plugin. |
-| `cli.py` | Subcomandos `extraer` (por defecto), `todas`, `verificar`, `catalogo`. |
+| `senado.py` | Adaptador de la Secretaría del Senado (páginas `_prNNN`, recuadros en JS, `<S>` → `~~`), normaliza a HTML tipo DAFP. |
+| `comparar.py` | Compara una norma DAFP vs Senado: texto por artículo y reformas citadas solo por cada fuente. |
+| `cli.py` | Subcomandos `extraer` (por defecto), `todas`, `verificar`, `catalogo`, `comparar`. |
 
 ## Convenciones que no se deben romper
 
 - Nombre de nota: `art. N <ETIQUETA>.md` (etiqueta = sigla o `Ley N de A`).
-  Transitorios: `art. transitorio N CN`, series posteriores
-  `art. transitorio N (AL x de y) CN` (decisión del usuario).
+  Transitorios: `art. transitorio N CPol`, series posteriores
+  `art. transitorio N (AL x de y) CPol` (decisión del usuario). La Constitución
+  es `CPol` (notación del usuario), con alias `CN`.
 - Los enlaces a normas no registradas usan `nombre_normalizado()`
   (`Decreto 1736 de 2012`, sin «Nacional/Ley»), para que resuelvan cuando la
   norma se agregue.
@@ -53,7 +66,7 @@ separado.
 
 ## Particularidades del DAFP (aprendidas a la mala)
 
-- El Código Civil **no** está publicado (`i=39535` → «No disponible»).
+- El Código Civil **no** está publicado (`i=39535` → «No disponible»): se toma del Senado.
 - La CN no trae etiquetas «TÍTULO I/CAPÍTULO 1» → `esquema` en el registry.
 - El CPT (Decreto 2158 de 1948, `i=5259`) está derogado por la Ley 2452 de 2025
   (`i=259639`, sigla CPTSS).
@@ -61,6 +74,21 @@ separado.
 - Fuente con errores: «de la 2195 de 2022» (falta «Ley»), `LIBRO SEXTO"`,
   dos artículos en un mismo `<p>`, «ARTICULOS 438.» como cabecera.
 - No disfrazar el User-Agent: no hace falta y el entorno lo bloquea.
+- La fecha «Última actualización» del Senado es de todo el sitio, no de cada
+  norma; para saber cuál fuente es más reciente, mirar las reformas citadas
+  (`comparar`). Ninguna fuente gana siempre: difieren artículo por artículo.
+
+## Pruebas E2E (aprendido)
+
+- VS Code exporta `ELECTRON_RUN_AS_NODE=1`: Obsidian/su CLI fallan con
+  «Cannot find module 'electron'». `e2e/obsidian.sh` lo elimina.
+- El CLI se conecta a la instancia en ejecución: con el Obsidian del usuario
+  abierto, los comandos podrían caer en su vault real (con Sync). Mantenerlo cerrado.
+- `obsidian eval` **no espera** promesas largas: lanzar la tarea y sondear
+  (`tarea()` en `e2e/run.mjs`). Nunca lanzar descargas en paralelo desde eval.
+- Para cerrar la instancia de pruebas, matar el PID de
+  `/usr/lib/electron43/electron /usr/lib/obsidian/app.asar` (no usar `pkill -f`
+  con ese patrón: coincide con el propio shell).
 
 ## Fixtures
 
