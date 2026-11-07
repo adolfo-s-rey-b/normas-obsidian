@@ -4,6 +4,10 @@ aliases:
   - "art. 97A Decreto 2663 de 1950"
   - "Decreto 2663 de 1950 art. 97A"
   - "CST 97A"
+  - "art. 97-A CST"
+  - "art. 97-A Decreto 2663 de 1950"
+  - "art. 97 A CST"
+  - "art. 97 A Decreto 2663 de 1950"
 tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"

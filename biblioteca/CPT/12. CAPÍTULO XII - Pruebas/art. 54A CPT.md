@@ -4,6 +4,10 @@ aliases:
   - "art. 54A Decreto 2158 de 1948"
   - "Decreto 2158 de 1948 art. 54A"
   - "CPT 54A"
+  - "art. 54-A CPT"
+  - "art. 54-A Decreto 2158 de 1948"
+  - "art. 54 A CPT"
+  - "art. 54 A Decreto 2158 de 1948"
 tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"

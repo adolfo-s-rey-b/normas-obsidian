@@ -1,0 +1,42 @@
+---
+aliases:
+  - "CC CAPÍTULO VIII - DEL SANEAMIENTO DE VICIOS REDHIBITORIOS"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "VIII"
+nombre: "DEL SANEAMIENTO DE VICIOS REDHIBITORIOS"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXIII|TÍTULO XXIII - DE LA COMPRAVENTA]]"
+articulos: "arts. 1914 a 1927"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXIII|Título XXIII]]
+
+## CAPÍTULO VIII - DEL SANEAMIENTO DE VICIOS REDHIBITORIOS
+
+*Arts. 1914 a 1927*
+
+### Contenido
+
+- [[art. 1914 CC|Artículo 1914]] — CONCEPTO DE ACCIÓN REDHIBITORIA
+- [[art. 1915 CC|Artículo 1915]] — VICIOS REDHIBITORIOS
+- [[art. 1916 CC|Artículo 1916]] — SANEAMIENTO DE VICIOS CONOCIDOS POR EL VENDEDOR
+- [[art. 1917 CC|Artículo 1917]] — DERECHO DE RESCISIÓN O REBAJA DEL PRECIO
+- [[art. 1918 CC|Artículo 1918]] — RESPONSABILIDAD DEL VENDEDOR POR CONOCIMIENTO DE LOS VICIOS
+- [[art. 1919 CC|Artículo 1919]] — EFECTOS DE LA PERDIDA DE LA COSA
+- [[art. 1920 CC|Artículo 1920]] — VICIOS REDHIBITORIOS POR CONVENCIÓN
+- [[art. 1921 CC|Artículo 1921]] — ACCIÓN REDHIBITORIA EN LA VENTA DE COSAS CONJUNTAS
+- [[art. 1922 CC|Artículo 1922]] — ACCIÓN REDHIBITORIA EN LAS VENTAS FORZADAS
+- [[art. 1923 CC|Artículo 1923]] — PRESCRIPCIÓN DE LA ACCIÓN REDHIBITORIA
+- [[art. 1924 CC|Artículo 1924]] — REBAJA DEL PRECIO E INDEMNIZACIÓN DE PERJUICIOS
+- [[art. 1925 CC|Artículo 1925]] — VICIOS OCULTOS DE POCA IMPORTANCIA
+- [[art. 1926 CC|Artículo 1926]] — PRESCRIPCIÓN DE LA ACCIÓN DE REBAJA DE PRECIO
+- [[art. 1927 CC|Artículo 1927]] — PRESCRIPCIÓN CUANDO LA COSA VENDIDA IBA A SER ENVIADA A LUGAR DISTANTE
+
+---
+← [[CC - Libro Cuarto - Título XXIII - Capítulo VII|Capítulo VII]] · ↑ [[CC - Libro Cuarto - Título XXIII|Título XXIII]] · [[CC - Libro Cuarto - Título XXIII - Capítulo IX|Capítulo IX]] →

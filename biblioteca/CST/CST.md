@@ -140,7 +140,7 @@ DECRETO 2663 DE 1950
 
 EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA,
 
-En ejercicio de las facultades que le confiere el artículo [[art. 121 CN|121]] de la Constitución Nacional, y
+En ejercicio de las facultades que le confiere el artículo [[art. 121 CPol|121]] de la Constitución Nacional, y
 
 CONSIDERANDO:
 

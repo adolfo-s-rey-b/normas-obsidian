@@ -30,7 +30,7 @@ tags:
 
 Toda persona tiene derecho de presentar peticiones respetuosas a las autoridades, en los términos señalados en este Código, por motivos de interés general o particular, y a obtener pronta resolución completa y de fondo sobre la misma.
 
-Toda actuación que inicie cualquier persona ante las autoridades implica el ejercicio del derecho de petición consagrado en el artículo [[art. 23 CN|23]] de la Constitución Política, sin que sea necesario invocarlo. Mediante él, entre otras actuaciones, se podrá solicitar el reconocimiento de un derecho o que se resuelva una situación jurídica, que se le preste un servicio, pedir información, consultar, examinar y requerir copias de documentos, formular consultas, quejas, denuncias y reclamos e interponer recursos.
+Toda actuación que inicie cualquier persona ante las autoridades implica el ejercicio del derecho de petición consagrado en el artículo [[art. 23 CPol|23]] de la Constitución Política, sin que sea necesario invocarlo. Mediante él, entre otras actuaciones, se podrá solicitar el reconocimiento de un derecho o que se resuelva una situación jurídica, que se le preste un servicio, pedir información, consultar, examinar y requerir copias de documentos, formular consultas, quejas, denuncias y reclamos e interponer recursos.
 
 El ejercicio del derecho de petición es gratuito y puede realizarse sin necesidad de representación a través de abogado.
 

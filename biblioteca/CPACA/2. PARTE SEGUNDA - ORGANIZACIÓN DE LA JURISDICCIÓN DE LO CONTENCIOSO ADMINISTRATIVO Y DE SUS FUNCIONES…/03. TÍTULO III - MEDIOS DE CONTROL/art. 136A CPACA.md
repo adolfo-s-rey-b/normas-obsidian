@@ -4,6 +4,10 @@ aliases:
   - "art. 136A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 136A"
   - "CPACA 136A"
+  - "art. 136-A CPACA"
+  - "art. 136-A Ley 1437 de 2011"
+  - "art. 136 A CPACA"
+  - "art. 136 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

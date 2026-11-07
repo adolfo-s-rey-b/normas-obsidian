@@ -1,0 +1,28 @@
+---
+aliases:
+  - "Ley 446 de 1998 art. 24"
+tipo: articulo
+norma: "Ley 446 de 1998"
+articulo: "24"
+epigrafe: "Representación de las entidades públicas en materia laboral"
+parte: "[[Ley 446 de 1998 - Parte II|PARTE II - DE LA EFICIENCIA EN LA JUSTICIA]]"
+titulo: "[[Ley 446 de 1998 - Parte II - Título I|TÍTULO I - NORMAS GENERALES]]"
+vigencia: "vigente"
+anterior: "[[art. 23 Ley 446 de 1998]]"
+siguiente: "[[art. 25 Ley 446 de 1998]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992#24"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/ley_446_de_1998
+  - vigencia/vigente
+---
+
+[[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte II|Parte II]] › [[Ley 446 de 1998 - Parte II - Título I|Título I]]
+
+## Artículo 24. Representación de las entidades públicas en materia laboral
+
+El artículo [[art. 149 CCA|149]] del Código Contencioso Administrativo será aplicable en materia laboral.
+
+---
+← [[art. 23 Ley 446 de 1998]] · ↑ [[Ley 446 de 1998 - Parte II - Título I|Título I]] · [[art. 25 Ley 446 de 1998]] →

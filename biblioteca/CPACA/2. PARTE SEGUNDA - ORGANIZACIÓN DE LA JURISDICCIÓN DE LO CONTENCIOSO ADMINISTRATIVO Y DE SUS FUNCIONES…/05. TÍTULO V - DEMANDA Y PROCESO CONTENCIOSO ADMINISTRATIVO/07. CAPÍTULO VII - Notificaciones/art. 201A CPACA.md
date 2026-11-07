@@ -4,6 +4,10 @@ aliases:
   - "art. 201A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 201A"
   - "CPACA 201A"
+  - "art. 201-A CPACA"
+  - "art. 201-A Ley 1437 de 2011"
+  - "art. 201 A CPACA"
+  - "art. 201 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

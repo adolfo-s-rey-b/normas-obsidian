@@ -4,6 +4,10 @@ aliases:
   - "art. 148A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 148A"
   - "CPACA 148A"
+  - "art. 148-A CPACA"
+  - "art. 148-A Ley 1437 de 2011"
+  - "art. 148 A CPACA"
+  - "art. 148 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

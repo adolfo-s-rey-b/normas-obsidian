@@ -4,6 +4,10 @@ aliases:
   - "art. 66A Decreto 2158 de 1948"
   - "Decreto 2158 de 1948 art. 66A"
   - "CPT 66A"
+  - "art. 66-A CPT"
+  - "art. 66-A Decreto 2158 de 1948"
+  - "art. 66 A CPT"
+  - "art. 66 A Decreto 2158 de 1948"
 tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"

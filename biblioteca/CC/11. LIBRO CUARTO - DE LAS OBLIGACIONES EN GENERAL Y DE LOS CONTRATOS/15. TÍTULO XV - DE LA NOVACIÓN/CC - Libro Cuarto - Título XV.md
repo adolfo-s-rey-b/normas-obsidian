@@ -1,0 +1,50 @@
+---
+aliases:
+  - "CC TÍTULO XV - DE LA NOVACIÓN"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "TÍTULO"
+etiqueta: "XV"
+nombre: "DE LA NOVACIÓN"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+articulos: "arts. 1687 a 1710"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]]
+
+## TÍTULO XV - DE LA NOVACIÓN
+
+*Arts. 1687 a 1710*
+
+### Contenido
+
+- [[art. 1687 CC|Artículo 1687]] — DEFINICIÓN DE NOVACIÓN
+- [[art. 1688 CC|Artículo 1688]] — FACULTAD DEL PROCURADOR O MANDATARIO PARA NOVAR
+- [[art. 1689 CC|Artículo 1689]] — VALIDEZ DE LA NOVACIÓN
+- [[art. 1690 CC|Artículo 1690]] — MODOS DE NOVACIÓN
+- [[art. 1691 CC|Artículo 1691]] — CAMBIOS NO CONSTITUTIVOS DE NOVACIÓN
+- [[art. 1692 CC|Artículo 1692]] — NOVACIÓN DE OBLIGACIONES CONDICIONALES
+- [[art. 1693 CC|Artículo 1693]] — CERTEZA SOBRE LA INTENCIÓN DE NOVAR
+- [[art. 1694 CC|Artículo 1694]] — LA SIMPLE SUSTITUCIÓN DE DEUDOR NO CONSTITUYE NOVACIÓN
+- [[art. 1695 CC|Artículo 1695]] — AUSENCIA DE CONSENTIMIENTO DEL DELEGADO
+- [[art. 1696 CC|Artículo 1696]] — ACCIONES CONTRA EL ANTIGUO ACREEDOR
+- [[art. 1697 CC|Artículo 1697]] — PROMESA DE PAGO DEUDA INEXISTENTE
+- [[art. 1698 CC|Artículo 1698]] — PAGO DE DEUDAS INEXISTENTES
+- [[art. 1699 CC|Artículo 1699]] — EXTINCIÓN DE INTERESES POR NOVACIÓN
+- [[art. 1700 CC|Artículo 1700]] — EXTINCIÓN DE PRIVILEGIOS POR NOVACIÓN
+- [[art. 1701 CC|Artículo 1701]] — EFECTO DE LA NOVACIÓN SOBRE LAS GARANTIAS
+- [[art. 1702 CC|Artículo 1702]] — INEFICACIA DE RESERVAS EN LA NOVACIÓN POR NUEVO DEUDOR
+- [[art. 1703 CC|Artículo 1703]] — RENOVACIÓN DE GARANTIAS
+- [[art. 1705 CC|Artículo 1705]] — OBLIGACIÓN DE LOS CODEUDORES
+- [[art. 1706 CC|Artículo 1706]] — CLAUSULA PENAL DE LA NUEVA OBLIGACIÓN
+- [[art. 1707 CC|Artículo 1707]] — CAMBIO DEL LUGAR DE PAGO
+- [[art. 1708 CC|Artículo 1708]] — LA AMPLIACIÓN DEL PLAZO NO CONSTITUYE NOVACIÓN
+- [[art. 1709 CC|Artículo 1709]] — LA REDUCCIÓN DEL PLAZO NO CONSTITUYE NOVACIÓN
+- [[art. 1710 CC|Artículo 1710]] — NOVACIÓN CONDICIONAL
+
+---
+← [[CC - Libro Cuarto - Título XIV|Título XIV]] · ↑ [[CC - Libro Cuarto|Libro Cuarto]] · [[CC - Libro Cuarto - Título XVI|Título XVI]] →

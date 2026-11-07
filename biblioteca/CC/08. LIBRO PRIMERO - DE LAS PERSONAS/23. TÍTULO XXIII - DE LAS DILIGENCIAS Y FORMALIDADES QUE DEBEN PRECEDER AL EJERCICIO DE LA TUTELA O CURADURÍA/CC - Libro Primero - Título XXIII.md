@@ -1,0 +1,44 @@
+---
+aliases:
+  - "CC TÍTULO XXIII - DE LAS DILIGENCIAS Y FORMALIDADES QUE DEBEN PRECEDER AL EJERCICIO DE LA TUTELA O CURADURÍA"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "TÍTULO"
+etiqueta: "XXIII"
+nombre: "DE LAS DILIGENCIAS Y FORMALIDADES QUE DEBEN PRECEDER AL EJERCICIO DE LA TUTELA O CURADURÍA"
+libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
+articulos: "arts. 463 a 479"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Primero|Libro Primero]]
+
+## TÍTULO XXIII - DE LAS DILIGENCIAS Y FORMALIDADES QUE DEBEN PRECEDER AL EJERCICIO DE LA TUTELA O CURADURÍA
+
+*Arts. 463 a 479*
+
+### Contenido
+
+- [[art. 463 CC|Artículo 463]] — DISCERNIMIENTO DEL CARGO DEL GUARDADOR
+- [[art. 464 CC|Artículo 464]] — REQUISITO DE PRESTAR CAUCIÓN
+- [[art. 465 CC|Artículo 465]] — EXCEPCIONES
+- [[art. 466 CC|Artículo 466]] — CAUCIÓN HIPOTECARIA
+- [[art. 467 CC|Artículo 467]] — NULIDAD DE LOS ACTOS DEL GUARDADOR
+- [[art. 468 CC|Artículo 468]] — INVENTARIO DE LOS BIENES DEL PUPILO
+- [[art. 469 CC|Artículo 469]] — PROHIBICIÓN DE EXENCIÓN DE LA OBLIGACIÓN
+- [[art. 470 CC|Artículo 470]] — INVENTARIO PRIVADO
+- [[art. 471 CC|Artículo 471]] — FORMALIDADES DEL INVENTARIO
+- [[art. 472 CC|Artículo 472]] — CONTENIDO DEL INVENTARIO
+- [[art. 473 CC|Artículo 473]] — INVENTARIO SOLEMNE ADICIONAL
+- [[art. 474 CC|Artículo 474]] — INVENTARIO DE COSAS AJENAS
+- [[art. 475 CC|Artículo 475]] — PRUEBA DEL DOMINIO
+- [[art. 476 CC|Artículo 476]] — ERROR EN EL INVENTARIO COMO EXCEPCIÓN
+- [[art. 477 CC|Artículo 477]] — INCLUSIONES FALSAS EN EL INVENTARIO
+- [[art. 478 CC|Artículo 478]] — INTERPRETACIÓN DEL INVENTARIO
+- [[art. 479 CC|Artículo 479]] — INVENTARIO DE NUEVO GUARDADOR
+
+---
+← [[CC - Libro Primero - Título XXII|Título XXII]] · ↑ [[CC - Libro Primero|Libro Primero]] · [[CC - Libro Primero - Título XXIV|Título XXIV]] →

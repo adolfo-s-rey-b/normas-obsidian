@@ -1,0 +1,46 @@
+---
+aliases:
+  - "CC TÍTULO XXXIX - DE LA TRANSACCIÓN"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "TÍTULO"
+etiqueta: "XXXIX"
+nombre: "DE LA TRANSACCIÓN"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+articulos: "arts. 2469 a 2487"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]]
+
+## TÍTULO XXXIX - DE LA TRANSACCIÓN
+
+*Arts. 2469 a 2487*
+
+### Contenido
+
+- [[art. 2469 CC|Artículo 2469]] — DEFINICIÓN DE LA TRANSACCIÓN
+- [[art. 2470 CC|Artículo 2470]] — CAPACIDAD PARA TRANSIGIR
+- [[art. 2471 CC|Artículo 2471]] — PODER QUE PERMITE AL MANDATARIO TRANSIGIR
+- [[art. 2472 CC|Artículo 2472]] — TRANSACCIÓN DE LA ACCIÓN CIVIL
+- [[art. 2473 CC|Artículo 2473]] — PROHIBICIÓN DE TRANSIGIR SOBRE EL ESTADO CIVIL
+- [[art. 2474 CC|Artículo 2474]] — TRANSACCIÓN SOBRE ALIMENTOS FUTUROS
+- [[art. 2475 CC|Artículo 2475]] — TRANSACCIÓN SOBRE DERECHOS AJENOS O INEXISTENTES
+- [[art. 2476 CC|Artículo 2476]] — NULIDAD DE LA TRANSACCIÓN
+- [[art. 2477 CC|Artículo 2477]] — TRANSACCIÓN SOBRE TÍTULO NULO
+- [[art. 2478 CC|Artículo 2478]] — TRANSACCIÓN SOBRE LITIGIO QUE HIZO PASO A COSA JUZGADA
+- [[art. 2479 CC|Artículo 2479]] — ERROR SOBRE LA PERSONA DE LA TRANSACCIÓN
+- [[art. 2480 CC|Artículo 2480]] — ERROR SOBRE LA IDENTIDAD DEL OBJETO DE LA TRANSACCIÓN
+- [[art. 2481 CC|Artículo 2481]] — ERROR DE CALCULO DE LA TRANSACCIÓN
+- [[art. 2482 CC|Artículo 2482]] — RESCISIÓN DE LA TRANSACCIÓN
+- [[art. 2483 CC|Artículo 2483]] — EFECTOS DE LA TRANSACCIÓN
+- [[art. 2484 CC|Artículo 2484]] — PERSONAS QUE AFECTA LA TRANSACCIÓN
+- [[art. 2485 CC|Artículo 2485]] — LIMITACIÓN DE LA RENUNCIA GENERAL DE DERECHOS AL OBJETO QUE SE TRANSIGE
+- [[art. 2486 CC|Artículo 2486]] — ESTIPULACIÓN DE CLAUSULA PENAL
+- [[art. 2487 CC|Artículo 2487]] — ADQUISICIÓN DE LA MISMA COSA TRANSIGIDA CON POSTERIORIDAD A LA TRANSACCIÓN
+
+---
+← [[CC - Libro Cuarto - Título XXXVIII|Título XXXVIII]] · ↑ [[CC - Libro Cuarto|Libro Cuarto]] · [[CC - Libro Cuarto - Título XL|Título XL]] →

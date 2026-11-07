@@ -4,6 +4,10 @@ aliases:
   - "art. 416A Decreto 2663 de 1950"
   - "Decreto 2663 de 1950 art. 416A"
   - "CST 416A"
+  - "art. 416-A CST"
+  - "art. 416-A Decreto 2663 de 1950"
+  - "art. 416 A CST"
+  - "art. 416 A Decreto 2663 de 1950"
 tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"

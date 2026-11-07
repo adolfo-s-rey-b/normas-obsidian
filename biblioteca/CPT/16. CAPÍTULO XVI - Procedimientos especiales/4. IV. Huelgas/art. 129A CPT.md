@@ -4,6 +4,10 @@ aliases:
   - "art. 129A Decreto 2158 de 1948"
   - "Decreto 2158 de 1948 art. 129A"
   - "CPT 129A"
+  - "art. 129-A CPT"
+  - "art. 129-A Decreto 2158 de 1948"
+  - "art. 129 A CPT"
+  - "art. 129 A Decreto 2158 de 1948"
 tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"

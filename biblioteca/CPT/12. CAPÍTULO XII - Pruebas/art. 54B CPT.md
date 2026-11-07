@@ -4,6 +4,10 @@ aliases:
   - "art. 54B Decreto 2158 de 1948"
   - "Decreto 2158 de 1948 art. 54B"
   - "CPT 54B"
+  - "art. 54-B CPT"
+  - "art. 54-B Decreto 2158 de 1948"
+  - "art. 54 B CPT"
+  - "art. 54 B Decreto 2158 de 1948"
 tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"

@@ -1,0 +1,36 @@
+---
+aliases:
+  - "CC art. 2301"
+  - "art. 2301 Ley 84 de 1873"
+  - "Ley 84 de 1873 art. 2301"
+  - "CC 2301"
+tipo: articulo
+norma: "Ley 84 de 1873"
+sigla: "CC"
+articulo: "2301"
+epigrafe: "RENTA VITALICIA GRATUITA"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXXII|TÍTULO XXXII - DE LOS CONTRATOS ALEATORIOS]]"
+capitulo: "[[CC - Libro Cuarto - Título XXXII - Capítulo II|CAPÍTULO II - DE LA CONSTITUCIÓN DE RENTA VITALICIA]]"
+vigencia: "vigente"
+anterior: "[[art. 2300 CC]]"
+siguiente: "[[art. 2302 CC]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cc
+  - vigencia/vigente
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXII|Título XXXII]] › [[CC - Libro Cuarto - Título XXXII - Capítulo II|Capítulo II]]
+
+## Artículo 2301. RENTA VITALICIA GRATUITA
+
+Cuando se constituye una renta vitalicia gratuitamente no hay contrato aleatorio.
+
+Se sujetará, por tanto, a las reglas de las donaciones y legados, sin perjuicio de regirse por los artículos precedentes en cuanto le fueren aplicables.
+
+---
+← [[art. 2300 CC]] · ↑ [[CC - Libro Cuarto - Título XXXII - Capítulo II|Capítulo II]] · [[art. 2302 CC]] →

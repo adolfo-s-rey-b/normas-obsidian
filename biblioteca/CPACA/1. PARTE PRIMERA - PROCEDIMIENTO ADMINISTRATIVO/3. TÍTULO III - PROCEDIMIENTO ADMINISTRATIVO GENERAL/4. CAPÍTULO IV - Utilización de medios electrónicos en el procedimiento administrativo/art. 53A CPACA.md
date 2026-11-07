@@ -4,6 +4,10 @@ aliases:
   - "art. 53A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 53A"
   - "CPACA 53A"
+  - "art. 53-A CPACA"
+  - "art. 53-A Ley 1437 de 2011"
+  - "art. 53 A CPACA"
+  - "art. 53 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

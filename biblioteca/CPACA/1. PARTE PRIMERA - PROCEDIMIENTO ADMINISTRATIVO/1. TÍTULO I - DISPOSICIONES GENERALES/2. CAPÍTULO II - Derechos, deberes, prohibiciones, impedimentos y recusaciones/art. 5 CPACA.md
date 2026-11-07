@@ -45,7 +45,7 @@ Las anteriores actuaciones podrán ser adelantadas o promovidas por cualquier me
 
 5\. Ser tratado con el respeto y la consideración debida a la dignidad de la persona humana.
 
-6\. Recibir atención especial y preferente si se trata de personas en situación de discapacidad, niños, niñas, adolescentes, mujeres gestantes o adultos mayores, y en general de personas en estado de indefensión o de debilidad manifiesta de conformidad con el artículo [[art. 13 CN|13]] de la Constitución Política.
+6\. Recibir atención especial y preferente si se trata de personas en situación de discapacidad, niños, niñas, adolescentes, mujeres gestantes o adultos mayores, y en general de personas en estado de indefensión o de debilidad manifiesta de conformidad con el artículo [[art. 13 CPol|13]] de la Constitución Política.
 
 7\. Exigir el cumplimiento de las responsabilidades de los servidores públicos y de los particulares que cumplan funciones administrativas.
 

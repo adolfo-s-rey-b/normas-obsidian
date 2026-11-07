@@ -1,0 +1,47 @@
+---
+aliases:
+  - "CC CAPÍTULO III - DEL CUASICONTRATO DE COMUNIDAD"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "III"
+nombre: "DEL CUASICONTRATO DE COMUNIDAD"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXXIII|TÍTULO XXXIII - DE LOS CUASICONTRATOS]]"
+articulos: "arts. 2322 a 2340"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXIII|Título XXXIII]]
+
+## CAPÍTULO III - DEL CUASICONTRATO DE COMUNIDAD
+
+*Arts. 2322 a 2340*
+
+### Contenido
+
+- [[art. 2322 CC|Artículo 2322]] — CUASICONTRATO DE COMUNIDAD
+- [[art. 2323 CC|Artículo 2323]] — DERECHOS DE LOS COMUNEROS SOBRE LA COSA COMUN
+- [[art. 2324 CC|Artículo 2324]] — COMUNIDAD DE COSA UNIVERSAL
+- [[art. 2325 CC|Artículo 2325]] — DEUDAS CONTRAIDAS EN FAVOR DE LA COMUNIDAD
+- [[art. 2326 CC|Artículo 2326]] — DEUDAS DE LOS COMUNEROS CON LA COMUNIDAD
+- [[art. 2327 CC|Artículo 2327]] — CONTRIBUCIONES POR OBRAS Y REPARACIONES
+- [[art. 2328 CC|Artículo 2328]] — DIVISIÓN DE LOS FRUTOS
+- [[art. 2329 CC|Artículo 2329]] — OBLIGACIONES ENTRE COMUNEROS
+- [[art. 2330 CC|Artículo 2330]] — COMUNIDAD SOBRE PREDIO
+- [[art. 2331 CC|Artículo 2331]] — COMUNIDAD SOBRE TERRENOS PARA CRIA DE ANIMALES
+- [[art. 2332 CC|Artículo 2332]] — COMUNIDAD SOBRE BOSQUES
+- [[art. 2333 CC|Artículo 2333]] — COMUNIDAD POR DECLARACIÓN JUDICIAL SOBRE PASTOS
+- [[art. 2334 CC|Artículo 2334]] — DERECHO DE DIVISIÓN
+- [[art. 2335 CC|Artículo 2335]] — REGLAS DE LA DIVISIÓN DE COSAS COMUNES
+- [[art. 2336 CC|Artículo 2336]] — VENTA PARCIAL DE LA COSA COMUN
+- [[art. 2337 CC|Artículo 2337]] — VENTA DE COSA COMUN
+- [[art. 2338 CC|Artículo 2338]] — PROCEDIMIENTO PARA LA DIVISIÓN
+- [[art. 2339 CC|Artículo 2339]] — COMUNIDAD SOBRE CAUCES
+- [[art. 2340 CC|Artículo 2340]] — CAUSALES DE TERMINACIÓN DE LA COMUNIDAD
+
+---
+← [[CC - Libro Cuarto - Título XXXIII - Capítulo II|Capítulo II]] · ↑ [[CC - Libro Cuarto - Título XXXIII|Título XXXIII]]

@@ -1,0 +1,28 @@
+---
+aliases:
+  - "Ley 472 de 1998 art. 8"
+tipo: articulo
+norma: "Ley 472 de 1998"
+articulo: "8"
+epigrafe: "Estados de Excepción"
+titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
+capitulo: "[[Ley 472 de 1998 - Título I - Capítulo III|CAPÍTULO III - PRINCIPIOS]]"
+vigencia: "vigente"
+anterior: "[[art. 7 Ley 472 de 1998]]"
+siguiente: "[[art. 9 Ley 472 de 1998]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=188#8"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/ley_472_de_1998
+  - vigencia/vigente
+---
+
+[[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo III|Capítulo III]]
+
+## Artículo 8. Estados de Excepción
+
+Las acciones populares podrán incoarse y tramitarse en todo tiempo.
+
+---
+← [[art. 7 Ley 472 de 1998]] · ↑ [[Ley 472 de 1998 - Título I - Capítulo III|Capítulo III]] · [[art. 9 Ley 472 de 1998]] →

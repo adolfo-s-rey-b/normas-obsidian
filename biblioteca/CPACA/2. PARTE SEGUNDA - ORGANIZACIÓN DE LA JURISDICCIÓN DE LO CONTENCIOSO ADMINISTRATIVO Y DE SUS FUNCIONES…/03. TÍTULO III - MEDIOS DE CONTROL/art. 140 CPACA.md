@@ -26,7 +26,7 @@ tags:
 
 ## Artículo 140. Reparación directa
 
-En los términos del artículo [[art. 90 CN|90]] de la Constitución Política, la persona interesada podrá demandar directamente la reparación del daño antijurídico producido por la acción u omisión de los agentes del Estado.
+En los términos del artículo [[art. 90 CPol|90]] de la Constitución Política, la persona interesada podrá demandar directamente la reparación del daño antijurídico producido por la acción u omisión de los agentes del Estado.
 
 De conformidad con el inciso anterior, el Estado responderá, entre otras, cuando la causa del daño sea un hecho, una omisión, una operación administrativa o la ocupación temporal o permanente de inmueble por causa de trabajos públicos o por cualquiera otra causa imputable a una entidad pública o a un particular que haya obrado siguiendo una expresa instrucción de la misma .
 

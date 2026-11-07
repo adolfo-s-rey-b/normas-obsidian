@@ -44,7 +44,7 @@ A) La Sala de Casación Laboral de la Corte Suprema de Justicia conoce:
 
 7\. Del recurso de apelación contra las sentencias de primera ins­tancia que deciden la calificación de la ilegalidad de la suspen­sión, huelga o paro colectivo del trabajo y de su grado jurisdic­cional de consulta.
 
-8\. De asuntos señalados en el numeral 8 del artículo [[art. 235 CN|235]] de la Constitución Política.
+8\. De asuntos señalados en el numeral 8 del artículo [[art. 235 CPol|235]] de la Constitución Política.
 
 9\. De los asuntos señalados en el inciso 3º del artículo [[art. 239 CPTSS|239]] de este código.
 

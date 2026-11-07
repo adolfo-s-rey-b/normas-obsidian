@@ -31,7 +31,7 @@ La sentencia que declare la nulidad de un acto administrativo en un proceso tend
 
 Cuando por sentencia ejecutoriada se declare la nulidad de una ordenanza o de un acuerdo distrital o municipal, en todo o en parte, quedarán sin efectos en lo pertinente sus decretos reglamentarios.
 
-Las sentencias de nulidad sobre los actos proferidos en virtud del numeral 2 del artículo [[art. 237 CN|237]] de la Constitución Política, tienen efectos hacia el futuro y de cosa juzgada constitucional . Sin embargo, el juez podrá disponer unos efectos diferentes.
+Las sentencias de nulidad sobre los actos proferidos en virtud del numeral 2 del artículo [[art. 237 CPol|237]] de la Constitución Política, tienen efectos hacia el futuro y de cosa juzgada constitucional . Sin embargo, el juez podrá disponer unos efectos diferentes.
 
 NOTA: Inciso declarado EXEQUIBLE excepto la expresion subrayada por la Corte Constitucional, mediante Sentencia C-400 de 2013 .
 

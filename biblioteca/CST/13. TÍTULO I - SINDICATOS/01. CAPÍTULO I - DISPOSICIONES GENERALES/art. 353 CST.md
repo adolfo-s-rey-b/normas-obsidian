@@ -28,7 +28,7 @@ tags:
 
 ## Artículo 353. DERECHOS DE ASOCIACION
 
-1\. De acuerdo con el artículo [[art. 39 CN|39]] de la Constitución Política los empleadores y los trabajadores tienen el derecho de asociarse libremente en defensa de sus intereses, formando asociaciones profesionales o sindicatos; estos poseen el derecho de unirse o federarse entre sí.
+1\. De acuerdo con el artículo [[art. 39 CPol|39]] de la Constitución Política los empleadores y los trabajadores tienen el derecho de asociarse libremente en defensa de sus intereses, formando asociaciones profesionales o sindicatos; estos poseen el derecho de unirse o federarse entre sí.
 
 2\. Las asociaciones profesionales o sindicatos deben ajustarse en el ejercicio de sus derechos y cumplimiento de sus deberes, a las normas de este título y están sometidos a la inspección y vigilancia del Gobierno, en cuanto concierne al orden público.
 

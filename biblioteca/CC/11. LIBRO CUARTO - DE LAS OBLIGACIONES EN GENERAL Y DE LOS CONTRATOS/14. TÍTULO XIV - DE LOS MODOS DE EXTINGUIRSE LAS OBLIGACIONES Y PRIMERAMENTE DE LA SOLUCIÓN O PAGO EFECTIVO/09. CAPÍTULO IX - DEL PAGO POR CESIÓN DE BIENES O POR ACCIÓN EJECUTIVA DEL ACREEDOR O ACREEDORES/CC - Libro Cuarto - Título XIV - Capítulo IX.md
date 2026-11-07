@@ -1,0 +1,40 @@
+---
+aliases:
+  - "CC CAPÍTULO IX - DEL PAGO POR CESIÓN DE BIENES O POR ACCIÓN EJECUTIVA DEL ACREEDOR O ACREEDORES"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "IX"
+nombre: "DEL PAGO POR CESIÓN DE BIENES O POR ACCIÓN EJECUTIVA DEL ACREEDOR O ACREEDORES"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XIV|TÍTULO XIV - DE LOS MODOS DE EXTINGUIRSE LAS OBLIGACIONES Y PRIMERAMENTE DE LA SOLUCIÓN O PAGO EFECTIVO]]"
+articulos: "arts. 1672 a 1683"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XIV|Título XIV]]
+
+## CAPÍTULO IX - DEL PAGO POR CESIÓN DE BIENES O POR ACCIÓN EJECUTIVA DEL ACREEDOR O ACREEDORES
+
+*Arts. 1672 a 1683*
+
+### Contenido
+
+- [[art. 1672 CC|Artículo 1672]] — DEFINICIÓN DE CESIÓN DE BIENES
+- [[art. 1673 CC|Artículo 1673]] — ADMISIÓN DE LA CESIÓN DE BIENES
+- [[art. 1674 CC|Artículo 1674]] — PRUEBA DE INCULPABILIDAD POR EL ESTADO DE LOS NEGOCIOS
+- [[art. 1675 CC|Artículo 1675]] — EXCEPCIONES A LA ACEPTACIÓN DE LA CESIÓN DE BIENES
+- [[art. 1676 CC|Artículo 1676]] — PRESUNCIÓN DE DILAPIDACIÓN
+- [[art. 1677 CC|Artículo 1677]] — BIENES INCLUIDOS EN LA CESIÓN
+- [[art. 1678 CC|Artículo 1678]] — EFECTO DE LA CESIÓN DE BIENES
+- [[art. 1679 CC|Artículo 1679]] — ARREPENTIMIENTO DE LA CESIÓN
+- [[art. 1680 CC|Artículo 1680]] — ADMINISTRACIÓN DE LOS BIENES CEDIDOS
+- [[art. 1681 CC|Artículo 1681]] — DECISIONES DE LOS ACREEDORES
+- [[art. 1682 CC|Artículo 1682]] — PESONAS EXCLUIDAS DE LA CESIÓN
+- [[art. 1683 CC|Artículo 1683]] — APLICACIÓN DE LAS NORMAS SOBRE CESIÓN AL EMBARGO DE BIENES
+
+---
+← [[CC - Libro Cuarto - Título XIV - Capítulo VIII|Capítulo VIII]] · ↑ [[CC - Libro Cuarto - Título XIV|Título XIV]] · [[CC - Libro Cuarto - Título XIV - Capítulo X|Capítulo X]] →

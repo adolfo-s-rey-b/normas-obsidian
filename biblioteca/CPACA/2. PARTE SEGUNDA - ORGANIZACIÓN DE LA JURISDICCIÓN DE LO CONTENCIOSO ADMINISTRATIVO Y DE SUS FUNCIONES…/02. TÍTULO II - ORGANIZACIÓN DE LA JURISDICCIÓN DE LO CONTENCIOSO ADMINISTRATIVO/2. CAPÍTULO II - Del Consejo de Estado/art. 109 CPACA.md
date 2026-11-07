@@ -55,7 +55,7 @@ La Sala Plena del Consejo de Estado tendrá las siguientes atribuciones:
 
 13\. Elegir tres (3) Magistrados para la Sala Administrativa del Consejo Superior de la Judicatura.
 
-14\. Emitir concepto en el caso previsto en el inciso 2 del numeral 3 del artículo [[art. 237 CN|237]] de la Constitución Política.
+14\. Emitir concepto en el caso previsto en el inciso 2 del numeral 3 del artículo [[art. 237 CPol|237]] de la Constitución Política.
 
 15\. Ejercer las demás funciones que le prescriban la Constitución, la ley y el reglamento.
 

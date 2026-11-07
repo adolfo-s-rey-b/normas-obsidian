@@ -4,6 +4,10 @@ aliases:
   - "art. 185A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 185A"
   - "CPACA 185A"
+  - "art. 185-A CPACA"
+  - "art. 185-A Ley 1437 de 2011"
+  - "art. 185 A CPACA"
+  - "art. 185 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

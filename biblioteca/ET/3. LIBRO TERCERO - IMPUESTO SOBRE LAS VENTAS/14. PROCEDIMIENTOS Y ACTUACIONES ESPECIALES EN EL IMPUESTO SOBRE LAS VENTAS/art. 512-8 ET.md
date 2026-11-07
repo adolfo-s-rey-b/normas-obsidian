@@ -16,7 +16,7 @@ rubro: "[[ET - Libro Tercero - Procedimientos y actuaciones especiales en el…|
 vigencia: "modificado"
 modificado_por:
   - "[[art. 78 Ley 1607 de 2012]]"
-anterior: "[[art. 512-7 ET]]"
+anterior: "[[art. 512-7A ET]]"
 siguiente: "[[art. 512-9 ET]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#512-8"
 fecha_extraccion: 2026-11-07
@@ -37,4 +37,4 @@ Para los efectos del numeral tercero del artículo [[art. 512-1 ET|512-1]] de es
 > [!info] Adicionado por el Art. [[art. 78 Ley 1607 de 2012|78]] de la Ley 1607 de 2012
 
 ---
-← [[art. 512-7 ET]] · ↑ [[ET - Libro Tercero - Procedimientos y actuaciones especiales en el…|Procedimientos y actuaciones especiales en el…]] · [[art. 512-9 ET]] →
+← [[art. 512-7A ET]] · ↑ [[ET - Libro Tercero - Procedimientos y actuaciones especiales en el…|Procedimientos y actuaciones especiales en el…]] · [[art. 512-9 ET]] →

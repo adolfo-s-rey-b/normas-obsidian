@@ -1,0 +1,45 @@
+---
+aliases:
+  - "CC TÍTULO II - REGLAS RELATIVAS A LA SUCESIÓN INTESTADA"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "TÍTULO"
+etiqueta: "II"
+nombre: "REGLAS RELATIVAS A LA SUCESIÓN INTESTADA"
+libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
+articulos: "arts. 1037 a 1054"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]]
+
+## TÍTULO II - REGLAS RELATIVAS A LA SUCESIÓN INTESTADA
+
+*Arts. 1037 a 1054*
+
+### Contenido
+
+- [[art. 1037 CC|Artículo 1037]] — APLICACIÓN NORMATIVA
+- [[art. 1038 CC|Artículo 1038]] — ORIGEN DE LOS BIENES
+- [[art. 1039 CC|Artículo 1039]] — SEXO Y PRIMOGENITURA
+- [[art. 1040 CC|Artículo 1040]] — PERSONAS EN LA SUCESIÓN INTESTADA
+- [[art. 1041 CC|Artículo 1041]] — SUCESIÓN ABINTESTATO
+- [[art. 1042 CC|Artículo 1042]] — SUCESIÓN POR REPRESENTACIÓN Y POR CABEZAS
+- [[art. 1043 CC|Artículo 1043]] — REPRESENTACIÓN DE LA DESCENDENCIA
+- [[art. 1044 CC|Artículo 1044]] — REPRESENTACIÓN DE LA ASCENDENCIA
+- [[art. 1045 CC|Artículo 1045]]
+- [[art. 1046 CC|Artículo 1046]] — SEGUNDO ORDEN HEREDITARIO - LOS ASCENDIENTES DE GRADO MAS PROXIMO
+- [[art. 1047 CC|Artículo 1047]] — TERCER ORDEN HEREDITARIO - HERMANOS Y CONYUGE
+- [[art. 1048 CC|Artículo 1048]] — DE CUANDO LA HERENCIA CORRESPONDE A LOS HIJOS NATURALES
+- [[art. 1049 CC|Artículo 1049]] — SUCESIÓN DE OTROS COLATERALES LEGITIMOS
+- [[art. 1050 CC|Artículo 1050]] — SUCESIÓN DE HIJOS EXTRAMATRIMONIALES
+- [[art. 1051 CC|Artículo 1051]] — CUARTO Y QUINTO ORDEN HEREDITARIO - HIJOS DE HERMANOS - ICBF
+- [[art. 1052 CC|Artículo 1052]] — SUCESIÓN POR TESTAMENTO Y ABINTESTATO
+- [[art. 1053 CC|Artículo 1053]] — HEREDEROS EXTRANJEROS
+- [[art. 1054 CC|Artículo 1054]] — SUCESIÓN ABINTESTATO DE EXTRANJEROS
+
+---
+← [[CC - Libro Tercero - Título I|Título I]] · ↑ [[CC - Libro Tercero|Libro Tercero]] · [[CC - Libro Tercero - Título III|Título III]] →

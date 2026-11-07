@@ -1,0 +1,36 @@
+---
+aliases:
+  - "CPP art. 434"
+  - "art. 434 Ley 906 de 2004"
+  - "Ley 906 de 2004 art. 434"
+  - "CPP 434"
+tipo: articulo
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+articulo: "434"
+epigrafe: "Excepciones a la regla de la mejor evidencia"
+libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
+titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
+capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - Práctica de la prueba]]"
+parte: "[[CPP - Libro III - Título IV - Capítulo III - Parte IV|PARTE IV - Prueba documental]]"
+vigencia: "vigente"
+anterior: "[[art. 433 CPP]]"
+siguiente: "[[art. 435 CPP]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#434"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cpp
+  - vigencia/vigente
+---
+
+[[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
+
+## Artículo 434. Excepciones a la regla de la mejor evidencia
+
+Se exceptúa de lo anterior los documentos públicos, o los duplicados auténticos, o aquellos cuyo original se hubiere extraviado o que se encuentran en poder de uno de los intervinientes, o se trata de documentos voluminosos y sólo se requiere una parte o fracción del mismo, o, finalmente, se estipule la innecesariedad de la presentación del original.
+
+**Parágrafo.** Lo anterior no es óbice para que resulte indispensable la presentación del original del documento, cuando se requiera para la realización de estudios técnicos tales como los de grafología y documentología, o forme parte de la cadena de custodia.
+
+---
+← [[art. 433 CPP]] · ↑ [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]] · [[art. 435 CPP]] →

@@ -1,0 +1,30 @@
+---
+aliases:
+  - "CPP CAPÍTULO I - Requisitos formales"
+tipo: indice
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "Requisitos formales"
+libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
+titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
+articulos: "arts. 336 a 337"
+tags:
+  - normas/indice
+  - normas/cpp
+---
+
+[[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]]
+
+## CAPÍTULO I - Requisitos formales
+
+*Arts. 336 a 337*
+
+### Contenido
+
+- [[art. 336 CPP|Artículo 336]] — Presentación de la acusación
+- [[art. 337 CPP|Artículo 337]] — Contenido de la acusación y documentos anexos
+
+---
+↑ [[CPP - Libro III - Título I|Título I]] · [[CPP - Libro III - Título I - Capítulo II|Capítulo II]] →

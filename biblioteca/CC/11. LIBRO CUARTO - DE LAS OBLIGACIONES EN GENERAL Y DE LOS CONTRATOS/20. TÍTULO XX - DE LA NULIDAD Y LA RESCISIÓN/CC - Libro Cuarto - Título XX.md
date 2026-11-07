@@ -1,0 +1,44 @@
+---
+aliases:
+  - "CC TÍTULO XX - DE LA NULIDAD Y LA RESCISIÓN"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "TÍTULO"
+etiqueta: "XX"
+nombre: "DE LA NULIDAD Y LA RESCISIÓN"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+articulos: "arts. 1740 a 1756"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]]
+
+## TÍTULO XX - DE LA NULIDAD Y LA RESCISIÓN
+
+*Arts. 1740 a 1756*
+
+### Contenido
+
+- [[art. 1740 CC|Artículo 1740]] — CONCEPTO Y CLASES DE NULIDAD
+- [[art. 1741 CC|Artículo 1741]] — NULIDAD ABSOLUTA Y RELATIVA
+- [[art. 1742 CC|Artículo 1742]] — OBLIGACIÓN DE DECLARAR LA NULIDAD ABSOLUTA
+- [[art. 1743 CC|Artículo 1743]] — DECLARACIÓN DE NULIDAD RELATIVA
+- [[art. 1744 CC|Artículo 1744]] — CONTRATO REALIZADO POR DOLO DE UN INCAPAZ
+- [[art. 1745 CC|Artículo 1745]] — ACTOS Y CONTRATOS DE INCAPACES
+- [[art. 1746 CC|Artículo 1746]] — EFECTOS DE LA DECLARATORIA DE NULIDAD
+- [[art. 1747 CC|Artículo 1747]] — RESTITUCIONES POR NULIDAD DE CONTRATOS CON INCAPACES
+- [[art. 1748 CC|Artículo 1748]] — NULIDAD JUDICIAL EN RELACIÓN CON TERCEROS POSEEDORES
+- [[art. 1749 CC|Artículo 1749]] — EFECTOS RELATIVOS DE LA NULIDAD
+- [[art. 1750 CC|Artículo 1750]] — PLAZOS PARA INTERPONER LA ACCIÓN RESCISIÓN
+- [[art. 1751 CC|Artículo 1751]] — PLAZO DE LA ACCIÓN RESCISORIA DE HEREDEROS
+- [[art. 1752 CC|Artículo 1752]] — SANEAMIENTO DE LA NULIDAD POR RATIFICACIÓN
+- [[art. 1753 CC|Artículo 1753]] — SOLEMNIDADES DE LA RATIFICACIÓN EXPRESA
+- [[art. 1754 CC|Artículo 1754]] — RATIFICACIÓN TACITA
+- [[art. 1755 CC|Artículo 1755]] — REQUISITO DE VALIDEZ DE LA RATIFICACIÓN
+- [[art. 1756 CC|Artículo 1756]] — CAPACIDAD PARA RATIFICAR
+
+---
+← [[CC - Libro Cuarto - Título XIX|Título XIX]] · ↑ [[CC - Libro Cuarto|Libro Cuarto]] · [[CC - Libro Cuarto - Título XXI|Título XXI]] →

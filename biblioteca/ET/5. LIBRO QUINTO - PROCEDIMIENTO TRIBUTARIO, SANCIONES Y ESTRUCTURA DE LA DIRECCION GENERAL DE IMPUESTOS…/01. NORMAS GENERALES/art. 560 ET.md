@@ -31,7 +31,7 @@ tags:
 
 ## Artículo 560. COMPETENCIA PARA EL EJERCICIO DE LAS FUNCIONES
 
-Son competentes para proferir las actuaciones de la administración tributaria los funcionarios y dependencias de la misma, de acuerdo con la estructura funcional que se establezca en ejercicio de las facultades previstas en el numeral 16 del artículo [[art. 189 CN|189]] de la Constitución Política.
+Son competentes para proferir las actuaciones de la administración tributaria los funcionarios y dependencias de la misma, de acuerdo con la estructura funcional que se establezca en ejercicio de las facultades previstas en el numeral 16 del artículo [[art. 189 CPol|189]] de la Constitución Política.
 
 Así mismo, los funcionarios competentes del nivel ejecutivo, podrán delegar las funciones que la ley les asigne en los funcionarios del nivel ejecutivo o profesional de las dependencias bajo su responsabilidad, mediante resolución que será aprobada por el superior del mismo. En el caso del Director General de la Dirección de Impuestos y Aduanas Nacionales, esta resolución no requerirá tal aprobación.
 

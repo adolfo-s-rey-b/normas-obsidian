@@ -1,0 +1,34 @@
+---
+aliases:
+  - "CC art. 1183"
+  - "art. 1183 Ley 84 de 1873"
+  - "Ley 84 de 1873 art. 1183"
+  - "CC 1183"
+tipo: articulo
+norma: "Ley 84 de 1873"
+sigla: "CC"
+articulo: "1183"
+epigrafe: "INCLUSIÓN DE CARGOS REALES EN LA ESPECIE LEGADA"
+libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
+titulo: "[[CC - Libro Tercero - Título IV|TÍTULO IV - DE LAS ASIGNACIONES TESTAMENTARIAS]]"
+capitulo: "[[CC - Libro Tercero - Título IV - Capítulo VI|CAPÍTULO VI - DE LAS ASIGNACIONES A TÍTULO SINGULAR]]"
+vigencia: "vigente"
+anterior: "[[art. 1182 CC]]"
+siguiente: "[[art. 1184 CC]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cc
+  - vigencia/vigente
+---
+
+[[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título IV|Título IV]] › [[CC - Libro Tercero - Título IV - Capítulo VI|Capítulo VI]]
+
+## Artículo 1183. INCLUSIÓN DE CARGOS REALES EN LA ESPECIE LEGADA
+
+La especie legada pasa al legatario con sus servidumbres, censos y demás cargos reales.
+
+---
+← [[art. 1182 CC]] · ↑ [[CC - Libro Tercero - Título IV - Capítulo VI|Capítulo VI]] · [[art. 1184 CC]] →

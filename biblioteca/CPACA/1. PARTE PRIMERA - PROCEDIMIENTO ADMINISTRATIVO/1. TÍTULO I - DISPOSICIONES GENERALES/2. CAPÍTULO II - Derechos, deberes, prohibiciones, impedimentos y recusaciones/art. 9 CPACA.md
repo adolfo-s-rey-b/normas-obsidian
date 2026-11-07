@@ -37,7 +37,7 @@ A las autoridades les queda especialmente prohibido:
 
 4\. Exigir constancias, certificaciones o documentos que reposen en la respectiva entidad.
 
-5\. Exigir documentos no previstos por las normas legales aplicables a los procedimientos de que trate la gestión o crear requisitos o formalidades adicionales de conformidad con el artículo [[art. 84 CN|84]] de la Constitución Política.
+5\. Exigir documentos no previstos por las normas legales aplicables a los procedimientos de que trate la gestión o crear requisitos o formalidades adicionales de conformidad con el artículo [[art. 84 CPol|84]] de la Constitución Política.
 
 6\. Reproducir actos suspendidos o anulados por la Jurisdicción de lo Contencioso Administrativo cuando no hayan desaparecido los fundamentos legales de la anulación o suspensión.
 

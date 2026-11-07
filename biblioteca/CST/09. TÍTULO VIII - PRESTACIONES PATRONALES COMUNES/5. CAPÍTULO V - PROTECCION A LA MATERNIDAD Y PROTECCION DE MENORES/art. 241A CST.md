@@ -4,6 +4,10 @@ aliases:
   - "art. 241A Decreto 2663 de 1950"
   - "Decreto 2663 de 1950 art. 241A"
   - "CST 241A"
+  - "art. 241-A CST"
+  - "art. 241-A Decreto 2663 de 1950"
+  - "art. 241 A CST"
+  - "art. 241 A Decreto 2663 de 1950"
 tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"

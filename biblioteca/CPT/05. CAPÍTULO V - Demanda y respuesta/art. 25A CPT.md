@@ -4,6 +4,10 @@ aliases:
   - "art. 25A Decreto 2158 de 1948"
   - "Decreto 2158 de 1948 art. 25A"
   - "CPT 25A"
+  - "art. 25-A CPT"
+  - "art. 25-A Decreto 2158 de 1948"
+  - "art. 25 A CPT"
+  - "art. 25 A Decreto 2158 de 1948"
 tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"

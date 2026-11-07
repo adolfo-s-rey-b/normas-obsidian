@@ -1,0 +1,42 @@
+---
+aliases:
+  - "CC CAPÍTULO II - DE LAS OBLIGACIONES DEL ARRENDADOR EN EL ARRENDAMIENTO DE COSAS"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "DE LAS OBLIGACIONES DEL ARRENDADOR EN EL ARRENDAMIENTO DE COSAS"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXVI|TÍTULO XXVI - DEL CONTRATO DE ARRENDAMIENTO]]"
+articulos: "arts. 1982 a 1995"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXVI|Título XXVI]]
+
+## CAPÍTULO II - DE LAS OBLIGACIONES DEL ARRENDADOR EN EL ARRENDAMIENTO DE COSAS
+
+*Arts. 1982 a 1995*
+
+### Contenido
+
+- [[art. 1982 CC|Artículo 1982]] — OBLIGACIONES DEL ARRENDADOR
+- [[art. 1983 CC|Artículo 1983]] — DESISTIMIENTO DEL CONTRATO POR INCUMPLIMIENTO EN LA ENTREGA
+- [[art. 1984 CC|Artículo 1984]] — MORA EN LA ENTREGA
+- [[art. 1985 CC|Artículo 1985]] — RESPONSABILIDAD DEL MANTENIMIENTO DE LA COSA ARRENDADA
+- [[art. 1986 CC|Artículo 1986]] — LIMITES A LAS REPARACIONES
+- [[art. 1987 CC|Artículo 1987]] — INDEMNIZACIÓN POR PERTURBACIÓN
+- [[art. 1988 CC|Artículo 1988]] — PERTURBACIÓN POR TERCEROS
+- [[art. 1989 CC|Artículo 1989]] — TERCEROS QUE ALEGAN DERECHOS SOBRE LA COSA ARRENDADA
+- [[art. 1990 CC|Artículo 1990]] — TERMINACIÓN O RESCISIÓN POR MAL ESTADO O CALIDAD DE LA COSA
+- [[art. 1991 CC|Artículo 1991]] — INDEMNIZACIÓN POR VICIOS DE LA COSA
+- [[art. 1992 CC|Artículo 1992]] — AUSENCIA DE DERECHO A LA INDEMNIZACIÓN
+- [[art. 1993 CC|Artículo 1993]] — REEMBOLSO DE LAS MEJORAS NECESARIAS NO LOCATIVAS
+- [[art. 1994 CC|Artículo 1994]] — MEJORAS UTILES
+- [[art. 1995 CC|Artículo 1995]] — DERECHO DE RETENCIÓN DEL ARRENDATARIO
+
+---
+← [[CC - Libro Cuarto - Título XXVI - Capítulo I|Capítulo I]] · ↑ [[CC - Libro Cuarto - Título XXVI|Título XXVI]] · [[CC - Libro Cuarto - Título XXVI - Capítulo III|Capítulo III]] →

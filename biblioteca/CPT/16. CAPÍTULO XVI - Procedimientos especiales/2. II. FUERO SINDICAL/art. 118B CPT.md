@@ -4,6 +4,10 @@ aliases:
   - "art. 118B Decreto 2158 de 1948"
   - "Decreto 2158 de 1948 art. 118B"
   - "CPT 118B"
+  - "art. 118-B CPT"
+  - "art. 118-B Decreto 2158 de 1948"
+  - "art. 118 B CPT"
+  - "art. 118 B Decreto 2158 de 1948"
 tipo: articulo
 norma: "Decreto 2158 de 1948"
 sigla: "CPT"

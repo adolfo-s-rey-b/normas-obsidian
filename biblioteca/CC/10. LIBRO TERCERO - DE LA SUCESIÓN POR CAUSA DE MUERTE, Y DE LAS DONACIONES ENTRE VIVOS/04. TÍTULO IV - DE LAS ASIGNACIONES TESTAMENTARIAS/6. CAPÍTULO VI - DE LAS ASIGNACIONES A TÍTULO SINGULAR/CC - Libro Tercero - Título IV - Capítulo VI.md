@@ -1,0 +1,60 @@
+---
+aliases:
+  - "CC CAPÍTULO VI - DE LAS ASIGNACIONES A TÍTULO SINGULAR"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "VI"
+nombre: "DE LAS ASIGNACIONES A TÍTULO SINGULAR"
+libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
+titulo: "[[CC - Libro Tercero - Título IV|TÍTULO IV - DE LAS ASIGNACIONES TESTAMENTARIAS]]"
+articulos: "arts. 1162 a 1193"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título IV|Título IV]]
+
+## CAPÍTULO VI - DE LAS ASIGNACIONES A TÍTULO SINGULAR
+
+*Arts. 1162 a 1193*
+
+### Contenido
+
+- [[art. 1162 CC|Artículo 1162]] — LEGATARIOS
+- [[art. 1163 CC|Artículo 1163]] — LEGADO DE BIENES PUBLICOS
+- [[art. 1164 CC|Artículo 1164]] — LEGADO DE ESPECIE AJENA
+- [[art. 1165 CC|Artículo 1165]] — LEGADO NULO DE COSA AJENA
+- [[art. 1166 CC|Artículo 1166]] — ADQUISICIÓN DE LA COSA AJENA LEGADA
+- [[art. 1167 CC|Artículo 1167]] — RECLAMO DEL LEGADO DE COSA AJENA ADQUIRIDA
+- [[art. 1168 CC|Artículo 1168]] — LEGADO DE CUOTA, PARTE O DERECHO
+- [[art. 1169 CC|Artículo 1169]] — LEGADO DE ESPECIE
+- [[art. 1170 CC|Artículo 1170]] — LEGADO DE COSA FUNGIBLE
+- [[art. 1171 CC|Artículo 1171]] — LEGADO DE COSA FUTURA
+- [[art. 1172 CC|Artículo 1172]] — LEGADO DE ESPECIES INDETERMINADAS
+- [[art. 1173 CC|Artículo 1173]] — LEGADO DE GENERO
+- [[art. 1174 CC|Artículo 1174]] — LEGADOS INEXISTENTES O DE VALOR ILIMITADO
+- [[art. 1175 CC|Artículo 1175]] — ELECCIÓN DE LA COSA LEGADA
+- [[art. 1176 CC|Artículo 1176]] — ESTADO EN QUE SE DEBE EL LEGADO
+- [[art. 1177 CC|Artículo 1177]] — LEGADO DE TERRENOS
+- [[art. 1178 CC|Artículo 1178]] — INCLUSIÓN DE LAS SEVIDUMBRES EN EL REDIO LEGADO
+- [[art. 1179 CC|Artículo 1179]] — COSAS INCLUIDAS EN EL LEGADO DE INMUEBLES
+- [[art. 1180 CC|Artículo 1180]] — COSAS INCLUIDAS EN EL LEGADO DE CARRUAJE
+- [[art. 1181 CC|Artículo 1181]] — ANIMALES INCLUIDOS EN EL LEGADO DE REBAÑO
+- [[art. 1182 CC|Artículo 1182]] — DIVISIÓN DE LEGADO DE CUOTAS
+- [[art. 1183 CC|Artículo 1183]] — INCLUSIÓN DE CARGOS REALES EN LA ESPECIE LEGADA
+- [[art. 1184 CC|Artículo 1184]] — CLAUSULA DE NO ENAJENACIÓN
+- [[art. 1185 CC|Artículo 1185]] — LEGADO DE DERECHOS Y ACCIONES
+- [[art. 1186 CC|Artículo 1186]] — LEGADO DE COSAS EMPEÑADAS
+- [[art. 1187 CC|Artículo 1187]] — CONDONACIÓN DE DEUDAS POR TESTAMENTO
+- [[art. 1188 CC|Artículo 1188]] — SUMAS CONDONADAS
+- [[art. 1189 CC|Artículo 1189]] — LEGADO A ACREEDORES
+- [[art. 1190 CC|Artículo 1190]] — PAGO DE LO NO DEBIDO POR TESTAMENTO
+- [[art. 1191 CC|Artículo 1191]] — CONFESIÓN DE DEUDAS EN EL TESTAMENTO
+- [[art. 1192 CC|Artículo 1192]] — MONTO DEL LEGADO DE ALIMENTOS VOLUNTARIOS
+- [[art. 1193 CC|Artículo 1193]] — DESTRUCCION, ENAJENACION, REVOCACION, PRENDA*, HIPOTECA O CENSO DE LA ESPECIE LEGADA
+
+---
+← [[CC - Libro Tercero - Título IV - Capítulo V|Capítulo V]] · ↑ [[CC - Libro Tercero - Título IV|Título IV]] · [[CC - Libro Tercero - Título IV - Capítulo VII|Capítulo VII]] →

@@ -26,7 +26,7 @@ tags:
 
 ## Artículo 135. Nulidad por inconstitucionalidad
 
-Los ciudadanos podrán, en cualquier tiempo, solicitar por sí, o por medio de representante, que se declare la nulidad de los decretos de carácter general dictados por el Gobierno Nacional, cuya revisión no corresponda a la Corte Constitucional en los términos de los artículos [[art. 237 CN|237]] y [[art. 241 CN|241]] de la Constitución Política, por infracción directa de la Constitución.
+Los ciudadanos podrán, en cualquier tiempo, solicitar por sí, o por medio de representante, que se declare la nulidad de los decretos de carácter general dictados por el Gobierno Nacional, cuya revisión no corresponda a la Corte Constitucional en los términos de los artículos [[art. 237 CPol|237]] y [[art. 241 CPol|241]] de la Constitución Política, por infracción directa de la Constitución.
 
 También podrán pedir la nulidad por inconstitucionalidad de los actos de carácter general que por expresa disposición constitucional sean expedidos por entidades u organismos distintos del Gobierno Nacional.
 

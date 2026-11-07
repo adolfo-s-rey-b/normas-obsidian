@@ -1,0 +1,43 @@
+---
+aliases:
+  - "CC CAPÍTULO II - DE LOS EFECTOS DE LA FIANZA ENTRE EL ACREEDOR Y EL FIADOR"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "DE LOS EFECTOS DE LA FIANZA ENTRE EL ACREEDOR Y EL FIADOR"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXXV|TÍTULO XXXV - DE LA FIANZA]]"
+articulos: "arts. 2379 a 2393"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXV|Título XXXV]]
+
+## CAPÍTULO II - DE LOS EFECTOS DE LA FIANZA ENTRE EL ACREEDOR Y EL FIADOR
+
+*Arts. 2379 a 2393*
+
+### Contenido
+
+- [[art. 2379 CC|Artículo 2379]] — PAGO DE LA DEUDA POR EL FIADOR
+- [[art. 2380 CC|Artículo 2380]] — EXCEPCIONES DEL FIADOR
+- [[art. 2381 CC|Artículo 2381]] — DERECHOS DE REBAJA DEL FIADOR POR IMPOSIBILIDAD DE SUBROGACIÓN DE ACCIONES
+- [[art. 2382 CC|Artículo 2382]] — REQUERIMIENTO DEL ACREEDOR POR EL FIADOR
+- [[art. 2383 CC|Artículo 2383]] — BENEFICIO DE EXCUSIÓN
+- [[art. 2384 CC|Artículo 2384]] — REQUISITOS DEL BENEFICIO DE EXCUSIÓN
+- [[art. 2385 CC|Artículo 2385]] — BIENES EXCLUIDOS DE LA EXCUSIÓN
+- [[art. 2386 CC|Artículo 2386]] — DERECHO AL ANTICIPO DE LOS COSTOS DE LA EXCUSIÓN
+- [[art. 2387 CC|Artículo 2387]] — BENENEFICIO DE EXCUSIÓN EN DEUDAS SOLIDARIAS
+- [[art. 2388 CC|Artículo 2388]] — OPOSICIÓN DEL BENEFICIO DE EXCUSIÓN
+- [[art. 2389 CC|Artículo 2389]] — OBLIGACIÓN DE ACEPTAR PAGO PARCIAL CON BIENES EXCUTIDOS
+- [[art. 2390 CC|Artículo 2390]] — RESPONSABILIDAD DEL FIADOR POR OMISIÓN O NEGLIGENCIA DEL ACREEDOR
+- [[art. 2391 CC|Artículo 2391]] — BENEFICIO DE EXCUSIÓN DEL SUBFIADOR
+- [[art. 2392 CC|Artículo 2392]] — PLURALIDAD DE FIADORES Y BENEFICIO DE DIVISIÓN
+- [[art. 2393 CC|Artículo 2393]] — PROCEDENCIA DEL BENEFICIO DE DIVISIÓN
+
+---
+← [[CC - Libro Cuarto - Título XXXV - Capítulo I|Capítulo I]] · ↑ [[CC - Libro Cuarto - Título XXXV|Título XXXV]] · [[CC - Libro Cuarto - Título XXXV - Capítulo III|Capítulo III]] →

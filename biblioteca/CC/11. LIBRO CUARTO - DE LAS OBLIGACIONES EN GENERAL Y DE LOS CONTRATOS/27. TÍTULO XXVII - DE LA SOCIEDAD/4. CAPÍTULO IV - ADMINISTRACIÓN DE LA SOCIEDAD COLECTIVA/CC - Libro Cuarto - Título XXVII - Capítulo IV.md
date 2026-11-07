@@ -1,0 +1,39 @@
+---
+aliases:
+  - "CC CAPÍTULO IV - ADMINISTRACIÓN DE LA SOCIEDAD COLECTIVA"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "IV"
+nombre: "ADMINISTRACIÓN DE LA SOCIEDAD COLECTIVA"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXVII|TÍTULO XXVII - DE LA SOCIEDAD]]"
+articulos: "arts. 2097 a 2107"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXVII|Título XXVII]]
+
+## CAPÍTULO IV - ADMINISTRACIÓN DE LA SOCIEDAD COLECTIVA
+
+*Arts. 2097 a 2107*
+
+### Contenido
+
+- [[art. 2097 CC|Artículo 2097]] — ADMINISTRACIÓN DE LA SOCIEDAD COLECTIVA
+- [[art. 2098 CC|Artículo 2098]] — RENUNCIA Y REMOCIÓN DEL ADMINISTRADOR DESIGNADO EN LA CONSTITUCIÓN DE LA SOCIEDAD
+- [[art. 2099 CC|Artículo 2099]] — JUSTA RENUNCIA O REMOCIÓN
+- [[art. 2100 CC|Artículo 2100]] — RENUNCIA Y REMOCIÓN DEL ADMINISTRADOR DESIGNADO CON POSTERIORIDAD A LA CONSTITUCIÓN DE LA SOCIEDAD
+- [[art. 2101 CC|Artículo 2101]] — ACTUACIONES DEL ADMINISTRADOR
+- [[art. 2102 CC|Artículo 2102]] — PLURALIDAD DE ADMINISTRADORES
+- [[art. 2103 CC|Artículo 2103]] — LIMITES DE LA ADMINISTRACIÓN
+- [[art. 2104 CC|Artículo 2104]] — OBLIGACIONES RESPECTO AL CAPITAL FIJO DE LA SOCIEDAD
+- [[art. 2105 CC|Artículo 2105]] — ACTOS DEL ADMINISTRADOR QUE OBLIGAN A LA SOCIEDAD
+- [[art. 2106 CC|Artículo 2106]] — RENDICIÓN DE CUENTAS DEL ADMINISTRADOR
+- [[art. 2107 CC|Artículo 2107]] — AUSENCIA DE DESIGNACIÓN DE ADMINISTRADOR
+
+---
+← [[CC - Libro Cuarto - Título XXVII - Capítulo III|Capítulo III]] · ↑ [[CC - Libro Cuarto - Título XXVII|Título XXVII]] · [[CC - Libro Cuarto - Título XXVII - Capítulo V|Capítulo V]] →

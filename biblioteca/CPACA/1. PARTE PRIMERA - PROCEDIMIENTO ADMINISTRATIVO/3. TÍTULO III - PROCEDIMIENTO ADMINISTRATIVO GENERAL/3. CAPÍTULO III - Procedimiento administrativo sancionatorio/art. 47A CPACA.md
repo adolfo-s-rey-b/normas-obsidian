@@ -4,6 +4,10 @@ aliases:
   - "art. 47A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 47A"
   - "CPACA 47A"
+  - "art. 47-A CPACA"
+  - "art. 47-A Ley 1437 de 2011"
+  - "art. 47 A CPACA"
+  - "art. 47 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

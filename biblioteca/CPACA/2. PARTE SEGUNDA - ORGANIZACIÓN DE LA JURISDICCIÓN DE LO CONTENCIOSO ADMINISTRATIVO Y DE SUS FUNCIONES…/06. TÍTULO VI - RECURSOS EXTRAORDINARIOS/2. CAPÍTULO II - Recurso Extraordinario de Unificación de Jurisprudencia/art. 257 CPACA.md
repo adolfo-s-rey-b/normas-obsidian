@@ -47,7 +47,7 @@ Tratándose de sentencias de contenido patrimonial o económico, el recurso proc
 
 **PARÁGRAFO .** En los procesos de nulidad y restablecimiento del derecho de carácter laboral y pensional procederá el recurso extraordinario sin consideración de la cuantía.
 
-Este recurso no procederá para los asuntos previstos en los artículos [[art. 86 CN|86]] , [[art. 87 CN|87]] y [[art. 88 CN|88]] de la Constitución Política.
+Este recurso no procederá para los asuntos previstos en los artículos [[art. 86 CPol|86]] , [[art. 87 CPol|87]] y [[art. 88 CPol|88]] de la Constitución Política.
 
 > [!info] Modificado por el Art. [[art. 71 Ley 2080 de 2021|71]] de la Ley 2080 de 2021
 

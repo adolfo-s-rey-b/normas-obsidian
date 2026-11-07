@@ -4,6 +4,10 @@ aliases:
   - "art. 397A Ley 1564 de 2012"
   - "Ley 1564 de 2012 art. 397A"
   - "CGP 397A"
+  - "art. 397-A CGP"
+  - "art. 397-A Ley 1564 de 2012"
+  - "art. 397 A CGP"
+  - "art. 397 A Ley 1564 de 2012"
 tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"

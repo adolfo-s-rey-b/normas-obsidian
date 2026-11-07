@@ -71,7 +71,7 @@ adoptado por el Decreto 4133 de 1948 como legislación permanente
 
 EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA,
 
-en ejercicio de las facultades que le confiere el artículo [[art. 121 CN|121]] de la Constitución Nacional, y
+en ejercicio de las facultades que le confiere el artículo [[art. 121 CPol|121]] de la Constitución Nacional, y
 
 CONSIDERANDO:
 

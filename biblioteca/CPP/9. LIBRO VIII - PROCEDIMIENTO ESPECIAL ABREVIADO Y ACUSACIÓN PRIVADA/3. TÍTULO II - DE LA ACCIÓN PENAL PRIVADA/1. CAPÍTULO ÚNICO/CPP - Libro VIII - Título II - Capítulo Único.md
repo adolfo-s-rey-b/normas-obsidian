@@ -1,0 +1,44 @@
+---
+aliases:
+  - "CPP CAPÍTULO ÚNICO"
+tipo: indice
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+nivel: "CAPÍTULO"
+etiqueta: "ÚNICO"
+nombre: ""
+libro: "[[CPP - Libro VIII|LIBRO VIII - PROCEDIMIENTO ESPECIAL ABREVIADO Y ACUSACIÓN PRIVADA]]"
+titulo: "[[CPP - Libro VIII - Título II|TÍTULO II - DE LA ACCIÓN PENAL PRIVADA]]"
+articulos: "arts. 549 a 564"
+tags:
+  - normas/indice
+  - normas/cpp
+---
+
+[[CPP|CPP]] › [[CPP - Libro VIII|Libro VIII]] › [[CPP - Libro VIII - Título II|Título II]]
+
+## CAPÍTULO ÚNICO
+
+*Arts. 549 a 564*
+
+### Contenido
+
+- [[art. 549 CPP|Artículo 549]] — ACUSADOR PRIVADO
+- [[art. 550 CPP|Artículo 550]] — CONDUCTAS PUNIBLES SUSCEPTIBLES DE CONVERSIÓN DE LA ACCIÓN PENAL
+- [[art. 551 CPP|Artículo 551]] — TITULARES DE LA ACCIÓN PENAL PRIVADA
+- [[art. 552 CPP|Artículo 552]] — PROCEDENCIA DE LA CONVERSIÓN
+- [[art. 553 CPP|Artículo 553]] — SOLICITUD DE CONVERSIÓN
+- [[art. 554 CPP|Artículo 554]] — DECISIÓN SOBRE LA CONVERSIÓN
+- [[art. 555 CPP|Artículo 555]] — REPRESENTACIÓN DEL ACUSADOR PRIVADO
+- [[art. 556 CPP|Artículo 556]] — ACTOS DE INVESTIGACIÓN
+- [[art. 557 CPP|Artículo 557]] — APOYO INVESTIGATIVO
+- [[art. 558 CPP|Artículo 558]] — SOLICITUD DE MEDIDA DE ASEGURAMIENTO
+- [[art. 559 CPP|Artículo 559]] — TRASLADO DE LA CUSTODIA DE LOS ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN LEGALMENTE OBTENIDA
+- [[art. 560 CPP|Artículo 560]] — REVERSIÓN
+- [[art. 561 CPP|Artículo 561]] — TRASLADO Y PRESENTACIÓN DE LA ACUSACIÓN PRIVADA
+- [[art. 562 CPP|Artículo 562]] — PRECLUSIÓN POR ATIPICIDAD ABSOLUTA
+- [[art. 563 CPP|Artículo 563]] — DESTRUCCIÓN DEL OBJETO MATERIAL DEL DELITO
+- [[art. 564 CPP|Artículo 564]] — DE LA REPARACIÓN INTEGRAL AL ACUSADOR PRIVADO
+
+---
+↑ [[CPP - Libro VIII - Título II|Título II]]

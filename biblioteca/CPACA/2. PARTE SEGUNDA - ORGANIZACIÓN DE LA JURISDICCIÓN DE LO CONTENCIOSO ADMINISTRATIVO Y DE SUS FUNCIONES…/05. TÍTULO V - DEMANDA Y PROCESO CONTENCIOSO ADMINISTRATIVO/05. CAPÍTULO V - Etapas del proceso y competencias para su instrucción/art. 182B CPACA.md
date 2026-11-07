@@ -4,6 +4,10 @@ aliases:
   - "art. 182B Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 182B"
   - "CPACA 182B"
+  - "art. 182-B CPACA"
+  - "art. 182-B Ley 1437 de 2011"
+  - "art. 182 B CPACA"
+  - "art. 182 B Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

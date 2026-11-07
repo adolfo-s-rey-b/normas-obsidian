@@ -1,0 +1,46 @@
+---
+aliases:
+  - "CC CAPÍTULO VII - DISOLUCIÓN DE LA SOCIEDAD"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "VII"
+nombre: "DISOLUCIÓN DE LA SOCIEDAD"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXVII|TÍTULO XXVII - DE LA SOCIEDAD]]"
+articulos: "arts. 2124 a 2141"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXVII|Título XXVII]]
+
+## CAPÍTULO VII - DISOLUCIÓN DE LA SOCIEDAD
+
+*Arts. 2124 a 2141*
+
+### Contenido
+
+- [[art. 2124 CC|Artículo 2124]] — DISOLUCIÓN DE LA SOCIEDAD
+- [[art. 2125 CC|Artículo 2125]] — DISOLUCIÓN DE LA SOCIEDAD POR CUMPLIMIENTO DEL NEGOCIO POR EL QUE FUE CONSTITUCIÓN
+- [[art. 2126 CC|Artículo 2126]] — DISOLUCIÓN POR INSOLVENCIA O EXTINCIÓN DEL OBJETO
+- [[art. 2127 CC|Artículo 2127]] — DISOLUCIÓN POR INCUMPLIMIENTO EN LOS APORTES
+- [[art. 2128 CC|Artículo 2128]] — DISOLUCIÓN POR PERDIDA DE APORTES
+- [[art. 2129 CC|Artículo 2129]] — DISOLUCIÓN POR MUERTE DE LOS SOCIOS
+- [[art. 2130 CC|Artículo 2130]] — CONTINUACIÓN DE LA SOCIEDAD CON LOS HEREDEROS
+- [[art. 2131 CC|Artículo 2131]] — DERECHOS DE LOS HEREDEROS DE SOCIO
+- [[art. 2132 CC|Artículo 2132]] — DISOLUCIÓN POR INCAPACIDAD SOBREVINIENTE O INSOLVENCIA
+- [[art. 2133 CC|Artículo 2133]] — DISOLUCIÓN POR CONSENTIMIENTO UNANIME
+- [[art. 2134 CC|Artículo 2134]] — DISOLUCIÓN POR RENUNCIA DE SOCIO
+- [[art. 2135 CC|Artículo 2135]] — REQUISITOS DE LA RENUNCIA
+- [[art. 2136 CC|Artículo 2136]] — RENUNCIA DE MALA FE O INTEMPESTIVA
+- [[art. 2137 CC|Artículo 2137]] — CONCEPTO DE RENUNCIA DE MALA FE
+- [[art. 2138 CC|Artículo 2138]] — CONCEPTO DE RENUNCIA INTEMPESTIVA
+- [[art. 2139 CC|Artículo 2139]] — RETIRO SIN RENUNCIA
+- [[art. 2140 CC|Artículo 2140]] — DISOLUCIÓN OPONIBLE A TERCEROS
+- [[art. 2141 CC|Artículo 2141]] — DIVISIÓN DEL HABER SOCIAL
+
+---
+← [[CC - Libro Cuarto - Título XXVII - Capítulo VI|Capítulo VI]] · ↑ [[CC - Libro Cuarto - Título XXVII|Título XXVII]]

@@ -36,7 +36,7 @@ Traslado y audiencias. Recibida la solicitud, el juez, en providencia que se not
 
 Si no fuere posible dictarla inmediatamente, se citará para una nueva audiencia que tendrá lugar dentro de los dos (2) días siguientes, con este fin.
 
-Nota: Mediante Sentencia C-381 de abril 5 de 2000 la Corte Constitucional declaró exequible el artículo [[art. 114 CPT|114]] del Código Procesal del Trabajo siempre y cuando se entienda que, en aplicación del artículo [[art. 39 CN|39]] de la Constitución, el sindicato, por medio de su junta directiva, debe ser notificado y será parte en el juicio.
+Nota: Mediante Sentencia C-381 de abril 5 de 2000 la Corte Constitucional declaró exequible el artículo [[art. 114 CPT|114]] del Código Procesal del Trabajo siempre y cuando se entienda que, en aplicación del artículo [[art. 39 CPol|39]] de la Constitución, el sindicato, por medio de su junta directiva, debe ser notificado y será parte en el juicio.
 
 ---
 ← [[art. 113 CPT]] · ↑ [[CPT - Capítulo XVI - Ii. fuero sindical|Ii. fuero sindical]] · [[art. 115 CPT]] →

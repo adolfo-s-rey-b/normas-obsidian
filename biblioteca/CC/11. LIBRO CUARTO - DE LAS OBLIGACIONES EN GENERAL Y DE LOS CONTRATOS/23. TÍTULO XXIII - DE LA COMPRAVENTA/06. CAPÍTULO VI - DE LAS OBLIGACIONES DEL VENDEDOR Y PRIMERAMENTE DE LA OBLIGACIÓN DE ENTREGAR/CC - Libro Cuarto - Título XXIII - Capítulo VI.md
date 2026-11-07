@@ -1,0 +1,41 @@
+---
+aliases:
+  - "CC CAPÍTULO VI - DE LAS OBLIGACIONES DEL VENDEDOR Y PRIMERAMENTE DE LA OBLIGACIÓN DE ENTREGAR"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "VI"
+nombre: "DE LAS OBLIGACIONES DEL VENDEDOR Y PRIMERAMENTE DE LA OBLIGACIÓN DE ENTREGAR"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXIII|TÍTULO XXIII - DE LA COMPRAVENTA]]"
+articulos: "arts. 1880 a 1892"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXIII|Título XXIII]]
+
+## CAPÍTULO VI - DE LAS OBLIGACIONES DEL VENDEDOR Y PRIMERAMENTE DE LA OBLIGACIÓN DE ENTREGAR
+
+*Arts. 1880 a 1892*
+
+### Contenido
+
+- [[art. 1880 CC|Artículo 1880]] — OBLIGACIONES DEL VENDEDOR
+- [[art. 1881 CC|Artículo 1881]] — ASIGNACIÓN DE LOS COSTOS DE ENTREGA Y TRANSPORTE
+- [[art. 1882 CC|Artículo 1882]] — TIEMPO DE ENTREGA Y RETARDO
+- [[art. 1883 CC|Artículo 1883]] — MORA DEL COMPRADOR EN RECIBIR
+- [[art. 1884 CC|Artículo 1884]] — OBJETO DE LA ENTREGA
+- [[art. 1885 CC|Artículo 1885]] — VENTA DE SEMOVIENTES HEMBRAS
+- [[art. 1886 CC|Artículo 1886]] — VENTA DE FINCA
+- [[art. 1887 CC|Artículo 1887]] — VENTA DE PREDIO RUSTICO
+- [[art. 1888 CC|Artículo 1888]] — AUMENTO Y DISMINUCIÓN DEL PRECIO DE LA CABIDA
+- [[art. 1889 CC|Artículo 1889]] — VENTA DE PREDIO COMO CUERPO CIERTO
+- [[art. 1890 CC|Artículo 1890]] — PRESCRIPCIÓN DE ACCIONES RELATIVAS A LA VENTA DE PREDIOS
+- [[art. 1891 CC|Artículo 1891]] — APLICACIÓN EXTENSIVA DE LAS NORMAS A LOS CONJUNTOS DE EFECTOS O MERCADERIAS
+- [[art. 1892 CC|Artículo 1892]] — ACCIÓN DE LESIÓN ENORME EN LA VENTA DE PREDIOS
+
+---
+← [[CC - Libro Cuarto - Título XXIII - Capítulo V|Capítulo V]] · ↑ [[CC - Libro Cuarto - Título XXIII|Título XXIII]] · [[CC - Libro Cuarto - Título XXIII - Capítulo VII|Capítulo VII]] →

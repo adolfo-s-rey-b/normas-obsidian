@@ -17,7 +17,7 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 76 Ley 1607 de 2012]]"
 anterior: "[[art. 512-5 ET]]"
-siguiente: "[[art. 512-7 ET]]"
+siguiente: "[[art. 512-7A ET]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#512-6"
 fecha_extraccion: 2026-11-07
 tags:
@@ -51,4 +51,4 @@ Para los efectos del presente numeral, deberá informarse en la declaración del
 > [!info] Adicionado por el Art. [[art. 76 Ley 1607 de 2012|76]] de la Ley 1607 de 2012
 
 ---
-← [[art. 512-5 ET]] · ↑ [[ET - Libro Tercero - Procedimientos y actuaciones especiales en el…|Procedimientos y actuaciones especiales en el…]] · [[art. 512-7 ET]] →
+← [[art. 512-5 ET]] · ↑ [[ET - Libro Tercero - Procedimientos y actuaciones especiales en el…|Procedimientos y actuaciones especiales en el…]] · [[art. 512-7A ET]] →

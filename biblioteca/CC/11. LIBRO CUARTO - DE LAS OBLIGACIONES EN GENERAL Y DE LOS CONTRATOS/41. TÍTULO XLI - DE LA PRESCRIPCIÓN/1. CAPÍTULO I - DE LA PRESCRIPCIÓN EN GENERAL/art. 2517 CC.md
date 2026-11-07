@@ -1,0 +1,36 @@
+---
+aliases:
+  - "CC art. 2517"
+  - "art. 2517 Ley 84 de 1873"
+  - "Ley 84 de 1873 art. 2517"
+  - "CC 2517"
+tipo: articulo
+norma: "Ley 84 de 1873"
+sigla: "CC"
+articulo: "2517"
+epigrafe: "EXTENCIÓN DE LAS REGLAS SOBRE PRESCRIPCIÓN"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XLI|TÍTULO XLI - DE LA PRESCRIPCIÓN]]"
+capitulo: "[[CC - Libro Cuarto - Título XLI - Capítulo I|CAPÍTULO I - DE LA PRESCRIPCIÓN EN GENERAL]]"
+vigencia: "vigente"
+anterior: "[[art. 2516 CC]]"
+siguiente: "[[art. 2518 CC]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cc
+  - vigencia/vigente
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XLI|Título XLI]] › [[CC - Libro Cuarto - Título XLI - Capítulo I|Capítulo I]]
+
+## Artículo 2517. EXTENCIÓN DE LAS REGLAS SOBRE PRESCRIPCIÓN
+
+Las reglas relativas a la prescripción se aplican igualmente en favor y en contra de la nación, del territorio, de las municipalidades, de los establecimientos y corporaciones y de los individuos particulares que tienen la libre administración de lo suyo.
+
+> [!note] Jurisprudencia Vigencia: Artículo declarado exequible por la Corte Suprema de Justicia, mediante Sentencia No. 18 del 4 de mayo de 1989, Magistrado Ponente Dr. Hernando Gómez Otálora.
+
+---
+← [[art. 2516 CC]] · ↑ [[CC - Libro Cuarto - Título XLI - Capítulo I|Capítulo I]] · [[art. 2518 CC]] →

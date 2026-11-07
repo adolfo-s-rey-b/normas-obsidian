@@ -4,6 +4,10 @@ aliases:
   - "art. 235A Decreto 2663 de 1950"
   - "Decreto 2663 de 1950 art. 235A"
   - "CST 235A"
+  - "art. 235-A CST"
+  - "art. 235-A Decreto 2663 de 1950"
+  - "art. 235 A CST"
+  - "art. 235 A Decreto 2663 de 1950"
 tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"

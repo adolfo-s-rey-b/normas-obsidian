@@ -47,7 +47,7 @@ La Sala de Consulta y Servicio Civil tendrá las siguientes atribuciones:
 
 5\. Realizar los estudios que sobre temas de interés para la Administración Pública la Sala estime necesarios para proponer reformas normativas.
 
-6\. Conceptuar sobre los contratos que se proyecte celebrar con empresas privadas colombianas escogidas por concurso público de méritos para efectuar el control fiscal de la gestión administrativa nacional, de conformidad con lo previsto en el artículo [[art. 267 CN|267]] de la Constitución Política.
+6\. Conceptuar sobre los contratos que se proyecte celebrar con empresas privadas colombianas escogidas por concurso público de méritos para efectuar el control fiscal de la gestión administrativa nacional, de conformidad con lo previsto en el artículo [[art. 267 CPol|267]] de la Constitución Política.
 
 7\. Emitir concepto, a petición del Gobierno nacional o de la Agencia Nacional de Defensa Jurídica del Estado, en relación con las controversias jurídicas que se presenten entre entidades públicas del orden nacional, o entre estas y entidades del orden territorial, con el fin de precaver un eventual litigio o poner fin a uno existente. El concepto emitido por la Sala no está sujeto a recurso alguno.
 

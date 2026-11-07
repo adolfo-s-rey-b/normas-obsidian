@@ -4,6 +4,10 @@ aliases:
   - "art. 185A Decreto 2663 de 1950"
   - "Decreto 2663 de 1950 art. 185A"
   - "CST 185A"
+  - "art. 185-A CST"
+  - "art. 185-A Decreto 2663 de 1950"
+  - "art. 185 A CST"
+  - "art. 185 A Decreto 2663 de 1950"
 tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"

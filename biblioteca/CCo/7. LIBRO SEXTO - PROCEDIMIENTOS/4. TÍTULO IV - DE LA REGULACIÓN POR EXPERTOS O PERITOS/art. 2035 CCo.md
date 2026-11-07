@@ -26,7 +26,7 @@ tags:
 
 ## Artículo 2035. REGLAMENTACIÓN POR EL GOBIERNO DE DISPOSICIONES DEL CÓDIGO DE COMERCIO
 
-El Gobierno Nacional, en ejercicio de la potestad que le confiere el ordinal 3o. del artículo [[art. 120 CN|120]] de la Constitución Nacional, podrá reglamentar las disposiciones de este Código globalmente o por Títulos, Capítulos, Secciones o materias.
+El Gobierno Nacional, en ejercicio de la potestad que le confiere el ordinal 3o. del artículo [[art. 120 CPol|120]] de la Constitución Nacional, podrá reglamentar las disposiciones de este Código globalmente o por Títulos, Capítulos, Secciones o materias.
 
 ---
 ← [[art. 2034 CCo]] · ↑ [[CCo - Libro Sexto - Título IV|Título IV]] · [[art. 2036 CCo]] →

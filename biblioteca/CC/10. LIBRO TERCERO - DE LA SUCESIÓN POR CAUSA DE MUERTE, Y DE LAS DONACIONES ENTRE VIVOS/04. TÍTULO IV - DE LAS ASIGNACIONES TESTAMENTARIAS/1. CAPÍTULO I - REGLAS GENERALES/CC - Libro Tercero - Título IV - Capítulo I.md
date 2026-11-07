@@ -1,0 +1,41 @@
+---
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "REGLAS GENERALES"
+libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
+titulo: "[[CC - Libro Tercero - Título IV|TÍTULO IV - DE LAS ASIGNACIONES TESTAMENTARIAS]]"
+articulos: "arts. 1113 a 1127"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título IV|Título IV]]
+
+## CAPÍTULO I - REGLAS GENERALES
+
+*Arts. 1113 a 1127*
+
+### Contenido
+
+- [[art. 1113 CC|Artículo 1113]] — ASIGNATARIOS TESTAMENTARIOS
+- [[art. 1114 CC|Artículo 1114]] — CAPITALIZACIÓN E INVERSIÓN DE LAS ASIGNACIONES
+- [[art. 1115 CC|Artículo 1115]] — ASIGNACIONES A POBRES
+- [[art. 1116 CC|Artículo 1116]] — ERROR EN EL NOMBRE O CALIDAD DEL ASIGNATARIO
+- [[art. 1117 CC|Artículo 1117]] — ERROR EN LAS ASIGNACIONES Y DISPOSICIONES CAPTATORIAS
+- [[art. 1118 CC|Artículo 1118]] — INVALIDEZ DE DISPOSICIONES POR NO PROVENIR DEL TESTADOR
+- [[art. 1119 CC|Artículo 1119]] — INVALIDEZ DE DISPOSICIONES A FAVOR DEL NOTARIO Y TESTIGOS
+- [[art. 1120 CC|Artículo 1120]] — ACREEDOR ASIMILADO A LEGATARIO
+- [[art. 1121 CC|Artículo 1121]] — ELECCIÓN DEL ASIGNATARIO
+- [[art. 1122 CC|Artículo 1122]] — ASIGNACIONES INDETERMINADAS
+- [[art. 1123 CC|Artículo 1123]] — ASIGNACIÓN A PERSONA INCIERTA
+- [[art. 1124 CC|Artículo 1124]] — ASIGNACIONES DETERMINADAS O DETERMINABLES
+- [[art. 1125 CC|Artículo 1125]] — ASIGNACIÓN REHUSADA
+- [[art. 1126 CC|Artículo 1126]] — TRANSFERENCIA DE ASIGNACIONES POR AUSENCIA DEL ASIGNATARIO
+- [[art. 1127 CC|Artículo 1127]] — LA VOLUNTAD DEL TESTADOR
+
+---
+↑ [[CC - Libro Tercero - Título IV|Título IV]] · [[CC - Libro Tercero - Título IV - Capítulo II|Capítulo II]] →

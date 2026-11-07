@@ -4,6 +4,10 @@ aliases:
   - "art. 60A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 60A"
   - "CPACA 60A"
+  - "art. 60-A CPACA"
+  - "art. 60-A Ley 1437 de 2011"
+  - "art. 60 A CPACA"
+  - "art. 60 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

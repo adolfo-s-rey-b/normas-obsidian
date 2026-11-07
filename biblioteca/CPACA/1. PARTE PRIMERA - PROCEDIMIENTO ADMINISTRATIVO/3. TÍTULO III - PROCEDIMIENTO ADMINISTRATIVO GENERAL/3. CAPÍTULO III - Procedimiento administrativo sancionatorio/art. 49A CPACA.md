@@ -4,6 +4,10 @@ aliases:
   - "art. 49A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 49A"
   - "CPACA 49A"
+  - "art. 49-A CPACA"
+  - "art. 49-A Ley 1437 de 2011"
+  - "art. 49 A CPACA"
+  - "art. 49 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

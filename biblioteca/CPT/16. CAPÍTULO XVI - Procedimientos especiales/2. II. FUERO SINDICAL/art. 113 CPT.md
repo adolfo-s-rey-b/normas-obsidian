@@ -34,7 +34,7 @@ tags:
 
 Solicitud del patrono para despidos. La solicitud de permiso hecha por el patrono para despedir a un trabajador amparado por el fuero sindical o para desmejorarlo en sus condiciones de trabajo, o para trasladarlo a otro establecimiento de la misma empresa, o a un municipio distinto, deberá expresar la justa causa invocada y contener una relación pormenorizada de las pruebas que la demuestren.
 
-Nota: Mediante Sentencia C-381 de abril 5 de 2000 la Corte Constitucional declaró exequible el artículo [[art. 113 CPT|113]] del Código Procesal del Trabajo siempre y cuando se entienda que, en aplicación del artículo [[art. 13 CN|13]] inciso 2º, 25 y 39 de la Constitución y del Convenio 98 de la OIT, para hacer uso del procedimiento especial de levantamiento del fuero sindical, el empleador deberá presentar la solicitud inmediatamente ocurra la justa causa requerida para solicitar la autorización de despido, traslado o desmejoramiento del trabajador aforado.
+Nota: Mediante Sentencia C-381 de abril 5 de 2000 la Corte Constitucional declaró exequible el artículo [[art. 113 CPT|113]] del Código Procesal del Trabajo siempre y cuando se entienda que, en aplicación del artículo [[art. 13 CPol|13]] inciso 2º, 25 y 39 de la Constitución y del Convenio 98 de la OIT, para hacer uso del procedimiento especial de levantamiento del fuero sindical, el empleador deberá presentar la solicitud inmediatamente ocurra la justa causa requerida para solicitar la autorización de despido, traslado o desmejoramiento del trabajador aforado.
 
 ---
 ← [[art. 112 CPT]] · ↑ [[CPT - Capítulo XVI - Ii. fuero sindical|Ii. fuero sindical]] · [[art. 114 CPT]] →

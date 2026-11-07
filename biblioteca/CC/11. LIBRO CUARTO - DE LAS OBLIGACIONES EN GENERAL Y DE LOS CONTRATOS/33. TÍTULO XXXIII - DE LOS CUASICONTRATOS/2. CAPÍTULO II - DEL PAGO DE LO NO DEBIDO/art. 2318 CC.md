@@ -1,0 +1,36 @@
+---
+aliases:
+  - "CC art. 2318"
+  - "art. 2318 Ley 84 de 1873"
+  - "Ley 84 de 1873 art. 2318"
+  - "CC 2318"
+tipo: articulo
+norma: "Ley 84 de 1873"
+sigla: "CC"
+articulo: "2318"
+epigrafe: "PAGO DE COSA FUNGIBLE NO DEBIDA"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXXIII|TÍTULO XXXIII - DE LOS CUASICONTRATOS]]"
+capitulo: "[[CC - Libro Cuarto - Título XXXIII - Capítulo II|CAPÍTULO II - DEL PAGO DE LO NO DEBIDO]]"
+vigencia: "vigente"
+anterior: "[[art. 2317 CC]]"
+siguiente: "[[art. 2319 CC]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cc
+  - vigencia/vigente
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXIII|Título XXXIII]] › [[CC - Libro Cuarto - Título XXXIII - Capítulo II|Capítulo II]]
+
+## Artículo 2318. PAGO DE COSA FUNGIBLE NO DEBIDA
+
+El que ha recibido dinero o cosa fungible que no se le debía, es obligado a la restitución de otro tanto del mismo género y calidad.
+
+Si ha recibido de mala fe debe también los intereses corrientes.
+
+---
+← [[art. 2317 CC]] · ↑ [[CC - Libro Cuarto - Título XXXIII - Capítulo II|Capítulo II]] · [[art. 2319 CC]] →

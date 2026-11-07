@@ -38,7 +38,7 @@ La acción de reintegro prescribirá en dos (2) meses, contados a partir de la f
 
 Lo dispuesto en este artículo se aplicará a la acción del trabajador amparado por el fuero sindical que hubiere sido trasladado o desmejorado sin intervención judicial.
 
-Nota: Mediante Sentencia C-381 de abril 5 de 2000 la Corte Constitucional declaró exequibles los incisos primero y tercero del artículo [[art. 118 CN|118]] del CPT siempre y cuando se entienda que, en aplicación del artículo [[art. 39 CN|39]] de la Constitución, el sindicato, por medio de su junta directiva, podrá también interponer la acción de reintegro prevista por el primer inciso y de restitución prevista por el tercer inciso.
+Nota: Mediante Sentencia C-381 de abril 5 de 2000 la Corte Constitucional declaró exequibles los incisos primero y tercero del artículo [[art. 118 CPol|118]] del CPT siempre y cuando se entienda que, en aplicación del artículo [[art. 39 CPol|39]] de la Constitución, el sindicato, por medio de su junta directiva, podrá también interponer la acción de reintegro prevista por el primer inciso y de restitución prevista por el tercer inciso.
 
 ---
 ← [[art. 117 CPT]] · ↑ [[CPT - Capítulo XVI - Ii. fuero sindical|Ii. fuero sindical]] · [[art. 118A CPT]] →

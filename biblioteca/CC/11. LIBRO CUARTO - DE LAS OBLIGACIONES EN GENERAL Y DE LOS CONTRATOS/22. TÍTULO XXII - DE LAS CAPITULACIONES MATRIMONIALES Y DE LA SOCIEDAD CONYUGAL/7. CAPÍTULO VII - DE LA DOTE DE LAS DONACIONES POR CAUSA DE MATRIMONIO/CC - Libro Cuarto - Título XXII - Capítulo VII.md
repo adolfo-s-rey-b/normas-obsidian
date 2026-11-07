@@ -1,0 +1,34 @@
+---
+aliases:
+  - "CC CAPÍTULO VII - DE LA DOTE DE LAS DONACIONES POR CAUSA DE MATRIMONIO"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "VII"
+nombre: "DE LA DOTE DE LAS DONACIONES POR CAUSA DE MATRIMONIO"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXII|TÍTULO XXII - DE LAS CAPITULACIONES MATRIMONIALES Y DE LA SOCIEDAD CONYUGAL]]"
+articulos: "arts. 1842 a 1848"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXII|Título XXII]]
+
+## CAPÍTULO VII - DE LA DOTE DE LAS DONACIONES POR CAUSA DE MATRIMONIO
+
+*Arts. 1842 a 1848*
+
+### Contenido
+
+- [[art. 1842 CC|Artículo 1842]] — CONCEPTO DE DONACIONES POR CAUSA DE MATRIMONIO
+- [[art. 1843 CC|Artículo 1843]] — PROMESA DE DONACIÓN POR CAUSA DE MATRIMONIO
+- [[art. 1844 CC|Artículo 1844]] — LIMITES DE LA DONACIÓN
+- [[art. 1846 CC|Artículo 1846]] — REVOCACIÓN DE DONACIONES POR NULIDAD DEL MATRIMONIO
+- [[art. 1847 CC|Artículo 1847]] — CONDICIONES EN LAS ASIGANACIONES O DONACIONES POR CAUSA DE MATRIMONIO
+- [[art. 1848 CC|Artículo 1848]] — REVOCACIÓN DE DONACIONES POR DISOLUCIÓN DE MATRIMONIO NO CONSUMADO
+
+---
+← [[CC - Libro Cuarto - Título XXII - Capítulo VI|Capítulo VI]] · ↑ [[CC - Libro Cuarto - Título XXII|Título XXII]]

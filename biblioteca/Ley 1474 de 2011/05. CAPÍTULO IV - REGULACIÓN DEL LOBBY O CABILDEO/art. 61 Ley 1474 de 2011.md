@@ -1,0 +1,27 @@
+---
+aliases:
+  - "Ley 1474 de 2011 art. 61"
+tipo: articulo
+norma: "Ley 1474 de 2011"
+articulo: "61"
+epigrafe: "Acceso a la información"
+capitulo: "[[Ley 1474 de 2011 - Capítulo IV|CAPÍTULO IV - REGULACIÓN DEL LOBBY O CABILDEO]]"
+vigencia: "vigente"
+anterior: "[[art. 60 Ley 1474 de 2011]]"
+siguiente: "[[art. 62 Ley 1474 de 2011]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#61"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/ley_1474_de_2011
+  - vigencia/vigente
+---
+
+[[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo IV|Capítulo IV]]
+
+## Artículo 61. Acceso a la información
+
+La autoridad competente podrá requerir, en cualquier momento, informaciones o antecedentes adicionales relativos a gestiones determinadas, cuando exista al menos prueba sumaria de la comisión de algún delito o de una falta disciplinaria.
+
+---
+← [[art. 60 Ley 1474 de 2011]] · ↑ [[Ley 1474 de 2011 - Capítulo IV|Capítulo IV]] · [[art. 62 Ley 1474 de 2011]] →

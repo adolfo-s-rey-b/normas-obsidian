@@ -1,0 +1,36 @@
+---
+aliases:
+  - "CC art. 57"
+  - "art. 57 Ley 84 de 1873"
+  - "Ley 84 de 1873 art. 57"
+  - "CC 57"
+tipo: articulo
+norma: "Ley 84 de 1873"
+sigla: "CC"
+articulo: "57"
+epigrafe: "HIJO SIMPLEMENTE ILEGITIMO"
+capitulo: "[[CC - Capítulo V|CAPÍTULO V - DEFINICIONES DE VARIAS PALABRAS DE USO FRECUENTE EN LAS LEYES]]"
+vigencia: "derogado"
+derogado_por:
+  - "[[art. 30 Ley 45 de 1936]]"
+anterior: "[[art. 56 CC]]"
+siguiente: "[[art. 58 CC]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/cc
+  - vigencia/derogado
+---
+
+[[CC|CC]] › [[CC - Capítulo V|Capítulo V]]
+
+## Artículo 57. HIJO SIMPLEMENTE ILEGITIMO
+
+> [!warning] Artículo derogado por el artículo [[art. 30 Ley 45 de 1936|30]] de la Ley 45 de 1936.
+
+> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 30 Ley 45 de 1936|30]] de la Ley 45 de 1936.
+
+---
+← [[art. 56 CC]] · ↑ [[CC - Capítulo V|Capítulo V]] · [[art. 58 CC]] →

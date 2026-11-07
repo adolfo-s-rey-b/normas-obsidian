@@ -1,0 +1,51 @@
+---
+aliases:
+  - "CC TÍTULO XIV - DE LA PATRIA POTESTAD"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "TÍTULO"
+etiqueta: "XIV"
+nombre: "DE LA PATRIA POTESTAD"
+libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
+articulos: "arts. 288 a 311"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Primero|Libro Primero]]
+
+## TÍTULO XIV - DE LA PATRIA POTESTAD
+
+*Arts. 288 a 311*
+
+### Contenido
+
+- [[art. 288 CC|Artículo 288]] — DEFINICIÓN DE PATRIA POTESTAD
+- [[art. 289 CC|Artículo 289]] — PATRIA POTESTAD POR LEGITIMACIÓN
+- [[art. 290 CC|Artículo 290]] — LIMITACIÓN POR RAZON DEL CARGO
+- [[art. 291 CC|Artículo 291]] — USUFRUCTO DE LOS BIENES DE LOS HIJOS
+- [[art. 292 CC|Artículo 292]] — DURACIÓN DEL USUFRUCTO LEGAL
+- [[art. 293 CC|Artículo 293]] — CAUCIONES
+- [[art. 294 CC|Artículo 294]] — PECULIO PROFESIONAL
+- [[art. 295 CC|Artículo 295]] — ADMINISTRACIÓN DE LOS BIENES DEL USUFRUCTO LEGAL
+- [[art. 296 CC|Artículo 296]] — ADMINISTRACIÓN Y USUFRUCTO DE BIENES DONADOS O HEREDADOS
+- [[art. 297 CC|Artículo 297]] — EXENCIÓN DE INVENTARIO SOLEMNE
+- [[art. 298 CC|Artículo 298]] — RESPONSABILIDAD DE LOS PADRES EN LA ADMINISTRACIÓN
+- [[art. 299 CC|Artículo 299]] — CESACIÓN DE LA ADMINISTRACIÓN Y DEL USUFRUCTO
+- [[art. 300 CC|Artículo 300]] — ADMINISTRACIÓN POR CURADOR
+- [[art. 301 CC|Artículo 301]] — CELEBRACIÓN DE NEGOCIOS NO AUTORIZADOS
+- [[art. 302 CC|Artículo 302]] — RESPONSABILIDAD CONTRACTUAL DEL HIJO DE FAMILIA
+- [[art. 303 CC|Artículo 303]] — AUTORIZACIÓN PARA DISPONER DE BIENES INMUEBLES
+- [[art. 304 CC|Artículo 304]] — LIMITACIONES A LOS PADRES EN LA ADMINISTRACIÓN
+- [[art. 305 CC|Artículo 305]] — LITIGIO CONTRA QUIEN EJERCE LA PATRIA POTESTAD
+- [[art. 306 CC|Artículo 306]] — REPRESENTACIÓN JUDICIAL DEL HIJO
+- [[art. 307 CC|Artículo 307]] — EJERCICIO Y DELEGACIÓN DE LA REPRESENTACIÓN Y ADMINISTRACIÓN
+- [[art. 308 CC|Artículo 308]] — ACCIONES PENALES CONTRA EL HIJO DE FAMILIA
+- [[art. 309 CC|Artículo 309]] — CAPACIDAD TESTAMENTARIA DEL HIJO
+- [[art. 310 CC|Artículo 310]] — SUSPENSIÓN DE LA PATRIA POTESTAD
+- [[art. 311 CC|Artículo 311]] — DECRETO DE LA SUSPENSIÓN DE LA PATRIA POTESTAD
+
+---
+← [[CC - Libro Primero - Título XIII|Título XIII]] · ↑ [[CC - Libro Primero|Libro Primero]] · [[CC - Libro Primero - Título XV|Título XV]] →

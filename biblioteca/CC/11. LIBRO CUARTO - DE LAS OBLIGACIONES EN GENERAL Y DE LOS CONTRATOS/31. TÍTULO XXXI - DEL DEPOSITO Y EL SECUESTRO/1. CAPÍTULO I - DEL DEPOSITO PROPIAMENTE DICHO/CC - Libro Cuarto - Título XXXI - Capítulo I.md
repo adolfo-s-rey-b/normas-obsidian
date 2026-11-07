@@ -1,0 +1,48 @@
+---
+aliases:
+  - "CC CAPÍTULO I - DEL DEPOSITO PROPIAMENTE DICHO"
+tipo: indice
+norma: "Ley 84 de 1873"
+sigla: "CC"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "DEL DEPOSITO PROPIAMENTE DICHO"
+libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
+titulo: "[[CC - Libro Cuarto - Título XXXI|TÍTULO XXXI - DEL DEPOSITO Y EL SECUESTRO]]"
+articulos: "arts. 2240 a 2259"
+tags:
+  - normas/indice
+  - normas/cc
+---
+
+[[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXI|Título XXXI]]
+
+## CAPÍTULO I - DEL DEPOSITO PROPIAMENTE DICHO
+
+*Arts. 2240 a 2259*
+
+### Contenido
+
+- [[art. 2240 CC|Artículo 2240]] — DEFINICIÓN DE DEPOSITO PROPIAMENTE DICHO
+- [[art. 2241 CC|Artículo 2241]] — ERRORES EN EL CONTRATO
+- [[art. 2242 CC|Artículo 2242]] — FALTA DE CONTRATO ESCRITO
+- [[art. 2243 CC|Artículo 2243]] — CAPACIDAD CONTRATAR DEPOSITO
+- [[art. 2244 CC|Artículo 2244]] — NATURALEZA GRATUITA DEL DEPOSITO
+- [[art. 2245 CC|Artículo 2245]] — PERMISO PARA EL USO DE LA COSA DEPOSITADA
+- [[art. 2246 CC|Artículo 2246]] — DEPOSITO DE DINERO
+- [[art. 2247 CC|Artículo 2247]] — RESPONSABILIDAD DEL DEPOSITARIO
+- [[art. 2248 CC|Artículo 2248]] — RESPETO DE SELLOS Y CERRADURAS
+- [[art. 2249 CC|Artículo 2249]] — ROTURA DE SELLOS Y CERRADURAS
+- [[art. 2250 CC|Artículo 2250]] — DEPOSITO DE CONFIANZA
+- [[art. 2251 CC|Artículo 2251]] — TIEMPO DE RESTITUCIÓN DEL DEPOSITO
+- [[art. 2252 CC|Artículo 2252]] — DURACIÓN DE LA OBLIGACIÓN DE GUARDA DE LA COSA
+- [[art. 2253 CC|Artículo 2253]] — RESTITUCIÓN DE LA COSA
+- [[art. 2254 CC|Artículo 2254]] — RESPONSABILIDAD POR FUERZA MAYOR O CASO FORTUITO
+- [[art. 2255 CC|Artículo 2255]] — VENTA DE LA COSA POR LOS HEREDEROS DEL DEPOSITARIO
+- [[art. 2256 CC|Artículo 2256]] — COSTOS DE TRANSPORTE PARA RESTITUCIÓN DE LA COSA
+- [[art. 2257 CC|Artículo 2257]] — NORMAS QUE POR EXTENSIÓN SE APLICAN AL DEPOSITO
+- [[art. 2258 CC|Artículo 2258]] — DERECHO DE RETENCIÓN DEL DEPOSITARIO
+- [[art. 2259 CC|Artículo 2259]] — INDEMNIZACIÓN POR EXPENSAS Y PERJUICIOS
+
+---
+↑ [[CC - Libro Cuarto - Título XXXI|Título XXXI]] · [[CC - Libro Cuarto - Título XXXI - Capítulo II|Capítulo II]] →

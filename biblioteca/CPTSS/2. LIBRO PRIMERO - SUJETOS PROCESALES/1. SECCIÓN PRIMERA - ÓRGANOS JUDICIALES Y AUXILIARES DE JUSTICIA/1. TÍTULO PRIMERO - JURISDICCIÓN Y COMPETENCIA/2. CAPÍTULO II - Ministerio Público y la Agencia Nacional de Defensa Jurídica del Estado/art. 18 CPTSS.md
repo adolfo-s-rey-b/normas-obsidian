@@ -30,7 +30,7 @@ tags:
 
 A) El Ministerio Público podrá intervenir en los procesos que se adelanten ante la jurisdicción del trabajo y de la seguridad so­cial, en defensa del orden jurídico, el patrimonio público, las garantías y derechos fundamentales, individuales o colectivos, de los trabajadores o pensionados y de los sujetos de especial protección constitucional.
 
-Dicha intervención podrá realizarse a solicitud de las partes intervinientes, o cuando se evidencien posibles vulneraciones de los bienes jurídicos de que trata el numeral 7.º del artículo [[art. 277 CN|277]] de la Constitución Política. El Ministerio Público intervendrá como sujeto procesal especial con amplias facultades, entre ellas la de interponer recursos, emitir conceptos, solicitar nulidades, pedir, aportar y controvertir pruebas, entre otras garantías procesales.
+Dicha intervención podrá realizarse a solicitud de las partes intervinientes, o cuando se evidencien posibles vulneraciones de los bienes jurídicos de que trata el numeral 7.º del artículo [[art. 277 CPol|277]] de la Constitución Política. El Ministerio Público intervendrá como sujeto procesal especial con amplias facultades, entre ellas la de interponer recursos, emitir conceptos, solicitar nulidades, pedir, aportar y controvertir pruebas, entre otras garantías procesales.
 
 La actuación del Ministerio Público deberá sujetarse conforme a los parámetros y principios que gobiernan el proceso laboral y de la seguridad social. Para tal efecto, podrá intervenir en los términos señalados en la ley, a partir de la notificación del auto admisorio de la demanda o de la notificación de la providencia por medio de la cual se le vincule al proceso.
 

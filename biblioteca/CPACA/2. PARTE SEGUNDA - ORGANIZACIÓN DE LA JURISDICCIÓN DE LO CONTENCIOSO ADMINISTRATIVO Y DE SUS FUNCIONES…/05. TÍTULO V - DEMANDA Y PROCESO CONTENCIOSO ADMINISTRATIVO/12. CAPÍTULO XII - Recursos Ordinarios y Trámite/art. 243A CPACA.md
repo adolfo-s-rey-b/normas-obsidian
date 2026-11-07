@@ -4,6 +4,10 @@ aliases:
   - "art. 243A Ley 1437 de 2011"
   - "Ley 1437 de 2011 art. 243A"
   - "CPACA 243A"
+  - "art. 243-A CPACA"
+  - "art. 243-A Ley 1437 de 2011"
+  - "art. 243 A CPACA"
+  - "art. 243 A Ley 1437 de 2011"
 tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"

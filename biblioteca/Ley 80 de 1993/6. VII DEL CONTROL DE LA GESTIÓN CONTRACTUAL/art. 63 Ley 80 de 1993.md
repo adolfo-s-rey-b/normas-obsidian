@@ -1,0 +1,35 @@
+---
+aliases:
+  - "Ley 80 de 1993 art. 63"
+tipo: articulo
+norma: "Ley 80 de 1993"
+articulo: "63"
+epigrafe: "De las Visitas e Informes"
+rubro: "[[Ley 80 de 1993 - Vii del control de la gestión contractual|VII DEL CONTROL DE LA GESTIÓN CONTRACTUAL]]"
+vigencia: "vigente"
+anterior: "[[art. 62 Ley 80 de 1993]]"
+siguiente: "[[art. 64 Ley 80 de 1993]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#63"
+fecha_extraccion: 2026-11-07
+tags:
+  - normas/articulo
+  - normas/ley_80_de_1993
+  - vigencia/vigente
+---
+
+[[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii del control de la gestión contractual|Vii del control de la gestión contractual]]
+
+## Artículo 63. De las Visitas e Informes
+
+La Procuraduría adelantará visitas a las entidades estatales oficiosamente y con la periodicidad que demande la protección de los recursos públicos y el imperio de la moralidad, legalidad y honestidad en la administración pública.
+
+Durante las visitas, cuya realización se divulgará ampliamente, se oirá a las asociaciones gremiales y comunitarias del lugar y se dará oportunidad a los administrados para que hagan las denuncias y presenten las quejas que a bien consideren.
+
+Las conclusiones de las visitas se dejarán en informes escritos que se pondrán en conocimiento de la comunidad respectiva y de ellos se correrá traslado a los jefes de las entidades y a quienes aparezcan implicados en la comisión de conductas antijurídicas.
+
+Copias de tales informes se enviarán a la Fiscalía General de la Nación o a la delegada respectiva para que éstas, si es del caso den cumplimiento a la función de que trata el artículo siguiente.
+
+El visitador exigirá a los administrados identificarse y les advertirá de las consecuencias de la formulación de denuncias temerarias.
+
+---
+← [[art. 62 Ley 80 de 1993]] · ↑ [[Ley 80 de 1993 - Vii del control de la gestión contractual|Vii del control de la gestión contractual]] · [[art. 64 Ley 80 de 1993]] →
