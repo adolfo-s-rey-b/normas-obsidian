@@ -106,6 +106,12 @@ def test_cgp_jerarquia_inferida(cgp):
     assert pre.profundidad == libro.profundidad  # hermanos, no padre e hijo
 
 
+def test_cgp_articulo_reformatorio_sin_epigrafe(cgp):
+    """La frase «Modifíquese … quedará así:» en negrita no es la rúbrica."""
+    a620 = next(a for a in cgp.articulos if a.numero == "620")
+    assert a620.epigrafe is None and a620.bloques[0].texto.startswith("Modifíquese el parágrafo")
+
+
 def test_cgp_epigrafe_numerales_y_firmas(cgp):
     art1 = next(a for a in cgp.articulos if a.numero == "1")
     assert art1.epigrafe.lower().startswith("objeto")

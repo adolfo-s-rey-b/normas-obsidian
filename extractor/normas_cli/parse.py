@@ -403,14 +403,30 @@ def _partir_cabecera(u: Unidad, cab: Cabecera) -> tuple[str | None, str, list[Bl
     negrita = re.sub(r"\([^()]*\)", _extraer, negrita)
     epi = _espacios(negrita).strip(" .:-–—")
     cuerpo = _espacios(resto).lstrip(" .:-–—")
+    mn = RE_EPI_NOTA.match(epi)
+    if mn:
+        notas.append(_nota(mn.group(1), [h for h in hrefs if h.texto and h.texto in mn.group(1)]))
+        epi = mn.group(2).strip(" .:-–—")
     if epi:
         # Negrita que abarca rúbrica y cuerpo: «OBJETO. La ley regula…»
         mm = re.match(r"(.{2,200}?)\.\s+(.*[a-záéíóúñ].*)$", epi)
         if mm and mm.group(1).upper() == mm.group(1):
             epi, cuerpo = mm.group(1).strip(), _espacios(mm.group(2) + " " + cuerpo)
-        elif len(epi) > 250:
+        elif len(epi) > 250 or RE_EPI_REFORMA.match(epi) or RE_INTRO_CITA.search(epi):
+            # «Modifíquese el parágrafo 2 … el cual quedará así:» en negrita es
+            # texto del artículo (reformatorio), no su rúbrica.
             epi, cuerpo = "", _espacios(epi + " " + cuerpo)
     return (epi or None), cuerpo, notas
+
+
+RE_EPI_REFORMA = re.compile(r"^(?:modif|adici|der[óo]g|sustit|subr[óo]g|reempl|incorp)\w*se\b", re.I)
+# Nota editorial pegada al inicio de la rúbrica, sin paréntesis:
+# «Derogado por el art. 49 Ley 640 de 2001Clases», «Adicionado por … de 2008, así: OMISIÓN…»
+RE_EPI_NOTA = re.compile(
+    r"^((?:Corregido|Modificado|Adicionado|Derogado|Subrogado|Sustituido|Reglamentado)\s+"
+    r"(?:parcialmente\s+)?por\s+.{0,160}?\d{4})\s*(?:,?\s*as[ií]\s*:)?\s*[.:-]?\s*(.*)$",
+    re.I | re.S,
+)
 
 
 RE_EPI_TEXTO = re.compile(r"^(.{2,160}?)\.\s+(?=[A-ZÁÉÍÓÚÑ\"“(¿¡])(.*)$", re.S)
