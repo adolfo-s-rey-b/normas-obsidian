@@ -22,3 +22,6 @@ Thumbs.db
 # Descargas crudas de HTML (no versionar; usar tests/fixtures para muestras)
 *.html.cache
 /tmp_html/
+
+# Configuración local de Claude Code (permisos de esta máquina)
+.claude/settings.local.json

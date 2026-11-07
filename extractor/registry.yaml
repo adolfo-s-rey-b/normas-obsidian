@@ -1,16 +1,169 @@
+# Registro central de normas de la biblioteca.
+#
+# normas: cada entrada es una norma convertida (o por convertir con
+#   `normas-cli todas`). Campos:
+#     id        id de Función Pública (norma.php?i=<id>)
+#     tipo, numero, anio   identidad («Ley 1564 de 2012»)
+#     sigla     etiqueta corta usada en los nombres de nota (art. 22 CGP)
+#     nombre    nombre largo («Código General del Proceso»)
+#     ruta      carpeta dentro de biblioteca/
+#     estado    vigente | derogada (informativo; se copia al frontmatter)
+#     jerarquia (opcional) orden forzado de niveles, de mayor a menor
+#     esquema   (opcional) niveles a insertar antes de ciertos artículos, para
+#               páginas del DAFP sin encabezados fiables (la Constitución).
+# codigos: diccionario «nombre del código» → sigla, para resolver referencias
+#   como «del Código de Comercio» en el texto. Se compara sin tildes ni
+#   mayúsculas, y gana la coincidencia más larga.
 normas:
 - id: '48425'
   tipo: Ley
   numero: '1564'
   anio: '2012'
   sigla: CGP
+  nombre: Código General del Proceso
   ruta: CGP
+  estado: vigente
 - id: '99712'
   tipo: Ley
   numero: '1996'
   anio: '2019'
   sigla: null
+  nombre: Régimen para el ejercicio de la capacidad legal de las personas con discapacidad
   ruta: Ley 1996 de 2019
+  estado: vigente
+- id: '4125'
+  tipo: Constitución Política
+  numero: '1'
+  anio: '1991'
+  sigla: CN
+  nombre: Constitución Política de Colombia
+  ruta: CN
+  estado: vigente
+  esquema:
+  - {antes: '1', tipo: TÍTULO, etiqueta: I, nombre: "De los principios fundamentales"}
+  - {antes: '11', tipo: TÍTULO, etiqueta: II, nombre: "De los derechos, las garantías y los deberes"}
+  - {antes: '11', tipo: CAPÍTULO, etiqueta: '1', nombre: "De los derechos fundamentales"}
+  - {antes: '42', tipo: CAPÍTULO, etiqueta: '2', nombre: "De los derechos sociales, económicos y culturales"}
+  - {antes: '78', tipo: CAPÍTULO, etiqueta: '3', nombre: "De los derechos colectivos y del ambiente"}
+  - {antes: '83', tipo: CAPÍTULO, etiqueta: '4', nombre: "De la protección y aplicación de los derechos"}
+  - {antes: '95', tipo: CAPÍTULO, etiqueta: '5', nombre: "De los deberes y obligaciones"}
+  - {antes: '96', tipo: TÍTULO, etiqueta: III, nombre: "De los habitantes y del territorio"}
+  - {antes: '96', tipo: CAPÍTULO, etiqueta: '1', nombre: "De la nacionalidad"}
+  - {antes: '98', tipo: CAPÍTULO, etiqueta: '2', nombre: "De la ciudadanía"}
+  - {antes: '100', tipo: CAPÍTULO, etiqueta: '3', nombre: "De los extranjeros"}
+  - {antes: '101', tipo: CAPÍTULO, etiqueta: '4', nombre: "Del territorio"}
+  - {antes: '103', tipo: TÍTULO, etiqueta: IV, nombre: "De la participación democrática y de los partidos políticos"}
+  - {antes: '103', tipo: CAPÍTULO, etiqueta: '1', nombre: "De las formas de participación democrática"}
+  - {antes: '107', tipo: CAPÍTULO, etiqueta: '2', nombre: "De los partidos y de los movimientos políticos"}
+  - {antes: '112', tipo: CAPÍTULO, etiqueta: '3', nombre: "Del estatuto de la oposición"}
+  - {antes: '113', tipo: TÍTULO, etiqueta: V, nombre: "De la organización del Estado"}
+  - {antes: '113', tipo: CAPÍTULO, etiqueta: '1', nombre: "De la estructura del Estado"}
+  - {antes: '122', tipo: CAPÍTULO, etiqueta: '2', nombre: "De la función pública"}
+  - {antes: '132', tipo: TÍTULO, etiqueta: VI, nombre: "De la rama legislativa"}
+  - {antes: '132', tipo: CAPÍTULO, etiqueta: '1', nombre: "De la composición y las funciones"}
+  - {antes: '138', tipo: CAPÍTULO, etiqueta: '2', nombre: "De la reunión y el funcionamiento"}
+  - {antes: '150', tipo: CAPÍTULO, etiqueta: '3', nombre: "De las leyes"}
+  - {antes: '171', tipo: CAPÍTULO, etiqueta: '4', nombre: "Del Senado"}
+  - {antes: '176', tipo: CAPÍTULO, etiqueta: '5', nombre: "De la Cámara de Representantes"}
+  - {antes: '179', tipo: CAPÍTULO, etiqueta: '6', nombre: "De los congresistas"}
+  - {antes: '188', tipo: TÍTULO, etiqueta: VII, nombre: "De la rama ejecutiva"}
+  - {antes: '188', tipo: CAPÍTULO, etiqueta: '1', nombre: "Del Presidente de la República"}
+  - {antes: '200', tipo: CAPÍTULO, etiqueta: '2', nombre: "Del Gobierno"}
+  - {antes: '202', tipo: CAPÍTULO, etiqueta: '3', nombre: "Del Vicepresidente"}
+  - {antes: '206', tipo: CAPÍTULO, etiqueta: '4', nombre: "De los ministros y directores de los departamentos administrativos"}
+  - {antes: '209', tipo: CAPÍTULO, etiqueta: '5', nombre: "De la función administrativa"}
+  - {antes: '212', tipo: CAPÍTULO, etiqueta: '6', nombre: "De los estados de excepción"}
+  - {antes: '216', tipo: CAPÍTULO, etiqueta: '7', nombre: "De la fuerza pública"}
+  - {antes: '224', tipo: CAPÍTULO, etiqueta: '8', nombre: "De las relaciones internacionales"}
+  - {antes: '228', tipo: TÍTULO, etiqueta: VIII, nombre: "De la rama judicial"}
+  - {antes: '228', tipo: CAPÍTULO, etiqueta: '1', nombre: "De las disposiciones generales"}
+  - {antes: '234', tipo: CAPÍTULO, etiqueta: '2', nombre: "De la jurisdicción ordinaria"}
+  - {antes: '236', tipo: CAPÍTULO, etiqueta: '3', nombre: "De la jurisdicción contencioso administrativa"}
+  - {antes: '238A', tipo: CAPÍTULO, etiqueta: 3A, nombre: "De la jurisdicción agraria y rural"}
+  - {antes: '239', tipo: CAPÍTULO, etiqueta: '4', nombre: "De la jurisdicción constitucional"}
+  - {antes: '246', tipo: CAPÍTULO, etiqueta: '5', nombre: "De las jurisdicciones especiales"}
+  - {antes: '249', tipo: CAPÍTULO, etiqueta: '6', nombre: "De la Fiscalía General de la Nación"}
+  - {antes: '254', tipo: CAPÍTULO, etiqueta: '7', nombre: "Gobierno y administración de la rama judicial"}
+  - {antes: '258', tipo: TÍTULO, etiqueta: IX, nombre: "De las elecciones y de la organización electoral"}
+  - {antes: '258', tipo: CAPÍTULO, etiqueta: '1', nombre: "Del sufragio y de las elecciones"}
+  - {antes: '264', tipo: CAPÍTULO, etiqueta: '2', nombre: "De las autoridades electorales"}
+  - {antes: '267', tipo: TÍTULO, etiqueta: X, nombre: "De los organismos de control"}
+  - {antes: '267', tipo: CAPÍTULO, etiqueta: '1', nombre: "De la Contraloría General de la República"}
+  - {antes: '275', tipo: CAPÍTULO, etiqueta: '2', nombre: "Del Ministerio Público"}
+  - {antes: '285', tipo: TÍTULO, etiqueta: XI, nombre: "De la organización territorial"}
+  - {antes: '285', tipo: CAPÍTULO, etiqueta: '1', nombre: "De las disposiciones generales"}
+  - {antes: '297', tipo: CAPÍTULO, etiqueta: '2', nombre: "Del régimen departamental"}
+  - {antes: '311', tipo: CAPÍTULO, etiqueta: '3', nombre: "Del régimen municipal"}
+  - {antes: '322', tipo: CAPÍTULO, etiqueta: '4', nombre: "Del régimen especial"}
+  - {antes: '332', tipo: TÍTULO, etiqueta: XII, nombre: "Del régimen económico y de la hacienda pública"}
+  - {antes: '332', tipo: CAPÍTULO, etiqueta: '1', nombre: "De las disposiciones generales"}
+  - {antes: '339', tipo: CAPÍTULO, etiqueta: '2', nombre: "De los planes de desarrollo"}
+  - {antes: '345', tipo: CAPÍTULO, etiqueta: '3', nombre: "Del presupuesto"}
+  - {antes: '356', tipo: CAPÍTULO, etiqueta: '4', nombre: "De la distribución de recursos y de las competencias"}
+  - {antes: '365', tipo: CAPÍTULO, etiqueta: '5', nombre: "De la finalidad social del Estado y de los servicios públicos"}
+  - {antes: '371', tipo: CAPÍTULO, etiqueta: '6', nombre: "De la banca central"}
+  - {antes: '374', tipo: TÍTULO, etiqueta: XIII, nombre: "De la reforma de la Constitución"}
+  - {antes: transitorio 1, tipo: TÍTULO, etiqueta: '', nombre: "Disposiciones transitorias"}
+  - {antes: transitorio 1 (AL 1 de 2017), tipo: TÍTULO, etiqueta: TRANSITORIO, nombre: "De las normas para la terminación del conflicto armado y la construcción de una paz estable y duradera"}
+  - {antes: transitorio 1 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: I, nombre: "Sistema integral de verdad, justicia, reparación y no repetición"}
+  - {antes: transitorio 2 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: II, nombre: "Comisión para el esclarecimiento de la verdad, la convivencia y la no repetición y Unidad de búsqueda de personas dadas por desaparecidas"}
+  - {antes: transitorio 5 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: III, nombre: "Jurisdicción especial para la paz"}
+  - {antes: transitorio 18 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: IV, nombre: "Reparación integral en el sistema integral de verdad, justicia, reparación y no repetición"}
+  - {antes: transitorio 19 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: V, nombre: "Extradición"}
+  - {antes: transitorio 20 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: VI, nombre: "Participación en política"}
+  - {antes: transitorio 21 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: VII, nombre: "De las normas aplicables a los miembros de la fuerza pública para la terminación del conflicto armado y la construcción de una paz estable y duradera"}
+  - {antes: transitorio 27 (AL 1 de 2017), tipo: CAPÍTULO, etiqueta: VIII, nombre: "Prevalencia del Acuerdo Final para la terminación del conflicto armado y la construcción de una paz estable y duradera"}
+  - {antes: transitorio (AL 2 de 2017), tipo: TÍTULO, etiqueta: '', nombre: "Otros artículos transitorios (Actos Legislativos 2 y 3 de 2017)"}
+- id: '41102'
+  tipo: Decreto
+  numero: '410'
+  anio: '1971'
+  sigla: CCo
+  nombre: Código de Comercio
+  ruta: CCo
+  estado: vigente
+  # El Libro Quinto (navegación) se divide en partes: marítima y aeronáutica.
+  jerarquia: [LIBRO, PARTE, TÍTULO, CAPÍTULO, SECCIÓN]
+- id: '199983'
+  tipo: Decreto
+  numero: '2663'
+  anio: '1950'
+  sigla: CST
+  nombre: Código Sustantivo del Trabajo
+  ruta: CST
+  estado: vigente
+- id: '259639'
+  tipo: Ley
+  numero: '2452'
+  anio: '2025'
+  sigla: CPTSS
+  nombre: Código Procesal del Trabajo y de la Seguridad Social
+  ruta: CPTSS
+  estado: vigente
+- id: '5259'
+  tipo: Decreto
+  numero: '2158'
+  anio: '1948'
+  sigla: CPT
+  nombre: Código Procesal del Trabajo (derogado por la Ley 2452 de 2025)
+  ruta: CPT
+  estado: derogada
+- id: '41249'
+  tipo: Ley
+  numero: '1437'
+  anio: '2011'
+  sigla: CPACA
+  nombre: Código de Procedimiento Administrativo y de lo Contencioso Administrativo
+  ruta: CPACA
+  estado: vigente
+- id: '6533'
+  tipo: Decreto Ley
+  numero: '624'
+  anio: '1989'
+  sigla: ET
+  nombre: Estatuto Tributario
+  ruta: ET
+  estado: vigente
 codigos:
   codigo general del proceso: CGP
   codigo de comercio: CCo
@@ -18,11 +171,23 @@ codigos:
   codigo sustantivo del trabajo: CST
   codigo penal: CP
   codigo de procedimiento penal: CPP
+  codigo de procedimiento civil: CPC
   codigo procesal del trabajo: CPT
   codigo procesal del trabajo y de la seguridad social: CPT
+  codigo de procedimiento laboral: CPT
   codigo de procedimiento administrativo y de lo contencioso administrativo: CPACA
   codigo contencioso administrativo: CCA
   codigo nacional de policia: CNP
   codigo nacional de seguridad y convivencia ciudadana: CNSCC
+  codigo de la infancia y la adolescencia: CIA
+  codigo general disciplinario: CGD
+  codigo disciplinario unico: CDU
+  codigo electoral: CE
+  codigo de minas: CMin
+  codigo nacional de transito: CNT
+  codigo nacional de transito terrestre: CNT
+  constitucion politica de colombia: CN
   constitucion politica: CN
+  constitucion nacional: CN
+  constitucion: CN
   estatuto tributario: ET

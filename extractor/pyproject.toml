@@ -4,16 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "normas-obsidian"
-version = "0.1.0"
+version = "0.2.0"
 description = "Convierte normativa colombiana (Función Pública) a notas de Obsidian con wikilinks cruzados."
-readme = "../README.md"
+readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "argonautarey" }]
+authors = [{ name = "adolfo-s-rey-b" }]
 dependencies = [
     "requests>=2.28",
     "beautifulsoup4>=4.11",
+    "html5lib>=1.1",
     "PyYAML>=6.0",
+    "certifi",
+    "cryptography>=41",
 ]
 
 [project.optional-dependencies]

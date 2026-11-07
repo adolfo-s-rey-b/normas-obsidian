@@ -1,109 +1,310 @@
 """Pruebas del extractor sobre fixtures reales de Función Pública.
 
-Cubren las dos variantes de markup verificadas (CGP con <em>, Ley 1996 con
-entidades) y el motor de wikilinks (internos, externos y cruces por href).
+Ver ``tests/README.md`` para el inventario de fixtures y qué cubre cada uno.
 """
 
+import json
+import re
+from collections import Counter
 from pathlib import Path
 
 import pytest
 
-from normas_cli.links import enlazar
-from normas_cli.model import Articulo, Nivel
-from normas_cli.parse import parse
+from normas_cli.catalogo import generar_catalogo
+from normas_cli.fetch import id_desde_url
+from normas_cli.links import enlazar, enlazar_bloque
+from normas_cli.model import Nivel
+from normas_cli.parse import _cabecera, parse
 from normas_cli.registry import Registry
-from normas_cli.render import render
+from normas_cli.render import render, slug
+from normas_cli.verificar import frontmatter, verificar
 
 FIXTURES = Path(__file__).parent / "fixtures"
 REGISTRY = Path(__file__).parent.parent / "registry.yaml"
 
 
-def _norma(nombre, idf, sigla=None):
-    html = (FIXTURES / nombre).read_text(encoding="utf-8")
-    n = parse(html, id_fuente=idf)
-    n.sigla = sigla
-    return n
-
-
-@pytest.fixture
+@pytest.fixture(scope="module")
 def reg():
     return Registry.cargar(REGISTRY)
 
 
-def test_cgp_identidad_y_conteo():
-    n = _norma("cgp_i48425.html", "48425", "CGP")
-    assert (n.tipo, n.numero, n.anio) == ("Ley", "1564", "2012")
-    assert n.nombre_canonico == "Ley 1564 de 2012"
-    assert n.etiqueta_nota == "CGP"
-    # El CGP tiene del orden de 627 artículos.
-    assert len(n.articulos) > 600
-    assert any(isinstance(it, Nivel) and it.tipo == "LIBRO" for it in n.items)
+def _norma(nombre, idf, reg=None, sigla=None):
+    html = (FIXTURES / nombre).read_text(encoding="utf-8")
+    opciones = reg.opciones(idf) if reg else {}
+    n = parse(html, id_fuente=idf, opciones=opciones)
+    if sigla:
+        n.sigla = sigla
+    return n
 
 
-def test_cgp_epigrafe_y_numerales():
-    n = _norma("cgp_i48425.html", "48425", "CGP")
-    art1 = next(a for a in n.articulos if a.numero == "1")
+@pytest.fixture(scope="module")
+def cgp(reg):
+    return _norma("cgp_i48425.html", "48425", reg, "CGP")
+
+
+@pytest.fixture(scope="module")
+def ley1996(reg):
+    return _norma("ley1996_i99712.html", "99712", reg)
+
+
+# --- Cabeceras de artículo ----------------------------------------------------
+
+
+@pytest.mark.parametrize("texto,numero", [
+    ("ARTÍCULO 15. Competencia", "15"),
+    ("ARTÍCULO 1°. Objeto. La presente ley", "1"),
+    ("ARTICULO 1o. OBJETO.", "1"),
+    ("ARTÍCULO 397A. ALIMENTOS", "397A"),
+    ("ARTÍCULO 115-1. DEDUCCIÓN", "115-1"),
+    ("ARTÍCULO 5 EL IMPUESTO SOBRE LA RENTA", "5"),
+    ("ARTÍCULO TRANSITORIO 3. Texto", "transitorio 3"),
+    ("ARTÍCULO TRANSITORIO. En desarrollo", "transitorio"),
+    ("ARTICULOS 438. INICIACION DE LABORES.", "438"),
+])
+def test_cabecera_valida(texto, numero):
+    c = _cabecera(texto)
+    assert c is not None and c.numero == numero
+
+
+@pytest.mark.parametrize("texto", [
+    "artículos 7° y 8° de la Ley 25 de 1992",      # plural / minúscula
+    "Artículo 5 de la Ley 100 de 1993",             # referencia inline
+    "ARTÍCULO 54 inciso 4° de la Ley 270",
+    "ARTICULOS 93, 94, 95, 96 y 97",                # enumeración, no cabecera
+    "artículo 5.",
+])
+def test_cabecera_invalida(texto):
+    assert _cabecera(texto) is None
+
+
+# --- CGP ---------------------------------------------------------------------------
+
+
+def test_cgp_identidad_y_conteo(cgp):
+    assert (cgp.tipo, cgp.numero, cgp.anio) == ("Ley", "1564", "2012")
+    assert cgp.nombre_canonico == "Ley 1564 de 2012"
+    assert cgp.etiqueta_nota == "CGP"
+    assert len(cgp.articulos) == 628
+    assert cgp.epigrafe_norma.startswith("Por medio de la cual se expide el Código General")
+    assert cgp.actualizacion_fuente
+
+
+def test_cgp_sin_articulos_fantasma(cgp):
+    """El art. 626 (derogatorias) enumera «artículos 7° y 8°…»: no son cabeceras."""
+    nums = [a.numero for a in cgp.articulos]
+    assert not [n for n, k in Counter(nums).items() if k > 1]
+    art626 = next(a for a in cgp.articulos if a.numero == "626")
+    texto = " ".join(b.texto for b in art626.bloques)
+    assert "Ley 1395 de 2010" in texto  # el final de la enumeración sigue en el 626
+    assert nums[-1] == "627"
+
+
+def test_cgp_jerarquia_inferida(cgp):
+    assert cgp.orden_niveles[:4] == ["LIBRO", "SECCIÓN", "TÍTULO", "CAPÍTULO"]
+    pre = next(n for n in cgp.niveles if n.es_preliminar)
+    libro = next(n for n in cgp.niveles if n.tipo == "LIBRO")
+    assert pre.profundidad == libro.profundidad  # hermanos, no padre e hijo
+
+
+def test_cgp_epigrafe_numerales_y_firmas(cgp):
+    art1 = next(a for a in cgp.articulos if a.numero == "1")
     assert art1.epigrafe.lower().startswith("objeto")
-    art17 = next(a for a in n.articulos if a.numero == "17")
-    marcas = [b.marca for b in art17.bloques if b.tipo == "numeral"]
-    assert marcas[:3] == ["1", "2", "3"]
+    assert art1.bloques[0].texto.endswith(".")  # conserva el punto final
+    art17 = next(a for a in cgp.articulos if a.numero == "17")
+    assert [b.marca for b in art17.bloques if b.tipo == "numeral"][:3] == ["1", "2", "3"]
     assert any(b.tipo == "paragrafo" for b in art17.bloques)
+    assert cgp.firmas  # el bloque de firmas no queda dentro del art. 627
+    art627 = next(a for a in cgp.articulos if a.numero == "627")
+    assert not any("PRESIDENTE" in b.texto for b in art627.bloques)
 
 
-def test_ley1996_variante_vieja():
-    """Markup con entidades, MAYÚSCULAS y epígrafe fuera de <em>."""
-    n = _norma("ley1996_i99712.html", "99712")
-    assert (n.tipo, n.numero, n.anio) == ("Ley", "1996", "2019")
-    assert n.etiqueta_nota == "Ley 1996 de 2019"  # sin sigla → fallback
-    art1 = next(a for a in n.articulos if a.numero == "1")
-    assert art1.epigrafe.lower().startswith("objeto")
-    assert len(n.articulos) > 40
+# --- Otras variantes ---------------------------------------------------------------
 
 
-def test_decreto_1991_variante_malformada():
-    """Tercera variante: <P> en mayúsculas, atributos sin comillas, HTML roto.
+def test_ley1996_rubrica_en_texto(ley1996):
+    assert (ley1996.tipo, ley1996.numero, ley1996.anio) == ("Ley", "1996", "2019")
+    assert ley1996.etiqueta_nota == "Ley 1996 de 2019"
+    arts = {a.numero: a for a in ley1996.articulos}
+    assert arts["1"].epigrafe.lower().startswith("objeto")
+    assert arts["37"].epigrafe.startswith("Adjudicación de apoyos")
+    # El 62 no tiene rúbrica: su texto completo es cuerpo, no epígrafe.
+    assert arts["62"].epigrafe is None and arts["62"].bloques
+    assert ley1996.epigrafe_norma.startswith("Por medio de la cual")
+    assert len(ley1996.firmas) > 5
 
-    Documenta la robustez del parser ante páginas viejas malformadas. Por la
-    corrupción de etiquetas (</FONT> sueltos) puede perderse algún artículo
-    fusionado con el preámbulo, pero debe recuperar la gran mayoría.
-    """
+
+def test_decreto_1991_malformado():
     n = _norma("decreto2651_i14319.html", "14319")
-    assert n.tipo and n.tipo.startswith("Decreto")
-    assert (n.numero, n.anio) == ("2651", "1991")
-    assert len(n.articulos) >= 50  # ~62 artículos
+    assert n.tipo.startswith("Decreto") and (n.numero, n.anio) == ("2651", "1991")
+    assert len(n.articulos) >= 60
+    art2 = next(a for a in n.articulos if a.numero == "2")
+    assert art2.bloques and art2.bloques[0].texto.startswith("En los procesos")
 
 
-def test_enlaces_internos_y_externos(reg):
-    # Referencia interna (misma norma) → usa la sigla actual.
-    t = enlazar("según el artículo 590 de este código", "CGP", reg)
-    assert "[[art. 590 CGP|590]]" in t
-    # Referencia externa nombrada → sigla del registro de códigos.
-    t = enlazar("los artículos 913 y 914 del Código de Comercio", "CGP", reg)
-    assert "[[art. 913 CCo|913]]" in t and "[[art. 914 CCo|914]]" in t
-    # Ley externa numerada → identificador canónico.
-    t = enlazar("conforme al artículo 35 de la Ley 1996 de 2019", "CGP", reg)
-    assert "[[art. 35 Ley 1996 de 2019|35]]" in t
-    # El año de la ley NO debe enlazarse.
-    assert "[[art. 2019" not in t
+def test_cn_transitorios_y_esquema(reg):
+    n = _norma("cn_i4125_recorte.html", "4125", reg, "CN")
+    assert n.nombre_canonico == "Constitución Política de 1991"
+    nums = [a.numero for a in n.articulos]
+    assert len(nums) == len(set(nums))
+    assert "transitorio 1" in nums and "transitorio 1 (AL 1 de 2017)" in nums
+    assert "transitorio 1 (AL 3 de 2017)" in nums and "transitorio (AL 2 de 2017)" in nums
+    art1 = n.articulos[0]
+    assert art1.epigrafe is None and art1.bloques[0].texto.startswith("Colombia es un Estado social")
+    titulos = [(x.tipo, x.etiqueta) for x in n.niveles]
+    assert ("TÍTULO", "I") in titulos and ("TÍTULO", "TRANSITORIO") in titulos
+    assert n.firmas
 
 
-def test_render_y_cruce_real(tmp_path, reg):
-    """Convierte CGP + Ley 1996 y verifica que el cruce de derogatoria resuelve."""
-    cgp = _norma("cgp_i48425.html", "48425", "CGP")
-    ley = _norma("ley1996_i99712.html", "99712")
-    render(cgp, tmp_path, reg)
-    render(ley, tmp_path, reg)
+def test_et_envoltura():
+    n = _norma("et_i6533_recorte.html", "6533")
+    assert [a.numero for a in n.envoltura] == ["1", "2", "3", "4"]
+    assert [a.numero for a in n.articulos][:3] == ["1", "2", "3"]
+    art5 = next(a for a in n.articulos if a.numero == "5")
+    assert art5.epigrafe.startswith("EL IMPUESTO SOBRE LA RENTA")
 
-    # El destino del cruce existe con el nombre canónico esperado.
-    destinos = list((tmp_path / "Ley 1996 de 2019").rglob("art. 61 Ley 1996 de 2019.md"))
-    assert destinos, "no se generó la nota destino del cruce"
 
-    # El art. 22 del CGP contiene el callout con el wikilink a la Ley 1996.
-    art22 = next((tmp_path / "CGP").rglob("art. 22 CGP.md"))
+def test_cco_dos_articulos_en_un_parrafo():
+    n = _norma("cco_i41102_recorte.html", "41102")
+    arts = {a.numero: a for a in n.articulos}
+    assert "837" in arts and arts["837"].epigrafe == "EXHIBICIÓN DEL PODER"
+    assert arts["1"].epigrafe == "APLICABILIDAD DE LA LEY COMERCIAL"
+
+
+def test_cst_listas_ol():
+    n = _norma("cst_i199983_recorte.html", "199983")
+    art77 = next(a for a in n.articulos if a.numero == "77")
+    assert art77.bloques and art77.bloques[0].tipo == "numeral"
+
+
+def test_tablas_y_numeracion_compuesta():
+    html = """<h2 class="titulo-norma">Ley 9 de 2020</h2><div class="descripcion-contenido">
+    <p><strong>ARTÍCULO 115. TARIFA.</strong> La tarifa es:</p>
+    <table><tr><td>Rango</td><td>Tarifa</td></tr><tr><td>0 a 10</td><td>5%</td></tr></table>
+    <p><strong>ARTÍCULO 115-1. OTRO.</strong> Texto.</p></div>"""
+    n = parse(html)
+    a115 = n.articulos[0]
+    assert [a.numero for a in n.articulos] == ["115", "115-1"]
+    assert a115.bloques[-1].tipo == "tabla" and "| 0 a 10 | 5% |" in a115.bloques[-1].texto
+
+
+# --- Enlaces --------------------------------------------------------------------------
+
+
+@pytest.mark.parametrize("texto,actual,esperado,prohibido", [
+    ("según el artículo 590 de este código", "CGP", ["[[art. 590 CGP|590]]"], []),
+    ("los artículos 913 y 914 del Código de Comercio", "CGP",
+     ["[[art. 913 CCo|913]]", "[[art. 914 CCo|914]]"], []),
+    ("conforme al artículo 35 de la Ley 1996 de 2019", "CGP", ["[[art. 35 Ley 1996 de 2019|35]]"],
+     ["[[art. 2019"]),
+    ("normas previstas en el artículo 87, en la Ley 1306 de 2009", "CGP",
+     ["[[art. 87 Ley 1306 de 2009|87]]"], ["CGP|1306", "CGP|2009"]),
+    ("el artículo 1312 del Código Civil o el compañero permanente", "CGP", ["[[art. 1312 CC|1312]]"], []),
+    ("el artículo 432 del Código de Procedimiento Civil ya se", "CGP", ["[[art. 432 CPC|432]]"], []),
+    ("el artículo 58 numeral 4 de la Ley 1480 de 2011", "CGP", ["[[art. 58 Ley 1480 de 2011|58]]"],
+     ["|4]]"]),
+    ("Corregido por el art. 16, Decreto Nacional 1736 de 2012", "CGP",
+     ["[[art. 16 Decreto 1736 de 2012|16]]"], []),
+    ("artículo 22 de la Ley 1564 de 2012", "Ley 1996 de 2019", ["[[art. 22 CGP|22]]"], []),
+    ("el artículo transitorio 5 de la Constitución", "CGP", ["[[art. transitorio 5 CN|5]]"], []),
+    ("del artículo 123 del Código Penitenciario", "CGP", [], ["[["]),
+    ("del artículo 1944 del citado código", "CGP", [], ["[["]),
+    ("declarado EXEQUIBLE por el artículo 5 en Sentencia C-726 de 2014", "CGP", [], ["|726]]", "|2014]]"]),
+    ("el presente artículo, con multa de dos mil (2.000) salarios", "CGP", [], ["[["]),
+    ("lo dispuesto en el artículo 771-5 del Estatuto Tributario", "CGP", ["[[art. 771-5 ET|771-5]]"], []),
+])
+def test_enlaces(reg, texto, actual, esperado, prohibido):
+    t = enlazar(texto, actual, reg)
+    for e in esperado:
+        assert e in t, t
+    for p in prohibido:
+        assert p not in t, t
+
+
+def test_enlace_texto_citado(reg):
+    t, ctx = enlazar_bloque(
+        'Modifíquese el numeral 6 del artículo 577 de la Ley 1564 de 2012, así: "Ver artículo 5"',
+        "Ley 1996 de 2019", reg)
+    assert ctx == "CGP" and "[[art. 5 CGP|5]]" in t
+
+
+# --- Render, verificación y catálogo ------------------------------------------------------
+
+
+@pytest.fixture(scope="module")
+def biblioteca(tmp_path_factory, reg, cgp, ley1996):
+    destino = tmp_path_factory.mktemp("biblioteca")
+    render(cgp, destino, reg, fecha_extraccion="2026-01-01")
+    render(ley1996, destino, reg, fecha_extraccion="2026-01-01")
+    return destino
+
+
+def test_render_estructura(biblioteca):
+    raiz = biblioteca / "CGP"
+    assert (raiz / "CGP.md").exists()
+    vacias = [d for d in raiz.rglob("*") if d.is_dir() and not any(d.iterdir())]
+    assert not vacias
+    # SECCIÓN contiene TÍTULO
+    art15 = next(raiz.rglob("art. 15 CGP.md"))
+    partes = art15.relative_to(raiz).parts
+    assert "LIBRO PRIMERO" in partes[0] and "SECCIÓN PRIMERA" in partes[1] and "TÍTULO I" in partes[2]
+    assert len(list(raiz.rglob("art. 5 CGP.md"))) == 1
+
+
+def test_render_frontmatter_y_navegacion(biblioteca):
+    art22 = next((biblioteca / "CGP").rglob("art. 22 CGP.md"))
     txt = art22.read_text(encoding="utf-8")
-    assert "[[art. 61 Ley 1996 de 2019" in txt
-    assert "[!warning]" in txt
-    # El inciso derogado quedó tachado.
-    assert "~~" in txt
-    # Frontmatter con alias dual (sigla + identificador).
-    assert "art. 22 Ley 1564 de 2012" in txt
+    fm = frontmatter(txt)
+    assert "art. 22 Ley 1564 de 2012" in fm["aliases"]
+    assert fm["vigencia"] == "parcialmente derogado"
+    assert "[[art. 61 Ley 1996 de 2019]]" in fm["derogado_por"]
+    assert fm["anterior"] == "[[art. 21 CGP]]" and fm["siguiente"] == "[[art. 23 CGP]]"
+    assert fm["capitulo"].startswith("[[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|")
+    assert fm["fuente"].endswith("norma.php?i=48425#22")
+    assert "~~De la designación y remoción" in txt and "[!warning]" in txt
+    assert "← [[art. 21 CGP]]" in txt
+
+
+def test_render_indice_y_raiz(biblioteca):
+    indice = next((biblioteca / "CGP").rglob("CGP - Libro Primero - Sección Primera - Título I - Capítulo I.md"))
+    txt = indice.read_text(encoding="utf-8")
+    assert "[[art. 15 CGP|Artículo 15]]" in txt and frontmatter(txt)["tipo"] == "indice"
+    raiz = (biblioteca / "CGP" / "CGP.md").read_text(encoding="utf-8")
+    fm = frontmatter(raiz)
+    assert fm["tipo"] == "norma" and fm["articulos"] == 628 and "Ley 1564 de 2012" in fm["aliases"]
+    assert "## Contenido" in raiz and "## Firmas" in raiz
+
+
+def test_render_reemplaza_notas_obsoletas(tmp_path, reg, ley1996):
+    render(ley1996, tmp_path, reg)
+    sobra = tmp_path / "Ley 1996 de 2019" / "art. 999 Ley 1996 de 2019.md"
+    sobra.write_text("obsoleta", encoding="utf-8")
+    render(ley1996, tmp_path, reg)
+    assert not sobra.exists()
+
+
+def test_render_no_pisa_carpetas_ajenas(tmp_path, reg, ley1996):
+    ajena = tmp_path / "Ley 1996 de 2019"
+    ajena.mkdir()
+    (ajena / "mis notas.md").write_text("x", encoding="utf-8")
+    with pytest.raises(FileExistsError):
+        render(ley1996, tmp_path, reg)
+
+
+def test_verificar_y_catalogo(biblioteca, tmp_path):
+    lineas: list[str] = []
+    assert verificar(biblioteca, salida=lineas.append) == 0, "\n".join(lineas)
+    indice = generar_catalogo(biblioteca, tmp_path / "catalogo", imprimir=lambda *_: None)
+    assert {n["carpeta"] for n in indice["normas"]} == {"CGP", "Ley 1996 de 2019"}
+    cgp = next(n for n in indice["normas"] if n["carpeta"] == "CGP")
+    paquete = json.loads((tmp_path / "catalogo" / cgp["paquete"]).read_text(encoding="utf-8"))
+    assert paquete["hash"] == cgp["hash"] and "CGP/CGP.md" in paquete["archivos"]
+    assert cgp["notas"] == len(paquete["archivos"])
+
+
+def test_utilidades():
+    assert id_desde_url("https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425") == "48425"
+    largo = slug("TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN "
+                 "DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO")
+    assert largo.endswith("…") and len(largo) <= 111
+    assert largo[:-1].split()[-1] in ("POBREZA", "AMPARO", "DE", "INTERRUPCIÓN", "PROCESOS")  # palabra completa
+    assert isinstance(Nivel("LIBRO", "I", "x").es_preliminar, bool)
