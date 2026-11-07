@@ -47,6 +47,7 @@ interface Paquete {
 
 interface Instalada {
   hash: string;
+  destino?: string; // carpeta del vault donde se instaló (se actualiza ahí mismo)
   fecha_extraccion: string;
   instalada: string; // fecha ISO de la descarga
 }
@@ -56,6 +57,7 @@ interface NormasSettings {
   rama: string;
   carpetaCatalogo: string; // carpeta del catálogo dentro del repo
   destino: string; // carpeta destino dentro del vault
+  urlBase: string; // opcional: URL base del catálogo (espejos, forks, pruebas locales)
   instaladas: Record<string, Instalada>; // por carpeta de norma
 }
 
@@ -64,6 +66,7 @@ const DEFAULTS: NormasSettings = {
   rama: "main",
   carpetaCatalogo: "catalogo",
   destino: "Normas",
+  urlBase: "",
   instaladas: {},
 };
 
@@ -114,6 +117,10 @@ export default class NormasPlugin extends Plugin {
 
   private urlCruda(ruta: string): string {
     const { repo, rama, carpetaCatalogo } = this.settings;
+    const base = this.settings.urlBase.trim().replace(/\/+$/, "");
+    if (base) {
+      return `${base}/${ruta.split("/").map(encodeURIComponent).join("/")}`;
+    }
     const partes = [carpetaCatalogo.replace(/^\/+|\/+$/g, ""), ruta]
       .join("/")
       .split("/")
@@ -154,9 +161,14 @@ export default class NormasPlugin extends Plugin {
     }).open();
   }
 
+  /** Carpeta destino de una norma: donde ya está instalada o la de los ajustes. */
+  destinoDe(n: EntradaCatalogo): string {
+    return normalizePath(this.settings.instaladas[n.carpeta]?.destino ?? this.settings.destino);
+  }
+
   /** Ruta de la norma dentro del vault. */
   carpetaVault(n: EntradaCatalogo): string {
-    return normalizePath(`${this.settings.destino}/${n.carpeta}`);
+    return normalizePath(`${this.destinoDe(n)}/${n.carpeta}`);
   }
 
   private notasExistentes(carpeta: string): TFile[] {
@@ -204,22 +216,38 @@ export default class NormasPlugin extends Plugin {
     }
 
     const rutas = Object.keys(paquete.archivos ?? {});
-    const destino = normalizePath(this.settings.destino);
+    const destino = this.destinoDe(n);
     const nuevas = new Set(rutas.map((r) => normalizePath(`${destino}/${r}`)));
     let errores = 0;
     let hechas = 0;
-    for (const ruta of rutas) {
-      const destinoVault = normalizePath(`${destino}/${ruta}`);
+    // 1) Carpetas, una sola vez y de la más corta a la más larga (padres primero).
+    const carpetas = [...new Set([...nuevas].map((r) => r.split("/").slice(0, -1).join("/")))]
+      .filter(Boolean)
+      .sort((a, b) => a.length - b.length);
+    for (const c of carpetas) {
       try {
-        await this.escribir(destinoVault, paquete.archivos[ruta]);
+        await this.asegurarCarpeta(c);
       } catch (e) {
         errores++;
-        console.error("[normas-colombianas] Error escribiendo", destinoVault, e);
+        console.error("[normas-colombianas] Error creando la carpeta", c, e);
       }
-      hechas++;
-      if (hechas % 200 === 0) {
-        aviso.setMessage(`Escribiendo «${n.nombre}» (${hechas}/${rutas.length})…`);
-      }
+    }
+    // 2) Notas en lotes concurrentes: escribir una por una es varias veces más lento.
+    const LOTE = 24;
+    for (let i = 0; i < rutas.length; i += LOTE) {
+      await Promise.all(
+        rutas.slice(i, i + LOTE).map(async (ruta) => {
+          const destinoVault = normalizePath(`${destino}/${ruta}`);
+          try {
+            await this.escribirArchivo(destinoVault, paquete.archivos[ruta]);
+          } catch (e) {
+            errores++;
+            console.error("[normas-colombianas] Error escribiendo", destinoVault, e);
+          }
+        })
+      );
+      hechas = Math.min(i + LOTE, rutas.length);
+      aviso.setMessage(`Escribiendo «${n.nombre}» (${hechas}/${rutas.length})…`);
     }
 
     // Notas obsoletas: estaban en la carpeta de la norma y ya no existen.
@@ -241,6 +269,7 @@ export default class NormasPlugin extends Plugin {
     if (errores === 0) {
       this.settings.instaladas[n.carpeta] = {
         hash: paquete.hash,
+        destino,
         fecha_extraccion: n.fecha_extraccion,
         instalada: new Date().toISOString(),
       };
@@ -309,9 +338,8 @@ export default class NormasPlugin extends Plugin {
     }
   }
 
-  /** Crea o reemplaza un archivo del vault, creando las carpetas que falten. */
-  private async escribir(ruta: string, contenido: string) {
-    await this.asegurarCarpeta(ruta.split("/").slice(0, -1).join("/"));
+  /** Crea o reemplaza un archivo del vault (sus carpetas ya deben existir). */
+  private async escribirArchivo(ruta: string, contenido: string) {
     const existente = this.app.vault.getAbstractFileByPath(ruta);
     if (existente instanceof TFile) {
       await this.app.vault.process(existente, () => contenido);
@@ -328,7 +356,8 @@ export default class NormasPlugin extends Plugin {
     for (const h of [...f.children]) {
       if (h instanceof TFolder) await this.borrarCarpetasVacias(h.path);
     }
-    if (f.children.length === 0 && f.path !== normalizePath(this.settings.destino)) {
+    if (f.children.length === 0 && f.path !== normalizePath(this.settings.destino)
+        && !Object.values(this.settings.instaladas).some((i) => i.destino === f.path)) {
       await this.app.fileManager.trashFile(f);
     }
   }
@@ -467,6 +496,22 @@ class NormasSettingTab extends PluginSettingTab {
         await this.plugin.saveSettings();
       })
     );
+
+    new Setting(containerEl)
+      .setName("URL base del catálogo")
+      .setDesc(
+        "Avanzado. Si se indica, se usa en lugar de GitHub (p. ej. un espejo o un servidor local). " +
+          "Debe contener index.json y los paquetes de las normas."
+      )
+      .addText((t) =>
+        t
+          .setPlaceholder("https://…/catalogo")
+          .setValue(this.plugin.settings.urlBase)
+          .onChange(async (v) => {
+            this.plugin.settings.urlBase = v.trim();
+            await this.plugin.saveSettings();
+          })
+      );
 
     new Setting(containerEl)
       .setName("Carpeta del catálogo")
