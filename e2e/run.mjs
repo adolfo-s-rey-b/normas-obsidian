@@ -35,14 +35,16 @@ function ob(...args) {
 /** Evalúa JavaScript dentro de Obsidian (espera promesas) y devuelve el valor como texto. */
 function js(codigo) {
   const out = ob("eval", `code=${codigo}`);
+  if (out === "=>") return ""; // resultado vacío
   return out.startsWith("=> ") ? out.slice(3) : out;
 }
 const jsJSON = (codigo) => {
   // Con Obsidian ocupado (indexando, buscando) el CLI a veces devuelve vacío: reintentar.
   let t = "";
-  for (let k = 0; k < 5 && !t; k++) {
+  // Tras descargar miles de notas el índice puede tardar más de un minuto en liberarse.
+  for (let k = 0; k < 20 && !t; k++) {
     t = js(`(async()=>JSON.stringify(await (async()=>(${codigo}))()))()`);
-    if (!t) spawnSync("sleep", ["2"]);
+    if (!t) spawnSync("sleep", ["3"]);
   }
   try {
     return JSON.parse(t);
@@ -100,6 +102,17 @@ async function tarea(clave, codigoAsync, maxSeg = 900) {
 }
 
 /** Cuenta elementos del DOM («No elements found.» = 0). */
+/** Notas de una carpeta según Obsidian. Mientras indexa, el CLI puede responder vacío
+ *  (= 0): se reintenta hasta obtener `esperado` o agotar los intentos. */
+async function contarNotas(carpeta, esperado = null) {
+  let n = 0;
+  for (let k = 0; k < 10; k++) {
+    if (k) await dormir(2000);
+    n = Number(ob("files", `folder=${carpeta}`, "total")) || 0;
+    if (esperado === null ? n > 0 : n === esperado) break;
+  }
+  return n;
+}
 const cuenta = (selector) => Number(ob("dev:dom", `selector=${selector}`, "total")) || 0;
 
 /** Espera a que exista un elemento del DOM; devuelve su texto (o "" si no aparece). */
@@ -233,7 +246,7 @@ if (corre("descarga-todas")) await escenario("4. Descarga de todas las normas", 
       `(async()=>{const n=(await ${PLUGIN}.leerCatalogo()).normas.find(x=>x.carpeta===${JSON.stringify(n.c)});return await ${PLUGIN}.instalar(n)})()`);
     const ok = r.ok && r.v === true;
     const seg = r.seg.toFixed(1);
-    const notas = Number(ob("files", `folder=Normas/${n.c}`, "total"));
+    const notas = await contarNotas(`Normas/${n.c}`, n.notas);
     const bien = ok && notas === n.notas;
     todoOk &&= bien;
     filas.push(`${bien ? "✓" : "✗"} ${n.c}: ${notas}/${n.notas} notas, ${n.mb} MB, ${seg} s`);
@@ -404,8 +417,11 @@ if (corre("actualizacion")) await escenario("11. Actualización con confirmació
     await dormir(500);
     listo = js(`${PLUGIN}.settings.instaladas["Ley 1996 de 2019"].hash!=="viejo"`) === "true";
   }
-  await dormir(1500);
-  const borrada = !existe(`${carpeta}/art. 999 Ley 1996 de 2019.md`);
+  let borrada = false;
+  for (let k = 0; k < 10 && !borrada; k++) {
+    await dormir(1500); // con miles de notas indexándose, el CLI va rezagado
+    borrada = !existe(`${carpeta}/art. 999 Ley 1996 de 2019.md`);
+  }
   const propia = existe("Normas/Mis apuntes.md");
   const cap2 = captura("11b-actualizada");
   registrar("11. Actualización con confirmación", /Actualizar/.test(titulo) && sigue && listo && borrada && propia,
@@ -414,7 +430,8 @@ if (corre("actualizacion")) await escenario("11. Actualización con confirmació
 });
 
 if (corre("errores")) await escenario("12. Errores y ajustes", async () => {
-  const original = js(`${PLUGIN}.settings.urlBase`);
+  // jsJSON: con urlBase vacía (GitHub, el valor por defecto) el CLI imprime «=>» a secas.
+  const original = jsJSON(`${PLUGIN}.settings.urlBase`);
   const estado = js(`JSON.stringify(${PLUGIN}.settings)`);
   // Catálogo inaccesible
   js(`(()=>{${PLUGIN}.settings.urlBase="http://127.0.0.1:9/no-existe";return 1})()`);
@@ -433,7 +450,7 @@ if (corre("errores")) await escenario("12. Errores y ajustes", async () => {
   js(`(()=>{${PLUGIN}.settings.destino="Biblioteca jurídica";delete ${PLUGIN}.settings.instaladas["Ley 1258 de 2008"];return 1})()`);
   const r2 = await tarea("destino", `(async()=>{const n=(await ${PLUGIN}.leerCatalogo()).normas.find(x=>x.carpeta==="Ley 1258 de 2008");return await ${PLUGIN}.instalar(n)})()`);
   const ok2 = r2.ok && r2.v === true;
-  const enOtra = Number(ob("files", "folder=Biblioteca jurídica/Ley 1258 de 2008", "total"));
+  const enOtra = await contarNotas("Biblioteca jurídica/Ley 1258 de 2008");
   // Restaurar el estado anterior y quitar la copia de prueba.
   js(`(async()=>{Object.assign(${PLUGIN}.settings, JSON.parse(${JSON.stringify(estado)}));await ${PLUGIN}.saveSettings();const f=app.vault.getAbstractFileByPath("Biblioteca jurídica");if(f)await app.vault.delete(f,true);return 1})()`);
   registrar("12. Errores y ajustes", /No se pudo leer/.test(aviso) && modal === 0 && /versión más nueva/.test(futuro) && ok2 && enOtra > 0,
