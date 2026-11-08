@@ -156,10 +156,28 @@ async function cerrarPreferencias() {
 }
 await cerrarPreferencias();
 
+// Bóveda nueva: Obsidian pregunta «¿Confía en el autor de esta bóveda?» y deja los
+// complementos sin cargar (modo restringido) hasta que se acepta.
+async function activarComplementos() {
+  for (let k = 0; k < 30; k++) {
+    if (js(`String(!!app.plugins.plugins["normas-colombianas"])`) === "true") return true;
+    js(`(()=>{const b=[...document.querySelectorAll(".modal button")].find(x=>/Confiar|Trust/.test(x.textContent));if(b)b.click();return 1})()`);
+    if (k === 3) {
+      ob("plugins:restrict", "off");
+      ob("plugin:enable", "id=dataview");
+      ob("plugin:enable", "id=normas-colombianas");
+    }
+    await dormir(1000);
+  }
+  return false;
+}
+const pluginActivo = await activarComplementos();
+await cerrarPreferencias();
+
 if (corre("arranque")) await escenario("1. Arranque", async () => {
   const habilitados = ob("plugins:enabled", "filter=community");
   const errores = ob("dev:errors");
-  const ok = habilitados.includes("normas-colombianas") && /No errors/i.test(errores);
+  const ok = pluginActivo && habilitados.includes("normas-colombianas") && /No errors/i.test(errores);
   registrar("1. Arranque", ok, `plugins: ${habilitados.replace(/\n/g, ", ")}; errores: ${errores.slice(0, 120)}`,
     [captura("01-arranque")]);
 });
@@ -266,9 +284,11 @@ if (corre("vistas")) await escenario("6. Visualización de notas", async () => {
   const callouts = cuenta(".markdown-preview-view .callout");
   const rotos = cuenta(".markdown-preview-view a.internal-link.is-unresolved");
   const props = cuenta(".metadata-property");
-  const ok = !fallos.length && tachados > 0 && callouts >= 2 && props > 5;
+  // Lo derogado aparece tachado (DAFP) o suprimido como «(texto no vigente)» (Senado).
+  const noVigente = js(`String(document.querySelector(".workspace-leaf.mod-active .markdown-preview-view")?.textContent.includes("texto no vigente"))`) === "true";
+  const ok = !fallos.length && (tachados > 0 || noVigente) && callouts >= 2 && props > 5;
   registrar("6. Visualización de notas", ok,
-    `art. 22 CGP: ${tachados} tachados, ${callouts} callouts, ${props} propiedades, ${rotos} enlaces sin resolver. ${fallos.join("; ")}`, caps);
+    `art. 22 CGP: ${tachados} tachados, «texto no vigente»: ${noVigente}, ${callouts} callouts, ${props} propiedades, ${rotos} enlaces sin resolver. ${fallos.join("; ")}`, caps);
 });
 
 if (corre("vista-previa")) await escenario("7. Vista previa al pasar el ratón", async () => {

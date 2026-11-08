@@ -118,7 +118,12 @@ def consolidar(fuentes: list[Fuente]) -> Norma:
                     detalle_dif.append(f"{numero}: se toma {f.nombre} ({otras})")
         else:
             a.coincidencia = f"solo en {f.nombre}"
-        if not a.epigrafe:  # rúbrica de otra fuente si la elegida no la trae
+        # Rúbrica: la del DAFP si dice lo mismo (conserva la grafía oficial; el Senado
+        # suele escribirla en MAYÚSCULAS) o si la elegida no trae.
+        otra = next((b.epigrafe for g, b in versiones if g.nombre == "DAFP" and b.epigrafe), None)
+        if otra and (not a.epigrafe or _normalizar(otra) == _normalizar(a.epigrafe)):
+            a.epigrafe = otra
+        elif not a.epigrafe:
             a.epigrafe = next((b.epigrafe for _, b in versiones if b.epigrafe), None)
         a.fuente, a.url_fuente, a.reforma = f.nombre, f.url, reforma_de(a)
         a.tachado_explicito = f.tachado_explicito

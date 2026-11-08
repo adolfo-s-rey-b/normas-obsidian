@@ -104,7 +104,7 @@ RE_ETIQUETA = re.compile(
     r"CUART[OA]|QUINT[OA]|SEXT[OA]|S[ÉE]PTIM[OA]|OCTAV[OA]|NOVEN[OA]))?)\b\.?\s*[-–:.]?\s*(.*)$",
     re.I,
 )
-RE_NUMERAL = re.compile(r"^\s*(\d{1,3})\s*[º°]?\s*[\.\)]\s+")
+RE_NUMERAL = re.compile(r"^\s*(\d{1,3})\s*[º°]?\s*[\.\)](?:\s+|$)")
 RE_LITERAL = re.compile(r"^\s*([a-zñ])\)\s+", re.I)
 RE_PARAGRAFO = re.compile(r"^\s*par[áa]grafo\b", re.I)
 RE_TITULO_NORMA = re.compile(

@@ -109,7 +109,8 @@ def _re_codigos(reg: Registry) -> re.Pattern | None:
     return _cache_codigos[clave]
 
 
-def marcadores(texto: str, etiqueta_actual: str | None, reg: Registry) -> list[tuple[int, int, str | None]]:
+def marcadores(texto: str, etiqueta_actual: str | None, reg: Registry, *,
+               misma: str | None | bool = True) -> list[tuple[int, int, str | None]]:
     """Marcadores de norma en ``texto``: ``(inicio, fin, etiqueta|None)``.
 
     ``None`` significa «norma desconocida»: los números previos no se enlazan.
@@ -126,7 +127,9 @@ def marcadores(texto: str, etiqueta_actual: str | None, reg: Registry) -> list[t
     for m in RE_CODIGO_DESCONOCIDO.finditer(texto):
         hallados.append((m.start(), m.end(), None))
     for m in RE_MISMA.finditer(texto):
-        hallados.append((m.start(), m.end(), etiqueta_actual))
+        # «de la presente ley»: en el texto de la norma es ella misma; en una nota
+        # (misma=None) suele ser la ley reformadora citada → desconocida.
+        hallados.append((m.start(), m.end(), etiqueta_actual if misma is True else misma))
     for m in RE_ANAFORA.finditer(texto):
         hallados.append((m.start(), m.end(), None))
     for m in RE_ABREV.finditer(texto):
@@ -214,7 +217,8 @@ def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry, *, heredar: 
             # Solo normas nombradas muy cerca («Decreto 1510 de 2013, artículo 4») o en
             # cadena inmediata («Art. 6; Art. 7»); en prosa larga no se hereda.
             tramo = texto[pos:m.start()]
-            cerca = [e for (_, b, e) in marcadores(tramo, etiqueta_actual, reg) if len(tramo) - b <= 60]
+            cerca = [e for (_, b, e) in marcadores(tramo, etiqueta_actual, reg, misma=None)
+                     if e is not None and len(tramo) - b <= 60]
             if cerca:
                 previa = cerca[-1]
             elif len(tramo) > 25:
@@ -225,7 +229,7 @@ def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry, *, heredar: 
         ini = m.end()
         fin, natural = _clausula_fin(texto, ini)
         clausula = texto[ini:fin]
-        marcs = marcadores(clausula, etiqueta_actual, reg)
+        marcs = marcadores(clausula, etiqueta_actual, reg, misma=None if heredar else True)
         if not marcs and heredar:
             # En notas, sin norma explícita ni heredada cercana no se enlaza (suelen ser
             # citas de sentencias o concordancias de otra norma).

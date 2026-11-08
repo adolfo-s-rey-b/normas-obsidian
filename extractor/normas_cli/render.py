@@ -143,8 +143,13 @@ def _vigencia(art: Articulo, tachados: int, estado_norma: str | None) -> str:
         t = b.texto.lower()
         if RE_ART_COMPLETO.search(b.texto) or (not contenido and b.clase_nota == "warning"):
             return "inexequible" if "inexequible" in t and "deroga" not in t else "derogado"
-    if tachados:
-        if any("inexequible" in b.texto.lower() for b in notas if b.clase_nota == "warning"):
+    # Derogatorias o inexequibilidades de una parte (numeral, inciso, literal…): el
+    # Senado suprime ese texto en lugar de tacharlo, así que basta con la nota.
+    parciales = [b for b in notas if b.clase_nota == "warning"
+                 and re.search(r"\b(numeral|inciso|literal|par[áa]grafo|aparte|expresi[óo]n|ordinal)",
+                               b.texto, re.I)]
+    if tachados or parciales:
+        if any("inexequible" in b.texto.lower() for b in (parciales or notas) if b.clase_nota == "warning"):
             return "parcialmente inexequible"
         return "parcialmente derogado"
     if any(b.clase_nota == "info" for b in notas):
@@ -358,6 +363,8 @@ class Renderizador:
                     and not RE_ART_COMPLETO.search(sig.texto)) or articulo_completo:
                 texto = f"~~{texto}~~"
                 tachados += 1
+            if b.tipo in ("numeral", "literal") and not texto.strip():
+                texto = "*(texto no vigente)*"
             if b.tipo == "numeral":
                 partes.append(f"{b.marca}\\. {texto}")
             elif b.tipo == "literal":

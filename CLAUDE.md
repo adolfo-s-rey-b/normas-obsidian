@@ -92,6 +92,12 @@ separado.
   abierto, los comandos podrían caer en su vault real (con Sync). Mantenerlo cerrado.
 - `obsidian eval` **no espera** promesas largas: lanzar la tarea y sondear
   (`tarea()` en `e2e/run.mjs`). Nunca lanzar descargas en paralelo desde eval.
+- Bóveda nueva: Obsidian muestra «¿Confía en el autor de esta bóveda?» (o abre
+  Preferencias) y no carga complementos hasta aceptarlo: `run.mjs` lo acepta
+  (`activarComplementos`).
+- Arrancar **primero la app** y esperar a que `e2e/obsidian.sh version` responda: si
+  se invoca el CLI sin app abierta, sus clientes (también procesos Electron)
+  retienen el bloqueo de instancia única y la app ya no arranca (bloqueo mutuo).
 - Para cerrar la instancia de pruebas, matar el PID de
   `/usr/lib/electron43/electron /usr/lib/obsidian/app.asar` (no usar `pkill -f`
   con ese patrón: coincide con el propio shell).
