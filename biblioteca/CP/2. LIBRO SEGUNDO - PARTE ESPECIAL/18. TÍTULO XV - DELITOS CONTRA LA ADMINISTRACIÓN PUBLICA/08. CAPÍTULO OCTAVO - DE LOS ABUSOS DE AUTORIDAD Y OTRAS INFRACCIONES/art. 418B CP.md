@@ -12,6 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "418B"
+epigrafe: "REVELACIÓN DE SECRETO CULPOSA"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XV|TÍTULO XV - DELITOS CONTRA LA ADMINISTRACIÓN PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XV - Capítulo Octavo|CAPÍTULO OCTAVO - DE LOS ABUSOS DE AUTORIDAD Y OTRAS INFRACCIONES]]"
@@ -21,7 +22,10 @@ modificado_por:
 anterior: "[[art. 418 CP]]"
 siguiente: "[[art. 419 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#418B"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -30,7 +34,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XV|Título XV]] › [[CP - Libro Segundo - Título XV - Capítulo Octavo|Capítulo Octavo]]
 
-## Artículo 418B
+## Artículo 418B. REVELACIÓN DE SECRETO CULPOSA
 
 > [!info] Adicionado por el PARÁGRAFO 1 del art. [[art. 25 Ley 1288 de 2009|25]], Ley 1288 de 2009
 

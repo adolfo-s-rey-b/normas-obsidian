@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título X - Capítulo 1|CAPÍTULO 1 - De la Contraloría Gen
 vigencia: "vigente"
 anterior: "[[art. 269 CPol]]"
 siguiente: "[[art. 271 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#270"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,25 +35,11 @@ tags:
 
 La ley organizará las formas y los sistemas de participación ciudadana que permitan vigilar la gestión pública que se cumpla en los diversos niveles administrativos y sus resultados.
 
-> [!note] Ver Constitución Política; Art. [[art. 103 CPol|103]] Inc. 2
+> [!note] Concordancias: Constitución Política; Art. [[art. 103 CPol|103]] Inc. 2o. Ley 80 de 1993; Art. [[art. 41 Ley 80 de 1993|41]] , Parágrafo 3o.; Art. [[art. 42 Ley 80 de 1993|42]] , Parágrafo 1o.; Art. [[art. 43 Ley 80 de 1993|43]] ; Art. [[art. 66 Ley 134 de 1994|66]] Ley 134 de 1994; Art. [[art. 100 Ley 199 de 1995|100]] Ley 199 de 1995; Art. [[art. 21 Ley 489 de 1998|21]] Ley 489 de 1998; Art. [[art. 32 Ley 489 de 1998|32]] ; Art. [[art. 33 Ley 489 de 1998|33]] ; Art. [[art. 34 Ley 489 de 1998|34]] ; Art. [[art. 35 Ley 563 de 2000|35]] Ley 563 de 2000 Ley 720 de 2001 Ley 850 de 2003 Ley 1757 de 2015 Ley 1909 de 2018; Art. [[art. 22 Ley 1909 de 2018|22]]
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 41 Ley 80 de 1993|41]], PARÁGRAFO 3.; Art. [[art. 42 Ley 80 de 1993|42]], PARÁGRAFO 1.; Art. [[art. 43 Ley 80 de 1993|43]] ; Art. [[art. 66 Ley 80 de 1993|66]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-534-93 ; C-507-2001 ; C-580-2001 ; C-161-08 ;
 
-> [!note] Ver Ley 134 de 1994; Art. [[art. 100 Ley 134 de 1994|100]]
-
-> [!note] Ver Ley 199 de 1995; Art. [[art. 21 Ley 199 de 1995|21]]
-
-> [!note] Ver Ley 489 de 1998; Art. [[art. 32 Ley 489 de 1998|32]] al [[art. 35 Ley 489 de 1998|35]]
-
-> [!note] Ver Ley 720 de 2001
-
-> [!note] Ver Ley 850 de 2003
-
-> [!note] Ver Ley 1757 de 2015
-
-> [!note] Ver Ley 1909 de 2018; Art. [[art. 22 Ley 1909 de 2018|22]]
-
-> [!note] Ver Sentencia de la Corte Constitucional: C-534-93
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 77)
 
 ---
 ← [[art. 269 CPol]] · ↑ [[CPol - Título X - Capítulo 1|Capítulo 1]] · [[art. 271 CPol]] →

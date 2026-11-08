@@ -4,12 +4,16 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "135"
-epigrafe: "Vigencia"
+epigrafe: "VIGENCIA"
 capitulo: "[[Ley 1474 de 2011 - Capítulo X|CAPÍTULO X - VIGENCIA]]"
 vigencia: "vigente"
 anterior: "[[art. 134 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#135"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -18,7 +22,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo X|Capítulo X]]
 
-## Artículo 135. Vigencia
+## Artículo 135. VIGENCIA
 
 La presente ley rige a partir de su promulgación y deroga las normas que le sean contrarias.
 

@@ -15,8 +15,9 @@ vigencia: "modificado"
 anterior: "[[art. 1053 CC]]"
 siguiente: "[[art. 1055 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2011
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc

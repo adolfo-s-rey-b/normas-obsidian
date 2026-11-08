@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]] (arts. 328 a 332)
+- [[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]] (arts. 328 a 332A)
 - [[CP - Libro Segundo - Título XI - Capítulo II|CAPÍTULO II - DE LOS DAÑOS EN LOS RECURSOS NATURALES]] (art. 333)
 - [[CP - Libro Segundo - Título XI - Capítulo III|CAPÍTULO III - DE LA CONTAMINACIÓN AMBIENTAL]] (arts. 334 a 335)
 - [[CP - Libro Segundo - Título XI - Capítulo IV|CAPÍTULO IV - DE LA INVASION DE AREAS DE ESPECIAL IMPORTANCIA ECOLOGICA]] (arts. 336 a 336A)

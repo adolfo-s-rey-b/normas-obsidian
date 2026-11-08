@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "31"
-epigrafe: "Naturaleza de los cargos"
+epigrafe: "NATURALEZA DE LOS CARGOS"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Cuarto|TÍTULO CUARTO - AUXILIARES DE LA JUSTICIA]]"
 vigencia: "vigente"
 anterior: "[[art. 30 CPTSS]]"
 siguiente: "[[art. 32 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#31"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -25,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Cuarto|Título Cuarto]]
 
-## Artículo 31. Naturaleza de los cargos
+## Artículo 31. NATURALEZA DE LOS CARGOS
 
 Los cargos de auxiliares de la justicia son oficios públicos ocasionales que deben ser desempeñados por personas idóneas e imparciales. Para cada oficio se requerirá idoneidad y experiencia en la respectiva materia y, cuando fuere el caso, garantía de su responsabilidad y cumplimiento.
 

@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo I|CAPÍTULO I - Autos y Sentencias]] (arts. 201 a 203)
-- [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo II|CAPÍTULO II - Condena en concreto]] (art. 204)
-- [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo III|CAPÍTULO III - Aclaración, corrección y adición de las providencias]] (arts. 205 a 207)
+- [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo I|CAPÍTULO I - AUTOS Y SENTENCIAS]] (arts. 201 a 203)
+- [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo II|CAPÍTULO II - CONDENA EN CONCRETO]] (art. 204)
+- [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo III|CAPÍTULO III - ACLARACIÓN, CORRECCIÓN Y ADICIÓN DE LAS PROVIDENCIAS]] (arts. 205 a 207)
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] · [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]] →

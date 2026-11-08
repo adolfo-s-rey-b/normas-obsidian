@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 5|CAPÍTULO 5 - De la función admin
 vigencia: "vigente"
 anterior: "[[art. 210 CPol]]"
 siguiente: "[[art. 212 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#211"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -32,33 +37,17 @@ La ley señalará las funciones que el Presidente de la República podrá delega
 
 La delegación exime de responsabilidad al delegante, la cual corresponderá exclusivamente al delegatario, cuyos actos o resoluciones podrá siempre reformar o revocar aquel, reasumiendo la responsabilidad consiguiente.
 
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-372-02
+
 La ley establecerá los recursos que se pueden interponer contra los actos de los delegatarios.
 
-> [!note] Ver Ley 30 de 1992, Art. [[art. 31 Ley 30 de 1992|31]] ; Art. [[art. 32 Ley 30 de 1992|32]] ; Art. [[art. 33 Ley 30 de 1992|33]]
+> [!note] Concordancias: Ley 30 de 1992, Art. [[art. 31 Ley 30 de 1992|31]] ; Art. [[art. 32 Ley 30 de 1992|32]] ; Art. [[art. 33 Ley 31 de 1992|33]] Ley 31 de 1992, Art. [[art. 47 Ley 49 de 1993|47]] Ley 49 de 1993; Art. [[art. 56 Ley 80 de 1993|56]] Ley 80 de 1993; Art. [[art. 12 Ley 115 de 1994|12]] Ley 115 de 1994; Art. [[art. 169 Ley 181 de 1995|169]] Ley 181 de 1995; Art. [[art. 84 Decreto 2150 de 1995|84]] Decreto 2150 de 1995; Art. [[art. 37 Ley 434 de 1998|37]] Ley 434 de 1998; Art. [[art. 8 Ley 434 de 1998|8]] o. Art. [[art. 9 Ley 472 de 1998|9]] Ley 472 de 1998; Art. [[art. 40 Ley 472 de 1998|40]] Inc. 2o. Ley 489 de 1998; Art. [[art. 9 Ley 489 de 1998|9]] o.; Art. [[art. 10 Ley 489 de 1998|10]] ; Art. [[art. 11 Ley 489 de 1998|11]] ; Art. [[art. 12 Ley 489 de 1998|12]] ; Art. [[art. 13 Ley 489 de 1998|13]] ; Art. [[art. 14 Ley 678 de 2001|14]] Ley 678 de 2001; Art. [[art. 2 Ley 678 de 2001|2]] o. Par. 4o.
 
-> [!note] Ver Ley 31 de 1992, Art. [[art. 47 Ley 31 de 1992|47]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-337-93 ; C-505-93 ; C-496-98 ; C-561-99 ; C-727-2000 ; C-199-2001 ; C-540-2001 ; C-837-2001 ; C-949-2001 ; C-1258-2001 ; C-1293-2001 ; C-036-05 ; C-693-08 ; C-1183-08 ;
 
-> [!note] Ver Ley 49 de 1993; Art. [[art. 56 Ley 49 de 1993|56]]
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 62)
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 12 Ley 80 de 1993|12]]
-
-> [!note] Ver Ley 115 de 1994; Art. [[art. 169 Ley 115 de 1994|169]]
-
-> [!note] Ver Ley 181 de 1995; Art. [[art. 84 Ley 181 de 1995|84]]
-
-> [!note] Ver Decreto 2150 de 1995; Art. [[art. 37 Decreto 2150 de 1995|37]]
-
-> [!note] Ver Ley 434 de 1998; Art. [[art. 8 Ley 434 de 1998|8]]o . Art. [[art. 9 Ley 434 de 1998|9]]
-
-> [!note] Ver Ley 472 de 1998; Art. [[art. 40 Ley 472 de 1998|40]] Inc. 2
-
-> [!note] Ver Ley 489 de 1998; Art. [[art. 9 Ley 489 de 1998|9]] al [[art. 14 Ley 489 de 1998|14]]
-
-> [!note] Ver Ley 678 de 2001; Art. [[art. 2 Ley 678 de 2001|2]]o. PARÁGRAFO 4
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-337-93 ; C-505-93; C-496-98; C-561-99; C-727-2000 ; C-199-2001; C-540-2001 ; C-837-2001 ; C-949-2001 ; C-1258-2001 ; C-1293-2001 ; C-036-05; C-693-08; C-1183-08
-
-CAPÍTULO 6.
+CAPITULO 6.
 
 DE LOS ESTADOS DE EXCEPCION
 

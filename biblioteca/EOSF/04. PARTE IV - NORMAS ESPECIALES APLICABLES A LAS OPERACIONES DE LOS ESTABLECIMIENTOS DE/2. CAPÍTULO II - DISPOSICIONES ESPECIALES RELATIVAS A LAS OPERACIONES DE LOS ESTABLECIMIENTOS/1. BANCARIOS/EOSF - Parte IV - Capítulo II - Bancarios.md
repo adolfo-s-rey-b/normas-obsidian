@@ -1,0 +1,36 @@
+---
+aliases:
+  - "EOSF BANCARIOS"
+tipo: indice
+norma: "Decreto 663 de 1993"
+sigla: "EOSF"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "BANCARIOS"
+parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
+capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
+articulos: "arts. 124 a 131"
+tags:
+  - normas/indice
+  - normas/eosf
+---
+
+[[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]]
+
+## BANCARIOS
+
+*Arts. 124 a 131*
+
+### Contenido
+
+- [[art. 124 EOSF|Artículo 124]] — ASPECTOS GENERALES
+- [[art. 125 EOSF|Artículo 125]] — NORMAS SOBRE CUENTAS CORRIENTES BANCARIAS
+- [[art. 126 EOSF|Artículo 126]] — NORMAS SOBRE SECCIONES DE AHORROS
+- [[art. 127 EOSF|Artículo 127]] — CONDICIONES DE LOS DEPOSITOS DE AHORROS
+- [[art. 128 EOSF|Artículo 128]] — TASAS DE INTERES EN OPERACIONES PASIVAS
+- [[art. 129 EOSF|Artículo 129]] — ASPECTOS RELATIVOS A LOS BANCOS HIPOTECARIOS
+- [[art. 130 EOSF|Artículo 130]] — DISPOSICIONES RELATIVAS A LAS CEDULAS HIPOTECARIAS
+- [[art. 131 EOSF|Artículo 131]] — INVERSIONES DE LOS BANCOS COOPERATIVOS
+
+---
+↑ [[EOSF - Parte IV - Capítulo II|Capítulo II]]

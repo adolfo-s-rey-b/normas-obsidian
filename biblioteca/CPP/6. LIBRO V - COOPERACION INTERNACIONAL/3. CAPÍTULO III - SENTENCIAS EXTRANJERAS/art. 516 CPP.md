@@ -14,8 +14,12 @@ capitulo: "[[CPP - Libro V - Capítulo III|CAPÍTULO III - SENTENCIAS EXTRANJERA
 vigencia: "vigente"
 anterior: "[[art. 515 CPP]]"
 siguiente: "[[art. 517 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#516"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
@@ -32,7 +36,7 @@ Para que la sentencia extranjera pueda ser ejecutada en nuestro país deben cump
 
 2\. Que la sentencia se encuentre en firme de conformidad con las disposiciones del país extranjero.
 
-3\. Que en Colombia no se haya formulado acusación, ni sentencia ejecutoriada de los jueces nacionales, sobre los mismos hechos, salvo lo previsto en el numeral 1 del artículo [[art. 16 CP|16]] del Código Penal.
+3\. Que en Colombia no se haya formulado acusación, ni sentencia ejecutoriada de los jueces nacionales, sobre los mismos hech os, salvo lo previsto en el numeral 1 del artículo [[art. 16 CP|16]] del Código Penal.
 
 4\. Que a falta de tratados públicos, el Estado requirente ofrezca reciprocidad en casos análogos.
 

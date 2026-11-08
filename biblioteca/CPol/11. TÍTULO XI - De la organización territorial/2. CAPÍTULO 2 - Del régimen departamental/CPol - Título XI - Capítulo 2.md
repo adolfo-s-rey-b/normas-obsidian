@@ -31,7 +31,7 @@ tags:
 - [[art. 303 CPol|Artículo 303]]
 - [[art. 304 CPol|Artículo 304]]
 - [[art. 305 CPol|Artículo 305]]
-- [[art. 306 CPol|Artículo 306]]
+- [[art. 306 CPol|Artículo 306]] — (sic)
 - [[art. 307 CPol|Artículo 307]]
 - [[art. 308 CPol|Artículo 308]]
 - [[art. 309 CPol|Artículo 309]]

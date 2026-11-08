@@ -20,6 +20,8 @@ tags:
 
 *Arts. 1910 a 1936*
 
+> [!warning] Notas de Vigencia: Este Título fue derogado expresamente por el artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto extraordinario 350 de 1989, que trataba del concordato preventivo potestativo y del concordato preventivo obligatorio. El artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto estableció que su vigencia comenzaba el 1o. de mayo de 1989. - El Decreto extraordinario 350 de 1989 fue derogado expresamente por el artículo [[art. 242 Ley 222 de 1995|242]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995. - El Título II 'RÉGIMEN DE PROCESOS CONCURSALES' de la Ley 222 de 1995, 'Por la cual se modifica el Libro II del Código de Comercio, se expide un nuevo régimen de procesos concursales y se dictan otras disposiciones', publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, establece y desarrolla las modalidades del trámite concursal: un concordato o acuerdo de recuperación de los negocios del deudor, o un concurso liquidatorio respecto de los bienes que conforman el patrimonio del deudor.
+
 ### Contenido
 
 - [[art. 1910 CCo|Artículo 1910]] — CONDICIONES PARA SOLICITAR CONCORDATO
@@ -33,7 +35,7 @@ tags:
 - [[art. 1918 CCo|Artículo 1918]] — PRESENTACIÓN EN EL PROCESO DE LOS ACREEDORES CON GARANTÍAS REALES - ALTERNATIVAS DURANTE EL PROCESO
 - [[art. 1919 CCo|Artículo 1919]] — TÉRMINO PARA OBJETAR LOS CRÉDITOS PRESENTADOS - DECISIÓN DEL JUEZ SOBRE CRÉDITOS ADMISIBLES
 - [[art. 1920 CCo|Artículo 1920]] — CRÉDITOS CON PREFERENCIA EN EL PAGO - IMPUGNACIÓN
-- [[art. 1921 CCo|Artículo 1921]]
+- [[art. 1921 CCo|Artículo 1921]] — FACULTAD DEL DEUDOR DE ADMINISTRAR SUS BIENES Y NEGOCIOS DURANTE LA TRAMITACIÓN DEL CONTRATO PREVENTIVO - LIMITACIONES AL DEUDOR - POSIBILIDAD DE LOS ACREEDORES DE NOMBRAR UN VIGILANTE DE LA ADMINISTRACIÓN
 - [[art. 1922 CCo|Artículo 1922]] — DELIBERACIONES - REGLAS DE DECISIÓN
 - [[art. 1923 CCo|Artículo 1923]] — FACULTADES DEL DEUDOR CUANDO CONSERVA LA ADMINISTRACIÓN DEL NEGOCIO - MEDIDAS DE VIGILANCIA
 - [[art. 1924 CCo|Artículo 1924]] — ACEPTACIÓN DE CRÉDITOS RECHAZADOS - TRANSACCIONES SOBRE LOS CRÉDITOS

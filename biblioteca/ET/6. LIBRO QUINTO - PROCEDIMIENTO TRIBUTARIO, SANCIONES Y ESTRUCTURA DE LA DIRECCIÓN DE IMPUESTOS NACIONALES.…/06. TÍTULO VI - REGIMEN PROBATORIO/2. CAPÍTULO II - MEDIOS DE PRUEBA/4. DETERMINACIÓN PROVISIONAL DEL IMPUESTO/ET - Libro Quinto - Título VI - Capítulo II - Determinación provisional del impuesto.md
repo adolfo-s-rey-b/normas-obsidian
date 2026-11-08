@@ -1,0 +1,36 @@
+---
+aliases:
+  - "ET DETERMINACIÓN PROVISIONAL DEL IMPUESTO"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "RUBRO"
+etiqueta: ""
+nombre: "DETERMINACIÓN PROVISIONAL DEL IMPUESTO"
+libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
+titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
+capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
+articulos: "arts. 764 a 764-6"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]]
+
+## DETERMINACIÓN PROVISIONAL DEL IMPUESTO
+
+*Arts. 764 a 764-6*
+
+### Contenido
+
+- [[art. 764 ET|Artículo 764]] — LIQUIDACIÓN PROVISIONAL
+- [[art. 764-1 ET|Artículo 764-1]] — PROCEDIMIENTO PARA PROFERIR, ACEPTAR, RECHAZAR O MODIFICAR LA LIQUIDACIÓN PROVISIONAL
+- [[art. 764-2 ET|Artículo 764-2]] — RECHAZO DE LA LIQUIDACIÓN PROVISIONAL O DE LA SOLICITUD DE MODIFICACIÓN DE LA MISMA
+- [[art. 764-3 ET|Artículo 764-3]] — SANCIONES EN LA LIQUIDACIÓN PROVISIONAL
+- [[art. 764-4 ET|Artículo 764-4]] — FIRMEZA DE LAS DECLARACIONES TRIBUTARIAS PRODUCTO DE LA ACEPTACIÓN DE LA LIQUIDACIÓN PROVISIONAL
+- [[art. 764-5 ET|Artículo 764-5]] — NOTIFICACIÓN DE LA LIQUIDACIÓN PROVISIONAL Y DEMÁS ACTOS
+- [[art. 764-6 ET|Artículo 764-6]] — DETERMINACIÓN Y DISCUSIÓN DE LAS ACTUACIONES QUE SE DERIVEN DE UNA LIQUIDACIÓN PROVISIONAL
+
+---
+← [[ET - Libro Quinto - Título VI - Capítulo II - Facultad para presumir ingresos|Facultad para presumir ingresos]] · ↑ [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] · [[ET - Libro Quinto - Título VI - Capítulo II - Prueba documental|Prueba documental]] →

@@ -12,6 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "38F"
+epigrafe: "PAGO DEL MECANISMO DE VIGILANCIA ELECTRÓNICA"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -21,7 +22,11 @@ modificado_por:
 anterior: "[[art. 38E CP]]"
 siguiente: "[[art. 38G CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#38F"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2014
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -30,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 38F
+## Artículo 38F. PAGO DEL MECANISMO DE VIGILANCIA ELECTRÓNICA
 
 > [!info] Adicionado por el art. [[art. 27 Ley 1709 de 2014|27]], Ley 1709 de 2014
 

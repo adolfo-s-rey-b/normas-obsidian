@@ -17,8 +17,9 @@ modificado_por:
 anterior: "[[art. 1610 CC]]"
 siguiente: "[[art. 1612 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1887
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -35,7 +36,9 @@ La promesa de celebrar un contrato no produce obligación alguna, salvo que conc
 
 1a.) Que la promesa conste por escrito.
 
-2a.) Que el contrato a que la promesa se refiere no sea de aquellos que las leyes declaran ineficaces por no concurrir los requisitos que establece el artículo [[art. 1511 CC|1511]] <sic 1502 > del Código Civil.
+2a.) Que el contrato a que la promesa se refiere no sea de aquellos que las leyes declaran ineficaces por no concurrir los requisitos que establece el artículo [[art. 1511 CC|1511]] del Código Civil.
+
+(sic 1502)
 
 3a.) Que la promesa contenga un plazo o condición que fije la época en que ha de celebrarse el contrato.
 

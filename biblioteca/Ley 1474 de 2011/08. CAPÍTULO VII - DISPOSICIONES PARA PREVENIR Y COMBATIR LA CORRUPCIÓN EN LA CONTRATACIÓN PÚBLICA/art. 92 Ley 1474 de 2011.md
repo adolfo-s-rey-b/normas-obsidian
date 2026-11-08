@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "92"
-epigrafe: "Contratos interadministrativos"
+epigrafe: "CONTRATOS INTERADMINISTRATIVOS"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 91 Ley 1474 de 2011]]"
 siguiente: "[[art. 93 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#92"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,9 +23,9 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 92. Contratos interadministrativos
+## Artículo 92. CONTRATOS INTERADMINISTRATIVOS
 
-Modificase el inciso primero del literal c) del numeral 4 del artículo [[art. 2 Ley 1150 de 2007|2]] de la Ley 1150 de 2007, el cual quedará así:
+Modifícase el inciso primero del literal c) del numeral 4 del artículo [[art. 2 Ley 1150 de 2007|2]]o de la Ley 1150 de 2007, el cual quedará así:
 
 c) Contratos interadministrativos, siempre que las obligaciones derivadas del mismo tengan relación directa con el objeto de la entidad ejecutora señalado en la ley o en sus reglamentos.
 

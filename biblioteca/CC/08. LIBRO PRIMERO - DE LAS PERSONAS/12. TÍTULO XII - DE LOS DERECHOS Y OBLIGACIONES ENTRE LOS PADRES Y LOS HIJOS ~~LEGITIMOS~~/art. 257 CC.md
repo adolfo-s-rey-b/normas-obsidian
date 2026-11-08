@@ -17,8 +17,9 @@ modificado_por:
 anterior: "[[art. 256 CC]]"
 siguiente: "[[art. 258 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1974
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,9 +32,9 @@ tags:
 
 Los gastos de crianza, educación y establecimiento de los hijos legítimos, pertenecen a la sociedad conyugal, según las reglas que, tratando de ella, se dirán.
 
-> [!info] Inciso segundo modificado por el artículo [[art. 19 Decreto 2820 de 1974|19]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
-
 Si el marido y la mujer vivieren bajo estado de separación de bienes, deben contribuir a dichos gastos en proporción a sus facultades.
+
+> [!info] Inciso segundo modificado por el artículo [[art. 19 Decreto 2820 de 1974|19]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
 
 Pero si un hijo tuviere bienes propios, los gastos de su establecimiento, y, en caso necesario, los de su crianza y educación, podrán sacarse de ellos, conservándose íntegros los capitales en cuanto sea posible.
 

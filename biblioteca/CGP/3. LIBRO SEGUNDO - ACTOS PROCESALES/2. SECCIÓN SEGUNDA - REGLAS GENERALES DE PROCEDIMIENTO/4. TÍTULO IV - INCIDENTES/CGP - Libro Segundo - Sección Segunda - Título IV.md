@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|CAPÍTULO I - Disposiciones Generales]] (arts. 127 a 131)
-- [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|CAPÍTULO II - Nulidades Procesales]] (arts. 132 a 138)
+- [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]] (arts. 127 a 131)
+- [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|CAPÍTULO II - NULIDADES PROCESALES]] (arts. 132 a 138)
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] · ↑ [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] · [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] →

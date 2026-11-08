@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 1|CAPÍTULO 1 - De los derechos funda
 vigencia: "vigente"
 anterior: "[[art. 26 CPol]]"
 siguiente: "[[art. 28 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#27"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2007
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,15 +33,13 @@ tags:
 
 ## Artículo 27
 
-El Estado garantiza las libertades de enseñanza, aprendizaje, investigación y catedra.
+El Estado garantiza las libertades de enseñanza, aprendizaje, investigación y cátedra.
 
-> [!note] Ver Constitución Política; Art. [[art. 71 CPol|71]]
+> [!note] Concordancias: Constitución Política; Art. [[art. 71 Ley 70 de 1993|71]] Ley 70 de 1993; Art. [[art. 36 Ley 198 de 1995|36]] Ley 198 de 1995
 
-> [!note] Ver Ley 70 de 1993; Art. [[art. 36 Ley 70 de 1993|36]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-016-93 ; C-027-93 ; C-246-93 ; C-378-93 ; C-008-01 ; C-505-2001 ; C-673-2001 ; C-1053-2001 : C-457-04 ; C-832-07 ;
 
-> [!note] Ver Ley 198 de 1995
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-016-93; C-027-93; C-246-93; C-378-93; C-008-01; C-505-2001; C-673-2001; C-1053-2001; C-457-04; C-832-07
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 5, 12, 21, 23 y 34)
 
 ---
 ← [[art. 26 CPol]] · ↑ [[CPol - Título II - Capítulo 1|Capítulo 1]] · [[art. 28 CPol]] →

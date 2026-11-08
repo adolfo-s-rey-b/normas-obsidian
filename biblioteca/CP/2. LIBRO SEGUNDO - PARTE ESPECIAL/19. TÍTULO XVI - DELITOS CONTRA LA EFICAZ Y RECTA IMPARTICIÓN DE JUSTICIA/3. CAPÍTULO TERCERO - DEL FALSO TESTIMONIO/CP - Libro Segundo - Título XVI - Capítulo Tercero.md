@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 442 CP|Artículo 442]]
+- [[art. 442 CP|Artículo 442]] — FALSO TESTIMONIO
 - [[art. 443 CP|Artículo 443]] — Circunstancia de atenuacion
-- [[art. 444 CP|Artículo 444]]
+- [[art. 444 CP|Artículo 444]] — SOBORNO
 - [[art. 444A CP|Artículo 444A]]
 
 ---

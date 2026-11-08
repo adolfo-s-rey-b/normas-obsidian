@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 524 CGP|Artículo 524]] — Legitimación
-- [[art. 525 CGP|Artículo 525]] — Trámite
-- [[art. 526 CGP|Artículo 526]] — Vinculación de la sociedad y los socios
-- [[art. 527 CGP|Artículo 527]] — Defensa por parte de la sociedad
-- [[art. 528 CGP|Artículo 528]] — Audiencia inicial
-- [[art. 529 CGP|Artículo 529]] — Sentencia
-- [[art. 530 CGP|Artículo 530]] — Reglas de la liquidación
+- [[art. 524 CGP|Artículo 524]] — LEGITIMACIÓN
+- [[art. 525 CGP|Artículo 525]] — TRÁMITE
+- [[art. 526 CGP|Artículo 526]] — VINCULACIÓN DE LA SOCIEDAD Y LOS SOCIOS
+- [[art. 527 CGP|Artículo 527]] — DEFENSA POR PARTE DE LA SOCIEDAD
+- [[art. 528 CGP|Artículo 528]] — AUDIENCIA INICIAL
+- [[art. 529 CGP|Artículo 529]] — SENTENCIA
+- [[art. 530 CGP|Artículo 530]] — REGLAS DE LA LIQUIDACIÓN
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título II|Título II]] · ↑ [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] · [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] →

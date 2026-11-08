@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 523 CGP|Artículo 523]] — Liquidación de sociedad conyugal o patrimonial a causa de sentencia judicial
+- [[art. 523 CGP|Artículo 523]] — LIQUIDACIÓN DE SOCIEDAD CONYUGAL O PATRIMONIAL A CAUSA DE SENTENCIA JUDICIAL
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] · ↑ [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] · [[CGP - Libro Tercero - Sección Tercera - Título III|Título III]] →

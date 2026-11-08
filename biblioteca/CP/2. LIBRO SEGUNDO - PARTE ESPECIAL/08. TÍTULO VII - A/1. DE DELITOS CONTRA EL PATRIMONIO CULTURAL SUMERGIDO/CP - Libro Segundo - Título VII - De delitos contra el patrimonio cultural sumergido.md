@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 269-1 CP|Artículo 269-1]]
+- [[art. 269-1 CP|Artículo 269-1]] — DELITOS CONTRA EL PATRIMONIO CULTURAL SUMERGIDO
 
 ---
 ↑ [[CP - Libro Segundo - Título VII (2)|Título VII]]

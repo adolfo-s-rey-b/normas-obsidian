@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - GENERALI
 vigencia: "vigente"
 anterior: "[[art. 828 CCo]]"
 siguiente: "[[art. 830 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#829"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -37,7 +41,7 @@ En los plazos de horas, días, meses y años, se seguirán las reglas que a cont
 
 **PARÁGRAFO 1o.** Los plazos de días señalados en la ley se entenderán hábiles; los convencionales, comunes.
 
-**PARÁGRAFO 2o .** Los plazos de gracia concedidos mediante acuerdo de las partes, con anterioridad al vencimiento del término, se entenderán como prórroga del mismo.
+**PARÁGRAFO 2o.** Los plazos de gracia concedidos mediante acuerdo de las partes, con anterioridad al vencimiento del término, se entenderán como prórroga del mismo.
 
 ---
 ← [[art. 828 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo I|Capítulo I]] · [[art. 830 CCo]] →

@@ -17,7 +17,8 @@ modificado_por:
 anterior: "[[art. 1 CPT]]"
 siguiente: "[[art. 3 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#2"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2008
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

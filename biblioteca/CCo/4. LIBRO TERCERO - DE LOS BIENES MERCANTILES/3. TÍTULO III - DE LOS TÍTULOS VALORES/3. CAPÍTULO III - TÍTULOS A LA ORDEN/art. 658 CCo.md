@@ -12,15 +12,19 @@ epigrafe: "ENDOSOS EN PROCURACIÓN O AL COBRO - DERECHOS Y OBLIGACIONES DEL ENDO
 libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
 titulo: "[[CCo - Libro Tercero - Título III|TÍTULO III - DE LOS TÍTULOS VALORES]]"
 capitulo: "[[CCo - Libro Tercero - Título III - Capítulo III|CAPÍTULO III - TÍTULOS A LA ORDEN]]"
-vigencia: "vigente"
+vigencia: "modificado"
 anterior: "[[art. 657 CCo]]"
 siguiente: "[[art. 659 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#658"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título III|Título III]] › [[CCo - Libro Tercero - Título III - Capítulo III|Capítulo III]]
@@ -32,6 +36,8 @@ El endoso que contenga la cláusula "en procuración", "al cobro" u otra equival
 El endosante que revoque la representación contenida en el endoso, deberá poner en conocimiento del deudor la revocatoria, cuando ésta no conste en el título o en un proceso judicial en que se pretenda hacer efectivo dicho título.
 
 Será válido el pago que efectúe el deudor al endosatario ignorando la revocación del poder.
+
+> [!info] Notas de Vigencia: Al final de la edición oficial del Decreto 410 de 1971, publicada en el Diario Oficial No. 33.339 del 16 de junio de 1971, aparece una nota que dice: 'IMPRESO EL TEXTO, SE OBSERVARON LOS SIGUIENTES ERRORES: ... artículo 658, líneas 6/7, dice 'de su representante', debe decir 'de un representante''. Se señala entre corchetes { ... } el aparte corregido.
 
 ---
 ← [[art. 657 CCo]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo III|Capítulo III]] · [[art. 659 CCo]] →

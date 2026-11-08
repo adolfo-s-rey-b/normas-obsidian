@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 221 CC]]"
 siguiente: "[[art. 223 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 222. IMPUGNACIÓN POR ASCENDIENTES
 
-<Artículo modificado por el artículo [[art. 8 Ley 1060 de 2006|8]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> Los ascendientes del padre o la madre tendrán derecho para impugnar la paternidad o la maternidad, aunque no tengan parte alguna en la sucesión de sus hijos, pero únicamente podrán intentar la acción con posterioridad a la muerte de estos y a más tardar dentro de los 140 días al conocimiento de la muerte.
+Los ascendientes del padre o la madre tendrán derecho para impugnar la paternidad o la maternidad, aunque no tengan parte alguna en la sucesión de sus hijos, pero únicamente podrán intentar la acción con posterioridad a la muerte de estos y a más tardar dentro de los 140 días al conocimiento de la muerte.
+
+> [!info] Artículo modificado por el artículo [[art. 8 Ley 1060 de 2006|8]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 8 Ley 1060 de 2006|8]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

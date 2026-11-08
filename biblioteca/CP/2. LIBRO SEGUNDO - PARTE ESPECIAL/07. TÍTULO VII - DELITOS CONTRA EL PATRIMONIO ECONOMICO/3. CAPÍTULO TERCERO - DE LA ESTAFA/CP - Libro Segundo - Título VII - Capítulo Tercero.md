@@ -24,7 +24,7 @@ tags:
 ### Contenido
 
 - [[art. 246 CP|Artículo 246]] — Estafa
-- [[art. 247 CP|Artículo 247]] — Circunstancias de agravación punitiva
+- [[art. 247 CP|Artículo 247]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
 
 ---
 ← [[CP - Libro Segundo - Título VII - Capítulo Segundo|Capítulo Segundo]] · ↑ [[CP - Libro Segundo - Título VII|Título VII]] · [[CP - Libro Segundo - Título VII - Capítulo Cuarto|Capítulo Cuarto]] →

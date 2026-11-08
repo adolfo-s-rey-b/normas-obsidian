@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|CAPÍTULO I - Competencia]] (arts. 15 a 34)
-- [[CGP - Libro Primero - Sección Primera - Título I - Capítulo II|CAPÍTULO II - Modo de ejercer sus atribuciones la Corte y los Tribunales]] (arts. 35 a 36)
+- [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|CAPÍTULO I - COMPETENCIA]] (arts. 15 a 34)
+- [[CGP - Libro Primero - Sección Primera - Título I - Capítulo II|CAPÍTULO II - MODO DE EJERCER SUS ATRIBUCIONES LA CORTE Y LOS TRIBUNALES]] (arts. 35 a 36)
 
 ---
 ↑ [[CGP - Libro Primero - Sección Primera|Sección Primera]] · [[CGP - Libro Primero - Sección Primera - Título II|Título II]] →

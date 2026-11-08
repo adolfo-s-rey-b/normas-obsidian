@@ -13,10 +13,14 @@ sigla: "CPol"
 articulo: "transitorio 2"
 titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
-anterior: "[[art. transitorio 1 CPol]]"
-siguiente: "[[art. transitorio 3 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+anterior: "[[art. transitorio (AL 1 de 2016) 4 CPol]]"
+siguiente: "[[art. transitorio (AL 2 de 2017) CPol]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -31,5 +35,7 @@ No podrán ser candidatos en dicha elección los delegatarios de la Asamblea Con
 
 Tampoco podrán serlo los funcionarios de la Rama Ejecutiva que no hubieren renunciado a su cargo antes del 14 de junio de 1991.
 
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 86)
+
 ---
-← [[art. transitorio 1 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 3 CPol]] →
+← [[art. transitorio (AL 1 de 2016) 4 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio (AL 2 de 2017) CPol]] →

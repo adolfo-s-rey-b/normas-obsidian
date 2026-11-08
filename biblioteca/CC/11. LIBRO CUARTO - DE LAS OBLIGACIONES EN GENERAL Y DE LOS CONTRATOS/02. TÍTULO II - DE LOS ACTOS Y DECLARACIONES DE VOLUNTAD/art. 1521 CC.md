@@ -18,7 +18,7 @@ anterior: "[[art. 1520 CC]]"
 siguiente: "[[art. 1522 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -37,7 +37,9 @@ Hay un objeto ilícito en la enajenación:
 
 3o.) De las cosas embargadas por decreto judicial, a menos que el juez lo autorice o el acreedor consienta en ello.
 
-4o.) <Ordinal derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil>.
+4o.) .
+
+> [!warning] Ordinal derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil
 
 > [!warning] Notas de Vigencia: Ordinal derogado por el artículo [[art. 698 CPC|698]] del C.P.C., publicado en el Diario Oficial No. 33.150 de 21 de septiembre de 1970.
 

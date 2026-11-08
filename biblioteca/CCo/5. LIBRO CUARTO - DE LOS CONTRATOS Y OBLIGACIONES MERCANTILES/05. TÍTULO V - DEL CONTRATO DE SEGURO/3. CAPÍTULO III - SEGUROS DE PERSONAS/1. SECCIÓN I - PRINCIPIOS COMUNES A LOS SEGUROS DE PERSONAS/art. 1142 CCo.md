@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo III - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 1141 CCo]]"
 siguiente: "[[art. 1143 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1142"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2010
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,9 +33,13 @@ tags:
 
 ## Artículo 1142. DESIGNACIÓN DE BENEFICIARIOS
 
+> [!note] Aparte subrayado CONDICIONALMENTE EXEQUIBLE
+
 Cuando no se designe beneficiario, o la designación se haga ineficaz o quede sin efecto por cualquier causa, tendrán la calidad de tales el cónyuge del asegurado, en la mitad del seguro, y los herederos de éste en la otra mitad.
 
 Igual regla se aplicará en el evento de que se designe genéricamente como beneficiarios a los herederos del asegurado.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado CONDICIONALMENTE EXEQUIBLE por los cargos examinados, en el entendido de que dicha expresión cobija por igual al compañero o compañera permanente, por la Corte Constitucional mediante Sentencia C-844-10 de 28 de octubre de 2010, Magistrada Ponente Dra. María Victoria Calle Correa.
 
 ---
 ← [[art. 1141 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo III - Sección I|Sección I]] · [[art. 1143 CCo]] →

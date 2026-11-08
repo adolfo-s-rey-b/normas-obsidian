@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo X|CAPÍTULO X - LIQUIDA
 vigencia: "vigente"
 anterior: "[[art. 253 CCo]]"
 siguiente: "[[art. 255 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#254"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Si los liquidadores no ejercitan la acción prevista en el artículo anterior, una vez requeridos por los acreedores sociales, éstos se subrogarán en la acción de repetición contra los asociados.
 
-La misma regla se aplicará cuando los liquidadores no cumplan lo prescrito en el artículo [[art. 243 CCo|243]].
+La misma regla se aplicará cuando los liquidadores no cumplan lo prescrito en el artículo [[art. 243 CCo|243]] .
 
 ---
 ← [[art. 253 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo X|Capítulo X]] · [[art. 255 CCo]] →

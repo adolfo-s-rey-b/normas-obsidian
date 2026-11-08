@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 393 CCo]]"
 siguiente: "[[art. 395 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#394"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 394. ACREDITACIÓN DE LA SUSCRIPCIÓN DE ACCIONES
 
 La suscripción de acciones, una vez obtenido el permiso para su colocación, no estará sometida a formalidades especiales y podrá acreditarse por cualquier medio de prueba.
+
+> [!note] Notas del Editor: En criterio del editor, este artículo debe interpretarse en el marco jurídico del mercado público de valores, reglamentado entre otras disposiciones por la Ley 32 de 1979, la Ley 35 de 1993, la Resolución 400 de 1995 Única de la Sala General de la Superintendencia de Valores, y la Resolución 1200 de 1995 Única del Superintendente de Valores..
 
 ---
 ← [[art. 393 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II - Sección II|Sección II]] · [[art. 395 CCo]] →

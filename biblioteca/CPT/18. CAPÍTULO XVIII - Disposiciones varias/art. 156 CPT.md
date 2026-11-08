@@ -13,7 +13,7 @@ capitulo: "[[CPT - Capítulo XVIII|CAPÍTULO XVIII - Disposiciones varias]]"
 vigencia: "derogado"
 anterior: "[[art. 155 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#156"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

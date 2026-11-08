@@ -12,7 +12,12 @@ derogado_por:
 anterior: "[[art. 70 Ley 80 de 1993]]"
 siguiente: "[[art. 72 Ley 80 de 1993]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#71"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
@@ -29,7 +34,7 @@ Cuando en el contrato no se hubiere pactado cláusula compromisoria, cualquiera 
 
 En el documento de compromiso que se suscriba se señalarán la materia objeto del arbitramento, la designación de árbitros, el lugar de funcionamiento del tribunal y la forma de proveer los costos del mismo.
 
-> [!note] NOTA: El art. [[art. 71 Ley 80 de 1993|71]], fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia 1436 de 2000, bajo el entendido que los árbitros nombrados para resolver los conflictos suscitados como consecuencia de la celebración, el desarrollo, la terminación y la liquidación de contratos celebrados entre el Estado y los particulares, no tienen competencia para pronunciarse sobre los actos administrativos dictados por la administración en desarrollo de sus poderes excepcionales.
+> [!note] NOTA: El art. 71, fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia 1436 de 2000, bajo el entendido que los árbitros nombrados para resolver los conflictos suscitados como consecuencia de la celebración, el desarrollo, la terminación y la liquidación de contratos celebrados entre el Estado y los particulares, no tienen competencia para pronunciarse sobre los actos administrativos dictados por la administración en desarrollo de sus poderes excepcionales.
 
 ---
 ← [[art. 70 Ley 80 de 1993]] · ↑ [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]] · [[art. 72 Ley 80 de 1993]] →

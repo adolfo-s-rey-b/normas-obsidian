@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 297 CC]]"
 siguiente: "[[art. 299 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1975
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,9 +33,9 @@ tags:
 
 > [!info] Artículo modificado por el artículo [[art. 32 Decreto 2820 de 1974|32]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
 
-> [!info] Inciso modificado por el artículo [[art. 5 Decreto 772 de 1975|5]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
-
 Los padres son responsables, en la administración de los bienes del hijo, por toda disminución o deterioro que se deba a culpa, aún leve, o a dolo.
+
+> [!info] Inciso modificado por el artículo [[art. 5 Decreto 772 de 1975|5]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Inciso 1o. modificado por el artículo [[art. 5 Decreto 772 de 1975|5]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975.
 

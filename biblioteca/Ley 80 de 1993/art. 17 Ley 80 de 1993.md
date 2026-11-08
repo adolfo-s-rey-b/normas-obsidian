@@ -4,39 +4,52 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "17"
-epigrafe: "De la Terminación Unilateral"
-vigencia: "vigente"
+epigrafe: "DE LA TERMINACIÓN UNILATERAL"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 50 Ley 789 de 2002]]"
+  - "[[art. 1 Ley 80 de 1993]]"
+  - "[[art. 15 Ley 550 de 1999]]"
 anterior: "[[art. 16 Ley 80 de 1993]]"
-siguiente: "[[art. 17B Ley 80 de 1993]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#17"
-fecha_extraccion: 2026-11-07
+siguiente: "[[art. 17A Ley 80 de 1993]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 17. De la Terminación Unilateral
+## Artículo 17. DE LA TERMINACIÓN UNILATERAL
 
 La entidad en acto administrativo debidamente motivado dispondrá la terminación anticipada del contrato en los siguientes eventos:
 
-1\. Cuando las exigencias del servicio público lo requieran o la situación de orden público lo imponga.
+1o. Cuando las exigencias del servicio público lo requieran o la situación de orden público lo imponga.
 
-2\. Por muerte o incapacidad física permanente del contratista, si es persona natural, o por disolución de la persona jurídica del contratista.
+2o. Por muerte o incapacidad física permanente del contratista, si es persona natural, o por disolución de la persona jurídica del contratista.
 
-> [!note] El texto subrayado fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-454 de 1994, en la medida en que la incapacidad física permanente impida de manera absoluta el cumplimiento de las obligaciones específicamente contractuales, cuando ellas dependan de las habilidades físicas del contratista.
+> [!note] Aparte subrayado del numeral 2o. CONDICIONALMENTE EXEQUIBLE
 
-3\. Por interdicción judicial o declaración de quiebra del contratista.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - Aparte subrayado del numeral 2o. declarado CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia No. C-454-94 de 20 de octubre de 1994, M.P. Dr. Fabio Morón Díaz, '... en la medida en que la incapacidad física permanente impida de manera absoluta el cumplimiento de las obligaciones específicamente contractuales, cuando ellas dependan de las habilidades físicas del contratista'. Problema jurídico: ¿El numeral 2o. del artículo [[art. 17 CPol|17]] de la Ley 80 establece una condición discriminatoria violatoria de la Constitución para aquellas personas que padezcan una limitación física? Extracto: En cuanto hace a la terminación unilateral del contrato, la ley 80 de 1993, establece los casos en que ésta podrá darse, ya que la administración expresa el interés público y éste debe prevalecer en caso de conflicto con el interés contractual y meramente económico; claro está, las correspondientes causales deben ser taxativamente señaladas por la ley, ya que obedecen a circunstancias de interés colectivo, o situaciones sobrevinientes que impiden la continuación en la ejecución del contrato y afectan los derechos de los contratistas. De otra parte, no obstante que en el numeral segundo se establece la causal de 'incapacidad física permanente del contratista', no puede entenderse en el sentido de que la persona del contratista, por el solo hecho de sufrir una incapacidad física permanente, esté destinado a no continuar con la ejecución del contrato, y que el Estado de manera inmediata dé lugar a la terminación unilateral; debe advertirse que la terminación unilateral, es un mecanismo de la administración que le permite darlo por terminado, cuando se presenten determinadas situaciones sobrevinientes al perfeccionamiento del contrato, por consideraciones que se relacionan con exigencias del servicio público, situación de orden público, incapacidad del contratista de ejecutarlo totalmente, debido a factores como lo son muerte, incapacidad física, y de carácter patrimonial. Para esta Corporación, la incapacidad física a que se refiere la parte acusada de artículo [[art. 17 Ley 80 de 1993|17]] de la ley 80 de 1993, debe interpretarse en el sentido de que aquella impida de manera absoluta el cumplimiento de las obligaciones específicamente contractuales, cuando ellas dependan de las habilidades físicas del contratista. En caso de incapacidad física del contratista, la administración deberá evaluar la situación concreta, y determinar, según sea conveniente, la posibilidad de que éste continúe con la ejecución del contrato hasta tanto sea posible, pues pueden presentarse situaciones en las cuales la persona a pesar de su incapacidad física permanente puede dar ejecución total al contrato. Así, es claro que para la aplicación de la figura, es necesario que exista relación de causalidad entre la incapacidad física con la imposibilidad del cumplimiento del contrato, pues de otra manera no existiría fundamento jurídico que habilite para la mencionada terminación, so pena de abuso de la posición de preeminencia del Estado desconociendo derechos de los particulares, pues a pesar de la existencia de los mismos debe buscarse siempre un equilibrio de las partes.
 
-4\. Por cesación de pagos, concurso de acreedores o embargos judiciales del contratista que afecten de manera grave el cumplimiento del contrato.
+3o. Por interdicción judicial o declaración de quiebra del contratista.
+
+4o. Por cesación de pagos, concurso de acreedores o embargos judiciales del contratista que afecten de manera grave el cumplimiento del contrato.
 
 Sin embargo, en los casos a que se refieren los numerales 2o. y 3o. de este artículo podrá continuarse la ejecución con el garante de la obligación.
 
 La iniciación de trámite concordatario no dará lugar a la declaratoria de terminación unilateral. En tal evento la ejecución se hará con sujeción a las normas sobre administración de negocios del deudor en concordato. La entidad dispondrá las medidas de inspección, control y vigilancia necesarias para asegurar el cumplimiento del objeto contractual e impedir la paralización del servicio.
 
-> [!note] Ver el Concepto de la Sec. de Hacienda 380 de 1997.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este inciso (parcial) por ineptitud de la demanda, mediante Sentencia C-620-12 de 9 de agosto de 2012, Magistrado Ponente Dr. Jorge Ignacio Pretelt Chaljub. Destaca el editor: 'Los procesos de reorganización son modalidades de procesos concursales y además según lo dispuesto en el numeral primero del artículo noveno de la ley 1116 de 2006 se generan por la cesación de pagos, por ello el numeral cuarto carecería de todo sentido si en ningún caso se permitiera la terminación del contrato cuando el contratista se encuentre en un proceso de reorganización. Por lo anterior, ambos incisos del artículo [[art. 17 Ley 80 de 1993|17]] de la ley 80 de 1993 solamente permiten una interpretación correcta de acuerdo con la cual según el último inciso de la norma la administración no puede declarar la terminación unilateral del contrato exclusivamente por la iniciación de trámite concordatario, pero en virtud de lo señalado en el numeral 4º sí podrá hacerlo cuando además se afecte de manera grave el cumplimiento del contrato. (...) La interpretación correcta de la norma exige también agregar que para aquellos eventos en los cuales el contratista esté en un proceso de reorganización pero el mismo no ponga en peligro el cumplimiento del contrato ' La entidad dispondrá las medidas de inspección, control y vigilancia necesarias para asegurar el cumplimiento del objeto contractual e impedir la paralización del servicio', tal como dispone la parte final del artículo [[art. 17 Ley 80 de 1993|17]] de la ley 80 de 1993. En este sentido, dentro del propio proceso de reorganización existen diversas formas para exigir el cumplimiento, distintas a que la propia administración pueda declarar la terminación unilateral del contrato (...) Por lo anterior, teniendo en cuenta que la administración sí puede declarar la terminación unilateral del contrato cuando estando en un proceso de reorganización afecte de manera grave el cumplimiento del contrato, esta Corporación considera que el cargo formulado por el actor carece de certeza y por ello se declarará inhibida para fallar sobre la constitucionalidad de la expresión demandada del artículo [[art. 17 Ley 80 de 1993|17]] de la Ley 80 de 1993. '
+
+> [!info] Notas del Editor: En criterio del editor, el Parágrafo 2o. del Artículo [[art. 50 Ley 789 de 2002|50]] de la Ley 789 de 2002 fue modificado por el Artículo [[art. 1 Ley 80 de 1993|1]] o. de la Ley 828 de 2003, publicada originalmente en el Diario Oficial No. 45.248 de 14 de julio de 2003 y posteriormente en el Diario Oficial No. 45.253 de 19 de julio de 2003. El nuevo texto no menciona la causal de terminación unilateral originalmente contemplada en la Ley 789 de 2002 , establece multas y la caducidad administrativa por el incumplimiento de las obligaciones parafiscales con el Sistema de Seguridad Social Integral, el Sena, el ICBF y las Cajas de Compensación Familiar. - En criterio del editor, el Parágrafo 2o. del Artículo [[art. 50 Ley 789 de 2002|50]] de la Ley 789 de 2002 adicionó una causal para la terminación unilateral de los contratos. La Ley 789 de 2002, 'por la cual se dictan normas para apoyar el empleo y ampliar la protección social y se modifican algunos artículos del Código Sustantivo de Trabajo', fue publicada en el Diario Oficial No 45.046 de 27 de diciembre de 2002. El Parágrafo 2o. del Artículo 50 mencionado esteblece en su versión original: 'ARTÍCULO 50 . CONTROL A LA EVASIÓN DE LOS RECURSOS PARAFISCALES. '... 'PARÁGRAFO 2o. Será causal de terminación unilateral de los contratos que celebren las Entidades públicas con personas jurídicas particulares, cuando se compruebe la evasión en el pago total o parcial de aportes por parte del contratista durante la ejecución del contrato frente a los sistemas de salud, pensiones, riesgos profesionales y aportes al Servicio Nacional de Aprendizaje, Instituto Colombiano de Bienestar Familiar y Cajas de Compensación Familiar. 'Se podrá enervar la causal, mediante el pago de los recursos dejados de cubrir, incrementados con los correspondientes intereses de mora dentro de los cinco (5) días siguientes a su notificación.' - En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 15 Ley 550 de 1999|15]] de la Ley 550 de 1999, 'por la cual se establece un régimen que promueva y facilite la reactivación empresarial y la reestructuración de los entes territoriales para asegurar la función social de las empresas y lograr el desarrollo armónico de las regiones y se dictan disposiciones para armonizar el régimen legal vigente con las normas de esta ley', publicada en segunda oportunidad en el Diario Oficial No. 43.940 de 19 de marzo de 2000. El texto referido en su versión original es el siguiente: 'ARTÍCULO 15 . CONTINUIDAD DE CONTRATOS. Por el hecho de la promoción o iniciación de la negociación de un acuerdo de reestructuración, no podrá decretarse la caducidad administrativa de los contratos celebrados entre el Estado y el empresario; y se tendrá por no escrita la cláusula en que se pacte que dicha promoción o iniciación sea causal de terminación de los contratos de tracto sucesivo. 'Son ineficaces, sin necesidad de declaración judicial, las estipulaciones que formen parte de cualquier acto o contrato y que tengan por objeto o finalidad impedir u obstaculizar directa o indirectamente la promoción, la negociación o la celebración de un acuerdo de reestructuración, mediante la terminación anticipada de contratos, la aceleración de obligaciones, la imposición de restricciones y, en general, a través de cualquier clase de prohibiciones, solicitud de autorizaciones o imposición de efectos desfavorables para el empresario que negocie o celebre un acuerdo de los previstos en esta ley. 'Las discrepancias sobre la ineficacia de una estipulación en el supuesto previsto en el presente artículo, serán decididas a solicitud del empresario o de cualquier acreedor por la Superintendencia de Sociedades, en ejercicio de funciones jurisdiccionales, mediante el procedimiento verbal sumario. De verificarse la ocurrencia de la ineficacia, el pago de los créditos a favor del correspondiente acreedor quedará legalmente postergado a la atención previa de todos los demás créditos, y la Superintendencia ordenará la cancelación inmediata de todas las garantías que hayan sido otorgadas por el empresario o por terceros para caucionarlos'.
 
 ---
-← [[art. 16 Ley 80 de 1993]] · ↑ [[Ley 80 de 1993|Ley 80 de 1993]] · [[art. 17B Ley 80 de 1993]] →
+← [[art. 16 Ley 80 de 1993]] · ↑ [[Ley 80 de 1993|Ley 80 de 1993]] · [[art. 17A Ley 80 de 1993]] →

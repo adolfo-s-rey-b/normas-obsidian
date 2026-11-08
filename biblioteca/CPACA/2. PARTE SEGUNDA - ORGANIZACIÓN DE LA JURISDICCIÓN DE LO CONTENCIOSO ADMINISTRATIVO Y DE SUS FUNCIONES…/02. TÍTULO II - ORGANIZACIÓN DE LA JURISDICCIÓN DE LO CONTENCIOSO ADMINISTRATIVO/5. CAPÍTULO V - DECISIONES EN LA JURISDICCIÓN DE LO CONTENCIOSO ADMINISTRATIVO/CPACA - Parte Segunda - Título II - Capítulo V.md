@@ -1,0 +1,33 @@
+---
+aliases:
+  - "CPACA CAPÍTULO V - DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO"
+tipo: indice
+norma: "Ley 1437 de 2011"
+sigla: "CPACA"
+nivel: "CAPÍTULO"
+etiqueta: "V"
+nombre: "DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO"
+parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
+titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
+articulos: "arts. 125 a 129"
+tags:
+  - normas/indice
+  - normas/cpaca
+---
+
+[[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]]
+
+## CAPÍTULO V - DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
+
+*Arts. 125 a 129*
+
+### Contenido
+
+- [[art. 125 CPACA|Artículo 125]] — DE LA EXPEDICIÓN DE PROVIDENCIAS
+- [[art. 126 CPACA|Artículo 126]] — QUÓRUM DELIBERATORIO EN EL CONSEJO DE ESTADO
+- [[art. 127 CPACA|Artículo 127]] — QUÓRUM PARA ELECCIONES EN EL CONSEJO DE ESTADO
+- [[art. 128 CPACA|Artículo 128]] — QUÓRUM PARA OTRAS DECISIONES EN EL CONSEJO DE ESTADO
+- [[art. 129 CPACA|Artículo 129]] — FIRMA DE PROVIDENCIAS, CONCEPTOS, DICTÁMENES, SALVAMENTOS DE VOTO Y ACLARACIONES DE VOTO
+
+---
+← [[CPACA - Parte Segunda - Título II - Capítulo IV|Capítulo IV]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo VI|Capítulo VI]] →

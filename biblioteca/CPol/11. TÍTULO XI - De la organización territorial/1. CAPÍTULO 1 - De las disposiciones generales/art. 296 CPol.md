@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 1|CAPÍTULO 1 - De las disposiciones 
 vigencia: "vigente"
 anterior: "[[art. 295 CPol]]"
 siguiente: "[[art. 297 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#296"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,9 +35,11 @@ tags:
 
 Para la conservación del orden público o para su restablecimiento donde fuere turbado, los actos y órdenes del Presidente de la República se aplicarán de manera inmediata y de preferencia sobre los de los gobernadores; los actos y órdenes de los gobernadores se aplicarán de igual manera y con los mismos efectos en relación con los de los alcaldes.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-032-93; C-075-93; C-126-93
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-032-93 ; C-075-93 ; C-126-93 ;
 
-CAPÍTULO 2.
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5)
+
+CAPITULO 2.
 
 DEL REGIMEN DEPARTAMENTAL
 

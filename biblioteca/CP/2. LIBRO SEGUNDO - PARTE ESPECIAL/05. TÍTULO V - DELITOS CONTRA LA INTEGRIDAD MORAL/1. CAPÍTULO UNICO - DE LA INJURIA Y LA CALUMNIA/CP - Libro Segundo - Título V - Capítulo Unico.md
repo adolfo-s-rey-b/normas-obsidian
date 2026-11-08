@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 220 CP|Artículo 220]] — Injuria
-- [[art. 221 CP|Artículo 221]] — Calumnia
-- [[art. 222 CP|Artículo 222]] — Injuria y calumnia indirectas
-- [[art. 223 CP|Artículo 223]] — Circunstancias especiales de graduación de la pena
-- [[art. 224 CP|Artículo 224]] — Eximente de responsabilidad
-- [[art. 225 CP|Artículo 225]] — Retractacion
-- [[art. 226 CP|Artículo 226]] — Injuria por vias de hecho
-- [[art. 227 CP|Artículo 227]] — Injurias o calumnias reciprocas
-- [[art. 228 CP|Artículo 228]] — Imputaciones de litigantes
+- [[art. 220 CP|Artículo 220]] — INJURIA
+- [[art. 221 CP|Artículo 221]] — CALUMNIA
+- [[art. 222 CP|Artículo 222]] — INJURIA Y CALUMNIA INDIRECTAS
+- [[art. 223 CP|Artículo 223]] — CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA
+- [[art. 224 CP|Artículo 224]] — EXIMENTE DE RESPONSABILIDAD
+- [[art. 225 CP|Artículo 225]] — RETRACTACIÓN
+- [[art. 226 CP|Artículo 226]] — INJURIA POR VIAS DE HECHO
+- [[art. 227 CP|Artículo 227]] — INJURIAS O CALUMNIAS RECIPROCAS
+- [[art. 228 CP|Artículo 228]] — IMPUTACIONES DE LITIGANTES
 
 ---
 ↑ [[CP - Libro Segundo - Título V|Título V]]

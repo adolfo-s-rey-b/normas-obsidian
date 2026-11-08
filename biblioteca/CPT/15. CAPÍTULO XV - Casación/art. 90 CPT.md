@@ -14,7 +14,7 @@ vigencia: "derogado"
 anterior: "[[art. 89 CPT]]"
 siguiente: "[[art. 91 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#90"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

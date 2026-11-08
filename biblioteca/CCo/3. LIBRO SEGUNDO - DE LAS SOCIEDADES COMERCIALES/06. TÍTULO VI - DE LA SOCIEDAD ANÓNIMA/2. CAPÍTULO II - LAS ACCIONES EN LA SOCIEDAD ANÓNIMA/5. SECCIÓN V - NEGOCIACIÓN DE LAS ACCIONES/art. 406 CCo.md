@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección V|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 405 CCo]]"
 siguiente: "[[art. 407 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#406"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,7 @@ tags:
 
 ## Artículo 406. NEGOCIACIÓN DE ACCIONES NOMINATIVAS
 
-La enajenación de las acciones nominativas podrá hacerse por el simple acuerdo de las partes; más para que produzca efecto respecto de la sociedad y de terceros, será necesaria su inscripción en el libro de registro de acciones, mediante orden escrita del enajenante. Esta orden podrá darse en forma de endoso hecho sobre el título respectivo.
+La enajenación de las acciones nominativas podrá hacerse por el simple acuerdo de las partes; mas para que produzca efecto respecto de la sociedad y de terceros, será necesaria su inscripción en el libro de registro de acciones, mediante orden escrita del enajenante. Esta orden podrá darse en forma de endoso hecho sobre el título respectivo.
 
 Para hacer la nueva inscripción y expedir el título al adquirente, será menester la previa cancelación de los títulos expedidos al tradente.
 

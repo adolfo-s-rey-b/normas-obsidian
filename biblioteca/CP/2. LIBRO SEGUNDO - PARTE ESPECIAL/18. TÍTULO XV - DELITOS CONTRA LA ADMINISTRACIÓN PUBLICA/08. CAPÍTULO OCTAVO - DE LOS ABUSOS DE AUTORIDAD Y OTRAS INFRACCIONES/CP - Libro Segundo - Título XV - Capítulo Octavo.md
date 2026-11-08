@@ -24,15 +24,15 @@ tags:
 ### Contenido
 
 - [[art. 416 CP|Artículo 416]] — Abuso de autoridad por acto arbitrario e injusto
-- [[art. 417 CP|Artículo 417]] — Abuso de autoridad por omisión de denuncia
-- [[art. 418 CP|Artículo 418]] — Revelación de secreto
-- [[art. 418B CP|Artículo 418B]]
-- [[art. 419 CP|Artículo 419]] — Utilización de asunto sometido a secreto o reserva
-- [[art. 420 CP|Artículo 420]] — Utilización indebida de información oficial privilegiada
-- [[art. 421 CP|Artículo 421]] — Asesoramiento y otras actuaciones ilegales
+- [[art. 417 CP|Artículo 417]] — ABUSO DE AUTORIDAD POR OMISIÓN DE DENUNCIA
+- [[art. 418 CP|Artículo 418]] — REVELACIÓN DE SECRETO
+- [[art. 418B CP|Artículo 418B]] — REVELACIÓN DE SECRETO CULPOSA
+- [[art. 419 CP|Artículo 419]] — UTILIZACIÓN DE ASUNTO SOMETIDO A SECRETO O RESERVA
+- [[art. 420 CP|Artículo 420]] — UTILIZACIÓN INDEBIDA DE INFORMACIÓN OFICIAL PRIVILEGIADA
+- [[art. 421 CP|Artículo 421]] — ASESORAMIENTO Y OTRAS ACTUACIONES ILEGALES
 - [[art. 422 CP|Artículo 422]] — Intervención en política
-- [[art. 423 CP|Artículo 423]] — Empleo ilegal de la fuerza publica
-- [[art. 424 CP|Artículo 424]] — Omisión de apoyo
+- [[art. 423 CP|Artículo 423]] — EMPLEO ILEGAL DE LA FUERZA PÚBLICA
+- [[art. 424 CP|Artículo 424]] — OMISIÓN DE APOYO
 
 ---
 ← [[CP - Libro Segundo - Título XV - Capítulo Septimo|Capítulo Septimo]] · ↑ [[CP - Libro Segundo - Título XV|Título XV]] · [[CP - Libro Segundo - Título XV - Capítulo Noveno|Capítulo Noveno]] →

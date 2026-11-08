@@ -4,12 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "72"
+epigrafe: "DEL RECURSO DE ANULACIÓN CONTRA EL LAUDO ARBITRAL"
 rubro: "[[Ley 80 de 1993 - Viii. de la solución de las controversias…|VIII. DE LA SOLUCIÓN DE LAS CONTROVERSIAS CONTRACTUALES]]"
 vigencia: "vigente"
 anterior: "[[art. 71 Ley 80 de 1993]]"
 siguiente: "[[art. 73 Ley 80 de 1993]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#72"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
@@ -18,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]]
 
-## Artículo 72
+## Artículo 72. DEL RECURSO DE ANULACIÓN CONTRA EL LAUDO ARBITRAL
 
 Modificado por el art. [[art. 22 Ley 1150 de 2007|22]], Ley 1150 de 2007, así: Del recurso de anulación contra el laudo arbitral. Derogado por el art. [[art. 118 Ley 1563 de 2012|118]], Ley 1563 de 2012. Contra el laudo arbitral procede el recurso de anulación. Este deberá interponerse por escrito presentado ante el Tribunal de Arbitramento dentro de los cinco (5) días siguientes a la notificación del laudo o de la providencia que lo corrija, aclare o complemente.
 

@@ -16,7 +16,8 @@ modificado_por:
 anterior: "[[art. 30 CPT]]"
 siguiente: "[[art. 32 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#31"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2001
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

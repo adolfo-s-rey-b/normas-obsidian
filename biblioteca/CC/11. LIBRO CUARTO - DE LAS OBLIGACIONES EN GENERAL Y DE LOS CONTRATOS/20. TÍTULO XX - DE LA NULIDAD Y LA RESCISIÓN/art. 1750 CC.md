@@ -17,8 +17,9 @@ derogado_por:
 anterior: "[[art. 1749 CC]]"
 siguiente: "[[art. 1751 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2019
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -35,7 +36,7 @@ Este cuatrienio se contará, en el caso de violencia, desde el día en que ésta
 
 Cuando la nulidad proviene de una incapacidad legal, se contara el cuatrienio desde el día en que haya cesado esta incapacidad.
 
-<Inciso derogado tácitamente por el artículo [[art. 60 Decreto 2820 de 1974|60]] del Decreto Ley 2820 de 1974, según la Corte Constitucional Sentencia C-305-19 >
+> [!warning] Inciso derogado tácitamente por el artículo [[art. 60 Decreto 2820 de 1974|60]] del Decreto Ley 2820 de 1974, según la Corte Constitucional Sentencia C-305-19
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este Inciso por carencia actual de objeto (derogado por el artículo [[art. 60 Decreto 2820 de 1974|60]] del Decreto Ley 2820 de 1974, que excluyó a las personas jurídicas del listado de personas relativamente incapaces), mediante Sentencia C-305-19 de 10 de julio de 2019, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 

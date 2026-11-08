@@ -1,0 +1,37 @@
+---
+aliases:
+  - "CPP art. 336"
+  - "art. 336 Ley 906 de 2004"
+  - "Ley 906 de 2004 art. 336"
+  - "CPP 336"
+tipo: articulo
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+articulo: "336"
+epigrafe: "PRESENTACIÓN DE LA ACUSACIÓN"
+libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
+titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
+capitulo: "[[CPP - Libro III - Título I - Capítulo I|CAPÍTULO I - REQUISITOS FORMALES]]"
+vigencia: "vigente"
+anterior: "[[art. 335 CPP]]"
+siguiente: "[[art. 337 CPP]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cpp
+  - vigencia/vigente
+---
+
+[[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]] › [[CPP - Libro III - Título I - Capítulo I|Capítulo I]]
+
+## Artículo 336. PRESENTACIÓN DE LA ACUSACIÓN
+
+El fiscal presentará el escrito de acusación ante el juez competente para adelantar el juicio cuando de los elementos materiales probatorios, evidencia física o información legalmente obtenida, se pueda afirmar, con probabilidad de verdad, que la conducta delictiva existió y que el imputado es su autor o partícipe.
+
+---
+← [[art. 335 CPP]] · ↑ [[CPP - Libro III - Título I - Capítulo I|Capítulo I]] · [[art. 337 CPP]] →

@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título V - Capítulo 1|CAPÍTULO 1 - De la estructura del E
 vigencia: "vigente"
 anterior: "[[art. 119 CPol]]"
 siguiente: "[[art. 121 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#120"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2004
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,17 +33,13 @@ tags:
 
 ## Artículo 120
 
-La organización electoral esta conformada por el Consejo Nacional Electoral, por la Registraduria Nacional del Estado Civil y por los demás organismos que establezca la ley. Tiene a su cargo la organización de las elecciones, su dirección y vigilancia, así como lo relativo a la identidad de las personas.
+La organización electoral está conformada por el Consejo Nacional Electoral, por la Registraduría Nacional del Estado Civil y por los demás organismos que establezca la ley. Tiene a su cargo la organización de las elecciones, su dirección y vigilancia, así como lo relativo a la identidad de las personas.
 
-> [!note] Ver Ley 163 de 1994
+> [!note] Concordancias: Ley 163 de 1994 Ley 962 de 2005; Art. [[art. 21 Ley 962 de 2005|21]] ; Art. [[art. 22 Ley 1288 de 2009|22]] Ley 1288 de 2009 Ley 1453 de 2011; Art. [[art. 99 Ley 1453 de 2011|99]]
 
-> [!note] Ver Ley 962 de 2005; Art. [[art. 21 Ley 962 de 2005|21]] ; Art. [[art. 22 Ley 962 de 2005|22]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-027-93 ; C-089-94 ; C-152-94 ; C-401-2001 ; C-513-04
 
-> [!note] Ver Ley 1288 de 2009
-
-> [!note] Ver Ley 1453 de 2011; Art. [[art. 99 Ley 1453 de 2011|99]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-027-93 ; C-089-94 ; C-152-94 ; C-401-2001 ;
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 88 y 105)
 
 ---
 ← [[art. 119 CPol]] · ↑ [[CPol - Título V - Capítulo 1|Capítulo 1]] · [[art. 121 CPol]] →

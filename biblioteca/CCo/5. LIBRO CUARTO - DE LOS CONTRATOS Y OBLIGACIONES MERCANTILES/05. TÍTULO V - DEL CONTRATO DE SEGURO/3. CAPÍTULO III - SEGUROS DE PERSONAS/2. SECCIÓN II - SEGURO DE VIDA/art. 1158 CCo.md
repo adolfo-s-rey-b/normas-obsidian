@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo III - Sección II|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 1157 CCo]]"
 siguiente: "[[art. 1159 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1158"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,7 @@ tags:
 
 ## Artículo 1158. PRESCINDENCIA DE EXAMEN MEDICO Y DECLARACIÓN DEL ESTADO DEL RIESGO
 
-Aunque el asegurador prescinda del examen médico, el asegurado no podrá considerarse exento de las obligaciones a que se refiere el artículo [[art. 1058 CCo|1058]], ni de las sanciones a que su infracción dé lugar.
+Aunque el asegurador prescinda del examen médico, el asegurado no podrá considerarse exento de las obligaciones a que se refiere el artículo [[art. 1058 CCo|1058]] ni de las sanciones a que su infracción dé lugar.
 
 ---
 ← [[art. 1157 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo III - Sección II|Sección II]] · [[art. 1159 CCo]] →

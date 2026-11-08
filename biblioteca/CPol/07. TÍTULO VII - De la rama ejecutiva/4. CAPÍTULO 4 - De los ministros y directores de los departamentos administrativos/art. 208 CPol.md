@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 4|CAPÍTULO 4 - De los ministros y d
 vigencia: "vigente"
 anterior: "[[art. 207 CPol]]"
 siguiente: "[[art. 209 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#208"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -32,25 +37,23 @@ Los ministros y los directores de departamentos administrativos son los jefes de
 
 Los ministros, en relación con el Congreso, son voceros del Gobierno, presentan a las cámaras proyectos de ley, atienden las citaciones que aquellas les hagan y toman parte en los debates directamente o por conducto de los viceministros.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 140 Ley 5 de 1992|140]] Num. 2; Art. [[art. 233 Ley 5 de 1992|233]]; Art. [[art. 234 Ley 5 de 1992|234]]; Art. [[art. 235 Ley 5 de 1992|235]]; Art. [[art. 237 Ley 5 de 1992|237]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 140 Ley 5 de 1992|140]] Num. 2; Art. [[art. 233 Ley 5 de 1992|233]] ; Art. [[art. 234 Ley 5 de 1992|234]] ; Art. [[art. 235 Ley 5 de 1992|235]] ; Art. [[art. 237 Ley 5 de 1992|237]]
 
-Los ministros y los directores de departamentos administrativos presentarán al Congreso, dentro de los primeros quince dias de cada legislatura, informe sobre el estado de los negocios adscritos a su ministerio o departamento administrativo, y sobre las reformas que consideren convenientes.
+Los ministros y los directores de departamentos administrativos presentarán al Congreso, dentro de los primeros quince días de cada legislatura, informe sobre el estado de los negocios adscritos a su ministerio o departamento administrativo, y sobre las reformas que consideren convenientes.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 79 Ley 5 de 1992|79]] Num. 7; Art. [[art. 84 Ley 5 de 1992|84]]; Art. [[art. 233 Ley 5 de 1992|233]]; Art. [[art. 234 Ley 5 de 1992|234]]; Art. [[art. 254 Ley 5 de 1992|254]] Num. 4
-
-> [!note] Ver Ley 101 de 1993; Art. [[art. 96 Ley 101 de 1993|96]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 79 Ley 5 de 1992|79]] Num. 7; Art. [[art. 84 Ley 5 de 1992|84]] ; Art. [[art. 233 Ley 5 de 1992|233]] ; Art. [[art. 234 Ley 5 de 1992|234]] ; Art. [[art. 254 Ley 101 de 1993|254]] Num. 4 Ley 101 de 1993; Art. [[art. 96 Ley 424 de 1998|96]] Ley 424 de 1998 Ley 947 de 2005
 
 Las cámaras pueden requerir la asistencia de los ministros. Las comisiones permanentes, además, la de los viceministros, los directores de departamentos administrativos, el Gerente del Banco de la República, los presidentes, directores o gerentes de las entidades descentralizadas del orden nacional y la de otros funcionarios de la rama ejecutiva del poder público.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 79 Ley 5 de 1992|79]], numeral 7; Art. [[art. 84 Ley 5 de 1992|84]]; Art. [[art. 233 Ley 5 de 1992|233]]; Art. [[art. 234 Ley 5 de 1992|234]]; Art. [[art. 235 Ley 5 de 1992|235]]; Art. [[art. 237 Ley 5 de 1992|237]] a [[art. 260 Ley 5 de 1992|260]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 79 Ley 5 de 1992|79]] , numeral 7; Art. [[art. 84 Ley 5 de 1992|84]] ; Art. [[art. 233 Ley 5 de 1992|233]] ; Art. [[art. 234 Ley 5 de 1992|234]] ; Art. [[art. 235 Ley 5 de 1992|235]] ; Art. [[art. 237 Ley 80 de 1993|237]] a [[art. 260 Ley 80 de 1993|260]] Ley 80 de 1993; Art. [[art. 11 Ley 80 de 1993|11]] ; Art. [[art. 25 Ley 80 de 1993|25]] ; Art. [[art. 31 Ley 80 de 1993|31]] ; Art. [[art. 51 Ley 80 de 1993|51]]
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 11 Ley 80 de 1993|11]] ; Art. [[art. 25 Ley 80 de 1993|25]] ; Art. [[art. 31 Ley 80 de 1993|31]] ; Art. [[art. 51 Ley 80 de 1993|51]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-504-92 ; C-022-94 ; C-069-94 ; C-808-2001 ; C-1258-2001 ; C-317-12 ;
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-504-92; C-022-94; C-069-94; C-808-2001 ; C-1258-2001 ; C-317-12
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 4, 5 y 78)
 
-CAPÍTULO 5.
+CAPITULO 5.
 
-DE LA FUNCIÓN ADMINISTRATIVA
+DE LA FUNCION ADMINISTRATIVA
 
 ---
 ← [[art. 207 CPol]] · ↑ [[CPol - Título VII - Capítulo 4|Capítulo 4]] · [[art. 209 CPol]] →

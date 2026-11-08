@@ -20,6 +20,8 @@ tags:
 
 *Arts. 1226 a 1244*
 
+> [!note] Notas de Vigencia: El artículo 1o. del Decreto 2273 de 1989 crea Juzgados Civiles del Circuito Especializados y establece las 8 ciudades principales en que tendrán sede dichos juzgados; el inciso segundo del parágrafo del mismo artículo dispone que los Tribunales Superiores de Distrito Judicial podrán especializar Juzgados Civiles del Circuito, cuando las necesidades así lo exijan, para el conocimiento de los asuntos enumerados en el artículo 3o. del Decreto. El artículo 3o. del mismo Decreto establece las competencias para conocer de controversias en diferentes áreas del derecho comercial, entre ellas, numeral 7o, de los contratos de fiducia y encargos fiduciarios, leasing o arrendamiento financiero y factoring o compra de cartera.
+
 ### Contenido
 
 - [[art. 1226 CCo|Artículo 1226]] — CONCEPTO DE LA FIDUCIA MERCANTIL

@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 103 CPACA|Artículo 103]] — Objeto y principios
-- [[art. 104 CPACA|Artículo 104]] — De la Jurisdicción de lo Contencioso Administrativo
-- [[art. 105 CPACA|Artículo 105]] — Excepciones
+- [[art. 103 CPACA|Artículo 103]] — OBJETO Y PRINCIPIOS
+- [[art. 104 CPACA|Artículo 104]] — DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
+- [[art. 105 CPACA|Artículo 105]] — EXCEPCIONES
 
 ---
 ↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título II|Título II]] →

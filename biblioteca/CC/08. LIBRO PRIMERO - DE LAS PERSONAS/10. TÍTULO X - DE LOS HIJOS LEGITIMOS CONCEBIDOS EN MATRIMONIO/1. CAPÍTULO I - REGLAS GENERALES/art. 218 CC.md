@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 217 CC]]"
 siguiente: "[[art. 219 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 218. VINCULACIÓN AL PROCESO DEL PRESUNTO PADRE BIOLÓGICO O MADRE BIOLÓGICA
 
-<Artículo modificado por el artículo [[art. 6 Ley 1060 de 2006|6]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> El juez competente que adelante el proceso de reclamación o impugnación de la paternidad o maternidad, de oficio o a petición de parte, vinculará al proceso, siempre que fuere posible, al presunto padre biológico o la presunta madre biológica, con el fin de ser declarado en la misma actuación procesal la paternidad o la maternidad, en aras de proteger los derechos del menor, en especial el de tener una verdadera identidad y un nombre.
+El juez competente que adelante el proceso de reclamación o impugnación de la paternidad o maternidad, de oficio o a petición de parte, vinculará al proceso, siempre que fuere posible, al presunto padre biológico o la presunta madre biológica, con el fin de ser declarado en la misma actuación procesal la paternidad o la maternidad, en aras de proteger los derechos del menor, en especial el de tener una verdadera identidad y un nombre.
+
+> [!info] Artículo modificado por el artículo [[art. 6 Ley 1060 de 2006|6]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 6 Ley 1060 de 2006|6]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

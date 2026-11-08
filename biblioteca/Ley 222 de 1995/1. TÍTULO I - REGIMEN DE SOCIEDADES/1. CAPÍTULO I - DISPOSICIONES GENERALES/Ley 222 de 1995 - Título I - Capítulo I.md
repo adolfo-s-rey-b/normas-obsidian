@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 222 de 1995|Artículo 1]]
-- [[art. 2 Ley 222 de 1995|Artículo 2]]
+- [[art. 1 Ley 222 de 1995|Artículo 1]] — SOCIEDAD COMERCIAL Y AMBITO DE APLICACION DE ESTA LEY
+- [[art. 2 Ley 222 de 1995|Artículo 2]] — CAPACIDAD DE LOS SOCIOS
 
 ---
 ↑ [[Ley 222 de 1995 - Título I|Título I]] · [[Ley 222 de 1995 - Título I - Capítulo II|Capítulo II]] →

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo I|CAPÍTULO I - Transacción]] (arts. 312 a 313)
-- [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo II|CAPÍTULO II - Desistimiento]] (arts. 314 a 317)
+- [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo I|CAPÍTULO I - TRANSACCIÓN]] (arts. 312 a 313)
+- [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo II|CAPÍTULO II - DESISTIMIENTO]] (arts. 314 a 317)
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Quinta|Sección Quinta]]

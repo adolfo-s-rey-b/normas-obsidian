@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 94 CP|Artículo 94]] — Reparación del daño
-- [[art. 95 CP|Artículo 95]] — Titulares de la acción civil
+- [[art. 94 CP|Artículo 94]] — REPARACIÓN DEL DAÑO
+- [[art. 95 CP|Artículo 95]] — TITULARES DE LA ACCIÓN CIVIL
 - [[art. 96 CP|Artículo 96]] — Obligados a indemnizar
-- [[art. 97 CP|Artículo 97]] — Indemnización por daños
-- [[art. 98 CP|Artículo 98]] — Prescripcion
+- [[art. 97 CP|Artículo 97]] — INDEMNIZACIÓN POR DAÑOS
+- [[art. 98 CP|Artículo 98]] — PRESCRIPCIÓN
 - [[art. 99 CP|Artículo 99]] — Extinción de la acción civil
 - [[art. 100 CP|Artículo 100]] — Comiso
 

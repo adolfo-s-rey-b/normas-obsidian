@@ -23,17 +23,10 @@ tags:
 
 ### Contenido
 
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección I|SECCIÓN I - LETRA DE CAMBIO]]
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección I (2)|SECCIÓN I - CREACIÓN Y FORMA DE LA LETRA DE CAMBIO]] (arts. 671 a 679)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección II|SECCIÓN II - ACEPTACIÓN]] (arts. 680 a 690)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección III|SECCIÓN III - PAGO]] (arts. 691 a 696)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección IV|SECCIÓN IV - PROTESTO]] (arts. 697 a 708)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección II (2)|SECCIÓN II - PAGARE]] (arts. 709 a 711)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección III (2)|SECCIÓN III - CHEQUE]]
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección I (3)|SECCIÓN I - CREACIÓN Y FORMA DEL CHEQUE]] (arts. 712 a 716)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección II (3)|SECCIÓN II - PRESENTACIÓN Y PAGO]] (arts. 717 a 733)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección III (3)|SECCIÓN III - CHEQUES ESPECIALES - CHEQUE FISCAL]] (arts. 734 a 751)
-- [[CCo - Libro Tercero - Título III - Capítulo V - Sección IV (2)|SECCIÓN IV - BONOS]] (arts. 752 a 756)
+- [[CCo - Libro Tercero - Título III - Capítulo V - Sección I|SECCIÓN I - LETRA DE CAMBIO]] (arts. 671 a 708)
+- [[CCo - Libro Tercero - Título III - Capítulo V - Sección II|SECCIÓN II - PAGARE]] (arts. 709 a 711)
+- [[CCo - Libro Tercero - Título III - Capítulo V - Sección III|SECCIÓN III - CHEQUE]] (arts. 712 a 751)
+- [[CCo - Libro Tercero - Título III - Capítulo V - Sección IV|SECCIÓN IV - BONOS]] (arts. 752 a 756)
 - [[CCo - Libro Tercero - Título III - Capítulo V - Sección V|SECCIÓN V - CERTIFICADO DE DEPÓSITO Y BONO DE PRENDA]] (arts. 757 a 766)
 - [[CCo - Libro Tercero - Título III - Capítulo V - Sección VI|SECCIÓN VI - CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE]] (arts. 767 a 771)
 - [[CCo - Libro Tercero - Título III - Capítulo V - Sección VII|SECCIÓN VII - FACTURAS CAMBIARIAS]] (arts. 772 a 779)

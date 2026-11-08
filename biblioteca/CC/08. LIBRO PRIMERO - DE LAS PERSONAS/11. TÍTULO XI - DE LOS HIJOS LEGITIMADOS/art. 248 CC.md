@@ -17,8 +17,9 @@ modificado_por:
 anterior: "[[art. 247 CC]]"
 siguiente: "[[art. 249 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +30,9 @@ tags:
 
 ## Artículo 248. CAUSALES DE IMPUGNACIÓN
 
-<Artículo modificado por el artículo [[art. 11 Ley 1060 de 2006|11]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> En los demás casos podrá impugnarse la paternidad probando alguna de las causas siguientes:
+En los demás casos podrá impugnarse la paternidad probando alguna de las causas siguientes:
+
+> [!info] Artículo modificado por el artículo [[art. 11 Ley 1060 de 2006|11]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 1\. Que el hijo no ha podido tener por padre al que pasa por tal.
 

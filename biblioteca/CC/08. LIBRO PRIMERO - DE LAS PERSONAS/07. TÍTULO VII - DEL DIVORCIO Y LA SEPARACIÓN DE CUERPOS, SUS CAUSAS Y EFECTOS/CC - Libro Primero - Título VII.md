@@ -20,7 +20,7 @@ tags:
 
 *Arts. 153 a 168*
 
-> [!info] Notas de Vigencia: Encabezado del Título VII modificado por el artículo [[art. 2 CC|2]]o. de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Encabezado del Título VII modificado por el artículo 2o. de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 ### Contenido
 

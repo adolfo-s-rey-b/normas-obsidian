@@ -16,8 +16,9 @@ vigencia: "vigente"
 anterior: "[[art. 1249 CC]]"
 siguiente: "[[art. 1251 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2000
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,8 +34,6 @@ La legítima rigurosa no es susceptible de condición, plazo, modo o gravamen al
 Sobre lo demás que se haya dejado o se deje a los legitimarios, excepto bajo la forma de donaciones entre vivos, puede imponer el testador los gravámenes que quiera, sin perjuicio de lo dispuesto en el artículo [[art. 1253 CC|1253]] .
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-641-00 del 31 de mayo de 2000 de Magistrado Ponente Dr. Fabio Morón Díaz.
-
-> [!note] Artículo CONDICIONALMENTE exequible
 
 ---
 ← [[art. 1249 CC]] · ↑ [[CC - Libro Tercero - Título V - Capítulo III|Capítulo III]] · [[art. 1251 CC]] →

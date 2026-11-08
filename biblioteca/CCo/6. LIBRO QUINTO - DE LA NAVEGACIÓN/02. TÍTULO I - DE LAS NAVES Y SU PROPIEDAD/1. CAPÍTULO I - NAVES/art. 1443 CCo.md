@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - NAVES]]"
 vigencia: "vigente"
 anterior: "[[art. 1442 CCo]]"
 siguiente: "[[art. 1444 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1443"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 La propiedad de las naves puede adquirirse por los medios establecidos en la ley.
 
-Para los efectos de adquisición por prescripción, los términos establecidos en el Código Civil quedan reducidos a la mitad.
+Para los efectos de adquisición por prescripción, los términos establecidos en el Código Civil quedan reducidos a la mit.
 
 El capitán, los oficiales y tripulación de la nave no podrán adquirir su dominio por prescripción.
 

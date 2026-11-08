@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - Demanda]] (arts. 61 a 68)
-- [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - Contestación]] (arts. 69 a 72)
-- [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo III|CAPÍTULO III - Excepciones]] (arts. 73 a 75)
+- [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - DEMANDA]] (arts. 61 a 68)
+- [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - CONTESTACIÓN]] (arts. 69 a 72)
+- [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo III|CAPÍTULO III - EXCEPCIONES]] (arts. 73 a 75)
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]]

@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 61 Ley 1474 de 2011|Artículo 61]] — Acceso a la información
+- [[art. 61 Ley 1474 de 2011|Artículo 61]] — ACCESO A LA INFORMACIÓN
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo III|Capítulo III]] · ↑ [[Ley 1474 de 2011|Ley 1474 de 2011]] · [[Ley 1474 de 2011 - Capítulo V|Capítulo V]] →

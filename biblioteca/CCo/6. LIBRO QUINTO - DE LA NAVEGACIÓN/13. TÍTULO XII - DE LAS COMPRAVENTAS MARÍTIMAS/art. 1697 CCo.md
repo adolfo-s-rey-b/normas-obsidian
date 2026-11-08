@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Quinto - Título XII|TÍTULO XII - DE LAS COMPRAVENTAS MA
 vigencia: "vigente"
 anterior: "[[art. 1696 CCo]]"
 siguiente: "[[art. 1698 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1697"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -38,7 +42,7 @@ Cuando se venda C.I.F. -costo, seguro y flete-, o bajo cualquiera otra expresió
 
 5\. El comprador podrá reclamar por defectos de cantidad o de calidad dentro de los noventa días siguientes al desembarque de la cosa en el lugar de destino.
 
-Este plazo podrá ampliarse como se previene en el inciso 2o. del artículo [[art. 1696 CCo|1696]].
+Este plazo podrá ampliarse como se previene en el inciso 2o. del artículo [[art. 1696 CCo|1696]] .
 
 ---
 ← [[art. 1696 CCo]] · ↑ [[CCo - Libro Quinto - Título XII|Título XII]] · [[art. 1698 CCo]] →

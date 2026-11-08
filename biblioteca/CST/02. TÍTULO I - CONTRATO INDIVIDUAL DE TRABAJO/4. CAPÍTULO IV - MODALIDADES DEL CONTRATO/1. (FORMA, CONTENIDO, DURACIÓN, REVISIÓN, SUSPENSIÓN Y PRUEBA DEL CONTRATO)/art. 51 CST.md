@@ -12,22 +12,30 @@ epigrafe: "SUSPENSION"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo IV|CAPÍTULO IV - MODALIDADES DEL CONTRATO]]"
 rubro: "[[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO)]]"
-vigencia: "parcialmente inexequible"
+vigencia: "modificado"
 modificado_por:
-  - "[[art. 4 Ley 50 de 1990]]"
+  - "[[art. 52 CST]]"
+  - "[[art. 46 Decreto 3743 de 1950]]"
 anterior: "[[art. 50 CST]]"
 siguiente: "[[art. 52 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#51"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2000
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/parcialmente_inexequible
+  - vigencia/modificado
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo IV|Capítulo IV]] › [[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(forma, contenido, duración, revisión, suspensión…]]
 
 ## Artículo 51. SUSPENSION
+
+> [!info] Artículo subrogado por el artículo 4o. de la Ley 50 de 1990. El nuevo texto es el siguiente:
 
 El contrato de trabajo se suspende:
 
@@ -43,13 +51,11 @@ El contrato de trabajo se suspende:
 
 6\. Por detención preventiva del trabajador o por arresto correccional que no exceda de ocho (8) días por cuya causa no justifique la extinción del contrato.
 
-7\. ~~Por huelga declarada en la forma prevista en la Ley.~~
+7\. Por huelga declarada en la forma prevista en la Ley.
 
-> [!warning] Numeral 7. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1369-00 , bajo el entendido de que la huelga suspende los contratos de trabajo por el tiempo que dure y, en consecuencia, el empleador no tiene la obligación de pagar salarios y demás derechos laborales durante este lapso. Pero habrá lugar al pago de salarios y prestaciones cuando ésta sea imputable al empleador, por desconocer derechos laborales legales o convencionales, jurídicamente exigibles. Y que en todo caso, le sea o no imputable la huelga deberá el empleador garantizar el derecho irrenunciable a la seguridad social de los trabajadores que participaron en el cese de actividades mediante el pago de los correspondientes aportes para salud y pensiones. Bajo cualquier otro entendimiento las referidas disposiciones son INEXEQUIBLES
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo 4o. de la Ley 50 de 1990, publicada en el Diario Oficial No 39.618 del 1o. de enero de 1991. - Este artículo corresponde al artículo [[art. 52 CST|52]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
-> [!warning] Numeral 7 declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-993-00,'bajo el entendido de que las consecuencias de la suspensión del contrato de trabajo durante la huelga sólo se predican cuando ésta sea imputable al empleador, por desconocer derechos laborales, legales o convencionales jurídicamente exigibles, y que éste debe, en todo caso, esto es, le sea o no imputable la huelga, garantizar el derecho irrenunciable a la seguridad social de los trabajadores que participaron en el cese de actividades, mediante el pago de los correspondientes aportes para salud y pensiones. Bajo cualquier otro entendimiento la referida disposición es INEXEQUIBLE
-
-> [!info] Subrogado por el Art. [[art. 4 Ley 50 de 1990|4]] de la Ley 50 de 1990
+> [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Numeral 7. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1369-00 del 11 de octubre de 2000, Magistrado Ponente Dr. Antonio Barrera Carbonell. '... bajo el entendido de que la huelga suspende los contratos de trabajo por el tiempo que dure y, en consecuencia, el empleador no tiene la obligación de pagar salarios y demás derechos laborales durante este lapso. Pero habrá lugar al pago de salarios y prestaciones cuando ésta sea imputable al empleador, por desconocer derechos laborales legales o convencionales, jurídicamente exigibles. Y que en todo caso, le sea o no imputable la huelga deberá el empleador garantizar el derecho irrenunciable a la seguridad social de los trabajadores que participaron en el cese de actividades mediante el pago de los correspondientes aportes para salud y pensiones. Bajo cualquier otro entendimiento las referidas disposiciones son INEXEQUIBLES. - Mediante Auto-91 del 11 de octubre de 2000, se declaró la nulidad de la Sentencia C-993-00 y se dispuso que la Corte produciría una nueva Sentencia en la cual se guerde congruencia entre la parte la parte motiva y la parte resolutiva de la aludida sentencia. - Nuleral 7o. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-993-00 del 2 de agosto de 2000, Magistrado Ponente Dr. Antonio Becerra Carbonell. Establece la Corte: 'bajo el entendido de que las consecuencias de la suspensión del contrato de trabajo durante la huelga sólo se predican cuando ésta sea imputable al empleador, por desconocer derechos laborales, legales o convencionales jurídicamente exigibles, y que éste debe, en todo caso, esto es, le sea o no imputable la huelga, garantizar el derecho irrenunciable a la seguridad social de los trabajadores que participaron en el cese de actividades, mediante el pago de los correspondientes aportes para salud y pensiones. Bajo cualquier otro entendimiento la referida disposicion es INEXEQUIBLE'.
 
 ---
 ← [[art. 50 CST]] · ↑ [[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(forma, contenido, duración, revisión, suspensión…]] · [[art. 52 CST]] →

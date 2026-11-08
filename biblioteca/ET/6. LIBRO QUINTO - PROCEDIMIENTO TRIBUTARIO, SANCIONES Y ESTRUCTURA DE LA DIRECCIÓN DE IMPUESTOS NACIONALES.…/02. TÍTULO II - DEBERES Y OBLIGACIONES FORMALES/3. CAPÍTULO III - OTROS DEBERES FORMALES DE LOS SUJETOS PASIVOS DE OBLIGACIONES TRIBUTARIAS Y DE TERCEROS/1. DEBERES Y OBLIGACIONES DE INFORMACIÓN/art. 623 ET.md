@@ -1,0 +1,79 @@
+---
+aliases:
+  - "ET art. 623"
+  - "art. 623 Decreto Ley 624 de 1989"
+  - "Decreto Ley 624 de 1989 art. 623"
+  - "art. 623 Decreto 624 de 1989"
+  - "Decreto 624 de 1989 art. 623"
+  - "ET 623"
+tipo: articulo
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+articulo: "623"
+epigrafe: "INFORMACIÓN DE LAS ENTIDADES VIGILADAS POR LA SUPERINTENDENCIA BANCARIA*"
+libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
+titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
+capitulo: "[[ET - Libro Quinto - Título II - Capítulo III|CAPÍTULO III - OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS]]"
+rubro: "[[ET - Libro Quinto - Título II - Capítulo III - Deberes y obligaciones de información|DEBERES Y OBLIGACIONES DE INFORMACIÓN]]"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 10 Ley 383 de 1997]]"
+  - "[[art. 3 Decreto 2661 de 2000]]"
+  - "[[art. 6 ET]]"
+  - "[[art. 631-2 ET]]"
+  - "[[art. 23 Ley 863 de 2003]]"
+  - "[[art. 39 Ley 633 de 2000]]"
+  - "[[art. 3 Decreto 2587 de 1999]]"
+  - "[[art. 2 ET]]"
+  - "[[art. 3 ET]]"
+anterior: "[[art. 622 ET]]"
+siguiente: "[[art. 623-1 ET]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2005
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/et
+  - vigencia/modificado
+---
+
+[[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo III|Capítulo III]] › [[ET - Libro Quinto - Título II - Capítulo III - Deberes y obligaciones de información|Deberes y obligaciones de información]]
+
+## Artículo 623. INFORMACIÓN DE LAS ENTIDADES VIGILADAS POR LA SUPERINTENDENCIA BANCARIA*
+
+A partir del año 1989, los bancos y demás entidades vigiladas por la Superintendencia Bancaria*, así como las asociaciones de tarjetas de crédito y demás entidades que las emitan, deberán informar anualmente en medios magnéticos, dentro de los plazos que indique el Gobierno Nacional, los siguientes datos de sus cuentahabientes, tarjetahabientes, ahorradores, usuarios, depositantes o clientes, relativos al año gravable inmediatamente anterior:
+
+> [!note] Notas del Editor: * Mediante el artículo 1 o. del Decreto 4327 de 2005, 'por el cual se fusiona la Superintendencia Bancaria de Colombia en la Superintendencia de Valores y se modifica su estructura', publicado en el Diario Oficial No. 46.104 de 26 de noviembre de 2005. Se demomina en adelante Superintendencia Financiera de Colombia. - Para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el parágrafo del artículo [[art. 73 Ley 6 de 1992|73]] de la Ley 6 de 1992, cuyo texto original establece: 'PARÁGRAFO. La información exigida por el artículo [[art. 623 ET|623]] del Estatuto Tributario deberá rendirse igualmente por las asociaciones o entidades que controlen o administren sistemas de tarjetas de crédito.'
+
+a) Apellidos y nombres o razón social y NIT de cada una de las personas o entidades a cuyo nombre se hayan efectuado consignaciones, depósitos, captaciones, abonos, traslados y en general, movimientos de dinero cuyo valor anual acumulado sea superior a ochocientos ochenta millones trescientos mil pesos ($880.300.000), con indicación del concepto de la operación y del monto acumulado por concepto, número de la cuenta o cuentas ;
+
+> [!info] Frase final subrayada adicionada por el artículo [[art. 10 Ley 383 de 1997|10]] de la Ley 383 de 1997. Valores absolutos que rigen para el año 2001 establecidos por el Artículo [[art. 3 Decreto 2661 de 2000|3]] del Decreto 2661 de 2000. Ver Notas de Vigencia sobre valores absolutos para años posteriores. El texto con los valores absolutos que rigen para el año 2001 es el siguiente:
+
+> [!info] Notas de Vigencia: En las siguientes resoluciones se establecen los valores absolutos a partir del 2001: Resolución DIAN 162 de 2023; Título III - Art. 3 Resolución DIAN 1255 de 2022; Título III - Art. 3 Resolución DIAN 124 de 2021; Título III - Art. 3 Resolución DIAN 98 de 2020; Título III - Art. 3 Resolución DIAN 8654 de 2010; Art. 1; Art. 2; Art. 3 Resolución DIAN 7929 de 2009; Art. 1; Art. 2; Art. 3 Resolución DIAN 3841 de 2008; Art. 1; Art. 2; Art. 3 Resolución DIAN 12684 de 2007; Art. 1; Art. 2; Art. 3 Resolución DIAN 12800 de 2006; Art. 1; Art. 2; Art. 3 Resolución DIAN 10141 de 2005; Art. 1; Art. 2; Art. 3 Resolución DIAN 9706 de 2004; Art. 1; Art. 5 Resolución DIAN 8972 de 2003; Art. 1; Art. 6 Resolución DIAN 10539 de 2002; Art. 1; Art. 6 Resolución DIAN 9271 de 2001; Art. 1; Art. [[art. 6 ET|6]] - Según lo dispuesto por el artículo [[art. 631-2 ET|631-2]] de este estatuto, adicionado por el artículo [[art. 23 Ley 863 de 2003|23]] de la Ley 863 de 2003, publicada en el Diario Oficial No. 45.415, de 29 de diciembre de 2003, los valores y datos, de que trata este artículo, así como los plazos y los obligados a suministrar la información en él contemplada, serán determinados mediante resolución expedida por el Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, en forma individual o acumulada respecto de las operaciones objeto de información. - Según el Artículo [[art. 39 Ley 633 de 2000|39]] de la Ley 633 de 2000 los valores absolutos indicados en este literal 'podrán ser determinados mediante Resolución por la Dirección de Impuestos y Aduanas Nacionales en forma individual o acumulada respecto de las operaciones objeto de información'. La Ley 633 de 2000, 'por la cual se expiden normas en materia tributaria, se dictan disposiciones sobre el tratamiento a los fondos obligatorios para la vivienda de interés social y se introducen normas para fortalecer las finanzas de la Rama Judicial', fue publicada en el Diario Oficial No. 44.275, de 29 de diciembre de 2000. El texto original del Artículo 39 establece: 'ARTÍCULO 39 . VALORES DE OPERACIONES OBJETO DE INFORMACIÓN. Los valores de que tratan los artículos 623 literales a), b) y c), 623-2 y 631 literales e), f), j) y m) podrán ser determinados mediante Resolución por la Dirección de Impuestos y Aduanas Nacionales en forma individual o acumulada respecto de las operaciones objeto de información'. - Mediante el artículo [[art. 3 Decreto 2661 de 2000|3]] del Decreto 2661 de 2000, publicado en el Diario Oficial No 44.271, de 26 de diciembre de 2000, se actualizaron los valores absolutos en las normas relativas a la información que deben suministrar los siguientes contribuyentes, por el año gravable 2001. - Mediante el artículo [[art. 3 Decreto 2587 de 1999|3]] del Decreto 2587 de 1999, publicada en el Diario Oficial No. 43.828, de 23 de diciembre de 1999, se actualizaron los valores absolutos en las normas relativas a la información que deben suministrar los siguientes contribuyentes, por el año gravable 2000. - Frase final subrayada adicionada por el artículo [[art. 10 Ley 383 de 1997|10]] de la Ley 383 de 1997, publicada en el Diario Oficial No. 40.083, de 14 de julio de 1997.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-981-05 de 26 de septiembre de 2005, Magistrada Ponente Dra. Clara Inés Vargas Hernández, únicamente en cuanto que la materia regulada en esta disposición no está sujeta a reserva de ley estatutaria.
+
+b) Apellidos y nombres o razón social y NIT de cada una de las personas o entidades que durante el respectivo año hayan efectuado adquisiciones, consumos, avances o gastos con tarjetas de crédito, cuando el valor anual acumulado sea superior a once millones novecientos mil pesos ($11.900.000); con indicación del valor total del movimiento efectuado durante el año;
+
+> [!note] Valores absolutos que regirán para el año 2001 establecidos por el artículo [[art. 3 Decreto 2661 de 2000|3]] del Decreto 2661 de 2000. Ver Notas de Vigencia sobre valores absolutos para años posteriores. El texto original con los valores establecidos para el año gravable 2001 es el siguiente:
+
+> [!info] Notas de Vigencia: En las siguientes resoluciones se establecen los valores absolutos a partir del 2001: Resolución DIAN 162 de 2023; Art. 6 Resolución DIAN 1255 de 2022; Art. 6 Resolución DIAN 124 de 2021; Art. 6 Resolución DIAN 98 de 2020; Arts. 6 Resolución DIAN 8654 de 2010; Art. 4 Resolución DIAN 7929 de 2009; Art. 4 Resolución DIAN 3841 de 2008; Art. 4 Resolución DIAN 12684 de 2007; Art. 4 Resolución DIAN 12800 de 2006; Art. 4 Resolución DIAN 10141 de 2005; Art. 4 Resolución DIAN 9706 de 2004; Art. 2 Resolución DIAN 8972 de 2003; Art. 2 Resolución DIAN 10539 de 2002; Art. 2 Resolución DIAN 9271 de 2001; Art. [[art. 2 ET|2]] - Según lo dispuesto por el artículo [[art. 631-2 ET|631-2]] de este estatuto, adicionado por el artículo [[art. 23 Ley 863 de 2003|23]] de la Ley 863 de 2003, publicada en el Diario Oficial No. 45.415, de 29 de diciembre de 2003, los valores y datos, de que trata este artículo, así como los plazos y los obligados a suministrar la información en él contemplada, serán determinados mediante resolución expedida por el Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, en forma individual o acumulada respecto de las operaciones objeto de información. - Según el Artículo [[art. 39 Ley 633 de 2000|39]] de la Ley 633 de 2000 los valores absolutos indicados en este literal 'podrán ser determinados mediante Resolución por la Dirección de Impuestos y Aduanas Nacionales en forma individual o acumulada respecto de las operaciones objeto de información'. La Ley 633 de 2000, 'por la cual se expiden normas en materia tributaria, se dictan disposiciones sobre el tratamiento a los fondos obligatorios para la vivienda de interés social y se introducen normas para fortalecer las finanzas de la Rama Judicial', fue publicada en el Diario Oficial No. 44.275, de 29 de diciembre de 2000. El texto original del Artículo 39 establece: 'ARTÍCULO 39 . VALORES DE OPERACIONES OBJETO DE INFORMACIÓN. Los valores de que tratan los artículos 623 literales a), b) y c), 623-2 y 631 literales e), f), j) y m) podrán ser determinados mediante Resolución por la Dirección de Impuestos y Aduanas Nacionales en forma individual o acumulada respecto de las operaciones objeto de información'. - Mediante el artículo [[art. 3 Decreto 2661 de 2000|3]] del Decreto 2661 de 2000, publicado en el Diario Oficial No 44.271, de 26 de diciembre de 2000, se actualizaron los valores absolutos en las normas relativas a la información que deben suministrar los siguientes contribuyentes, por el año gravable 2001. - Mediante el artículo [[art. 3 Decreto 2587 de 1999|3]] del Decreto 2587 de 1999, publicada en el Diario Oficial No. 43.828, de 23 de diciembre de 1999, se actualizaron los valores absolutos en las normas relativas a la información que deben suministrar los siguientes contribuyentes, por el año gravable 2000.
+
+c) Apellidos y nombres o razón social y NIT de cada una de las personas o entidades que durante el respectivo año hayan efectuado ventas o prestación de servicios y, en general, hayan recibido ingresos a través del sistema de tarjetas de crédito, cuando el valor anual acumulado sea superior a setenta y un millones trescientos mil pesos ($71.300.000); con indicación del valor total del movimiento efectuado durante el año.
+
+> [!note] Valores absolutos que regirán para el año 2001 establecidos por el artículo [[art. 3 Decreto 2661 de 2000|3]] del Decreto 2661 de 2000. Ver Notas de Vigencia sobre valores absolutos para años posteriores. El texto original con los valores establecidos para el año gravable 2001 es el siguiente:
+
+> [!info] Notas de Vigencia: En las siguientes resoluciones se establecen los valores absolutos a partir del 2001: Resolución DIAN 162 de 2023; Art. 7 Resolución DIAN 1255 de 2022; Art. 7 Resolución DIAN 124 de 2021; Art. 7 Resolución DIAN 98 de 2020; Arts. 7 Resolución DIAN 8654 de 2010; Art. 5 Resolución DIAN 7929 de 2009; Art. 5 Resolución DIAN 3841 de 2008; Art. 5 Resolución DIAN 12684 de 2007; Art. 5 Resolución DIAN 12800 de 2006; Art. 5 Resolución DIAN 10141 de 2005; Art. 5 Resolución DIAN 9706 de 2004; Art. 3 Resolución DIAN 8972 de 2003; Art. 3 Resolución DIAN 10539 de 2002; Art. 3 Resolución DIAN 9271 de 2001; Art. [[art. 3 ET|3]] - Según lo dispuesto por el artículo [[art. 631-2 ET|631-2]] de este estatuto, adicionado por el artículo [[art. 23 Ley 863 de 2003|23]] de la Ley 863 de 2003, publicada en el Diario Oficial No. 45.415, de 29 de diciembre de 2003, los valores y datos, de que trata este artículo, así como los plazos y los obligados a suministrar la información en él contemplada, serán determinados mediante resolución expedida por el Director General de la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales, en forma individual o acumulada respecto de las operaciones objeto de información. - Mediante el artículo [[art. 3 Decreto 2661 de 2000|3]] del Decreto 2661 de 2000, publicado en el Diario Oficial No 44.271, de 26 de diciembre de 2000, se actualizaron los valores absolutos en las normas relativas a la información que deben suministrar los siguientes contribuyentes, por el año gravable 2001. - Mediante el artículo [[art. 3 Decreto 2587 de 1999|3]] del Decreto 2587 de 1999, publicada en el Diario Oficial No. 43.828, de 23 de diciembre de 1999, se actualizaron los valores absolutos en las normas relativas a la información que deben suministrar los siguientes contribuyentes, por el año gravable 2000. - La expresión 'Número de la cuenta o cuentas', del literal a fue adicionada por el artículo [[art. 10 Ley 383 de 1997|10]] de la Ley 383 de 1997, publicada en el Diario Oficial No. 43.083 del 14 de julio de 1997.
+
+**PARAGRAFO 1o.** Respecto de las operaciones de que trata el presente artículo, se deberá informar la identificación de la totalidad de las personas o entidades que figuren como titulares principales o secundarios de las cuentas, documentos o tarjetas respectivas, así como la de quienes sin tener tal calidad, estén autorizados para realizar operaciones en relación con la respectiva cuenta, documento o tarjeta.
+
+**PARAGRAFO 2o.** La información a que se refiere el literal a) del presente artículo, también deberán presentarla, los fondos de valores, fondos de inversión, fondos de pensiones y fondos mutuos de inversión.
+
+**PARAGRAFO 3o.** La información en medios magnéticos, a que se refiere el presente artículo, podrá suministrarse en forma anual acumulada, o por cada mes, bimestre, trimestre o período que utilice la respectiva entidad para elaborar sus extractos, estados de cuenta o facturación. En este último evento, la cuantía a partir de la cual se debe suministrar la información, será la que resulte de dividir por 12 cada uno de los montos a que se refieren los literales a) b) y c) del presente artículo y el resultado multiplicarlo por el número de meses objeto de información.
+
+---
+← [[art. 622 ET]] · ↑ [[ET - Libro Quinto - Título II - Capítulo III - Deberes y obligaciones de información|Deberes y obligaciones de información]] · [[art. 623-1 ET]] →

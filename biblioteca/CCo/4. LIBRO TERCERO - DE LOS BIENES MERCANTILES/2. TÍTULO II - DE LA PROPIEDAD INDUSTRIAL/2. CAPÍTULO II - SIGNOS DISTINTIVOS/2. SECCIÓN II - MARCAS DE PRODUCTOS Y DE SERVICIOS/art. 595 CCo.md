@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo II - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 594 CCo]]"
 siguiente: "[[art. 596 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#595"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,13 +33,11 @@ tags:
 
 ## Artículo 595. CADUCIDAD DEL REGISTRO DE LA MARCA
 
-El registro de la marca caducará y será cancelado a solicitud de cualquier persona cuando su titular no la haya utilizado en Colombia, directamente o por medio de terceros, salvo fuerza mayor o caso fortuito, durante cinco años contados hacia atrás a partir de la fecha de la demanda.
+(Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
-Corresponde conocer de la acción de caducidad a la Oficina de Propiedad Industrial y quien obtenga resolución favorable tendrá derecho preferencial al registro, si lo solicita dentro de los tres meses siguientes a la ejecutoria del fallo.
+> [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-La utilización de la marca para uno o varios productos o servicios pertenecientes a determinada clase, bastará para impedir la caducidad en relación con los demás productos o servicios de la misma o de varias clases. Tampoco habrá lugar a la caducidad cuando se trate de marcas defensivas.
-
-**PARÁGRAFO.** El empleo de una marca en productos o servicios es facultativo, pero el Gobierno podrá hacerlo obligatorio.
+> [!note] Notas de Vigencia: Ver Nota de Vigencia del Título II 'DE LA PROPIEDAD INDUSTRIAL' del Libro Tercero 'DE LOS BIENES MERCANTILES'. Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena.
 
 ---
 ← [[art. 594 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo II - Sección II|Sección II]] · [[art. 596 CCo]] →

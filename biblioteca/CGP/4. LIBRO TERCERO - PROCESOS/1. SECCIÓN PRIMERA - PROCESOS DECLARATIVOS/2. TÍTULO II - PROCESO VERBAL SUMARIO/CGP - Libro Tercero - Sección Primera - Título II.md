@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|CAPÍTULO I - Disposiciones Generales]] (arts. 390 a 392)
-- [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|CAPÍTULO II - Disposiciones Especiales]] (arts. 393 a 398)
+- [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]] (arts. 390 a 392)
+- [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES]] (arts. 393 a 398)
 
 ---
 ← [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] · ↑ [[CGP - Libro Tercero - Sección Primera|Sección Primera]] · [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] →

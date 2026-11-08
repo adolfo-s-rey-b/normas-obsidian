@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 299 CC]]"
 siguiente: "[[art. 301 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1975
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -34,9 +35,9 @@ tags:
 
 No teniendo los padres la administración de todo o parte del peculio adventicio ordinario o extraordinario, se dará al hijo un curador para esta administración.
 
-> [!info] Inciso 2o. modificado por el artículo [[art. 6 Decreto 772 de 1975|6]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
-
 Pero quitada a los padres la administración de aquellos bienes del hijo en que la ley les da el usufructo, no dejarán por esto de tener derecho a los frutos líquidos, deducidos los gastos de administración.
+
+> [!info] Inciso 2o. modificado por el artículo [[art. 6 Decreto 772 de 1975|6]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Inciso 2o. modificado por el artículo [[art. 6 Decreto 772 de 1975|6]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975.
 

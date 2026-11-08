@@ -1,0 +1,41 @@
+---
+aliases:
+  - "ET CAPÍTULO II - FUSIONES Y ESCISIONES"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "FUSIONES Y ESCISIONES"
+libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
+titulo: "[[ET - Libro Primero - Título IV|TÍTULO IV - REORGANIZACIONES EMPRESARIALES]]"
+articulos: "arts. 319-3 a 324"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título IV|Título IV]]
+
+## CAPÍTULO II - FUSIONES Y ESCISIONES
+
+*Arts. 319-3 a 324*
+
+### Contenido
+
+- [[art. 319-3 ET|Artículo 319-3]] — FUSIONES Y ESCISIONES ADQUISITIVAS
+- [[art. 319-4 ET|Artículo 319-4]] — EFECTOS EN LAS FUSIONES Y ESCISIONES ADQUISITIVAS
+- [[art. 319-5 ET|Artículo 319-5]] — FUSIONES Y ESCISIONES REORGANIZATIVAS
+- [[art. 319-6 ET|Artículo 319-6]] — EFECTOS EN LAS FUSIONES Y ESCISIONES REORGANIZATIVAS ENTRE ENTIDADES
+- [[art. 319-7 ET|Artículo 319-7]] — FUSIONES Y ESCISIONES GRAVADAS
+- [[art. 319-8 ET|Artículo 319-8]] — FUSIONES Y ESCISIONES ENTRE ENTIDADES EXTRANJERAS
+- [[art. 319-9 ET|Artículo 319-9]] — RESPONSABILIDAD SOLIDARIA EN CASOS DE FUSIÓN Y ESCISIÓN
+- [[art. 320 ET|Artículo 320]] — CASO EN EL QUE SE PRESUME LA TRANSFERENCIA
+- [[art. 321 ET|Artículo 321]] — CONCEPTOS, BASE GRAVABLE Y TARIFAS
+- [[art. 321-1 ET|Artículo 321-1]] — TARIFA DE REMESAS PARA UTILIDADES DE SUCURSALES A PARTIR DEL AÑO 1993
+- [[art. 322 ET|Artículo 322]] — CASOS EN LOS CUALES NO SE APLICA EL IMPUESTO DE REMESAS
+- [[art. 323 ET|Artículo 323]] — EXCEPCIÓN AL IMPUESTO DE REMESAS EN LA ZONA DEL DEPARTAMENTO DEL CAUCA
+- [[art. 324 ET|Artículo 324]] — EXENCIÓN A LAS REGALÍAS
+
+---
+← [[ET - Libro Primero - Título IV - Capítulo I|Capítulo I]] · ↑ [[ET - Libro Primero - Título IV|Título IV]]

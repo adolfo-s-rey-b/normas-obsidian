@@ -10,25 +10,26 @@ sigla: "CC"
 articulo: "50"
 epigrafe: "PARENTESCO CIVIL"
 capitulo: "[[CC - Capítulo V|CAPÍTULO V - DEFINICIONES DE VARIAS PALABRAS DE USO FRECUENTE EN LAS LEYES]]"
-vigencia: "vigente"
+vigencia: "derogado"
 derogado_por:
   - "[[art. 50 CC]]"
 anterior: "[[art. 49 CC]]"
 siguiente: "[[art. 51 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/derogado
 ---
 
 [[CC|CC]] › [[CC - Capítulo V|Capítulo V]]
 
 ## Artículo 50. PARENTESCO CIVIL
 
-<Derogado orgánicamente por la Ley 5ª de 1975, el Código del Menor y el Código de la Infancia y la Adolescencia, según lo analiza la Corte Constitucional en Sentencia C-336-16>
+> [!warning] Derogado orgánicamente por la Ley 5ª de 1975, el Código del Menor y el Código de la Infancia y la Adolescencia, según lo analiza la Corte Constitucional en Sentencia C-336-16
 
 > [!note] Notas del Editor: En criterio del editor para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el numeral 2 del artículo [[art. 64 Ley 1098 de 2006|64]] de la Ley 1098 de 2006, 'por la cual se expide el Código de la Infancia y la Adolescencia', publicada en el Diario Oficial No. 46.446 de 8 de noviembre de 2006. (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 64 . EFECTOS JURÍDICOS DE LA ADOPCIÓN. La adopción produce los siguientes efectos: (...) 2. La adopción establece parentesco civil entre el adoptivo y el adoptante, que se extiende en todas las líneas y grados a los consanguíneos, adoptivos o afines de estos.'. - En criterio del editor para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo 100 del Código del Menor. (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 100 . La adopción establece parentesco civil entre el adoptivo, el adoptante y los parientes consanguíneos o adoptivos de éste.'.
 

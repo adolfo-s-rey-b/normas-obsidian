@@ -16,8 +16,12 @@ capitulo: "[[CPol - Título XI - Capítulo 1|CAPÍTULO 1 - De las disposiciones 
 vigencia: "vigente"
 anterior: "[[art. 289 CPol]]"
 siguiente: "[[art. 291 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#290"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,13 +32,9 @@ tags:
 
 ## Artículo 290
 
-Con el cumplimiento de los requisitos y formalidades que señale la ley, y en los casos que ésta determine, se realizará el examen periódico de los límites de las entidades territoriales y se públicará el mapa oficial de la República.
+Con el cumplimiento de los requisitos y formalidades que señale la ley, y en los casos que ésta determine, se realizará el examen periódico de los límites de las entidades territoriales y se publicará el mapa oficial de la República.
 
-> [!note] Ver Ley 962 de 2005; Art. [[art. 29 Ley 962 de 2005|29]] ; Art. [[art. 30 Ley 962 de 2005|30]]
-
-> [!note] Ver Ley 1447 de 2011
-
-> [!note] Ver Ley 1617 de 2013; Art. [[art. 10 Ley 1617 de 2013|10]]
+> [!note] Concordancias: Ley 962 de 2005; Art. [[art. 29 Ley 962 de 2005|29]] ; Art. [[art. 30 Ley 1447 de 2011|30]] Ley 1447 de 2011 Ley 1617 de 2013; Art. [[art. 10 Ley 2200 de 2022|10]] Ley 2200 de 2022; Art. [[art. 13 Ley 2200 de 2022|13]]
 
 ---
 ← [[art. 289 CPol]] · ↑ [[CPol - Título XI - Capítulo 1|Capítulo 1]] · [[art. 291 CPol]] →

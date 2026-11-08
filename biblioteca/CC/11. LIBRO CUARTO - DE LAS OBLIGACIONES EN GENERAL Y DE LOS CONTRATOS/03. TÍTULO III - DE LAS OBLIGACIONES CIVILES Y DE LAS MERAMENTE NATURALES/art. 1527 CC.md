@@ -20,8 +20,9 @@ derogado_por:
 anterior: "[[art. 1526 CC]]"
 siguiente: "[[art. 1528 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2005
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,7 +33,9 @@ tags:
 
 ## Artículo 1527. DEFINICIÓN DE OBLIGACIONES CIVILES Y NATURALES
 
-<Aparte tachado derogado tácitamente según lo establece la Corte Constitucional en Sentencia C-857-05> Las obligaciones son civiles o meramente naturales.
+Las obligaciones son civiles o meramente naturales.
+
+> [!warning] Aparte tachado derogado tácitamente según lo establece la Corte Constitucional en Sentencia C-857-05
 
 Civiles son aquellas que dan derecho para exigir su cumplimiento.
 

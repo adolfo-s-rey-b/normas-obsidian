@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 143 Ley 1819 de 2016]]"
 anterior: "[[art. 19-4 ET]]"
 siguiente: "[[art. 20 ET]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#19-5"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2016
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
@@ -32,9 +37,11 @@ tags:
 
 Las personas jurídicas originadas en la constitución de la propiedad horizontal que destinan algún o algunos de sus bienes, o áreas comunes para la explotación comercial o industrial, generando algún tipo de renta, serán contribuyentes del régimen ordinario del impuesto sobre la renta y complementarios y del impuesto de industria y comercio.
 
-**PARÁGRAFO .** Se excluirán de lo dispuesto en este artículo las propiedades horizontales de uso residencial.
+> [!info] Artículo adicionado por el artículo [[art. 143 Ley 1819 de 2016|143]] de la Ley 1819 de 2016. El nuevo texto es el siguiente:
 
-> [!info] Adicionado por el Art. [[art. 143 Ley 1819 de 2016|143]] de la Ley 1819 de 2016
+**PARÁGRAFO.** Se excluirán de lo dispuesto en este artículo las propiedades horizontales de uso residencial.
+
+> [!info] Notas de Vigencia: Artículo adicionado por el artículo [[art. 143 Ley 1819 de 2016|143]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016.
 
 ---
 ← [[art. 19-4 ET]] · ↑ [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]] · [[art. 20 ET]] →

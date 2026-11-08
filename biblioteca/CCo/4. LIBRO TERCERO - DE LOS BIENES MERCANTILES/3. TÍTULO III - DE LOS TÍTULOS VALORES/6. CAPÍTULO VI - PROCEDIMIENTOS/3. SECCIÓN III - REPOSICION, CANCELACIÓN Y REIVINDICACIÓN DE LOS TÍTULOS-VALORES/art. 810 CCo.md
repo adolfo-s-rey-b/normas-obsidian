@@ -19,7 +19,11 @@ derogado_por:
 anterior: "[[art. 809 CCo]]"
 siguiente: "[[art. 811 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#810"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

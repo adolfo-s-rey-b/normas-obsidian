@@ -22,7 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 81 CST|Artículo 81]] — DEFINICION
+- [[art. 81 CST|Artículo 81]] — NATURALEZA Y CARACTERÍSTICAS DE LA RELACIÓN DE APRENDIZAJE
+- [[art. 81A CST|Artículo 81A]] — INTERNOS DE MEDICINA
 - [[art. 82 CST|Artículo 82]] — CAPACIDAD
 - [[art. 83 CST|Artículo 83]] — ESTIPULACIONES ESENCIALES
 - [[art. 84 CST|Artículo 84]] — FORMA

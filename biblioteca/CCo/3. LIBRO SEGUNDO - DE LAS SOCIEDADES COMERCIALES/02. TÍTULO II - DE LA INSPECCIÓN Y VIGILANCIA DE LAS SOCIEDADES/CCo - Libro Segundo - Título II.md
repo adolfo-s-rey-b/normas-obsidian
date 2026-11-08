@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[CCo - Libro Segundo - Título II - Capítulo I|CAPÍTULO I - Derogado por el art. 242, Ley 222 de 1995]] (arts. 266 a 288)
+- [[CCo - Libro Segundo - Título II - Capítulo I|CAPÍTULO I - SUPERINTENDENCIA DE SOCIEDADES]] (arts. 266 a 288)
 - [[CCo - Libro Segundo - Título II - Capítulo II|CAPÍTULO II - BALANCES]] (arts. 289 a 293)
 
 ---

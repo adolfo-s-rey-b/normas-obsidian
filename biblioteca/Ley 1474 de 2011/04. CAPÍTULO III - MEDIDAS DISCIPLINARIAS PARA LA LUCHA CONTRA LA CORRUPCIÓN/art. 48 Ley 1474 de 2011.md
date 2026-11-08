@@ -8,11 +8,16 @@ epigrafe: "Competencia"
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 47 Ley 1474 de 2011]]"
 siguiente: "[[art. 49 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#48"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -27,7 +32,7 @@ El artículo [[art. 123 Ley 734 de 2002|123]] de la Ley 734 de 2002 quedará as�
 
 ~~Los fallos sancionatorios y autos de archivo podrán ser revocados por el funcionario que los hubiere proferido o por su superior funcional.~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019
 
 **PARÁGRAFO .** El Procurador General de la Nación podrá revocar de oficio los fallos sancionatorios, los autos de archivo y el fallo absolutorio , en este último evento cuando se trate de faltas disciplinarias que constituyen violaciones del Derecho Internacional de los Derechos Humanos y del Derecho Internacional Humanitario, expedidos por cualquier funcionario de la Procuraduría o autoridad disciplinaria, o asumir directamente el conocimiento de la petición de revocatoria, cuando lo considere necesario, caso en el cual proferirá la decisión correspondiente.
 

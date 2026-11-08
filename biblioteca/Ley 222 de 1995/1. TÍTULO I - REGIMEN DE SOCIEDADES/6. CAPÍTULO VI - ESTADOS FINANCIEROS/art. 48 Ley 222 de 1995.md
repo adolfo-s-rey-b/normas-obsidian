@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VI|CAPÍTULO VI - ESTADOS F
 vigencia: "vigente"
 anterior: "[[art. 47 Ley 222 de 1995]]"
 siguiente: "[[art. 49 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#48"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -26,7 +30,7 @@ Los socios podrán ejercer el derecho de inspección sobre los libros y papeles 
 
 Las controversias que se susciten en relación con el derecho de inspección serán resueltas por la entidad que ejerza la inspección, vigilancia o control. En caso de que la autoridad considere que hay lugar al suministro de información, impartirá la orden respectiva.
 
-Los administradores que impidieren el ejercicio del derecho de inspección o el revisor fiscal que conociendo de aquel incumplimiento se abstuviere de denunciarlo oportunamente, incurrirán en causal de remoción. La medida deberá hacerse efectiva por la persona u órgano competente para ello o, en subsidio, por la entidad gubernamental que ejerza la inspección, vigilancia o control del ente.
+Los administradores que impidieren el ejercicio del derecho de inspección o el revisor fiscal que conociendo de aquel incumplimiento se abstuviera de denunciarlo oportunamente, incurrirán en causal de remoción. La medida deberá hacerse efectiva por la persona u órgano competente para ello o, en subsidio, por la entidad gubernamental que ejerza la inspección, vigilancia o control del ente.
 
 ---
 ← [[art. 47 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo VI|Capítulo VI]] · [[art. 49 Ley 222 de 1995]] →

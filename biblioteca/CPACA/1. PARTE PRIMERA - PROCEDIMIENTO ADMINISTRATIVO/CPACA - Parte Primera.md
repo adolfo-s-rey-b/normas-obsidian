@@ -22,7 +22,7 @@ tags:
 ### Contenido
 
 - [[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]] (arts. 1 a 12)
-- [[CPACA - Parte Primera - Título II|TÍTULO II - Sustituido por Art. 1, Ley 1755 de 2015]] (arts. 13 a 33)
+- [[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]] (arts. 13 a 33)
 - [[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]] (arts. 34 a 97)
 - [[CPACA - Parte Primera - Título IV|TÍTULO IV - PROCEDIMIENTO ADMINISTRATIVO DE COBRO COACTIVO]] (arts. 98 a 101)
 - [[CPACA - Parte Primera - Título V|TÍTULO V - EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO]] (art. 102)

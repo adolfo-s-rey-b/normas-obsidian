@@ -15,10 +15,17 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 36 Ley 50 de 1990]]"
   - "[[art. 11 Decreto 2351 de 1965]]"
+  - "[[art. 158 CST]]"
+  - "[[art. 46 Decreto 3743 de 1950]]"
 anterior: "[[art. 156 CST]]"
 siguiente: "[[art. 158 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#157"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1990
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -29,7 +36,9 @@ tags:
 
 ## Artículo 157. PRELACION DE CREDITOS POR SALARIOS, PRESTACIONES SOCIALES E INDEMNIZACIONES LABORALES
 
-Los créditos causados o exigibles de los trabajadores por concepto de salarios, las cesantías y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo [[art. 2495 CC|2495]] del Código Civil y tienen privilegio excluyente sobre todo los demás.
+PRELACION DE CREDITOS POR SALARIOS, PRESTACIONES SOCIALES E INDEMNIZACIONES LABORALES. Los créditos causados o exigibles de los trabajadores por concepto de salarios, las cesantías y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo [[art. 2495 CC|2495]] del Código Civil y tienen privilegio excluyente sobre todo los demás.
+
+> [!info] Artículo modificado por el artículo [[art. 36 Ley 50 de 1990|36]] de la Ley 50 de 1990. El nuevo texto es el siguiente:
 
 El juez civil que conozca del proceso de concurso de acreedores o de quiebra dispondrá el pago privilegiado y pronto de los créditos a los trabajadores afectados por la quiebra o insolvencia del {empleador}.
 
@@ -39,9 +48,7 @@ Los créditos laborales podrán demostrarse por cualquier medio de prueba autori
 
 **PARAGRAFO.** En los procesos de quiebra o concordato los trabajadores podrán hacer valer sus derechos por sí mismos o por intermedio del Sindicato, Federación o Confederación a que pertenezcan, siempre de conformidad con las leyes vigentes.
 
-> [!info] Modificado por el Art. [[art. 36 Ley 50 de 1990|36]] de la Ley 50 de 1990.
-
-> [!info] Modificado por el Art. [[art. 11 Decreto 2351 de 1965|11]] del Decreto 2351 de 1965
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 36 Ley 50 de 1990|36]] de la Ley 50 de 1990, publicada en el Diario Oficial No 39.618 del 1o. de enero de 1991. - Artículo modificado por el artículo [[art. 11 Decreto 2351 de 1965|11]] del Decreto 2351 de 1965, publicado en el Diario Oficial No 31.754 de 1965. Según lo expresa el artículo [[art. 36 Ley 50 de 1990|36]] de la Ley 50 de 1990 de 1965. - Este artículo corresponde al artículo [[art. 158 CST|158]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 156 CST]] · ↑ [[CST - Título V - Capítulo V|Capítulo V]] · [[art. 158 CST]] →

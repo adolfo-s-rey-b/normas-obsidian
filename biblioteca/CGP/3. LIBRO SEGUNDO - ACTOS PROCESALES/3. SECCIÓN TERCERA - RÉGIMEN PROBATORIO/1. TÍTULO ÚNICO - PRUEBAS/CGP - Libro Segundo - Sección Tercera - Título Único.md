@@ -23,16 +23,16 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|CAPÍTULO I - Disposiciones generales]] (arts. 164 a 182)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|CAPÍTULO II - Pruebas extraprocesales]] (arts. 183 a 190)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|CAPÍTULO III - Declaración de parte y confesión]] (arts. 191 a 205)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IV|CAPÍTULO IV - Juramento]] (arts. 206 a 207)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|CAPÍTULO V - Declaración de terceros]] (arts. 208 a 225)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|CAPÍTULO VI - Prueba pericial]] (arts. 226 a 235)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|CAPÍTULO VII - Inspección Judicial]] (arts. 236 a 239)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VIII|CAPÍTULO VIII - Indicios]] (arts. 240 a 242)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|CAPÍTULO IX - Documentos]] (arts. 243 a 274)
-- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo X|CAPÍTULO X - Prueba por Informe]] (arts. 275 a 277)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]] (arts. 164 a 182)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|CAPÍTULO II - PRUEBAS EXTRAPROCESALES]] (arts. 183 a 190)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|CAPÍTULO III - DECLARACIÓN DE PARTE Y CONFESIÓN]] (arts. 191 a 205)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IV|CAPÍTULO IV - JURAMENTO]] (arts. 206 a 207)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|CAPÍTULO V - DECLARACIÓN DE TERCEROS]] (arts. 208 a 225)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|CAPÍTULO VI - PRUEBA PERICIAL]] (arts. 226 a 235)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|CAPÍTULO VII - INSPECCIÓN JUDICIAL]] (arts. 236 a 239)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VIII|CAPÍTULO VIII - INDICIOS]] (arts. 240 a 242)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|CAPÍTULO IX - DOCUMENTOS]] (arts. 243 a 274)
+- [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo X|CAPÍTULO X - PRUEBA POR INFORME]] (arts. 275 a 277)
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]]

@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 161 CST|Artículo 161]] — DURACION
+- [[art. 161 CST|Artículo 161]] — DURACIÓN
 - [[art. 162 CST|Artículo 162]] — EXCEPCIONES EN DETERMINADAS ACTIVIDADES
 - [[art. 163 CST|Artículo 163]] — EXCEPCIONES EN CASOS ESPECIALES
 - [[art. 164 CST|Artículo 164]] — DESCANSO EN LA TARDE DEL SABADO

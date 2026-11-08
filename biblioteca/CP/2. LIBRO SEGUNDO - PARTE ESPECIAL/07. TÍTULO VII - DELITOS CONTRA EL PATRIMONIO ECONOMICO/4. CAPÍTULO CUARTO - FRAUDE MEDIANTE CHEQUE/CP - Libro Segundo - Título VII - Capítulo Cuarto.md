@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 248 CP|Artículo 248]] — Emisión y transferencia ilegal de cheque
+- [[art. 248 CP|Artículo 248]] — EMISIÓN Y TRANSFERENCIA ILEGAL DE CHEQUE
 
 ---
 ← [[CP - Libro Segundo - Título VII - Capítulo Tercero|Capítulo Tercero]] · ↑ [[CP - Libro Segundo - Título VII|Título VII]] · [[CP - Libro Segundo - Título VII - Capítulo Quinto|Capítulo Quinto]] →

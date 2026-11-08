@@ -17,7 +17,7 @@ anterior: "[[art. 2176 CC]]"
 siguiente: "[[art. 2178 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,6 +29,8 @@ tags:
 ## Artículo 2177. CONTRATACIÓN DEL MANDATARIO
 
 (sic) El mandatario puede, en el ejercicio de su cargo, contestar a su propio nombre o al del mandante; si contrata a su propio nombre no obliga respecto de terceros al mandante.
+
+(sic)
 
 ---
 ← [[art. 2176 CC]] · ↑ [[CC - Libro Cuarto - Título XXVIII - Capítulo II|Capítulo II]] · [[art. 2178 CC]] →

@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VI - Capítulo 3|CAPÍTULO 3 - De las leyes]]"
 vigencia: "vigente"
 anterior: "[[art. 167 CPol]]"
 siguiente: "[[art. 169 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#168"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2026
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,11 +35,11 @@ tags:
 
 Si el Presidente no cumpliere el deber de sancionar las leyes en los términos y según las condiciones que la Constitución establece, las sancionará y promulgará el Presidente del Congreso.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 201 Ley 5 de 1992|201]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 201 Ley 109 de 1994|201]] Ley 109 de 1994; Art. [[art. 4 Ley 109 de 1994|4]]
 
-> [!note] Ver Ley 109 de 1994; Art. [[art. 4 Ley 109 de 1994|4]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-270-93 ; C-433-04 ; C-927-2005 ; C-714-08 ; C-166-26 ;
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-270-93; C-433-04; C-927-2005; C-714-08
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 34, 40 y 67)
 
 ---
 ← [[art. 167 CPol]] · ↑ [[CPol - Título VI - Capítulo 3|Capítulo 3]] · [[art. 169 CPol]] →

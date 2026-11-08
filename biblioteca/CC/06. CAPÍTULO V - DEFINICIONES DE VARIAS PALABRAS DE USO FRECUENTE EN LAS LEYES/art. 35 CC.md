@@ -14,7 +14,7 @@ anterior: "[[art. 34 CC]]"
 siguiente: "[[art. 36 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -26,6 +26,8 @@ tags:
 ## Artículo 35
 
 Parentesco de consanguinidad es la relación o conexión que existe entre las personas que descienden de un mismo tronco o raíz, o que están unidas por los vínculos de la sangre.
+
+(PARENTESCO DE CONSANGUINIDAD)
 
 ---
 ← [[art. 34 CC]] · ↑ [[CC - Capítulo V|Capítulo V]] · [[art. 36 CC]] →

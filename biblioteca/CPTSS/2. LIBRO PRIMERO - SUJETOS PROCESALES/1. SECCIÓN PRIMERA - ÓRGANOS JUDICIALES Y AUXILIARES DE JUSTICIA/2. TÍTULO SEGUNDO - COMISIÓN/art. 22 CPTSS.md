@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "22"
-epigrafe: "Reglas generales"
+epigrafe: "REGLAS GENERALES"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 21 CPTSS]]"
 siguiente: "[[art. 23 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#22"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -25,9 +29,9 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 22. Reglas generales
+## Artículo 22. REGLAS GENERALES
 
-La comisión solo podrá conferirse para la práctica de pruebas en los casos que autoriza el artículo [[art. 5 CPTSS|5]]º de este código, para la de otras diligencias que deban surtirse fuera de la sede del juez del conocimiento, y para secuestro y entrega de bienes en dicha sede, en cuanto fuere menester. No podrá comisionarse para la práctica de medidas cautelares extraprocesales.
+La comisión solo podrá conferirse para la práctica de pruebas en los casos que autoriza el artículo [[art. 5 CPTSS|5]]o de este código, para la de otras diligencias que deban surtirse fuera de la sede del juez del conocimiento, y para secuestro y entrega de bienes en dicha sede, en cuanto fuere menester. No podrá comisionarse para la práctica de medidas cautelares extraprocesales.
 
 La comisión podrá consistir en la solicitud, por cualquier vía expedita, de auxilio a otro servidor público para que realice las diligencias necesarias que faciliten la práctica de las pruebas por medio de videoconferencia, teleconferencia o cualquier otro medio idóneo de comunicación simultánea.
 

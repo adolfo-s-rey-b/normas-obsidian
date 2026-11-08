@@ -1,0 +1,49 @@
+---
+aliases:
+  - "CGD TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA"
+tipo: indice
+norma: "Ley 1952 de 2019"
+sigla: "CGD"
+nivel: "TÍTULO"
+etiqueta: "I"
+nombre: "PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA"
+libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
+articulos: "arts. 1 a 22"
+tags:
+  - normas/indice
+  - normas/cgd
+---
+
+[[CGD|CGD]] › [[CGD - Libro I|Libro I]]
+
+## TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA
+
+*Arts. 1 a 22*
+
+### Contenido
+
+- [[art. 1 CGD|Artículo 1]] — RECONOCIMIENTO DE LA DIGNIDAD HUMANA
+- [[art. 2 CGD|Artículo 2]] — TITULARIDAD DE LA POTESTAD DISCIPLINARIA, FUNCIONES ~~JURISDICCIONALES~~ DE LA PROCURADURÍA GENERAL DE LA NACIÓN E INDEPENDENCIA DE LA ACCIÓN
+- [[art. 3 CGD|Artículo 3]] — PODER DISCIPLINARIO PREFERENTE
+- [[art. 4 CGD|Artículo 4]] — LEGALIDAD
+- [[art. 5 CGD|Artículo 5]] — FINES DE LA SANCIÓN DISCIPLINARIA
+- [[art. 6 CGD|Artículo 6]] — PROPORCIONALIDAD Y RAZONABILIDAD DE LA SANCIÓN DISCIPLINARIA
+- [[art. 7 CGD|Artículo 7]] — IGUALDAD
+- [[art. 8 CGD|Artículo 8]] — FAVORABILIDAD
+- [[art. 9 CGD|Artículo 9]] — ILICITUD SUSTANCIAL
+- [[art. 10 CGD|Artículo 10]] — CULPABILIDAD
+- [[art. 11 CGD|Artículo 11]] — FINES DEL PROCESO DISCIPLINARIO
+- [[art. 12 CGD|Artículo 12]] — DEBIDO PROCESO
+- [[art. 13 CGD|Artículo 13]] — INVESTIGACIÓN INTEGRAL
+- [[art. 14 CGD|Artículo 14]] — PRESUNCIÓN DE INOCENCIA
+- [[art. 15 CGD|Artículo 15]] — DERECHO A LA DEFENSA
+- [[art. 16 CGD|Artículo 16]] — COSA JUZGADA DISCIPLINARIA
+- [[art. 17 CGD|Artículo 17]] — GRATUIDAD DE LA ACTUACIÓN DISCIPLINARIA
+- [[art. 18 CGD|Artículo 18]] — CELERIDAD DE LA ACTUACIÓN DISCIPLINARIA
+- [[art. 19 CGD|Artículo 19]] — MOTIVACIÓN
+- [[art. 20 CGD|Artículo 20]] — CONGRUENCIA
+- [[art. 21 CGD|Artículo 21]] — CLÁUSULA DE EXCLUSIÓN
+- [[art. 22 CGD|Artículo 22]] — PREVALENCIA DE LOS PRINCIPIOS RECTORES E INTEGRACIÓN NORMATIVA
+
+---
+↑ [[CGD - Libro I|Libro I]] · [[CGD - Libro I - Título II|Título II]] →

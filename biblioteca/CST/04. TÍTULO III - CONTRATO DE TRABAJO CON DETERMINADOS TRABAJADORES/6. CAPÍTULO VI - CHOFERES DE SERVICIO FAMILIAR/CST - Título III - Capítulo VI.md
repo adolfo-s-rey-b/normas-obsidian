@@ -8,7 +8,7 @@ nivel: "CAPÍTULO"
 etiqueta: "VI"
 nombre: "CHOFERES DE SERVICIO FAMILIAR"
 titulo: "[[CST - Título III|TÍTULO III - CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES]]"
-articulos: "art. 103"
+articulos: "arts. 103 a 103C"
 tags:
   - normas/indice
   - normas/cst
@@ -18,11 +18,12 @@ tags:
 
 ## CAPÍTULO VI - CHOFERES DE SERVICIO FAMILIAR
 
-*Art. 103*
+*Arts. 103 a 103C*
 
 ### Contenido
 
 - [[art. 103 CST|Artículo 103]] — TERMINACION DEL CONTRATO
+- [[art. 103C CST|Artículo 103C]] — PROTECCIÓN AL TRABAJO FEMENINO RURAL Y CAMPESINO
 
 ---
 ← [[CST - Título III - Capítulo V|Capítulo V]] · ↑ [[CST - Título III|Título III]]

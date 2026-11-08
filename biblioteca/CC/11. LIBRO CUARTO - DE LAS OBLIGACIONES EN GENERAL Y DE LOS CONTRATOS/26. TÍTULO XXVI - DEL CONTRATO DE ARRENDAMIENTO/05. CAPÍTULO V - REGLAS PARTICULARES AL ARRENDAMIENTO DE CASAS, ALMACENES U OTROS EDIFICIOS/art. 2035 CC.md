@@ -18,8 +18,9 @@ derogado_por:
 anterior: "[[art. 2034 CC]]"
 siguiente: "[[art. 2036 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2003
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,7 @@ tags:
 
 ## Artículo 2035. MORA EN EL PAGO DE LA RENTA
 
-<Artículo derogado por el artículo [[art. 43 Ley 820 de 2003|43]] de la Ley 820 de 2003>
+> [!warning] Artículo derogado por el artículo [[art. 43 Ley 820 de 2003|43]] de la Ley 820 de 2003
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 43 Ley 820 de 2003|43]] de la Ley 820 de 2003, publicada en el Diario Oficial No. 45.244, de 10 de julio de 2003.
 

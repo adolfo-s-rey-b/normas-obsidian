@@ -14,12 +14,13 @@ vigencia: "derogado"
 derogado_por:
   - "[[art. 123 Decreto 1260 de 1970]]"
   - "[[art. 27 CC]]"
-  - "[[art. 10 CC]]"
+  - "[[art. 10 Ley 92 de 1938]]"
 anterior: "[[art. 368 CC]]"
 siguiente: "[[art. 370 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1970
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,9 +31,9 @@ tags:
 
 ## Artículo 369
 
-<Artículo derogado por el artículo [[art. 123 Decreto 1260 de 1970|123]] del Decreto 1260 de 1970.>
+> [!warning] Artículo derogado por el artículo [[art. 123 Decreto 1260 de 1970|123]] del Decreto 1260 de 1970.
 
-> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 123 Decreto 1260 de 1970|123]] del Decreto 1260 de 1970, publicado en el Diario Oficial No. 33.118, de 5 de agosto de 1970. - Artículo modificado por la Ley 92 de 1938, publicada en el Diario Oficial No. 23.803, del 15 de junio de 1938, según lo dispuesto en el artículo [[art. 27 CC|27]]. Ver artículo [[art. 10 CC|10]].
+> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 123 Decreto 1260 de 1970|123]] del Decreto 1260 de 1970, publicado en el Diario Oficial No. 33.118, de 5 de agosto de 1970. - Artículo modificado por la Ley 92 de 1938, publicada en el Diario Oficial No. 23.803, del 15 de junio de 1938, según lo dispuesto en el artículo [[art. 27 CC|27]]. Ver artículo [[art. 10 Ley 92 de 1938|10]].
 
 ---
 ← [[art. 368 CC]] · ↑ [[CC - Libro Primero - Título XX|Título XX]] · [[art. 370 CC]] →

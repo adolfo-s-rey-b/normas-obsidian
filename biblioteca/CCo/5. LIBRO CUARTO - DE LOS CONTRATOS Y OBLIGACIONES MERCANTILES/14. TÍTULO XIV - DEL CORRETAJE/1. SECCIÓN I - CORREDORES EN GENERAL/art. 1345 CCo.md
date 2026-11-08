@@ -15,8 +15,12 @@ seccion: "[[CCo - Libro Cuarto - Título XIV - Sección I|SECCIÓN I - CORREDORE
 vigencia: "vigente"
 anterior: "[[art. 1344 CCo]]"
 siguiente: "[[art. 1346 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1345"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Los corredores están obligados, además:
 
-1\. A conservar las muestras de las mercancías vendidas sobre muestra, mientras subsista la controversia, de conformidad con el artículo [[art. 913 CCo|913]], y
+1\. A conservar las muestras de las mercancías vendidas sobre muestra, mientras subsista la controversia, de conformidad con el artículo [[art. 913 CCo|913]] , y
 
 2\. A llevar en sus libros una relación de todos y cada uno de los negocios en que intervenga con indicación del nombre y domicilio de las partes que los celebren, de la fecha y cuantía de los mismos o del precio de los bienes sobre que versen, de la descripción de éstos y de la remuneración obtenida.
 

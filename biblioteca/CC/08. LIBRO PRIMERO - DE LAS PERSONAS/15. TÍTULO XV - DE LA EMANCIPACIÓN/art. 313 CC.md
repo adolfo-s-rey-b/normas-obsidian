@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 312 CC]]"
 siguiente: "[[art. 314 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1975
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -34,9 +35,9 @@ tags:
 
 La emancipación voluntaria se efectúa por instrumento público, en que los padres declaran emancipar al hijo adulto y éste consiente en ello. No valdrá esta emancipación si no es autorizada por el juez con conocimiento de causa.
 
-> [!info] Inciso adicionado por el artículo [[art. 8 Decreto 772 de 1975|8]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
-
 Toda emancipación, una vez efectuada, es irrevocable, aún por causa de ingratitud.
+
+> [!info] Inciso adicionado por el artículo [[art. 8 Decreto 772 de 1975|8]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Inciso 2o. adicionado por el artículo [[art. 8 Decreto 772 de 1975|8]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975. - Artículo modificado por el artículo [[art. 43 Decreto 2820 de 1974|43]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

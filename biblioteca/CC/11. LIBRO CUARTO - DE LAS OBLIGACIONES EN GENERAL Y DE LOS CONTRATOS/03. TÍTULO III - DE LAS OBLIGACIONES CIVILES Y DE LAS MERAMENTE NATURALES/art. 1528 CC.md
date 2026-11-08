@@ -16,7 +16,7 @@ anterior: "[[art. 1527 CC]]"
 siguiente: "[[art. 1529 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,8 +28,6 @@ tags:
 ## Artículo 1528. EFECTOS DE LAS SENTENCIAS SOBRE LA OBLIGACIÓN NATURAL
 
 La sentencia judicial que rechaza la acción intentada contra el naturalmente obligado, no extingue la obligación natural.
-
-(sic)
 
 ---
 ← [[art. 1527 CC]] · ↑ [[CC - Libro Cuarto - Título III|Título III]] · [[art. 1529 CC]] →

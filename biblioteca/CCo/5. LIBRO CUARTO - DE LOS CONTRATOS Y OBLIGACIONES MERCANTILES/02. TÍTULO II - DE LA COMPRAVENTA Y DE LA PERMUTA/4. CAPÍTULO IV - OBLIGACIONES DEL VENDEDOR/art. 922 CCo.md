@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título II - Capítulo IV|CAPÍTULO IV - OBLIG
 vigencia: "vigente"
 anterior: "[[art. 921 CCo]]"
 siguiente: "[[art. 923 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#922"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +32,8 @@ tags:
 ## Artículo 922. TRADICIÓN DE INMUEBLES Y DE VEHICULOS AUTOMOTORES
 
 La tradición del dominio de los bienes raíces requerirá además de la inscripción del título en la correspondiente oficina de registro de instrumentos públicos, la entrega material de la cosa.
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Inciso declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia 057 del 6 de agosto de 1985, Magistrado Ponente, Dr. Manuel Gaona Cruz.
 
 **PARÁGRAFO.** De la misma manera se realizará la tradición del dominio de los vehículos automotores, pero la inscripción del título se efectuará ante el funcionario y en la forma que determinen las disposiciones legales pertinentes. La tradición así efectuada será reconocida y bastará ante cualesquiera autoridades.
 

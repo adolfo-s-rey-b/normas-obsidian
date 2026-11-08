@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Primero - Título II|TÍTULO II - DE LOS ACTOS, OPERACION
 vigencia: "vigente"
 anterior: "[[art. 21 CCo]]"
 siguiente: "[[art. 23 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#22"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

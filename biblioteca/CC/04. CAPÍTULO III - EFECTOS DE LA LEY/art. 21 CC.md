@@ -15,7 +15,7 @@ anterior: "[[art. 20 CC]]"
 siguiente: "[[art. 22 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,9 +28,9 @@ tags:
 
 La forma de los instrumentos públicos se determina por la ley del país en que hayan sido otorgados. Su autenticidad se probará según las reglas establecidas en el código judicial de la unión.
 
-(sic)
-
 La forma se refiere a las solemnidades externas, a la autenticidad, al hecho de haber sido realmente otorgados y autorizados por las personas y de la manera que en tales instrumentos se exprese.
+
+(sic)
 
 ---
 ← [[art. 20 CC]] · ↑ [[CC - Capítulo III|Capítulo III]] · [[art. 22 CC]] →

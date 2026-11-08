@@ -21,7 +21,11 @@ modificado_por:
 anterior: "[[art. 312 CP]]"
 siguiente: "[[art. 312B CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#312A"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "solo en DAFP"
+reforma_mas_reciente: 2001
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

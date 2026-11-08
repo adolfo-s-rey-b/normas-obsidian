@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título II - Capítulo VI|CAPÍTULO VI - VENTA
 vigencia: "vigente"
 anterior: "[[art. 966 CCo]]"
 siguiente: "[[art. 968 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#967"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,6 +34,8 @@ tags:
 Pagada la totalidad del precio, tendrá derecho el comprador a que se cancele la inscripción de que trata el artículo [[art. 953 CCo|953]] y a la indemnización de perjuicios si el vendedor no cumple esta obligación.
 
 En este caso, podrá acudir el comprador a la acción consagrada en la Ley 66 de 1945 para obtener la cancelación, y al procedimiento de que trata el artículo [[art. 941 CCo|941]] de este Código, para la indemnización de perjuicios.
+
+> [!warning] Notas de Vigencia: Al expedirse el Código de Procedimiento Civil, se consideró derogada la ley 66 de 1945, motivo por el cual debe entenderse que la remisión hecha en este artículo se refiere a los artículos 500 y 536 de dicho Código.
 
 ---
 ← [[art. 966 CCo]] · ↑ [[CCo - Libro Cuarto - Título II - Capítulo VI|Capítulo VI]] · [[art. 968 CCo]] →

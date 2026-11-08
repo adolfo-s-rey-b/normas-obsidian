@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 15 Decreto 1 de 1990]]"
 anterior: "[[art. 999 CCo]]"
 siguiente: "[[art. 1001 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1000"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2005
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,15 +34,15 @@ tags:
 
 ## Artículo 1000. OBLIGACIONES DEL PASAJERO
 
-> [!info] Modificado por el art. [[art. 15 Decreto 1 de 1990|15]], Decreto 01 de 1990
+> [!info] Artículo subrogado por el artículo [[art. 15 Decreto 1 de 1990|15]] del Decreto extraordinario 01 de 1990. El nuevo texto es el siguiente:
 
-El nuevo texto es el siguiente El pasajero estará obligado a pagar el pasaje y a observar las condiciones de seguridad impuestas por el transportador y por los reglamentos oficiales y a cumplir los reglamentos de la empresa, estos últimos siempre y cuando estén exhibidos en lugares donde sean fácilmente conocidos por el usuario o se inserten en el boleto o billete.
+El pasajero estará obligado a pagar el pasaje y a observar las condiciones de seguridad impuestas por el transportador y por los reglamentos oficiales y a cumplir los reglamentos de la empresa, estos últimos siempre y cuando estén exhibidos en lugares donde sean fácilmente conocidos por el usuario o se inserten en el boleto o billete.
 
 El contrato celebrado para sí por persona relativamente incapaz no será anulable.
 
-Texto anterior:
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo 15 del Decreto extraordinario 01 de enero 2 de 1990, publicado en el Diario Oficial No. 39.127, del 2 de enero de 1990.
 
-El pasajero estará obligado a pagar el valor del pasaje y a observar los reglamentos de la empresa y las condiciones de seguridad impuestas por el transportador o por los reglamentos oficiales.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-534-05 de 24 de mayo de 2005, Magistrado Ponente Dr. Humberto Antonio Sierra Porto.
 
 ---
 ← [[art. 999 CCo]] · ↑ [[CCo - Libro Cuarto - Título IV - Capítulo II|Capítulo II]] · [[art. 1001 CCo]] →

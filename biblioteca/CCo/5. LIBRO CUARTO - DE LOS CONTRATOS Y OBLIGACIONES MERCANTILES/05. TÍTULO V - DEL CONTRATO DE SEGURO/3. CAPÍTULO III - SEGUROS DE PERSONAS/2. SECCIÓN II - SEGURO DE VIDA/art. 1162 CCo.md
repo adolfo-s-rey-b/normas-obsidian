@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo III - Sección II|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 1161 CCo]]"
 siguiente: "[[art. 1163 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1162"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2010
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +34,8 @@ tags:
 ## Artículo 1162. NORMAS INMODIFICABLES Y MODIFICABLES SOLO EN SENTIDO FAVORABLE
 
 Fuera de las normas que, por su naturaleza o por su texto, son inmodificables por la convención en este Título, tendrán igual carácter las de los artículos [[art. 1058 CCo|1058]] (incisos 1o., 2o. y 4o.), 1065, 1075, 1079, 1089, 1091, 1092, 1131, 1142, 1143, 1144, 1145, 1146, 1150, 1154 y 1159. Y sólo podrán modificarse en sentido favorable al tomador, asegurado o beneficiario los consignados en los artículos [[art. 1058 CCo|1058]] (inciso 3o.), 1064, 1067, 1068, 1069, 1070, 1071, 1078 (inciso 1o.), 1080, 1093, 1106, 1107, 1110, 1151, 1153, 1155, 1160 y 1161.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre la expresión '1142' de este artículo por ineptitud de la demanda, mediante Sentencia C-844-10 según Comunicado de Prensa de la Sala Plena de 28 de octubre de 2010, Magistrada Ponente Dra. María Victoria Calle Correa.
 
 ---
 ← [[art. 1161 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo III - Sección II|Sección II]] · [[art. 1163 CCo]] →

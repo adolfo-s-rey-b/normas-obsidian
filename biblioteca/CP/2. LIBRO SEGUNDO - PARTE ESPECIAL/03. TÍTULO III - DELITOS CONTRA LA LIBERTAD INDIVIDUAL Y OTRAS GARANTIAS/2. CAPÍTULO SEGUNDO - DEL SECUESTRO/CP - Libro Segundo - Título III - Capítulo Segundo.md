@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 168 CP|Artículo 168]] — Secuestro simple
+- [[art. 168 CP|Artículo 168]] — SECUESTRO SIMPLE
 - [[art. 169 CP|Artículo 169]] — Secuestro extorsivo
-- [[art. 170 CP|Artículo 170]] — Circunstancias de agravación punitiva
-- [[art. 171 CP|Artículo 171]] — Circunstancias de atenuación punitiva
+- [[art. 170 CP|Artículo 170]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+- [[art. 171 CP|Artículo 171]] — CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA
 - [[art. 172 CP|Artículo 172]] — Celebración indebida de contratos de seguros
 
 ---

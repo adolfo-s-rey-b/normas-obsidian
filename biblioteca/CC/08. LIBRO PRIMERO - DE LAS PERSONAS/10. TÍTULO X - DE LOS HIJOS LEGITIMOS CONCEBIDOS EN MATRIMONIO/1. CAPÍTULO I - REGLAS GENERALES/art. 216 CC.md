@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 215 CC]]"
 siguiente: "[[art. 217 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2010
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 216. TITULARES DE LA ACCIÓN DE IMPUGNACIÓN
 
-<Artículo modificado por el artículo [[art. 4 Ley 1060 de 2006|4]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> Podrán impugnar la paternidad del hijo nacido durante el matrimonio o en vigencia de la unión marital de hecho, el cónyuge o compañero permanente y la madre, dentro de los ciento (140) días siguientes a aquel en que tuvieron conocimiento de que no es el padre o madre biológico.
+Podrán impugnar la paternidad del hijo nacido durante el matrimonio o en vigencia de la unión marital de hecho, el cónyuge o compañero permanente y la madre, dentro de los ciento (140) días siguientes a aquel en que tuvieron conocimiento de que no es el padre o madre biológico.
+
+> [!info] Artículo modificado por el artículo [[art. 4 Ley 1060 de 2006|4]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 4 Ley 1060 de 2006|4]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

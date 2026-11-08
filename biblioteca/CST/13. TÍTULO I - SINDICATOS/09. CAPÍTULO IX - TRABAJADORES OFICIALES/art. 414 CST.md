@@ -14,10 +14,17 @@ capitulo: "[[CST - Título I - Capítulo IX (2)|CAPÍTULO IX - TRABAJADORES OFIC
 vigencia: "modificado"
 modificado_por:
   - "[[art. 58 Ley 50 de 1990]]"
+  - "[[art. 431 CST]]"
+  - "[[art. 46 Decreto 3743 de 1950]]"
 anterior: "[[art. 413 CST]]"
 siguiente: "[[art. 415 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#414"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -48,7 +55,11 @@ El derecho de asociación en sindicatos se extiende a los trabajadores de todo s
 
 9\. Está permitido a los empleados oficiales constituir organizaciones sindicales mixtas, integradas por trabajadores oficiales y empleados públicos, las cuales, para el ejercicio de sus funciones, actuarán teniendo en cuenta las limitaciones consagradas por la ley respecto al nexo jurídico de sus afiliados para con la administración.
 
-> [!info] Numeral 9 adicionado por el Art. [[art. 58 Ley 50 de 1990|58]] de la Ley 50 de 1990
+> [!info] Ordinal adicionado por el artículo [[art. 58 Ley 50 de 1990|58]] de la Ley 50 de 1990.
+
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 58 Ley 50 de 1990|58]] de la Ley 50 de 1990, publicada en el Diario Oficial No 39.618 de 1991. - Este artículo corresponde al artículo [[art. 431 CST|431]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - La Corte Constitucional, mediante Sentencia C-128-95 del 23 de noviembre de 1995, Magistrado Ponente, Dr. Jorge Arango Mejía; dispuso estarse a lo resuelto en Sentencia C-110-94. - Artículo, incluida la adición efectuada por la Ley 50 de 1990, declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-110-94 del 10 de marzo de 1994, Magistrado Ponente, Dr. José Gregorio Hernández Galindo.
 
 ---
 ← [[art. 413 CST]] · ↑ [[CST - Título I - Capítulo IX (2)|Capítulo IX]] · [[art. 415 CST]] →

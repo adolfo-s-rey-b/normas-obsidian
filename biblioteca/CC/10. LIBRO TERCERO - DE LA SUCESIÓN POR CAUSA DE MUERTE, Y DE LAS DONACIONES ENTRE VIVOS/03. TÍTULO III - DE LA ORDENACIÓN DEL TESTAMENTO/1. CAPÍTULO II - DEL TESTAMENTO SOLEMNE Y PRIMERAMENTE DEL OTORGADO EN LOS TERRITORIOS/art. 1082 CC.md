@@ -19,8 +19,9 @@ modificado_por:
 anterior: "[[art. 1081 CC]]"
 siguiente: "[[art. 1083 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1970
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,7 +32,7 @@ tags:
 
 ## Artículo 1082. APERTURA DEL TESTAMENTO CERRADO
 
-<Artículo modificado por los artículos [[art. 59 Decreto 960 de 1970|59]] a [[art. 67 Decreto 960 de 1970|67]] del Decreto 960 de 1970.>.
+> [!info] Artículo modificado por los artículos [[art. 59 Decreto 960 de 1970|59]] a [[art. 67 Decreto 960 de 1970|67]] del Decreto 960 de 1970.
 
 > [!info] Notas de vigencia: Artículo modificado por los artículos [[art. 59 Decreto 960 de 1970|59]] a [[art. 67 Decreto 960 de 1970|67]] del Decreto 960 de 1970, publicado en el Diario Oficial No. 33.118, de 5 de agosto de 1970.
 

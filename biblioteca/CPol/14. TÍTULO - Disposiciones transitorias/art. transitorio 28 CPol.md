@@ -15,8 +15,13 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 27 CPol]]"
 siguiente: "[[art. transitorio 29 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1996
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,9 +34,9 @@ tags:
 
 Mientras se expide la ley que atribuya a las autoridades judiciales el conocimiento de los hechos punibles sancionables actualmente con pena de arresto por las autoridades de policía, éstas continuarán conociendo de los mismos.
 
-> [!note] Ver Ley 228 de 1995
+> [!note] Concordancias: Ley 228 de 1995
 
-> [!note] Ver Sentencia de la Corte Constitucional: C-364-96
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-364-96 ;
 
 ---
 ← [[art. transitorio 27 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 29 CPol]] →

@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 1657 CC]]"
 siguiente: "[[art. 1659 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1890
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,9 +33,9 @@ tags:
 
 La consignación debe ser precedida de oferta; y para que ésta sea válida, reunirá las circunstancias que requiere el artículo [[art. 1658 CC|1658]] del Código Civil:
 
-> [!info] Numeral subrogado por el artículo [[art. 13 Ley 95 de 1890|13]] de la Ley 95 de 1890. El nuevo texto es el siguiente:
-
 1a.) Que sea hecha por una persona capaz de pagar.
+
+> [!info] Numeral subrogado por el artículo [[art. 13 Ley 95 de 1890|13]] de la Ley 95 de 1890. El nuevo texto es el siguiente:
 
 > [!info] Notas de vigencia: Numeral subrogado por el artículo [[art. 13 Ley 95 de 1890|13]] de la Ley 95 de 1890, publicada en el Diario Oficial No. 8264, de 2 de diciembre de 1890.
 

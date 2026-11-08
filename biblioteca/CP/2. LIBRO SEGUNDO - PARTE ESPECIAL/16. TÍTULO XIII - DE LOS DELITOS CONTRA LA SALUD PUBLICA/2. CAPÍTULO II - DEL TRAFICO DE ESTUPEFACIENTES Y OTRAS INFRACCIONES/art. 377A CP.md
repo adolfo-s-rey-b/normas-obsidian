@@ -12,6 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "377A"
+epigrafe: "USO, CONSTRUCCIÓN, COMERCIALIZACIÓN Y/O TENENCIA DE SEMISUMERGIBLES O SUMERGIBLES"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XIII|TÍTULO XIII - DE LOS DELITOS CONTRA LA SALUD PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XIII - Capítulo II|CAPÍTULO II - DEL TRAFICO DE ESTUPEFACIENTES Y OTRAS INFRACCIONES]]"
@@ -21,7 +22,11 @@ modificado_por:
 anterior: "[[art. 377 CP]]"
 siguiente: "[[art. 377B CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#377A"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2009
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -30,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XIII|Título XIII]] › [[CP - Libro Segundo - Título XIII - Capítulo II|Capítulo II]]
 
-## Artículo 377A
+## Artículo 377A. USO, CONSTRUCCIÓN, COMERCIALIZACIÓN Y/O TENENCIA DE SEMISUMERGIBLES O SUMERGIBLES
 
 > [!info] Adicionado por el art. [[art. 2 Ley 1311 de 2009|2]], Ley 1311 de 2009
 

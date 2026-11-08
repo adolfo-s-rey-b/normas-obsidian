@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo X|CAPÍTULO X - LIQUIDA
 vigencia: "vigente"
 anterior: "[[art. 235 CCo]]"
 siguiente: "[[art. 237 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#236"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,9 @@ tags:
 
 Tramitadas las objeciones y hechas las rectificaciones a que haya lugar, o vencido el término en que puedan ser propuestas dichas objeciones sin que se hayan formulado, el Superintendente aprobará el inventario y ordenará devolver lo actuado a los liquidadores, a fin de que dichas diligencias se protocolicen con la cuenta final de la liquidación.
 
-NOTA: El inciso 3o. del artículo [[art. 124 Ley 1116 de 2006|124]] de la Ley 1116 de 2006, establece que: "'Salvo aquellos casos que expresamente determine el Gobierno Nacional, en razón a la conservación del orden público económico, no habrá lugar a la intervención de la Superintendencia de Sociedades respecto de lo establecido en los artículos [[art. 233 CCo|233]] a [[art. 237 CCo|237]] del Código de Comercio."
+> [!note] Notas del Editor: Para la interpretación de este artículo, en cuanto a la protocolización aquí mencionada, en criterio del editor debe tenerse en cuenta lo dispuesto en el artículo [[art. 31 Ley 1429 de 2010|31]] de la Ley 1429 de 2010, publicada en el Diario Oficial No. 47.937 de 29 de diciembre de 2010: (Por favor remitirse a la norma que a continuación se transcribe para comprobar la vigencia del texto original:) 'ARTÍCULO 31 . En ningún proceso de liquidación privada se requerirá protocolizar los documentos de la liquidación según lo establecido en el inciso 3o del artículo [[art. 247 CCo|247]] del Código de Comercio. Cualquier sociedad en estado de liquidación privada podrá ser parte de un proceso de fusión o escisión. 'Durante el período de liquidación las sociedades no tendrán obligación de renovar la matrícula mercantil.'
+
+> [!note] Notas de Vigencia: El inciso 3o. del artículo [[art. 124 Ley 1116 de 2006|124]] de la Ley 1116 de 2006, publicada en el Diario Oficial No. 46.494 de 27 de diciembre de 2006, establece: 'Salvo aquellos casos que expresamente determine el Gobierno Nacional, en razón a la conservación del orden público económico, no habrá lugar a la intervención de la Superintendencia de Sociedades respecto de lo establecido en los artículos [[art. 233 CCo|233]] a [[art. 237 CCo|237]] del Código de Comercio.' La Ley 1116 de 2006 comienza a regir seis meses después de su promulgación.
 
 ---
 ← [[art. 235 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo X|Capítulo X]] · [[art. 237 CCo]] →

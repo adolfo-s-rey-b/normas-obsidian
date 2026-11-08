@@ -26,7 +26,7 @@ tags:
 - [[art. 408 CP|Artículo 408]] — Violación del regimen legal o constitucional de inhabilidades e incompatibilidades
 - [[art. 409 CP|Artículo 409]] — Interes indebido en la celebración de contratos
 - [[art. 410 CP|Artículo 410]] — Contrato sin cumplimiento de requisitos legales
-- [[art. 410A CP|Artículo 410A]]
+- [[art. 410A CP|Artículo 410A]] — ACUERDOS RESTRICTIVOS DE LA COMPETENCIA
 
 ---
 ← [[CP - Libro Segundo - Título XV - Capítulo Tercero|Capítulo Tercero]] · ↑ [[CP - Libro Segundo - Título XV|Título XV]] · [[CP - Libro Segundo - Título XV - Capítulo Quinto|Capítulo Quinto]] →

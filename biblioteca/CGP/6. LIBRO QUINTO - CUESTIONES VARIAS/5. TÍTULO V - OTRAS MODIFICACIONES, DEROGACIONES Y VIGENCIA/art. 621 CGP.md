@@ -14,8 +14,12 @@ vigencia: "derogado"
 anterior: "[[art. 620 CGP]]"
 siguiente: "[[art. 622 CGP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#621"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2022
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp

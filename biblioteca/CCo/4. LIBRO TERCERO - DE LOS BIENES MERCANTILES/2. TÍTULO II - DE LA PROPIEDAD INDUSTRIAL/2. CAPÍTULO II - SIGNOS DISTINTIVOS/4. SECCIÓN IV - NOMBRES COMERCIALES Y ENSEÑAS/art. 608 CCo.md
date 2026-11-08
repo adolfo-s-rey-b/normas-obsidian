@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo II - Sección IV|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 607 CCo]]"
 siguiente: "[[art. 609 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#608"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

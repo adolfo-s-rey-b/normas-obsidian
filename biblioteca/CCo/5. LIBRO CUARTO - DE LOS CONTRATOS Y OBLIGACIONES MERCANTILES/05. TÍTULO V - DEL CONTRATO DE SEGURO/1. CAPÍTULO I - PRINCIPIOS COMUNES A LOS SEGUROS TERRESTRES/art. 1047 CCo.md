@@ -12,15 +12,19 @@ epigrafe: "CONDICIONES DE LA PÓLIZA"
 libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
 titulo: "[[CCo - Libro Cuarto - Título V|TÍTULO V - DEL CONTRATO DE SEGURO]]"
 capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo I|CAPÍTULO I - PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES]]"
-vigencia: "vigente"
+vigencia: "modificado"
 anterior: "[[art. 1046 CCo]]"
 siguiente: "[[art. 1048 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1047"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título V|Título V]] › [[CCo - Libro Cuarto - Título V - Capítulo I|Capítulo I]]
@@ -51,11 +55,11 @@ La póliza de seguro debe expresar además de las condiciones generales del cont
 
 11\. Las demás condiciones particulares que acuerden los contratantes.
 
-**PARÁGRAFO.** Subrogado por el art. [[art. 2 Ley 389 de 1997|2]], Ley 389 de 1997. El nuevo texto es el siguiente: En los casos en que no aparezca expresamente acordadas, se tendrán como condiciones del contrato aquellas de la póliza o anexo que el asegurador haya depositado en la Superintendencia Bancaria para el mismo ramo, amparo, modalidad del contrato y tipo de riesgo.
+**PARÁGRAFO.** En los casos en que no aparezca expresamente acordadas, se tendrán como condiciones del contrato aquellas de la póliza o anexo que el asegurador haya depositado en la Superintendencia Bancaria para el mismo ramo, amparo, modalidad del contrato y tipo de riesgo.
 
-Texto del parágrafo anterior:
+> [!info] Parágrafo subrogado por el artículo 2o. de la Ley 389 de 1997. El nuevo texto es el siguiente:
 
-Se tendrán como condiciones generales del contrato, aunque no hayan sido consignadas por escrito, las aprobadas por la autoridad competente para el respectivo asegurador en relación con el seguro pactado, salvo las relativas a riesgos no asumidos.
+> [!info] Notas de Vigencia: Parágrafo subrogado por el artículo 2 o. de la Ley 389 de 1997, publicada en el Diario Oficial No. 43.091 del 24 de julio de 1997. El artículo 8 o. de la Ley 389 de 1997 expresamente menciona que lo dispuesto en este artículo regirá a partir de los seis (6) meses siguientes a la promulgación de la Ley.
 
 ---
 ← [[art. 1046 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo I|Capítulo I]] · [[art. 1048 CCo]] →

@@ -22,8 +22,13 @@ modificado_por:
   - "[[art. 1 Acto Legislativo 5 de 2017]]"
 anterior: "[[art. 22 CPol]]"
 siguiente: "[[art. 23 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#22A"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2018
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -36,11 +41,13 @@ tags:
 
 Como una garantía de No Repetición y con el fin de contribuir a asegurar el monopolio legítimo de la fuerza y del uso de las armas por parte del Estado, y en particular de la Fuerza Pública, en todo el territorio, se prohíbe la creación, promoción, instigación, organización, instrucción, apoyo, tolerancia, encubrimiento o favorecimiento, financiación o empleo oficial y/o privado de grupos civiles armados organizados con fines ilegales de cualquier tipo, incluyendo los denominados autodefensas, paramilitares, así como sus redes de apoyo, estructuras o prácticas, grupos de seguridad con fines ilegales u otras denominaciones equivalentes.
 
+> [!info] Artículo adicionado por el artículo [[art. 1 Acto Legislativo 5 de 2017|1]] del Acto Legislativo 5 de 2017. El nuevo texto es el siguiente:
+
 La ley regulará los tipos penales relacionados con estas conductas, así como las sanciones disciplinarias y administrativas correspondientes.
 
-> [!info] Adicionado por el Art. [[art. 1 Acto Legislativo 5 de 2017|1]] del Acto Legislativo 5 de 2017
+> [!info] Notas de Vigencia: Artículo adicionado por el artículo [[art. 1 Acto Legislativo 5 de 2017|1]] del Acto Legislativo 5 de 2017, 'por medio del cual se dictan disposiciones para asegurar el monopolio legítimo de la fuerza y del uso de las armas por parte del Estado', publicado en el Diario Oficial No. 50.432 de 29 de noviembre de 2017.
 
-> [!note] Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-076 de 2018
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-076-18 de 25 de julio de 2018, Magistrado Ponente Dr. Alberto Rojas Ríos.
 
 ---
 ← [[art. 22 CPol]] · ↑ [[CPol - Título II - Capítulo 1|Capítulo 1]] · [[art. 23 CPol]] →

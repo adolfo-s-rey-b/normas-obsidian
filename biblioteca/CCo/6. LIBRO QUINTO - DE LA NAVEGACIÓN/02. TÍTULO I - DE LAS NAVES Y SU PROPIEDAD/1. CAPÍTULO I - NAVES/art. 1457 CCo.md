@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - NAVES]]"
 vigencia: "vigente"
 anterior: "[[art. 1456 CCo]]"
 siguiente: "[[art. 1458 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1457"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -31,7 +35,7 @@ La matrícula de una nave colombiana se cancelará:
 
 1\. Cuando adquiera matrícula en otro país, previa autorización del gobierno;
 
-2\. Cuando se traspase el derecho de dominio de la nave en contravención a lo dispuesto en el artículo [[art. 1458 CCo|1458]];
+2\. Cuando se traspase el derecho de dominio de la nave en contravención a lo dispuesto en el artículo [[art. 1458 CCo|1458]] ;
 
 3\. Cuando así lo solicite el propietario, por causa justificada o lo ordene autoridad competente, por causas legales;
 

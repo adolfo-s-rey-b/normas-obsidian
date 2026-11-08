@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 311 CPol|Artículo 311]]
+- [[art. 311 CPol|Artículo 311]] — (sic)
 - [[art. 312 CPol|Artículo 312]]
 - [[art. 313 CPol|Artículo 313]]
 - [[art. 314 CPol|Artículo 314]]

@@ -14,7 +14,7 @@ vigencia: "derogado"
 anterior: "[[art. 66A CPT]]"
 siguiente: "[[art. 68 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#67"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

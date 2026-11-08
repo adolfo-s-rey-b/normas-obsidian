@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 333 CP|Artículo 333]] — Daños en los recursos naturales y ecocidio
+- [[art. 333 CP|Artículo 333]] — DAÑOS EN LOS RECURSOS NATURALES Y ECOCIDIO
 
 ---
 ← [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]] · ↑ [[CP - Libro Segundo - Título XI|Título XI]] · [[CP - Libro Segundo - Título XI - Capítulo III|Capítulo III]] →

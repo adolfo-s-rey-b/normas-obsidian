@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2532 CC]]"
 siguiente: "[[art. 2534 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2002
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 2533. PRECRIPCIONES ESPECIALES
 
-<Artículo modificado por el artículo [[art. 7 Ley 791 de 2002|7]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> Los derechos reales se adquieren por prescripción de la misma manera que el dominio, y están sujetos a las mismas reglas, salvo las excepciones siguientes:
+Los derechos reales se adquieren por prescripción de la misma manera que el dominio, y están sujetos a las mismas reglas, salvo las excepciones siguientes:
+
+> [!info] Artículo modificado por el artículo [[art. 7 Ley 791 de 2002|7]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 1a. El derecho de herencia se adquiere por la prescripción extraordinario de diez (10) años.
 
@@ -38,9 +41,9 @@ tags:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 7 Ley 791 de 2002|7]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002.
 
-(sic)
-
 > [!note] Notas del Editor: * Para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 1 Ley 791 de 2002|1]] de la Ley 791 de 2002, cuyo texto original establece: 'ARTÍCULO 1. Redúzcase a diez (10) años el término de todos las prescripciones veintenarias, establecidas en el Código Civil, tales como la extraordinaria adquisitiva de dominio, la extintiva, la de petición de herencia, la de saneamiento de nulidades absolutas.'
+
+(sic)
 
 ---
 ← [[art. 2532 CC]] · ↑ [[CC - Libro Cuarto - Título XLI - Capítulo II|Capítulo II]] · [[art. 2534 CC]] →

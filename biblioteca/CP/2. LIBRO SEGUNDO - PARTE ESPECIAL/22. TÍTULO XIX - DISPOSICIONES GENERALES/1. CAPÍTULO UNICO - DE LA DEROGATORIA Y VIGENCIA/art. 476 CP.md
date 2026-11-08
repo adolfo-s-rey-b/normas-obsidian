@@ -8,14 +8,18 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "476"
-epigrafe: "Vigencia"
+epigrafe: "VIGENCIA"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XIX|TÍTULO XIX - DISPOSICIONES GENERALES]]"
 capitulo: "[[CP - Libro Segundo - Título XIX - Capítulo Unico|CAPÍTULO UNICO - DE LA DEROGATORIA Y VIGENCIA]]"
 vigencia: "vigente"
-anterior: "[[art. 474 CP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#476"
-fecha_extraccion: 2026-11-07
+anterior: "[[art. 475 CP]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2001
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -24,9 +28,11 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XIX|Título XIX]] › [[CP - Libro Segundo - Título XIX - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 476. Vigencia
+## Artículo 476. VIGENCIA
 
 Este Código entrará a regir un (1) año después de su promulgación.
 
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-581-01 de 6 de junio de 2001, Magistrado Ponente Dr. Jaime Araujo Renteria, 'solamente por los cargos analizados en esta sentencia'.
+
 ---
-← [[art. 474 CP]] · ↑ [[CP - Libro Segundo - Título XIX - Capítulo Unico|Capítulo Unico]]
+← [[art. 475 CP]] · ↑ [[CP - Libro Segundo - Título XIX - Capítulo Unico|Capítulo Unico]]

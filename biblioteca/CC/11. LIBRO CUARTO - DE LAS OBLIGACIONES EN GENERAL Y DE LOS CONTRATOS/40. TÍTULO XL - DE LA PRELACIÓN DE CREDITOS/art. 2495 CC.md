@@ -13,7 +13,6 @@ libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE L
 titulo: "[[CC - Libro Cuarto - Título XL|TÍTULO XL - DE LA PRELACIÓN DE CREDITOS]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 1 CC]]"
   - "[[art. 36 Ley 50 de 1990]]"
   - "[[art. 157 CST]]"
   - "[[art. 345 CST]]"
@@ -21,16 +20,17 @@ modificado_por:
   - "[[art. 21 Ley 2351 de 1965]]"
   - "[[art. 2495 CC]]"
 derogado_por:
+  - "[[art. 217 Ley 1098 de 2006]]"
   - "[[art. 134 Decreto 2737 de 1989]]"
   - "[[art. 134 Ley 1098 de 2006]]"
-  - "[[art. 217 Ley 1098 de 2006]]"
   - "[[art. 216 Ley 1098 de 2006]]"
   - "[[art. 33 Ley 75 de 1968]]"
 anterior: "[[art. 2494 CC]]"
 siguiente: "[[art. 2496 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2007
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -55,17 +55,17 @@ ARTÍCULO 270 . PRELACIÓN DE CRÉDITOS. Los créditos exigibles por concepto de
 
 Si la enfermedad hubiere durado más de seis meses, fijará el juez, según las circunstancias, la cantidad hasta la cual se extienda la preferencia.
 
-> [!info] Numeral subrogado por el artículo [[art. 1 CC|1]]o. de la Ley 165 de 1941. El nuevo texto es el siguiente:
-
 4\. Los salarios, sueldos y todas las prestaciones provenientes del contrato de trabajo.
+
+> [!info] Numeral subrogado por el artículo 1o. de la Ley 165 de 1941. El nuevo texto es el siguiente:
 
 > [!info] Notas del Editor: Para la interpretación de este numeral debe tenerse en cuenta lo dispuesto por el artículo [[art. 36 Ley 50 de 1990|36]] de la Ley 50 de 1990, publicada en el Diario Oficial No. 39.618, del 1 de enero de 1991. (subrayas fuera del texto original): (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 36. Los artículos [[art. 157 CST|157]] y [[art. 345 CST|345]] del Código Sustantivo del Trabajo, modificados por los artículos [[art. 11 Ley 2351 de 1965|11]] y [[art. 21 Ley 2351 de 1965|21]] del Decreto-ley 2351 de 1965, quedarán así: ' Prelación de créditos por salarios, prestaciones sociales e indemnizaciones laborales. Los créditos causados o exigibles de los trabajadores por concepto de salarios, la cesantía y demás prestaciones sociales e indemnizaciones laborales pertenecen a la primera clase que establece el artículo [[art. 2495 CC|2495]] del Código Civil y tienen privilegio excluyente sobre todos los demás. El juez civil que conozca del proceso de concurso de acreedores o de quiebra dispondrá el pago privilegiado y pronto de los créditos a los trabajadores afectados por la quiebra o insolvencia del patrono. Cuando la quiebra imponga el despido de trabajadores, los salarios, prestaciones sociales e indemnizaciones se tendrán como gastos pagaderos con preferencia sobre los demás créditos. Los créditos laborales podrán demostrarse por cualesquier medio de prueba autorizado por la ley y, cuando fuera necesario, producidos extrajuicio con intervención del juez laboral o de inspector de trabajo competentes. PARAGRAFO. En los procesos de quiebra o concordato los trabajadores podrán hacer valer sus derechos por sí mismos o por intermedio del Sindicato, Federación o Confederación a que pertenezcan, siempre de conformidad con las leyes vigentes. '
 
-> [!info] Notas de Vigencia: Numeral 4. subrogado por el artículo [[art. 1 CC|1]]o. de la Ley 165 de 1941, publicada en el Diario Oficial No. 24.850 del 24 de diciembre de 1941.
+> [!info] Notas de Vigencia: Numeral 4. subrogado por el artículo 1o. de la Ley 165 de 1941, publicada en el Diario Oficial No. 24.850 del 24 de diciembre de 1941.
 
 5\. Los artículos necesarios de subsistencia, suministrados al deudor y a su familia durante los últimos tres meses.
 
-<Texto derogado por el Artículo [[art. 217 Ley 1098 de 2006|217]] de la Ley 1098 de 2006, norma que rige a partir del 8 de mayo de 2007. Ver Legislación Anterior para el texto vigente hasta esta fecha>
+> [!warning] Texto derogado por el Artículo [[art. 217 Ley 1098 de 2006|217]] de la Ley 1098 de 2006, norma que rige a partir del 8 de mayo de 2007. Ver Legislación Anterior para el texto vigente hasta esta fecha
 
 > [!note] Notas del Editor: El editor destaca que sobre créditos de alimentos el artículo [[art. 134 Ley 1098 de 2006|134]] de la Ley 1098 de 2006, 'por la cual se expide el Código de la Infancia y la Adolescencia', publicada en el Diario Oficial No. 46.446 de 8 de noviembre de 2006. establece: 'ARTÍCULO 134. PRELACIÓN DE LOS CRÉDITOS POR ALIMENTOS. Los créditos por alimentos a favor de los niños, las niñas y los adolescentes gozan de prelación sobre todos los demás.'
 

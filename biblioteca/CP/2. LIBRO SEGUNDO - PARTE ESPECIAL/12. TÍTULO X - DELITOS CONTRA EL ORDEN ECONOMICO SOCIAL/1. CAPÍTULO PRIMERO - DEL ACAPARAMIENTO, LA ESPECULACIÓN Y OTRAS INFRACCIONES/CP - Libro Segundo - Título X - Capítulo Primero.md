@@ -23,23 +23,23 @@ tags:
 
 ### Contenido
 
-- [[art. 297 CP|Artículo 297]] — Acaparamiento
-- [[art. 298 CP|Artículo 298]] — Especulacion
+- [[art. 297 CP|Artículo 297]] — ACAPARAMIENTO
+- [[art. 298 CP|Artículo 298]] — ESPECULACIÓN
 - [[art. 298A CP|Artículo 298A]]
-- [[art. 299 CP|Artículo 299]] — Alteración y modificación de calidad, cantidad, peso o medida
+- [[art. 299 CP|Artículo 299]] — ALTERACIÓN Y MODIFICACIÓN DE CALIDAD, CANTIDAD, PESO O MEDIDA
 - [[art. 300 CP|Artículo 300]] — Ofrecimiento engañoso de productos y servicios
 - [[art. 301 CP|Artículo 301]] — Agiotaje
 - [[art. 301A CP|Artículo 301A]]
-- [[art. 302 CP|Artículo 302]] — Panico economico
-- [[art. 303 CP|Artículo 303]] — Ilicita explotación comercial
-- [[art. 304 CP|Artículo 304]] — Daño en materia prima, producto agropecuario o industrial
-- [[art. 305 CP|Artículo 305]] — Usura
-- [[art. 306 CP|Artículo 306]] — Usurpación de marcas y patentes
-- [[art. 307 CP|Artículo 307]] — Uso ilegitimo de patentes
-- [[art. 308 CP|Artículo 308]] — Violación de reserva industrial o comercial
-- [[art. 309 CP|Artículo 309]] — Sustracción de cosa propia al cumplimiento de deberes constitucionales o legales
-- [[art. 310 CP|Artículo 310]] — Exportación o importación ficticia
-- [[art. 311 CP|Artículo 311]] — Aplicación fraudulenta de credito oficialmente regulado
+- [[art. 302 CP|Artículo 302]] — PANICO ECONOMICO
+- [[art. 303 CP|Artículo 303]] — ILICITA EXPLOTACIÓN COMERCIAL
+- [[art. 304 CP|Artículo 304]] — DAÑO EN MATERIA PRIMA, PRODUCTO AGROPECUARIO O INDUSTRIAL
+- [[art. 305 CP|Artículo 305]] — USURA
+- [[art. 306 CP|Artículo 306]] — USURPACIÓN DE DERECHOS DE PROPIEDAD INDUSTRIAL Y DERECHOS DE OBTENTORES DE VARIEDADES VEGETALES
+- [[art. 307 CP|Artículo 307]] — USO ILEGITIMO DE PATENTES
+- [[art. 308 CP|Artículo 308]] — VIOLACIÓN DE RESERVA INDUSTRIAL O COMERCIAL
+- [[art. 309 CP|Artículo 309]] — SUSTRACCIÓN DE COSA PROPIA AL CUMPLIMIENTO DE DEBERES CONSTITUCIONALES O LEGALES
+- [[art. 310 CP|Artículo 310]] — EXPORTACIÓN O IMPORTACIÓN FICTICIA
+- [[art. 311 CP|Artículo 311]] — APLICACIÓN FRAUDULENTA DE CREDITO OFICIALMENTE REGULADO
 - [[art. 312 CP|Artículo 312]] — Ejercicio ilícito de actividad monopolistica de arbitrio rentistico
 - [[art. 312A CP|Artículo 312A]]
 - [[art. 312B CP|Artículo 312B]]

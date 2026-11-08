@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 3|CAPÍTULO 3 - Del Vicepresidente]]
 vigencia: "vigente"
 anterior: "[[art. 201 CPol]]"
 siguiente: "[[art. 203 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#202"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2022
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,21 +33,23 @@ tags:
 
 ## Artículo 202
 
-El Vicepresidente de la República será elegido por votación popular el mismo dia y en la misma formula con el Presidente de la República.
+El Vicepresidente de la República será elegido por votación popular el mismo día y en la misma fórmula con el Presidente de la República.
 
-Los candidatos para la segunda votación, si la hubiere, deberán ser en cada formula quienes la integraron en la primera.
+Los candidatos para la segunda votación, si la hubiere, deberán ser en cada fórmula quienes la integraron en la primera.
 
-El Vicepresidente tendra el mismo periodo del Presidente y lo reemplazará en sus faltas temporales o absolutas, aun en el caso de que estas se presenten antes de su posesion.
+El Vicepresidente tendrá el mismo período del Presidente y lo reemplazará en sus faltas temporales o absolutas, aun en el caso de que éstas se presenten antes de su posesión.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 18 Ley 5 de 1992|18]] Num. 1
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 18 Ley 5 de 1992|18]] Num. 1
 
-En las faltas temporales del Presidente de la República bastará con que el Vicepresidente tome posesión del cargo en la primerá oportunidad, para que pueda ejercerlo cuantas veces fuere necesario. En caso de falta absoluta del Presidente de la República, el Vicepresidente asumira el cargo hasta el final del periodo.
+En las faltas temporales del Presidente de la República bastará con que el Vicepresidente tome posesión del cargo en la primera oportunidad, para que pueda ejercerlo cuantas veces fuere necesario. En caso de falta absoluta del Presidente de la República, el Vicepresidente asumirá el cargo hasta el final del período.
 
 El Presidente de la República podrá confiar al Vicepresidente misiones o encargos especiales y designarlo en cualquier cargo de la rama ejecutiva.
 
 El Vicepresidente no podrá asumir funciones de Ministro Delegatario.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-428-93 ; C-093-94
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-428-93 ; C-093-94 ; C-594-95 ; C-190-22 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 4, 8, 9, 31, 40, 41, 76, 78, 102 y 105)
 
 ---
 ← [[art. 201 CPol]] · ↑ [[CPol - Título VII - Capítulo 3|Capítulo 3]] · [[art. 203 CPol]] →

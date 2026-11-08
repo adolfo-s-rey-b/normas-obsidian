@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo I|CAPÍTULO I - Medidas Preparatorias en Sucesiones Testadas]] (arts. 473 a 475)
-- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo II|CAPÍTULO II - Medidas Cautelares]] (arts. 476 a 481)
-- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|CAPÍTULO III - Herencia Yacente]] (arts. 482 a 486)
-- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|CAPÍTULO IV - Trámite de la Sucesión]] (arts. 487 a 519)
-- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo V|CAPÍTULO V - Acumulación de Sucesiones]] (art. 520)
-- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo VI|CAPÍTULO VI - Conflicto Especial de Competencia]] (arts. 521 a 522)
+- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo I|CAPÍTULO I - MEDIDAS PREPARATORIAS EN SUCESIONES TESTADAS]] (arts. 473 a 475)
+- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo II|CAPÍTULO II - MEDIDAS CAUTELARES]] (arts. 476 a 481)
+- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|CAPÍTULO III - HERENCIA YACENTE]] (arts. 482 a 486)
+- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA SUCESIÓN]] (arts. 487 a 519)
+- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo V|CAPÍTULO V - ACUMULACIÓN DE SUCESIONES]] (art. 520)
+- [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo VI|CAPÍTULO VI - CONFLICTO ESPECIAL DE COMPETENCIA]] (arts. 521 a 522)
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] · [[CGP - Libro Tercero - Sección Tercera - Título II|Título II]] →

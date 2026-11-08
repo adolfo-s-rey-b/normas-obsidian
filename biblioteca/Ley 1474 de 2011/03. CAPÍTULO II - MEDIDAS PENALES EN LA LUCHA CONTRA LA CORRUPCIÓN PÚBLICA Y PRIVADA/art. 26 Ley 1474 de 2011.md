@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "26"
-epigrafe: "Fraude de subvenciones"
+epigrafe: "FRAUDE DE SUBVENCIONES"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 25 Ley 1474 de 2011]]"
 siguiente: "[[art. 27 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#26"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 26. Fraude de subvenciones
+## Artículo 26. FRAUDE DE SUBVENCIONES
 
 La Ley 599 de 2000 tendrá un artículo [[art. 403A CP|403A]], el cual quedará así:
 

@@ -15,8 +15,9 @@ vigencia: "vigente"
 anterior: "[[art. 144 CC]]"
 siguiente: "[[art. 146 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,9 +32,9 @@ Las nulidades a que se contraen los números 5o y 6o no podrán declararse sino 
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso 1o. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-533-00 del 10 de mayo de 2001 de Magistrado Ponente Dr. Vladimiro Naranjo Mesa.
 
-> [!note] Inciso CONDICIONALMENTE exequible
-
 No habrá lugar a la nulidad por las causas expresadas en dichos incisos, si después de que los cónyuges quedaron en libertad, han vivido juntos por el espacio de tres meses, sin reclamar.
+
+> [!note] Inciso CONDICIONALMENTE exequible
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso 2o. declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-533-00 del 10 de mayo de 2001 de Magistrado Ponente Dr. Vladimiro Naranjo Mesa, 'bajo el entendido de que la cohabitación a que se refieren sea en todo caso voluntaria y libre, y dejando a salvo el derecho de demostrar, en todo tiempo, que ella no tuvo por objeto convalidar el matrimonio.'.
 

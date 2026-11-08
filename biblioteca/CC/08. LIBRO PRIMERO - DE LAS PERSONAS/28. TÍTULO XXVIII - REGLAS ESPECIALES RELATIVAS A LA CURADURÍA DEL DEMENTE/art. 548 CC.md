@@ -18,8 +18,9 @@ derogado_por:
 anterior: "[[art. 547 CC]]"
 siguiente: "[[art. 549 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2009
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,7 @@ tags:
 
 ## Artículo 548. PERSONAS QUE PUEDEN SOLICITAR LA INTERDICCIÓN POR DEMENCIA
 
-<Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009>
+> [!warning] Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009, publicada en el Diario Oficial No. 47.371 de 5 de junio de 2009. - Artículo extendido al sordomudo por el artículo [[art. 23 Ley 57 de 1887|23]] de la Ley 57 de 1887, publicada en el Diario Oficial No. 7019, de 20 de abril de 1887.
 

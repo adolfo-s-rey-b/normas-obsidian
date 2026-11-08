@@ -17,8 +17,9 @@ modificado_por:
 anterior: "[[art. 654 CC]]"
 siguiente: "[[art. 656 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +30,9 @@ tags:
 
 ## Artículo 655
 
-MUEBLES. <Artículo modificado por el artículo [[art. 2 Ley 1774 de 2016|2]] de la Ley 1774 de 2016. El nuevo texto es el siguiente:> Muebles son las que pueden transportarse de un lugar a otro, sea moviéndose ellas a sí mismas como los animales (que por eso se llaman semovientes) , sea que sólo se muevan por una fuerza externa, como las cosas inanimadas.
+MUEBLES. Muebles son las que pueden transportarse de un lugar a otro, sea moviéndose ellas a sí mismas como los animales (que por eso se llaman semovientes) , sea que sólo se muevan por una fuerza externa, como las cosas inanimadas.
+
+> [!info] Artículo modificado por el artículo [[art. 2 Ley 1774 de 2016|2]] de la Ley 1774 de 2016. El nuevo texto es el siguiente:
 
 Exceptúense las que siendo muebles por naturaleza se reputan inmuebles por su destino, según el artículo [[art. 658 CC|658]] .
 

@@ -1,0 +1,35 @@
+---
+aliases:
+  - "EOSF CAPÍTULO IX - REGIMEN PATRIMONIAL"
+tipo: indice
+norma: "Decreto 663 de 1993"
+sigla: "EOSF"
+nivel: "CAPÍTULO"
+etiqueta: "IX"
+nombre: "REGIMEN PATRIMONIAL"
+parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
+articulos: "arts. 80 a 87"
+tags:
+  - normas/indice
+  - normas/eosf
+---
+
+[[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]]
+
+## CAPÍTULO IX - REGIMEN PATRIMONIAL
+
+*Arts. 80 a 87*
+
+### Contenido
+
+- [[art. 80 EOSF|Artículo 80]] — CAPITAL
+- [[art. 81 EOSF|Artículo 81]] — PAGO Y REPRESENTACION DEL CAPITAL
+- [[art. 82 EOSF|Artículo 82]] — DISPOSICIONES RELATIVAS A LOS MARGENES DE SOLVENCIA O NIVELES DE PATRIMONIO ADECUADO
+- [[art. 83 EOSF|Artículo 83]] — SANCIONES POR INCUMPLIMIENTO EN MARGENES DE SOLVENCIA O NIVELES ADECUADOS DE PATRIMONIO
+- [[art. 84 EOSF|Artículo 84]] — VARIACION DE CAPITAL POR ACTO DE AUTORIDAD
+- [[art. 85 EOSF|Artículo 85]] — RESERVA LEGAL
+- [[art. 86 EOSF|Artículo 86]] — COMPUTO DE BONOS OBLIGATORIAMENTE CONVERTIBLES EN ACCIONES
+- [[art. 87 EOSF|Artículo 87]] — PERIODO DE DIVIDENDOS
+
+---
+← [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo X|Capítulo X]] →

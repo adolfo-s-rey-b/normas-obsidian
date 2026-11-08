@@ -8,6 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "218"
+epigrafe: "PORNOGRAFÍA CON PERSONAS MENORES DE 18 AÑOS"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IV|TÍTULO IV - DELITOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUALES]]"
 capitulo: "[[CP - Libro Segundo - Título IV - Capítulo Cuarto|CAPÍTULO CUARTO - Modificado por la Ley 1329 de 2009]]"
@@ -18,7 +19,11 @@ modificado_por:
 anterior: "[[art. 217A CP]]"
 siguiente: "[[art. 219 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#218"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2009
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -27,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IV|Título IV]] › [[CP - Libro Segundo - Título IV - Capítulo Cuarto|Capítulo Cuarto]] › [[CP - Libro Segundo - Título IV - Capítulo Cuarto - Del proxenetismo|Del proxenetismo]]
 
-## Artículo 218
+## Artículo 218. PORNOGRAFÍA CON PERSONAS MENORES DE 18 AÑOS
 
 > [!info] Modificado por el art. [[art. 24 Ley 1336 de 2009|24]], ley 1336 de 2009
 

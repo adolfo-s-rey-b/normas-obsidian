@@ -15,7 +15,7 @@ anterior: "[[art. 63 CC]]"
 siguiente: "[[art. 65 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,9 +28,9 @@ tags:
 
 Se llama fuerza mayor o caso fortuito el imprevisto o que no es posible resistir, como un naufragio, un terremoto, el apresamiento de enemigos, los actos de autoridad ejercidos por un funcionario público, etc.
 
-(sic)
+> [!note] Notas del Editor: Para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el artículo 1o. de la Ley 95 de 1890, publicada en el Diario Oficial No. 8264, de 2 de diciembre de 1890, cuyo texto original establece: 'ARTÍCULO 1o. Se llama fuerza mayor ó caso fortuito, el imprevisto á que no es posible resistir, como un naufragio, un terremoto, el apresamiento de enemigos, los autos de autoridad ejercidos por un funcionario público, etc. '
 
-> [!note] Notas del Editor: Para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el artículo [[art. 1 CC|1]]o. de la Ley 95 de 1890, publicada en el Diario Oficial No. 8264, de 2 de diciembre de 1890, cuyo texto original establece: 'ARTÍCULO 1o. Se llama fuerza mayor ó caso fortuito, el imprevisto á que no es posible resistir, como un naufragio, un terremoto, el apresamiento de enemigos, los autos de autoridad ejercidos por un funcionario público, etc. '
+(sic)
 
 ---
 ← [[art. 63 CC]] · ↑ [[CC - Capítulo V|Capítulo V]] · [[art. 65 CC]] →

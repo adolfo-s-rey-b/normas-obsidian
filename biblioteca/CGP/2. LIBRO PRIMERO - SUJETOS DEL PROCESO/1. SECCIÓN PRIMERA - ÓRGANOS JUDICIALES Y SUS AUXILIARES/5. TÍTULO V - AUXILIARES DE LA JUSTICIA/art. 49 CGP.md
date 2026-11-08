@@ -8,16 +8,19 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "49"
-epigrafe: "Comunicación del nombramiento, aceptación del cargo y relevo del auxiliar de la justicia"
+epigrafe: "COMUNICACIÓN DEL NOMBRAMIENTO, ACEPTACIÓN DEL CARGO Y RELEVO DEL AUXILIAR DE LA JUSTICIA"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
 vigencia: "vigente"
 anterior: "[[art. 48 CGP]]"
 siguiente: "[[art. 50 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#49"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -26,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 49. Comunicación del nombramiento, aceptación del cargo y relevo del auxiliar de la justicia
+## Artículo 49. COMUNICACIÓN DEL NOMBRAMIENTO, ACEPTACIÓN DEL CARGO Y RELEVO DEL AUXILIAR DE LA JUSTICIA
 
 El nombramiento del auxiliar de la justicia se le comunicará por telegrama enviado a la dirección que figure en la lista oficial, o por otro medio más expedito, o de preferencia a través de mensajes de datos. De ello se dejará constancia en el expediente. En la comunicación se indicará el día y la hora de la diligencia a la cual deba concurrir el auxiliar designado. En la misma forma se hará cualquier otra comunicación.
 

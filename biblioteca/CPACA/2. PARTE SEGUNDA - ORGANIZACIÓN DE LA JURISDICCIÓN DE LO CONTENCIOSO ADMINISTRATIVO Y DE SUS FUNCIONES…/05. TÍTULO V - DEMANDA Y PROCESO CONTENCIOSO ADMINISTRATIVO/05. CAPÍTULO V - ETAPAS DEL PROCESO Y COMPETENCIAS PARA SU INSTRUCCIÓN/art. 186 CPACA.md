@@ -1,0 +1,66 @@
+---
+aliases:
+  - "CPACA art. 186"
+  - "art. 186 Ley 1437 de 2011"
+  - "Ley 1437 de 2011 art. 186"
+  - "CPACA 186"
+tipo: articulo
+norma: "Ley 1437 de 2011"
+sigla: "CPACA"
+articulo: "186"
+epigrafe: "ACTUACIONES A TRAVÉS DE MEDIOS ELECTRÓNICOS"
+parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
+titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
+capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]]"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 46 Ley 2080 de 2021]]"
+  - "[[art. 7 Ley 2213 de 2022]]"
+  - "[[art. 107 CGP]]"
+  - "[[art. 7 CPT]]"
+  - "[[art. 36 CPACA]]"
+  - "[[art. 107 CPACA]]"
+  - "[[art. 7 CPACA]]"
+anterior: "[[art. 185A CPACA]]"
+siguiente: "[[art. 187 CPACA]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2021
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cpaca
+  - vigencia/modificado
+---
+
+[[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]]
+
+## Artículo 186. ACTUACIONES A TRAVÉS DE MEDIOS ELECTRÓNICOS
+
+Todas las actuaciones judiciales susceptibles de surtirse en forma escrita deberán realizarse a través de las tecnologías de la información y las comunicaciones, siempre y cuando en su envío y recepción se garantice su autenticidad, integridad, conservación y posterior consulta, de conformidad con la ley. La autoridad judicial deberá contar con mecanismos que permitan acusar recibo de la información recibida, a través de este medio.
+
+> [!info] Artículo modificado por el artículo [[art. 46 Ley 2080 de 2021|46]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
+
+Las partes y sus apoderados deberán realizar sus actuaciones y asistir a las audiencias y diligencias a través de las tecnologías de la información y las comunicaciones. Suministrarán al despacho judicial y a todos los sujetos procesales e intervinientes; el canal digital para que a través de este se surtan todas las actuaciones y notificaciones del proceso o trámite. Así mismo, darán cumplimiento al deber establecido en el numeral 14 del artículo [[art. 78 CGP|78]] del Código General del Proceso.
+
+El Consejo Superior de la Judicatura adoptará las medidas necesarias para implementar el uso de las tecnologías de la información y las comunicaciones en todas las actuaciones que deba conocer la jurisdicción de lo contencioso administrativo.
+
+Para tal efecto, se deberá incorporar lo referente a la sede judicial electrónica, formas de identificación y autenticación digital para los sujetos procesales, interoperabilidad; acreditación y representación de los ciudadanos por medios digitales, tramitación electrónica de los procedimientos judiciales, expediente judicial electrónico, registro de documentos electrónicos, lineamientos de cooperación digital entre las autoridades con competencias en materia de Administración de Justicia, seguridad digital judicial, y protección de datos personales.
+
+**PARÁGRAFO.** En el evento que el juez lo considere pertinente, la actuación judicial respectiva podrá realizarse presencialmente o combinando las dos modalidades.
+
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 46 Ley 2080 de 2021|46]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 .
+
+> [!info] Notas del Editor: Nota al texto modificado por la Ley 2080 de 2021: 3. En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 7 Ley 2213 de 2022|7]] de la Ley 2213 de 2022, 'por la cual se establece la vigencia permanente del Decreto Legislativo 806 de 2020 y se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.064 de 13 de junio de 2022.. Cuyo texto original establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) 'ARTÍCULO 7 o. AUDIENCIAS. Las audiencias deberán realizarse utilizando los medios tecnológicos a disposición de las autoridades judiciales o por cualquier otro medio puesto a disposición por una o por ambas partes y en ellas deberá facilitarse y permitirse la presencia de todos los sujetos procesales, ya sea de manera virtual o telefónica. No se requerirá la autorización de que trata el parágrafo 2 del artículo [[art. 107 CGP|107]] del Código General del Proceso. No obstante, con autorización del titular del despacho, cualquier empleado podrá comunicarse con los sujetos procesales, antes de la realización de las audiencias, con el fin de informarles sobre la herramienta tecnológica que se utilizará en ellas o para concertar una distinta. Cuando las circunstancias de seguridad, inmediatez y fidelidad excepcionalmente lo requieran, serán presenciales las audiencias y diligencias destinadas a la práctica de pruebas. La práctica presencial de la prueba se dispondrá por el juez de oficio o por solicitud motivada de cualquiera de las partes. Para el caso de la jurisdicción penal, de manera oficiosa el juez de conocimiento podrá disponer la práctica presencial de la prueba cuando lo considere necesario, y deberá disponerlo así cuando alguna de las partes se lo solicite, sin que las mismas deban motivar tal petición. Excepcionalmente la prueba podrá practicarse en forma virtual ante la imposibilidad comprobada para garantizar la comparecencia presencial de un testigo, experto o perito al despacho judicial. La presencia física en la sede del juzgado de conocimiento solo será exigible al sujeto de prueba, a quien requirió la práctica presencial y al juez de conocimiento, sin perjuicio de que puedan asistir de manera presencial los abogados reconocidos, las partes que no deban declarar, los terceros e intervinientes especiales y demás sujetos del proceso, quienes además podrán concurrir de manera virtual. PARÁGRAFO. Las audiencias y diligencias que se deban adelantar por la sala de una corporación serán presididas por el ponente, y a ellas deberán concurrir la mayoría de los magistrados que integran la sala, so pena de nulidad. '. Tener en cuenta el análisis sobre las modificaciones (en su momento transitorias) que introdujo el Decreto Ley 806 de 2020, expuesto por la Corte Constitucional en Sentencia C-420-20, destacado en la Nota 2. Nota al texto original: 2. La Corte Constitucional en la Sentencia C-420-20 de 24 de septiembre de 2020, Magistrado Ponente Dr. Richard Ramírez Grisales, establece: 'i. Modificaciones temporales al trámite de las audiencias judiciales (art. 7 º) '1. El artículo [[art. 7 CPT|7]] ° del Decreto Legislativo sub examine implementa modificaciones transitorias a la regulación de audiencias prevista en el CGP , CPACA y Código Procesal del Trabajo y la Seguridad Social –en adelante CPTSS–. Estas normas ordinares prescriben que, por regla general, las audiencias judiciales (i) deben tramitarse de forma presencial y (ii) requieren la presencia de todos los sujetos procesales y las autoridades judiciales. En particular, el parágrafo 1 del artículo 107 del CGP dispone que solo en aquellos eventos en que el juez dé su autorización, de manera excepcional y por una causa justificada, los sujetos procesales pueden asistir a las audiencias mediante videoconferencia, teleconferencia o cualquier otro medio técnico. De otro lado, los artículos [[art. 36 CPACA|36]] y [[art. 107 CPACA|107]] ibidem señalan que a las audiencias y diligencias que realicen los jueces colegiados 'deberán concurrir todos los magistrados que integran la Sala, so pena de nulidad ' (resalto fuera del texto original), salvo que ' la ausencia obedezca a un hecho constitutivo de fuerza mayor o caso fortuito ', de lo cual deberá dejarse constancia expresa en el acta de la audiencia. '2. El artículo [[art. 7 CPACA|7]] º del Decreto sub examine introduce tres cambios provisionales al trámite ordinario de las audiencias judiciales: (i) dispone que los jueces y autoridades procesales deberán, por regla general, usar las TIC para el desarrollo de las audiencias de los respectivos procesos (inciso 1 del art. 7 º); (ii) permite a los jueces colegiados adelantar las audiencias con la presencia de la mayoría de los miembros que integran la Sala y (iii) elimina la exigencia de acreditar un evento de fuerza mayor para que uno de los integrantes del cuerpo colegiado pueda excusarse.'. 1. En criterio del editor tener en cuenta las disposiciones transitorias dispuestas en el Decreto Legislativo 806 de 2020, 'por el cual se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia, en el marco del Estado de Emergencia Económica, Social y Ecológica', publicado en el Diario Oficial No. 51.335 de 4 de junio de 2020, el cual estará vigente durante los dos (2) años siguientes a partir de su expedición. Particularmente: 'ARTÍCULO 7 o. AUDIENCIAS. Las audiencias deberán realizarse utilizando los medios tecnológicos a disposición de las autoridades judiciales o por cualquier otro medio puesto a disposición por una o por ambas partes y en ellas deberá facilitarse y permitirse la presencia de todos los sujetos procesales, ya sea de manera virtual o telefónica. No se requerirá la autorización de que trata el parágrafo 2o. del artículo [[art. 107 CGP|107]] del Código General del Proceso. No obstante, con autorización del titular del despacho, cualquier empleado podrá comunicarse con los sujetos procesales, antes de la realización de las audiencias, con el fin de informarles sobre la herramienta tecnológica que se utilizará en ellas o para concertar una distinta. PARÁGRAFO. Las audiencias y diligencias que se deban adelantar por la sala de una corporación serán presididas por el ponente, y a ellas deberán concurrir la mayoría de los magistrados que integran la sala, so pena de nulidad.'.
+
+(artículos [[art. 36 CPACA|36]] y [[art. 107 CPACA|107]])
+
+(artículos [[art. 180 CPACA|180]] , [[art. 181 CPACA|181]] , [[art. 182 CPACA|182]] y [[art. 186 CPACA|186]])
+
+(artículos [[art. 77 CPACA|77]] , [[art. 80 CPACA|80]] y [[art. 82 CPACA|82]])
+
+---
+← [[art. 185A CPACA]] · ↑ [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]] · [[art. 187 CPACA]] →

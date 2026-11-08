@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo VII|CAPÍTULO VII - INEF
 vigencia: "vigente"
 anterior: "[[art. 896 CCo]]"
 siguiente: "[[art. 898 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#897"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -26,8 +30,6 @@ tags:
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título I|Título I]] › [[CCo - Libro Cuarto - Título I - Capítulo VII|Capítulo VII]]
 
 ## Artículo 897. INEFICACIA DE PLENO DERECHO
-
-> [!note] Reglamentado por el Decreto 1136 de 1992
 
 Cuando en este Código se exprese que un acto no produce efectos, se entenderá que es ineficaz de pleno derecho, sin necesidad de declaración judicial.
 

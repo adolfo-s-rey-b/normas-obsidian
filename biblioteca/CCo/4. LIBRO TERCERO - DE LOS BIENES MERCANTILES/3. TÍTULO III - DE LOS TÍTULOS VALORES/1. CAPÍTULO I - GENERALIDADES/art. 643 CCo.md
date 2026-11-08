@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Tercero - Título III - Capítulo I|CAPÍTULO I - GENER
 vigencia: "vigente"
 anterior: "[[art. 642 CCo]]"
 siguiente: "[[art. 644 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#643"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 La emisión o transferencia de un título-valor de contenido crediticio no producirá, salvo que aparezca de modo inequívoco intención en contrario de las partes, extinción de la relación que dio lugar a tal emisión o transferencia.
 
-La acción causal podrá ejercitarse de conformidad con el artículo [[art. 882 CCo|882]].
+La acción causal podrá ejercitarse de conformidad con el artículo [[art. 882 CCo|882]] .
 
 ---
 ← [[art. 642 CCo]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo I|Capítulo I]] · [[art. 644 CCo]] →

@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2535 CC]]"
 siguiente: "[[art. 2537 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2021
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 2536. PRESCRIPCIÓN DE LA ACCIÓN EJECUTIVA Y ORDINARIA
 
-<Artículo modificado por el artículo [[art. 8 Ley 791 de 2002|8]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> La acción ejecutiva se prescribe por cinco (5) años. Y la ordinaria por diez (10).
+La acción ejecutiva se prescribe por cinco (5) años. Y la ordinaria por diez (10).
+
+> [!info] Artículo modificado por el artículo [[art. 8 Ley 791 de 2002|8]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 La acción ejecutiva se convierte en ordinaria por el lapso de cinco (5) años, y convertida en ordinaria durará solamente otros cinco (5).
 

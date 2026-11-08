@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo III|CAPÍTULO III - DERECHO
 vigencia: "vigente"
 anterior: "[[art. 13 Ley 222 de 1995]]"
 siguiente: "[[art. 15 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#14"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -28,7 +32,7 @@ El retiro produce efectos frente a la sociedad desde el momento en que se reciba
 
 Salvo pacto arbitral, en caso de discrepancia sobre la existencia de la causal de retiro, el trámite correspondiente se adelantará ante la entidad estatal encargada de ejercer la inspección, vigilancia o control.
 
-Si la asamblea de accionistas o junta de socios, dentro de los sesenta días siguientes a la adopción de la decisión, la revoca, caduca el derecho de receso los socios que lo ejercieron, readquieren sus derechos, retrotrayéndose los de naturaleza patrimonial al momento en que se notificó el retiro al representante legal.
+Si la asamblea de accionistas o junta de socios, dentro de los sesenta días siguientes a la adopción de la decisión, la revoca, caduca el derecho de receso a los socios que lo ejercieron, readquieren sus derechos, retrotrayéndose los de naturaleza patrimonial al momento en que se notificó el retiro al representante legal.
 
 ---
 ← [[art. 13 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo III|Capítulo III]] · [[art. 15 Ley 222 de 1995]] →

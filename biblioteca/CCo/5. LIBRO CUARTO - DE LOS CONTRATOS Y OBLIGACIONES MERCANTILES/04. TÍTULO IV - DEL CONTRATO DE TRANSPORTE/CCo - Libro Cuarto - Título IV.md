@@ -20,6 +20,8 @@ tags:
 
 *Arts. 981 a 1035*
 
+> [!note] Notas del Editor: El artículo 1o. del Decreto 2273 de 1989 crea Juzgados Civiles del Circuito Especializados y establece las 8 ciudades principales en que tendrán sede dichos juzgados; el inciso segundo del parágrafo del mismo artículo dispone que los Tribunales Superiores de Distrito Judicial podrán especializar Juzgados Civiles del Circuito, cuando las necesidades así lo exijan, para el conocimiento de los asuntos enumerados en el artículo 3o. del Decreto. El artículo 3o. del mismo Decreto establece las competencias para conocer de controversias en diferentes áreas del derecho comercial, entre ellas, numeral 5o., de los contratos de transporte terrestre, marítimo y aeronáutico.
+
 ### Contenido
 
 - [[CCo - Libro Cuarto - Título IV - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]] (arts. 981 a 999)

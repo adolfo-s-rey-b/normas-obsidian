@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título IX - Capítulo 1|CAPÍTULO 1 - Del sufragio y de las
 vigencia: "vigente"
 anterior: "[[art. 259 CPol]]"
 siguiente: "[[art. 261 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#260"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,6 +34,10 @@ tags:
 ## Artículo 260
 
 Los ciudadanos eligen en forma directa Presidente y Vicepresidente de la República, Senadores, Representantes, Gobernadores, Diputados, Alcaldes, Concejales municipales y distritales, miembros de las juntas administradoras locales, y en su oportunidad, los miembros de la Asamblea Constituyente y las demás autoridades o funcionarios que la Constitución señale.
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-127-93 ; C-454-93 ; C-488-93 ; C-047-2001 ; C-1149-2001 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5 y 88)
 
 ---
 ← [[art. 259 CPol]] · ↑ [[CPol - Título IX - Capítulo 1|Capítulo 1]] · [[art. 261 CPol]] →

@@ -1,0 +1,31 @@
+---
+aliases:
+  - "CGD TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO"
+tipo: indice
+norma: "Ley 1952 de 2019"
+sigla: "CGD"
+nivel: "TÍTULO"
+etiqueta: "IV"
+nombre: "DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO"
+libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
+articulos: "arts. 37 a 45"
+tags:
+  - normas/indice
+  - normas/cgd
+---
+
+[[CGD|CGD]] › [[CGD - Libro I|Libro I]]
+
+## TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO
+
+*Arts. 37 a 45*
+
+### Contenido
+
+- [[CGD - Libro I - Título IV - Capítulo I|CAPÍTULO I - DERECHOS]] (art. 37)
+- [[CGD - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEBERES]] (art. 38)
+- [[CGD - Libro I - Título IV - Capítulo III|CAPÍTULO III - PROHIBICIONES]] (art. 39)
+- [[CGD - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES]] (arts. 40 a 45)
+
+---
+← [[CGD - Libro I - Título III|Título III]] · ↑ [[CGD - Libro I|Libro I]] · [[CGD - Libro I - Título V|Título V]] →

@@ -18,7 +18,11 @@ modificado_por:
 anterior: "[[art. 311 CP]]"
 siguiente: "[[art. 312A CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#312"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2010
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

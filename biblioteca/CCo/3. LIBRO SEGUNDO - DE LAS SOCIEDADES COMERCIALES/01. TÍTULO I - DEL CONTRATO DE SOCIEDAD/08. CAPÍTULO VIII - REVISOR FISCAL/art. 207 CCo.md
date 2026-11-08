@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 27 Ley 1762 de 2015]]"
 anterior: "[[art. 206 CCo]]"
 siguiente: "[[art. 208 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#207"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2015
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,8 +33,6 @@ tags:
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título I|Título I]] › [[CCo - Libro Segundo - Título I - Capítulo VIII|Capítulo VIII]]
 
 ## Artículo 207. FUNCIONES DEL REVISOR FISCAL
-
-> [!info] Adicionado parcialmente (numeral 10) por el Artículo [[art. 27 Ley 1762 de 2015|27]] de la Ley 1762 de 2015
 
 Son funciones del revisor fiscal:
 
@@ -50,6 +53,12 @@ Son funciones del revisor fiscal:
 8\. Convocar a la asamblea o a la junta de socios a reuniones extraordinarias cuando lo juzgue necesario, y
 
 9\. Cumplir las demás atribuciones que le señalen las leyes o los estatutos y las que, siendo compatibles con las anteriores, le encomiende la asamblea o junta de socios.
+
+10\. Reportar a la Unidad de Información y Análisis Financiero las operaciones catalogadas como sospechosas en los términos del literal d) del numeral 2 del artículo [[art. 102 Ley 663 de 1993|102]] del Decreto-ley 663 de 1993, cuando las adviertan dentro del giro ordinario de sus labores.
+
+> [!info] Numeral adicionado por el artículo [[art. 27 Ley 1762 de 2015|27]] de la Ley 1762 de 2015. El nuevo texto es el siguiente:
+
+> [!info] Notas de Vigencia: Numeral adicionado por el artículo [[art. 27 Ley 1762 de 2015|27]] de la Ley 1762 de 2015, 'por medio de la cual se adoptan instrumentos para prevenir, controlar y sancionar el contrabando, el lavado de activos y la evasión fiscal', publicada en el Diario Oficial No. 49.565 de 6 de julio de 2015.
 
 **PARÁGRAFO.** En las sociedades en que sea meramente potestativo el cargo del revisor fiscal, éste ejercerá las funciones que expresamente le señalen los estatutos o las juntas de socios, con el voto requerido para la creación del cargo; a falta de estipulación expresa de los estatutos y de instrucciones concretas de la junta de socios o asamblea general, ejercerá las funciones indicadas en este artículo. No obstante, si no es contador público, no podrá autorizar con su firma balances generales, ni dictaminar sobre ellos.
 

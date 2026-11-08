@@ -25,7 +25,7 @@ tags:
 - [[art. 334 CPol|Artículo 334]]
 - [[art. 335 CPol|Artículo 335]]
 - [[art. 336 CPol|Artículo 336]]
-- [[art. 337 CPol|Artículo 337]]
+- [[art. 337 CPol|Artículo 337]] — (sic)
 - [[art. 338 CPol|Artículo 338]]
 
 ---

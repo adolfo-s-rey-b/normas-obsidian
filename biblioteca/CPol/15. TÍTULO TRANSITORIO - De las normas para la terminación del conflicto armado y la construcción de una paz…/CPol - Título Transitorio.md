@@ -7,7 +7,7 @@ sigla: "CPol"
 nivel: "TÍTULO"
 etiqueta: "TRANSITORIO"
 nombre: "De las normas para la terminación del conflicto armado y la construcción de una paz estable y duradera"
-articulos: "arts. transitorio 1 (AL 1 de 2017) a transitorio 27 (AL 1 de 2017)"
+articulos: "arts. transitorio 1 (AL 1 de 2017) a transitorio 10 (AL 2 de 2021)"
 tags:
   - normas/indice
   - normas/cpol
@@ -17,7 +17,7 @@ tags:
 
 ## TÍTULO TRANSITORIO - De las normas para la terminación del conflicto armado y la construcción de una paz estable y duradera
 
-*Arts. transitorio 1 (AL 1 de 2017) a transitorio 27 (AL 1 de 2017)*
+*Arts. transitorio 1 (AL 1 de 2017) a transitorio 10 (AL 2 de 2021)*
 
 ### Contenido
 
@@ -28,7 +28,7 @@ tags:
 - [[CPol - Título Transitorio - Capítulo V|CAPÍTULO V - Extradición]] (art. transitorio 19 (AL 1 de 2017))
 - [[CPol - Título Transitorio - Capítulo VI|CAPÍTULO VI - Participación en política]] (art. transitorio 20 (AL 1 de 2017))
 - [[CPol - Título Transitorio - Capítulo VII|CAPÍTULO VII - De las normas aplicables a los miembros de la fuerza pública para la terminación del conflicto armado y la construcción de una paz estable y duradera]] (arts. transitorio 21 (AL 1 de 2017) a transitorio 26 (AL 1 de 2017))
-- [[CPol - Título Transitorio - Capítulo VIII|CAPÍTULO VIII - Prevalencia del Acuerdo Final para la terminación del conflicto armado y la construcción de una paz estable y duradera]] (art. transitorio 27 (AL 1 de 2017))
+- [[CPol - Título Transitorio - Capítulo VIII|CAPÍTULO VIII - Prevalencia del Acuerdo Final para la terminación del conflicto armado y la construcción de una paz estable y duradera]] (arts. transitorio 27 (AL 1 de 2017) a transitorio 10 (AL 2 de 2021))
 
 ---
-← [[CPol - Título|Título]] · ↑ [[CPol|CPol]] · [[CPol - Título (2)|Título]] →
+← [[CPol - Título|Título]] · ↑ [[CPol|CPol]]

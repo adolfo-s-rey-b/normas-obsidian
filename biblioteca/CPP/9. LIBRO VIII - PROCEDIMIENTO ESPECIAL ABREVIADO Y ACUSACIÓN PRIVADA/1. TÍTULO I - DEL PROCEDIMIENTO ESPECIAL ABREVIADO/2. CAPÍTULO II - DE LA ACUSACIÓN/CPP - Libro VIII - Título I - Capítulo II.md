@@ -1,0 +1,43 @@
+---
+aliases:
+  - "CPP CAPÍTULO II - DE LA ACUSACIÓN"
+tipo: indice
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "DE LA ACUSACIÓN"
+libro: "[[CPP - Libro VIII|LIBRO VIII - PROCEDIMIENTO ESPECIAL ABREVIADO Y ACUSACIÓN PRIVADA]]"
+titulo: "[[CPP - Libro VIII - Título I|TÍTULO I - DEL PROCEDIMIENTO ESPECIAL ABREVIADO]]"
+articulos: "arts. 536 a 548"
+tags:
+  - normas/indice
+  - normas/cpp
+---
+
+[[CPP|CPP]] › [[CPP - Libro VIII|Libro VIII]] › [[CPP - Libro VIII - Título I|Título I]]
+
+## CAPÍTULO II - DE LA ACUSACIÓN
+
+*Arts. 536 a 548*
+
+> [!info] Notas de Vigencia: Capítulo adicionado por el artículo [[art. 12 Ley 1826 de 2017|12]] de la Ley 1826 de 2017, 'por medio de la cual se establece un procedimiento penal especial abreviado y se regula la figura del acusador privado', publicada en el Diario Oficial No. 50.114 de 12 de enero de 2017.
+
+### Contenido
+
+- [[art. 536 CPP|Artículo 536]] — TRASLADO DE LA ACUSACIÓN
+- [[art. 537 CPP|Artículo 537]] — TRASLADO DE LA ACUSACIÓN EN AUDIENCIA DE SOLICITUD DE MEDIDA DE ASEGURAMIENTO
+- [[art. 538 CPP|Artículo 538]] — CONTENIDO DE LA ACUSACIÓN Y DOCUMENTOS ANEXOS
+- [[art. 539 CPP|Artículo 539]] — ACEPTACIÓN DE CARGOS EN EL PROCEDIMIENTO ABREVIADO
+- [[art. 540 CPP|Artículo 540]] — PRESENTACIÓN DE LA ACUSACIÓN
+- [[art. 541 CPP|Artículo 541]] — TÉRMINO PARA LA AUDIENCIA CONCENTRADA
+- [[art. 542 CPP|Artículo 542]] — AUDIENCIA CONCENTRADA
+- [[art. 543 CPP|Artículo 543]] — FIJACIÓN DE LA AUDIENCIA DE JUICIO ORAL
+- [[art. 544 CPP|Artículo 544]] — TRÁMITE DEL JUICIO ORAL
+- [[art. 545 CPP|Artículo 545]] — TRASLADO DE LA SENTENCIA E INTERPOSICIÓN DE RECURSOS
+- [[art. 546 CPP|Artículo 546]] — NOTIFICACIONES
+- [[art. 547 CPP|Artículo 547]] — JUSTICIA RESTAURATIVA EN EL PROCEDIMIENTO ESPECIAL ABREVIADO
+- [[art. 548 CPP|Artículo 548]] — CAUSALES DE LIBERTAD EN EL PROCEDIMIENTO PENAL ABREVIADO
+
+---
+← [[CPP - Libro VIII - Título I - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro VIII - Título I|Título I]]

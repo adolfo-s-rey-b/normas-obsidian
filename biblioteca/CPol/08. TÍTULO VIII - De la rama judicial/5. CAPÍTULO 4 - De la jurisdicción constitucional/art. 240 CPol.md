@@ -16,8 +16,12 @@ capitulo: "[[CPol - Título VIII - Capítulo 4|CAPÍTULO 4 - De la jurisdicción
 vigencia: "vigente"
 anterior: "[[art. 239 CPol]]"
 siguiente: "[[art. 241 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#240"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,7 +34,7 @@ tags:
 
 No podrán ser elegidos Magistrados de la Corte Constitucional quienes durante el año anterior a la elección se hayan desempeñado como Ministros del Despacho o Magistrados de la Corte Suprema de Justicia o del Consejo de Estado.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-1255-2001; C-1256-2001
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-1255-2001 ; C-1256-2001 ;
 
 ---
 ← [[art. 239 CPol]] · ↑ [[CPol - Título VIII - Capítulo 4|Capítulo 4]] · [[art. 241 CPol]] →

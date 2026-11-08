@@ -17,7 +17,10 @@ vigencia: "vigente"
 anterior: "[[art. 214 CP]]"
 siguiente: "[[art. 216 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#215"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección I|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 380 CCo]]"
 siguiente: "[[art. 382 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#381"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -37,6 +41,8 @@ Las acciones podrán ser ordinarias o privilegiadas. Las primeras conferirán a 
 3\. Cualquiera otra prerrogativa de carácter exclusivamente económico.
 
 En ningún caso podrán otorgarse privilegios que consistan en voto múltiple, o que priven de sus derechos de modo permanente a los propietarios de acciones comunes.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo 30 de la Ley 27 de febrero 20 de 1990, 'Por la cual se dictan normas en relación con las bolsas de valores, el mercado público de valores, los depósitos centralizados de valores y las acciones con dividendo preferencial y sin derecho de voto', el cual estableció que las sociedades anónimas que reúnan los requisitos establecidos en dicho artículo, pueden emitir acciones con dividendo preferencial y sin derecho de voto.
 
 ---
 ← [[art. 380 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II - Sección I|Sección I]] · [[art. 382 CCo]] →

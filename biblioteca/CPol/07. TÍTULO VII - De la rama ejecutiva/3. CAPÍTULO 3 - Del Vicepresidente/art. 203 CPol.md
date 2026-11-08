@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 3|CAPÍTULO 3 - Del Vicepresidente]]
 vigencia: "vigente"
 anterior: "[[art. 202 CPol]]"
 siguiente: "[[art. 204 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#203"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,11 +33,13 @@ tags:
 
 ## Artículo 203
 
-A falta del Vicepresidente cuando estuvierá ejerciendo la Presidencia, esta será asumida por un Ministro en el orden que establezca la ley.
+A falta del Vicepresidente cuando estuviera ejerciendo la Presidencia, ésta será asumida por un Ministro en el orden que establezca la ley.
 
-La persona que de conformidad con este artículo reemplace al Presidente, pertenecerá a su mismo partido o movimiento y ejercerá la Presidencia hasta cuando el Congreso, por derecho propio, dentro de los treinta dias siguientes a la fecha en que se produzca la vacancia presidencial, elija al Vicepresidente, quien tomará posesión de la Presidencia de la República.
+La persona que de conformidad con este artículo reemplace al Presidente, pertenecerá a su mismo partido o movimiento y ejercerá la Presidencia hasta cuando el Congreso, por derecho propio, dentro de los treinta días siguientes a la fecha en que se produzca la vacancia presidencial, elija al Vicepresidente, quien tomará posesión de la Presidencia de la República.
 
-> [!note] Ver Sentencia de la Corte Constitucional: C-428-93
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-428-93 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 9 y 76)
 
 ---
 ← [[art. 202 CPol]] · ↑ [[CPol - Título VII - Capítulo 3|Capítulo 3]] · [[art. 204 CPol]] →

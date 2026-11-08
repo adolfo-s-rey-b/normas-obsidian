@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "23"
-epigrafe: "Competencia"
+epigrafe: "COMPETENCIA"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 22 CPTSS]]"
 siguiente: "[[art. 24 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#23"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -25,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 23. Competencia
+## Artículo 23. COMPETENCIA
 
 La Sala de Casación Laboral de la Corte Suprema de Justicia podrá comisionar a las demás autoridades judiciales. Los tribunales superiores y los jueces podrán comisionar a las autoridades judiciales de igual o de inferior categoría.
 
@@ -37,11 +41,11 @@ El comisionado deberá tener competencia en el lugar de la diligencia que se le 
 
 El comisionado que carezca de competencia territorial para la diligencia devolverá inmediatamente el despacho al comitente. La nulidad por falta de competencia territorial del comisionado podrá alegarse hasta el momento de iniciarse la práctica de la diligencia.
 
-**Parágrafo 1º.** Cuando los alcaldes o demás funcionarios de policía sean comisionados o subcomisionados para los fines establecidos en este artículo, deberán ejecutar la comisión directamente o podrán subcomisionar a una autoridad que tenga jurisdicción y competencia de la respectiva alcaldía, quienes ejercerán transitoriamente como autoridad administrativa de policía. No se podrá comisionar a los cuerpos colegiados de policía.
+**PARÁGRAFO 1o.** Cuando los alcaldes o demás funcionarios de policía sean comisionados o subcomisionados para los fines establecidos en este artículo, deberán ejecutar la comisión directamente o podrán subcomisionar a una autoridad que tenga jurisdicción y competencia de la respectiva alcaldía, quienes ejercerán transitoriamente como autoridad administrativa de policía. No se podrá comisionar a los cuerpos colegiados de policía.
 
-**Parágrafo 2º .** Cuando los alcaldes o demás autoridades sean comisionados para los fines establecidos en este artículo, deberán ejecutar la comisión exactamente en el mismo orden en que hayan sido recibidos para tal fin.
+**PARÁGRAFO 2o.** Cuando los alcaldes o demás autoridades sean comisionados para los fines establecidos en este artículo, deberán ejecutar la comisión exactamente en el mismo orden en que hayan sido recibidos para tal fin.
 
-**Parágrafo 3º .** La subcomisión de diligencias jurisdiccionales o administrativas de los alcaldes a los inspectores de policía solamente procederá cuando existan previamente o se creen las capacidades institucionales suficientes para el desarrollo de la nueva carga laboral que la subcomisión implica.
+**PARÁGRAFO 3o.** La subcomisión de diligencias jurisdiccionales o administrativas de los alcaldes a los inspectores de policía solamente procederá cuando existan previamente o se creen las capacidades institucionales suficientes para el desarrollo de la nueva carga laboral que la subcomisión implica.
 
 ---
 ← [[art. 22 CPTSS]] · ↑ [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]] · [[art. 24 CPTSS]] →

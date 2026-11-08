@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 165 CP|Artículo 165]] — Desaparición forzada
-- [[art. 166 CP|Artículo 166]] — Circunstancias de agravación punitiva
+- [[art. 165 CP|Artículo 165]] — DESAPARICIÓN FORZADA
+- [[art. 166 CP|Artículo 166]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
 - [[art. 167 CP|Artículo 167]] — Circunstancias de atenuación punitiva
 
 ---

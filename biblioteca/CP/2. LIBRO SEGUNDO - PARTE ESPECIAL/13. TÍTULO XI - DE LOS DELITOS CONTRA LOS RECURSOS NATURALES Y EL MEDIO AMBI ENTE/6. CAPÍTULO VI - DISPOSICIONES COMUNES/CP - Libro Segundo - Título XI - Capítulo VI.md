@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 338 CP|Artículo 338]] — Circunstancias de agravación punitiva
-- [[art. 339 CP|Artículo 339]] — Modalidad Culposa
+- [[art. 338 CP|Artículo 338]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+- [[art. 339 CP|Artículo 339]] — MODALIDAD CULPOSA
 
 ---
 ← [[CP - Libro Segundo - Título XI - Capítulo V|Capítulo V]] · ↑ [[CP - Libro Segundo - Título XI|Título XI]]

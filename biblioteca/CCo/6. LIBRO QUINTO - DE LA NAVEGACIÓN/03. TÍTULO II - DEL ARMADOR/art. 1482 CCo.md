@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Quinto - Título II|TÍTULO II - DEL ARMADOR]]"
 vigencia: "vigente"
 anterior: "[[art. 1481 CCo]]"
 siguiente: "[[art. 1483 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1482"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -26,7 +30,7 @@ tags:
 
 ## Artículo 1482. CASOS EN QUE NO SE APLICAN LAS LIMITACIONES DE RESPONSABILIDAD
 
-La limitación de responsabilidad consagrada en el artículo anterior no se aplicará a las obligaciones derivadas de acto o culpa personal del armador, ni a las obligaciones contraídas en nombre o por cuenta de éste, por la agencia marítima o el capitán, cuando aquellas haya utilizado o ratificado especialmente, ni a las relativas a los contratos de trabajo con el capitán, con la tripulación o con las demás personas al servicio de la nave.
+La limitación de responsabilidad consagrada en el artículo anterior no se aplicará a las obligaciones derivadas de acto o culpa personal del armador, ni a las obligaciones contraídas en nombre o por cuenta de éste, por la agencia marítima o el capitán, cuando aquel las haya utilizado o ratificado especialmente, ni a las relativas a los contratos de trabajo con el capitán, con la tripulación o con las demás personas al servicio de la nave.
 
 ---
 ← [[art. 1481 CCo]] · ↑ [[CCo - Libro Quinto - Título II|Título II]] · [[art. 1483 CCo]] →

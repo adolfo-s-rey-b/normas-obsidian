@@ -21,8 +21,9 @@ derogado_por:
 anterior: "[[art. 2153 CC]]"
 siguiente: "[[art. 2155 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2005
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,7 +34,9 @@ tags:
 
 ## Artículo 2154. MANDATARIO INCAPAZ
 
-<Apartes tachados derogados tácitamente según lo establece la Corte Constitucional en Sentencia C-857-05> Si se constituye mandatario a un menor no habilitado de edad*, ~~o a una mujer casada~~**, los actos ejecutados por el mandatario serán válidos respecto de terceros, en cuanto obliguen a estos y al mandante; pero las obligaciones del mandatario para con el mandante y terceros, no podrán tener efecto sino según las reglas relativas a los menores y ~~a las mujeres casadas**~~.
+Si se constituye mandatario a un menor no habilitado de edad*, ~~o a una mujer casada~~**, los actos ejecutados por el mandatario serán válidos respecto de terceros, en cuanto obliguen a estos y al mandante; pero las obligaciones del mandatario para con el mandante y terceros, no podrán tener efecto sino según las reglas relativas a los menores y ~~a las mujeres casadas**~~.
+
+> [!warning] Apartes tachados derogados tácitamente según lo establece la Corte Constitucional en Sentencia C-857-05
 
 > [!warning] Notas del Editor: * La Ley 27 de 1977, publicada en el Diario Oficial No. 34.902, de 4 de noviembre de 1977, estableció la mayoría de edad a los 18 años, El artículo [[art. 340 CC|340]] del Código Civil otorgaba la habilitación de edad a partir de los 18 años. En este sentido quedó derogada la habilitación de edad. ** El artículo [[art. 5 Ley 28 de 1932|5]] de la Ley 28 de 1932, publicada en el Diario Oficial No. 22.139, de 17 de noviembre de 1932, otorgó plena capacidad a la mujer casada para comparecer libremente en juicio, y para la administración y disposición de sus bienes; así mismo mediante la expedición del Decreto ley 2820 de 1974 'se otorgan iguales derechos y obligaciones a las mujeres y a los varones'.
 

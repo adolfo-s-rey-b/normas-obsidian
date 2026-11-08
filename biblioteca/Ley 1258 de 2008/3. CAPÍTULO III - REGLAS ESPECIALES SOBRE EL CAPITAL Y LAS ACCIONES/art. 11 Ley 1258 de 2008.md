@@ -1,0 +1,31 @@
+---
+aliases:
+  - "Ley 1258 de 2008 art. 11"
+tipo: articulo
+norma: "Ley 1258 de 2008"
+articulo: "11"
+epigrafe: "VOTO SINGULAR O MÚLTIPLE"
+capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
+vigencia: "vigente"
+anterior: "[[art. 10 Ley 1258 de 2008]]"
+siguiente: "[[art. 12 Ley 1258 de 2008]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_1258_de_2008
+  - vigencia/vigente
+---
+
+[[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
+
+## Artículo 11. VOTO SINGULAR O MÚLTIPLE
+
+En los estatutos se expresarán los derechos de votación que le correspondan a cada clase de acciones, con indicación expresa sobre la atribución de voto singular o múltiple, si a ello hubiere lugar.
+
+---
+← [[art. 10 Ley 1258 de 2008]] · ↑ [[Ley 1258 de 2008 - Capítulo III|Capítulo III]] · [[art. 12 Ley 1258 de 2008]] →

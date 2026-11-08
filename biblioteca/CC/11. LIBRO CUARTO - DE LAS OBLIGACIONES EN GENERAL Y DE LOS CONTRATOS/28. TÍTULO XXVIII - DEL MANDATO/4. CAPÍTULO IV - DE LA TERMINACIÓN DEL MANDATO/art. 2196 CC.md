@@ -17,7 +17,7 @@ anterior: "[[art. 2195 CC]]"
 siguiente: "[[art. 2197 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,8 +31,6 @@ tags:
 Los herederos del mandatario que fueren hábiles para la administración de sus bienes, darán aviso inmediatamente de su fallecimiento al mandante; y harán en favor de éste lo que puedan y las circunstancias exijan: la omisión a este respecto los hará responsables de los perjuicios.
 
 A igual responsabilidad estarán sujetos los albaceas, los tutores y curadores, y todos aquéllos que sucedan en la administración de los bienes del mandatario que ha fallecido o se ha hecho incapaz.
-
-(sic)
 
 ---
 ← [[art. 2195 CC]] · ↑ [[CC - Libro Cuarto - Título XXVIII - Capítulo IV|Capítulo IV]] · [[art. 2197 CC]] →

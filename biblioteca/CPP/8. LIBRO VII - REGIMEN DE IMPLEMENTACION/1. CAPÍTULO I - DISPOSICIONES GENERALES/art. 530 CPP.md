@@ -14,8 +14,13 @@ capitulo: "[[CPP - Libro VII - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES
 vigencia: "vigente"
 anterior: "[[art. 529 CPP]]"
 siguiente: "[[art. 531 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#530"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2022
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
@@ -31,6 +36,8 @@ Con base en el análisis de los criterios anteriores, el sistema se aplicará a 
 En enero 1o. de 2007 entrarán al nuevo sistema los distritos judiciales de Antioquia, Cundinamarca, Florencia, Ibagué, Neiva, Pasto, Popayán y Villavicencio.
 
 Los distritos judiciales de Barranquilla, Cartagena, Cúcuta, Montería, Quibdó, Pamplona, Riohacha, Santa Marta, Sincelejo y Valledupar, y aquellos que llegaren a crearse, entrarán a aplicar el sistema a partir del primero (1o.) de enero de 2008.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-403-22 de 16 de noviembre de 2022, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar. - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-801-05, mediante Sentencia C-1179-05 de 17 de noviembre de 2005, Magistrado Ponente Dr. Jaime Córdoba Triviño. - Artículo declarado EXEQUIBLE, por el cargo formulado, por la Corte Constitucional mediante Sentencia C-801-05 de 2 de agosto de 2005, Magistrado Ponente Dr. Jaime Córdoba Triviño.
 
 ---
 ← [[art. 529 CPP]] · ↑ [[CPP - Libro VII - Capítulo I|Capítulo I]] · [[art. 531 CPP]] →

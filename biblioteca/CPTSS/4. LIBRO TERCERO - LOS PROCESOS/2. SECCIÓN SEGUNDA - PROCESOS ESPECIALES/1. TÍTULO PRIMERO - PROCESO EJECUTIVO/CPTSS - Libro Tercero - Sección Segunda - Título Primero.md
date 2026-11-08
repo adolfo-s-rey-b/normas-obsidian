@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|CAPÍTULO ÚNICO - Proceso ejecutivo del trabajo y de la seguridad social]] (arts. 265 a 285)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|CAPÍTULO ÚNICO - PROCESO EJECUTIVO DEL TRABAJO Y DE LA SEGURIDAD SOCIAL]] (arts. 265 a 285)
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|Título Segundo]] →

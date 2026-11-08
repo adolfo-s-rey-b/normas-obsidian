@@ -14,8 +14,12 @@ capitulo: "[[CST - Título VIII - Capítulo II|CAPÍTULO II - ACCIDENTES DE TRAB
 vigencia: "vigente"
 anterior: "[[art. 218 CST]]"
 siguiente: "[[art. 220 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#219"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -27,6 +31,10 @@ tags:
 ## Artículo 219. SEGURO POR RIESGOS PROFESIONALES
 
 El {empleador} puede asegurar, íntegramente a su cargo, en una compañía de seguros, los riesgos por accidentes de trabajo y enfermedad profesional de sus trabajadores; pero en todo caso, el {empleador} es quien debe al trabajador o a sus beneficiarios las prestaciones que en este Capítulo se establecen.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta la entrada en operación del Sistema de Riesgos Profesionales establecido por el Decreto 1295 de 1994, publicada en el Diario Oficial No. 41.405 de 1994.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 221 CST|221]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 218 CST]] · ↑ [[CST - Título VIII - Capítulo II|Capítulo II]] · [[art. 220 CST]] →

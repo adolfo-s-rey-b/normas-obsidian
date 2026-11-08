@@ -8,11 +8,16 @@ epigrafe: "Sujetos disciplinables"
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 43 Ley 1474 de 2011]]"
 siguiente: "[[art. 45 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#44"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -35,7 +40,7 @@ No serán disciplinables aquellos particulares que presten servicios públicos, 
 
 ~~Cuando se trate de personas jurídicas la responsabilidad disciplinaria será exigible del representante legal o de los miembros de la Junta Directiva.~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019
 
 > [!note] Nota: El texto subrayado fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-084 de 2013, bajo el entendido que la falta le fuere imputable por el incumplimiento de los deberes funcionales.
 

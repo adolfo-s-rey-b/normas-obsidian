@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo VII|CAPÍTULO VII - 
 vigencia: "vigente"
 anterior: "[[art. 1842 CCo]]"
 siguiente: "[[art. 1844 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1843"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 La responsabilidad del explotador por abordaje de una aeronave no excederá, por lo que se refiere a daños causados a las personas, a las otras aeronaves o a los bienes a bordo, de los siguientes límites:
 
-1\. Por muerte, lesiones o retrasos causados a una persona a bordo; o a los objetos que se encuentran bajo la custodia de una persona a bordo, y por pérdida, daños o retrasos de cualesquiera otros bienes a bordo, que no pertenezcan al explotador, según los artículos [[art. 1881 CCo|1881]], [[art. 1886 CCo|1886]] y [[art. 1887 CCo|1887]];
+1\. Por muerte, lesiones o retrasos causados a una persona a bordo; o a los objetos que se encuentran bajo la custodia de una persona a bordo, y por pérdida, daños o retrasos de cualesquiera otros bienes a bordo, que no pertenezcan al explotador, según los artículos [[art. 1881 CCo|1881]], [[art. 1886 CCo|1886]] y [[art. 1887 CCo|1887]] ;
 
 2\. Por pérdida o daños de la aeronave, su equipo y accesorios y demás bienes a bordo pertenecientes al explotador, el valor real al tiempo del abordaje, o el costo de su reparación o sustitución, tomando como límite el que sea menor, y
 

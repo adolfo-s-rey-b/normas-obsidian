@@ -1,0 +1,34 @@
+---
+aliases:
+  - "ET TÍTULO VII - FACULTADES DE LA ADMINISTRACIÓN PARA EL CONTROL Y RECAUDO DEL IMPUESTO DE TIMBRE"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "TÍTULO"
+etiqueta: "VII"
+nombre: "FACULTADES DE LA ADMINISTRACIÓN PARA EL CONTROL Y RECAUDO DEL IMPUESTO DE TIMBRE"
+libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
+articulos: "arts. 536 a 539-3"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]]
+
+## TÍTULO VII - FACULTADES DE LA ADMINISTRACIÓN PARA EL CONTROL Y RECAUDO DEL IMPUESTO DE TIMBRE
+
+*Arts. 536 a 539-3*
+
+### Contenido
+
+- [[art. 536 ET|Artículo 536]] — AMPLIAS FACULTADES DE INVESTIGACIÓN
+- [[art. 537 ET|Artículo 537]] — LAS AUTORIDADES DEBERAN PRESTAR TODAS LAS GARANTIAS Y APOYO A LOS FUNCIONARIOS ENCARGADOS DEL CONTROL
+- [[art. 538 ET|Artículo 538]] — EL GOBIERNO ESTA FACULTADO PARA ESTABLECER RETENCIONES
+- [[art. 539 ET|Artículo 539]] — EXCEPCIÓN AL CONTROL Y RECAUDO DEL IMPUESTO
+- [[art. 539-1 ET|Artículo 539-1]] — OBLIGACIONES DEL AGENTE DE RETENCIÓN DE TIMBRE
+- [[art. 539-2 ET|Artículo 539-2]] — OBLIGACIÓN DE EXPEDIR CERTIFICADOS
+- [[art. 539-3 ET|Artículo 539-3]] — OBLIGACIÓN DE DECLARARLA
+
+---
+← [[ET - Libro Cuarto - Título VI|Título VI]] · ↑ [[ET - Libro Cuarto|Libro Cuarto]] · [[ET - Libro Cuarto - Título VIII|Título VIII]] →

@@ -17,7 +17,7 @@ anterior: "[[art. 784 CC]]"
 siguiente: "[[art. 786 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,6 +29,8 @@ tags:
 ## Artículo 785. POSESIÓN DE BIENES SUJETOS A REGISTRO
 
 (sic) Si la cosa es de aquellas cuya tradición deba hacerse por inscripción en el registro de instrumentos públicos, nadie podrá adquirir la posesión de ellas sino por este medio.
+
+(sic)
 
 > [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia: - Artículo declarado exequible por la Corte Suprema de Justicia, mediante Sentencia del 18 de febrero de 1972.
 

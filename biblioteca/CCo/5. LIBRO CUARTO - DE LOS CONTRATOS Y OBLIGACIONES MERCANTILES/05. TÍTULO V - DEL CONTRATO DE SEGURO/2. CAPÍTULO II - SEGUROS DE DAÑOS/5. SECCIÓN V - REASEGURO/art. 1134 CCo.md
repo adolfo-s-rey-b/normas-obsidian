@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 88 Ley 45 de 1990]]"
 anterior: "[[art. 1133 CCo]]"
 siguiente: "[[art. 1135 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1134"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1990
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,19 +35,15 @@ tags:
 
 ## Artículo 1134. CONTRATO DE REASEGURO
 
-> [!info] Modificado por el art. [[art. 88 Ley 45 de 1990|88]], Ley 45 de 1990
+> [!info] Artículo subrogado por el artículo [[art. 88 Ley 45 de 1990|88]] de la Ley 45 de 1990. El nuevo texto es el siguiente:
 
-El nuevo texto es el siguiente En virtud del contrato de reaseguro el reasegurador contrae con el asegurador directo las mismas obligaciones que éste ha contraído con el tomador o asegurado y comparte análoga suerte en el desarrollo del contrato de seguro, salvo que se compruebe la mala fe del asegurador, en cuyo caso el contrato de reaseguro no surtirá efecto alguno.
+En virtud del contrato de reaseguro el reasegurador contrae con el asegurador directo las mismas obligaciones que éste ha contraído con el tomador o asegurado y comparte análoga suerte en el desarrollo del contrato de seguro, salvo que se compruebe la mala fe del asegurador, en cuyo caso el contrato de reaseguro no surtirá efecto alguno.
 
 La responsabilidad del reasegurador no cesará, en ningún caso, con anterioridad a los términos de prescripción de las acciones que se derivan del contrato de seguro.
 
 Estos términos no pueden ser modificados por las partes.
 
-Texto anterior:
-
-El reasegurador contrae para con el asegurador directo, en la proporción convenida, las mismas obligaciones que éste contrae para con el asegurado. Y comparte la suerte de él en el desarrollo del contrato principal.
-
-Este principio no surtirá ningún efecto si se acredita la mala fe del asegurador.
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo 88 de la Ley 45 de diciembre 18 de 1990, publicada en el Diario Oficial No. 39.607, del 19 de diciembre de 1990.
 
 ---
 ← [[art. 1133 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección V|Sección V]] · [[art. 1135 CCo]] →

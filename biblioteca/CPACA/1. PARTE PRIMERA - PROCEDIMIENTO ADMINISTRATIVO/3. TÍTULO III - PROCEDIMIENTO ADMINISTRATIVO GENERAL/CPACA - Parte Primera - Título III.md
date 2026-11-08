@@ -22,15 +22,15 @@ tags:
 
 ### Contenido
 
-- [[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - Reglas generales]] (arts. 34 a 45)
-- [[CPACA - Parte Primera - Título III - Capítulo II|CAPÍTULO II - Mecanismos de consulta previa]] (art. 46)
-- [[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - Procedimiento administrativo sancionatorio]] (arts. 47 a 52)
-- [[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - Utilización de medios electrónicos en el procedimiento administrativo]] (arts. 53 a 64)
-- [[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - Publicaciones, citaciones, comunicaciones y notificaciones]] (arts. 65 a 73)
-- [[CPACA - Parte Primera - Título III - Capítulo VI|CAPÍTULO VI - Recursos]] (arts. 74 a 82)
-- [[CPACA - Parte Primera - Título III - Capítulo VII|CAPÍTULO VII - Silencio administrativo]] (arts. 83 a 86)
-- [[CPACA - Parte Primera - Título III - Capítulo VIII|CAPÍTULO VIII - Conclusión del procedimiento administrativo]] (arts. 87 a 92)
-- [[CPACA - Parte Primera - Título III - Capítulo IX|CAPÍTULO IX - Revocación directa de los actos administrativos]] (arts. 93 a 97)
+- [[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]] (arts. 34 a 45)
+- [[CPACA - Parte Primera - Título III - Capítulo II|CAPÍTULO II - MECANISMOS DE CONSULTA PREVIA]] (art. 46)
+- [[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO]] (arts. 47 a 52)
+- [[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]] (arts. 53 a 64)
+- [[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - PUBLICACIONES, CITACIONES, COMUNICACIONES Y NOTIFICACIONES]] (arts. 65 a 73)
+- [[CPACA - Parte Primera - Título III - Capítulo VI|CAPÍTULO VI - RECURSOS]] (arts. 74 a 82)
+- [[CPACA - Parte Primera - Título III - Capítulo VII|CAPÍTULO VII - SILENCIO ADMINISTRATIVO]] (arts. 83 a 86)
+- [[CPACA - Parte Primera - Título III - Capítulo VIII|CAPÍTULO VIII - CONCLUSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO]] (arts. 87 a 92)
+- [[CPACA - Parte Primera - Título III - Capítulo IX|CAPÍTULO IX - REVOCACIÓN DIRECTA DE LOS ACTOS ADMINISTRATIVOS]] (arts. 93 a 97)
 
 ---
 ← [[CPACA - Parte Primera - Título II|Título II]] · ↑ [[CPACA - Parte Primera|Parte Primera]] · [[CPACA - Parte Primera - Título IV|Título IV]] →

@@ -15,7 +15,7 @@ anterior: "[[art. 29 CC]]"
 siguiente: "[[art. 31 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,8 +29,6 @@ tags:
 El contexto de la ley servirá para ilustrar el sentido de cada una de sus partes, de manera que haya entre todas ellas la debida correspondencia y armonía.
 
 Los pasajes oscuros de una ley pueden ser ilustrados por medio de otras leyes, particularmente si versan sobre el mismo asunto.
-
-(INTERPRETACIÓN SOBRE LA EXTENSIÓN DE UNA LEY)
 
 ---
 ← [[art. 29 CC]] · ↑ [[CC - Capítulo IV|Capítulo IV]] · [[art. 31 CC]] →

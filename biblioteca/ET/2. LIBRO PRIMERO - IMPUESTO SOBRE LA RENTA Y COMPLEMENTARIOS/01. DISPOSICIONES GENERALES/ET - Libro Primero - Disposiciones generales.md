@@ -21,7 +21,7 @@ tags:
 ### Contenido
 
 - [[art. 5 ET|Artículo 5]] — EL IMPUESTO SOBRE LA RENTA Y SUS COMPLEMENTARIOS CONSTITUYEN UN SOLO IMPUESTO
-- [[art. 6 ET|Artículo 6]] — EL IMPUESTO DE LOS NO DECLARANTES ES IGUAL A LAS RETENCIONES
+- [[art. 6 ET|Artículo 6]] — DECLARACIÓN VOLUNTARIA DEL IMPUESTO SOBRE LA RENTA
 
 ---
 ↑ [[ET - Libro Primero|Libro Primero]] · [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]] →

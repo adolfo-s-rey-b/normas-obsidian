@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 5 CPol]]"
 siguiente: "[[art. transitorio 7 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -31,15 +35,15 @@ Créase una Comisión Especial de treinta y seis miembros elegidos por cuociente
 
 Esta Comisión Especial tendrá las siguientes atribuciones:
 
-1\. a) Improbar por la mayoría de sus miembros, en todo o en parte, los proyectos de decreto que prepare el Gobierno Nacional en ejercicio de las facultades extraordinarias concedidas al Presidente de la República por el artículo anterior y en otras disposiciones del presente Acto Constituyente, excepto los de nombramientos.
+a) Improbar por la mayoría de sus miembros, en todo o en parte, los proyectos de decreto que prepare el Gobierno Nacional en ejercicio de las facultades extraordinarias concedidas al Presidente de la República por el artículo anterior y en otras disposiciones del presente Acto Constituyente, excepto los de nombramientos.
 
 Los artículos improbados no podrán ser expedidos por el Gobierno.
 
-1\. b) Preparar los proyectos de ley que considere convenientes para desarrollar la Constitución. La Comisión Especial podrá presentar dichos proyectos para que sean debatidos y aprobados por el Congreso de la República.
+b) Preparar los proyectos de ley que considere convenientes para desarrollar la Constitución. La Comisión Especial podrá presentar dichos proyectos para que sean debatidos y aprobados por el Congreso de la República.
 
-2\. c) Reglamentar su funcionamiento.
+c) Reglamentar su funcionamiento.
 
-PARÁGRAFO Si la Comisión Especial no aprueba antes del 15 de diciembre de 1991 el proyecto de presupuesto para la vigencia fiscal de 1992, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o fusionar empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
+**PARAGRAFO.** Si la Comisión Especial no aprueba antes del 15 de diciembre de 1991 el proyecto de presupuesto para la vigencia fiscal de 1992, regirá el del año anterior, pero el Gobierno podrá reducir gastos, y, en consecuencia, suprimir o fusionar empleos, cuando así lo aconsejen los cálculos de rentas del nuevo ejercicio.
 
 ---
 ← [[art. transitorio 5 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 7 CPol]] →

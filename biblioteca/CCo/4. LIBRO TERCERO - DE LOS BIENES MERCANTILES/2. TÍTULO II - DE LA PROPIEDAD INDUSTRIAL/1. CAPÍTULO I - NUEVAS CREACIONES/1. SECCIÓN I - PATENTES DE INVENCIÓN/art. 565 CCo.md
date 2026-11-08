@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo I - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 564 CCo]]"
 siguiente: "[[art. 566 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#565"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 565. EXPROPIACIÓN DE PATENTES POR RAZONES DE INTERÉS PÚBLICO O SEGURIDAD NACIONAL
 
 Considéranse de interés social o utilidad pública las patentes relacionadas con la salud pública o la defensa nacional. Su expropiación será decretada, llegado el caso, por el Ministerio respectivo.
+
+> [!note] Notas del Editor: El artículo 65 de La Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena, habla sobre el sometimiento de las patentes a licencia obligatoria en caso de interés público, emergencia o de seguridad nacional y solo mientras estas razones permanezcan.
 
 ---
 ← [[art. 564 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo I - Sección I|Sección I]] · [[art. 566 CCo]] →

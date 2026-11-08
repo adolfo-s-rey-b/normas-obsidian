@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título II - Capítulo II|CAPÍTULO II - BALA
 vigencia: "vigente"
 anterior: "[[art. 289 CCo]]"
 siguiente: "[[art. 291 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#290"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +32,8 @@ tags:
 ## Artículo 290. BALANCE CERTIFICADO-DEFINICIÓN
 
 El balance certificado es el suscrito con las firmas autógrafas del representante legal, del contador de la sociedad y del revisor fiscal, si lo hubiere.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en los artículos [[art. 37 Ley 222 de 1995|37]] y [[art. 38 Ley 222 de 1995|38]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, que amplían los conceptos de certificación y dictamen de los estados financieros en general; el dictamen corresponde al revisor fiscal.
 
 ---
 ← [[art. 289 CCo]] · ↑ [[CCo - Libro Segundo - Título II - Capítulo II|Capítulo II]] · [[art. 291 CCo]] →

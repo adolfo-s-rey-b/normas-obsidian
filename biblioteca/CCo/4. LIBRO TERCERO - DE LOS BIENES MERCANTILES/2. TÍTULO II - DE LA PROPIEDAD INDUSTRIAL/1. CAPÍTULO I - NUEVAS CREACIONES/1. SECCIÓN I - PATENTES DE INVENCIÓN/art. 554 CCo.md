@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo I - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 553 CCo]]"
 siguiente: "[[art. 555 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#554"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,7 @@ tags:
 
 ## Artículo 554. RÉGIMEN DE COMUNIDAD SOBRE UNA SOLICITUD DE PATENTE
 
-Salvo convenio especial entre las partes la comunidad sobre una solicitud de patente, se regirá por las siguientes normas
+Salvo convenio especial entre las partes la comunidad sobre una solicitud de patente, se regirá por las siguientes normas:
 
 1\. Cada uno de los comuneros, podrá explotar la invención y perseguir las falsificaciones;
 

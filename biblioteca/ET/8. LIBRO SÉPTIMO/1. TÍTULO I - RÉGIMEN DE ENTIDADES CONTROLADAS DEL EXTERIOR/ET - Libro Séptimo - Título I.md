@@ -1,0 +1,39 @@
+---
+aliases:
+  - "ET TÍTULO I - RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "TÍTULO"
+etiqueta: "I"
+nombre: "RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR"
+libro: "[[ET - Libro Séptimo|LIBRO SÉPTIMO]]"
+articulos: "arts. 882 a 893"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Séptimo|Libro Séptimo]]
+
+## TÍTULO I - RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR
+
+*Arts. 882 a 893*
+
+### Contenido
+
+- [[art. 882 ET|Artículo 882]] — ENTIDADES CONTROLADAS DEL EXTERIOR SIN RESIDENCIA FISCAL EN COLOMBIA (ECE)
+- [[art. 883 ET|Artículo 883]] — SUJETOS DEL RÉGIMEN DE ENTIDADES CONTROLADAS DEL EXTERIOR SIN RESIDENCIA FISCAL EN COLOMBIA (ECE)
+- [[art. 884 ET|Artículo 884]] — INGRESOS PASIVOS
+- [[art. 885 ET|Artículo 885]] — PRESUNCIÓN DE PLENO DERECHO
+- [[art. 886 ET|Artículo 886]] — REALIZACIÓN DE LOS INGRESOS
+- [[art. 887 ET|Artículo 887]] — REALIZACIÓN DE LOS COSTOS
+- [[art. 888 ET|Artículo 888]] — REALIZACIÓN DE LAS DEDUCCIONES
+- [[art. 889 ET|Artículo 889]] — DETERMINACIÓN DE LAS RENTAS PASIVAS
+- [[art. 890 ET|Artículo 890]] — RENTA LÍQUIDA GRAVABLE
+- [[art. 891 ET|Artículo 891]] — PÉRDIDAS ASOCIADAS A LAS RENTAS PASIVAS
+- [[art. 892 ET|Artículo 892]] — DESCUENTO POR IMPUESTOS PAGADOS EN EL EXTERIOR POR LA ECE
+- [[art. 893 ET|Artículo 893]] — TRATAMIENTO DE LA DISTRIBUCIÓN DE BENEFICIOS POR PARTE DE LA ECE CUYO ORIGEN CORRESPONDE A RENTAS SOMETIDAS AL RÉGIMEN ECE
+
+---
+↑ [[ET - Libro Séptimo|Libro Séptimo]] · [[ET - Libro Séptimo - Título II|Título II]] →

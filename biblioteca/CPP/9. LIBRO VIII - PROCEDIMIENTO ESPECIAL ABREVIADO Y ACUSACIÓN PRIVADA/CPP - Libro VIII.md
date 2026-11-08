@@ -19,10 +19,11 @@ tags:
 
 *Arts. 534 a 564*
 
+> [!info] Notas de Vigencia: Libro adicionado por el artículo [[art. 8 Ley 1826 de 2017|8]] de la Ley 1826 de 2017, 'por medio de la cual se establece un procedimiento penal especial abreviado y se regula la figura del acusador privado', publicada en el Diario Oficial No. 50.114 de 12 de enero de 2017.
+
 ### Contenido
 
-- [[CPP - Libro VIII - Capítulo I|CAPÍTULO I - DEFINICIONES Y REGLAS GENERALES]] (arts. 534 a 535)
-- [[CPP - Libro VIII - Capítulo II|CAPÍTULO II - DE LA ACUSACIÓN]] (arts. 536 a 548)
+- [[CPP - Libro VIII - Título I|TÍTULO I - DEL PROCEDIMIENTO ESPECIAL ABREVIADO]] (arts. 534 a 548)
 - [[CPP - Libro VIII - Título II|TÍTULO II - DE LA ACCIÓN PENAL PRIVADA]] (arts. 549 a 564)
 
 ---

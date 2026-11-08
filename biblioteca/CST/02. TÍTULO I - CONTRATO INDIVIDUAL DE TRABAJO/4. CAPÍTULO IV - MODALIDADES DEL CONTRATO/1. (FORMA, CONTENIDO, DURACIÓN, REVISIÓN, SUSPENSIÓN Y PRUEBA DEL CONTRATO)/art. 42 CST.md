@@ -15,8 +15,12 @@ rubro: "[[CST - Título I - Capítulo IV - (forma, contenido, duración, revisi�
 vigencia: "vigente"
 anterior: "[[art. 41 CST]]"
 siguiente: "[[art. 43 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#42"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -28,6 +32,8 @@ tags:
 ## Artículo 42. CERTIFICACION DEL CONTRATO
 
 Cuando se ocupen menos de cinco (5) trabajadores y no se haya celebrado contrato escrito, los {empleadores}, a solicitud de lo trabajadores, bien directamente o por conducto de las autoridades administrativas del Trabajo, deben expedir una certificación del contrato en donde hagan constar, por lo menos: nombre de los contratantes, fecha inicial de la prestación del servicio, naturaleza del contrato y su duración. Si el {empleador} lo exige, al pie de la certificación se hará constar la declaración de conformidad del trabajador o de sus observaciones.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 43 CST|43]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 41 CST]] · ↑ [[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(forma, contenido, duración, revisión, suspensión…]] · [[art. 43 CST]] →

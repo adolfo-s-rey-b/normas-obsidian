@@ -17,7 +17,7 @@ anterior: "[[art. 2175 CC]]"
 siguiente: "[[art. 2177 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,8 +33,6 @@ El mandatario que se halle en imposibilidad de obrar con arreglo a sus instrucci
 Pero si no fuere posible dejar de obrar sin comprometer gravemente al mandante, el mandatario tomará el partido que más se acerque a sus instrucciones, y que más convenga al negocio.
 
 Compete al mandatario probar la fuerza mayor o caso fortuito que la imposibilitó de llevar a efecto las órdenes del mandante.
-
-(sic)
 
 ---
 ← [[art. 2175 CC]] · ↑ [[CC - Libro Cuarto - Título XXVIII - Capítulo II|Capítulo II]] · [[art. 2177 CC]] →

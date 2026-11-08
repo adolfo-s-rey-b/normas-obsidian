@@ -1,0 +1,32 @@
+---
+aliases:
+  - "Decreto 2555 de 2010 art. 2.14.4.1.10"
+tipo: articulo
+norma: "Decreto 2555 de 2010"
+articulo: "2.14.4.1.10"
+epigrafe: "Conservación de información"
+parte: "[[Decreto 2555 de 2010 - Parte 2|PARTE 2 - ENTIDADES SUJETAS A INSPECCIÓN Y VIGILANCIA Y SUJETAS A CONTROL]]"
+libro: "[[Decreto 2555 de 2010 - Parte 2 - Libro 14|LIBRO 14 - NORMAS APLICABLES A LOS DEPÓSITOS CENTRALIZADOS DE VALORES]]"
+titulo: "[[Decreto 2555 de 2010 - Parte 2 - Libro 14 - Título 1|TÍTULO 1 - PRINCIPIOS DE LA ANOTACIÓN EN CUENTA]]"
+rubro: "[[Decreto 2555 de 2010 - Parte 2 - Libro 14 - Título 1 - Del ejercicio de los derechos|DEL EJERCICIO DE LOS DERECHOS]]"
+vigencia: "vigente"
+anterior: "[[art. 2.14.4.1.9 Decreto 2555 de 2010]]"
+siguiente: "[[art. 2.14.4.1.11 Decreto 2555 de 2010]]"
+fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=40032#2.14.4.1.10"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/decreto_2555_de_2010
+  - vigencia/vigente
+---
+
+[[Decreto 2555 de 2010|Decreto 2555 de 2010]] › [[Decreto 2555 de 2010 - Parte 2|Parte 2]] › [[Decreto 2555 de 2010 - Parte 2 - Libro 14|Libro 14]] › [[Decreto 2555 de 2010 - Parte 2 - Libro 14 - Título 1|Título 1]] › [[Decreto 2555 de 2010 - Parte 2 - Libro 14 - Título 1 - Del ejercicio de los derechos|Del ejercicio de los derechos]]
+
+## Artículo 2.14.4.1.10. Conservación de información
+
+Los Depósitos Centralizados de Valores conservarán durante el término señalado por la ley la información que permita reconstruir los registros practicados a nombre de cada titular.
+
+> [!note] Decreto 3960 de 2010, art. [[art. 1 Decreto 3960 de 2010|1]]
+
+---
+← [[art. 2.14.4.1.9 Decreto 2555 de 2010]] · ↑ [[Decreto 2555 de 2010 - Parte 2 - Libro 14 - Título 1 - Del ejercicio de los derechos|Del ejercicio de los derechos]] · [[art. 2.14.4.1.11 Decreto 2555 de 2010]] →

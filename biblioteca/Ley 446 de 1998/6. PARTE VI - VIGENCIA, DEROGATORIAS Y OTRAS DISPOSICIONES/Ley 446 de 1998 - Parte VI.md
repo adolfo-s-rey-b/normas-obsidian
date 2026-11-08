@@ -20,12 +20,12 @@ tags:
 
 ### Contenido
 
-- [[art. 162 Ley 446 de 1998|Artículo 162]] — Legislación permanente
-- [[art. 163 Ley 446 de 1998|Artículo 163]] — Vigencia
+- [[art. 162 Ley 446 de 1998|Artículo 162]] — LEGISLACION PERMANENTE
+- [[art. 163 Ley 446 de 1998|Artículo 163]] — VIGENCIA
 - [[art. 164 Ley 446 de 1998|Artículo 164]] — Vigencia en materia contencioso administrativa
-- [[art. 165 Ley 446 de 1998|Artículo 165]] — Seguimiento
-- [[art. 166 Ley 446 de 1998|Artículo 166]] — Estatuto de los mecanismos alternativos de solución de conflictos
-- [[art. 167 Ley 446 de 1998|Artículo 167]] — Derogatorias
+- [[art. 165 Ley 446 de 1998|Artículo 165]] — SEGUIMIENTO
+- [[art. 166 Ley 446 de 1998|Artículo 166]] — ESTATUTO DE LOS MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS
+- [[art. 167 Ley 446 de 1998|Artículo 167]] — DEROGATORIAS
 
 ---
 ← [[Ley 446 de 1998 - Parte V|Parte V]] · ↑ [[Ley 446 de 1998|Ley 446 de 1998]]

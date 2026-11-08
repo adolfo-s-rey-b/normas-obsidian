@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 392 CCo]]"
 siguiente: "[[art. 394 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#393"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 393. REQUISITOS PARA LA OFERTA PÚBLICA DE ACCIONES
 
 Cuando se trate de sociedades cuyas acciones no se negocien en los mercados públicos de valores y se ofrezcan en pública suscripción mediante avisos u otros medios de publicidad, será necesario que, como anexo al reglamento de suscripción de las acciones, se publique el último balance general de la sociedad, cortado en el mes anterior a la fecha de solicitud del permiso y autorizado por el revisor fiscal.
+
+> [!note] Notas del Editor: En criterio del editor, este artículo debe interpretarse en el marco jurídico del mercado público de valores, reglamentado entre otras disposiciones por la Ley 32 de 1979, la Ley 35 de 1993, la Resolución 400 de 1995 Única de la Sala General de la Superintendencia de Valores, y la Resolución 1200 de 1995 Única del Superintendente de Valores..
 
 ---
 ← [[art. 392 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II - Sección II|Sección II]] · [[art. 394 CCo]] →

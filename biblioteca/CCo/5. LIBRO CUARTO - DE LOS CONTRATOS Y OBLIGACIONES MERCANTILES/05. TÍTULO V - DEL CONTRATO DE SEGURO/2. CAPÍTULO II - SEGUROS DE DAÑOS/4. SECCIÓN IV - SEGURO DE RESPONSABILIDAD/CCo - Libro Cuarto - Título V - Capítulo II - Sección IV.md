@@ -30,7 +30,7 @@ tags:
 - [[art. 1130 CCo|Artículo 1130]] — TERMINACIÓN DEL CONTRATO DE SEGURO DE RESPONSABILIDAD
 - [[art. 1131 CCo|Artículo 1131]] — OCURRENCIA DEL SINIESTRO
 - [[art. 1132 CCo|Artículo 1132]] — PRELACIÓN DE CRÉDITO EN CASO DE LIQUIDACIÓN OBLIGATORIA
-- [[art. 1133 CCo|Artículo 1133]] — CCIÓN DIRECTA CONTRA EL ASEGURADOR
+- [[art. 1133 CCo|Artículo 1133]] — ACCIÓN DIRECTA CONTRA EL ASEGURADOR
 
 ---
 ← [[CCo - Libro Cuarto - Título V - Capítulo II - Sección III|Sección III]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II|Capítulo II]] · [[CCo - Libro Cuarto - Título V - Capítulo II - Sección V|Sección V]] →

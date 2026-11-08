@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 36 CPol]]"
 siguiente: "[[art. transitorio 38 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,6 +32,8 @@ tags:
 ## Artículo Transitorio 37
 
 El primer Defensor del Pueblo será elegido por el Procurador General de la Nación, de terna enviada por el Presidente de la República, en un plazo no mayor de treinta días.
+
+CAPITULO 6.
 
 ---
 ← [[art. transitorio 36 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 38 CPol]] →

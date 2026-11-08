@@ -15,7 +15,11 @@ vigencia: "vigente"
 anterior: "[[art. 2015 CCo]]"
 siguiente: "[[art. 2017 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#2016"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

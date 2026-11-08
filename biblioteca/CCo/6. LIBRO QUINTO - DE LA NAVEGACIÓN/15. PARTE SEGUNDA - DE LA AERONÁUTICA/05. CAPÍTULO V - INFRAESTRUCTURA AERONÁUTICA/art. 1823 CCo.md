@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo V|CAPÍTULO V - INFR
 vigencia: "vigente"
 anterior: "[[art. 1822 CCo]]"
 siguiente: "[[art. 1824 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1823"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 1823. DEFINICIÓN DE SUPERFICIE DE DESPEJE
 
-Denomínense superficies de despegue las áreas imaginarias, oblicuas y horizontales, que se extienden sobre cada aeródromo y sus inmediaciones, en las cuales está limitada la altura de los obstáculos a la circulación aérea.
+Denomínanse superficies de despegue las áreas imaginarias, oblicuas y horizontales, que se extienden sobre cada aeródromo y sus inmediaciones, en las cuales está limitada la altura de los obstáculos a la circulación aérea.
 
 La autoridad aeronáutica determinará las superficies de despeje y la altura máxima de las construcciones y plantaciones bajo dichas superficies.
 

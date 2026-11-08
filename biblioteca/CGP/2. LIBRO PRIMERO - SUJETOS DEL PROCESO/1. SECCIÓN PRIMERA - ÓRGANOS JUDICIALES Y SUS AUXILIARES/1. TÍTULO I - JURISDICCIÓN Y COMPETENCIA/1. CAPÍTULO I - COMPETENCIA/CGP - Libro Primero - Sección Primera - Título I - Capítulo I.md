@@ -1,0 +1,49 @@
+---
+aliases:
+  - "CGP CAPÍTULO I - COMPETENCIA"
+tipo: indice
+norma: "Ley 1564 de 2012"
+sigla: "CGP"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "COMPETENCIA"
+libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
+seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
+titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
+articulos: "arts. 15 a 34"
+tags:
+  - normas/indice
+  - normas/cgp
+---
+
+[[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]]
+
+## CAPÍTULO I - COMPETENCIA
+
+*Arts. 15 a 34*
+
+### Contenido
+
+- [[art. 15 CGP|Artículo 15]] — CLÁUSULA GENERAL O RESIDUAL DE COMPETENCIA
+- [[art. 16 CGP|Artículo 16]] — PRORROGABILIDAD E IMPRORROGABILIDAD DE LA JURISDICCIÓN Y LA COMPETENCIA
+- [[art. 17 CGP|Artículo 17]] — COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN ÚNICA INSTANCIA
+- [[art. 18 CGP|Artículo 18]] — COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN PRIMERA INSTANCIA
+- [[art. 19 CGP|Artículo 19]] — COMPETENCIA DE LOS JUECES CIVILES DEL CIRCUITO EN ÚNICA INSTANCIA
+- [[art. 20 CGP|Artículo 20]] — COMPETENCIA DE LOS JUECES CIVILES DEL CIRCUITO EN PRIMERA INSTANCIA
+- [[art. 21 CGP|Artículo 21]] — COMPETENCIA DE LOS JUECES DE FAMILIA EN ÚNICA INSTANCIA
+- [[art. 22 CGP|Artículo 22]] — COMPETENCIA DE LOS JUECES DE FAMILIA EN PRIMERA INSTANCIA
+- [[art. 23 CGP|Artículo 23]] — FUERO DE ATRACCIÓN
+- [[art. 24 CGP|Artículo 24]] — EJERCICIO DE FUNCIONES JURISDICCIONALES POR AUTORIDADES ADMINISTRATIVAS
+- [[art. 25 CGP|Artículo 25]] — CUANTÍA
+- [[art. 26 CGP|Artículo 26]] — DETERMINACIÓN DE LA CUANTÍA
+- [[art. 27 CGP|Artículo 27]] — CONSERVACIÓN Y ALTERACIÓN DE LA COMPETENCIA
+- [[art. 28 CGP|Artículo 28]] — COMPETENCIA TERRITORIAL
+- [[art. 29 CGP|Artículo 29]] — PRELACIÓN DE COMPETENCIA
+- [[art. 30 CGP|Artículo 30]] — COMPETENCIA DE LA SALA DE CASACIÓN CIVIL DE LA CORTE SUPREMA DE JUSTICIA
+- [[art. 31 CGP|Artículo 31]] — COMPETENCIA DE LAS SALAS CIVILES DE LOS TRIBUNALES SUPERIORES
+- [[art. 32 CGP|Artículo 32]] — COMPETENCIA DE LAS SALAS DE FAMILIA DE LOS TRIBUNALES SUPERIORES
+- [[art. 33 CGP|Artículo 33]] — COMPETENCIA FUNCIONAL DE LOS JUECES CIVILES DEL CIRCUITO
+- [[art. 34 CGP|Artículo 34]] — COMPETENCIA FUNCIONAL DE LOS JUECES DE FAMILIA
+
+---
+↑ [[CGP - Libro Primero - Sección Primera - Título I|Título I]] · [[CGP - Libro Primero - Sección Primera - Título I - Capítulo II|Capítulo II]] →

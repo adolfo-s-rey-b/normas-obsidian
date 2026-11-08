@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 98 CPACA|Artículo 98]] — Deber de recaudo y prerrogativa del cobro coactivo
-- [[art. 99 CPACA|Artículo 99]] — Documentos que prestan mérito ejecutivo a favor del Estado
-- [[art. 100 CPACA|Artículo 100]] — Reglas de procedimiento
-- [[art. 101 CPACA|Artículo 101]] — Control jurisdiccional
+- [[art. 98 CPACA|Artículo 98]] — DEBER DE RECAUDO Y PRERROGATIVA DEL COBRO COACTIVO
+- [[art. 99 CPACA|Artículo 99]] — DOCUMENTOS QUE PRESTAN MÉRITO EJECUTIVO A FAVOR DEL ESTADO
+- [[art. 100 CPACA|Artículo 100]] — REGLAS DE PROCEDIMIENTO
+- [[art. 101 CPACA|Artículo 101]] — CONTROL JURISDICCIONAL
 
 ---
 ← [[CPACA - Parte Primera - Título III|Título III]] · ↑ [[CPACA - Parte Primera|Parte Primera]] · [[CPACA - Parte Primera - Título V|Título V]] →

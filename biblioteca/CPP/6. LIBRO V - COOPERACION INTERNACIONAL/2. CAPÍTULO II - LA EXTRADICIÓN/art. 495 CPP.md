@@ -14,8 +14,13 @@ capitulo: "[[CPP - Libro V - Capítulo II|CAPÍTULO II - LA EXTRADICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 494 CPP]]"
 siguiente: "[[art. 496 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#495"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
@@ -37,6 +42,8 @@ La solicitud para que se ofrezca o se conceda la extradición de persona a quien
 4\. Copia auténtica de las disposiciones penales aplicables para el caso.
 
 Los documentos mencionados serán expedidos en la forma prescrita por la legislación del Estado requirente y deberán ser traducidos al castellano, si fuere el caso.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-460-08 de 14 de mayo de 2008, Magistrado Ponente Dr. Nilson Pinilla Pinilla.
 
 ---
 ← [[art. 494 CPP]] · ↑ [[CPP - Libro V - Capítulo II|Capítulo II]] · [[art. 496 CPP]] →

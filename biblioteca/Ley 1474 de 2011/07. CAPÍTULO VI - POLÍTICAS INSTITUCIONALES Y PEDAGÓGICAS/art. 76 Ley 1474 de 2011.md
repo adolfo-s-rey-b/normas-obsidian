@@ -4,24 +4,29 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "76"
-epigrafe: "Oficina de Quejas, Sugerencias y Reclamos"
+epigrafe: "OFICINA DE QUEJAS, SUGERENCIAS Y RECLAMOS"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VI|CAPÍTULO VI - POLÍTICAS INSTITUCIONALES Y PEDAGÓGICAS]]"
-vigencia: "parcialmente derogado"
+vigencia: "vigente"
 derogado_por:
   - "[[art. 237 Decreto 19 de 2012]]"
 anterior: "[[art. 75 Ley 1474 de 2011]]"
 siguiente: "[[art. 77 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#76"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/parcialmente_derogado
+  - vigencia/vigente
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]]
 
-## Artículo 76. Oficina de Quejas, Sugerencias y Reclamos
+## Artículo 76. OFICINA DE QUEJAS, SUGERENCIAS Y RECLAMOS
 
 En toda entidad pública, deberá existir por lo menos una dependencia encargada de recibir, tramitar y resolver las quejas, sugerencias y reclamos que los ciudadanos formulen, y que se relacionen con el cumplimiento de la misión de la entidad.
 
@@ -29,21 +34,13 @@ La oficina de control interno deberá vigilar que la atención se preste de acue
 
 Todas las entidades públicas deberán contar con un espacio en su página web principal para que los ciudadanos presenten quejas y denuncias de los actos de corrupción realizados por funcionarios de la entidad, y de los cuales tengan conocimiento, así como sugerencias que permitan realizar modificaciones a la manera como se presta el servicio público.
 
-~~La oficina de quejas, sugerencias y reclamos será la encargada de conocer dichas quejas para realizar la investigación correspondiente en coordinación con el operador disciplinario interno, con el fin de iniciar las investigaciones a que hubiere lugar.~~
+> [!warning] Inciso derogado por el artículo [[art. 237 Decreto 19 de 2012|237]] del Decreto 19 de 2012
 
-> [!warning] Inciso derogado por el art. [[art. 237 Decreto 19 de 2012|237]], del Decreto 019 de 2012.
+> [!warning] Notas de Vigencia: Inciso derogado por el artículo [[art. 237 Decreto 19 de 2012|237]] del Decreto 19 de 2012, publicado en el Diario Oficial No. 48.308 de 10 de enero de 2012.
 
 El Programa Presidencial de Modernización, Eficiencia, Transparencia y Lucha contra la Corrupción señalará los estándares que deben cumplir las entidades públicas para dar cumplimiento a la presente norma.
 
-**PARÁGRAFO .** En aquellas entidades donde se tenga implementado un proceso de gestión de denuncias, quejas y reclamos, se podrán validar sus características contra los estándares exigidos por el Programa Presidencial de Modernización, Eficiencia, Transparencia y Lucha contra la Corrupción.
-
-> [!note] Reglamentado por el Decreto 2641 de 2012
-
-> [!note] Ver Literal b) artículo 2.2.21.4.9 , Decreto 1083 de 2015.
-
-> [!note] Ver art. 2.1.4.3 , Decreto 1081 de 2015
-
-> [!note] Ver art. 2.1.4.9 , Decreto 1081 de 2015
+**PARÁGRAFO.** En aquellas entidades donde se tenga implementado un proceso de gestión de denuncias, quejas y reclamos, se podrán validar sus características contra los estándares exigidos por el Programa Presidencial de Modernización, Eficiencia, Transparencia y Lucha contra la Corrupción.
 
 ---
 ← [[art. 75 Ley 1474 de 2011]] · ↑ [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]] · [[art. 77 Ley 1474 de 2011]] →

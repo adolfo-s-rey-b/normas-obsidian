@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo I|CAPÍTULO I - Medios de impugnación]] (art. 226)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo II|CAPÍTULO II - Recurso de reposición]] (art. 227)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo III|CAPÍTULO III - Recurso de apelación]] (arts. 228 a 230)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|CAPÍTULO IV - Grado jurisdiccional de consulta]] (art. 231)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo V|CAPÍTULO V - Recurso de Queja]] (art. 232)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|CAPÍTULO VI - Recurso extraordinario de revisión]] (arts. 233 a 238)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|CAPÍTULO VII - Casación]] (arts. 239 a 250)
-- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VIII|CAPÍTULO VIII - Anulación]] (arts. 251 a 254)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo I|CAPÍTULO I - MEDIOS DE IMPUGNACIÓN]] (art. 226)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo II|CAPÍTULO II - RECURSO DE REPOSICIÓN]] (art. 227)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo III|CAPÍTULO III - RECURSO DE APELACIÓN]] (arts. 228 a 230)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|CAPÍTULO IV - GRADO JURISDICCIONAL DE CONSULTA]] (art. 231)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo V|CAPÍTULO V - RECURSO DE QUEJA]] (art. 232)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|CAPÍTULO VI - RECURSO EXTRAORDINARIO DE REVISIÓN]] (arts. 233 a 238)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|CAPÍTULO VII - CASACIÓN]] (arts. 239 a 250)
+- [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VIII|CAPÍTULO VIII - ANULACIÓN]] (arts. 251 a 254)
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]]

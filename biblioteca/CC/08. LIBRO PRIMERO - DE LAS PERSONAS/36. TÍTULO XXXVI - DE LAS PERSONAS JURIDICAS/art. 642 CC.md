@@ -15,7 +15,7 @@ anterior: "[[art. 641 CC]]"
 siguiente: "[[art. 643 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -27,6 +27,8 @@ tags:
 ## Artículo 642
 
 Toda corporación tiene sobre sus miembros el derecho de policía correccional que sus estatutos le confieran, y ejercerá este derecho en conformidad a ellos.
+
+(DERECHO DE POLICIA CORRECCIONAL)
 
 ---
 ← [[art. 641 CC]] · ↑ [[CC - Libro Primero - Título XXXVI|Título XXXVI]] · [[art. 643 CC]] →

@@ -1,0 +1,35 @@
+---
+aliases:
+  - "Ley 1150 de 2007 TÍTULO I - DE LA EFICIENCIA Y DE LA TRANSPARENCIA"
+tipo: indice
+norma: "Ley 1150 de 2007"
+nivel: "TÍTULO"
+etiqueta: "I"
+nombre: "DE LA EFICIENCIA Y DE LA TRANSPARENCIA"
+articulos: "arts. 2 a 11"
+tags:
+  - normas/indice
+  - normas/ley_1150_de_2007
+---
+
+[[Ley 1150 de 2007|Ley 1150 de 2007]]
+
+## TÍTULO I - DE LA EFICIENCIA Y DE LA TRANSPARENCIA
+
+*Arts. 2 a 11*
+
+### Contenido
+
+- [[art. 2 Ley 1150 de 2007|Artículo 2]] — DE LAS MODALIDADES DE SELECCIÓN
+- [[art. 3 Ley 1150 de 2007|Artículo 3]] — DE LA CONTRATACIÓN PÚBLICA ELECTRÓNICA
+- [[art. 4 Ley 1150 de 2007|Artículo 4]] — DE LA DISTRIBUCIÓN DE RIESGOS EN LOS CONTRATOS ESTATALES
+- [[art. 5 Ley 1150 de 2007|Artículo 5]] — DE LA SELECCIÓN OBJETIVA
+- [[art. 6 Ley 1150 de 2007|Artículo 6]] — DE LA VERIFICACIÓN DE LAS CONDICIONES DE LOS PROPONENTES
+- [[art. 7 Ley 1150 de 2007|Artículo 7]] — DE LAS GARANTÍAS EN LA CONTRATACIÓN
+- [[art. 8 Ley 1150 de 2007|Artículo 8]] — DE LA PUBLICACIÓN DE PROYECTOS DE PLIEGOS DE CONDICIONES, Y ESTUDIOS PREVIOS
+- [[art. 9 Ley 1150 de 2007|Artículo 9]] — DE LA ADJUDICACIÓN
+- [[art. 10 Ley 1150 de 2007|Artículo 10]] — TRATAMIENTO PARA LAS COOPERATIVAS Y ASOCIACIONES DE ENTIDADES TERRITORIALES
+- [[art. 11 Ley 1150 de 2007|Artículo 11]] — DEL PLAZO PARA LA LIQUIDACIÓN DE LOS CONTRATOS
+
+---
+↑ [[Ley 1150 de 2007|Ley 1150 de 2007]] · [[Ley 1150 de 2007 - Título II|Título II]] →

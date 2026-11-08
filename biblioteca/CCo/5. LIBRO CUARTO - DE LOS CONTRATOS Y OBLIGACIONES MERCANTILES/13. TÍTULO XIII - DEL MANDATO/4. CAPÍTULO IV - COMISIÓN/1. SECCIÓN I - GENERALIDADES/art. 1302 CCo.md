@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Cuarto - Título XIII - Capítulo IV - Sección I|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 1301 CCo]]"
 siguiente: "[[art. 1303 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1302"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,7 @@ tags:
 
 ## Artículo 1302. DERECHO DE RETENCIÓN
 
-Tiene asimismo el comisionista derecho de retener las mercaderías consignadas o su producto, para que, preferentemente a los demás acreedores del comitente, se les paguen sus anticipaciones, intereses, costos y comisión, si concurren estas circunstancias:
+Tiene asimismo el comisionista derecho de retener las mercaderías consignadas o su producto, para que, preferentemente a los demás acreedores del comitente, se le paguen sus anticipaciones, intereses, costos y comisión, si concurren estas circunstancias:
 
 1\. Que las mercaderías le hayan sido remitidas de una plaza a otra, y
 

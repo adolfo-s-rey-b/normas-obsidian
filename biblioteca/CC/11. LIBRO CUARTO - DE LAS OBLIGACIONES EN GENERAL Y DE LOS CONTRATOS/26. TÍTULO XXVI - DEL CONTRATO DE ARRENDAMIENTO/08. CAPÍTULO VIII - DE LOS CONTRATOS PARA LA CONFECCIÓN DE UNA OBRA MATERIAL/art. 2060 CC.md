@@ -17,7 +17,7 @@ anterior: "[[art. 2059 CC]]"
 siguiente: "[[art. 2061 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -34,7 +34,9 @@ Los contratos para construcción de edificios, celebrados con un empresario que 
 
 2\. Si circunstancias desconocidas, como un vicio oculto del suelo, ocasionaren costos que no pudieron preverse, deberá el empresario hacerse autorizar para ellos por el dueño; y si éste rehusa, podrá ocurrir al juez o prefecto para que decida si ha debido o no preverse el recargo de obra, y fije el aumento de precio que por esta razón corresponda.
 
-3\. Si el edificio perece o amenaza ruina, en todo o parte, en los diez años subsiguientes a su entrega, por vicio de la construcción, o por vicio del suelo que el empresario o las personas empleadas por él hayan debido conocer en razón de su oficio, o por vicio de los materiales, será responsable el empresario; si los materiales han sido suministrados por el dueño, no habrá lugar a la responsabilidad del empresario sino en conformidad al artículo [[art. 2041 CC|2041]] , <sic 2057 > inciso final.
+3\. Si el edificio perece o amenaza ruina, en todo o parte, en los diez años subsiguientes a su entrega, por vicio de la construcción, o por vicio del suelo que el empresario o las personas empleadas por él hayan debido conocer en razón de su oficio, o por vicio de los materiales, será responsable el empresario; si los materiales han sido suministrados por el dueño, no habrá lugar a la responsabilidad del empresario sino en conformidad al artículo [[art. 2041 CC|2041]] , inciso final.
+
+(sic 2057)
 
 4\. El recibo otorgado por el dueño, después de concluida la obra, sólo significa que el dueño la aprueba, como exteriormente ajustada al plan y a las reglas del arte, y no exime al empresario de la responsabilidad que por el inciso precedente se le impone.
 

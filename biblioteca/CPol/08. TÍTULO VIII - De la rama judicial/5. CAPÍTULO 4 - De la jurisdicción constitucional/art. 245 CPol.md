@@ -16,8 +16,12 @@ capitulo: "[[CPol - Título VIII - Capítulo 4|CAPÍTULO 4 - De la jurisdicción
 vigencia: "vigente"
 anterior: "[[art. 244 CPol]]"
 siguiente: "[[art. 246 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#245"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,7 +32,9 @@ tags:
 
 ## Artículo 245
 
-El Gobierno no podrá conferir empleo a los Magistrados de la Corte Constitucional durante el periodo de ejercicio de sus funciones ni dentro del año siguiente a su retiro.
+El Gobierno no podrá conferir empleo a los Magistrados de la Corte Constitucional durante el período de ejercicio de sus funciones ni dentro del año siguiente a su retiro.
+
+CAPITULO 5.
 
 DE LAS JURISDICCIONES ESPECIALES
 

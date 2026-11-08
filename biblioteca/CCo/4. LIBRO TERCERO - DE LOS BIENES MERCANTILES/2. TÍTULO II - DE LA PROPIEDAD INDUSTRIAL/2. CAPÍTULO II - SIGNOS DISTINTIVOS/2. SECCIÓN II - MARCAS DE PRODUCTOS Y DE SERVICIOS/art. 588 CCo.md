@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo II - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 587 CCo]]"
 siguiente: "[[art. 589 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#588"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,11 +33,11 @@ tags:
 
 ## Artículo 588. PROTECCIÓN A MARCAS USADAS EN EXPOSICIONES
 
-El solicitante del registro de una marca que, en una exposición realizada en el país y reconocida oficialmente, haya expuesto productos o servicios amparados por dicha marca, y que solicite el registro de la misma en el término de seis meses contados a partir del día en que tales productos o servicios se exhibieron por primera vez con tal marca en la exposición, se considerará si así lo pide como si hubiera solicitado el registro desde la fecha de la exhibición.
+(Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
-Los hechos a que se refiere este artículo se acreditarán con certificación de la autoridad competente de la exposición, en la cual se mencionará la fecha en que la marca se utilizó por primera vez en relación con los productos o servicios de que se trate.
+> [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-**PARÁGRAFO.** La protección temporal a que se refiere este artículo no implica otros términos de prioridad que invoque el solicitante.
+> [!note] Notas de Vigencia: Ver Nota de Vigencia del Título II 'DE LA PROPIEDAD INDUSTRIAL' del Libro Tercero 'DE LOS BIENES MERCANTILES'. Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena.
 
 ---
 ← [[art. 587 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo II - Sección II|Sección II]] · [[art. 589 CCo]] →

@@ -14,13 +14,13 @@ titulo: "[[CC - Libro Segundo - Título XI|TÍTULO XI - DE LAS SERVIDUMBRES]]"
 capitulo: "[[CC - Libro Segundo - Título XI - Capítulo III|CAPÍTULO III - DE LAS SERVIDUMBRES VOLUNTARIAS]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 9 CC]]"
   - "[[art. 9 Ley 95 de 1890]]"
 anterior: "[[art. 938 CC]]"
 siguiente: "[[art. 940 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1890
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,7 +31,7 @@ tags:
 
 ## Artículo 939. ADQUISICIÓN DE SERVIDUMBRES
 
-> [!info] Artículo subrogado por el artículo [[art. 9 CC|9]]o. de la Ley 95 de 1890. El nuevo texto es el siguiente:
+> [!info] Artículo subrogado por el artículo 9o. de la Ley 95 de 1890. El nuevo texto es el siguiente:
 
 Las servidumbres discontinuas de todas clases y las continuas inaparentes sólo pueden adquirirse por medio de un título; ni aun el goce inmemorial bastará para constituirlas.
 

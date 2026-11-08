@@ -1,0 +1,50 @@
+---
+aliases:
+  - "CPTSS art. 71"
+  - "art. 71 Ley 2452 de 2025"
+  - "Ley 2452 de 2025 art. 71"
+  - "CPTSS 71"
+tipo: articulo
+norma: "Ley 2452 de 2025"
+sigla: "CPTSS"
+articulo: "71"
+epigrafe: "INEFICACIA DEL ALLANAMIENTO"
+libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
+seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
+titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
+capitulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - CONTESTACIÓN]]"
+vigencia: "vigente"
+anterior: "[[art. 70 CPTSS]]"
+siguiente: "[[art. 72 CPTSS]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cptss
+  - vigencia/vigente
+---
+
+[[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]]
+
+## Artículo 71. INEFICACIA DEL ALLANAMIENTO
+
+El allanamiento será ineficaz en los siguientes casos:
+
+1\. Cuando el demandado no tenga capacidad dispositiva.
+
+2\. Cuando el derecho no sea susceptible de disposición de las partes.
+
+3\. Cuando los hechos admitidos no puedan probarse por confesión.
+
+4\. Cuando se haga por medio de apoderado y este carezca de facultad para allanarse.
+
+5\. Cuando la sentencia deba producir efectos de cosa juzgada respecto de terceros.
+
+6\. Cuando habiendo litisconsorcio necesario no provenga de todos los demandados.
+
+---
+← [[art. 70 CPTSS]] · ↑ [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]] · [[art. 72 CPTSS]] →

@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 334 CP|Artículo 334]] — Contaminación ambiental
-- [[art. 334A CP|Artículo 334A]] — Contaminación ambiental por explotación de yacimiento minero o hidrocarburo
-- [[art. 335 CP|Artículo 335]] — Experimentación ilegal con especies, agentes biologicos o bioquimicos
+- [[art. 334 CP|Artículo 334]] — CONTAMINACIÓN AMBIENTAL
+- [[art. 334A CP|Artículo 334A]] — CONTAMINACIÓN AMBIENTAL POR EXPLOTACIÓN DE YACIMIENTO MINERO O HIDROCARBURO
+- [[art. 335 CP|Artículo 335]] — EXPERIMENTACIÓN ILEGAL CON ESPECIES, AGENTES BIOLÓGICOS O BIOQUÍMICOS
 
 ---
 ← [[CP - Libro Segundo - Título XI - Capítulo II|Capítulo II]] · ↑ [[CP - Libro Segundo - Título XI|Título XI]] · [[CP - Libro Segundo - Título XI - Capítulo IV|Capítulo IV]] →

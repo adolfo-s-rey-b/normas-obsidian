@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo I|CAPÍTULO I - Transacción]] (arts. 221 a 222)
-- [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo II|CAPÍTULO II - Desistimiento]] (arts. 223 a 225)
+- [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo I|CAPÍTULO I - TRANSACCIÓN]] (arts. 221 a 222)
+- [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo II|CAPÍTULO II - DESISTIMIENTO]] (arts. 223 a 225)
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Quinta|Sección Quinta]]

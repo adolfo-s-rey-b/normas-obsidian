@@ -18,7 +18,7 @@ vigencia: "derogado"
 anterior: "[[art. 120 CPT]]"
 siguiente: "[[art. 130 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#129A"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

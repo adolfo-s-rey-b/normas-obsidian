@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 4 CPol]]"
 siguiente: "[[art. transitorio 6 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,23 +33,19 @@ tags:
 
 Revístese al Presidente de la República de precisas facultades extraordinarias para:
 
-1\. a) Expedir las normas que organicen la Fiscalía General y las normas de procedimiento penal;
+a) Expedir las normas que organicen la Fiscalía General y las normas de procedimiento penal;
 
-2\. b) Reglamentar el derecho de tutela;
+b) Reglamentar el derecho de tutela;
 
-3\. c) Tomar las medidas administrativas necesarias para el funcionamiento de la Corte Constitucional y el Consejo Superior de la Judicatura:
+c) Tomar las medidas administrativas necesarias para el funcionamiento de la Corte Constitucional y el Consejo Superior de la Judicatura:
 
-4\. d) Expedir el Presupuesto General de la Nación para la vigencia de 1992;
+(sic)
 
-5\. e) Expedir normas transitorias para descongestionar los despachos judiciales.
+d) Expedir el Presupuesto General de la Nación para la vigencia de 1992;
 
-> [!note] Ver Decreto 2651 de 1991
+e) Expedir normas transitorias para descongestionar los despachos judiciales.
 
-> [!note] Ver Ley 192 de 1995
-
-> [!note] Ver Ley 287 de 1996
-
-> [!note] Ver Ley 377 de 1997
+> [!note] Concordancias: Decreto 2651 de 1991 Ley 192 de 1995 Ley 287 de 1996 Ley 377 de 1997
 
 ---
 ← [[art. transitorio 4 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 6 CPol]] →

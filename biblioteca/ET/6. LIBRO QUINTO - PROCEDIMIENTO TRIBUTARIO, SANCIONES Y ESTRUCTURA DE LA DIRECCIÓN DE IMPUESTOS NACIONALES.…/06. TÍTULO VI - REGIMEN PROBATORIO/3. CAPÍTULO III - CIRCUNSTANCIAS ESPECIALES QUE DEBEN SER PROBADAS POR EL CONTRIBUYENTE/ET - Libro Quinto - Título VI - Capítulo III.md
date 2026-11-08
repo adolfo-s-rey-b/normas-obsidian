@@ -1,0 +1,34 @@
+---
+aliases:
+  - "ET CAPÍTULO III - CIRCUNSTANCIAS ESPECIALES QUE DEBEN SER PROBADAS POR EL CONTRIBUYENTE"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "CAPÍTULO"
+etiqueta: "III"
+nombre: "CIRCUNSTANCIAS ESPECIALES QUE DEBEN SER PROBADAS POR EL CONTRIBUYENTE"
+libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
+titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
+articulos: "arts. 786 a 791"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]]
+
+## CAPÍTULO III - CIRCUNSTANCIAS ESPECIALES QUE DEBEN SER PROBADAS POR EL CONTRIBUYENTE
+
+*Arts. 786 a 791*
+
+### Contenido
+
+- [[art. 786 ET|Artículo 786]] — LAS DE LOS INGRESOS NO CONSTITUTIVOS DE RENTA
+- [[art. 787 ET|Artículo 787]] — LAS DE LOS PAGOS Y PASIVOS NEGADOS POR LOS BENEFICIARIOS
+- [[art. 788 ET|Artículo 788]] — LAS QUE LOS HACEN ACREEDORES A UNA EXENCIÓN
+- [[art. 789 ET|Artículo 789]] — LOS HECHOS QUE JUSTIFICAN AUMENTO PATRIMONIAL
+- [[art. 790 ET|Artículo 790]] — DE LOS ACTIVOS POSEIDOS A NOMBRE DE TERCEROS
+- [[art. 791 ET|Artículo 791]] — DE LAS TRANSACCIONES EFECTUADAS CON PERSONAS FALLECIDAS
+
+---
+← [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] · ↑ [[ET - Libro Quinto - Título VI|Título VI]]

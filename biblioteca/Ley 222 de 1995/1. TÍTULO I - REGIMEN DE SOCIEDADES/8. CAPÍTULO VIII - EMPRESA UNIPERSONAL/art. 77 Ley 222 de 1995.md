@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VIII|CAPÍTULO VIII - EMPRE
 vigencia: "vigente"
 anterior: "[[art. 76 Ley 222 de 1995]]"
 siguiente: "[[art. 78 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#77"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -22,7 +26,7 @@ tags:
 
 ## Artículo 77. CONVERSION A SOCIEDAD
 
-Cuando por virtud de la cesión o por cualquier otro acto jurídico, la empresa llegare a pertenecer a dos o más personas, deberá convertirse en sociedad comercial para lo cual, dentro de los seis meses siguientes a la inscripción de aquélla en el registro mercantil se elaboraran los estatutos sociales de acuerdo con la forma de sociedad adoptada. Estos deberán elevarse a escritura pública que se otorgará por todos los socios e inscribirse en el registro mercantil. La nueva sociedad asumirá, sin solución de continuidad, los derechos y obligaciones de la empresa unipersonal.
+Cuando por virtud de la cesión o por cualquier otro acto jurídico, la empresa llegare a pertenecer a dos o más personas, deberá convertirse en sociedad comercial para lo cual, dentro de los seis meses siguientes a la inscripción de aquélla en el registro mercantil se elaborarán los estatutos sociales de acuerdo con la forma de sociedad adoptada. Estos deberán elevarse a escritura pública que se otorgará por todos los socios e inscribirse en el registro mercantil. La nueva sociedad asumirá, sin solución de continuidad, los derechos y obligaciones de la empresa unipersonal.
 
 Transcurrido dicho término sin que se cumplan las formalidades aludidas, quedará disuelta de pleno derecho y deberá liquidarse.
 

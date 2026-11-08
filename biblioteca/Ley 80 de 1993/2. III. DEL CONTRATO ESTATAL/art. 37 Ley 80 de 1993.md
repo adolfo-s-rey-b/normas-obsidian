@@ -12,7 +12,12 @@ derogado_por:
 anterior: "[[art. 36 Ley 80 de 1993]]"
 siguiente: "[[art. 38 Ley 80 de 1993]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#37"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2009
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
@@ -37,7 +42,7 @@ El Gobierno Nacional reglamentará las calidades, condiciones y requisitos que d
 
 **PARÁGRAFO 2.** - El término de duración de las concesiones para la prestación de los servicios postales, no podrá exceder de cinco (5) años, pero podrá ser prorrogado antes de su vencimiento por igual término.
 
-> [!note] Ver la Sentencia de la Corte Constitucional mediante Sentencia C-407 de 1994, que declaró EXEQUIBLES los apartes demandados del artículo [[art. 37 Ley 80 de 1993|37]].
+> [!note] Ver la Sentencia de la Corte Constitucional mediante Sentencia C-407 de 1994, que declaró EXEQUIBLES los apartes demandados del artículo 37.
 
 > [!note] Ver el Decreto Nacional 1697 de 1994
 

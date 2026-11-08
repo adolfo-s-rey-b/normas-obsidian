@@ -28,8 +28,8 @@ tags:
 - [[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]] (arts. 159 a 247)
 - [[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]] (arts. 248 a 268)
 - [[CPACA - Parte Segunda - Título VII|TÍTULO VII - EXTENSIÓN Y UNIFICACIÓN DE LA JURISPRUDENCIA]] (arts. 269 a 274)
-- [[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - Disposiciones Especiales para el Trámite y Decisión de las Pretensiones de Contenido Electoral]] (arts. 275 a 296)
-- [[CPACA - Parte Segunda - Título IX|TÍTULO IX - Proceso ejecutivo]] (arts. 297 a 299)
+- [[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]] (arts. 275 a 296)
+- [[CPACA - Parte Segunda - Título IX|TÍTULO IX - PROCESO EJECUTIVO]] (arts. 297 a 299)
 - [[CPACA - Parte Segunda - Título X|TÍTULO X - EL MINISTERIO PÚBLICO]] (arts. 300 a 303)
 - [[CPACA - Parte Segunda - Título XI|TÍTULO XI - PLAN ESPECIAL DE DESCONGESTIÓN, RÉGIMEN DE TRANSICIÓN, VIGENCIA Y DEROGATORIAS]] (arts. 304 a 309)
 

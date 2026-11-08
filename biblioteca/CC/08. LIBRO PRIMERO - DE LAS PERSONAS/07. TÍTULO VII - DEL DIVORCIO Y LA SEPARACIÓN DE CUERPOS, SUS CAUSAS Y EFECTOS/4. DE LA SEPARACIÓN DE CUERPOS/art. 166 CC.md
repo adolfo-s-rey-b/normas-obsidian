@@ -13,13 +13,12 @@ libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título VII|TÍTULO VII - DEL DIVORCIO Y LA SEPARACIÓN DE CUERPOS, SUS CAUSAS Y EFECTOS]]"
 rubro: "[[CC - Libro Primero - Título VII - De la separación de cuerpos|DE LA SEPARACIÓN DE CUERPOS]]"
 vigencia: "modificado"
-modificado_por:
-  - "[[art. 16 CC]]"
 anterior: "[[art. 165 CC]]"
 siguiente: "[[art. 167 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +29,7 @@ tags:
 
 ## Artículo 166. MUTUO CONSENTIMIENTO - SEPARACIÓN DE CUERPOS
 
-> [!info] Artículo modificado por el artículo [[art. 16 CC|16]] de la Ley 1a. de 1976. El nuevo texto es el siguiente:
+> [!info] Artículo modificado por el artículo 16 de la Ley 1a. de 1976. El nuevo texto es el siguiente:
 
 El juez para decretar la separación de cuerpos no estará sujeto a las restricciones del artículo [[art. 155 CC|155]] de este código. Los cónyuges al expresar su mutuo consentimiento en la separación indicarán el estado en que queda la sociedad conyugal y si la separación es indefinida o temporal y en este caso la duración de la misma, que no puede exceder de un año. Expirado el término de la separación temporal se presumirá que ha habido reconciliación, pero los casados podrán declarar ante el juez que la tornan definitiva o que amplían su vigencia.
 
@@ -38,7 +37,7 @@ Para que la separación de cuerpos pueda ser decretada por mutuo consenso de los
 
 El juez podrá objetar el acuerdo de los cónyuges en interés de los hijos, previo concepto del ministerio público.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 16 CC|16]] de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo 16 de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-358-16 de 7 de julio de 2016, Magistrada Ponente Dra. María Victoria Calle Correa.
 

@@ -1,0 +1,37 @@
+---
+aliases:
+  - "CPP art. 229"
+  - "art. 229 Ley 906 de 2004"
+  - "Ley 906 de 2004 art. 229"
+  - "CPP 229"
+tipo: articulo
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+articulo: "229"
+epigrafe: "PROCEDIMIENTO EN CASO DE FLAGRANCIA"
+libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
+titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
+capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
+vigencia: "vigente"
+anterior: "[[art. 228 CPP]]"
+siguiente: "[[art. 230 CPP]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cpp
+  - vigencia/vigente
+---
+
+[[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
+
+## Artículo 229. PROCEDIMIENTO EN CASO DE FLAGRANCIA
+
+En las situaciones de flagrancia, la policía judicial podrá proceder al registro y allanamiento del inmueble, nave o aeronave del indiciado. En caso de refugiarse en un bien inmueble ajeno, no abierto al público, se solicitará el consentimiento del propietario o tenedor o en su defecto se obtendrá la orden correspondiente de la Fiscalía General de la Nación, salvo que por voces de auxilio resulte necesaria la intervención inmediata o se establezca coacción del indiciado en contra del propietario o tenedor.
+
+---
+← [[art. 228 CPP]] · ↑ [[CPP - Libro II - Título I - Capítulo II|Capítulo II]] · [[art. 230 CPP]] →

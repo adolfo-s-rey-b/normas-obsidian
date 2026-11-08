@@ -1,0 +1,33 @@
+---
+aliases:
+  - "Ley 80 de 1993 art. 67"
+tipo: articulo
+norma: "Ley 80 de 1993"
+articulo: "67"
+epigrafe: "DE LA COLABORACIÓN DE LOS CUERPOS CONSULTIVOS DEL GOBIERNO"
+rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
+vigencia: "vigente"
+anterior: "[[art. 66 Ley 80 de 1993]]"
+siguiente: "[[art. 68 Ley 80 de 1993]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_80_de_1993
+  - vigencia/vigente
+---
+
+[[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
+
+## Artículo 67. DE LA COLABORACIÓN DE LOS CUERPOS CONSULTIVOS DEL GOBIERNO
+
+Los organismos o entidades gremiales, profesionales o universitarios que tengan el carácter de cuerpos consultivos del Gobierno prestarán la colaboración que en la actividad contractual requieran las entidades estatales.
+
+Así mismo, podrán servir de árbitros para dirimir las discrepancias de naturaleza técnica que surjan en desarrollo del contrato o con ocasión de éste.
+
+---
+← [[art. 66 Ley 80 de 1993]] · ↑ [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]] · [[art. 68 Ley 80 de 1993]] →

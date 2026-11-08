@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 1|CAPÍTULO 1 - De los derechos funda
 vigencia: "vigente"
 anterior: "[[art. 36 CPol]]"
 siguiente: "[[art. 38 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#37"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2018
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,13 +33,13 @@ tags:
 
 ## Artículo 37
 
-Toda parte del pueblo puede reunirse y manifestarse pública y pacíficamente. Solo la ley podrá establecer de manera expresa los casos en los cuales se podrá limitar el ejercicio de este derecho.
+Toda parte del pueblo puede reunirse y manifestarse pública y pacíficamente. Sólo la ley podrá establecer de manera expresa los casos en los cuales se podrá limitar el ejercicio de este derecho.
 
-> [!note] Ver Ley 1453 de 2011; Art. [[art. 26 Ley 1453 de 2011|26]] ; Art. [[art. 44 Ley 1453 de 2011|44]]
+> [!note] Concordancias: Ley 1453 de 2011; Art. [[art. 26 Ley 1453 de 2011|26]] ; Art. [[art. 44 Ley 1801 de 2016|44]] Ley 1801 de 2016; Título VI
 
-> [!note] Ver Ley 1801 de 2016; Titulo VI
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-542-93 ; C-024-94 ; C-088-94 ; C-742-12 ; C-223-17 ; C-281-17 ; C-009-18 ;
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-542-93; C-024-94; C-088-94; C-742-12; C-223-17; C-281-17; C-009-18
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 12, 22 y 24)
 
 ---
 ← [[art. 36 CPol]] · ↑ [[CPol - Título II - Capítulo 1|Capítulo 1]] · [[art. 38 CPol]] →

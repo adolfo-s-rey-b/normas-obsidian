@@ -17,7 +17,8 @@ derogado_por:
 anterior: "[[art. 80 CPT]]"
 siguiente: "[[art. 82 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#81"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2007
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

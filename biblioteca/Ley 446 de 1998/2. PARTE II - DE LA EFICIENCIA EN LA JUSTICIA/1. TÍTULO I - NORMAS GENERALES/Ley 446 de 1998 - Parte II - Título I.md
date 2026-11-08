@@ -19,16 +19,16 @@ tags:
 
 ### Contenido
 
-- [[art. 16 Ley 446 de 1998|Artículo 16]] — Valoración de daños
+- [[art. 16 Ley 446 de 1998|Artículo 16]] — VALORACION DE DAÑOS
 - [[art. 17 Ley 446 de 1998|Artículo 17]] — Términos procesales
-- [[art. 18 Ley 446 de 1998|Artículo 18]] — Orden para proferir sentencias
+- [[art. 18 Ley 446 de 1998|Artículo 18]] — ORDEN PARA PROFERIR SENTENCIAS
 - [[art. 19 Ley 446 de 1998|Artículo 19]] — Perención
 - [[art. 20 Ley 446 de 1998|Artículo 20]] — Sentencia anticipada
-- [[art. 21 Ley 446 de 1998|Artículo 21]] — Expedición de copias por la oficina de archivo general de la rama judicial
+- [[art. 21 Ley 446 de 1998|Artículo 21]] — EXPEDICION DE COPIAS POR LA OFICINA DE ARCHIVO GENERAL DE LA RAMA JUDICIAL
 - [[art. 22 Ley 446 de 1998|Artículo 22]] — Multas
 - [[art. 23 Ley 446 de 1998|Artículo 23]] — Notificaciones de las entidades públicas
-- [[art. 24 Ley 446 de 1998|Artículo 24]] — Representación de las entidades públicas en materia laboral
-- [[art. 25 Ley 446 de 1998|Artículo 25]] — Liquidación de créditos
+- [[art. 24 Ley 446 de 1998|Artículo 24]] — REPRESENTACION DE LAS ENTIDADES PUBLICAS EN MATERIA LABORAL
+- [[art. 25 Ley 446 de 1998|Artículo 25]] — LIQUIDACION DE CREDITOS
 
 ---
 ↑ [[Ley 446 de 1998 - Parte II|Parte II]] · [[Ley 446 de 1998 - Parte II - Título II|Título II]] →

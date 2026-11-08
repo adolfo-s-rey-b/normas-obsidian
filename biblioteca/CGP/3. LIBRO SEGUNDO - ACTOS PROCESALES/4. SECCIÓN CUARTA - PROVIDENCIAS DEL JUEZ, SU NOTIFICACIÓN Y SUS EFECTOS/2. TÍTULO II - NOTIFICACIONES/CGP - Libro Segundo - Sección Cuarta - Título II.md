@@ -23,19 +23,19 @@ tags:
 
 ### Contenido
 
-- [[art. 289 CGP|Artículo 289]] — Notificación de las providencias
-- [[art. 290 CGP|Artículo 290]] — Procedencia de la notificación personal
-- [[art. 291 CGP|Artículo 291]] — Práctica de la notificación personal
-- [[art. 292 CGP|Artículo 292]] — Notificación por aviso
-- [[art. 293 CGP|Artículo 293]] — Emplazamiento para notificación personal
-- [[art. 294 CGP|Artículo 294]] — Notificación en estrados
-- [[art. 295 CGP|Artículo 295]] — Notificaciones por estado
-- [[art. 296 CGP|Artículo 296]] — Notificación mixta
-- [[art. 297 CGP|Artículo 297]] — Requerimientos y actos análogos
-- [[art. 298 CGP|Artículo 298]] — Cumplimiento y notificación de medidas cautelares
-- [[art. 299 CGP|Artículo 299]] — Autos que no requieren notificación
-- [[art. 300 CGP|Artículo 300]] — Notificación al representante de varias partes
-- [[art. 301 CGP|Artículo 301]] — Notificación por conducta concluyente
+- [[art. 289 CGP|Artículo 289]] — NOTIFICACIÓN DE LAS PROVIDENCIAS
+- [[art. 290 CGP|Artículo 290]] — PROCEDENCIA DE LA NOTIFICACIÓN PERSONAL
+- [[art. 291 CGP|Artículo 291]] — PRÁCTICA DE LA NOTIFICACIÓN PERSONAL
+- [[art. 292 CGP|Artículo 292]] — NOTIFICACIÓN POR AVISO
+- [[art. 293 CGP|Artículo 293]] — EMPLAZAMIENTO PARA NOTIFICACIÓN PERSONAL
+- [[art. 294 CGP|Artículo 294]] — NOTIFICACIÓN EN ESTRADOS
+- [[art. 295 CGP|Artículo 295]] — NOTIFICACIONES POR ESTADO
+- [[art. 296 CGP|Artículo 296]] — NOTIFICACIÓN MIXTA
+- [[art. 297 CGP|Artículo 297]] — REQUERIMIENTOS Y ACTOS ANÁLOGOS
+- [[art. 298 CGP|Artículo 298]] — CUMPLIMIENTO Y NOTIFICACIÓN DE MEDIDAS CAUTELARES
+- [[art. 299 CGP|Artículo 299]] — AUTOS QUE NO REQUIEREN NOTIFICACIÓN
+- [[art. 300 CGP|Artículo 300]] — NOTIFICACIÓN AL REPRESENTANTE DE VARIAS PARTES
+- [[art. 301 CGP|Artículo 301]] — NOTIFICACIÓN POR CONDUCTA CONCLUYENTE
 
 ---
 ← [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] · ↑ [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] · [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] →

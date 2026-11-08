@@ -1,0 +1,122 @@
+---
+aliases:
+  - "CPACA art. 180"
+  - "art. 180 Ley 1437 de 2011"
+  - "Ley 1437 de 2011 art. 180"
+  - "CPACA 180"
+tipo: articulo
+norma: "Ley 1437 de 2011"
+sigla: "CPACA"
+articulo: "180"
+epigrafe: "AUDIENCIA INICIAL"
+parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
+titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
+capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]]"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 40 Ley 2080 de 2021]]"
+anterior: "[[art. 179 CPACA]]"
+siguiente: "[[art. 181 CPACA]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2021
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cpaca
+  - vigencia/modificado
+---
+
+[[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]]
+
+## Artículo 180. AUDIENCIA INICIAL
+
+Vencido el término de traslado de la demanda o de la de reconvención según el caso, el Juez o Magistrado Ponente, convocará a una audiencia que se sujetará a las siguientes reglas:
+
+1\. Oportunidad. La audiencia se llevará a cabo bajo la dirección del Juez o Magistrado Ponente dentro del mes siguiente al vencimiento del término de traslado de la demanda o del de su prórroga o del de la de reconvención o del de la contestación de las excepciones o del de la contestación de la demanda de reconvención, según el caso. El auto que señale fecha y hora para la audiencia se notificará por estado y no será susceptible de recursos.
+
+2\. Intervinientes. Todos los apoderados deberán concurrir obligatoriamente. También podrán asistir las partes, los terceros y el Ministerio Público.
+
+La inasistencia de quienes deban concurrir no impedirá la realización de la audiencia, salvo su aplazamiento por decisión del Juez o Magistrado Ponente.
+
+> [!note] Notas del Editor: 3. En criterio del Editor, para la interpretación de este numeral, debe tenerse en cuenta lo dispuesto por el artículo [[art. 7 Ley 2213 de 2022|7]] de la Ley 2213 de 2022, 'por la cual se establece la vigencia permanente del Decreto Legislativo 806 de 2020 y se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.064 de 13 de junio de 2022.. Cuyo texto original establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) 'ARTÍCULO 7 o. AUDIENCIAS. Las audiencias deberán realizarse utilizando los medios tecnológicos a disposición de las autoridades judiciales o por cualquier otro medio puesto a disposición por una o por ambas partes y en ellas deberá facilitarse y permitirse la presencia de todos los sujetos procesales, ya sea de manera virtual o telefónica. No se requerirá la autorización de que trata el parágrafo 2 del artículo [[art. 107 CGP|107]] del Código General del Proceso. No obstante, con autorización del titular del despacho, cualquier empleado podrá comunicarse con los sujetos procesales, antes de la realización de las audiencias, con el fin de informarles sobre la herramienta tecnológica que se utilizará en ellas o para concertar una distinta. Cuando las circunstancias de seguridad, inmediatez y fidelidad excepcionalmente lo requieran, serán presenciales las audiencias y diligencias destinadas a la práctica de pruebas. La práctica presencial de la prueba se dispondrá por el juez de oficio o por solicitud motivada de cualquiera de las partes. Para el caso de la jurisdicción penal, de manera oficiosa el juez de conocimiento podrá disponer la práctica presencial de la prueba cuando lo considere necesario, y deberá disponerlo así cuando alguna de las partes se lo solicite, sin que las mismas deban motivar tal petición. Excepcionalmente la prueba podrá practicarse en forma virtual ante la imposibilidad comprobada para garantizar la comparecencia presencial de un testigo, experto o perito al despacho judicial. La presencia física en la sede del juzgado de conocimiento solo será exigible al sujeto de prueba, a quien requirió la práctica presencial y al juez de conocimiento, sin perjuicio de que puedan asistir de manera presencial los abogados reconocidos, las partes que no deban declarar, los terceros e intervinientes especiales y demás sujetos del proceso, quienes además podrán concurrir de manera virtual. PARÁGRAFO. Las audiencias y diligencias que se deban adelantar por la sala de una corporación serán presididas por el ponente, y a ellas deberán concurrir la mayoría de los magistrados que integran la sala, so pena de nulidad. '. Tener en cuenta el análisis sobre las modificaciones (en su momento transitorias) que introdujo el Decreto Ley 806 de 2020, expuesto por la Corte Constitucional en Sentencia C-420-20, destacado en la Nota 2. 2. La Corte Constitucional en la Sentencia C-420-20 de 24 de septiembre de 2020, Magistrado Ponente Dr. Richard Ramírez Grisales, establece: 'i. Modificaciones temporales al trámite de las audiencias judiciales (art. 7 º) '1. El artículo [[art. 7 CPT|7]] ° del Decreto Legislativo sub examine implementa modificaciones transitorias a la regulación de audiencias prevista en el CGP , CPACA y Código Procesal del Trabajo y la Seguridad Social –en adelante CPTSS–. Estas normas ordinares prescriben que, por regla general, las audiencias judiciales (i) deben tramitarse de forma presencial y (ii) requieren la presencia de todos los sujetos procesales y las autoridades judiciales. En particular, el parágrafo 1 del artículo 107 del CGP dispone que solo en aquellos eventos en que el juez dé su autorización, de manera excepcional y por una causa justificada, los sujetos procesales pueden asistir a las audiencias mediante videoconferencia, teleconferencia o cualquier otro medio técnico. De otro lado, los artículos [[art. 36 CPACA|36]] y [[art. 107 CPACA|107]] ibidem señalan que a las audiencias y diligencias que realicen los jueces colegiados 'deberán concurrir todos los magistrados que integran la Sala, so pena de nulidad ' (resalto fuera del texto original), salvo que ' la ausencia obedezca a un hecho constitutivo de fuerza mayor o caso fortuito ', de lo cual deberá dejarse constancia expresa en el acta de la audiencia. '2. El artículo [[art. 7 CPACA|7]] º del Decreto sub examine introduce tres cambios provisionales al trámite ordinario de las audiencias judiciales: (i) dispone que los jueces y autoridades procesales deberán, por regla general, usar las TIC para el desarrollo de las audiencias de los respectivos procesos (inciso 1 del art. 7 º); (ii) permite a los jueces colegiados adelantar las audiencias con la presencia de la mayoría de los miembros que integran la Sala y (iii) elimina la exigencia de acreditar un evento de fuerza mayor para que uno de los integrantes del cuerpo colegiado pueda excusarse.'. 1. En criterio del editor tener en cuenta las disposiciones transitorias dispuestas en el Decreto Legislativo 806 de 2020, 'por el cual se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia, en el marco del Estado de Emergencia Económica, Social y Ecológica', publicado en el Diario Oficial No. 51.335 de 4 de junio de 2020, el cual estará vigente durante los dos (2) años siguientes a partir de su expedición. Particularmente: 'ARTÍCULO 7 o. AUDIENCIAS. Las audiencias deberán realizarse utilizando los medios tecnológicos a disposición de las autoridades judiciales o por cualquier otro medio puesto a disposición por una o por ambas partes y en ellas deberá facilitarse y permitirse la presencia de todos los sujetos procesales, ya sea de manera virtual o telefónica. No se requerirá la autorización de que trata el parágrafo 2o. del artículo [[art. 107 CGP|107]] del Código General del Proceso. No obstante, con autorización del titular del despacho, cualquier empleado podrá comunicarse con los sujetos procesales, antes de la realización de las audiencias, con el fin de informarles sobre la herramienta tecnológica que se utilizará en ellas o para concertar una distinta. PARÁGRAFO. Las audiencias y diligencias que se deban adelantar por la sala de una corporación serán presididas por el ponente, y a ellas deberán concurrir la mayoría de los magistrados que integran la sala, so pena de nulidad.'.
+
+(artículos [[art. 36 CPACA|36]] y [[art. 107 CPACA|107]])
+
+(artículos [[art. 180 CPACA|180]] , [[art. 181 CPACA|181]] , [[art. 182 CPACA|182]] y [[art. 186 CPACA|186]])
+
+(artículos [[art. 77 CPACA|77]] , [[art. 80 CPACA|80]] y [[art. 82 CPACA|82]])
+
+3\. Aplazamiento. La inasistencia a esta audiencia solo podrá excusarse mediante prueba siquiera sumaria de una justa causa.
+
+Cuando se presente la excusa con anterioridad a la audiencia y el juez la acepte, fijará nueva fecha y hora para su celebración dentro de los diez (10) días siguientes, por auto que no tendrá recursos. En ningún caso podrá haber otro aplazamiento.
+
+El juez podrá admitir aquellas justificaciones que se presenten dentro de los tres (3) días siguientes a la realización de la audiencia siempre que se fundamenten en fuerza mayor o caso fortuito y solo tendrán el efecto de exonerar de las consecuencias pecuniarias adversas que se hubieren derivado de la inasistencia.
+
+En este caso, el juez resolverá sobre la justificación mediante auto que se dictará dentro de los tres (3) días siguientes a su presentación y que será susceptible del recurso de reposición. Si la acepta, adoptará las medidas pertinentes.
+
+4\. Consecuencias de la inasistencia. Al apoderado que no concurra a la audiencia sin justa causa se le impondrá multa de dos (2) salarios mínimos legales mensuales vigentes.
+
+5\. Saneamiento. El juez deberá decidir, de oficio o a petición de parte, sobre los vicios que se hayan presentado y adoptará las medidas de saneamiento necesarias para evitar sentencias inhibitorias.
+
+6\. Decisión de excepciones previas pendientes de resolver. El juez o magistrado ponente practicará las pruebas decretadas en el auto de citación a audiencia y decidirá las excepciones previas pendientes de resolver.
+
+> [!info] Numeral modificado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
+
+> [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 .
+
+> [!note] Notas del Editor: Notas al texto original: - En criterio del editor tener en cuenta las disposiciones transitorias dispuestas en el Decreto Legislativo 806 de 2020, 'por el cual se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia, en el marco del Estado de Emergencia Económica, Social y Ecológica', publicado en el Diario Oficial No. 51.335 de 4 de junio de 2020, el cual estará vigente durante los dos (2) años siguientes a partir de su expedición. Particularmente: 'ARTÍCULO 12. RESOLUCIÓN DE EXCEPCIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO. De las excepciones presentadas se correrá traslado por el término de tres (3) días en la forma regulada en el artículo [[art. 110 CGP|110]] del Código General del Proceso, o el que lo sustituya. En este término, la parte demandante podrá pronunciarse sobre ellas y, si fuere el caso, subsanar los defectos anotados en las excepciones previas. Las excepciones previas se formularán y decidirán según lo regulado en los artículos [[art. 100 CGP|100]] , [[art. 101 CGP|101]] y [[art. 102 CGP|102]] del Código General del Proceso. Cuando se requiera la práctica de pruebas a que se refiere el inciso segundo del artículo 101 del citado código, el juzgador las decretará en el auto que cita a la audiencia inicial, y en el curso de esta las practicará. Allí mismo, resolverá las excepciones previas que requirieron pruebas y estén pendientes de decisión. Las excepciones de cosa juzgada, caducidad, transacción, conciliación, falta de legitimación en la causa y prescripción extintiva, se tramitarán y decidirán en los términos señalados anteriormente. La providencia que resuelva las excepciones mencionadas deberá ser adoptada en primera instancia por el juez, subsección, sección o sala de conocimiento. Contra esta decisión procederá el recurso apelación, el cual será resuelto por la subsección, sección o sala del tribunal o Consejo de Estado. Cuando esta decisión se profiera en única instancia por los tribunales y Consejo de Estado se decidirá por el magistrado ponente y será suplicable. '. La Corte Constitucional en la Sentencia C-420-20 de 24 de septiembre de 2020, Magistrado Ponente Dr. Richard Ramírez Grisales, establece: ' viii. Modificaciones provisionales al trámite de las excepciones previas y mixtas ante la jurisdicción de lo contencioso administrativo (art. 12 º) 79. El artículo 180 del CPACA regula el trámite de las excepciones previas y mixtas en el proceso contencioso administrativo. Dispone que vencido el término del traslado de la demanda o de la de reconvención, el juez convocará a una audiencia inicial en la que, entre otras, ' resolverá sobre las excepciones ' (inciso 6 del art. 180 del CPACA). Si la resolución sobre estas excepciones requiere la práctica de pruebas ' suspenderá la audiencia, hasta por el término de diez (10) días, con el fin de recaudarlas . En caso que alguna de las excepciones prospere, el juez dará por terminado el proceso. 80. El artículo [[art. 12 Decreto 806 de 2020|12]] º del Decreto Legislativo 806 de 2020 dispone que las excepciones previas y mixtas se ' decidirán según lo regulado en los artículos [[art. 100 CGP|100]] , [[art. 101 CGP|101]] y [[art. 102 CGP|102]] del Código General del Proceso ' (inciso 1 del art. 12 º). Por tanto, la disposición introduce tres cambios transitorios en la forma en que estas excepciones se tramitan y deciden: (i) las excepciones previas y mixtas se deben decidir antes de la audiencia inicial, de no requerirse la práctica de pruebas ; (ii) estas excepciones deben resolverse, por regla general, con las pruebas documentales aportadas por las partes y, (iii) de requerirse la práctica de pruebas, no es posible suspender la audiencia inicial con el fin de recaudarlas, ya que el juez ha debido decretarlas ' en el auto que cita a la audiencia inicial ', y practicarlas ' en el curso ' de esta (inciso 2 del art. 12 º).'.
+
+(100 CGP)
+
+(Las excepciones mixtas son las de cosa juzgada, caducidad, transacción, conciliación, falta de legitimación en la causa y prescripción extintiva)
+
+(Al reanudar la audiencia inicial el juez deberá practicar las pruebas y decidir sobre las excepciones.)
+
+(El proceso se dará por terminado mediante auto que ' será susceptible del recurso de apelación o del de súplica '.)
+
+(El numeral 2 del artículo [[art. 101 CPACA|101]] del CGP dispone que ' El juez decidirá sobre las excepciones previas que no requieran la práctica de pruebas, antes de la audiencia inicial ' (inciso 2 del art. [[art. 12 CPACA|12]] º).)
+
+(El artículo [[art. 101 CPACA|101]] del CGP dispone que ' Al escrito [que contenga las excepciones] deberán acompañarse todas las pruebas que se pretenda hacer valer y que se encuentren en poder del demandado. || El juez se abstendrá de decretar pruebas de otra clase, salvo cuando se alegue la falta de competencia por el domicilio de persona natural o por el lugar donde ocurrieron hechos, o la falta de integración del litisconsorcio necesario, casos en los cuales se podrán practicar hasta dos testimonios '.)
+
+> [!note] Jurisprudencia Unificación: Texto original: - Consejo de Estado, Sección Quinta, Unificación Jurisprudencial, Expediente No. 47001-23-33-000-2017-00191-02_20180524 de 24 de mayo de 2018, C.P. Dra. Rocío Araujo Oñate.
+
+7\. Fijación del litigio. Una vez resueltos todos los puntos relativos a las excepciones, el juez indagará a las partes sobre los hechos en los que están de acuerdo, y los demás extremos de la demanda o de su reforma, de la contestación o de la de reconvención, si a ello hubiere lugar, y con fundamento en la respuesta procederá a la fijación de litigio.
+
+8\. Posibilidad de conciliación. En cualquier fase de la audiencia el juez podrá invitar a las partes a conciliar sus diferencias, caso en el cual deberá proponer fórmulas de arreglo, sin que ello signifique prejuzgamiento.
+
+> [!info] Numeral modificado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
+
+No se suspenderá la audiencia en caso de no ser aportada la certificación o el acta del comité de conciliación.
+
+> [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 .
+
+9\. Medidas cautelares. En esta audiencia el juez o magistrado ponente se pronunciará sobre la petición de medidas cautelares en el caso de que esta no hubiere sido decidida.
+
+> [!info] Numeral modificado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
+
+En los procesos de nulidad electoral la competencia será del juez, sala, subsección o sección.
+
+> [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 .
+
+10\. Decreto de pruebas. Solo se decretarán las pruebas pedidas por las partes y los terceros, siempre y cuando sean necesarias para demostrar los hechos sobre los cuales exista disconformidad, en tanto no esté prohibida su demostración por confesión o las de oficio que el Juez o Magistrado Ponente considere indispensables para el esclarecimiento de la verdad.
+
+En todo caso, el juez, antes de finalizar la audiencia, fijará fecha y hora para la audiencia de pruebas, la cual se llevará a cabo dentro de los cuarenta (40) días siguientes.
+
+**PARÁGRAFO 1o.** Las decisiones que se profieran en el curso de la audiencia inicial pueden ser recurridas conforme a lo previsto en los artículos [[art. 242 CPACA|242]] , [[art. 243 CPACA|243]] , [[art. 245 CPACA|245]] y [[art. 246 CPACA|246]] de este código, según el caso.
+
+> [!info] Parágrafo adicionado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
+
+> [!info] Notas de Vigencia: Parágrafo adicionado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 .
+
+**PARÁGRAFO 2o.** Las audiencias relativas a procesos donde exista similar discusión jurídica podrán tramitarse de manera concomitante y concentrada.
+
+> [!info] Parágrafo adicionado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
+
+> [!info] Notas de Vigencia: Parágrafo adicionado por el artículo [[art. 40 Ley 2080 de 2021|40]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 .
+
+---
+← [[art. 179 CPACA]] · ↑ [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]] · [[art. 181 CPACA]] →

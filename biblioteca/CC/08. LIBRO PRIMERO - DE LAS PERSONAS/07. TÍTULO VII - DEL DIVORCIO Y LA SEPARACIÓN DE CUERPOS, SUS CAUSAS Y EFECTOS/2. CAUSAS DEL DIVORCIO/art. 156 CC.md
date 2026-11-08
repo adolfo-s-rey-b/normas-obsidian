@@ -14,14 +14,15 @@ titulo: "[[CC - Libro Primero - Título VII|TÍTULO VII - DEL DIVORCIO Y LA SEPA
 rubro: "[[CC - Libro Primero - Título VII - Causas del divorcio|CAUSAS DEL DIVORCIO]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 3 CC]]"
+  - "[[art. 3 Ley 2442 de 2024]]"
   - "[[art. 10 Ley 25 de 1992]]"
-  - "[[art. 6 CC]]"
+  - "[[art. 6 Ley 25 de 1992]]"
 anterior: "[[art. 155 CC]]"
 siguiente: "[[art. 157 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2024
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,7 +33,9 @@ tags:
 
 ## Artículo 156. LEGITIMACIÓN Y OPORTUNIDAD PARA PRESENTAR LA DEMANDA
 
-<Artículo modificado por el artículo [[art. 3 Ley 2442 de 2024|3]] de la Ley 2442 de 2024. El nuevo texto es el siguiente:> El divorcio solo podrá ser demandado por el cónyuge que no haya dado lugar a los hechos que lo motivan, con excepción de lo previsto en el presente artículo con respecto a la causal 10 del artículo [[art. 154 CC|154]]. La demanda de divorcio podrá presentarse en cualquier tiempo, sin límites de caducidad.
+El divorcio solo podrá ser demandado por el cónyuge que no haya dado lugar a los hechos que lo motivan, con excepción de lo previsto en el presente artículo con respecto a la causal 10 del artículo [[art. 154 CC|154]]. La demanda de divorcio podrá presentarse en cualquier tiempo, sin límites de caducidad.
+
+> [!info] Artículo modificado por el artículo [[art. 3 Ley 2442 de 2024|3]] de la Ley 2442 de 2024. El nuevo texto es el siguiente:
 
 Cuando se pretenda la obtención de reparaciones económicas o cualquier otro tipo de sanciones deberá presentarse la solicitud sobre reparaciones económicas o sanciones, dentro del término de dos (2) años, contados desde cuando tuvo conocimiento de ellos respecto de las causales 1a y 7a del artículo [[art. 154 CC|154]] o desde cuando sucedieron, respecto a las causales 2a, 3a, 4a y 5ª del artículo [[art. 154 CC|154]] . En todo caso, la demanda de divorcio que no contenga fines económicos o de sanciones podrá presentarse en cualquier tiempo.
 
@@ -50,7 +53,7 @@ En todo caso, el juez podrá proponer fórmulas de arreglo alternativas a las pr
 
 **PARÁGRAFO 2o.** Los contrayentes que suscriban capitulaciones matrimoniales podrán regular el tema de las indemnizaciones por terminación unilateral del matrimonio.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 3 CC|3]] de la Ley 2442 de 27 de diciembre de 2024, 'por medio de la cual se permite el divorcio por la sola voluntad de cualquiera de los cónyuges y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.982 de 27 de diciembre de 2024. Rige a partir de su publicación en el Diario Oficial. - Artículo modificado por el artículo [[art. 10 Ley 25 de 1992|10]] de la Ley 25 de 1992, publicada en el Diario Oficial No. 40.693, de 18 de diciembre de 1992. - Artículo modificado por el artículo [[art. 6 CC|6]]o. de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 3 Ley 2442 de 2024|3]] de la Ley 2442 de 27 de diciembre de 2024, 'por medio de la cual se permite el divorcio por la sola voluntad de cualquiera de los cónyuges y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.982 de 27 de diciembre de 2024. Rige a partir de su publicación en el Diario Oficial. - Artículo modificado por el artículo [[art. 10 Ley 25 de 1992|10]] de la Ley 25 de 1992, publicada en el Diario Oficial No. 40.693, de 18 de diciembre de 1992. - Artículo modificado por el artículo [[art. 6 Ley 25 de 1992|6]]o. de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-394-17, mediante Sentencia C-135-19 de 27 de marzo de 2019, Magistrado Ponente Dr. Alejandro Linares Cantillo. Inepta demanda por otros cargos. - Expresiones en letra itálica 'solo' y ' por el cónyuge que no haya dado lugar a los hechos que lo motivan ' 'declarada EXEQUIBLE, por los cargos analizados por la Corte Constitucional mediante Sentencia C-394-17 de 21 de junio de 2017, Magistrada Ponente Dra. Diana Fajardo Rivera. - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-358-16 de 7 de julio de 2016, Magistrada Ponente Dra. María Victoria Calle Correa. - Aparte tachado declarado INEXEQUIBLE y la expresión subrayada 'y dentro del término de un año, contado desde cuando tuvo conocimiento de ellos respecto de las causales 1a. y 7a. o desde cuando se sucedieron, respecto a las causales 2a., 3a., 4a. y 5a.' CONDICIONALMENTE EXEQUIBLE, bajo el entendido que los términos de caducidad que la disposición prevé solamente restringe en el tiempo la posibilidad de solicitar las sanciones ligadas a la figura del divorcio basado en causales subjetivas , por la Corte Constitucional mediante Sentencia C-985-10 de 2 de diciembre de 2010, Magistrado Ponente Dr. Jorge Ignacio Pretelt Chaljub. Destaca el editor: '...No obstante, para garantizar que las sanciones ligadas al divorcio basado en causales subjetivas no se tornen imprescriptibles, es preciso adoptar una decisión de exequibilidad condicionada de la frase 'y dentro del término de un año, contado desde cuando tuvo conocimiento de ellos respecto de las causales 1ª y 7ª o desde cuando se sucedieron, respecto a las causales 2ª, 3ª, 4ª y 5ª', en el sentido de que el términos previsto en la disposición solamente operan para reclamar la aplicación de las sanciones, no para solicitar el divorcio. Esta decisión tiene las siguientes ventajas: en primer término , preserva la norma demandada en la medida de lo posible, lo que es acorde con el principio democrático. En segundo término, excluye del ordenamiento una consecuencia inconstitucional: la limitación en el tiempo del derecho a ejercer la acción de divorcio con fundamento en causales subjetivas. Por último, g arantiza que las sanciones ligadas al divorcio basado en causales subjetivas se impongan en un término razonable y predecible.' Corte Suprema de Justicia: - Texto modificado por la Ley 1 de 1976 declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia No. 56 del 6 agosto de 1985, Magistrado Ponente Dr. Alfonso Patiño Roselli.
 

@@ -17,7 +17,12 @@ modificado_por:
 anterior: "[[art. 206 CST]]"
 siguiente: "[[art. 208 CST]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#207"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1984
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst

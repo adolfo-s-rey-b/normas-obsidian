@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Cuarto - Título XIII - Capítulo IV - Sección I|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 1303 CCo]]"
 siguiente: "[[art. 1305 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1304"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,11 @@ tags:
 
 ## Artículo 1304. INTERMEDIACIÓN EN EL MERCADO PÚBLICO DE VALORES
 
-Ver Notas del Editor> Solo los miembros de una bolsa de valores, podrán ser comisionistas para compra y venta de valores inscritos en ellas.
+Solo los miembros de una bolsa de valores, podrán ser comisionistas para compra y venta de valores inscritos en ellas.
+
+> [!note] Notas del Editor: El artículo 7 o. de la Ley 27 de 1990, publicada en el Diario Oficial No. 39.195 del 20 de febrero de 1990, establece: 'La intermediación en el mercado público de valores, a través del contrato de comisión para la compra y venta de valores solamente podrá ser desarrollada por las sociedades comisionistas de bolsa y por las sociedades comisionistas independientes de valores. Las sociedades administradoras de inversión y las sociedades sujetas a la inspección y vigilancia de la Superintendencia Bancaria podrán desarrollar actividades de intermediación en el mercado público de valores, en la medida en que se lo permita su régimen legal, y con arreglo a las disposiciones que expida la Sala General de la Comisión Nacional de Valores ...'.
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Artículo declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia del 3 de marzo de 1972.
 
 ---
 ← [[art. 1303 CCo]] · ↑ [[CCo - Libro Cuarto - Título XIII - Capítulo IV - Sección I|Sección I]] · [[art. 1305 CCo]] →

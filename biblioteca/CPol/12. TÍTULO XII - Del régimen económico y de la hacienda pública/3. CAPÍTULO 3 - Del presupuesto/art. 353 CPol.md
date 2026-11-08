@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XII - Capítulo 3|CAPÍTULO 3 - Del presupuesto]]"
 vigencia: "vigente"
 anterior: "[[art. 352 CPol]]"
 siguiente: "[[art. 354 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#353"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2015
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,9 +35,9 @@ tags:
 
 Los principios y las disposiciones establecidos en este título se aplicarán, en lo que fuere pertinente, a las entidades territoriales, para la elaboración, aprobación y ejecución de su presupuesto.
 
-> [!note] Ver Ley 104 de 1993; Art. [[art. 6 Ley 104 de 1993|6]]
+> [!note] Concordancias: Ley 104 de 1993; Art. [[art. 6 Ley 104 de 1993|6]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-017-93; C-337-93 ; C-555-93; C-579-2001 ; C-837-2001 ; C-262-15
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-546-92 ; C-017-93 ; C-337-93 ; C-555-93 ; C-579-2001 ; C-837-2001 ; C-262-15 ;
 
 ---
 ← [[art. 352 CPol]] · ↑ [[CPol - Título XII - Capítulo 3|Capítulo 3]] · [[art. 354 CPol]] →

@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo V|CAPÍTULO V - MATRICES Y 
 vigencia: "vigente"
 anterior: "[[art. 25 Ley 222 de 1995]]"
 siguiente: "[[art. 27 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#26"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -24,7 +28,7 @@ tags:
 
 El artículo [[art. 260 CCo|260]] del Código de Comercio quedará así:
 
-Artículo [[art. 260 Ley 222 de 1995|260]]. Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o control ante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
+ARTICULO 260. Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o controlante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
 
 ---
 ← [[art. 25 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo V|Capítulo V]] · [[art. 27 Ley 222 de 1995]] →

@@ -1,0 +1,34 @@
+---
+aliases:
+  - "Ley 1474 de 2011 SECCIÓN SEGUNDA - MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL"
+tipo: indice
+norma: "Ley 1474 de 2011"
+nivel: "SECCIÓN"
+etiqueta: "SEGUNDA"
+nombre: "MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL"
+capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
+articulos: "arts. 121 a 128"
+tags:
+  - normas/indice
+  - normas/ley_1474_de_2011
+---
+
+[[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]]
+
+## SECCIÓN SEGUNDA - MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL
+
+*Arts. 121 a 128*
+
+### Contenido
+
+- [[art. 121 Ley 1474 de 2011|Artículo 121]] — ALIANZAS ESTRATÉGICAS
+- [[art. 122 Ley 1474 de 2011|Artículo 122]] — Control excepcional
+- [[art. 123 Ley 1474 de 2011|Artículo 123]] — ARTICULACIÓN CON EL EJERCICIO DEL CONTROL POLÍTICO
+- [[art. 124 Ley 1474 de 2011|Artículo 124]] — REGULACIÓN DEL PROCESO AUDITOR
+- [[art. 125 Ley 1474 de 2011|Artículo 125]] — CONTROL DE LEGALIDAD
+- [[art. 126 Ley 1474 de 2011|Artículo 126]] — SISTEMAS DE INFORMACIÓN
+- [[art. 127 Ley 1474 de 2011|Artículo 127]] — VERIFICACIÓN DE LOS BENEFICIOS DEL CONTROL FISCAL
+- [[art. 128 Ley 1474 de 2011|Artículo 128]] — FORTALECIMIENTO INSTITUCIONAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+---
+← [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] · ↑ [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] · [[Ley 1474 de 2011 - Capítulo VIII - Sección Tercera|Sección Tercera]] →

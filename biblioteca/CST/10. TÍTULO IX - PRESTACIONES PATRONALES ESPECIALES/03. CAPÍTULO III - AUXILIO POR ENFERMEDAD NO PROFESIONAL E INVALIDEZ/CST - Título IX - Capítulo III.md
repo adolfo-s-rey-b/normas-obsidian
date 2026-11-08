@@ -20,6 +20,8 @@ tags:
 
 *Arts. 277 a 284*
 
+> [!note] Notas del Editor: Para la interpretación de este Capítulo debe tenerse en cuenta que de acuerdo con la Ley 100 de 1993, el auxilio por enfermedad profesional, y el auxilio y la pensión por invalidez de origen no profesional, contempladas en el Código Sustantivo del Trabajo como prestaciones especiales, son asumidas por el nuevo Sistema de Seguridad Social Integral, en la parte de salud, por las empresas promotoras de salud y el la parte de pensiones por el sistema general de pensiones.
+
 ### Contenido
 
 - [[art. 277 CST|Artículo 277]] — DERECHO AL AUXILIO POR ENFERMEDAD NO PROFESIONAL

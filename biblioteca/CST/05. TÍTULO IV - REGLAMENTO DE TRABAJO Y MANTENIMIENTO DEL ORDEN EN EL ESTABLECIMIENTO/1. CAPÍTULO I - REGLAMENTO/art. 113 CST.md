@@ -14,8 +14,13 @@ capitulo: "[[CST - Título IV - Capítulo I|CAPÍTULO I - REGLAMENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 112 CST]]"
 siguiente: "[[art. 114 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#113"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2007
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -32,7 +37,9 @@ tags:
 
 3\. La imposición de una multa no impide que el {empleador} prescinda del pago del salario correspondiente al tiempo dejado de trabajar.
 
-> [!note] Declarado EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-478-07
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 114 CST|114]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-478-07 de 13 de junio de 2007, Magistrado Ponente Dr. Rodrigo Escobar Gil.
 
 ---
 ← [[art. 112 CST]] · ↑ [[CST - Título IV - Capítulo I|Capítulo I]] · [[art. 114 CST]] →

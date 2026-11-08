@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "93"
-epigrafe: "Del régimen contractual de las Empresas Industriales y Comerciales del Estado, las Sociedades de Economía Mixta, sus filiales y empresas con participación mayoritaria del Estado"
+epigrafe: "DEL RÉGIMEN CONTRACTUAL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO, LAS SOCIEDADES DE ECONOMÍA MIXTA, SUS FILIALES Y EMPRESAS CON PARTICIPACIÓN MAYORITARIA DEL ESTADO"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 92 Ley 1474 de 2011]]"
 siguiente: "[[art. 94 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#93"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 93. Del régimen contractual de las Empresas Industriales y Comerciales del Estado, las Sociedades de Economía Mixta, sus filiales y empresas con participación mayoritaria del Estado
+## Artículo 93. DEL RÉGIMEN CONTRACTUAL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO, LAS SOCIEDADES DE ECONOMÍA MIXTA, SUS FILIALES Y EMPRESAS CON PARTICIPACIÓN MAYORITARIA DEL ESTADO
 
 Modifíquese el artículo [[art. 14 Ley 1150 de 2007|14]] de la Ley 1150 de 2007, el cual quedará así:
 

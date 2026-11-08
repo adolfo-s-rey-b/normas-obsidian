@@ -8,11 +8,16 @@ epigrafe: "Caducidad y prescripción de la acción disciplinaria"
 capitulo: "[[Ley 1474 de 2011 - Capítulo IX|CAPÍTULO IX - OFICINAS DE REPRESENTACIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 131 Ley 1474 de 2011]]"
 siguiente: "[[art. 133 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#132"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -31,7 +36,7 @@ La acción disciplinaria prescribirá en cinco (5) años contados a partir del a
 
 ~~PARÁGRAFO . Los términos prescriptivos aquí previstos quedan sujetos a lo establecido a los tratados internacionales que Colombia ratifique".~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019 .
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019 .
 
 ---
 ← [[art. 131 Ley 1474 de 2011]] · ↑ [[Ley 1474 de 2011 - Capítulo IX|Capítulo IX]] · [[art. 133 Ley 1474 de 2011]] →

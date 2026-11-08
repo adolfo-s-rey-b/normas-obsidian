@@ -14,9 +14,14 @@ articulo: "380"
 titulo: "[[CPol - Título XIII|TÍTULO XIII - De la reforma de la Constitución]]"
 vigencia: "vigente"
 anterior: "[[art. 379 CPol]]"
-siguiente: "[[art. transitorio 1 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#380"
-fecha_extraccion: 2026-11-07
+siguiente: "[[art. transitorio (final) CPol]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2006
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,9 +34,11 @@ tags:
 
 Queda derogada la Constitución hasta ahora vigente con todas sus reformas. Esta Constitución rige a partir del día de su promulgación.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C C-416-92 ; C-434-92 ; C-435-92 ; C-465-92; C-479-92 ; C-511-92; C-543-92 ; C-553-92; C-014-93; C-055-93; C-260-93; C-455-93; C-486-93; C-932-06
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-416-92 ; C-434-92 ; C-435-92 ; C-465-92 ; C-479-92 ; C-511-92 ; C-543-92 ; C-553-92 ; C-590-92 ; C-014-93 ; C-055-93 ; C-260-93 ; C-455-93 ; C-486-93 ; C-932-06
 
 DISPOSICIONES TRANSITORIAS
 
+CAPITULO 1.
+
 ---
-← [[art. 379 CPol]] · ↑ [[CPol - Título XIII|Título XIII]] · [[art. transitorio 1 CPol]] →
+← [[art. 379 CPol]] · ↑ [[CPol - Título XIII|Título XIII]] · [[art. transitorio (final) CPol]] →

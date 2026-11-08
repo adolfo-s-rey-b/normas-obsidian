@@ -26,7 +26,7 @@ tags:
 - [[art. 133 CPol|Artículo 133]]
 - [[art. 134 CPol|Artículo 134]]
 - [[art. 135 CPol|Artículo 135]]
-- [[art. 136 CPol|Artículo 136]]
+- [[art. 136 CPol|Artículo 136]] — (sic)
 - [[art. 137 CPol|Artículo 137]]
 
 ---

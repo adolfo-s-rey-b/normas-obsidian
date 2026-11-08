@@ -19,8 +19,9 @@ modificado_por:
 anterior: "[[art. 1025 CC]]"
 siguiente: "[[art. 1027 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2020
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -35,11 +36,11 @@ tags:
 
 Es indigno de suceder quien siendo mayor de edad no hubiere denunciado a la justicia, dentro del mes siguiente al día en que tuvo conocimiento del delito, el homicidio de su causante, a menos que se hubiere iniciado antes la investigación.
 
+Esta indignidad no podrá alegarse cuando el heredero o legatario sea cónyuge , ascendiente o descendiente de la persona por cuya obra o consejo se ejecutó el homicidio, o haya entre ellos vínculos del consanguinidad hasta el cuarto grado, o de afinidad o de parentesco civil hasta el segundo grado, inclusive.
+
 > [!note] Aparte subrayado CONDICIONALMENTE exequible
 
 > [!info] Inciso modificado por el artículo [[art. 12 Decreto 772 de 1975|12]] del Decreto 772 de 1975. El nuevo texto es el siguiente:
-
-Esta indignidad no podrá alegarse cuando el heredero o legatario sea cónyuge , ascendiente o descendiente de la persona por cuya obra o consejo se ejecutó el homicidio, o haya entre ellos vínculos del consanguinidad hasta el cuarto grado, o de afinidad o de parentesco civil hasta el segundo grado, inclusive.
 
 > [!info] Notas de Vigencia: Inciso 2o. modificado por el artículo [[art. 12 Decreto 772 de 1975|12]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975.
 

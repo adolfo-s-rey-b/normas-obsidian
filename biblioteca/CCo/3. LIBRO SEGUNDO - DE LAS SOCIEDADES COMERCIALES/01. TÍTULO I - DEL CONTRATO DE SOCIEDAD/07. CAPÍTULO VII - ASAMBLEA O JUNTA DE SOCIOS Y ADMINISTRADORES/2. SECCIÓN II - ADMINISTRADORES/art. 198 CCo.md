@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 197 CCo]]"
 siguiente: "[[art. 199 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#198"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,7 +35,9 @@ tags:
 
 Cuando las funciones indicadas en el artículo [[art. 196 CCo|196]] no correspondan por ley a determinada clase de socios, los encargados de las mismas serán elegidos por la asamblea o por la junta de socios, con sujeción a lo prescrito en las leyes y en el contrato social. La elección podrá delegarse por disposición expresa de los estatutos en juntas directivas elegidas por la asamblea general.
 
-Las elecciones se harán para los períodos determinados en los estatutos, sin perjuicio de que los nombramientos sean revocados libremente en cualquier tiempo.
+Las elecciones se harán para los períodos determinados en los estatutos, sin perjuicio de que los nombramientos sean revocados libremente en cualquier tiempo .
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-384-08 de 22 de abril de 2008, Magistrado Ponente Dr. Jaime Córdoba Triviño.
 
 Se tendrán por no escritas las cláusulas del contrato que tiendan a establecer la inamovilidad de los administradores elegidos por la asamblea general, junta de socios o por juntas directivas, o que exijan para la remoción mayorías especiales distintas de las comunes.
 

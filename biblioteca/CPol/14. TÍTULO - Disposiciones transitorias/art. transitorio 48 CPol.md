@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 47 CPol]]"
 siguiente: "[[art. transitorio 49 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -31,7 +35,9 @@ Dentro de los tres meses siguientes a la instalación del Congreso de la Repúbl
 
 Si al término de las dos siguientes legislaturas no se expidieren las leyes correspondientes, el Presidente de la República pondrá en vigencia los proyectos mediante decretos con fuerza de ley.
 
-> [!note] Ver Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]], literal d.
+> [!note] Concordancias: Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]] , literal d.
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 85)
 
 ---
 ← [[art. transitorio 47 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 49 CPol]] →

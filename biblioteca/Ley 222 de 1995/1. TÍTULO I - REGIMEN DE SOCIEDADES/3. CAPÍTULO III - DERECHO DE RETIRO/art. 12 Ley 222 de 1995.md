@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo III|CAPÍTULO III - DERECHO
 vigencia: "vigente"
 anterior: "[[art. 11 Ley 222 de 1995]]"
 siguiente: "[[art. 13 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#12"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -26,7 +30,7 @@ Cuando la transformación, fusión o escisión impongan a los socios una mayor r
 
 En las sociedades por acciones también procederá el ejercicio de este derecho en los casos de cancelación voluntaria de la inscripción en el Registro Nacional de Valores o en bolsa de valores.
 
-**PARÁGRAFO .** Para efectos de lo dispuesto en el presente artículo se entenderá que existe desmejora de los derechos patrimoniales de los socios, entre otros, en los siguientes casos:
+**PARAGRAFO.** Para efectos de lo dispuesto en el presente artículo se entenderá que existe desmejora de los derechos patrimoniales de los socios, entre otros, en los siguientes casos:
 
 1\. Cuando se disminuya el porcentaje de participación del socio en el capital de la sociedad.
 

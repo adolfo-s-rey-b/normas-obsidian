@@ -15,8 +15,13 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo V|CAPÍTULO V - EL PAGO]
 vigencia: "vigente"
 anterior: "[[art. 881 CCo]]"
 siguiente: "[[art. 883 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#882"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2006
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -31,7 +36,9 @@ La entrega de letras, cheques, pagarés y demás títulos-valores de contenido c
 
 Cumplida la condición resolutoria, el acreedor podrá hacer efectivo el pago de la obligación originaria o fundamental, devolviendo el instrumento o dando caución, a satisfacción del juez, de indemnizar al deudor los perjuicios que pueda causarle la no devolución del mismo.
 
-Si el acreedor deja caducar o prescribir el instrumento, la obligación originaria o fundamental se extinguirá así mismo; no obstante, tendrá acción contra quien se haya enriquecido sin causa a consecuencia de la caducidad o prescripción. Esta acción prescribirá en un año.
+Si el acreedor deja caducar o prescribir el instrumento, la obligación originaria o fundamental se extinguirá así mismo; no obstante, tendrá acción contra quien se haya enriquecido sin causa a consecuencia de la caducidad o prescripción. Esta acción prescribirá en un año .
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE por el cargo analizado, por la Corte Constitucional mediante Sentencia C-471-06 de 14 de junio de 2006, Magistrado Ponente Dr. Álvaro Tafur Galvis.
 
 ---
 ← [[art. 881 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo V|Capítulo V]] · [[art. 883 CCo]] →

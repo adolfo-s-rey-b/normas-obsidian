@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Quinto - Título II|TÍTULO II - DEL ARMADOR]]"
 vigencia: "vigente"
 anterior: "[[art. 1483 CCo]]"
 siguiente: "[[art. 1485 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1484"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -38,7 +42,7 @@ La valuación de la nave, en caso de accidentes que ocurran durante la estadía 
 
 Si la carga estuviere destinada a más de un puerto y el daño se hallare relacionado con uno de ellos, la valuación estará de acuerdo con el estado del buque en el primero de esos puertos, y
 
-3\. En todos los demás casos a que se refiere el artículo [[art. 1481 CCo|1481]], la estimación se hará según el estado del buque al término del viaje.
+3\. En todos los demás casos a que se refiere el artículo [[art. 1481 CCo|1481]] , la estimación se hará según el estado del buque al término del viaje.
 
 ---
 ← [[art. 1483 CCo]] · ↑ [[CCo - Libro Quinto - Título II|Título II]] · [[art. 1485 CCo]] →

@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "223"
-epigrafe: "Circunstancias especiales de graduación de la pena"
+epigrafe: "CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título V|TÍTULO V - DELITOS CONTRA LA INTEGRIDAD MORAL]]"
 capitulo: "[[CP - Libro Segundo - Título V - Capítulo Unico|CAPÍTULO UNICO - DE LA INJURIA Y LA CALUMNIA]]"
 vigencia: "vigente"
 anterior: "[[art. 222 CP]]"
 siguiente: "[[art. 224 CP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#223"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2014
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -25,13 +29,13 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título V|Título V]] › [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 223. Circunstancias especiales de graduación de la pena
+## Artículo 223. CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA
 
-Cuando alguna de las conductas previstas en este titulo se cometiere utilizando cualquier medio de comunicación social u otro de divulgación colectiva o en reunion publica, las penas respectivas se aumentaran de una sexta parte a la mitad.
+Cuando alguna de las conductas previstas en este título se cometiere utilizando cualquier medio de comunicación social u otro de divulgación colectiva o en reunión pública, las penas respectivas se aumentarán de una sexta parte a la mitad.
 
 Si se cometiere por medio de escrito dirigido exclusivamente al ofendido o en su sola presencia, la pena imponible se reducirá hasta en la mitad.
 
-NOTA: Inciso declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-635 de 2014.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso 2o. declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-635-14 de 3 de septiembre de 2014, Magistrado Ponente Dr. Gabriel Eduardo Mendoza Martelo. En relación con los cargos por infracción al principio de legalidad en su manifestaciones del principio de lesividad y el principio de prohibición del exceso, ESTARSE A LO RESUELTO en la sentencia C- 442 de 2011. - Artículo declarado EXEQUIBLE, por los cargos examinados, por la Corte Constitucional mediante Sentencia C-442-11 de 25 de mayo 2011, Magistrado Ponente Dr. Humberto Antonio Sierra Porto.
 
 ---
 ← [[art. 222 CP]] · ↑ [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]] · [[art. 224 CP]] →

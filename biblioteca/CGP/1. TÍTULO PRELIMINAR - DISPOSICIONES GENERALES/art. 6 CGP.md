@@ -8,14 +8,17 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "6"
-epigrafe: "Inmediación"
+epigrafe: "INMEDIACIÓN"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 5 CGP]]"
 siguiente: "[[art. 7 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#6"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -24,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 6. Inmediación
+## Artículo 6. INMEDIACIÓN
 
 El juez deberá practicar personalmente todas las pruebas y las demás actuaciones judiciales que le correspondan. Solo podrá comisionar para la realización de actos procesales cuando expresamente este código se lo autorice.
 

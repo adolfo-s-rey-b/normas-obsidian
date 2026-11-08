@@ -16,7 +16,8 @@ modificado_por:
 anterior: "[[art. 47 CPT]]"
 siguiente: "[[art. 49 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#48"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2007
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

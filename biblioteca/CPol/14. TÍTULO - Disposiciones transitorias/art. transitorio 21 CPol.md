@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 20 CPol]]"
 siguiente: "[[art. transitorio 22 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -35,11 +39,9 @@ El incumplimiento de los términos señalados en el inciso anterior será causal
 
 Mientras se expiden las normas a que hace referencia este artículo, continuarán vigentes las que regulan actualmente la materia en cuanto no contraríen la Constitución.
 
-> [!note] Ver Ley 4 de 1992
+> [!note] Concordancias: Ley 4 de 1992 Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]] , literal d.
 
-> [!note] Ver Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]], literal d.
-
-CAPÍTULO 3.
+CAPITULO 3.
 
 ---
 ← [[art. transitorio 20 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 22 CPol]] →

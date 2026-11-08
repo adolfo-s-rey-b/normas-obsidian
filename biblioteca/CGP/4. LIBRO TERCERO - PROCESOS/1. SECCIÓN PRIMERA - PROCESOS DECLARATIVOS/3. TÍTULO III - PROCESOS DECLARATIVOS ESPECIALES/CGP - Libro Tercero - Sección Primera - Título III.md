@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo I|CAPÍTULO I - Expropiación]] (art. 399)
-- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo II|CAPÍTULO II - Deslinde y Amojonamiento]] (arts. 400 a 405)
-- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|CAPÍTULO III - Proceso Divisorio]] (arts. 406 a 418)
-- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo IV|CAPÍTULO IV - Proceso monitorio]] (arts. 419 a 421)
+- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo I|CAPÍTULO I - EXPROPIACIÓN]] (art. 399)
+- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo II|CAPÍTULO II - DESLINDE Y AMOJONAMIENTO]] (arts. 400 a 405)
+- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|CAPÍTULO III - PROCESO DIVISORIO]] (arts. 406 a 418)
+- [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo IV|CAPÍTULO IV - PROCESO MONITORIO]] (arts. 419 a 421)
 
 ---
 ← [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] · ↑ [[CGP - Libro Tercero - Sección Primera|Sección Primera]]

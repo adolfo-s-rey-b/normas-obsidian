@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - GENERALI
 vigencia: "vigente"
 anterior: "[[art. 822 CCo]]"
 siguiente: "[[art. 824 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#823"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,9 @@ tags:
 
 Los términos técnicos o usuales que se emplean en documentos destinados a probar contratos u obligaciones mercantiles, o que se refieran a la ejecución de dichos contratos u obligaciones, se entenderán en el sentido que tengan en el idioma castellano.
 
-Cuando se hayan utilizado simultáneamente varios idiomas, se entenderán dichos términos en el sentido que tengan en castellano, si este idioma fue usado; en su defecto, se estará a la versión española que más se acerque al significado del texto original. El sentido o significado de que trata este artículo es el jurídico que tenga el término o locución en el respectivo idioma, o el técnico que le dé la ciencia o arte a que pertenezca o finalmente el sentido natural y obvio del idioma a que corresponda.
+Cuando se hayan utilizado simultáneamente varios idiomas, se entenderán dichos términos en el sentido que tengan en castellano, si este idioma fue usado; en su defecto, se estará a la versión española que más se acerque al significado del texto original.
+
+El sentido o significado de que trata este artículo es el jurídico que tenga el término o locución en el respectivo idioma, o el técnico que le dé la ciencia o arte a que pertenezca o finalmente el sentido natural y obvio del idioma a que corresponda.
 
 ---
 ← [[art. 822 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo I|Capítulo I]] · [[art. 824 CCo]] →

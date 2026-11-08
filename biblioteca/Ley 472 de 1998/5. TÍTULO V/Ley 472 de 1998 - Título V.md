@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[Ley 472 de 1998 - Título V - Capítulo Único|CAPÍTULO ÚNICO - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA]] (arts. 74 a 79)
+- [[Ley 472 de 1998 - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA]] (arts. 74 a 79)
 
 ---
 ← [[Ley 472 de 1998 - Título IV|Título IV]] · ↑ [[Ley 472 de 1998|Ley 472 de 1998]] · [[Ley 472 de 1998 - Título VI|Título VI]] →

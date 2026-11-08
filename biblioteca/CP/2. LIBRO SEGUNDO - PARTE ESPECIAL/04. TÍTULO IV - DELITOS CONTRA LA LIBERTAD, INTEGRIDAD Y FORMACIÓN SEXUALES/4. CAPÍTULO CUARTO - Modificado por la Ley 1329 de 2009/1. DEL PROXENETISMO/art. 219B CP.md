@@ -20,7 +20,10 @@ vigencia: "vigente"
 anterior: "[[art. 219A CP]]"
 siguiente: "[[art. 219C CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#219B"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "solo en DAFP"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

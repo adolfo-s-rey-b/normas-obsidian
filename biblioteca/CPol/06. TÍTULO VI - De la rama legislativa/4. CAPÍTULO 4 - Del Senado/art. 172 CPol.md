@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VI - Capítulo 4|CAPÍTULO 4 - Del Senado]]"
 vigencia: "vigente"
 anterior: "[[art. 171 CPol]]"
 siguiente: "[[art. 173 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#172"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,15 +33,13 @@ tags:
 
 ## Artículo 172
 
-Para ser elegido senador se requiere ser colombiano de nacimiento, ciudadano en ejercicio y tener mas de treinta años de edad en la fecha de la elección.
+Para ser elegido senador se requiere ser colombiano de nacimiento, ciudadano en ejercicio y tener más de treinta años de edad en la fecha de la elección.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 60 Ley 5 de 1992|60]]; Art. [[art. 61 Ley 5 de 1992|61]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 60 Ley 5 de 1992|60]] ; Art. [[art. 61 Ley 43 de 1993|61]] Ley 43 de 1993; Art. [[art. 28 Ley 80 de 1993|28]] Ley 80 de 1993; Art. [[art. 43 Ley 80 de 1993|43]]
 
-> [!note] Ver Ley 43 de 1993; Art. [[art. 28 Ley 43 de 1993|28]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-487-93 ; C-130-94 ; C-145-94 ; C-093-2001 ;
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 43 Ley 80 de 1993|43]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-487-93; C-130-94; C-145-94 ; C-093-2001
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 9, 25, 67 y 71)
 
 ---
 ← [[art. 171 CPol]] · ↑ [[CPol - Título VI - Capítulo 4|Capítulo 4]] · [[art. 173 CPol]] →

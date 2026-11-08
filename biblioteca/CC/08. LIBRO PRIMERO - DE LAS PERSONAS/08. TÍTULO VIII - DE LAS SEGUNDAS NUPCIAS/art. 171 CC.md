@@ -12,16 +12,15 @@ epigrafe: "INCUMPLIMIENTO EN EL NOMBRAMIENTO DE CURADOR"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título VIII|TÍTULO VIII - DE LAS SEGUNDAS NUPCIAS]]"
 vigencia: "parcialmente inexequible"
-modificado_por:
-  - "[[art. 7 CC]]"
 derogado_por:
   - "[[art. 13 CPol]]"
   - "[[art. 42 CPol]]"
 anterior: "[[art. 170 CC]]"
 siguiente: "[[art. 172 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,11 +31,11 @@ tags:
 
 ## Artículo 171. INCUMPLIMIENTO EN EL NOMBRAMIENTO DE CURADOR
 
-> [!info] Artículo modificado por el artículo [[art. 7 CC|7]]o. del Decreto 2820 de 1974. El nuevo texto es el siguiente:
+> [!info] Artículo modificado por el artículo 7o. del Decreto 2820 de 1974. El nuevo texto es el siguiente:
 
 El juez se abstendrá de autorizar el matrimonio hasta cuando la persona que pretenda contraer nuevas nupcias le presente copia auténtica de la providencia por la cual se designó curador a los hijos, del auto que le discernió el cargo y del inventario de los bienes de los menores. No se requerirá de lo anterior si se prueba sumariamente que dicha persona no tiene hijos de ~~precedente matrimonio~~, o que éstos son capaces.
 
-> [!info] Notas de vigencia: Artículo modificado por el artículo [[art. 7 CC|7]]o. del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
+> [!info] Notas de vigencia: Artículo modificado por el artículo 7o. del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Mediante Sentencia C-812-01 de 1 de agosto de 2001, Magistrado Ponente Dr. Manuel José Cepeda Espinosa, la Corte Constitucional declaró estése a lo resuelto en la Sentencia C-289-00 - Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-289-00 del 15 de marzo de 2000, Magistrado Ponente Dr. Antonio Becerra Carbonell. Estable la corte en el mismo fallo: 'En consecuencia, conforme a lo dispuesto en los arts. [[art. 13 CPol|13]] y [[art. 42 CPol|42]] de la Constitución el vocablo 'casarse' y la expresión 'contraer nuevas nupcias', contenidos en dichas normas, deben ser entendidos, bajo el supuesto de que la misma obligación que se establece para la persona que habiendo estado ligada por matrimonio anterior quisiere volver a casarse, se predica también respecto de quien resuelve conformar una unión libre de manera estable, con el propósito responsable de formar una familia, a efecto de asegurar la protección del patrimonio de los hijos habidos en ella'.
 

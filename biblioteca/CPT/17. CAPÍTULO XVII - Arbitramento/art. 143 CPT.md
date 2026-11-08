@@ -14,7 +14,8 @@ vigencia: "derogado"
 anterior: "[[art. 142 CPT]]"
 siguiente: "[[art. 144 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#143"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2012
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

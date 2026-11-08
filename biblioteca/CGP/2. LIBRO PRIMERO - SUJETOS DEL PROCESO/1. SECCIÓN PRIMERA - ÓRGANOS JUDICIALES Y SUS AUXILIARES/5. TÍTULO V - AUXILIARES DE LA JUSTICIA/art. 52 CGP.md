@@ -8,16 +8,19 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "52"
-epigrafe: "Funciones del secuestre"
+epigrafe: "FUNCIONES DEL SECUESTRE"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
 vigencia: "vigente"
 anterior: "[[art. 51 CGP]]"
 siguiente: "[[art. 53 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#52"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -26,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 52. Funciones del secuestre
+## Artículo 52. FUNCIONES DEL SECUESTRE
 
 El secuestre tendrá, como depositario, la custodia de los bienes que se le entreguen, y si se trata de empresa o de bienes productivos de renta, las atribuciones previstas para el mandatario en el Código Civil, sin perjuicio de las facultades y deberes de su cargo. Bajo su responsabilidad y con previa autorización judicial, podrá designar los dependientes que requiera para el buen desempeño del cargo y asignarles funciones. La retribución deberá ser autorizada por el juez.
 

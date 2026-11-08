@@ -8,14 +8,18 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "139"
-epigrafe: "Nulidad electoral"
+epigrafe: "NULIDAD ELECTORAL"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
 anterior: "[[art. 138 CPACA]]"
 siguiente: "[[art. 140 CPACA]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249#139"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
@@ -24,11 +28,11 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 139. Nulidad electoral
+## Artículo 139. NULIDAD ELECTORAL
 
 Cualquier persona podrá pedir la nulidad de los actos de elección por voto popular o por cuerpos electorales, así como de los actos de nombramiento que expidan las entidades y autoridades públicas de todo orden. Igualmente podrá pedir la nulidad de los actos de llamamiento para proveer vacantes en las corporaciones públicas.
 
-> [!note] Ver Sentencia 2017-01317 de 2020 Consejo de Estado
+> [!note] Jurisprudencia Unificación: Consejo de Estado, Sección Quinta, Sentencia de Unificación, Expediente No. 47001-23-33-000-2017-00191-02 de 24 de mayo de 2018, C.P. Dra. Rocío Araujo Oñate.
 
 En elecciones por voto popular, las decisiones adoptadas por las autoridades electorales que resuelvan sobre reclamaciones o irregularidades respecto de la votación o de los escrutinios, deberán demandarse junto con el acto que declara la elección. El demandante deberá precisar en qué etapas o registros electorales se presentan las irregularidades o vicios que inciden en el acto de elección.
 

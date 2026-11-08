@@ -14,12 +14,13 @@ titulo: "[[CC - Libro Primero - Título VI|TÍTULO VI - DE LA DISOLUCIÓN DEL MA
 vigencia: "modificado"
 modificado_por:
   - "[[art. 5 Ley 25 de 1992]]"
-  - "[[art. 1 CC]]"
+  - "[[art. 1 Ley 25 de 1992]]"
 anterior: "[[art. 151 CC]]"
 siguiente: "[[art. 153 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,7 @@ tags:
 
 ## Artículo 152. CAUSALES Y EFECTOS DE LA DISOLUCIÓN
 
-<Artículo modificado por el artículo [[art. 5 CC|5]]o. de la Ley 25 de 1992. El nuevo texto es el siguiente:>
+> [!info] Artículo modificado por el artículo 5o. de la Ley 25 de 1992. El nuevo texto es el siguiente:
 
 El matrimonio civil se disuelve por la muerte real o presunta de uno de los cónyuges o por divorcio judicialmente decretado.
 
@@ -38,7 +39,7 @@ Los efectos civiles de todo matrimonio religioso cesarán por divorcio decretado
 
 En materia del vínculo de los matrimonios religiosos regirán los cánones y normas del correspondiente ordenamiento religioso.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 5 Ley 25 de 1992|5]] de la Ley 25 de 1992, publicada en el Diario Oficial No. 40.693, de 18 de diciembre de 1992. - Artículo modificado por el artículo [[art. 1 CC|1]]o. de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 5 Ley 25 de 1992|5]] de la Ley 25 de 1992, publicada en el Diario Oficial No. 40.693, de 18 de diciembre de 1992. - Artículo modificado por el artículo [[art. 1 Ley 25 de 1992|1]]o. de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 (Notas del Editor: Para la interpretación de este artículo el editor sugiere tener en cuenta lo dispuesto por el Artículo [[art. 34 Ley 962 de 2005|34]] de la Ley 962 de 2005, 'por la cual se dictan disposiciones sobre racionalización de trámites y procedimientos administrativos de los organismos y entidades del Estado y de los particulares que ejercen funciones públicas o prestan servicios públicos', publicada en el Diario Oficial No. 45.963 de 8 de julio de 2005. El texto original del Artículo [[art. 34 CC|34]] mencionado establece:
 

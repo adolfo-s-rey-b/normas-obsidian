@@ -16,7 +16,7 @@ anterior: "[[art. 2347 CC]]"
 siguiente: "[[art. 2349 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,16 +28,6 @@ tags:
 ## Artículo 2348. RESPONSABILIDAD DE LOS PADRES POR LOS DAÑOS OCASIONADOS POR SUS HIJOS
 
 Los padres serán siempre responsables del daño causado por las culpas o los delitos cometidos por sus hijos menores, y que conocidamente provengan de mala educación o de hábitos viciosos que les han dejado adquirir.
-
-(empleadores)
-
-(trabajadores)
-
-(trabajadores)
-
-(empleadores)
-
-(trabajadores)
 
 ---
 ← [[art. 2347 CC]] · ↑ [[CC - Libro Cuarto - Título XXXIV|Título XXXIV]] · [[art. 2349 CC]] →

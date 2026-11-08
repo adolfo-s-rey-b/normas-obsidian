@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo X|CAPÍTULO X - EXPL
 vigencia: "vigente"
 anterior: "[[art. 1861 CCo]]"
 siguiente: "[[art. 1863 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1862"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Los permisos de operación serán temporales, de acuerdo con las características de cada servicio y la economía de la operación y podrán ser renovados indefinidamente.
 
-Podrán ser revocados por causa de utilidad pública y por violación de lo dispuesto en los artículos [[art. 1426 CCo|1426]], [[art. 1779 CCo|1779]], [[art. 1803 CCo|1803]] y [[art. 1864 CCo|1864]], por violación de las normas reglamentarias sobre seguridad de vuelo, y cuando la empresa pierda las calidades exigidas por el artículo [[art. 1857 CCo|1857]].
+Podrán ser revocados por causa de utilidad pública y por violación de lo dispuesto en los artículos [[art. 1426 CCo|1426]] , [[art. 1779 CCo|1779]] , [[art. 1803 CCo|1803]] y [[art. 1864 CCo|1864]] , por violación de las normas reglamentarias sobre seguridad de vuelo, y cuando la empresa pierda las calidades exigidas por el artículo [[art. 1857 CCo|1857]] .
 
 También podrá exigirse caución a los explotadores, para responder por el cumplimiento de las obligaciones que les imponga este Código y el respectivo permiso de operación.
 

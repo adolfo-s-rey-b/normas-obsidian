@@ -14,8 +14,12 @@ capitulo: "[[CST - Título IX - Capítulo VIII|CAPÍTULO VIII - TRABAJADORES DE 
 vigencia: "vigente"
 anterior: "[[art. 317 CST]]"
 siguiente: "[[art. 319 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#318"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -32,7 +36,11 @@ tags:
 
 3\. Estos hospitales quedan sujetos a la inspección periódica del Ministerio del Trabajo, por conducto de la Oficina Nacional de Medicina e Higiene Industrial .
 
+(Hoy División de Medicina del Trabajo)
+
 4\. En dichos establecimientos se llevarán libros de estadística, en los que se anotará el movimiento completo de los enfermos, diagnósticos, tratamientos, operaciones que se practiquen, etc. Copias de tales estadísticas se enviarán mensualmente al Ministerio expresado y por el mismo conducto, según los modelos que se prescriban.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 332 CST|332]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 317 CST]] · ↑ [[CST - Título IX - Capítulo VIII|Capítulo VIII]] · [[art. 319 CST]] →

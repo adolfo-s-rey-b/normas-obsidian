@@ -23,7 +23,7 @@ tags:
 ### Contenido
 
 - [[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]] (arts. 15 a 36)
-- [[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISIÓN]] (arts. 37 a 41)
+- [[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISI]] (arts. 37 a 41)
 - [[CGP - Libro Primero - Sección Primera - Título III|TÍTULO III - DEBERES Y PODERES DE LOS JUECES]] (arts. 42 a 44)
 - [[CGP - Libro Primero - Sección Primera - Título IV|TÍTULO IV - MINISTERIO PÚBLICO]] (arts. 45 a 46)
 - [[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]] (arts. 47 a 52)

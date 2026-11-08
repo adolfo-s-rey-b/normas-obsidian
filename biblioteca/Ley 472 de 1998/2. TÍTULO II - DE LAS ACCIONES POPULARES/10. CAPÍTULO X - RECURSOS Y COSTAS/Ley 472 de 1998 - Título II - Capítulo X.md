@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 36 Ley 472 de 1998|Artículo 36]] — Recursos de Reposición
-- [[art. 37 Ley 472 de 1998|Artículo 37]] — Recurso de Apelación
-- [[art. 38 Ley 472 de 1998|Artículo 38]] — Costas
+- [[art. 36 Ley 472 de 1998|Artículo 36]] — RECURSO DE REPOSICION
+- [[art. 37 Ley 472 de 1998|Artículo 37]] — RECURSO DE APELACION
+- [[art. 38 Ley 472 de 1998|Artículo 38]] — COSTAS
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo IX|Capítulo IX]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo XI|Capítulo XI]] →

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo I|CAPÍTULO I - Ejecutoria y cosa juzgada]] (arts. 214 a 215)
-- [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo II|CAPÍTULO II - Ejecución de las providencias judiciales]] (arts. 216 a 220)
+- [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo I|CAPÍTULO I - EJECUTORIA Y COSA JUZGADA]] (arts. 214 a 215)
+- [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo II|CAPÍTULO II - EJECUCIÓN DE LAS PROVIDENCIAS JUDICIALES]] (arts. 216 a 220)
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]] · ↑ [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]]

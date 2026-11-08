@@ -1,0 +1,35 @@
+---
+aliases:
+  - "EOSF CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS"
+tipo: indice
+norma: "Decreto 663 de 1993"
+sigla: "EOSF"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS"
+parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
+articulos: "arts. 183 a 190"
+tags:
+  - normas/indice
+  - normas/eosf
+---
+
+[[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]]
+
+## CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS
+
+*Arts. 183 a 190*
+
+### Contenido
+
+- [[art. 183 EOSF|Artículo 183]] — OPERACIONES AUTORIZADAS
+- [[art. 184 EOSF|Artículo 184]] — REGIMEN DE POLIZAS Y TARIFAS
+- [[art. 185 EOSF|Artículo 185]] — CONDICIONES ESPECIALES APLICABLES AL CONTRATO DE SEGURO
+- [[art. 186 EOSF|Artículo 186]] — REGIMEN DE RESERVAS TECNICAS E INVERSIONES
+- [[art. 187 EOSF|Artículo 187]] — REGIMEN DE INVERSIONES
+- [[art. 188 EOSF|Artículo 188]] — Prohibiciones y Limitaciones
+- [[art. 189 EOSF|Artículo 189]] — REVOCACION O SUSPENSION DEL CERTIFICADO DE AUTORIZACION
+- [[art. 190 EOSF|Artículo 190]] — Disolución
+
+---
+← [[EOSF - Parte VI - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte VI|Parte VI]] · [[EOSF - Parte VI - Capítulo III|Capítulo III]] →

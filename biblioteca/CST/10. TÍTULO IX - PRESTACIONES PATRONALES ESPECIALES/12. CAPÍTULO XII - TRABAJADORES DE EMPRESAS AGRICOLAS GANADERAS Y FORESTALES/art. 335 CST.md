@@ -14,8 +14,12 @@ capitulo: "[[CST - Título IX - Capítulo XII|CAPÍTULO XII - TRABAJADORES DE EM
 vigencia: "vigente"
 anterior: "[[art. 334 CST]]"
 siguiente: "[[art. 336 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#335"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -27,6 +31,8 @@ tags:
 ## Artículo 335. ENFERMEDADES TROPICALES
 
 Las empresas agrícolas, ganaderas o forestales, de climas templados y calientes, están especialmente obligadas a combatir las enfermedades tropicales, por todos los medios curativos y profilácticos.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 351 CST|351]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 334 CST]] · ↑ [[CST - Título IX - Capítulo XII|Capítulo XII]] · [[art. 336 CST]] →

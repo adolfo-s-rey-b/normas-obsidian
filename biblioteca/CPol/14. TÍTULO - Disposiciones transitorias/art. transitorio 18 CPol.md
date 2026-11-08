@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 17 CPol]]"
 siguiente: "[[art. transitorio 19 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,6 +34,8 @@ tags:
 Mientras la ley establece el régimen de inhabilidades para los gobernadores, en las elecciones del 27 de octubre de 1991 no podrán ser elegidos como tales:
 
 1\. Quienes en cualquier época hayan sidos condenados por sentencia judicial a pena privativa de la libertad, con excepción de quienes lo hubieran sido por delitos políticos o culposos.
+
+(sic)
 
 2\. Quienes dentro de los seis meses anteriores a la elección hubieren ejercido como empleados públicos jurisdicción o autoridad política, civil, administrativa o militar a nivel nacional o en el respectivo departamento.
 

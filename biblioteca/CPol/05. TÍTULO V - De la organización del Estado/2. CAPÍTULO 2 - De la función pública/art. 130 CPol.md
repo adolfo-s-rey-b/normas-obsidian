@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título V - Capítulo 2|CAPÍTULO 2 - De la función públic
 vigencia: "vigente"
 anterior: "[[art. 129 CPol]]"
 siguiente: "[[art. 131 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#130"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2022
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,13 +33,11 @@ tags:
 
 ## Artículo 130
 
-Habra una Comisión Nacional del Servicio Civil responsable de la administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que tengan carácter especial.
+Habrá una Comisión Nacional del Servicio Civil responsable de la administración y vigilancia de las carreras de los servidores públicos, excepción hecha de las que tengan carácter especial.
 
-> [!note] Ver Ley 909 de 2004; Art. [[art. 7 Ley 909 de 2004|7]] al [[art. 13 Ley 909 de 2004|13]]
+> [!note] Concordancias: Ley 443 de 1998; Art. [[art. 43 Ley 909 de 2004|43]] Ley 909 de 2004; Art. [[art. 7 Ley 909 de 2004|7]] o.; Art. [[art. 8 Ley 909 de 2004|8]] o.; Art. [[art. 9 Ley 909 de 2004|9]] o.; Art. [[art. 10 Ley 909 de 2004|10]] ; Art. [[art. 11 Ley 909 de 2004|11]] ; Art. [[art. 12 Ley 909 de 2004|12]] ; Art. [[art. 13 Ley 1033 de 2006|13]] Ley 1033 de 2006; Art. [[art. 8 Ley 1033 de 2006|8]] o.; Art. [[art. 9 Ley 1033 de 2006|9]] o; Art. [[art. 10 Ley 1033 de 2006|10]] ; Art. [[art. 11 Ley 1033 de 2006|11]] ; Art. [[art. 12 Ley 1033 de 2006|12]] ; Art. [[art. 13 Decreto 403 de 2020|13]] Decreto Ley 403 de 2020
 
-> [!note] Ver Ley 1033 de 2006; Art. [[art. 8 Ley 1033 de 2006|8]] al [[art. 13 Ley 1033 de 2006|13]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-391-93 ; C-356-94; C-493-94; C-517-02; C-454-05; C-1230-05 ; C-1265-05 ; C-073-06; C-109-06; C-175-06; C-753-08 ; C-372-99; C-746-99; C-250-13; C-471-13 ; C-285-15 ; C-645-16; C-183-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-391-93 ; C-356-94 ; C-493-94 ; C-517-02 ; C-454-05; C-1230-05 ; C-1265-05 ; C-073-06 ; C-109-06 ; C-175-06 ; C-753-08 ; C-372-99 ; C-746-99 ; C-250-13 ; C-471-13 ; C-285-15 ; C-645-16 ; C-183-19 ; C-172-21 ; C-331-22 ;
 
 ---
 ← [[art. 129 CPol]] · ↑ [[CPol - Título V - Capítulo 2|Capítulo 2]] · [[art. 131 CPol]] →

@@ -21,11 +21,11 @@ tags:
 
 ### Contenido
 
-- [[art. 41 Ley 472 de 1998|Artículo 41]] — Desacato
-- [[art. 42 Ley 472 de 1998|Artículo 42]] — Garantía
-- [[art. 43 Ley 472 de 1998|Artículo 43]] — Moral Administrativa
-- [[art. 44 Ley 472 de 1998|Artículo 44]] — Aspectos no Regulados
-- [[art. 45 Ley 472 de 1998|Artículo 45]] — Aplicación
+- [[art. 41 Ley 472 de 1998|Artículo 41]] — DESACATO
+- [[art. 42 Ley 472 de 1998|Artículo 42]] — GARANTIA
+- [[art. 43 Ley 472 de 1998|Artículo 43]] — MORAL ADMINISTRATIVA
+- [[art. 44 Ley 472 de 1998|Artículo 44]] — ASPECTOS NO REGULADOS
+- [[art. 45 Ley 472 de 1998|Artículo 45]] — APLICACION
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo XI|Capítulo XI]] · ↑ [[Ley 472 de 1998 - Título II|Título II]]

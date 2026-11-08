@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - ABORD
 vigencia: "vigente"
 anterior: "[[art. 1537 CCo]]"
 siguiente: "[[art. 1539 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1538"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 1538. INDEMNIZACIÓN DE DAÑOS QUE UNA NAVE CAUSE A OTRA, APLICABLES A COSAS O PERSONAS A BORDO
 
-Se aplicarán las disposiciones que anteceden a la indemnización de los daños que una nave cause a otra, a las cosas o personas que se encuentren a bordo de ellas, por ejecución u omisión de una maniobra, por inobservancia de los reglamentos o de la costumbre, aun cuando no hubiere abordaje.
+Se aplicarán las disposiciones que anteceden a la indemnización de las daños que una nave cause a otra, a las cosas o personas que se encuentren a bordo de ellas, por ejecución u omisión de una maniobra, por inobservancia de los reglamentos o de la costumbre, aún cuando no hubiere abordaje.
 
 ---
 ← [[art. 1537 CCo]] · ↑ [[CCo - Libro Quinto - Título VI - Capítulo II|Capítulo II]] · [[art. 1539 CCo]] →

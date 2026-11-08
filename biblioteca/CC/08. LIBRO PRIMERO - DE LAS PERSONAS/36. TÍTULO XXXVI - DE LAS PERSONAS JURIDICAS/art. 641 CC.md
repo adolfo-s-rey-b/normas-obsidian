@@ -16,7 +16,7 @@ anterior: "[[art. 640 CC]]"
 siguiente: "[[art. 642 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,8 +28,6 @@ tags:
 ## Artículo 641. FUERZA OBLIGATORIA DE LOS ESTATUTOS
 
 Los estatutos de una corporación tienen fuerza obligatoria sobre ella, y sus miembros están obligados a obedecerlos bajo las penas que los mismos estatutos impongan.
-
-(DERECHO DE POLICIA CORRECCIONAL)
 
 ---
 ← [[art. 640 CC]] · ↑ [[CC - Libro Primero - Título XXXVI|Título XXXVI]] · [[art. 642 CC]] →

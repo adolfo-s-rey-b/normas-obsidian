@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Tercero - Título III - Capítulo I|CAPÍTULO I - GENER
 vigencia: "vigente"
 anterior: "[[art. 635 CCo]]"
 siguiente: "[[art. 637 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#636"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 636. OBLIGACIONES DEL AVALISTA
 
-El avalista quedará obligado en los términos que corresponderían formalmente al avalado y su obligación será válida aun cuando la de este último no lo sea.
+El avalista quedará obligado en los términos que corresponderían formalmente al avalado y su obligación será válida aún cuando la de este último no lo sea.
 
 ---
 ← [[art. 635 CCo]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo I|Capítulo I]] · [[art. 637 CCo]] →

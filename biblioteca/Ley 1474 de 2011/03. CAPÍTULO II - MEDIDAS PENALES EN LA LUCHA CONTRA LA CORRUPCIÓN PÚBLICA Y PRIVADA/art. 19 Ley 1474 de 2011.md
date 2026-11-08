@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "19"
-epigrafe: "Especulación de medicamentos y dispositivos médicos"
+epigrafe: "ESPECULACIÓN DE MEDICAMENTOS Y DISPOSITIVOS MÉDICOS"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 18 Ley 1474 de 2011]]"
 siguiente: "[[art. 20 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#19"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 19. Especulación de medicamentos y dispositivos médicos
+## Artículo 19. ESPECULACIÓN DE MEDICAMENTOS Y DISPOSITIVOS MÉDICOS
 
 Adiciónese un inciso al artículo [[art. 298 CP|298]] de la Ley 599 de 2000, el cual quedará así:
 

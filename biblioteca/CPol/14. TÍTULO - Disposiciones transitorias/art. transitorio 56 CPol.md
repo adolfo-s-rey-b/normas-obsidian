@@ -15,8 +15,13 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 55 CPol]]"
 siguiente: "[[art. transitorio 57 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2025
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -27,15 +32,11 @@ tags:
 
 ## Artículo Transitorio 56
 
-Mientras se expide la ley a que se refiere el artículo [[art. 329 CPol|329]], el Gobierno podrá dictar las normas fiscales necesarias y las demás relativas al funcionamiento de los territorios indígenas y su coordinación con las demás entidades territoriales.
+Mientras se expide la ley a que se refiere el artículo [[art. 329 CPol|329]] , el Gobierno podrá dictar las normas fiscales necesarias y las demás relativas al funcionamiento de los territorios indígenas y su coordinación con las demás entidades territoriales.
 
-> [!note] Ver Decreto Ley 1953 de 2014
+> [!note] Concordancias: Decreto Ley 1088 de 1993 Decreto Ley 1953 de 2014 Decreto Ley 632 de 2018 Decreto Ley 252 de 2020 Decreto Ley 968 de 2024 Decreto Ley 1094 de 2024 Decreto Ley 1275 de 2024 Decreto Ley 480 de 2025 Decreto Ley 481 de 2025 Decreto Ley 482 de 2025 Decreto Ley 488 de 2025
 
-> [!note] Ver Decreto 632 de 2018
-
-> [!note] Ver Decreto Ley 252 de 2020
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-370-00; C-617-15
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-544-92 ; C-370-00 ; C-617-15 ; C-254-25 ;
 
 ---
 ← [[art. transitorio 55 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 57 CPol]] →

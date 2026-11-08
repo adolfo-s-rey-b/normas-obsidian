@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 2|CAPÍTULO 2 - De los derechos socia
 vigencia: "vigente"
 anterior: "[[art. 46 CPol]]"
 siguiente: "[[art. 48 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#47"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2025
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,57 +33,13 @@ tags:
 
 ## Artículo 47
 
-El Estado adelantará una política de previsión, rehabilitación e integración social para los disminuidos fisicos, sensoriales y psiquicos, a quienes se prestará la atención especializada que requieran.
+El Estado adelantará una política de previsión, rehabilitación e integración social para los disminuidos físicos, sensoriales y psíquicos, a quienes se prestará la atención especializada que requieran.
 
-> [!note] Ver Ley 319 de 1996; Art. [[art. 18 Ley 319 de 1996|18]]
+> [!note] Concordancias: Ley 319 de 1996; Art. [[art. 18 Ley 324 de 1996|18]] Ley 324 de 1996 Ley 360 de 1997; Art. [[art. 4 Ley 361 de 1997|4]] Ley 361 de 1997; Art.[[art. 1 Ley 361 de 1997|1]]; Art. [[art. 35 Ley 582 de 2000|35]] Ley 582 de 2000 Ley 762 de 2002 Ley 1114 de 2006 Ley 1145 de 2007 Ley 1237 de 2008 Ley 1275 de 2009 Ley 1287 de 2009 Ley 1306 de 2009 Ley 1316 de 2009 Ley 1346 de 2009 Ley 1384 de 2010 Ley 1412 de 2010; Art. [[art. 6 Ley 1412 de 2010|6]] o. Ley 1414 de 2010 Ley 1450 de 2011; Art. [[art. 176 Ley 1453 de 2011|176]] Ley 1453 de 2011; Art. [[art. 103 Ley 1471 de 2011|103]] Ley 1471 de 2011 Ley 1566 de 2012 Ley 1618 de 2013 Ley 1679 de 2013 Ley 1680 de 2013 Ley 1699 de 2013 Ley 1946 de 2019 Ley 2097 de 2021 Ley 2265 de 2022 Ley 2266 de 2022 Ley 2297 de 2023 Ley 2456 de 2025 Ley 2562 de 2025
 
-> [!note] Ver Ley 324 de 1996
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-176-93 ; C-312-93 ; C-337-93 ; C-221-94 ; C-410-2001 ; C-559-2001 ; C-1174-2001 ; C-297-2002 ; C-065-03 ; C-401-03 ; C-402-03 ; C-478-03 ; C-227-04 ; C-765-12 ; C-741-15 ; C-327-19 ; C-098-25 ;
 
-> [!note] Ver Ley 360 de 1997; Art. [[art. 4 Ley 360 de 1997|4]]
-
-> [!note] Ver Ley 361 de 1997; Art. [[art. 1 Ley 361 de 1997|1]] ; Art. [[art. 35 Ley 361 de 1997|35]]
-
-> [!note] Ver Ley 582 de 2000
-
-> [!note] Ver Ley 762 de 2002
-
-> [!note] Ver Ley 1114 de 2006
-
-> [!note] Ver Ley 1145 de 2007
-
-> [!note] Ver Ley 1237 de 2008
-
-> [!note] Ver Ley 1275 de 2009
-
-> [!note] Ver Ley 1287 de 2009
-
-> [!note] Ver Ley 1306 de 2009
-
-> [!note] Ver Ley 1316 de 2009
-
-> [!note] Ver Ley 1346 de 2009
-
-> [!note] Ver Ley 1384 de 2010
-
-> [!note] Ver Ley 1412 de 2010; Art. [[art. 6 Ley 1412 de 2010|6]]
-
-> [!note] Ver Ley 1414 de 2010
-
-> [!note] Ver Ley 1450 de 2011; Art. [[art. 176 Ley 1450 de 2011|176]]
-
-> [!note] Ver Ley 1453 de 2011; Art. [[art. 103 Ley 1453 de 2011|103]]
-
-> [!note] Ver Ley 1566 de 2012
-
-> [!note] Ver Ley 1618 de 2013
-
-> [!note] Ver Ley 1679 de 2013
-
-> [!note] Ver Ley 1680 de 2013
-
-> [!note] Ver Ley 1946 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-176-93; C-312-93; C-337-93 ; C-221-94; C-410-2001; C-559-2001; C-1174-2001; C-297-2002; C-065-03; C-401-03; C-478-03; C-227-04 ; C-765-12; C-741-15
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 30, 55, 63 y 85)
 
 ---
 ← [[art. 46 CPol]] · ↑ [[CPol - Título II - Capítulo 2|Capítulo 2]] · [[art. 48 CPol]] →

@@ -14,8 +14,13 @@ capitulo: "[[CST - Título IV - Capítulo I|CAPÍTULO I - REGLAMENTO]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 107 CST]]"
 siguiente: "[[art. 109 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#108"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2021
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -52,9 +57,13 @@ El reglamento debe contener disposiciones normativas de los siguientes puntos:
 
 12\. Orden jerárquico de los representantes del {empleador}, jefes de sección, capataces y vigilantes.
 
-13\. ~~Especificaciones de las labores que no deben ejecutar las mujeres y los menores de dieciséis (16) años*.~~
+13\. Especificaciones de las labores que no deben ejecutar ~~las mujeres y~~ los menores de dieciséis (16) años*.
 
-> [!warning] Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-038-21
+> [!warning] Aparte tachado INEXEQUIBLE
+
+> [!note] Notas del Editor: Entiéndase la edad de los menores, la edad de 18 años a partir de la de la expedición de la Ley 73 de 1966, artículo [[art. 9 Ley 73 de 1966|9]].
+
+> [!warning] Jurisprudencia Vigencia: Corte Constitucional - Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-038-21 de 24 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 
 14\. Normas especiales que se deben guardar en las diversas clases de labores, de acuerdo con la edad y el sexo de los trabajadores, con miras a conseguir la mayor higiene, regularidad y seguridad en el trabajo.
 
@@ -67,6 +76,8 @@ El reglamento debe contener disposiciones normativas de los siguientes puntos:
 18\. Prestaciones adicionales a las legalmente obligatorias, si existieren.
 
 19\. Publicación y vigencia del reglamento.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 109 CST|109]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 107 CST]] · ↑ [[CST - Título IV - Capítulo I|Capítulo I]] · [[art. 109 CST]] →

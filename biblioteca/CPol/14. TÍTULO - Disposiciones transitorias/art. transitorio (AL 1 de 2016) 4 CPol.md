@@ -18,10 +18,15 @@ modificado_por:
   - "[[art. 1 Acto Legislativo 1 de 2017]]"
 derogado_por:
   - "[[art. 2 Acto Legislativo 2 de 2017]]"
-anterior: "[[art. transitorio (AL 1 de 2016) 3 CPol]]"
-siguiente: "[[art. transitorio 1 (AL 1 de 2017) CPol]]"
+anterior: "[[art. transitorio 1 CPol]]"
+siguiente: "[[art. transitorio 2 CPol]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "solo en DAFP"
+reforma_mas_reciente: 2017
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -61,4 +66,4 @@ tags:
 ~~SISTEMA INTEGRAL DE VERDAD, JUSTICIA, REPARACIÓN Y NO REPETICIÓN.~~
 
 ---
-← [[art. transitorio (AL 1 de 2016) 3 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 1 (AL 1 de 2017) CPol]] →
+← [[art. transitorio 1 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 2 CPol]] →

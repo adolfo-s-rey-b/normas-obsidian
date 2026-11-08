@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|SECCIÓN 
 vigencia: "vigente"
 anterior: "[[art. 1097 CCo]]"
 siguiente: "[[art. 1099 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1098"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,7 +34,7 @@ tags:
 
 A petición del asegurador, el asegurado deberá hacer todo lo que esté a su alcance para permitirle el ejercicio de los derechos derivados de la subrogación.
 
-El incumplimiento de esta obligación se sancionará en los términos del Artículo [[art. 1078 CCo|1078]].
+El incumplimiento de esta obligación se sancionará en los términos del Artículo [[art. 1078 CCo|1078]] .
 
 ---
 ← [[art. 1097 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|Sección I]] · [[art. 1099 CCo]] →

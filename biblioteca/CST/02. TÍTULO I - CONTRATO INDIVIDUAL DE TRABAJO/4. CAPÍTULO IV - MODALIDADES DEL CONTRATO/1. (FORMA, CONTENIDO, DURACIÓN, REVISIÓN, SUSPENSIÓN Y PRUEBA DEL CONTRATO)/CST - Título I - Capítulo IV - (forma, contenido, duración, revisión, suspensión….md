@@ -31,8 +31,8 @@ tags:
 - [[art. 43 CST|Artículo 43]] — CLAUSULAS INEFICACES
 - [[art. 44 CST|Artículo 44]] — CLAUSULA DE NO CONCURRENCIA
 - [[art. 45 CST|Artículo 45]] — DURACION
-- [[art. 46 CST|Artículo 46]] — CONTRATO A TERMINO FIJO
-- [[art. 47 CST|Artículo 47]] — DURACIÓN INDEFINIDA
+- [[art. 46 CST|Artículo 46]] — CONTRATOS A TÉRMINO FIJO Y DE OBRA O LABOR DETERMINADA
+- [[art. 47 CST|Artículo 47]] — EL CONTRATO LABORAL A TÉRMINO INDEFINIDO
 - [[art. 48 CST|Artículo 48]] — CLAUSULA DE RESERVA
 - [[art. 49 CST|Artículo 49]] — PRORROGA
 - [[art. 50 CST|Artículo 50]] — REVISION

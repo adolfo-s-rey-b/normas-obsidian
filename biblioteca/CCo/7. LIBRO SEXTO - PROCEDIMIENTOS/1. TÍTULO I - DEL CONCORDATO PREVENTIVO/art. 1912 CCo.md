@@ -11,32 +11,39 @@ articulo: "1912"
 epigrafe: "TRÁMITE PARA LA SOLICITUD DE UN CONCORDATO PREVENTIVO - ANEXOS A LA SOLICITUD"
 libro: "[[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]]"
 titulo: "[[CCo - Libro Sexto - Título I|TÍTULO I - DEL CONCORDATO PREVENTIVO]]"
-vigencia: "vigente"
+vigencia: "derogado"
+derogado_por:
+  - "[[art. 61 Decreto 350 de 1989]]"
+  - "[[art. 242 Ley 222 de 1995]]"
 anterior: "[[art. 1911 CCo]]"
 siguiente: "[[art. 1913 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1912"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Sexto|Libro Sexto]] › [[CCo - Libro Sexto - Título I|Título I]]
 
 ## Artículo 1912. TRÁMITE PARA LA SOLICITUD DE UN CONCORDATO PREVENTIVO - ANEXOS A LA SOLICITUD
 
-Derogado por el art. [[art. 61 Decreto 350 de 1989|61]], Decreto extraordinario 350 de 1989 La solicitud deberá presentarse directamente por el deudor o por medio de apoderado ante el juez competente para conocer del juicio de quiebra del deudor, antes de la cesación en los pagos o dentro de los quince días siguientes a la fecha del sobreseimiento en los mismos.
+> [!warning] Artículo derogado por el artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto extraordinario 350 de 1989
 
-Con la solicitud se presentará:
+> [!warning] Notas de Vigencia: Este Título fue derogado expresamente por el artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto extraordinario 350 de 1989, que trataba del concordato preventivo potestativo y del concordato preventivo obligatorio. El artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto estableció que su vigencia comenzaba el 1o. de mayo de 1989. - El Decreto extraordinario 350 de 1989 fue derogado expresamente por el artículo [[art. 242 Ley 222 de 1995|242]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995. - El Título II 'RÉGIMEN DE PROCESOS CONCURSALES' de la Ley 222 de 1995, 'Por la cual se modifica el Libro II del Código de Comercio, se expide un nuevo régimen de procesos concursales y se dictan otras disposiciones', publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, establece y desarrolla las modalidades del trámite concursal: un concordato o acuerdo de recuperación de los negocios del deudor, o un concurso liquidatorio respecto de los bienes que conforman el patrimonio del deudor.
 
-1\. Un certificado de la cámara de comercio del lugar de su domicilio, en el cual deberá constar que el solicitante se halla legalmente inscrito en el registro mercantil;
+A RTÍCULO 1913. . .
 
-2\. Un balance general de su patrimonio, certificado por un contador legalmente habilitado para ello y acompañado de un inventario detallado de sus bienes y obligaciones, con indicación del nombre y domicilio de sus acreedores y de la clase de sus créditos, elaborado con no menos de un mes de anterioridad a la fecha de la presentación de la solicitud, y
+(ACEPTACIÓN DE LA SOLICTUD DE CONCORDATO - PROCEDIMIENTO)
 
-3\. Una relación de todos los procesos en curso contra el deudor o promovidos por él.
+> [!warning] Artículo derogado por el artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto extraordinario 350 de 1989
 
-Al presentar la solicitud, el deudor protestará bajo juramento que reúne las condicione segunda, tercera, cuarta y quinta indicadas en el Artículo [[art. 1910 CCo|1910]].
+> [!warning] Notas de Vigencia: Este Título fue derogado expresamente por el artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto extraordinario 350 de 1989, que trataba del concordato preventivo potestativo y del concordato preventivo obligatorio. El artículo [[art. 61 Decreto 350 de 1989|61]] del Decreto estableció que su vigencia comenzaba el 1o. de mayo de 1989. - El Decreto extraordinario 350 de 1989 fue derogado expresamente por el artículo [[art. 242 Ley 222 de 1995|242]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995. - El Título II 'RÉGIMEN DE PROCESOS CONCURSALES' de la Ley 222 de 1995, 'Por la cual se modifica el Libro II del Código de Comercio, se expide un nuevo régimen de procesos concursales y se dictan otras disposiciones', publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, establece y desarrolla las modalidades del trámite concursal: un concordato o acuerdo de recuperación de los negocios del deudor, o un concurso liquidatorio respecto de los bienes que conforman el patrimonio del deudor.
 
 ---
 ← [[art. 1911 CCo]] · ↑ [[CCo - Libro Sexto - Título I|Título I]] · [[art. 1913 CCo]] →

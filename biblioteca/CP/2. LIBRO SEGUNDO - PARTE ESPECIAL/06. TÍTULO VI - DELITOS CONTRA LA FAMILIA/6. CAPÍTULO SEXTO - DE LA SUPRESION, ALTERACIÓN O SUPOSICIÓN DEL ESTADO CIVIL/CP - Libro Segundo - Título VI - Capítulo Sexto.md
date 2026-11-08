@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 238 CP|Artículo 238]] — Supresion, alteración o suposición del estado civil
+- [[art. 238 CP|Artículo 238]] — SUPRESIÓN, ALTERACIÓN O SUPOSICIÓN DEL ESTADO CIVIL
 
 ---
 ← [[CP - Libro Segundo - Título VI - Capítulo Quinto|Capítulo Quinto]] · ↑ [[CP - Libro Segundo - Título VI|Título VI]]

@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 14 CP|Artículo 14]] — Territorialidad
+- [[art. 14 CP|Artículo 14]] — TERRITORIALIDAD
 - [[art. 15 CP|Artículo 15]] — Territorialidad por extension
-- [[art. 16 CP|Artículo 16]] — Extraterritorialidad
-- [[art. 17 CP|Artículo 17]] — Sentencia extranjera
+- [[art. 16 CP|Artículo 16]] — EXTRATERRITORIALIDAD
+- [[art. 17 CP|Artículo 17]] — SENTENCIA EXTRANJERA
 - [[art. 18 CP|Artículo 18]] — Extradicion
 
 ---

@@ -1,0 +1,37 @@
+---
+aliases:
+  - "Ley 1563 de 2012 CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES"
+tipo: indice
+norma: "Ley 1563 de 2012"
+nivel: "CAPÍTULO"
+etiqueta: "V"
+nombre: "MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES"
+seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
+articulos: "arts. 80 a 90"
+tags:
+  - normas/indice
+  - normas/ley_1563_de_2012
+---
+
+[[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]]
+
+## CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES
+
+*Arts. 80 a 90*
+
+### Contenido
+
+- [[art. 80 Ley 1563 de 2012|Artículo 80]] — FACULTAD DEL TRIBUNAL ARBITRAL PARA DECRETAR MEDIDAS CAUTELARES
+- [[art. 81 Ley 1563 de 2012|Artículo 81]] — CONDICIONES PARA EL DECRETO DE MEDIDAS CAUTELARES
+- [[art. 82 Ley 1563 de 2012|Artículo 82]] — PETICIÓN DE UNA ORDEN PRELIMINAR Y CONDICIONES PARA SU DECRETO
+- [[art. 83 Ley 1563 de 2012|Artículo 83]] — RÉGIMEN ESPECÍFICO DE LAS ÓRDENES PRELIMINARES
+- [[art. 84 Ley 1563 de 2012|Artículo 84]] — MODIFICACIÓN, SUSPENSIÓN Y REVOCACIÓN DE MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES
+- [[art. 85 Ley 1563 de 2012|Artículo 85]] — EXIGENCIA DE CAUCIÓN POR EL TRIBUNAL ARBITRAL
+- [[art. 86 Ley 1563 de 2012|Artículo 86]] — DEBER DE INFORMACIÓN
+- [[art. 87 Ley 1563 de 2012|Artículo 87]] — COSTAS Y DAÑOS Y PERJUICIOS
+- [[art. 88 Ley 1563 de 2012|Artículo 88]] — EJECUCIÓN DE MEDIDAS CAUTELARES
+- [[art. 89 Ley 1563 de 2012|Artículo 89]] — MOTIVOS PARA DENEGAR LA EJECUCIÓN DE MEDIDAS CAUTELARES DECRETADAS POR EL TRIBUNAL ARBITRAL
+- [[art. 90 Ley 1563 de 2012|Artículo 90]] — MEDIDAS CAUTELARES DECRETADAS POR LA AUTORIDAD JUDICIAL
+
+---
+← [[Ley 1563 de 2012 - Sección Tercera - Capítulo IV|Capítulo IV]] · ↑ [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]] →

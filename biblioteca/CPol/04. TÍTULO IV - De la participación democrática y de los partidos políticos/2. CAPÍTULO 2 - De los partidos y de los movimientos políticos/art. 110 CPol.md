@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título IV - Capítulo 2|CAPÍTULO 2 - De los partidos y de 
 vigencia: "vigente"
 anterior: "[[art. 109 CPol]]"
 siguiente: "[[art. 111 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#110"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,11 +33,13 @@ tags:
 
 ## Artículo 110
 
-Se prohíbe a quienes desempeñan funciones públicas hacer contribución alguna a los partidos, movimientos o candidatos, o inducir a otros a que lo hagan, salvo las excepciones que establezca la ley. El incumplimiento de cualquierá de estas prohibiciones será causal de remoción del cargo o de perdida de la investidura.
+Se prohíbe a quienes desempeñan funciones públicas hacer contribución alguna a los partidos, movimientos o candidatos, o inducir a otros a que lo hagan, salvo las excepciones que establezca la ley. El incumplimiento de cualquiera de estas prohibiciones será causal de remoción del cargo o de pérdida de la investidura.
 
-> [!note] Ver Ley 1475 de 2011
+> [!note] Concordancias: Ley 1475 de 2011
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-020-93; C-454-93 ; C-488-93; C-089-94
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-020-93 ; C-454-93 ; C-488-93 ; C-089-94 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 88)
 
 ---
 ← [[art. 109 CPol]] · ↑ [[CPol - Título IV - Capítulo 2|Capítulo 2]] · [[art. 111 CPol]] →

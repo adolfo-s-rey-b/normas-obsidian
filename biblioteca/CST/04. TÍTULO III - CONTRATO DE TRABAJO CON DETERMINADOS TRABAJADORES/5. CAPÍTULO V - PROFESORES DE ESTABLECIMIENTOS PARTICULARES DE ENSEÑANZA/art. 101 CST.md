@@ -14,8 +14,13 @@ capitulo: "[[CST - Título III - Capítulo V|CAPÍTULO V - PROFESORES DE ESTABLE
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 100 CST]]"
 siguiente: "[[art. 102 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#101"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -26,9 +31,13 @@ tags:
 
 ## Artículo 101. DURACION DEL CONTRATO DE TRABAJO
 
-~~El contrato de trabajo con los profesores de establecimientos particulares de enseñanza se entiende celebrado por el año escolar, salvo estipulación por tiempo menor.~~
+> [!warning] Aparte tachado INEXEQUIBLE
 
-> [!warning] Declarado EXEQUIBLE salvo el aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-483-95
+El contrato de trabajo con los profesores de establecimientos particulares de enseñanza se entiende celebrado por el año escolar, salvo estipulación ~~por tiempo menor~~.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 102 CST|102]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
+
+> [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Artículo declarado EXEQUIBLE salvo el aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-483-95 del 30 de octubre de 1995. Magistrado Ponente Dr. José Gregorio Hernández Galindo.
 
 ---
 ← [[art. 100 CST]] · ↑ [[CST - Título III - Capítulo V|Capítulo V]] · [[art. 102 CST]] →

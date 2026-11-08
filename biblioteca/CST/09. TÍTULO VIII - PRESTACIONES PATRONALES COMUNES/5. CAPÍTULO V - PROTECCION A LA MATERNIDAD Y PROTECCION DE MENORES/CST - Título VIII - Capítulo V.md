@@ -8,7 +8,7 @@ nivel: "CAPÍTULO"
 etiqueta: "V"
 nombre: "PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES"
 titulo: "[[CST - Título VIII|TÍTULO VIII - PRESTACIONES PATRONALES COMUNES]]"
-articulos: "arts. 235A a 246"
+articulos: "arts. 236 a 246"
 tags:
   - normas/indice
   - normas/cst
@@ -18,11 +18,12 @@ tags:
 
 ## CAPÍTULO V - PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES
 
-*Arts. 235A a 246*
+*Arts. 236 a 246*
+
+> [!info] Notas de Vigencia: Artículo adicionado, 'al capítulo V del Título VIII Parte Primera del Código Sustantivo del Trabajo' por el artículo [[art. 33 Ley 50 de 1990|33]] de la Ley 50 de 1990, publicada en el Diario Oficial No 39.618 del 1o. de enero de 1991.
 
 ### Contenido
 
-- [[art. 235A CST|Artículo 235A]] — PROTECCION A LA MATERNIDAD
 - [[art. 236 CST|Artículo 236]] — LICENCIA EN LA ÉPOCA DEL PARTO E INCENTIVOS PARA LA ADECUADA ATENCIÓN Y CUIDADO DEL RECIÉN NACIDO
 - [[art. 237 CST|Artículo 237]] — DESCANSO REMUNERADO EN CASO DE ABORTO
 - [[art. 238 CST|Artículo 238]] — DESCANSO REMUNERADO DURANTE LA LACTANCIA

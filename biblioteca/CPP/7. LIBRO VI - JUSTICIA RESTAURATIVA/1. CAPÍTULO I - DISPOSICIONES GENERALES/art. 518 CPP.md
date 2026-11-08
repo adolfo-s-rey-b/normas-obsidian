@@ -14,8 +14,12 @@ capitulo: "[[CPP - Libro VI - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]
 vigencia: "vigente"
 anterior: "[[art. 517 CPP]]"
 siguiente: "[[art. 519 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#518"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp

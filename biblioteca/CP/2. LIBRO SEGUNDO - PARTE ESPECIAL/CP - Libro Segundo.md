@@ -34,7 +34,7 @@ tags:
 - [[CP - Libro Segundo - Título IX|TÍTULO IX - DELITOS CONTRA LA FE PUBLICA]] (arts. 273 a 296)
 - [[CP - Libro Segundo - Título X|TÍTULO X - DELITOS CONTRA EL ORDEN ECONOMICO SOCIAL]] (arts. 297 a 327E)
 - [[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]] (arts. 328 a 339)
-- [[CP - Libro Segundo - Título XI (2)|TÍTULO XI - A]] (arts. 339A a 339C)
+- [[CP - Libro Segundo - Título XI (2)|TÍTULO XI - A]] (arts. 339A a 339E)
 - [[CP - Libro Segundo - Título XII|TÍTULO XII - DELITOS CONTRA LA SEGURIDAD PUBLICA]] (arts. 340 a 367C)
 - [[CP - Libro Segundo - Título XIII|TÍTULO XIII - DE LOS DELITOS CONTRA LA SALUD PUBLICA]] (arts. 368 a 385)
 - [[CP - Libro Segundo - Título XIV|TÍTULO XIV - DELITOS CONTRA MECANISMOS DE PARTICIPACIÓN DEMOCRÁTICA]] (arts. 386 a 396C)

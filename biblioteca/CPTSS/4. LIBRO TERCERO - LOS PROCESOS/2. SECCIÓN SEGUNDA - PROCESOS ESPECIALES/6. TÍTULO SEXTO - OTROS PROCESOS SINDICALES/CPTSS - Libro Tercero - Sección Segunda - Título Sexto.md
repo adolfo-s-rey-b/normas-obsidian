@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo I|CAPÍTULO I - Cancelación de personerías, disolución y liquidación de sindicatos]] (art. 313)
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo II|CAPÍTULO II - Protección de derechos sindicales]] (art. 314)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo I|CAPÍTULO I - CANCELACIÓN DE PERSONERÍAS, DISOLUCIÓN Y LIQUIDACIÓN DE SINDICATOS]] (art. 313)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo II|CAPÍTULO II - PROTECCIÓN DE DERECHOS SINDICALES]] (art. 314)
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]]

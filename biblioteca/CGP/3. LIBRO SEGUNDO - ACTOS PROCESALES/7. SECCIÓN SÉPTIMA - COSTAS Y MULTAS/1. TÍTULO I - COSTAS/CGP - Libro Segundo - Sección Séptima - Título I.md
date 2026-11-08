@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo I|CAPÍTULO I - Composición]] (art. 361)
-- [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|CAPÍTULO II - Expensas]] (arts. 362 a 364)
-- [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo III|CAPÍTULO III - Condena, liquidación y cobro]] (arts. 365 a 366)
+- [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo I|CAPÍTULO I - COMPOSICIÓN]] (art. 361)
+- [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|CAPÍTULO II - EXPENSAS]] (arts. 362 a 364)
+- [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo III|CAPÍTULO III - CONDENA, LIQUIDACIÓN Y COBRO]] (arts. 365 a 366)
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] · [[CGP - Libro Segundo - Sección Séptima - Título II|Título II]] →

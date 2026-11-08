@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 122 CP|Artículo 122]] — Aborto
-- [[art. 123 CP|Artículo 123]] — Aborto sin consentimiento
+- [[art. 122 CP|Artículo 122]] — ABORTO
+- [[art. 123 CP|Artículo 123]] — ABORTO SIN CONSENTIMIENTO
 - [[art. 124 CP|Artículo 124]] — INEXEQUIBLE
 
 ---

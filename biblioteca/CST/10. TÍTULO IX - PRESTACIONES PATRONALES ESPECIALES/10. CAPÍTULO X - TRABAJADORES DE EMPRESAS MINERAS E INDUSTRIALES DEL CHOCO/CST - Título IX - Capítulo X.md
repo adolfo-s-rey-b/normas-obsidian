@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 327 CST|Artículo 327]] — ASISTENCIA MÉDICA
+- [[art. 327 CST|Artículo 327]] — ASISTENCIA MEDICA
 - [[art. 328 CST|Artículo 328]] — INCAPACIDAD
 
 ---

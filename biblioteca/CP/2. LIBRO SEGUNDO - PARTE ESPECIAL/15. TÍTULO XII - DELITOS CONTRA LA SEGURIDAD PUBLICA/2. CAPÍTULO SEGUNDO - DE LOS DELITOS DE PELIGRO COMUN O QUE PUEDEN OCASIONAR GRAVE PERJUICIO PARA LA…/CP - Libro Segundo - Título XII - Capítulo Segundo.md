@@ -23,28 +23,28 @@ tags:
 
 ### Contenido
 
-- [[art. 350 CP|Artículo 350]] — Incendio
-- [[art. 351 CP|Artículo 351]] — Daño en obras de utilidad social
-- [[art. 352 CP|Artículo 352]] — Provocación de inundación o derrumbe
-- [[art. 353 CP|Artículo 353]] — Perturbación en servicio de transporte colectivo u oficial
-- [[art. 353A CP|Artículo 353A]]
-- [[art. 353B CP|Artículo 353B]] — Circunstancias de agravación punitiva
-- [[art. 354 CP|Artículo 354]] — Siniestro o daño de nave
+- [[art. 350 CP|Artículo 350]] — INCENDIO
+- [[art. 351 CP|Artículo 351]] — DAÑO EN OBRAS DE UTILIDAD SOCIAL
+- [[art. 352 CP|Artículo 352]] — PROVOCACIÓN DE INUNDACIÓN O DERRUMBE
+- [[art. 353 CP|Artículo 353]] — PERTURBACIÓN EN SERVICIO DE TRANSPORTE PÚBLICO, COLECTIVO U OFICIAL
+- [[art. 353A CP|Artículo 353A]] — OBSTRUCCIÓN A VÍAS PÚBLICAS QUE AFECTEN EL ORDEN PÚBLICO
+- [[art. 353B CP|Artículo 353B]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+- [[art. 354 CP|Artículo 354]] — SINIESTRO O DAÑO DE NAVE
 - [[art. 355 CP|Artículo 355]] — Panico
-- [[art. 356 CP|Artículo 356]] — Disparo de arma de fuego contra vehiculo
+- [[art. 356 CP|Artículo 356]] — DISPARO DE ARMA DE FUEGO CONTRA VEHÍCULO
 - [[art. 356A CP|Artículo 356A]]
-- [[art. 357 CP|Artículo 357]] — Daño en obras o elementos de los servicios de comunicaciones, energia y combustibles
-- [[art. 358 CP|Artículo 358]] — Tenencia, fabricación y trafico de sustancias u objetos peligrosos
-- [[art. 359 CP|Artículo 359]] — Empleo o lanzamiento de sustancias u objetos peligrosos
+- [[art. 357 CP|Artículo 357]] — DAÑO EN OBRAS O ELEMENTOS DE LOS SERVICIOS DE COMUNICACIONES, ENERGIA Y COMBUSTIBLES
+- [[art. 358 CP|Artículo 358]] — TENENCIA, FABRICACIÓN Y TRÁFICO DE SUSTANCIAS U OBJETOS PELIGROSOS
+- [[art. 359 CP|Artículo 359]] — EMPLEO O LANZAMIENTO DE SUSTANCIAS U OBJETOS PELIGROSOS
 - [[art. 360 CP|Artículo 360]] — Modalidad culposa
-- [[art. 361 CP|Artículo 361]] — Introducción de residuos nucleares y de desechos toxicos
-- [[art. 362 CP|Artículo 362]]
-- [[art. 363 CP|Artículo 363]] — Trafico, transporte y posesión de materiales radiactivos o sustancias nucleares
-- [[art. 364 CP|Artículo 364]] — Obstrucción de obras de defensa o de asistencia
-- [[art. 365 CP|Artículo 365]] — Fabricacion, trafico y porte de armas de fuego o municiones
+- [[art. 361 CP|Artículo 361]] — INTRODUCCIÓN DE RESIDUOS NUCLEARES Y DE DESECHOS TOXICOS
+- [[art. 362 CP|Artículo 362]] — PERTURBACIÓN DE INSTALACIÓN NUCLEAR O RADIACTIVA
+- [[art. 363 CP|Artículo 363]] — TRAFICO, TRANSPORTE Y POSESIÓN DE MATERIALES RADIACTIVOS O SUSTANCIAS NUCLEARES
+- [[art. 364 CP|Artículo 364]] — OBSTRUCCIÓN DE OBRAS DE DEFENSA O DE ASISTENCIA
+- [[art. 365 CP|Artículo 365]] — FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS DE FUEGO O MUNICIONES
 - [[art. 366 CP|Artículo 366]] — Fabricacion, trafico y porte de armas y municiones de uso privativo de las fuerzas armadas
-- [[art. 367 CP|Artículo 367]] — Fabricacion, importacion, trafico, posesión y uso de armas quimicas, biologicas y nucleares
-- [[art. 367A CP|Artículo 367A]] — Empleo, producción, comercialización y almacenamiento de minas antipersonal
+- [[art. 367 CP|Artículo 367]] — FABRICACIÓN, IMPORTACIÓN, TRAFICO, POSESIÓN Y USO DE ARMAS QUIMICAS, BIOLOGICAS Y NUCLEARES
+- [[art. 367A CP|Artículo 367A]] — EMPLEO, PRODUCCIÓN, COMERCIALIZACIÓN Y ALMACENAMIENTO DE MINAS ANTIPERSONAL
 - [[art. 367B CP|Artículo 367B]] — Ayuda e inducción al empleo, producción y transferencia de minas antipersonal
 - [[art. 367C CP|Artículo 367C]] — Porte de arma blanca
 

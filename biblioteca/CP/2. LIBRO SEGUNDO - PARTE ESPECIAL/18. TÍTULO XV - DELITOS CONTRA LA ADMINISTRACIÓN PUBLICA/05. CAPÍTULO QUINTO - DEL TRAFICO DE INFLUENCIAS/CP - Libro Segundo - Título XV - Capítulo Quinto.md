@@ -24,7 +24,7 @@ tags:
 ### Contenido
 
 - [[art. 411 CP|Artículo 411]] — Trafico de influencias de servidor público
-- [[art. 411A CP|Artículo 411A]]
+- [[art. 411A CP|Artículo 411A]] — TRÁFICO DE INFLUENCIAS DE PARTICULAR
 
 ---
 ← [[CP - Libro Segundo - Título XV - Capítulo Cuarto|Capítulo Cuarto]] · ↑ [[CP - Libro Segundo - Título XV|Título XV]] · [[CP - Libro Segundo - Título XV - Capítulo Sexto|Capítulo Sexto]] →

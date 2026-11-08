@@ -11,15 +11,23 @@ articulo: "69"
 epigrafe: "RESPONSABILIDAD DE LOS {EMPLEADORES}"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo VII|CAPÍTULO VII - SUSTITUCION DE EMPLEADORES]]"
-vigencia: "vigente"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 70 CST]]"
+  - "[[art. 47 Decreto 3743 de 1950]]"
+  - "[[art. 46 Decreto 3743 de 1950]]"
 anterior: "[[art. 68 CST]]"
 siguiente: "[[art. 70 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#69"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo VII|Capítulo VII]]
@@ -36,7 +44,9 @@ tags:
 
 5\. Si no se celebrare el acuerdo antedicho, el antiguo {empleador} debe entregar al nuevo el valor total de las cesantías en la cuantía en que esta obligación fuere exigible suponiendo que los respectivos contratos hubieren de extinguirse por retiro voluntario en la fecha de sustitución, y de aquí en adelante queda a cargo exclusivo del nuevo {empleador} el pago de las cesantías que se vayan causando, aun cuando el antiguo {empleador} no cumpla con la obligación que se le impone en este inciso.
 
-6\. El nuevo {empleador} puede acordar con todos o cada uno de los trabajadores el pago definitivo de sus cesantías, por todo tiempo servido hasta el momento de la sustitución, en la misma forma y con los mismos efectos de que trata el inciso 4 del presente artículo.
+6\. El nuevo {empleador} puede acordar con todos o cada uno de los trabajadores el pago definitivo de sus cesantías, por todo tiempo servido hasta el momento de la sustitución, en la misma forma y con los mismos efectos de que trata el inciso 4o. del presente artículo.
+
+> [!info] Notas de Vigencia: Este artículo corresponde al artículo [[art. 70 CST|70]] del Decreto 2663 de 1950, modificado artículo [[art. 47 Decreto 3743 de 1950|47]] del Decreto 3743 de 1950. Su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 68 CST]] · ↑ [[CST - Título I - Capítulo VII|Capítulo VII]] · [[art. 70 CST]] →

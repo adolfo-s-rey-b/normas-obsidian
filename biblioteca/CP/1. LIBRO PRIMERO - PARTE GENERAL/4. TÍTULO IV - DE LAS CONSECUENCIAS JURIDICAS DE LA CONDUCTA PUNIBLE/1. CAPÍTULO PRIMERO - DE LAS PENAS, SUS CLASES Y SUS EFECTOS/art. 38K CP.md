@@ -22,7 +22,11 @@ modificado_por:
 anterior: "[[art. 38J CP]]"
 siguiente: "[[art. 38L CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#38K"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "solo en DAFP"
+reforma_mas_reciente: 2023
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

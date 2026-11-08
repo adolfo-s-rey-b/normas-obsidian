@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2528 CC]]"
 siguiente: "[[art. 2530 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2002
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 2529. TIEMPO PARA LA PRESCRIPCIÓN ORDINARIA
 
-<Inciso modificado por el artículo [[art. 4 Ley 791 de 2002|4]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> El tiempo necesario a la prescripción ordinaria es de tres (3) años para los muebles y de cinco (5) años para bienes raíces.
+El tiempo necesario a la prescripción ordinaria es de tres (3) años para los muebles y de cinco (5) años para bienes raíces.
+
+> [!info] Inciso modificado por el artículo [[art. 4 Ley 791 de 2002|4]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Inciso 1o. modificado por el artículo [[art. 4 Ley 791 de 2002|4]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002.
 

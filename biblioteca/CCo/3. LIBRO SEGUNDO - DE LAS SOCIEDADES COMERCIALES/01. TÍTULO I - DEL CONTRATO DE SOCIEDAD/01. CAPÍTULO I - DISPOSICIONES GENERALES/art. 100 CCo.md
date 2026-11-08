@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 1 Ley 222 de 1995]]"
 anterior: "[[art. 99 CCo]]"
 siguiente: "[[art. 101 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#100"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1996
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,19 +34,15 @@ tags:
 
 ## Artículo 100. ASIMILACIÓN A SOCIEDADES COMERCIALES - LEGISLACIÓN MERCANTIL
 
-> [!info] Modificado por el art. [[art. 1 Ley 222 de 1995|1]], Ley 222 de 1995
+Se tendrán como comerciales, para todos los efectos legales las sociedades que se formen para la ejecución de actos o empresas mercantiles. Si la empresa social comprende actos mercantiles y actos que no tengan esa calidad, la sociedad será comercial. Las sociedades que no contemplen en su objeto social actos mercantiles, serán civiles.
 
-El nuevo texto es el siguiente Se tendrán como comerciales, para todos los efectos legales las sociedades que se formen para la ejecución de actos o empresas mercantiles. Si la empresa social comprende actos mercantiles y actos que no tengan esa calidad, la sociedad será comercial. Las sociedades que no contemplen en su objeto social actos mercantiles, serán civiles.
+> [!info] Artículo subrogado por el artículo 1o. de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
 Sin embargo, cualquiera que sea su objeto, las sociedades comerciales y civiles estarán sujetas, para todos los efectos, a la legislación mercantil.
 
-Texto original:
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 1 Ley 222 de 1995|1]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156, del 20 de diciembre de 1995.
 
-Se tendrán como comerciales, para todos los efectos legales, las sociedades que se formen para la ejecución de actos o empresas mercantiles. Si la empresa social comprende actos mercantiles y actos que no tengan esa calidad, la sociedad será comercial.
-
-Las sociedades por acciones y las de responsabilidad limitada se regirán por las normas de las compañías comerciales, cualquiera que sea su objeto.
-
-**PARÁGRAFO.** Las asociaciones con fines culturales, recreativos, deportivos, de beneficencia u otros análogos, no son comerciales.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - Mediante Sentencia C-485-96 del 26 de septiembre de 1996, Magistrado Ponente Dr. Hernando Herrera Vergara, la Corte Constitucional, dispuso estarse a lo resuelto en Sentencia C-435-96 del 12 de septiembre de 1996, que declaró EXEQUIBLE el aparte subrayado. - Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional, mediante Sentencia C-435-96 del 12 de septiembre de 1996, Magistrados Ponentes Dres. José Gregorio Hernández Galindo y Eduardo Cifuemtes Muñóz.
 
 ---
 ← [[art. 99 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo I|Capítulo I]] · [[art. 101 CCo]] →

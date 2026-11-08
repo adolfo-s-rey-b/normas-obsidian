@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 4|CAPÍTULO 4 - De los ministros y d
 vigencia: "vigente"
 anterior: "[[art. 205 CPol]]"
 siguiente: "[[art. 207 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#206"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,7 +35,7 @@ tags:
 
 El número, denominación y orden de precedencia de los ministerios y departamentos administrativos serán determinados por la ley.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-089A-94; C-212-94; C-808-2001
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-089A-94 ; C-212-94 ; C-808-2001 ;
 
 ---
 ← [[art. 205 CPol]] · ↑ [[CPol - Título VII - Capítulo 4|Capítulo 4]] · [[art. 207 CPol]] →

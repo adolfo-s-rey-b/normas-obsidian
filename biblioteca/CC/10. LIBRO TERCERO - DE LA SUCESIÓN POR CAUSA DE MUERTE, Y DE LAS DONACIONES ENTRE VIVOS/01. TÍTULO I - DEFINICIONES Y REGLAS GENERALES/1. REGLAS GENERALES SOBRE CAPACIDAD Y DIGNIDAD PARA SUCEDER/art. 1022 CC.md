@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 1021 CC]]"
 siguiente: "[[art. 1023 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2025
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,9 +33,9 @@ tags:
 
 > [!info] Artículo subrogado por el artículo [[art. 84 Ley 153 de 1887|84]] de la Ley 153 de 1887. El nuevo texto es el siguiente:
 
-> [!note] Aparte subrayado CONDICIONALMENTE exequible
-
 Por testamento otorgado en la última enfermedad no puede recibir herencia o legado alguno, ni aún como albacea fiduciaria, el eclesiástico que hubiere confesado al testador en la misma enfermedad, o habitualmente en los dos últimos años anteriores al testamento; ni la orden, convento o cofradía de que sea miembro el eclesiástico, ni sus deudos por consanguinidad o afinidad dentro del tercer grado .
+
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado 'ni sus deudos por consanguinidad o afinidad dentro del tercer grado' declarado CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-052-25 de 12 de febrero de 2025, Magistrado Ponente Dr. Juan Carlos Cortés González, ' bajo el entendido que la misma comprende a los parientes civiles dentro del tercer grado'. - Inciso 1o declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-266-94 de junio 2 de 1994. Magistrado Ponente Dr. José Gregorio Hernández Galindo.
 

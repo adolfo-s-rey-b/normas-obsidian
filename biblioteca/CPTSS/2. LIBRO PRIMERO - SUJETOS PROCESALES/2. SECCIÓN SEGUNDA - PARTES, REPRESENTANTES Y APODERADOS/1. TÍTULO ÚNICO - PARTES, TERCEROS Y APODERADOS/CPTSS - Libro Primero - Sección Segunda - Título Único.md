@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|CAPÍTULO I - Representación judicial]] (arts. 38 a 43)
-- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|CAPÍTULO II - Litisconsortes y otras partes]] (arts. 44 a 51)
-- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo III|CAPÍTULO III - Terceros]] (arts. 52 a 53)
-- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo IV|CAPÍTULO IV - Apoderados]] (arts. 54 a 56)
-- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo V|CAPÍTULO V - Deberes y responsabilidades de las partes y sus apoderados]] (arts. 57 a 60)
+- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|CAPÍTULO I - REPRESENTACIÓN JUDICIAL]] (arts. 38 a 43)
+- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|CAPÍTULO II - LITISCONSORTES Y OTRAS PARTES]] (arts. 44 a 51)
+- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo III|CAPÍTULO III - TERCEROS]] (arts. 52 a 53)
+- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo IV|CAPÍTULO IV - APODERADOS]] (arts. 54 a 56)
+- [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo V|CAPÍTULO V - DEBERES Y RESPONSABILIDADES DE LAS PARTES Y SUS APODERADOS]] (arts. 57 a 60)
 
 ---
 ↑ [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]]

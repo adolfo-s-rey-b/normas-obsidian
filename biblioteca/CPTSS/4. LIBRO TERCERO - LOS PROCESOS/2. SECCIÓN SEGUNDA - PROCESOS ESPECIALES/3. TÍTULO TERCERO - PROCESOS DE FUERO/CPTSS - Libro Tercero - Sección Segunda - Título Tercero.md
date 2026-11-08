@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|CAPÍTULO I - Fuero Sindical]] (arts. 292 a 299)
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo II|CAPÍTULO II - Otros Fueros]] (art. 300)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|CAPÍTULO I - FUERO SINDICAL]] (arts. 292 a 299)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo II|CAPÍTULO II - OTROS FUEROS]] (art. 300)
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|Título Segundo]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Cuarto|Título Cuarto]] →

@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 435 CP|Artículo 435]] — Falsa denuncia
-- [[art. 436 CP|Artículo 436]] — Falsa denuncia contra persona determinada
-- [[art. 437 CP|Artículo 437]] — Falsa autoacusacion
+- [[art. 435 CP|Artículo 435]] — FALSA DENUNCIA
+- [[art. 436 CP|Artículo 436]] — FALSA DENUNCIA CONTRA PERSONA DETERMINADA
+- [[art. 437 CP|Artículo 437]] — FALSA AUTOACUSACIÓN
 - [[art. 438 CP|Artículo 438]] — Circunstancias de agravacion
 - [[art. 439 CP|Artículo 439]] — Reducción cualitativa de pena en caso de contravencion
 - [[art. 440 CP|Artículo 440]] — Circunstancia de atenuacion

@@ -15,7 +15,11 @@ vigencia: "vigente"
 anterior: "[[art. 1912 CCo]]"
 siguiente: "[[art. 1914 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1913"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "solo en DAFP"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

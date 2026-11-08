@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "162"
-epigrafe: "Legislación permanente"
+epigrafe: "LEGISLACION PERMANENTE"
 parte: "[[Ley 446 de 1998 - Parte VI|PARTE VI - VIGENCIA, DEROGATORIAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 161 Ley 446 de 1998]]"
 siguiente: "[[art. 163 Ley 446 de 1998]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992#162"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0446_1998.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
@@ -19,9 +23,9 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte VI|Parte VI]]
 
-## Artículo 162. Legislación permanente
+## Artículo 162. LEGISLACION PERMANENTE
 
-Adóptase como legislación permanente los artículos [[art. 9 Decreto 2651 de 1991|9]]o., 12 a 15, 19, 20, 21 salvo sus numerales 4 y 5, 23, 24, 33 a 37, 41, 46 a 48, 50, 51, 56 y 58 del Decreto 2651 de 1991. Ver la Sentencia de la Corte Constitucional C-1038 de 2002
+Adóptase como legislación permanente los artículos [[art. 9 Decreto 2651 de 1991|9]]o., 12 a 15, 19, 20, 21 salvo sus numerales 4 y 5, 23, 24, 33 a 37, 41, 46 a 48, 50, 51, 56 y 58 del Decreto 2651 de 1991.
 
 ---
 ← [[art. 161 Ley 446 de 1998]] · ↑ [[Ley 446 de 1998 - Parte VI|Parte VI]] · [[art. 163 Ley 446 de 1998]] →

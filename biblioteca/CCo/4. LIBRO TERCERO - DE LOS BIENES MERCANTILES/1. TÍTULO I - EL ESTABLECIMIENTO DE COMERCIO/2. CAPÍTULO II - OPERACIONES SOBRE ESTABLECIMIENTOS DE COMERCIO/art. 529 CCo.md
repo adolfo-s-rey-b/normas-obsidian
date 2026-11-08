@@ -15,8 +15,13 @@ capitulo: "[[CCo - Libro Tercero - Título I - Capítulo II|CAPÍTULO II - OPERA
 vigencia: "vigente"
 anterior: "[[art. 528 CCo]]"
 siguiente: "[[art. 530 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#529"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1999
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +33,8 @@ tags:
 ## Artículo 529. RESPONSABILIDAD POR OBLIGACIONES QUE NO CONSTEN EN LOS LIBROS
 
 Las obligaciones que no consten en los libros de contabilidad o en documento de enajenación continuará a cargo del enajenante del establecimiento, pero si el adquirente no demuestra buena fe exenta de culpa, responderá solidariamente con aquél de dichas obligaciones.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-963-99 del 01 de diciembre de 1999, Magistrado Ponente Dr. Carlos Gaviria Díaz.
 
 ---
 ← [[art. 528 CCo]] · ↑ [[CCo - Libro Tercero - Título I - Capítulo II|Capítulo II]] · [[art. 530 CCo]] →

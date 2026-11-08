@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 1|CAPÍTULO 1 - Del Presidente de la
 vigencia: "vigente"
 anterior: "[[art. 197 CPol]]"
 siguiente: "[[art. 199 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#198"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,6 +34,10 @@ tags:
 ## Artículo 198
 
 El Presidente de la República, o quien haga sus veces, será responsable de sus actos u omisiones que violen la Constitución o las leyes.
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-179-94 ; C-214-93 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 76)
 
 ---
 ← [[art. 197 CPol]] · ↑ [[CPol - Título VII - Capítulo 1|Capítulo 1]] · [[art. 199 CPol]] →

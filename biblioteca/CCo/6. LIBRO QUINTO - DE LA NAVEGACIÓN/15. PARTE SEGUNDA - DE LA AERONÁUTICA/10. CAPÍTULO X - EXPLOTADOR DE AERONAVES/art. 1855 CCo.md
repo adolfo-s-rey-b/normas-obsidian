@@ -14,9 +14,13 @@ parte: "[[CCo - Libro Quinto - Parte Segunda|PARTE SEGUNDA - DE LA AERONÁUTICA]
 capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo X|CAPÍTULO X - EXPLOTADOR DE AERONAVES]]"
 vigencia: "vigente"
 anterior: "[[art. 1854 CCo]]"
-siguiente: "[[art. 1857 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1855"
-fecha_extraccion: 2026-11-07
+siguiente: "[[art. 1856 CCo]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,5 @@ tags:
 
 Los servicios aéreos comerciales pueden ser internos o internacionales. Son internos aquellos que se prestan exclusivamente entre puntos situados en el territorio de la República; son internacionales los demás.
 
-ARTÍCULO [[art. 1100 CCo|1100]]%. OTORGAMIENTO DE PERMISO DE OPERACIÓN A LAS EMPRESAS AÉREAS COMERCIALES. Corresponde a la autoridad aeronáutica, de conformidad con lo determinado por los reglamentos, el otorgamiento del permiso de operación a las empresas que efectúen servicios aéreos comerciales, así como la vigilancia e inspección para la prestación adecuada de tales servicios.
-
 ---
-← [[art. 1854 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]] · [[art. 1857 CCo]] →
+← [[art. 1854 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]] · [[art. 1856 CCo]] →

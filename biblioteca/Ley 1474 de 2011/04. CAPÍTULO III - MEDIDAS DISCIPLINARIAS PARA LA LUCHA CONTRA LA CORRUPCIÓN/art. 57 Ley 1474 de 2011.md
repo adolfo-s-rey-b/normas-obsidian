@@ -8,11 +8,16 @@ epigrafe: "Aplicación del procedimiento verbal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 56 Ley 1474 de 2011]]"
 siguiente: "[[art. 58 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#57"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -33,7 +38,7 @@ En los eventos contemplados en los incisos anteriores, se citará a audiencia, e
 
 ~~En todo caso, y cualquiera que fuere el sujeto disciplinable, si al momento de valorar sobre la decisión de apertura de investigación estuvieren dados los requisitos sustanciales para proferir pliego de cargos se citará a audiencia.~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019
 
 > [!note] Nota: Expresión subrayada declarada EXEQUIBLE por la Corte Constitucional mediante Sentencia C-370 de 2012.
 

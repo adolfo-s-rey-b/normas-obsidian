@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 27 Ley 222 de 1995]]"
 anterior: "[[art. 260 CCo]]"
 siguiente: "[[art. 262 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#261"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,9 +34,9 @@ tags:
 
 ## Artículo 261. PRESUNCIONES DE SUBORDINACIÓN
 
-> [!info] Modificado por el art. [[art. 27 Ley 222 de 1995|27]], Ley 222 de 1995
+Será subordinada una sociedad cuando se encuentre en uno o más de los siguientes casos:
 
-El nuevo texto es el siguiente Será subordinada una sociedad cuando se encuentre en uno o más de los siguientes casos:
+> [!info] Artículo subrogado por el artículo [[art. 27 Ley 222 de 1995|27]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
 1\. Cuando más del cincuenta por ciento (50%) del capital pertenezca a la matriz, directamente o por intermedio o con el concurso de sus subordinadas, o de las subordinadas de éstas. Para tal efecto, no se computarán las acciones con dividendo preferencial y sin derecho a voto.
 
@@ -43,17 +48,7 @@ El nuevo texto es el siguiente Será subordinada una sociedad cuando se encuentr
 
 **PARÁGRAFO 2o.** Así mismo, una sociedad se considera subordinada cuando el control sea ejercido por otra sociedad, por intermedio o con el concurso de alguna o algunas de las entidades mencionadas en el parágrafo anterior.
 
-Texto anterior:
-
-Se considerará subordinada la sociedad que se encuentre, entre otros, en los siguientes casos:
-
-1\. Cuando el cincuenta por ciento o más del capital pertenezca a la matriz, directamente, o por intermedio o en concurrencia con sus subordinadas, o con las filiales o subsidiarias de éstas.
-
-2\. Cuando las sociedades mencionadas en el ordinal anterior tengan, conjunta o separadamente, el derecho de emitir los votos constitutivos del quórum mínimo decisorio en la junta de socios, o en la asamblea, o en la junta directiva, si la hubiere, y
-
-3\. Cuando las sociedades vinculadas entre sí participen en el cincuenta por ciento o más de las utilidades de la compañía, así sea por prerrogativas o pactos especiales.
-
-Se entenderá que hay vinculación de dos o más sociedades cuando existan intereses económicos, financieros o administrativos entre ellas, comunes o recíprocos, así como cualquier actuación de control o dependencia.
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 27 Ley 222 de 1995|27]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 , del 20 de diciembre de 1995.
 
 ---
 ← [[art. 260 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo XI|Capítulo XI]] · [[art. 262 CCo]] →

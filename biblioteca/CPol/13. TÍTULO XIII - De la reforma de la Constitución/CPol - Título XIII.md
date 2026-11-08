@@ -7,7 +7,7 @@ sigla: "CPol"
 nivel: "TÍTULO"
 etiqueta: "XIII"
 nombre: "De la reforma de la Constitución"
-articulos: "arts. 374 a 380"
+articulos: "arts. 374 a transitorio (final)"
 tags:
   - normas/indice
   - normas/cpol
@@ -17,7 +17,7 @@ tags:
 
 ## TÍTULO XIII - De la reforma de la Constitución
 
-*Arts. 374 a 380*
+*Arts. 374 a transitorio (final)*
 
 ### Contenido
 
@@ -28,6 +28,7 @@ tags:
 - [[art. 378 CPol|Artículo 378]]
 - [[art. 379 CPol|Artículo 379]]
 - [[art. 380 CPol|Artículo 380]]
+- [[art. transitorio (final) CPol|Artículo transitorio (final)]]
 
 ---
 ← [[CPol - Título XII|Título XII]] · ↑ [[CPol|CPol]] · [[CPol - Título|Título]] →

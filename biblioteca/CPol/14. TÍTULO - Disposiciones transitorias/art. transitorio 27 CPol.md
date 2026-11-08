@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 26 CPol]]"
 siguiente: "[[art. transitorio 28 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -40,6 +44,8 @@ Igualmente pasarán a la Fiscalía General de la Nación, la dirección nacional
 La Dirección Nacional de Medicina Legal del Ministerio de Justicia, con sus dependencias seccionales, se integrará a la Fiscalía General como establecimiento público adscrito a la misma.
 
 Las dependencias que se integren a la Fiscalía General pasarán a ella con todos sus recursos humanos y materiales, en los términos que señale la ley que la organice.
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 69)
 
 ---
 ← [[art. transitorio 26 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 28 CPol]] →

@@ -16,9 +16,13 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 10 Ley 2197 de 2022]]"
 anterior: "[[art. 184 CP]]"
-siguiente: "[[art. 186 CP]]"
+siguiente: "[[art. 185A CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#185"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2022
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -44,4 +48,4 @@ Entiéndase como arma de fuego hechiza o artesanal aquellos elementos manufactur
 > [!info] Adicionado por el Art. [[art. 10 Ley 2197 de 2022|10]], de la Ley 2197 de 2022
 
 ---
-← [[art. 184 CP]] · ↑ [[CP - Libro Segundo - Título III - Capítulo Quinto|Capítulo Quinto]] · [[art. 186 CP]] →
+← [[art. 184 CP]] · ↑ [[CP - Libro Segundo - Título III - Capítulo Quinto|Capítulo Quinto]] · [[art. 185A CP]] →

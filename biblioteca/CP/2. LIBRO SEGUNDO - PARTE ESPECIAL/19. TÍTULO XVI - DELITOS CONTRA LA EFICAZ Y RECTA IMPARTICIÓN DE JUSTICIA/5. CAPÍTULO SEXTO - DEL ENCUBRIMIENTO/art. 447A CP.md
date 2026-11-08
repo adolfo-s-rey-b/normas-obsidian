@@ -12,6 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "447A"
+epigrafe: "COMERCIALIZACIÓN DE AUTOPARTES HURTADAS"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XVI|TÍTULO XVI - DELITOS CONTRA LA EFICAZ Y RECTA IMPARTICIÓN DE JUSTICIA]]"
 capitulo: "[[CP - Libro Segundo - Título XVI - Capítulo Sexto|CAPÍTULO SEXTO - DEL ENCUBRIMIENTO]]"
@@ -21,7 +22,11 @@ derogado_por:
 anterior: "[[art. 447 CP]]"
 siguiente: "[[art. 448 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#447A"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2015
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -30,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XVI|Título XVI]] › [[CP - Libro Segundo - Título XVI - Capítulo Sexto|Capítulo Sexto]]
 
-## Artículo 447A
+## Artículo 447A. COMERCIALIZACIÓN DE AUTOPARTES HURTADAS
 
 > [!warning] Artículo derogado por el artículo [[art. 56 Ley 1762 de 2015|56]] de la Ley 1762 de 2015
 

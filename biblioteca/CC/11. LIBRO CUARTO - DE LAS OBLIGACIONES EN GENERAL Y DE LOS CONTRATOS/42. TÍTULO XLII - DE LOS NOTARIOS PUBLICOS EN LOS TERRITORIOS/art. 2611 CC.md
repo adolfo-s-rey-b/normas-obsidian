@@ -16,8 +16,9 @@ derogado_por:
 anterior: "[[art. 2610 CC]]"
 siguiente: "[[art. 2612 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1970
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,7 +29,7 @@ tags:
 
 ## Artículo 2611
 
-<Artículo derogado por el artículo [[art. 232 Decreto 960 de 1970|232]] del Decreto 960 de 1970.>
+> [!warning] Artículo derogado por el artículo [[art. 232 Decreto 960 de 1970|232]] del Decreto 960 de 1970.
 
 > [!warning] Notas de vigencia: Artículo derogado por el artículo [[art. 232 Decreto 960 de 1970|232]] del Decreto 960 de 1970, publicado en el Diario Oficial No. 33.118, de 5 de agosto de 1970.
 

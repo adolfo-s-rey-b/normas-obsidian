@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 618 CGP|Artículo 618]] — Plan de Acción para la Implementación del Código General del Proceso
-- [[art. 619 CGP|Artículo 619]] — Comisión de Seguimiento a la Ejecución del Plan de Acción para la Implementación del Código General del Proceso
+- [[art. 618 CGP|Artículo 618]] — PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO
+- [[art. 619 CGP|Artículo 619]] — COMISIÓN DE SEGUIMIENTO A LA EJECUCIÓN DEL PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO
 
 ---
 ← [[CGP - Libro Quinto - Título III|Título III]] · ↑ [[CGP - Libro Quinto|Libro Quinto]] · [[CGP - Libro Quinto - Título V|Título V]] →

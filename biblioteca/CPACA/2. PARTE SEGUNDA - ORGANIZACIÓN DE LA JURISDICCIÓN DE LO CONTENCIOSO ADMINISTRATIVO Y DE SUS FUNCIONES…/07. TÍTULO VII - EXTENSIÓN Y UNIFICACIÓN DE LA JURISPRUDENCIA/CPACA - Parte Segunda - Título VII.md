@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[CPACA - Parte Segunda - Título VII - Capítulo I|CAPÍTULO I - Extensión de la jurisprudencia del Consejo de Estado]] (arts. 269 a 271)
-- [[CPACA - Parte Segunda - Título VII - Capítulo II|CAPÍTULO II - Mecanismo eventual de revisión]] (arts. 272 a 274)
+- [[CPACA - Parte Segunda - Título VII - Capítulo I|CAPÍTULO I - EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO]] (arts. 269 a 271)
+- [[CPACA - Parte Segunda - Título VII - Capítulo II|CAPÍTULO II - MECANISMO EVENTUAL DE REVISIÓN]] (arts. 272 a 274)
 
 ---
 ← [[CPACA - Parte Segunda - Título VI|Título VI]] · ↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título VIII|Título VIII]] →

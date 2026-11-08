@@ -15,7 +15,7 @@ vigencia: "derogado"
 anterior: "[[art. 77 CPT]]"
 siguiente: "[[art. 79 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#78"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

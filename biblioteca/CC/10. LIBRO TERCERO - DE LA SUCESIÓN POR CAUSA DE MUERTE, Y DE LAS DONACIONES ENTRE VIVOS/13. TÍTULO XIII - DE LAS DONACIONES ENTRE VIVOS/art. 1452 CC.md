@@ -16,7 +16,7 @@ anterior: "[[art. 1451 CC]]"
 siguiente: "[[art. 1453 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,13 +29,13 @@ tags:
 
 No hay donación en el comodato de un objeto cualquiera, aunque su uso o goce costumbre a darse en arriendo.
 
-(sic)
-
 Tampoco lo hay en el mutuo sin interés.
 
 (sic)
 
 Pero lo hay en la remisión o cesión del derecho de percibir los réditos de un capital colocado a interés o a censo.
+
+(sic)
 
 ---
 ← [[art. 1451 CC]] · ↑ [[CC - Libro Tercero - Título XIII|Título XIII]] · [[art. 1453 CC]] →

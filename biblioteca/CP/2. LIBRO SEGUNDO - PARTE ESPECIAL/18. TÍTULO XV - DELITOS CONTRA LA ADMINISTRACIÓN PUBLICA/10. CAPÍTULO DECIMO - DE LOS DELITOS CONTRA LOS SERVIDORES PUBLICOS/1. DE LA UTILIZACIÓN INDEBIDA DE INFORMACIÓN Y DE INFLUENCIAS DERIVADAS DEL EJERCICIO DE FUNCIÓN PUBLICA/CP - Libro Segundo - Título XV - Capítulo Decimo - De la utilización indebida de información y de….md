@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 431 CP|Artículo 431]] — Utilización indebida de información obtenida en el ejercicio de función publica
+- [[art. 431 CP|Artículo 431]] — UTILIZACIÓN INDEBIDA DE INFORMACIÓN OBTENIDA EN EL EJERCICIO DE FUNCIÓN PÚBLICA
 - [[art. 432 CP|Artículo 432]] — Utilización indebida de influencias derivadas del ejercicio de función publica
 - [[art. 433 CP|Artículo 433]] — Soborno transnacional
-- [[art. 434 CP|Artículo 434]] — Asociación para la comisión de un delito contra la administración publica
+- [[art. 434 CP|Artículo 434]] — ASOCIACIÓN PARA LA COMISIÓN DE UN DELITO CONTRA LA ADMINISTRACIÓN PÚBLICA
 
 ---
 ↑ [[CP - Libro Segundo - Título XV - Capítulo Decimo|Capítulo Decimo]]

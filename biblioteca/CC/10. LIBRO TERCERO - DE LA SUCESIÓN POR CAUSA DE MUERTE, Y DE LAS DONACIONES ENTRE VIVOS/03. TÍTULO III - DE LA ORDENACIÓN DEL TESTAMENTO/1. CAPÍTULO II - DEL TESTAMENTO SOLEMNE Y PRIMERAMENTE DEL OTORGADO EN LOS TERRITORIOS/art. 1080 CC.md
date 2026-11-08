@@ -15,13 +15,12 @@ capitulo: "[[CC - Libro Tercero - Título III - Capítulo II|CAPÍTULO II - DEL 
 vigencia: "modificado"
 modificado_por:
   - "[[art. 7 CC]]"
-  - "[[art. 1 CC]]"
-  - "[[art. 4 CC]]"
 anterior: "[[art. 1079 CC]]"
 siguiente: "[[art. 1081 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2025
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -60,7 +59,7 @@ Durante el otorgamiento estarán presentes, además del testador, un mismo notar
 
 "ARTÍCULO 4o. Copia de esta escritura debe acompañarse a la solicitud de apertura y publicación del testamento.
 
-> [!info] Notas de Vigencia: Artículo adicionado por la Ley 36 de 1931, publicada en el Diario Oficial No. 21.633 del 31 de marzo de de 1931, según lo dispuesto en su artículo [[art. 7 CC|7]]. En criterio del Editor se adiciona con los artículos [[art. 1 CC|1]] al [[art. 4 CC|4]], los cuales se transcriben.
+> [!info] Notas de Vigencia: Artículo adicionado por la Ley 36 de 1931, publicada en el Diario Oficial No. 21.633 del 31 de marzo de de 1931, según lo dispuesto en su artículo [[art. 7 CC|7]]. En criterio del Editor se adiciona con los artículos 1 al 4, los cuales se transcriben.
 
 ---
 ← [[art. 1079 CC]] · ↑ [[CC - Libro Tercero - Título III - Capítulo II|Capítulo II]] · [[art. 1081 CC]] →

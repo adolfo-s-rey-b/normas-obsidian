@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo X|CAPÍTULO X - LIQUIDA
 vigencia: "vigente"
 anterior: "[[art. 236 CCo]]"
 siguiente: "[[art. 238 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#237"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 En las sociedades por cuotas o partes de interés no será obligatoria la intervención del Superintendente en el inventario que haya de servir de base para la liquidación; pero si dicho inventario se hace como se dispone en los artículos anteriores, cesarán las responsabilidades de los socios por las operaciones sociales, si la liquidación se ajusta al inventario aprobado por el Superintendente y a lo prescrito en los artículos siguientes de este Título.
 
-NOTA: El inciso 3o. del artículo [[art. 124 Ley 1116 de 2006|124]] de la Ley 1116 de 2006, establece que: "'Salvo aquellos casos que expresamente determine el Gobierno Nacional, en razón a la conservación del orden público económico, no habrá lugar a la intervención de la Superintendencia de Sociedades respecto de lo establecido en los artículos [[art. 233 CCo|233]] a [[art. 237 CCo|237]] del Código de Comercio."
+> [!note] Notas de Vigencia: El inciso 3o. del artículo [[art. 124 Ley 1116 de 2006|124]] de la Ley 1116 de 2006, publicada en el Diario Oficial No. 46.494 de 27 de diciembre de 2006, establece: 'Salvo aquellos casos que expresamente determine el Gobierno Nacional, en razón a la conservación del orden público económico, no habrá lugar a la intervención de la Superintendencia de Sociedades respecto de lo establecido en los artículos [[art. 233 CCo|233]] a [[art. 237 CCo|237]] del Código de Comercio.' La Ley 1116 de 2006 comienza a regir seis meses después de su promulgación.
 
 ---
 ← [[art. 236 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo X|Capítulo X]] · [[art. 238 CCo]] →

@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 1|CAPÍTULO 1 - De los derechos funda
 vigencia: "vigente"
 anterior: "[[art. 20 CPol]]"
 siguiente: "[[art. 22 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#21"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2016
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,9 +35,11 @@ tags:
 
 Se garantiza el derecho a la honra. La ley señalará la forma de su protección.
 
-> [!note] Ver Ley 133 de 1994; Art. [[art. 14 Ley 133 de 1994|14]], literal d
+> [!note] Concordancias: Ley 133 de 1994; Art. [[art. 14 Ley 133 de 1994|14]] , literal d
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-033-93; C-114-93; C-556-2001; C-042-2002; C-131-2002 ; C-182-03; C-230-03; C-442-11; C-452-16
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-033-93 ; C-114-93 ; C-540-93 ; C-556-2001 ; C-042-2002 ; C-131-2002 ; C-251-2002 ; C-263-2002 ; C-287-2002 ; C-182-03 ; C-230-03 ; C-442-11 ; C-452-16 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 83)
 
 ---
 ← [[art. 20 CPol]] · ↑ [[CPol - Título II - Capítulo 1|Capítulo 1]] · [[art. 22 CPol]] →

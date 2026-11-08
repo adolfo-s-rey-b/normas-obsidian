@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo V|CAPÍTULO V - INFR
 vigencia: "vigente"
 anterior: "[[art. 1816 CCo]]"
 siguiente: "[[art. 1818 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1817"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Los explotadores de aeródromos, así como las personas o entidades que presten los servicios de infraestructura aeronáutica, son responsables de los daños que cause la operación de los aeródromos o la prestación de los servicios citados.
 
-Esta responsabilidad se rige por lo dispuesto en los artículos [[art. 1881 CCo|1881]], [[art. 1886 CCo|1886]] y [[art. 1887 CCo|1887]].
+Esta responsabilidad se rige por lo dispuesto en los artículos [[art. 1881 CCo|1881]] , [[art. 1886 CCo|1886]] y [[art. 1887 CCo|1887]] .
 
 ---
 ← [[art. 1816 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo V|Capítulo V]] · [[art. 1818 CCo]] →

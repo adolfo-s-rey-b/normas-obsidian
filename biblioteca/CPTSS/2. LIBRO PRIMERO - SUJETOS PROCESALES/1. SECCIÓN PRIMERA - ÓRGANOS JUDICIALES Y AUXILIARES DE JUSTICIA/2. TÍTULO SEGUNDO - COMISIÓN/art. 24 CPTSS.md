@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "24"
-epigrafe: "Otorgamiento y práctica de la comisión"
+epigrafe: "OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 23 CPTSS]]"
 siguiente: "[[art. 25 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#24"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -25,9 +29,9 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 24. Otorgamiento y práctica de la comisión
+## Artículo 24. OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN
 
-La providencia que confiera una comisión indicará su objeto con precisión y claridad. El despacho que se libre llevará una reproducción del contenido de aquella, de las piezas que haya ordenado el comitente y de las demás que soliciten las partes, siempre que suministren las expensas en el 6momento de la solicitud. En ningún caso se remitirá al comisionado el expediente original.
+La providencia que confiera una comisión indicará su objeto con precisión y claridad. El despacho que se libre llevará una reproducción del contenido de aquella, de las piezas que haya ordenado el comitente y de las demás que soliciten las partes, siempre que suministren las expensas en el momento de la solicitud. En ningún caso se remitirá al comisionado el expediente original.
 
 Cuando el despacho judicial comitente y el comisionado tengan habilitado el Plan de Justicia Digital, se le comunicará al juez comisionado la providencia que confiere la comisión sin necesidad de librar despacho comisorio y se le dará acceso a la totalidad del expediente.
 

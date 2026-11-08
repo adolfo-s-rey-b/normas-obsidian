@@ -1,0 +1,27 @@
+---
+aliases:
+  - "Ley 675 de 2001 TÍTULO II - DE LA SOLUCION DE CONFLICTOS, DEL PROCEDIMIENTO PARA LAS SANCIONES, DE LOS RECURSOS Y DE LAS SANCIONES"
+tipo: indice
+norma: "Ley 675 de 2001"
+nivel: "TÍTULO"
+etiqueta: "II"
+nombre: "DE LA SOLUCION DE CONFLICTOS, DEL PROCEDIMIENTO PARA LAS SANCIONES, DE LOS RECURSOS Y DE LAS SANCIONES"
+articulos: "arts. 58 a 62"
+tags:
+  - normas/indice
+  - normas/ley_675_de_2001
+---
+
+[[Ley 675 de 2001|Ley 675 de 2001]]
+
+## TÍTULO II - DE LA SOLUCION DE CONFLICTOS, DEL PROCEDIMIENTO PARA LAS SANCIONES, DE LOS RECURSOS Y DE LAS SANCIONES
+
+*Arts. 58 a 62*
+
+### Contenido
+
+- [[Ley 675 de 2001 - Título II - Capítulo I|CAPÍTULO I - DE LA SOLUCIÓN DE CONFLICTOS]] (art. 58)
+- [[Ley 675 de 2001 - Título II - Capítulo II|CAPÍTULO II - DE LAS SANCIONES POR INCUMPLIMIENTO DE OBLIGACIONES NO PECUNIARIAS]] (arts. 59 a 62)
+
+---
+← [[Ley 675 de 2001 - Título I|Título I]] · ↑ [[Ley 675 de 2001|Ley 675 de 2001]] · [[Ley 675 de 2001 - Título III|Título III]] →

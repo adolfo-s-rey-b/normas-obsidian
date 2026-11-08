@@ -23,8 +23,9 @@ derogado_por:
 anterior: "[[art. 483 CC]]"
 siguiente: "[[art. 485 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2009
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -35,7 +36,7 @@ tags:
 
 ## Artículo 484. VENTA DE BIENES DEL PUPILO
 
-<Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009>
+> [!warning] Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009, publicada en el Diario Oficial No. 47.371 de 5 de junio de 2009. - Artículo adicionado por el artículo [[art. 1 Ley 67 de 1930|1]] de la Ley 67 de 1930, publicada en el Diario Oficial No. 21.570 del 18 de diciembre de 1930, según lo dispuesto su artículo [[art. 3 CC|3]]. El texto original establece: 'ARTÍCULO 1. Lo dispuesto en los artículos [[art. 303 CC|303]] , [[art. 483 CC|483]] , [[art. 484 CC|484]] y [[art. 1810 CC|1810]] del Código Civil se aplicará también a la enajenación de los derechos hereditarios del menor bajo patria potestad, o guarda, y de la mujer casada*, respectivamente'. 'ARTÍCULO 3. En los términos anteriores quedan adicionados los artículos [[art. 303 CC|303]] , [[art. 483 CC|483]] , [[art. 484 CC|484]] y [[art. 1810 CC|1810]] del Código Civil. '
 

@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título II - Capítulo IV|CAPÍTULO IV - OBLIG
 vigencia: "vigente"
 anterior: "[[art. 924 CCo]]"
 siguiente: "[[art. 926 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#925"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 925. INDEMNIZACIÓN POR TRADICIÓN NO VALIDA
 
-El comprador tendrá derecho a exigir el pago de perjuicios por el incumplimiento del vendedor a su obligación de hacerle tradición válida, sin necesidad de instaurar previamente cualquiera de las acciones consagradas en el artículo [[art. 1546 CC|1546]] del Código Civil y de este Libro.
+El comprador tendrá derecho a exigir el pago de perjuicios por el incumplimiento del vendedor a su obligación de hacerle tradición válida, sin necesidad de instaurar previamente cualquiera de las acciones consagradas en el artículo 1546ódigo Civil y de este Libro.
 
 ---
 ← [[art. 924 CCo]] · ↑ [[CCo - Libro Cuarto - Título II - Capítulo IV|Capítulo IV]] · [[art. 926 CCo]] →

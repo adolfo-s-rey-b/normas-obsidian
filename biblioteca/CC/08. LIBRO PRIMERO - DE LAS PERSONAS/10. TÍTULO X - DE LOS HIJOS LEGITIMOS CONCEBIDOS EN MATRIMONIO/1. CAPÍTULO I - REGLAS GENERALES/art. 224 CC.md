@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 223 CC]]"
 siguiente: "[[art. 225 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 224. INDEMNIZACIÓN POR DECLARACIÓN DE ILEGITIMIDAD
 
-<Artículo modificado por el artículo [[art. 10 Ley 1060 de 2006|10]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> Durante el juicio de impugnación de la paternidad o la maternidad se presumirá la paternidad del hijo, pero cuando exista sentencia en firme el actor tendrá derecho a que se le indemnice por los todos los perjuicios causados.
+Durante el juicio de impugnación de la paternidad o la maternidad se presumirá la paternidad del hijo, pero cuando exista sentencia en firme el actor tendrá derecho a que se le indemnice por los todos los perjuicios causados.
+
+> [!info] Artículo modificado por el artículo [[art. 10 Ley 1060 de 2006|10]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 10 Ley 1060 de 2006|10]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

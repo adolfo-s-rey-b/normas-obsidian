@@ -14,8 +14,13 @@ capitulo: "[[CPP - Libro VI - Capítulo II|CAPÍTULO II - CONCILIACIÓN PREPROCE
 vigencia: "vigente"
 anterior: "[[art. 521 CPP]]"
 siguiente: "[[art. 523 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#522"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2005
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
@@ -37,6 +42,8 @@ La inasistencia injustificada del querellante se entenderá como desistimiento d
 En cualquier caso, si alguno de los citados fuere incapaz, concurrirá su representante legal.
 
 La conciliación se ceñirá, en lo pertinente, a lo establecido en la Ley 640 de 2001.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Incisos 1o. y 2o. declarados EXEQUIBLES por el cargo analizado, por la Corte Constitucional mediante Sentencia C-591-05 de 9 de junio de 2005, Magistrada Ponente Dr. Clara Inés Vargas Hernández.
 
 ---
 ← [[art. 521 CPP]] · ↑ [[CPP - Libro VI - Capítulo II|Capítulo II]] · [[art. 523 CPP]] →

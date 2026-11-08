@@ -7,7 +7,7 @@ sigla: "CPol"
 nivel: "TÍTULO"
 etiqueta: ""
 nombre: "Disposiciones transitorias"
-articulos: "arts. transitorio 1 a transitorio (AL 1 de 2016) 4"
+articulos: "arts. transitorio 1 a transitorio (AL 2 de 2017) 1"
 tags:
   - normas/indice
   - normas/cpol
@@ -17,12 +17,14 @@ tags:
 
 ## TÍTULO - Disposiciones transitorias
 
-*Arts. transitorio 1 a transitorio (AL 1 de 2016) 4*
+*Arts. transitorio 1 a transitorio (AL 2 de 2017) 1*
 
 ### Contenido
 
 - [[art. transitorio 1 CPol|Artículo transitorio 1]]
+- [[art. transitorio (AL 1 de 2016) 4 CPol|Artículo transitorio (AL 1 de 2016) 4]]
 - [[art. transitorio 2 CPol|Artículo transitorio 2]]
+- [[art. transitorio (AL 2 de 2017) CPol|Artículo transitorio (AL 2 de 2017)]]
 - [[art. transitorio 3 CPol|Artículo transitorio 3]]
 - [[art. transitorio 4 CPol|Artículo transitorio 4]]
 - [[art. transitorio 5 CPol|Artículo transitorio 5]]
@@ -80,7 +82,7 @@ tags:
 - [[art. transitorio 57 CPol|Artículo transitorio 57]]
 - [[art. transitorio 58 CPol|Artículo transitorio 58]]
 - [[art. transitorio 59 CPol|Artículo transitorio 59]]
-- [[art. transitorio (final) CPol|Artículo transitorio (final)]]
+- [[art. transitorio (AL 2 de 1993) CPol|Artículo transitorio (AL 2 de 1993)]]
 - [[art. transitorio (AL 2 de 2002) CPol|Artículo transitorio (AL 2 de 2002)]]
 - [[art. transitorio (AL 2 de 2011) CPol|Artículo transitorio (AL 2 de 2011)]]
 - [[art. transitorio (AL 4 de 2011) CPol|Artículo transitorio (AL 4 de 2011)]]
@@ -89,7 +91,7 @@ tags:
 - [[art. transitorio (AL 1 de 2016) 1 CPol|Artículo transitorio (AL 1 de 2016) 1]] — PROCEDIMIENTO LEGISLATIVO ESPECIAL PARA LA PAZ
 - [[art. transitorio (AL 1 de 2016) 2 CPol|Artículo transitorio (AL 1 de 2016) 2]] — FACULTADES PRESIDENCIALES PARA LA PAZ
 - [[art. transitorio (AL 1 de 2016) 3 CPol|Artículo transitorio (AL 1 de 2016) 3]] — PLAN DE INVERSIONES PARA LA PAZ
-- [[art. transitorio (AL 1 de 2016) 4 CPol|Artículo transitorio (AL 1 de 2016) 4]]
+- [[art. transitorio (AL 2 de 2017) 1 CPol|Artículo transitorio (AL 2 de 2017) 1]]
 
 ---
 ← [[CPol - Título XIII|Título XIII]] · ↑ [[CPol|CPol]] · [[CPol - Título Transitorio|Título Transitorio]] →

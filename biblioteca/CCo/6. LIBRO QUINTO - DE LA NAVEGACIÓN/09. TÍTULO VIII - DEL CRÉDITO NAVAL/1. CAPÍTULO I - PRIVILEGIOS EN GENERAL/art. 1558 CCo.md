@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título VIII - Capítulo I|CAPÍTULO I - PRIVI
 vigencia: "vigente"
 anterior: "[[art. 1557 CCo]]"
 siguiente: "[[art. 1559 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1558"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -31,7 +35,7 @@ Los créditos indicados en el artículo [[art. 1556 CCo|1556]] referentes a un m
 
 Los créditos por daños corporales causados a los pasajeros o a la tripulación se pagarán de preferencia a los procedentes de daños causados a las cosas.
 
-Los créditos incluidos en los ordinales 4o. y 6o. del citado artículo [[art. 1556 CCo|1556]], en cada una de estas categorías, se pagarán en el orden inverso de la fecha en que se han originado.
+Los créditos incluidos en los ordinales 4o. y 6o. del citado artículo [[art. 1556 CCo|1556]] , en cada una de estas categorías, se pagarán en el orden inverso de la fecha en que se han originado.
 
 **PARÁGRAFO.** Los créditos referentes a un mismo suceso se reputarán de la misma fecha. Los créditos resultantes de un contrato único de enrolamiento para diversos viajes, concurrirán, en su totalidad y en el mismo grado, con los créditos del último viaje.
 

@@ -16,8 +16,9 @@ derogado_por:
 anterior: "[[art. 2679 CC]]"
 siguiente: "[[art. 2681 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1970
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,7 +29,7 @@ tags:
 
 ## Artículo 2680
 
-<Artículo derogado por el artículo [[art. 96 Decreto 1250 de 1970|96]] del Decreto 1250 de 1970.>
+> [!warning] Artículo derogado por el artículo [[art. 96 Decreto 1250 de 1970|96]] del Decreto 1250 de 1970.
 
 > [!warning] Notas de vigencia: Artículo derogado por el artículo [[art. 96 Decreto 1250 de 1970|96]] del Decreto 1250 de 1970, publicado en el Diario Oficial No. 33.139, de 4 de septiembre de 1970.
 

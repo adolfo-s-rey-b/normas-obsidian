@@ -7,6 +7,7 @@ nivel: "SECCIÓN"
 etiqueta: "PRIMERA"
 nombre: "MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
+articulos: "arts. 97 a 120"
 tags:
   - normas/indice
   - normas/ley_1474_de_2011
@@ -16,9 +17,13 @@ tags:
 
 ## SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL
 
+*Arts. 97 a 120*
+
 ### Contenido
 
-
+- [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]] (arts. 97 a 105)
+- [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|SUBSECCIÓN II - MODIFICACIONES A LA REGULACIÓN DEL PROCEDIMIENTO ORDINARIO DE RESPONSABILIDAD FISCAL]] (arts. 106 a 109)
+- [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]] (arts. 110 a 120)
 
 ---
-↑ [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] · [[Ley 1474 de 2011 - Capítulo VIII - Sección I|Sección I]] →
+↑ [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] · [[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|Sección Segunda]] →

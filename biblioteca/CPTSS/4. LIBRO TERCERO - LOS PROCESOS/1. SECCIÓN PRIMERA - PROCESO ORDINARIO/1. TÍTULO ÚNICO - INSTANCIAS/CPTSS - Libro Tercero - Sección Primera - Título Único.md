@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - Primera instancia]] (arts. 255 a 260)
-- [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - Segunda Instancia]] (arts. 261 a 264)
+- [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - PRIMERA INSTANCIA]] (arts. 255 a 260)
+- [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - SEGUNDA INSTANCIA]] (arts. 261 a 264)
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]]

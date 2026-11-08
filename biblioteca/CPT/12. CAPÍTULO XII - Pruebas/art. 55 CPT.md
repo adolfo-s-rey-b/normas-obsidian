@@ -14,7 +14,7 @@ vigencia: "derogado"
 anterior: "[[art. 54B CPT]]"
 siguiente: "[[art. 56 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#55"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

@@ -1,0 +1,42 @@
+---
+aliases:
+  - "CGP art. 502"
+  - "art. 502 Ley 1564 de 2012"
+  - "Ley 1564 de 2012 art. 502"
+  - "CGP 502"
+tipo: articulo
+norma: "Ley 1564 de 2012"
+sigla: "CGP"
+articulo: "502"
+epigrafe: "INVENTARIOS Y AVALÚOS ADICIONALES"
+libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
+seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
+titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
+capitulo: "[[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA SUCESIÓN]]"
+vigencia: "vigente"
+anterior: "[[art. 501 CGP]]"
+siguiente: "[[art. 503 CGP]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cgp
+  - vigencia/vigente
+---
+
+[[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
+
+## Artículo 502. INVENTARIOS Y AVALÚOS ADICIONALES
+
+Cuando se hubieren dejado de inventariar bienes o deudas, podrá presentarse inventario y avalúo adicionales. De ellos se correrá traslado por tres (3) días, y si se formulan objeciones serán resueltas en audiencia que deberá celebrarse dentro de los cinco (5) días siguientes al vencimiento de dicho traslado.
+
+Si el proceso se encuentra terminado, el auto que ordene el traslado se notificará por aviso.
+
+Si no se formularen objeciones, el juez aprobará el inventario y los avalúos. Lo mismo se dispondrá en la providencia que decida las objeciones propuestas.
+
+---
+← [[art. 501 CGP]] · ↑ [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]] · [[art. 503 CGP]] →

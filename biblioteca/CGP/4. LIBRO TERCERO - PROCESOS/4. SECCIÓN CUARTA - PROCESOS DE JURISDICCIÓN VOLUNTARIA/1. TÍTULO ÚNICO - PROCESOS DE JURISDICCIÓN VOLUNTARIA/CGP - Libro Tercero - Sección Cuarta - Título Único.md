@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo I|CAPÍTULO I - Normas Generales]] (arts. 577 a 580)
-- [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|CAPÍTULO II - Disposiciones especiales]] (arts. 581 a 587)
+- [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo I|CAPÍTULO I - NORMAS GENERALES]] (arts. 577 a 580)
+- [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES]] (arts. 581 a 587)
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Cuarta|Sección Cuarta]]

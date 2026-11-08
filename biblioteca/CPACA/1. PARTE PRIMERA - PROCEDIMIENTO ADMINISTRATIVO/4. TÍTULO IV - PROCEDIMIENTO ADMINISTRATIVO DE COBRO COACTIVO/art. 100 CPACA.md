@@ -8,14 +8,18 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "100"
-epigrafe: "Reglas de procedimiento"
+epigrafe: "REGLAS DE PROCEDIMIENTO"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título IV|TÍTULO IV - PROCEDIMIENTO ADMINISTRATIVO DE COBRO COACTIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 99 CPACA]]"
 siguiente: "[[art. 101 CPACA]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249#100"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
@@ -24,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título IV|Título IV]]
 
-## Artículo 100. Reglas de procedimiento
+## Artículo 100. REGLAS DE PROCEDIMIENTO
 
 Para los procedimientos de cobro coactivo se aplicarán las siguientes reglas:
 

@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 31 Ley 222 de 1995]]"
 anterior: "[[art. 264 CCo]]"
 siguiente: "[[art. 266 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#265"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,13 +34,11 @@ tags:
 
 ## Artículo 265. COMPROBACIÓN DE REALIDAD SOBRE OPERACIONES CELEBRADAS ENTRE SOCIEDAD Y VINCULADOS
 
-> [!info] Modificado por el art. [[art. 31 Ley 222 de 1995|31]], Ley 222 de 1995
+Los respectivos organismos de inspección, vigilancia o control, podrán comprobar la realidad de las operaciones que se celebren entre una sociedad y sus vinculados. En caso de verificar la irrealidad de tales operaciones o su celebración en condiciones considerablemente diferentes a las normales del mercado, en perjuicio del Estado, de los socios o de terceros, impondrán multas y si lo consideran necesario, ordenarán la suspensión de tales operaciones. Lo anterior, sin perjuicio de las acciones de socios y terceros a que haya lugar para la obtención de las indemnizaciones correspondientes.
 
-El nuevo texto es el siguiente Los respectivos organismos de inspección, vigilancia o control, podrán comprobar la realidad de las operaciones que se celebren entre una sociedad y sus vinculados. En caso de verificar la irrealidad de tales operaciones o su celebración en condiciones considerablemente diferentes a las normales del mercado, en perjuicio del Estado, de los socios o de terceros, impondrán multas y si lo consideran necesario, ordenarán la suspensión de tales operaciones. Lo anterior, sin perjuicio de las acciones de socios y terceros a que haya lugar para la obtención de las indemnizaciones correspondientes.
+> [!info] Artículo subrogado por el artículo [[art. 31 Ley 222 de 1995|31]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
-Texto anterior:
-
-El Gobierno podrá comprobar, por medio de los respectivos organismos de control, la realidad de las transacciones sobre bienes que se negocien a cualquier título entre una sociedad y sus subordinadas, filiales o subsidiarias.
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 31 Ley 222 de 1995|31]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 , del 20 de diciembre de 1995.
 
 ---
 ← [[art. 264 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo XI|Capítulo XI]] · [[art. 266 CCo]] →

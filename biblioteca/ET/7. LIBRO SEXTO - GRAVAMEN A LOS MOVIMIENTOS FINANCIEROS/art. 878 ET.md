@@ -1,0 +1,57 @@
+---
+aliases:
+  - "ET art. 878"
+  - "art. 878 Decreto Ley 624 de 1989"
+  - "Decreto Ley 624 de 1989 art. 878"
+  - "art. 878 Decreto 624 de 1989"
+  - "Decreto 624 de 1989 art. 878"
+  - "ET 878"
+tipo: articulo
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+articulo: "878"
+epigrafe: "ADMINISTRACIÓN DEL GMF"
+libro: "[[ET - Libro Sexto|LIBRO SEXTO - GRAVAMEN A LOS MOVIMIENTOS FINANCIEROS]]"
+vigencia: "derogado"
+modificado_por:
+  - "[[art. 1 Ley 633 de 2000]]"
+derogado_por:
+  - "[[art. 872 Ley 1819 de 2016]]"
+  - "[[art. 214 Ley 1819 de 2016]]"
+  - "[[art. 872 ET]]"
+  - "[[art. 45 Ley 1739 de 2014]]"
+  - "[[art. 872 Ley 1430 de 2010]]"
+  - "[[art. 3 Ley 1430 de 2010]]"
+  - "[[art. 1 Ley 633 de 2000]]"
+  - "[[art. 110 Decreto 1643 de 1991]]"
+anterior: "[[art. 877 ET]]"
+siguiente: "[[art. 879 ET]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2014
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/et
+  - vigencia/derogado
+---
+
+[[ET|ET]] › [[ET - Libro Sexto|Libro Sexto]]
+
+## Artículo 878. ADMINISTRACIÓN DEL GMF
+
+Corresponde a la Dirección de Impuestos y Aduanas Nacionales la administración del Gravamen a los Movimientos Financieros a que se refiere este Libro, para lo cual tendrá las facultades consagradas en el Estatuto Tributario para la investigación, determinación, control, discusión, devolución y cobro de los impuestos de su competencia. Así mismo, la DIAN quedará facultada para aplicar las sanciones contempladas en dicho Estatuto, que sean compatibles con la naturaleza del impuesto, así como aquellas referidas a la calidad de agente de retención, incluida la de trasladar a las autoridades competentes el conocimiento de posibles conductas de carácter penal.
+
+> [!info] Artículo adicionado por el artículo [[art. 1 Ley 633 de 2000|1]] de la Ley 633 de 2000. El nuevo texto es el siguiente:
+
+Para el caso de aquellas sanciones en las cuales su determinación se encuentra referida en el Estatuto Tributario a mes o fracción de mes calendario, se entenderán referidas a semana o fracción de semana calendario, aplicando el 1.25% del valor total de las retenciones practicadas en el respectivo período, para aquellos agentes retenedores que presenten extemporáneamente la declaración correspondiente.
+
+> [!warning] Notas de Vigencia: El parágrafo del artículo [[art. 872 Ley 1819 de 2016|872]] que disponía la derogatoria del GMF fue eliminado con la modificación introducida por el artículo [[art. 214 Ley 1819 de 2016|214]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016. - El parágrafo del artículo [[art. 872 ET|872]] de este estatuto, modificado por el artículo [[art. 45 Ley 1739 de 2014|45]] de la Ley 1739 de 2014, 'por medio de la cual se modifica el Estatuto Tributario, la Ley 1607 de 2012, se crean mecanismos de lucha contra la evasión y se dictan otras disposiciones', publicada en el Diario Oficial No. 49.374 de 23 de diciembre de 2014, establece: '...A partir del 1o. de enero de 2022 deróguense las disposiciones contenidas en el Libro Sexto del Estatuto Tributario relativo al Gravamen a los Movimientos Financieros '. - El parágrafo del texto adicionado al artículo [[art. 872 Ley 1430 de 2010|872]] por el artículo [[art. 3 Ley 1430 de 2010|3]] de la Ley 1430 de 2010, publicada en el Diario Oficial No. 47.937 de 29 de diciembre de 2010, establece: '.... A partir del 1o de enero de 2018 derógase las disposiciones contenidas en el Libro Sexto del Estatuto Tributario, relativo al Gravamen a los Movimientos Financieros' - Artículo adicionado por el artículo [[art. 1 Ley 633 de 2000|1]] de la Ley 633 de 2000, publicado en el Diario Oficial No. 44.275, del 29 de diciembre de 2000. - Artículo derogado por el artículo [[art. 110 Decreto 1643 de 1991|110]] del Decreto 1643 de 1991, publicado en el Diario Oficial No. 39.880, de 27 de junio de 1991.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-734-02 de 10 de septiembre de 2002, Magistrado Ponente Dr. Manuel José Cepeda Espinosa; 'únicamente por los cargos formulados'. Mediante la misma sentencia se declaró INHIBIDA de fallar sobre este artículo 'en cuanto al cargo de igualdad formulado'. - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1295-01 de 5 de diciembre de 2001, Magistrado Ponente Dr. Alvaro Tafur Galvis, 'por el cargo formulado'. Sobre el cargo formulado, se puede leer de la Sentencia: 'quebranta el artículo 338 constitucional, en cuanto a la determinación del sujeto activo del gravamen que crea'
+
+---
+← [[art. 877 ET]] · ↑ [[ET - Libro Sexto|Libro Sexto]] · [[art. 879 ET]] →

@@ -19,8 +19,13 @@ modificado_por:
   - "[[art. 1 Acto Legislativo 1 de 2017]]"
 anterior: "[[art. transitorio 19 (AL 1 de 2017) CPol]]"
 siguiente: "[[art. transitorio 21 (AL 1 de 2017) CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2017
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -31,11 +36,15 @@ tags:
 
 ## Artículo Transitorio 20 (AL 1 de 2017). PARTICIPACIÓN EN POLÍTICA
 
-La imposición de cualquier sanción en la JEP no inhabilitará para la participación política ni limitará el ejercicio de ningún derecho, activo o pasivo, de participación política.
+PARTICIPACIÓN EN POLÍTICA. La imposición de cualquier sanción en la JEP no inhabilitará para la participación política ni limitará el ejercicio de ningún derecho, activo o pasivo, de participación política.
+
+> [!info] Artículo adicionado por el artículo [[art. 1 Acto Legislativo 1 de 2017|1]] del Acto Legislativo 1 de 2017. El nuevo texto es el siguiente:
 
 **PARÁGRAFO.** Respecto a aquellas personas que pertenezcan a organizaciones rebeldes que hayan firmado un acuerdo de paz con el Gobierno, a efectos de reincorporación, quedarán en efecto suspensivo las condenas derivadas de delitos competencia del Tribunal para la Paz impuestas por la justicia ordinaria o disciplinaria, hasta que estas condenas hayan sido tratadas por la Jurisdicción Especial para la Paz para lo de su competencia.
 
-> [!info] Artículo adicionado por el artículo [[art. 1 Acto Legislativo 1 de 2017|1]] del Acto Legislativo 1 de 2017. Artículo declarado EXEQUIBLE, mediante Sentencia de la Corte Constitucional C-674 de 2017
+> [!info] Notas de Vigencia: Artículo adicionado por el artículo [[art. 1 Acto Legislativo 1 de 2017|1]] del Acto Legislativo 1 de 2017, 'por medio del cual se crea un título de disposiciones transitorias de la Constitución para la terminación del conflicto armado y la construcción de una paz estable y duradera y se dictan otras disposiciones', publicado en el Diario Oficial No. 50.196 de 4 de abril de 2017.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-674-17 de 14 de noviembre de 2017, Magistrado Ponente Dr. Luis Guillermo Guerrero Pérez.
 
 CAPÍTULO VII.
 

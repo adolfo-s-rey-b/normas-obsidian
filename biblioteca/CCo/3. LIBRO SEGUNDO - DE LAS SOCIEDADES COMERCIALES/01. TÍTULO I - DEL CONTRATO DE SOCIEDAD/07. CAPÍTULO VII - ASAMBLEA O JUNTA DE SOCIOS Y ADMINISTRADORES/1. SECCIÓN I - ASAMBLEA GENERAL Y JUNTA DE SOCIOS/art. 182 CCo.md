@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 6 Ley 2069 de 2020]]"
 anterior: "[[art. 181 CCo]]"
 siguiente: "[[art. 183 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#182"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2020
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,13 +35,17 @@ tags:
 
 ## Artículo 182. CONVOCATORIA Y DELIBERACIÓN DE REUNIONES ORDINARIAS Y EXTRAORDINARIAS
 
-En la convocatoria para reuniones extraordinarias se especificarán los asuntos sobre los que se deliberará y decidirá. En las reuniones ordinarias la asamblea podrá ocuparse de temas no indicados en la convocatoria, a propuesta de los directores o de cualquier asociado.
+CONVOCATORIA Y DELIBERACIÓN DE REUNIONES ORDINARIAS Y EXTRAORDINARIAS. En la convocatoria para reuniones extraordinarias se especificarán los asuntos sobre los que se deliberará y decidirá. En las reuniones ordinarias la asamblea podrá ocuparse de temas no indicados en la convocatoria, a propuesta de los directores o de cualquier asociado.
 
-La junta de socios o la asamblea se reunirá válidamente cualquier día y en cualquier lugar sin previa convocación, cuando se hallare representada la totalidad de los asociados, Quienes conforme al artículo anterior puedan convocar a la junta de socios o a la asamblea, deberán hacerlo también cuando lo solicite un número de asociados representantes del 10% o más del capital social,
+> [!info] Artículo modificado por el artículo [[art. 6 Ley 2069 de 2020|6]] de la Ley 2069 de 2020. El nuevo texto es el siguiente:
 
-**PARÁGRAFO TRANSITORIO.** Debido a las circunstancias de fuerza mayor que están alterando la salud pública y el orden público económico, el Gobierno Nacional podrá establecer el tiempo y la forma de la convocatoria y las reuniones ordinarias del máximo órgano social de las personas jurídicas, incluidas las reuniones por derecho propio, para el año 2021 y las disposiciones necesarias para las reuniones pendientes del ejercicio 2020".
+La junta de socios o la asamblea se reunirá válidamente cualquier día y en cualquier lugar sin previa convocación, cuando se hallare representada la totalidad de los asociados.
 
-> [!info] Modificado por el Art. [[art. 6 Ley 2069 de 2020|6]] de la Ley 2069 de 2020
+Quienes conforme al artículo anterior puedan convocar a la junta de socios o a la asamblea, deberán hacerlo también cuando lo solicite un número de asociados representantes del 10% o más del capital social.
+
+**PARÁGRAFO TRANSITORIO.** Debido a las circunstancias de fuerza mayor que están alterando la salud pública y el orden público económico, el Gobierno Nacional podrá establecer el tiempo y la forma de la convocatoria y las reuniones ordinarias del máximo órgano social de las personas jurídicas, incluidas las reuniones por derecho propio, para el año 2021 y las disposiciones necesarias para las reuniones pendientes del ejercicio 2020.
+
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 6 Ley 2069 de 2020|6]] de la Ley 2069 de 2020, 'por medio de la cual se impulsa el emprendimiento en Colombia', publicada en el Diario Oficial No. 51.544 de 31 de diciembre de 2020.
 
 ---
 ← [[art. 181 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VII - Sección I|Sección I]] · [[art. 183 CCo]] →

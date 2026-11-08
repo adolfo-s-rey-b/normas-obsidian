@@ -14,8 +14,12 @@ capitulo: "[[CST - Título I - Capítulo V (2)|CAPÍTULO V - PROHIBICIONES Y SAN
 vigencia: "vigente"
 anterior: "[[art. 380 CST]]"
 siguiente: "[[art. 382 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#381"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -26,7 +30,9 @@ tags:
 
 ## Artículo 381. SANCIONES A LOS DIRECTORES
 
-Si el acto u omisión constitutivo de la transgresión es imputable a alguno de los directores o afiliados de un sindicato, y lo hayan ejecutado invocando su carácter de tales, el funcionario administrativo del Trabajo, previa comprobación que por sí mismo haga del hecho, requerirá al sindicato para que aplique al responsable o a los responsables las sanciones disciplinarias previstas en los estatutos. Vencido el término señalado en el requerimiento, que no será mayor de un (1) mes, sin que haya impuesto las sanciones, se entenderá que hay violación directa del sindicato para los efectos del artículo anterior.
+Si el acto u omisión constitutivo de la transgresión es imputable a alguno de los directores o afiliados de un sindicato, y lo hayan ejecutado invocando su carácter de tales, el funcionario administrativo del Trabajo, previa comprobación que por si mismo haga del hecho, requerirá al sindicato para que aplique al responsable o a los responsables las sanciones disciplinarias previstas en los estatutos. Vencido el término señalado en el requerimiento, que no será mayor de un (1) mes, sin que haya impuesto las sanciones, se entenderá que hay violación directa del sindicato para los efectos del artículo anterior.
+
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 398 CST|398]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 380 CST]] · ↑ [[CST - Título I - Capítulo V (2)|Capítulo V]] · [[art. 382 CST]] →

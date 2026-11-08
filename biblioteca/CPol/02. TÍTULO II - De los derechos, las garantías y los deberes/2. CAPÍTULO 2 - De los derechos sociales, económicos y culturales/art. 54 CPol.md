@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 2|CAPÍTULO 2 - De los derechos socia
 vigencia: "vigente"
 anterior: "[[art. 53 CPol]]"
 siguiente: "[[art. 55 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#54"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2017
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,23 +35,11 @@ tags:
 
 Es obligación del Estado y de los empleadores ofrecer formación y habilitación profesional y técnica a quienes lo requieran. El Estado debe propiciar la ubicación laboral de las personas en edad de trabajar y garantizar a los minusválidos el derecho a un trabajo acorde con sus condiciones de salud.
 
-> [!note] Ver Ley 119 de 1994
+> [!note] Concordancias: Ley 119 de 1994 Ley 361 de 1997; Art. [[art. 1 Ley 361 de 1997|1]] ; Art 35 Ley 378 de 1997 Ley 789 de 2002 Ley 1221 de 2008 Ley 1275 de 2009 Ley 1429 de 2010 Ley 1450 de 2011; Art. [[art. 176 Ley 1471 de 2011|176]] Ley 1471 de 2011 Ley 2117 de 2021 Ley 2121 de 2021 Ley 2125 de 2021
 
-> [!note] Ver Ley 361 de 1997; Art. [[art. 1 Ley 361 de 1997|1]] ; Art 35
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-562-92 ; C-606-92 ; C-303-2001 ; C-410-2001 ; C-862-2001 ; C-085-2002 ; C-263-2002 ; C-065-03 ; C-402-03 ; C-478-03 ; C-038-04 ; C-457-04 ; C-381-05 ; C-765-12 ; C-211-17 ;
 
-> [!note] Ver Ley 378 de 1997
-
-> [!note] Ver Ley 789 de 2002
-
-> [!note] Ver Ley 1221 de 2008
-
-> [!note] Ver Ley 1275 de 2009
-
-> [!note] Ver Ley 1429 de 2010
-
-> [!note] Ver Ley 1450 de 2011; Art. [[art. 176 Ley 1450 de 2011|176]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-562-92; C-606-92; C-303-2001; C-410-2001; C-862-2001; C-085-2002 ; C-263-2002; C-065-03; C-478-03; C-038-04 ; C-457-04; C-381-05 ; C-765-12; C-211-17
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 85 y 99)
 
 ---
 ← [[art. 53 CPol]] · ↑ [[CPol - Título II - Capítulo 2|Capítulo 2]] · [[art. 55 CPol]] →

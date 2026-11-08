@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo V|CAPÍTULO V - INFR
 vigencia: "vigente"
 anterior: "[[art. 1810 CCo]]"
 siguiente: "[[art. 1812 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1811"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 1811. DEFINICIÓN DE AERODROMOS PÚBLICOS Y PRIVADOS
 
-Son aeródromos públicos los que, aun siendo de propiedad privada, están destinados al uso público; los demás son privados.
+Son aeródromos públicos los que, aún siendo de propiedad privada, están destinados al uso público; los demás son privados.
 
 Se presumen públicos los que sean utilizados para la operación de aeronaves destinadas a prestar servicios remunerados a personas distintas del propietario.
 

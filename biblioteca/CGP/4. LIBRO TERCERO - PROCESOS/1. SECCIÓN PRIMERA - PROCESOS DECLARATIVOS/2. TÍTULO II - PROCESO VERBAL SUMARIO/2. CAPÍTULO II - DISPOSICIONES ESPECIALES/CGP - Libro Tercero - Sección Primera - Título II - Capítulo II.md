@@ -1,0 +1,34 @@
+---
+tipo: indice
+norma: "Ley 1564 de 2012"
+sigla: "CGP"
+nivel: "CAPÍTULO"
+etiqueta: "II"
+nombre: "DISPOSICIONES ESPECIALES"
+libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
+seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
+titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
+articulos: "arts. 393 a 398"
+tags:
+  - normas/indice
+  - normas/cgp
+---
+
+[[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]]
+
+## CAPÍTULO II - DISPOSICIONES ESPECIALES
+
+*Arts. 393 a 398*
+
+### Contenido
+
+- [[art. 393 CGP|Artículo 393]] — LANZAMIENTO POR OCUPACIÓN DE HECHO DE PREDIOS RURALES
+- [[art. 394 CGP|Artículo 394]] — PRESTACIÓN, MEJORA Y RELEVO DE CAUCIONES Y GARANTÍAS
+- [[art. 395 CGP|Artículo 395]] — PRIVACIÓN, SUSPENSIÓN Y RESTABLECIMIENTO DE LA PATRIA POTESTAD, REMOCIÓN DEL GUARDADOR Y PRIVACIÓN DE LA ADMINISTRACIÓN DE LOS BIENES DEL HIJO
+- [[art. 396 CGP|Artículo 396]] — ADJUDICACIÓN DE APOYOS PARA LA TOMA DE DECISIONES PROMOVIDO POR PERSONA DISTINTA AL TITULAR DEL ACTO JURÍDICO
+- [[art. 397 CGP|Artículo 397]] — ALIMENTOS A FAVOR DEL MAYOR DE EDAD
+- [[art. 397A CGP|Artículo 397A]] — ALIMENTOS A FAVOR DE MENORES DE EDAD
+- [[art. 398 CGP|Artículo 398]] — CANCELACIÓN, REPOSICIÓN Y REIVINDICACIÓN DE TÍTULOS VALORES
+
+---
+← [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Tercero - Sección Primera - Título II|Título II]]

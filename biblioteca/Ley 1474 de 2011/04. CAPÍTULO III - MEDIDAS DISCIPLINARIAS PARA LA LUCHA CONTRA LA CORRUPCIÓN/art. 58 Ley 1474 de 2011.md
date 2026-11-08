@@ -8,11 +8,16 @@ epigrafe: "Procedimiento verbal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 57 Ley 1474 de 2011]]"
 siguiente: "[[art. 59 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#58"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -41,7 +46,7 @@ El director del proceso podrá ordenar un receso, por el tiempo que estime indis
 
 ~~De la audiencia se levantará acta en la que se consignará sucintamente lo ocurrido en ella. Todas las decisiones se notifican en estrados.~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019
 
 > [!note] Nota: Expresión subrayada declarada EXEQUIBLE por la Corte Constitucional mediante Sentencia C-370 de 2012, en el entendido que este término solamente comenzará a correr a partir de la notificación del auto que ordena adelantar el proceso verbal.
 

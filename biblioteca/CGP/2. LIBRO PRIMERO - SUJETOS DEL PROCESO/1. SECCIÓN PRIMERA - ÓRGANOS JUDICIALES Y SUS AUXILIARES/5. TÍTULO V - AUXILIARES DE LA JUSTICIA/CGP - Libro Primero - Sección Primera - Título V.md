@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 47 CGP|Artículo 47]] — Naturaleza de los cargos
-- [[art. 48 CGP|Artículo 48]] — Designación
-- [[art. 49 CGP|Artículo 49]] — Comunicación del nombramiento, aceptación del cargo y relevo del auxiliar de la justicia
-- [[art. 50 CGP|Artículo 50]] — Exclusión de la lista
-- [[art. 51 CGP|Artículo 51]] — Custodia de bienes y dineros
-- [[art. 52 CGP|Artículo 52]] — Funciones del secuestre
+- [[art. 47 CGP|Artículo 47]] — NATURALEZA DE LOS CARGOS
+- [[art. 48 CGP|Artículo 48]] — DESIGNACIÓN
+- [[art. 49 CGP|Artículo 49]] — COMUNICACIÓN DEL NOMBRAMIENTO, ACEPTACIÓN DEL CARGO Y RELEVO DEL AUXILIAR DE LA JUSTICIA
+- [[art. 50 CGP|Artículo 50]] — EXCLUSIÓN DE LA LISTA
+- [[art. 51 CGP|Artículo 51]] — CUSTODIA DE BIENES Y DINEROS
+- [[art. 52 CGP|Artículo 52]] — FUNCIONES DEL SECUESTRE
 
 ---
 ← [[CGP - Libro Primero - Sección Primera - Título IV|Título IV]] · ↑ [[CGP - Libro Primero - Sección Primera|Sección Primera]]

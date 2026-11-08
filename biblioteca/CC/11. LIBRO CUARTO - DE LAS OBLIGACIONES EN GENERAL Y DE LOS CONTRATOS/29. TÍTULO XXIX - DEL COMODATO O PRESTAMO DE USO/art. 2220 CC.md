@@ -16,7 +16,7 @@ anterior: "[[art. 2219 CC]]"
 siguiente: "[[art. 2221 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,9 +29,9 @@ tags:
 
 Se entiende precario cuando no se presta la cosa para un servicio particular, ni se fija tiempo para su restitución.
 
-(sic)
-
 Constituye también precaria la tenencia de una cosa ajena, sin previo contrato y por ignorancia o mera tolerancia del dueño.
+
+(sic)
 
 ---
 ← [[art. 2219 CC]] · ↑ [[CC - Libro Cuarto - Título XXIX|Título XXIX]] · [[art. 2221 CC]] →

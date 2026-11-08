@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 3|CAPÍTULO 3 - Del régimen municipa
 vigencia: "vigente"
 anterior: "[[art. 320 CPol]]"
 siguiente: "[[art. 322 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#321"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1992
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -34,17 +39,17 @@ La ley dictará el estatuto básico y fijará el régimen administrativo de las 
 
 Las provincias serán creadas por ordenanza, a iniciativa del gobernador, de los alcaldes de los respectivos municipios o del número de ciudadanos que determine la ley.
 
-Para el ingreso a una provincia ya constituida deberá realizarse una consulta popular en los municipios interésados.
+Para el ingreso a una provincia ya constituida deberá realizarse una consulta popular en los municipios interesados.
 
 El departamento y los municipios aportarán a las provincias el porcentaje de sus ingresos corrientes que determinen la asamblea y los concejos respectivos.
 
-> [!note] Ver Ley 99 de 1993
+> [!note] Concordancias: Ley 99 de 1993 Ley 80 de 1993; Art. [[art. 2 Ley 1263 de 2008|2]] , Numeral 1, literal a Ley 1263 de 2008
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 2 Ley 80 de 1993|2]], Numeral 1, literal a
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-517-92 ;
 
-> [!note] Ver Ley 1263 de 2008
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 8, 26A, 38, 80, 101 y 106)
 
-CAPÍTULO 4.
+CAPITULO 4.
 
 DEL REGIMEN ESPECIAL
 

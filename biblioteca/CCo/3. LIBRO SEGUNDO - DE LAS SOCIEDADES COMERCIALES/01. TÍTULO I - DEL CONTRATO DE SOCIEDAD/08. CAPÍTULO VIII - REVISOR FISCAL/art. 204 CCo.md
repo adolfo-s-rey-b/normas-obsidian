@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo VIII|CAPÍTULO VIII - R
 vigencia: "vigente"
 anterior: "[[art. 203 CCo]]"
 siguiente: "[[art. 205 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#204"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -32,6 +36,8 @@ La elección del revisor fiscal se hará por la mayoría absoluta de la asamblea
 En las comanditarias por acciones, el revisor fiscal será elegido por la mayoría de votos de los comanditarios.
 
 En las sucursales de sociedades extranjeras lo designará el órgano competente de acuerdo con los estatutos.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo 21, inciso 1o. parte inicial, de la Ley 45 de diciembre 18 de 1990, el cual establece que 'Corresponderá al Superintendente Bancario o al presidente de la Comisión Nacional de Valores dar posesión al revisor fiscal de las entidades sometidas a su control y vigilancia. El Parágrafo del mismo artículo establece que 'Para la inscripción en el registro mercantil del nombramiento de los revisores fiscales se exigirá por parte de las Cámaras de Comercio copia de la correspondiente acta de posesión'.
 
 ---
 ← [[art. 203 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VIII|Capítulo VIII]] · [[art. 205 CCo]] →

@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo III|CAPÍTULO III - APO
 vigencia: "vigente"
 anterior: "[[art. 124 CCo]]"
 siguiente: "[[art. 126 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -33,7 +37,7 @@ A falta de estipulación expresa al respecto, la sociedad podrá emplear cualqui
 
 1\. Excluir de la sociedad al asociado incumplido;
 
-2\. Reducir su aporte a la parte del mismo que haya entregado o esté dispuesto a entregar, pero si esta reducción implica disminución del capital social se aplicará lo dispuesto en el artículo [[art. 145 CCo|145]]; y
+2\. Reducir su aporte a la parte del mismo que haya entregado o esté dispuesto a entregar, pero si esta reducción implica disminución del capital social se aplicará lo dispuesto en el artículo [[art. 145 CCo|145]] ; y
 
 3\. Hacer efectiva la entrega o pago del aporte.
 

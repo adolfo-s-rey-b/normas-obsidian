@@ -1,0 +1,47 @@
+---
+aliases:
+  - "CPP art. 391"
+  - "art. 391 Ley 906 de 2004"
+  - "Ley 906 de 2004 art. 391"
+  - "CPP 391"
+tipo: articulo
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+articulo: "391"
+epigrafe: "INTERROGATORIO CRUZADO DEL TESTIGO"
+libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
+titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
+capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
+parte: "[[CPP - Libro III - Título IV - Capítulo III - Parte II|PARTE II - REGLAS GENERALES PARA LA PRUEBA TESTIMONIAL]]"
+vigencia: "vigente"
+anterior: "[[art. 390 CPP]]"
+siguiente: "[[art. 392 CPP]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2007
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cpp
+  - vigencia/vigente
+---
+
+[[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
+
+## Artículo 391. INTERROGATORIO CRUZADO DEL TESTIGO
+
+Todo declarante, luego de las formalidades indicadas en el artículo anterior, en primer término será interrogado por la parte que hubiere ofrecido su testimonio como prueba. Este interrogatorio, denominado directo, se limitará a los aspectos principales de la controversia, se referirá a los hechos objeto del juicio o relativos a la credibilidad de otro declarante. No se podrán formular preguntas sugestivas ni se insinuará el sentido de las respuestas.
+
+En segundo lugar, si lo desea, la parte distinta a quien solicitó el testimonio , podrá formular preguntas al declarante en forma de contrainterrogatorio que se limitará a los temas abordados en el interrogatorio directo.
+
+Quien hubiere intervenido en el interrogatorio directo podrá agotar un turno de preguntas dirigidas a la aclaración de los puntos debatidos en el contrainterrogatorio, el cual se denomina redirecto. En estos eventos deberán seguirse las mismas reglas del directo.
+
+Finalmente, el declarante podrá ser nuevamente preguntado por la otra parte, si considera necesario hacer claridad sobre las respuestas dadas en el redirecto y sujeto a las pautas del contrainterrogatorio.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-209-07, mediante Sentencia C-343-07 de 9 de mayo de 2007, Magistrado Ponente Dr. Rodrigo Escobar Gil. - Aparte subrayado declarado EXEQUIBLE por los cargos analizados, por la Corte Constitucional mediante Sentencia C-209-07 de 21 de marzo de 2007, Magistrado Ponente Dr. Manuel José Cepeda.
+
+---
+← [[art. 390 CPP]] · ↑ [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]] · [[art. 392 CPP]] →

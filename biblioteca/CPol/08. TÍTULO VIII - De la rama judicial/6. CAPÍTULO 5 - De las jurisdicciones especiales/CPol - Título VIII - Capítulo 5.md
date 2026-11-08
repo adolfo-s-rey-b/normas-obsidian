@@ -24,7 +24,7 @@ tags:
 
 - [[art. 246 CPol|Artículo 246]]
 - [[art. 247 CPol|Artículo 247]]
-- [[art. 248 CPol|Artículo 248]]
+- [[art. 248 CPol|Artículo 248]] — (sic)
 
 ---
 ← [[CPol - Título VIII - Capítulo 4|Capítulo 4]] · ↑ [[CPol - Título VIII|Título VIII]] · [[CPol - Título VIII - Capítulo 6|Capítulo 6]] →

@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 24 Ley 472 de 1998|Artículo 24]] — Coadyuvancia
-- [[art. 25 Ley 472 de 1998|Artículo 25]] — Medidas Cautelares
-- [[art. 26 Ley 472 de 1998|Artículo 26]] — Oposición a las Medidas Cautelares
+- [[art. 24 Ley 472 de 1998|Artículo 24]] — COADYUVANCIA
+- [[art. 25 Ley 472 de 1998|Artículo 25]] — MEDIDAS CAUTELARES
+- [[art. 26 Ley 472 de 1998|Artículo 26]] — OPOSICION A LAS MEDIDAS CAUTELARES
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo V|Capítulo V]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo VII|Capítulo VII]] →

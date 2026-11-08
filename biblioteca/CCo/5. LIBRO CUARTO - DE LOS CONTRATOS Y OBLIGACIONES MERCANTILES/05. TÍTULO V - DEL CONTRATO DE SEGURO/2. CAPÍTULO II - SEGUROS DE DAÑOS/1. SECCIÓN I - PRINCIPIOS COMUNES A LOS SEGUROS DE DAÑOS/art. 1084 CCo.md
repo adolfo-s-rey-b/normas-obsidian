@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|SECCIÓN 
 vigencia: "vigente"
 anterior: "[[art. 1083 CCo]]"
 siguiente: "[[art. 1085 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1084"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 1084. CONCURRENCIA DE DISTINTOS INTERESES
 
 Sobre una misma cosa podrán concurrir distintos intereses, todos los cuales son asegurables, simultánea o sucesivamente, hasta por el valor de cada uno de ellos. Pero la indemnización, en caso de producirse el hecho que la origine, no podrá exceder del valor total de la cosa en el momento del siniestro. Su distribución entre los interesados se hará teniendo en cuenta el principio consignado en el artículo [[art. 1089 CCo|1089]].
+
+(CONCURRENCIA DE DISTINTOS INTERESES)
 
 ---
 ← [[art. 1083 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección I|Sección I]] · [[art. 1085 CCo]] →

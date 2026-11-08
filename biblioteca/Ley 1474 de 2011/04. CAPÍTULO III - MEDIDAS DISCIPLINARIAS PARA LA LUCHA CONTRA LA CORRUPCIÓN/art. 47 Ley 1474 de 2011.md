@@ -8,11 +8,16 @@ epigrafe: "Procedencia de la revocatoria directa"
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 46 Ley 1474 de 2011]]"
 siguiente: "[[art. 48 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#47"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -27,7 +32,7 @@ El artículo [[art. 122 Ley 1474 de 2011|122]] de la Ley 734 quedará así:
 
 ~~Los fallos sancionatorios y autos de archivo podrán ser revocados de oficio o a petición del sancionado, por el Procurador General de la Nación o por quien los profirió. El quejoso podrá solicitar la revocatoria del auto de archivo .~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019
 
 > [!note] Nota: Expresiones subrayadas declaradas EXEQUIBLES por la Corte Constitucional mediante Sentencia C-306 de 2012.
 

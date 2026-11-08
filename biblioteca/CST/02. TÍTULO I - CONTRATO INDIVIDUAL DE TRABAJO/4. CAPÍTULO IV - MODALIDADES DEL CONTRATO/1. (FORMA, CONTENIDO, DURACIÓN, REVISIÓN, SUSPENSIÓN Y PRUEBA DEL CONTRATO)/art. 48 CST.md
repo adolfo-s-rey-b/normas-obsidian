@@ -16,7 +16,12 @@ vigencia: "parcialmente derogado"
 anterior: "[[art. 47 CST]]"
 siguiente: "[[art. 49 CST]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#48"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1965
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst

@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 173 Decreto 19 de 2012]]"
 anterior: "[[art. 55 CCo]]"
 siguiente: "[[art. 57 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#56"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,9 +34,13 @@ tags:
 
 ## Artículo 56. LIBROS - HOJAS REMOVIBLES - OBLIGATORIEDAD DE NUMERAR
 
-> [!info] Modificado por el art. [[art. 173 Decreto 19 de 2012|173]], Decreto Nacional 019 de 2012
+Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme a Ia reglamentación del Gobierno.
 
-Los libros podrán ser de hojas removibles o formarse por series continuas de tarjetas, siempre que unas y otras estén numeradas, puedan conservarse archivadas en orden y aparezcan autenticadas conforme a la reglamentación del Gobierno.
+> [!info] Artículo modificado por el artículo [[art. 173 Decreto 19 de 2012|173]] del Decreto 19 de 2012. El nuevo texto es el siguiente:
+
+Los libros podrán llevarse en archivos electrónicos, que garanticen en forma ordenada Ia inalterabilidad, Ia integridad y seguridad de Ia información, así como su conservación. El registro de los libros electrónicos se adelantará de acuerdo con Ia reglamentación que expida el Gobierno Nacional.
+
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 173 Decreto 19 de 2012|173]] del Decreto 19 de 2012, publicado en el Diario Oficial No. 48.308 de 10 de enero de 2012.
 
 ---
 ← [[art. 55 CCo]] · ↑ [[CCo - Libro Primero - Título IV - Capítulo I|Capítulo I]] · [[art. 57 CCo]] →

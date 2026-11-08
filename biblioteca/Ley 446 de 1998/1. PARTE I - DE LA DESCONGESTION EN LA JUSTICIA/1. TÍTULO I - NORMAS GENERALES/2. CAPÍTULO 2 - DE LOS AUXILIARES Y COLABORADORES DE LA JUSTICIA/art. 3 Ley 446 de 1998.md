@@ -4,17 +4,19 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "3"
-epigrafe: "Designación y calidades"
+epigrafe: "DESIGNACION Y CALIDADES"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|CAPÍTULO 2 - DE LOS AUXILIARES Y COLABORADORES DE LA JUSTICIA]]"
 vigencia: "vigente"
-derogado_por:
-  - "[[art. 626 CGP]]"
 anterior: "[[art. 2 Ley 446 de 1998]]"
 siguiente: "[[art. 4 Ley 446 de 1998]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992#3"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0446_1998.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
@@ -23,9 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 3. Designación y calidades
-
-> [!warning] Derogado por el literal c), art. [[art. 626 CGP|626]], Ley 1564 de 2012
+## Artículo 3. DESIGNACION Y CALIDADES
 
 Adiciónase el artículo [[art. 9 Ley 446 de 1998|9]]o. del Código de Procedimiento Civil con el siguiente parágrafo:
 

@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo III|CAPÍTULO III - OFER
 vigencia: "vigente"
 anterior: "[[art. 861 CCo]]"
 siguiente: "[[art. 863 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#862"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 862. PACTO DE PREFERENCIA
 
-Reformado por el Artículo [[art. 13 Ley 26 de 1922|13]] de la Ley 26 de 1922. El pacto de preferencia, o sea aquel por el cual una de las partes se obliga a preferir a la otra para la conclusión de un contrato posterior, sobre determinadas cosas, por un precio fijo o por el que ofrezca un tercero, en determinadas condiciones o en las mismas que dicho tercero proponga, será obligatorio. El pacto de preferencia no podrá estipularse por un término superior a un año.
+El pacto de preferencia, o sea aquel por el cual una de las partes se obliga a preferir a la otra para la conclusión de un contrato posterior, sobre determinadas cosas, por un precio fijo o por el que ofrezca un tercero, en determinadas condiciones o en las mismas que dicho tercero proponga, será obligatorio. El pacto de preferencia no podrá estipularse por un término superior a un año.
 
 Si la preferencia se concede en favor de quien esté ejecutando a virtud de contrato una explotación económica determinada, el anterior plazo se contará a partir de la expiración del término del contrato en ejecución.
 

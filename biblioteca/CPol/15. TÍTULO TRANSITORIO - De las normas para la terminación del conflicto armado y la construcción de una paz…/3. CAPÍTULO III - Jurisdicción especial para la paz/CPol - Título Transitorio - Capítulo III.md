@@ -27,7 +27,7 @@ tags:
 - [[art. transitorio 7 (AL 1 de 2017) CPol|Artículo transitorio 7 (AL 1 de 2017)]] — CONFORMACIÓN
 - [[art. transitorio 8 (AL 1 de 2017) CPol|Artículo transitorio 8 (AL 1 de 2017)]] — ACCIONES DE TUTELA CONTRA ACCIONES U OMISIONES DE LA JEP
 - [[art. transitorio 9 (AL 1 de 2017) CPol|Artículo transitorio 9 (AL 1 de 2017)]] — ASUNTOS DE COMPETENCIA
-- [[art. transitorio 10 (AL 1 de 2017) CPol|Artículo transitorio 10 (AL 1 de 2017)]] — REVISIÓN DE SENTECIAS Y PROVIDENCIAS
+- [[art. transitorio 10 (AL 1 de 2017) CPol|Artículo transitorio 10 (AL 1 de 2017)]] — REVISIÓN DE SENTENCIAS Y PROVIDENCIAS
 - [[art. transitorio 11 (AL 1 de 2017) CPol|Artículo transitorio 11 (AL 1 de 2017)]] — SUSTITUCIÓN DE LA SANCIÓN PENAL
 - [[art. transitorio 12 (AL 1 de 2017) CPol|Artículo transitorio 12 (AL 1 de 2017)]] — PROCEDIMIENTO Y REGLAMENTO
 - [[art. transitorio 13 (AL 1 de 2017) CPol|Artículo transitorio 13 (AL 1 de 2017)]] — SANCIONES

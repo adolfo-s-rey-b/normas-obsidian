@@ -17,8 +17,9 @@ derogado_por:
 anterior: "[[art. 1060 CC]]"
 siguiente: "[[art. 1062 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2019
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,7 +34,9 @@ No son hábiles para testar:
 
 1o.) El impúber.
 
-2o.) <Numeral derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019>
+2o.)
+
+> [!warning] Numeral derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019
 
 > [!warning] Notas de Vigencia: Numeral derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019, 'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019.
 

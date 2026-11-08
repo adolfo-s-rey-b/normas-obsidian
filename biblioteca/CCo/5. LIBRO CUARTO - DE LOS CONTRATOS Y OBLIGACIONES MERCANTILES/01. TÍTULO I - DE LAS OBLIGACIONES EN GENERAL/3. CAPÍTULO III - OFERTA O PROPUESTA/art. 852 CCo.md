@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo III|CAPÍTULO III - OFER
 vigencia: "vigente"
 anterior: "[[art. 851 CCo]]"
 siguiente: "[[art. 853 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#852"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 852. TÉRMINO DE LA DISTANCIA
 
-El término de la distancia se calculará según el medio de comunicación empleado por el proponente.
+El termino de la distancia se calculará según el medio de comunicación empleado por el proponente.
 
 ---
 ← [[art. 851 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo III|Capítulo III]] · [[art. 853 CCo]] →

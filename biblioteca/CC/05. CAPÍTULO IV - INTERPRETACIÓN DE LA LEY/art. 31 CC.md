@@ -14,7 +14,7 @@ anterior: "[[art. 30 CC]]"
 siguiente: "[[art. 32 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -26,6 +26,8 @@ tags:
 ## Artículo 31
 
 Lo favorable u odioso de una disposición no se tomará en cuenta para ampliar o restringir su interpretación. La extensión que deba darse a toda ley se determinará por su genuino sentido, y según las reglas de interpretación precedentes.
+
+(INTERPRETACIÓN SOBRE LA EXTENSIÓN DE UNA LEY)
 
 ---
 ← [[art. 30 CC]] · ↑ [[CC - Capítulo IV|Capítulo IV]] · [[art. 32 CC]] →

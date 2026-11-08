@@ -1,0 +1,48 @@
+---
+aliases:
+  - "Ley 472 de 1998 art. 52"
+tipo: articulo
+norma: "Ley 472 de 1998"
+articulo: "52"
+epigrafe: "REQUISITOS DE LA DEMANDA"
+titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
+capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
+vigencia: "vigente"
+anterior: "[[art. 51 Ley 472 de 1998]]"
+siguiente: "[[art. 53 Ley 472 de 1998]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0472_1998.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_472_de_1998
+  - vigencia/vigente
+---
+
+[[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
+
+## Artículo 52. REQUISITOS DE LA DEMANDA
+
+La demanda mediante la cual se ejerza una acción de grupo deberá reunir los requisitos establecidos en el Código de Procedimiento Civil o en el Código Contencioso Administrativo, según el caso, y además expresar en ella:
+
+1\. El nombre del apoderado o apoderados, anexando el poder legalmente conferido.
+
+2\. La identificación de los poderdantes, identificando sus nombres, documentos de identidad y domicilio.
+
+3\. El estimativo del valor de los perjuicios que se hubieren ocasionado por la eventual vulneración.
+
+4\. Si no fuere posible proporcionar el nombre de todos los individuos de un mismo grupo, expresar los criterios para identificarlos y definir el grupo.
+
+5\. La identificación del demandado.
+
+6\. La justificación sobre la procedencia de la acción de grupo en los términos de los artículos [[art. 3 Ley 472 de 1998|3]] o. y 49 de la presente ley.
+
+7\. Los hechos de la demanda y las pruebas que se pretendan hacer valer dentro del proceso.
+
+**PARAGRAFO.** La demanda se dirigirá contra el presunto responsable del hecho u omisión que la motiva, el cual debe ser determinado. No obstante, cuando en el curso del proceso se establezca que existen otros posibles responsables, el juez de primera instancia, de oficio ordenará su citación.
+
+---
+← [[art. 51 Ley 472 de 1998]] · ↑ [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]] · [[art. 53 Ley 472 de 1998]] →

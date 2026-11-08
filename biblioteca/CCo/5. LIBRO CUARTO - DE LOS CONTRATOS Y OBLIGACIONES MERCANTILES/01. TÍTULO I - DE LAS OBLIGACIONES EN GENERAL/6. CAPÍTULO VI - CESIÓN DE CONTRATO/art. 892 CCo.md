@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo VI|CAPÍTULO VI - CESIÓ
 vigencia: "vigente"
 anterior: "[[art. 891 CCo]]"
 siguiente: "[[art. 893 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#892"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,6 +34,8 @@ tags:
 El contratante cedido no podrá cumplir válidamente en favor del cedente las prestaciones derivadas del contrato cedido, una vez notificada o aceptada la cesión o conocido el endoso.
 
 Si el cedente recibe o acepta tales prestaciones sin dar al contratante cedido aviso de la cesión o endoso del contrato, incurrirá en las sanciones previstas en el Código Penal para el delito de estafa.
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Artículo declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia del 7 de julio de 1977.
 
 ---
 ← [[art. 891 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo VI|Capítulo VI]] · [[art. 893 CCo]] →

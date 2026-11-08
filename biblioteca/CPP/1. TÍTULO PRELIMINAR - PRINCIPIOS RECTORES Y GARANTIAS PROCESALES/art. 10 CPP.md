@@ -8,13 +8,17 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "10"
-epigrafe: "Actuación procesal"
+epigrafe: "ACTUACIÓN PROCESAL"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 9 CPP]]"
 siguiente: "[[art. 11 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#10"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
@@ -23,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 10. Actuación procesal
+## Artículo 10. ACTUACIÓN PROCESAL
 
 La actuación procesal se desarrollará teniendo en cuenta el respeto a los derechos fundamentales de las personas que intervienen en ella y la necesidad de lograr la eficacia del ejercicio de la justicia. En ella los funcionarios judiciales harán prevalecer el derecho sustancial.
 

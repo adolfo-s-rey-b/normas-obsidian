@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "213"
-epigrafe: "Emplazamiento del demandado y designación de curador ad litem"
+epigrafe: "EMPLAZAMIENTO DEL DEMANDADO Y DESIGNACIÓN DE CURADOR AD LITEM"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|TÍTULO SEGUNDO - NOTIFICACIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 212 CPTSS]]"
 siguiente: "[[art. 214 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#213"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -25,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]]
 
-## Artículo 213. Emplazamiento del demandado y designación de curador ad litem
+## Artículo 213. EMPLAZAMIENTO DEL DEMANDADO Y DESIGNACIÓN DE CURADOR AD LITEM
 
 Cuando el demandante manifieste bajo la gravedad de juramento que ignora el domicilio del demandado, aseveración cuya legitimidad emana con la presentación de la demanda; una vez admitida, el juez deberá proceder a nombrarle un curador para la litis con quien se continuará el proceso; y paralelamente, ordenará su emplazamiento, con la advertencia de habérsele designado el respectivo curador ad litem.
 

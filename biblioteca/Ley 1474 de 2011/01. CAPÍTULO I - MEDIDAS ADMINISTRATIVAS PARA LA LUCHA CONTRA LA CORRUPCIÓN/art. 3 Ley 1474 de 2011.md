@@ -8,11 +8,16 @@ epigrafe: "Prohibición para que ex servidores públicos gestionen intereses pri
 capitulo: "[[Ley 1474 de 2011 - Capítulo I|CAPÍTULO I - MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 2 Ley 1474 de 2011]]"
 siguiente: "[[art. 4 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#3"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -31,7 +36,7 @@ Esta prohibición será indefinida en el tiempo respecto de los asuntos concreto
 
 ~~Se entiende por asuntos concretos de los cuales conoció en ejercicio de sus funciones aquellos de carácter particular y concreto que fueron objeto de decisión durante el ejercicio de sus funciones y de los cuales existe sujetos claramente determinados.~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019 .
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019 .
 
 > [!note] Ver Sentencia C-257 de 2013
 

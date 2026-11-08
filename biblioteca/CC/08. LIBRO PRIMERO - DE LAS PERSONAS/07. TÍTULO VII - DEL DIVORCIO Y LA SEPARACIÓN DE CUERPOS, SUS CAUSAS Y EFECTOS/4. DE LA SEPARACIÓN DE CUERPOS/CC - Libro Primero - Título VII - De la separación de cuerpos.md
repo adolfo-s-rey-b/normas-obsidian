@@ -21,7 +21,7 @@ tags:
 
 *Arts. 165 a 166*
 
-> [!info] Notas de Vigencia: Encabezado adicionado al Parágrafo 4o. por el artículo [[art. 15 CC|15]] de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Encabezado adicionado al Parágrafo 4o. por el artículo 15 de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 ### Contenido
 

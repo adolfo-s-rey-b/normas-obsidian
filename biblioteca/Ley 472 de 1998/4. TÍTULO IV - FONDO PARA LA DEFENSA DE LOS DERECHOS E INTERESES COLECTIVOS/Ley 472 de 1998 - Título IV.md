@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[Ley 472 de 1998 - Título IV - Capítulo Único|CAPÍTULO ÚNICO]] (arts. 70 a 73)
+- [[Ley 472 de 1998 - Título IV - Capítulo I|CAPÍTULO I]] (arts. 70 a 73)
 
 ---
 ← [[Ley 472 de 1998 - Título III|Título III]] · ↑ [[Ley 472 de 1998|Ley 472 de 1998]] · [[Ley 472 de 1998 - Título V|Título V]] →

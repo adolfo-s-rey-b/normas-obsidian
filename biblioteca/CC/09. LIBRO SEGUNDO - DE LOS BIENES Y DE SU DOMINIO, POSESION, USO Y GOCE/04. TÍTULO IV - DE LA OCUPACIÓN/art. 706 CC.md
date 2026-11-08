@@ -16,7 +16,7 @@ anterior: "[[art. 705 CC]]"
 siguiente: "[[art. 707 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,8 +28,6 @@ tags:
 ## Artículo 706. BIENES VACANTES Y MOSTRENCOS
 
 Estímanse bienes vacantes los bienes inmuebles que se encuentran dentro del territorio respectivo a cargo de la nación, sin dueño aparente o conocido, y mostrencos los bienes muebles que se hallen en el mismo caso.
-
-(sic - 82)
 
 ---
 ← [[art. 705 CC]] · ↑ [[CC - Libro Segundo - Título IV|Título IV]] · [[art. 707 CC]] →

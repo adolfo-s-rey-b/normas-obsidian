@@ -17,7 +17,12 @@ derogado_por:
 anterior: "[[art. 83 CCo]]"
 siguiente: "[[art. 85 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#84"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2014
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

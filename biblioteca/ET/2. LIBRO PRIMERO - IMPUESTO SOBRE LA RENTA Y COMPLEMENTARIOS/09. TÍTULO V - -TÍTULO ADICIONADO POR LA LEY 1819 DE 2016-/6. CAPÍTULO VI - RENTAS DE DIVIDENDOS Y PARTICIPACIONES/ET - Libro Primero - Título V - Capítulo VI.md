@@ -1,0 +1,42 @@
+---
+aliases:
+  - "ET CAPÍTULO VI - RENTAS DE DIVIDENDOS Y PARTICIPACIONES"
+tipo: indice
+norma: "Decreto Ley 624 de 1989"
+sigla: "ET"
+nivel: "CAPÍTULO"
+etiqueta: "VI"
+nombre: "RENTAS DE DIVIDENDOS Y PARTICIPACIONES"
+libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
+titulo: "[[ET - Libro Primero - Título V|TÍTULO V - <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>]]"
+articulos: "arts. 342 a 355"
+tags:
+  - normas/indice
+  - normas/et
+---
+
+[[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título V|Título V]]
+
+## CAPÍTULO VI - RENTAS DE DIVIDENDOS Y PARTICIPACIONES
+
+*Arts. 342 a 355*
+
+### Contenido
+
+- [[art. 342 ET|Artículo 342]] — INGRESOS DE LAS RENTAS DE DIVIDENDOS Y PARTICIPACIONES
+- [[art. 343 ET|Artículo 343]] — RENTA LÍQUIDA
+- [[art. 344 ET|Artículo 344]] — REGISTRO CONTABLE DE LOS AJUSTES A LOS PASIVOS
+- [[art. 345 ET|Artículo 345]] — PROCEDIMIENTO PARA EL AJUSTE DEL PATRIMONIO LÍQUIDO
+- [[art. 346 ET|Artículo 346]] — VALORES A EXCLUIR DEL PATRIMONIO LÍQUIDO
+- [[art. 347 ET|Artículo 347]] — AJUSTES AL PATRIMONIO LÍQUIDO QUE HA SUFRIDO DISMINUCIONES O AUMENTOS DURANTE EL AÑO
+- [[art. 348 ET|Artículo 348]] — CUENTA DE "CORRECCIÓN MONETARIA".Los
+- [[art. 349 ET|Artículo 349]] — EFECTOS DEL REGISTRO DE LOS AJUSTES DE NATURALEZA CRÉDITO FRENTE A LOS GASTOS Y RENDIMIENTOS FINANCIEROS
+- [[art. 350 ET|Artículo 350]] — UTILIDAD PÉRDIDA POR EXPOSICIÓN A LA INFLACIÓN
+- [[art. 351 ET|Artículo 351]] — COMPENSACIÓN DE PÉRDIDAS
+- [[art. 352 ET|Artículo 352]] — TRATAMIENTOS DE LAS GANANCIAS OCASIONALES
+- [[art. 353 ET|Artículo 353]] — AJUSTES DE BIENES ADQUIRIDOS CON ANTERIORIDAD A 1992
+- [[art. 354 ET|Artículo 354]] — DEDUCCIÓN TEÓRICA
+- [[art. 355 ET|Artículo 355]] — PROCEDIMIENTO PARA AJUSTAR INVENTARIOS FINALES
+
+---
+← [[ET - Libro Primero - Título V - Capítulo V|Capítulo V]] · ↑ [[ET - Libro Primero - Título V|Título V]]

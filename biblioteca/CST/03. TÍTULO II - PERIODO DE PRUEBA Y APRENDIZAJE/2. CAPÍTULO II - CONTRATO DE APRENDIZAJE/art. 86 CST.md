@@ -17,7 +17,12 @@ modificado_por:
 anterior: "[[art. 85 CST]]"
 siguiente: "[[art. 87 CST]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#86"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1959
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst

@@ -15,8 +15,13 @@ titulo: "[[CPol - Título XIII|TÍTULO XIII - De la reforma de la Constitución]
 vigencia: "vigente"
 anterior: "[[art. 378 CPol]]"
 siguiente: "[[art. 380 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#379"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2014
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -31,9 +36,9 @@ Los Actos Legislativos, la convocatoria a referendo, la consulta popular o el ac
 
 La acción pública contra estos actos sólo procederá dentro del año siguiente a su promulgación, con observancia de lo dispuesto en el artículo [[art. 241 CPol|241]] numeral 2.
 
-> [!note] Ver Ley 134 de 1994; Art. [[art. 60 Ley 134 de 1994|60]]
+> [!note] Concordancias: Ley 134 de 1994; Art. [[art. 60 Ley 134 de 1994|60]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-454-93 ; C-387-97; C-551-03 ; C-1200-03; C-1092-03; C-514-04; C-816-04 ; C-970-04; C-971-04; C-1040-05; C-141-10; C-397-10; C-317-12; C-474-13; C-013-14
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-454-93 ; C-387-97 ; C-551-03 ; C-1200-03 ; C-1092-03 ; C-514-04 ; C-816-04 ; C-970-04 ; C-971-04 ; C-1040-05 ; C-141-10 ; C-397-10 ; C-317-12 ; C-474-13 ; C-013-14 ;
 
 ---
 ← [[art. 378 CPol]] · ↑ [[CPol - Título XIII|Título XIII]] · [[art. 380 CPol]] →

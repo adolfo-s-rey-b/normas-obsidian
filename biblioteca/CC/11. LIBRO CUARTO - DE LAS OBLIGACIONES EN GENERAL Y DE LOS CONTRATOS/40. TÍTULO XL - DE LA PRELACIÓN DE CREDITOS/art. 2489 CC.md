@@ -18,7 +18,7 @@ anterior: "[[art. 2488 CC]]"
 siguiente: "[[art. 2490 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,7 +33,7 @@ Sobre las especies identificables que pertenezcan a otras personas por razón de
 
 Podrán, así mismo, subrogarse en los derechos del deudor, como arrendador o arrendatario, según lo dispuesto en los artículos [[art. 2023 CC|2023]] y [[art. 2026 CC|2026]] .
 
-<Inciso tercero derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil>
+> [!warning] Inciso tercero derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil
 
 > [!warning] Notas de Vigencia: Inciso 3o. derogado por el artículo [[art. 698 CPC|698]] del C.P.C., publicado en el Diario Oficial No. 33.150 de 21 de septiembre de 1970.
 

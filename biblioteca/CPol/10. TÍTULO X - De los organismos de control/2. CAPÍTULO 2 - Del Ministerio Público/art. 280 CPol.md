@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título X - Capítulo 2|CAPÍTULO 2 - Del Ministerio Públic
 vigencia: "vigente"
 anterior: "[[art. 279 CPol]]"
 siguiente: "[[art. 281 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#280"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2024
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,11 +33,11 @@ tags:
 
 ## Artículo 280
 
-Los agentes del Ministerio Público tendrán las mismas calidades, categoria, remuneración, derechos y prestaciones de los magistrados y jueces de mayor jerarquia ante quienes ejerzan el cargo.
+Los agentes del Ministerio Público tendrán las mismas calidades, categoría, remuneración, derechos y prestaciones de los magistrados y jueces de mayor jerarquía ante quienes ejerzan el cargo.
 
-> [!note] Ver Ley 43 de 1993; Art. [[art. 28 Ley 43 de 1993|28]]
+> [!note] Concordancias: Ley 43 de 1993; Art. [[art. 28 Ley 43 de 1993|28]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-146-2001 ; C-1067-2001 ; C-101-13
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-487-93 ; C-146-2001 ; C-200-2001 ; C-1067-2001 ; C-101-13 ; C-214-24 ;
 
 ---
 ← [[art. 279 CPol]] · ↑ [[CPol - Título X - Capítulo 2|Capítulo 2]] · [[art. 281 CPol]] →

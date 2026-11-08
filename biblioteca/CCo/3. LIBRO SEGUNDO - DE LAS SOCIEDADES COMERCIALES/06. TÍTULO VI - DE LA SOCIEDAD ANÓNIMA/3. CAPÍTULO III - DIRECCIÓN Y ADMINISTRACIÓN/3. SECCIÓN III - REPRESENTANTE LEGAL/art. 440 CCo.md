@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo III - Sección III|SECC
 vigencia: "vigente"
 anterior: "[[art. 439 CCo]]"
 siguiente: "[[art. 441 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#440"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +34,8 @@ tags:
 ## Artículo 440. REPRESENTANTE LEGAL DE LA SOCIEDAD ANÓNIMA - REPRESENTANTE - REMOCIÓN
 
 La sociedad anónima tendrá por lo menos un representante legal, con uno o más suplentes, designados por la junta directiva para períodos determinados, quienes podrán ser reelegidos indefinidamente o removidos en cualquier tiempo. Los estatutos podrán deferir esta designación a la asamblea.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-384-08 de 22 de abril de 2008, Magistrado Ponente Dr. Jaime Córdoba Triviño.
 
 ---
 ← [[art. 439 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo III - Sección III|Sección III]] · [[art. 441 CCo]] →

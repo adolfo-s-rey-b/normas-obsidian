@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Primero - Título VI|TÍTULO VI - DE LAS CÁMARAS DE COME
 vigencia: "vigente"
 anterior: "[[art. 86 CCo]]"
 siguiente: "[[art. 88 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#87"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,6 +31,8 @@ tags:
 ## Artículo 87. VIGILANCIA Y CONTROL DEL CUMPLIMIENTO DE FUNCIONES
 
 El cumplimiento de las funciones propias de las cámaras de comercio estará sujeto a la vigilancia y control de la Superintendencia de Industria y Comercio. Esta podrá imponer multas sucesivas hasta de cincuenta mil pesos, o decretar la suspensión o cierre de la cámara renuente, según la gravedad de la infracción cometida.
+
+> [!note] Notas de Vigencia: * A partir del 1 de enero de 2022, la Superintendencia de Sociedades ejercerá las competencias asignadas por la Ley a la Superintendencia de Industria y Comercio para la inspección, vigilancia y control de las cámaras de comercio, mediante el artículo [[art. 70 Ley 2069 de 2020|70]] de la Ley 2069 de 2020, 'por medio de la cual se impulsa el emprendimiento en Colombia', publicada en el Diario Oficial No. 51.544 de 31 de diciembre de 2020.
 
 ---
 ← [[art. 86 CCo]] · ↑ [[CCo - Libro Primero - Título VI|Título VI]] · [[art. 88 CCo]] →

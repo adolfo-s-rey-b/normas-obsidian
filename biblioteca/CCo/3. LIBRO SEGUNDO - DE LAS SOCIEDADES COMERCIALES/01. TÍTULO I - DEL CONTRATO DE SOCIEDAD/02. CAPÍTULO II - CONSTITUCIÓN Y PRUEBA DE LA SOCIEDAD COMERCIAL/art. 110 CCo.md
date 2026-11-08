@@ -15,8 +15,13 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo II|CAPÍTULO II - CONST
 vigencia: "vigente"
 anterior: "[[art. 109 CCo]]"
 siguiente: "[[art. 111 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#110"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -36,6 +41,8 @@ La sociedad comercial se constituirá por escritura pública en la cual se expre
 3\. El domicilio de la sociedad y el de las distintas sucursales que se establezcan en el mismo acto de constitución;
 
 4\. El objeto social, esto es, la empresa o negocio de la sociedad, haciendo una enunciación clara y completa de las actividades principales. Será ineficaz la estipulación en virtud de la cual el objeto social se extienda a actividades enunciadas en forma indeterminada o que no tengan una relación directa con aquél;
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre el inciso 4o. por ineptitud de la demanda, mediante Sentencia C-190-08 de 27 de febrero de 2008, Magistrado Ponente Dr. Marco Gerardo Monroy Cabra.
 
 5\. El capital social, la parte del mismo que se suscribe y la que se paga por cada asociado en el acto de la constitución. En las sociedades por acciones deberá expresarse, además, el capital suscrito y el pagado, la clase y valor nominal de las acciones representativas del capital, la forma y términos en que deberán cancelarse las cuotas debidas, cuyo plazo no podrá exceder de un año;
 

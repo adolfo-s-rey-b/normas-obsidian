@@ -17,8 +17,9 @@ derogado_por:
 anterior: "[[art. 135 CC]]"
 siguiente: "[[art. 137 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +30,9 @@ tags:
 
 ## Artículo 136. INMINENTE PELIGRO DE MUERTE
 
-<Aparte tachado derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012> Cuando alguno de los contrayentes o ambos estuvieren en inminente peligro de muerte, ~~y no hubiere por este tiempo de practicar las diligencias de que habla el artículo [[art. 130 CC|130]]~~, podrá procederse a la celebración del matrimonio ~~sin tales formalidades~~, siempre que los contrayentes justifiquen que no se hallan en ninguno de los casos del artículo [[art. 140 CC|140]]. Pero si pasados cuarenta días no hubiere acontecido la muerte que se temía, el matrimonio no surtirá efectos, si no se revalida observándose las formalidades legales.
+Cuando alguno de los contrayentes o ambos estuvieren en inminente peligro de muerte, ~~y no hubiere por este tiempo de practicar las diligencias de que habla el artículo [[art. 130 CC|130]]~~, podrá procederse a la celebración del matrimonio ~~sin tales formalidades~~, siempre que los contrayentes justifiquen que no se hallan en ninguno de los casos del artículo [[art. 140 CC|140]]. Pero si pasados cuarenta días no hubiere acontecido la muerte que se temía, el matrimonio no surtirá efectos, si no se revalida observándose las formalidades legales.
+
+> [!warning] Aparte tachado derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 
 > [!warning] Notas de Vigencia: Aparte tachado derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir de su promulgación.
 

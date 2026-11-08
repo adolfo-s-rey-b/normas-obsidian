@@ -19,8 +19,9 @@ modificado_por:
 anterior: "[[art. 1795 CC]]"
 siguiente: "[[art. 1797 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1974
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -35,9 +36,9 @@ La sociedad es obligada al pago:
 
 1o.) De todas las pensiones e intereses que corra, sea contra la sociedad, sea contra cualquiera de los cónyuges y que se devenguen durante la sociedad.
 
-> [!info] Numeral modificado por el artículo [[art. 62 Decreto 2820 de 1974|62]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
-
 2o.)
+
+> [!info] Numeral modificado por el artículo [[art. 62 Decreto 2820 de 1974|62]] del Decreto 2820 de 1974. El nuevo texto es el siguiente:
 
 2\. De las deudas y obligaciones contraídas durante su existencia por el marido o la mujer, y que no fueren personales de aquél o ésta, como lo serían las que se contrayeren por el establecimiento de los hijos de un matrimonio anterior.
 

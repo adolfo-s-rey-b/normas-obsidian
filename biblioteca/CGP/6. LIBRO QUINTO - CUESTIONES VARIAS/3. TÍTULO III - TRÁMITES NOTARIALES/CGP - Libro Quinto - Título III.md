@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 617 CGP|Artículo 617]] — Trámites notariales
+- [[art. 617 CGP|Artículo 617]] — TRÁMITES NOTARIALES
 
 ---
 ← [[CGP - Libro Quinto - Título II|Título II]] · ↑ [[CGP - Libro Quinto|Libro Quinto]] · [[CGP - Libro Quinto - Título IV|Título IV]] →

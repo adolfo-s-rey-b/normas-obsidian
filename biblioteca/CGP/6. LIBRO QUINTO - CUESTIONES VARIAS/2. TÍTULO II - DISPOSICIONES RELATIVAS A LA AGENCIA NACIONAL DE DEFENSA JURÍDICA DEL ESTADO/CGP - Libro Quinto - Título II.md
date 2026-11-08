@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 610 CGP|Artículo 610]] — Intervención de la Agencia Nacional de Defensa Jurídica del Estado
-- [[art. 611 CGP|Artículo 611]] — Suspensión del proceso por intervención de la Agencia Nacional de Defensa Jurídica del Estado
+- [[art. 610 CGP|Artículo 610]] — INTERVENCIÓN DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+- [[art. 611 CGP|Artículo 611]] — SUSPENSIÓN DEL PROCESO POR INTERVENCIÓN DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
 - [[art. 612 CGP|Artículo 612]]
-- [[art. 613 CGP|Artículo 613]] — Audiencia de conciliación extrajudicial en los asuntos contencioso administrativos
-- [[art. 614 CGP|Artículo 614]] — Extensión de la jurisprudencia
+- [[art. 613 CGP|Artículo 613]] — AUDIENCIA DE CONCILIACIÓN EXTRAJUDICIAL EN LOS ASUNTOS CONTENCIOSO ADMINISTRATIVOS
+- [[art. 614 CGP|Artículo 614]] — EXTENSIÓN DE LA JURISPRUDENCIA
 - [[art. 615 CGP|Artículo 615]]
 - [[art. 616 CGP|Artículo 616]]
 

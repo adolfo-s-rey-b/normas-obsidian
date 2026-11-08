@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2512 CC]]"
 siguiente: "[[art. 2514 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2021
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -34,7 +35,9 @@ El que quiera aprovecharse de la prescripción debe alegarla; el juez no puede d
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso declarado EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-091-18 de 26 de septiembre de 2018, Magistrado Ponente Dr. Alejandro Linares Cantillo. - La Corte Constitucional se declaró INHIBIDA de fallar sobre este inciso por ineptitud de la demanda, mediante Sentencia C-351-17 de 25 de mayo de 2017, Magistrado Ponente Dr. Antonio José Lizarazo Ocampo.
 
-<Inciso adicionado por el artículo [[art. 2 Ley 791 de 2002|2]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> La prescripción tanto la adquisitiva como la extintiva, podrá invocarse por vía de acción o por vía de excepción, por el propio prescribiente, o por sus acreedores o cualquiera otra persona que tenga interés en que sea declarada, inclusive habiendo aquel renunciado a ella.
+La prescripción tanto la adquisitiva como la extintiva, podrá invocarse por vía de acción o por vía de excepción, por el propio prescribiente, o por sus acreedores o cualquiera otra persona que tenga interés en que sea declarada, inclusive habiendo aquel renunciado a ella.
+
+> [!info] Inciso adicionado por el artículo [[art. 2 Ley 791 de 2002|2]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Inciso adicionado por el artículo [[art. 2 Ley 791 de 2002|2]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002
 

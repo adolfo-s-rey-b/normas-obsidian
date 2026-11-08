@@ -20,27 +20,27 @@ tags:
 
 ### Contenido
 
-- [[art. 13 Ley 1474 de 2011|Artículo 13]] — Exclusión de beneficios en los delitos contra la Administración Pública relacionados con corrupción
-- [[art. 14 Ley 1474 de 2011|Artículo 14]] — Ampliación de términos de prescripción penal
-- [[art. 15 Ley 1474 de 2011|Artículo 15]] — Estafa sobre recursos públicos y en el Sistema de Seguridad Social Integral
-- [[art. 16 Ley 1474 de 2011|Artículo 16]] — Corrupción privada
-- [[art. 17 Ley 1474 de 2011|Artículo 17]] — Administración desleal
-- [[art. 18 Ley 1474 de 2011|Artículo 18]] — Utilización indebida de información privilegiada
-- [[art. 19 Ley 1474 de 2011|Artículo 19]] — Especulación de medicamentos y dispositivos médicos
-- [[art. 20 Ley 1474 de 2011|Artículo 20]] — Agiotaje con medicamentos y dispositivos médicos
-- [[art. 21 Ley 1474 de 2011|Artículo 21]] — Evasión fiscal
-- [[art. 22 Ley 1474 de 2011|Artículo 22]] — Omisión de control en el sector de la salud
-- [[art. 23 Ley 1474 de 2011|Artículo 23]] — Peculado por aplicación oficial diferente frente a recursos de la seguridad social
-- [[art. 24 Ley 1474 de 2011|Artículo 24]] — Peculado culposo frente a recursos de la seguridad social integral
-- [[art. 25 Ley 1474 de 2011|Artículo 25]] — Circunstancias de atenuación punitiva
-- [[art. 26 Ley 1474 de 2011|Artículo 26]] — Fraude de subvenciones
-- [[art. 27 Ley 1474 de 2011|Artículo 27]] — Acuerdos restrictivos de la competencia
-- [[art. 28 Ley 1474 de 2011|Artículo 28]] — Tráfico de influencias de particular
-- [[art. 29 Ley 1474 de 2011|Artículo 29]] — Enriquecimiento ilícito
+- [[art. 13 Ley 1474 de 2011|Artículo 13]] — EXCLUSIÓN DE BENEFICIOS EN LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA RELACIONADOS CON CORRUPCIÓN
+- [[art. 14 Ley 1474 de 2011|Artículo 14]] — AMPLIACIÓN DE TÉRMINOS DE PRESCRIPCIÓN PENAL
+- [[art. 15 Ley 1474 de 2011|Artículo 15]] — ESTAFA SOBRE RECURSOS PÚBLICOS Y EN EL SISTEMA DE SEGURIDAD SOCIAL INTEGRAL
+- [[art. 16 Ley 1474 de 2011|Artículo 16]] — CORRUPCIÓN PRIVADA
+- [[art. 17 Ley 1474 de 2011|Artículo 17]] — ADMINISTRACIÓN DESLEAL
+- [[art. 18 Ley 1474 de 2011|Artículo 18]] — UTILIZACIÓN INDEBIDA DE INFORMACIÓN PRIVILEGIADA
+- [[art. 19 Ley 1474 de 2011|Artículo 19]] — ESPECULACIÓN DE MEDICAMENTOS Y DISPOSITIVOS MÉDICOS
+- [[art. 20 Ley 1474 de 2011|Artículo 20]] — AGIOTAJE CON MEDICAMENTOS Y DISPOSITIVOS MÉDICOS
+- [[art. 21 Ley 1474 de 2011|Artículo 21]] — EVASIÓN FISCAL
+- [[art. 22 Ley 1474 de 2011|Artículo 22]] — OMISIÓN DE CONTROL EN EL SECTOR DE LA SALUD
+- [[art. 23 Ley 1474 de 2011|Artículo 23]] — PECULADO POR APLICACIÓN OFICIAL DIFERENTE FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL
+- [[art. 24 Ley 1474 de 2011|Artículo 24]] — PECULADO CULPOSO FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL INTEGRAL
+- [[art. 25 Ley 1474 de 2011|Artículo 25]] — CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA
+- [[art. 26 Ley 1474 de 2011|Artículo 26]] — FRAUDE DE SUBVENCIONES
+- [[art. 27 Ley 1474 de 2011|Artículo 27]] — ACUERDOS RESTRICTIVOS DE LA COMPETENCIA
+- [[art. 28 Ley 1474 de 2011|Artículo 28]] — TRÁFICO DE INFLUENCIAS DE PARTICULAR
+- [[art. 29 Ley 1474 de 2011|Artículo 29]] — ENRIQUECIMIENTO ILÍCITO
 - [[art. 30 Ley 1474 de 2011|Artículo 30]] — Soborno trasnacional
-- [[art. 31 Ley 1474 de 2011|Artículo 31]] — Soborno
-- [[art. 32 Ley 1474 de 2011|Artículo 32]] — Soborno en la actuación penal
-- [[art. 33 Ley 1474 de 2011|Artículo 33]] — Circunstancias de agravación punitiva
+- [[art. 31 Ley 1474 de 2011|Artículo 31]] — SOBORNO
+- [[art. 32 Ley 1474 de 2011|Artículo 32]] — SOBORNO EN LA ACTUACIÓN PENAL
+- [[art. 33 Ley 1474 de 2011|Artículo 33]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
 - [[art. 34 Ley 1474 de 2011|Artículo 34]] — Responsabilidad administrativa sancionatoria contra personas jurídicas y sucursales de sociedades extranjeras
 - [[art. 34-1 Ley 1474 de 2011|Artículo 34-1]]
 - [[art. 34-2 Ley 1474 de 2011|Artículo 34-2]] — SANCIONES ADMINISTRATIVAS A PERSONAS JURÍDICAS Y SUCURSALES DE SOCIEDADES EXTRANJERAS DOMICILIADAS EN COLOMBIA
@@ -49,12 +49,12 @@ tags:
 - [[art. 34-5 Ley 1474 de 2011|Artículo 34-5]] — INICIO DE LA ACTUACIÓN ADMINISTRATIVA
 - [[art. 34-6 Ley 1474 de 2011|Artículo 34-6]] — CADUCIDAD DE LAS INVESTIGACIONES ADMINISTRATIVAS
 - [[art. 34-7 Ley 1474 de 2011|Artículo 34-7]] — PROGRAMAS DE TRANSPARENCIA Y ÉTICA EMPRESARIAL
-- [[art. 35 Ley 1474 de 2011|Artículo 35]] — Ampliación de términos para investigación
-- [[art. 36 Ley 1474 de 2011|Artículo 36]] — Operaciones encubiertas contra la corrupción
-- [[art. 37 Ley 1474 de 2011|Artículo 37]] — Pruebas anticipadas
-- [[art. 38 Ley 1474 de 2011|Artículo 38]] — Aumento de términos respecto de las causales de libertad en investigaciones relacionadas con corrupción
-- [[art. 39 Ley 1474 de 2011|Artículo 39]] — Restricción de la detención domiciliaria
-- [[art. 40 Ley 1474 de 2011|Artículo 40]] — Principio de oportunidad para los delitos de cohecho
+- [[art. 35 Ley 1474 de 2011|Artículo 35]] — AMPLIACIÓN DE TÉRMINOS PARA INVESTIGACIÓN
+- [[art. 36 Ley 1474 de 2011|Artículo 36]] — OPERACIONES ENCUBIERTAS CONTRA LA CORRUPCIÓN
+- [[art. 37 Ley 1474 de 2011|Artículo 37]] — PRUEBAS ANTICIPADAS
+- [[art. 38 Ley 1474 de 2011|Artículo 38]] — AUMENTO DE TÉRMINOS RESPECTO DE LAS CAUSALES DE LIBERTAD EN INVESTIGACIONES RELACIONADAS CON CORRUPCIÓN
+- [[art. 39 Ley 1474 de 2011|Artículo 39]] — RESTRICCIÓN DE LA DETENCIÓN DOMICILIARIA
+- [[art. 40 Ley 1474 de 2011|Artículo 40]] — PRINCIPIO DE OPORTUNIDAD PARA LOS DELITOS DE COHECHO
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo I (2)|Capítulo I]] · ↑ [[Ley 1474 de 2011|Ley 1474 de 2011]] · [[Ley 1474 de 2011 - Capítulo III|Capítulo III]] →

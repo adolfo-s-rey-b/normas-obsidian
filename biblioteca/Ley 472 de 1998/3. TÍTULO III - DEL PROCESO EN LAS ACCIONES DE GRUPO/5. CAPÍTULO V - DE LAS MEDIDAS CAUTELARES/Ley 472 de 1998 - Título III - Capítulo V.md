@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 58 Ley 472 de 1998|Artículo 58]] — Clases de Medidas
-- [[art. 59 Ley 472 de 1998|Artículo 59]] — Petición y Decreto de estas Medidas
-- [[art. 60 Ley 472 de 1998|Artículo 60]] — Cumplimiento de las Medidas
-- [[art. 61 Ley 472 de 1998|Artículo 61]] — Diligencia de Conciliación
+- [[art. 58 Ley 472 de 1998|Artículo 58]] — CLASES DE MEDIDAS
+- [[art. 59 Ley 472 de 1998|Artículo 59]] — PETICION Y DECRETO DE ESTAS MEDIDAS
+- [[art. 60 Ley 472 de 1998|Artículo 60]] — CUMPLIMIENTO DE LAS MEDIDAS
+- [[art. 61 Ley 472 de 1998|Artículo 61]] — DILIGENCIA DE CONCILIACION
 
 ---
 ← [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]] · ↑ [[Ley 472 de 1998 - Título III|Título III]] · [[Ley 472 de 1998 - Título III - Capítulo VI|Capítulo VI]] →

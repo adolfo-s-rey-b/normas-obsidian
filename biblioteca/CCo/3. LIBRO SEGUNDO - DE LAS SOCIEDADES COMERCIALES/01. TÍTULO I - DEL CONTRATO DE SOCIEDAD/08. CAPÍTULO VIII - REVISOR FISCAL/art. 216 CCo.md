@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo VIII|CAPÍTULO VIII - R
 vigencia: "vigente"
 anterior: "[[art. 215 CCo]]"
 siguiente: "[[art. 217 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#216"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +32,10 @@ tags:
 ## Artículo 216. INCUMPLIMIENTO DE FUNCIONES DEL REVISOR FISCAL
 
 El revisor fiscal que no cumpla las funciones previstas en la ley, o que las cumpla irregularmente o en forma negligente, o que falte a la reserva prescrita en el artículo [[art. 214 CCo|214]], será sancionado con multa hasta de veinte mil pesos, o con suspensión del cargo, de un mes a un año, según la gravedad de la falta u omisión. En caso de reincidencia se doblarán las sanciones anteriores y podrá imponerse la interdicción permanente o definitiva para el ejercicio del cargo de revisor fiscal, según la gravedad de la falta.
+
+(Notas del Editor: Para la interpretación de este artículo, en lo pertinente a multas, debe tenerse en cuenta lo dispuesto por el artículo [[art. 86 Ley 222 de 1995|86]] , numeral 3, de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995. El texto referido es el siguiente:
+
+ARTÍCULO 86. Además la Superintendencia de Sociedades cumplirá las siguientes funciones: 3. Imponer sanciones o multas, sucesivas o no, hasta de doscientos salarios mínimos legales mensuales, cualquiera sea el caso, a quienes incumplan sus órdenes, la ley o los estatutos.)
 
 ---
 ← [[art. 215 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VIII|Capítulo VIII]] · [[art. 217 CCo]] →

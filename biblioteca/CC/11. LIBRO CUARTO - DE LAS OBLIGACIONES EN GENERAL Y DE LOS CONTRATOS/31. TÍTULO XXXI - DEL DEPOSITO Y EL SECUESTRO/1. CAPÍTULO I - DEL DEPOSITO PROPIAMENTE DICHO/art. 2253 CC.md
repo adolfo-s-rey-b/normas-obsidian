@@ -17,7 +17,7 @@ anterior: "[[art. 2252 CC]]"
 siguiente: "[[art. 2254 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,7 +28,9 @@ tags:
 
 ## Artículo 2253. RESTITUCIÓN DE LA COSA
 
-El depositario es obligado a la restitución de la misma cosa o cosas individuales que se han confiado en depósito, aunque consistan en dinero o cosas fungibles, salvo el caso del artículo [[art. 2206 CC|2206]] <sic 2246>.
+El depositario es obligado a la restitución de la misma cosa o cosas individuales que se han confiado en depósito, aunque consistan en dinero o cosas fungibles, salvo el caso del artículo [[art. 2206 CC|2206]] .
+
+(sic 2246)
 
 La cosa depositada debe restituir con todas sus accesiones y frutos.
 

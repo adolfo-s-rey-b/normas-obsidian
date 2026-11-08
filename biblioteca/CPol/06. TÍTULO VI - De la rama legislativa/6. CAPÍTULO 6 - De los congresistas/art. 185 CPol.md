@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VI - Capítulo 6|CAPÍTULO 6 - De los congresistas]]
 vigencia: "vigente"
 anterior: "[[art. 184 CPol]]"
 siguiente: "[[art. 186 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#185"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2004
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,11 +35,9 @@ tags:
 
 Los congresistas serán inviolables por las opiniones y los votos que emitan en el ejercicio del cargo, sin perjuicio de las normas disciplinarias contenidas en el reglamento respectivo.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 265 Ley 5 de 1992|265]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 265 Ley 1828 de 2017|265]] Ley 1828 de 2017
 
-> [!note] Ver Ley 1828 de 2017
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-245-96; C-572-04
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-245-96 ; C-572-04
 
 ---
 ← [[art. 184 CPol]] · ↑ [[CPol - Título VI - Capítulo 6|Capítulo 6]] · [[art. 186 CPol]] →

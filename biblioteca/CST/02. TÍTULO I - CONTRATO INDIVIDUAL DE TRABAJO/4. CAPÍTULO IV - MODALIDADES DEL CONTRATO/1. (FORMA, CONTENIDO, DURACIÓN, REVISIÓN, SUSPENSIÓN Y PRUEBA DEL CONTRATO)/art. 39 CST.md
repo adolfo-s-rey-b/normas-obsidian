@@ -15,10 +15,17 @@ rubro: "[[CST - Título I - Capítulo IV - (forma, contenido, duración, revisi�
 vigencia: "modificado"
 modificado_por:
   - "[[art. 51 Ley 962 de 2005]]"
+  - "[[art. 41 CST]]"
+  - "[[art. 46 Decreto 3743 de 1950]]"
 anterior: "[[art. 38 CST]]"
 siguiente: "[[art. 41 CST]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#39"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2005
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
@@ -31,11 +38,15 @@ tags:
 
 El contrato de trabajo escrito se extiende en tantos ejemplares cuantos sean los interesados, destinándose uno para cada uno de ellos; está exento de impuestos de papel sellado y de timbre nacional y debe contener necesariamente, fuera de las cláusulas que las partes acuerden libremente, las siguientes: la identificación y domicilio de las partes; el lugar y la fecha de su celebración; el lugar en donde se haya contratado el trabajador y en donde haya de prestar el servicio; la naturaleza del trabajo; la cuantía de la remuneración, su forma y periodos de pago; la estimación de su valor, en caso de que haya suministros de habitación y alimentación como parte del salario; y la duración del contrato, su desahucio y terminación.
 
-A RTICULO 40. CARNÉ. Las empresas podrán, a su juicio y como control de identificación del personal que le preste servicios en sus distintas modalidades, expedirles a sus trabajadores, contratistas y su personal y a los trabajadores en misión un carné en donde conste, según corresponda, el nombre del trabajador directo, con el número de cédula y el cargo. En tratándose de contratistas el de las personas autorizadas por este o del trabajador en misión, precisando en esos casos el nombre o razón social de la empresa contratista o de servicios temporal e igualmente la clase de actividad que desarrolle. El carné deberá estar firmado por persona autorizada para expedirlo.
+> [!note] Notas de Vigencia: Este artículo corresponde al artículo [[art. 40 CST|40]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
+
+A RTÍCULO 40. CARNÉ. Las empresas podrán, a su juicio y como control de identificación del personal que le preste servicios en sus distintas modalidades, expedirles a sus trabajadores, contratistas y su personal y a los trabajadores en misión un carné en donde conste, según corresponda, el nombre del trabajador directo, con el número de cédula y el cargo. En tratándose de contratistas el de las personas autorizadas por este o del trabajador en misión, precisando en esos casos el nombre o razón social de la empresa contratista o de servicios temporal e igualmente la clase de actividad que desarrolle. El carné deberá estar firmado por persona autorizada para expedirlo.
+
+> [!info] Artículo modificado por el artículo [[art. 51 Ley 962 de 2005|51]] de la Ley 962 de 2005. El nuevo texto es el siguiente:
 
 **PARÁGRAFO.** La expedición del carné no requerirá aprobación por ninguna autoridad judicial o administrativa.
 
-> [!info] Modificado por el Art. [[art. 51 Ley 962 de 2005|51]] de la Ley 962 de 2005
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 51 Ley 962 de 2005|51]] de la Ley 962 de 2005, publicada en el Diario Oficial No. 45.963 de 08 de julio de 2005 - Este artículo corresponde al artículo [[art. 41 CST|41]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 
 ---
 ← [[art. 38 CST]] · ↑ [[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(forma, contenido, duración, revisión, suspensión…]] · [[art. 41 CST]] →

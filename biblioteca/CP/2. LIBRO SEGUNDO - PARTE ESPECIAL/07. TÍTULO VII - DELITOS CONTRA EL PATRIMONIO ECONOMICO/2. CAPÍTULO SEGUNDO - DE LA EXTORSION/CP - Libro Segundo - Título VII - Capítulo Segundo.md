@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 244 CP|Artículo 244]] — Extorsion
-- [[art. 245 CP|Artículo 245]] — Circunstancias de agravacion
+- [[art. 244 CP|Artículo 244]] — EXTORSIÓN
+- [[art. 245 CP|Artículo 245]] — CIRCUNSTANCIAS DE AGRAVACIÓN
 
 ---
 ← [[CP - Libro Segundo - Título VII - Capítulo Primero|Capítulo Primero]] · ↑ [[CP - Libro Segundo - Título VII|Título VII]] · [[CP - Libro Segundo - Título VII - Capítulo Tercero|Capítulo Tercero]] →

@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Primero - Título II|TÍTULO II - DE LOS ACTOS, OPERACION
 vigencia: "vigente"
 anterior: "[[art. 19 CCo]]"
 siguiente: "[[art. 21 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#20"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -34,7 +38,9 @@ Son mercantiles para todos los efectos legales:
 
 3\. El recibo de dinero en mutuo a interés, con garantía o sin ella, para darlo en préstamo, y los préstamos subsiguientes, así como dar habitualmente dinero en mutuo a interés;
 
-4\. La adquisición o enajenación, a título oneroso, de establecimientos de comercio, y la prenda, arrendamiento, administración y demás operaciones análogas relacionadas con los mismos;
+4\. La adquisición o enajenación, a título oneroso, de establecimientos de comercio, y la prenda*, arrendamiento, administración y demás operaciones análogas relacionadas con los mismos;
+
+> [!note] Notas de Vigencia: * Por 'prenda' entiéndase 'garantía mobiliaria' según lo dispuesto en la Ley 1676 de 2013, 'por la cual se promueve el acceso al crédito y se dictan normas sobre garantías mobiliarias', publicada en el Diario Oficial No. 48.888 de 20 de agosto de 2013. Destaca el editor el siguiente aparte del artículo [[art. 3 Ley 1676 de 2013|3]] de la Ley 1676 de 2013: (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) '...Cuando en otras disposiciones legales se haga referencia a las normas sobre prenda, prenda civil o comercial, con tenencia o sin tenencia, prenda de establecimiento de comercio, prenda de acciones, anticresis, bonos de prenda, prenda agraria, prenda minera, prenda del derecho a explorar y explotar, volumen aprovechable o vuelo forestal, prenda de un crédito, prenda de marcas, patentes u otros derechos de análoga naturaleza, derecho de retención, y a otras similares, dichas figuras se considerarán garantías mobiliarias y se aplicará lo previsto por la presente ley'.
 
 5\. La intervención como asociado en la constitución de sociedades comerciales, los actos de administración de las mismas o la negociación a título oneroso de las partes de interés, cuotas o acciones;
 

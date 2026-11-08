@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 2|CAPÍTULO 2 - De los derechos socia
 vigencia: "vigente"
 anterior: "[[art. 56 CPol]]"
 siguiente: "[[art. 58 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#57"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,13 +33,13 @@ tags:
 
 ## Artículo 57
 
-La ley podrá establecer los estimulos y los medios para que los trabajadores participen en la gestión de las empresas.
+La ley podrá establecer los estímulos y los medios para que los trabajadores participen en la gestión de las empresas.
 
-> [!note] Ver Ley 256 de 1996; Art. [[art. 22 Ley 256 de 1996|22]]
+> [!note] Concordancias: Ley 256 de 1996; Art. [[art. 22 Ley 1014 de 2006|22]] Ley 1014 de 2006
 
-> [!note] Ver Ley 1014 de 2006
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-037-94 ; C-089-94 ; C-180-94 ; C-211-94 ; C-1373-2000 ; C-1545-2000 ; C-507-2001 ; C-1107-2001
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-037-94; C-089-94; C-180-94 ; C-211-94 ; C-1373-2000; C-1545-2000; C-507-2001; C-1107-2001
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 99)
 
 ---
 ← [[art. 56 CPol]] · ↑ [[CPol - Título II - Capítulo 2|Capítulo 2]] · [[art. 58 CPol]] →

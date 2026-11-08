@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 314 CP|Artículo 314]] — Utilización indebida de fondos captados del público
-- [[art. 315 CP|Artículo 315]] — Operaciones no autorizadas con accionistas o asociados
-- [[art. 316 CP|Artículo 316]] — Captación masiva y habitual de dineros
+- [[art. 314 CP|Artículo 314]] — UTILIZACIÓN INDEBIDA DE FONDOS CAPTADOS DEL PÚBLICO
+- [[art. 315 CP|Artículo 315]] — OPERACIONES NO AUTORIZADAS CON ACCIONISTAS O ASOCIADOS
+- [[art. 316 CP|Artículo 316]] — CAPTACIÓN MASIVA Y HABITUAL DE DINEROS
 - [[art. 316A CP|Artículo 316A]]
-- [[art. 317 CP|Artículo 317]] — Manipulación fraudulenta de especies inscritas en el Registro Nacional de Valores e Intermediarios
+- [[art. 317 CP|Artículo 317]] — MANIPULACIÓN FRAUDULENTA DE ESPECIES INSCRITAS EN EL REGISTRO NACIONAL DE VALORES E INTERMEDIARIOS
 
 ---
 ← [[CP - Libro Segundo - Título X - Capítulo Primero|Capítulo Primero]] · ↑ [[CP - Libro Segundo - Título X|Título X]] · [[CP - Libro Segundo - Título X - Capítulo Tercero|Capítulo Tercero]] →

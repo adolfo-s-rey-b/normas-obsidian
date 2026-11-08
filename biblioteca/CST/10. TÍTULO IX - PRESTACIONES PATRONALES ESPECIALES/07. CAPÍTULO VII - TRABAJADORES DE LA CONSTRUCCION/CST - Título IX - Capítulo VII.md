@@ -24,7 +24,7 @@ tags:
 
 - [[art. 309 CST|Artículo 309]] — DEFINICIONES
 - [[art. 310 CST|Artículo 310]] — CESANTIA Y VACACIONES
-- [[art. 311 CST|Artículo 311]] — ASISTENCIA MÉDICA
+- [[art. 311 CST|Artículo 311]] — ASISTENCIA MEDICA
 - [[art. 312 CST|Artículo 312]] — EMPRESAS CONSTRUCTORAS
 - [[art. 313 CST|Artículo 313]] — SUSPENSION DEL TRABAJO POR LLUVIA
 

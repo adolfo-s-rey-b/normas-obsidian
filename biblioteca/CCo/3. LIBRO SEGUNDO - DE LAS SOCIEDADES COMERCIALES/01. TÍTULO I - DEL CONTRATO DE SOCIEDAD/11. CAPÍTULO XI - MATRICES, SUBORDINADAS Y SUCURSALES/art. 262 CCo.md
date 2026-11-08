@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 32 Ley 222 de 1995]]"
 anterior: "[[art. 261 CCo]]"
 siguiente: "[[art. 263 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#262"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,13 +34,11 @@ tags:
 
 ## Artículo 262. PROHIBICIÓN A LA SOCIEDAD SUBORDINADA
 
-> [!info] Modificado por el art. [[art. 32 Ley 222 de 1995|32]], Ley 222 de 1995
+Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
 
-El nuevo texto es el siguiente Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
+> [!info] Artículo subrogado por el artículo [[art. 32 Ley 222 de 1995|32]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
-Texto anterior:
-
-Las sociedades subordinadas no podrán tener, a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen .
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 32 Ley 222 de 1995|32]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 , del 20 de diciembre de 1995.
 
 ---
 ← [[art. 261 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo XI|Capítulo XI]] · [[art. 263 CCo]] →

@@ -20,7 +20,8 @@ modificado_por:
 anterior: "[[art. 25 CPT]]"
 siguiente: "[[art. 26 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#25A"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2001
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

@@ -21,7 +21,7 @@ tags:
 ### Contenido
 
 - [[Ley 446 de 1998 - Parte V - Título I|TÍTULO I - DEL SERVICIO LEGAL POPULAR]] (arts. 149 a 160)
-- [[Ley 446 de 1998 - Parte V - Título II|TÍTULO II - DE LA DEFENSORÍA DE OFICIO]] (art. 161)
+- [[Ley 446 de 1998 - Parte V - Título II|TÍTULO II - DE LA DEFENSORIA DE OFICIO]] (art. 161)
 
 ---
 ← [[Ley 446 de 1998 - Parte IV|Parte IV]] · ↑ [[Ley 446 de 1998|Ley 446 de 1998]] · [[Ley 446 de 1998 - Parte VI|Parte VI]] →

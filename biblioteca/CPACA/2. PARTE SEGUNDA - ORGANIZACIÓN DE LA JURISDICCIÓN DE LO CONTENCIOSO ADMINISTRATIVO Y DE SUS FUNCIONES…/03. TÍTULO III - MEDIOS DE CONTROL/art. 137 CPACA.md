@@ -8,14 +8,19 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "137"
-epigrafe: "Nulidad"
+epigrafe: "NULIDAD"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
 anterior: "[[art. 136A CPACA]]"
 siguiente: "[[art. 138 CPACA]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249#137"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2015
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
@@ -24,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 137. Nulidad
+## Artículo 137. NULIDAD
 
 Toda persona podrá solicitar por sí, o por medio de representante, que se declare la nulidad de los actos administrativos de carácter general.
 
@@ -42,9 +47,9 @@ Excepcionalmente podrá pedirse la nulidad de actos administrativos de contenido
 
 4\. Cuando la ley lo consagre expresamente.
 
-**PARÁGRAFO .** Si de la demanda se desprendiere que se persigue el restablecimiento automático de un derecho, se tramitará conforme a las reglas del artículo siguiente.
+**PARÁGRAFO.** Si de la demanda se desprendiere que se persigue el restablecimiento automático de un derecho, se tramitará conforme a las reglas del artículo siguiente .
 
-NOTA: El texto subrayado fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-259 de 2015.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Apartes subrayados declarados EXEQUIBLES, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-259-15 de 6 de mayo de 2015, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado.
 
 ---
 ← [[art. 136A CPACA]] · ↑ [[CPACA - Parte Segunda - Título III|Título III]] · [[art. 138 CPACA]] →

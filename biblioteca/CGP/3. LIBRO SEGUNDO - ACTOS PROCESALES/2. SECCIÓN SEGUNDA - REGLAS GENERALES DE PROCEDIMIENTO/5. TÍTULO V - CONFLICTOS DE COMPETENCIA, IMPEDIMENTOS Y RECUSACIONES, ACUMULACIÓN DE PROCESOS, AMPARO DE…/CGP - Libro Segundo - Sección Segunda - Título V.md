@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo I|CAPÍTULO I - Conflictos de competencia]] (art. 139)
-- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|CAPÍTULO II - Impedimentos y recusaciones]] (arts. 140 a 147)
-- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo III|CAPÍTULO III - Acumulación de procesos y demandas]] (arts. 148 a 150)
-- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo IV|CAPÍTULO IV - Amparo de pobreza]] (arts. 151 a 158)
-- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo V|CAPÍTULO V - Interrupción y suspensión del proceso]] (arts. 159 a 163)
+- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo I|CAPÍTULO I - CONFLICTOS DE COMPETENCIA]] (art. 139)
+- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|CAPÍTULO II - IMPEDIMENTOS Y RECUSACIONES]] (arts. 140 a 147)
+- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo III|CAPÍTULO III - ACUMULACIÓN DE PROCESOS Y DEMANDAS]] (arts. 148 a 150)
+- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo IV|CAPÍTULO IV - AMPARO DE POBREZA]] (arts. 151 a 158)
+- [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo V|CAPÍTULO V - INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]] (arts. 159 a 163)
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] · ↑ [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]]

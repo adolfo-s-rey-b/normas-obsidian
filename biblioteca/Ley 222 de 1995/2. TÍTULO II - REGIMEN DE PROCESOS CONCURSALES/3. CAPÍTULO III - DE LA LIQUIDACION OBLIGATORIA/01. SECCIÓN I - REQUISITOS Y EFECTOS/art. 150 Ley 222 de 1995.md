@@ -1,0 +1,54 @@
+---
+aliases:
+  - "Ley 222 de 1995 art. 150"
+tipo: articulo
+norma: "Ley 222 de 1995"
+articulo: "150"
+epigrafe: "APERTURA"
+titulo: "[[Ley 222 de 1995 - Título II|TÍTULO II - REGIMEN DE PROCESOS CONCURSALES]]"
+capitulo: "[[Ley 222 de 1995 - Título II - Capítulo III|CAPÍTULO III - DE LA LIQUIDACION OBLIGATORIA]]"
+seccion: "[[Ley 222 de 1995 - Título II - Capítulo III - Sección I|SECCIÓN I - REQUISITOS Y EFECTOS]]"
+vigencia: "vigente"
+derogado_por:
+  - "[[art. 126 Ley 1116 de 2006]]"
+anterior: "[[art. 149 Ley 222 de 1995]]"
+siguiente: "[[art. 151 Ley 222 de 1995]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2006
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_222_de_1995
+  - vigencia/vigente
+---
+
+[[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título II|Título II]] › [[Ley 222 de 1995 - Título II - Capítulo III|Capítulo III]] › [[Ley 222 de 1995 - Título II - Capítulo III - Sección I|Sección I]]
+
+## Artículo 150. APERTURA
+
+El trámite de liquidación obligatoria se abrirá:
+
+> [!warning] Título II. derogado por el artículo [[art. 126 Ley 1116 de 2006|126]] de la Ley 1116 de 2006, a partir del 28 de junio de 2007
+
+1\. Por decisión de la Superintendencia de Sociedades adoptada de oficio como consecuencia de la solicitud de apertura de un proceso concursal.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - Numeral 1o. declarado EXEQUIBLE por la Corte Constitucional, mediante Sentencia C-233-97 del 15 de mayo de 1997, Magistrado Ponente, Dr. Fabio Morón Díaz.
+
+2\. Por terminación del trámite concordatario por falta de acuerdo o por incumplimiento de éste.
+
+3\. Cuando el deudor se ausente y haya abandonado sus negocios.
+
+> [!warning] Notas de Vigencia: Título II. derogado por el artículo [[art. 126 Ley 1116 de 2006|126]] de la Ley 1116 de 2006, publicada en el Diario Oficial No. 46.494 de 27 de diciembre de 2006. El Inciso 1o. del artículo [[art. 126 Ley 1116 de 2006|126]] mencionado establece: 'ARTÍCULO 126. Salvo lo que se indica en los incisos anteriores, la presente ley comenzará a regir seis (6) meses después de su promulgación y deroga el Título II de la Ley 222 de 1995, la cual estará vigente hasta la fecha en que entre a regir la presente ley. ' ...'
+
+(Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo establecido por los artículos [[art. 65 Ley 550 de 1999|65]] , [[art. 66 Ley 550 de 1999|66]] , de la Ley 550 de 1999, publicada en el Diario Oficial No. 43.836 del 30 de diciembre de 1999. El texto referido es el siguiente:
+
+ARTICULO 65. EMPRESARIOS EN TRÁMITE DE CONCORDATO Y CON CONCORDATOS EN EJECUCIÓN. Los empresarios a los que se refiere el artículo [[art. 1 Ley 222 de 1995|1]] o. de esta ley que a la fecha de su entrada en vigencia hayan sido admitidos al trámite de un concordato o a quienes se les haya ordenado la apertura de un proceso de concordato, y se encuentren tramitándolo, podrán acogerse a los términos de la presente ley para negociar y celebrar un acuerdo de reestructuración, mediante el siguiente procedimiento: 1. Su promoción deberá solicitarse por escrito a la Superintendencia de Sociedades o al juez competente, mediante comunicación suscrita por el representante legal del empresario, o por uno o varios acreedores externos titulares de créditos cuya cuantía sea superior al cuarenta por ciento (40%) de los créditos que se hayan hecho parte dentro del proceso. 2. Recibida dicha solicitud, el Superintendente o el juez competente suspenderá el proceso para dar traslado de la misma por quince días. Si ello ocurre antes de la expedición de la providencia de calificación y graduación de créditos, y no se presenta la oposición del empresario o de uno o más acreedores que por lo menos representen los créditos con los cuales se puede celebrar un concordato en la audiencia preliminar prevista en el artículo [[art. 129 Ley 222 de 1995|129]] de la Ley 222 de 1995; o si ocurre después de expedida dicha providencia, y no se presenta la oposición del empresario o de uno o más acreedores externos que representen por lo menos el valor de los créditos con los cuales se puede aprobar la fórmula concordataria en la audiencia final prevista en el artículo [[art. 130 Ley 222 de 1995|130]] de la Ley 222 de 1995, se iniciará la negociación de un acuerdo de reestructuración a partir de la ejecutoria de la providencia que dé por terminado el trámite concordatario, la cual no admitirá recurso alguno. 3. Si se inicia la negociación, el contralor asumirá de inmediato las funciones propias del promotor, siempre y cuando cumpla con los requisitos legales establecidos para el efecto, y a menos que se designe a otra persona por parte del nominador a quien corresponda de conformidad con lo previsto en esta ley en materia de designación de promotores. La junta provisional de acreedores continuará ejerciendo las funciones previstas en la ley hasta tanto se integre el comité de vigilancia. 4. El representante legal del empresario deberá suministrar al promotor, a más tardar dentro del mes siguiente al inicio de la negociación, una relación que se ajuste a lo dispuesto en el artículo [[art. 20 Ley 222 de 1995|20]] de la presente ley y que permita establecer los derechos de voto correspondientes a los acreedores internos. 5. En caso de iniciarse la negociación de un acuerdo de reestructuración en las circunstancias previstas en este artículo, los créditos postconcordatarios gozarán de preferencia, de conformidad con lo dispuesto en el artículo [[art. 147 Ley 222 de 1995|147]] de la Ley 222 de 1995, pero no tendrán derecho de voto en el acuerdo. PARAGRAFO. Los empresarios que se encuentren en la etapa de ejecución de un acuerdo concordatario podrán acogerse a lo dispuesto en la presente ley, y negociar y celebrar un acuerdo de reestructuración si, de conformidad con las normas legales aplicables para la modificación del concordato, se aprueba una reforma del mismo en tal sentido. En tal caso, se procederá en la forma prevista en los numerales 3, 4 y 5 de este artículo, y la negociación se iniciará a partir de la ejecutoria de la providencia que apruebe la reforma, de conformidad con lo dispuesto en esta ley.
+
+ARTICULO 66. TRAMITACION DE NUEVOS CONCORDATOS Y DE LIQUIDACIONES. Durante la vigencia de esta ley y salvo la excepción prevista en el parágrafo primero del artículo [[art. 27 Ley 222 de 1995|27]] de la misma, no podrá tramitarse ningún concordato de empresarios previstos en su artículo primero , sin perjuicio de que en caso de liquidación obligatoria de alguno de ellos se celebre un concordato dentro del trámite liquidatorio, de conformidad con los artículos [[art. 200 Ley 222 de 1995|200]] y siguientes de la Ley 222 de 1995. En tal caso, si el concordato celebrado de conformidad con las normas legales que acaban de citarse, incluye, además de la declaración de voluntad de negociación de un acuerdo de reestructuración, la adopción de una cualquiera de las medidas previstas en los numerales 2, 3 y 5 del artículo [[art. 201 Ley 222 de 1995|201]] de la Ley 222 de 1995, la celebración de anticresis, daciones en pago, hipotecas, prendas o fiducias en garantía, o la regulación de los créditos y otras medidas enderezadas a la protección común de los acreedores y hacer posible la reactivación de la empresa en determinadas condiciones y plazos, la Superintendencia de Sociedades suspenderá el trámite liquidatorio, y la negociación se entenderá iniciada a partir de la ejecutoria de la providencia correspondiente. Si el acuerdo no se celebra dentro del plazo previsto en el artículo [[art. 27 Ley 222 de 1995|27]] de esta ley, se reiniciará el proceso liquidatorio. PARAGRAFO 1o. Los procedimientos concursales de las personas naturales continuarán tramitándose de conformidad con lo dispuesto en el artículo [[art. 90 Ley 222 de 1995|90]] de la Ley 222 de 1995. PARAGRAFO 2o. El régimen de la liquidación obligatoria previsto en la Ley 222 de 1995 continuará aplicándose, con las modificaciones introducidas en los artículos [[art. 67 Ley 222 de 1995|67]] , [[art. 68 Ley 222 de 1995|68]] , [[art. 69 Ley 222 de 1995|69]] , [[art. 70 Ley 222 de 1995|70]] y [[art. 71 Ley 222 de 1995|71]] de esta ley, y se abrirá en los eventos que en ella se prevén. PARAGRAFO 3o. En las liquidaciones voluntarias derivadas de la disolución de una sociedad por una vez las causales previstas en los numerales 2, 3, 5 y 8 del artículo [[art. 218 CCo|218]] del Código de Comercio, en las cuales ya haya sido aprobado el inventario del patrimonio social, y no se haya pagado el pasivo externo ni efectuado la distribución prevista en el artículo [[art. 247 CCo|247]] del Código de Comercio, uno o varios acreedores titulares de créditos cuyo valor no sea menor del setenta y cinco (75%) por ciento del total de las obligaciones a cargo de la sociedad liquidada, y uno o varios socios titulares de no menos del setenta y cinco (75%) por ciento de las cuotas, partes o acciones en que se divida el capital social, podrán expresar su propósito de negociar un acuerdo de reestructuración que tenga por objeto una cualquiera de las medidas previstas en los numerales 2, 3 y 5 del artículo [[art. 201 Ley 222 de 1995|201]] de la Ley 222 de 1995, o la celebración de anticresis, daciones en pago, hipotecas, prendas o fiducias en garantía, o la regulación de los créditos y otras medidas enderezadas a la protección común de los acreedores y hacer posible la reactivación de la empresa en determinadas condiciones y plazos. En tal caso, el liquidador, mediante un escrito acompañado de los documentos a que se refiere el artículo [[art. 20 Ley 222 de 1995|20]] de esta ley y del escrito en que conste la voluntad de los acreedores y socios aquí señalados, solicitará al nominador competente que dé inicio a la negociación. Si el acuerdo no se celebra dentro del plazo previsto en el artículo [[art. 27 Ley 222 de 1995|27]] de esta ley, se reiniciará el proceso liquidatorio.)
+
+---
+← [[art. 149 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título II - Capítulo III - Sección I|Sección I]] · [[art. 151 Ley 222 de 1995]] →

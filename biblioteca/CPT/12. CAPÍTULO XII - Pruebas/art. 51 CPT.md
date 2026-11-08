@@ -14,7 +14,7 @@ vigencia: "derogado"
 anterior: "[[art. 50 CPT]]"
 siguiente: "[[art. 52 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#51"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

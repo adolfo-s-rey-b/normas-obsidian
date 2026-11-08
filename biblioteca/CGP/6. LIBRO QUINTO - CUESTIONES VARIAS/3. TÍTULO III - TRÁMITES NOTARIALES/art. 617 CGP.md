@@ -8,15 +8,18 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "617"
-epigrafe: "Trámites notariales"
+epigrafe: "TRÁMITES NOTARIALES"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título III|TÍTULO III - TRÁMITES NOTARIALES]]"
 vigencia: "vigente"
 anterior: "[[art. 616 CGP]]"
 siguiente: "[[art. 618 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#617"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -25,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título III|Título III]]
 
-## Artículo 617. Trámites notariales
+## Artículo 617. TRÁMITES NOTARIALES
 
 Sin perjuicio de las competencias establecidas en este Código y en otras leyes, los notarios podrán conocer y tramitar, a prevención, de los siguientes asuntos:
 
@@ -49,7 +52,9 @@ Sin perjuicio de las competencias establecidas en este Código y en otras leyes,
 
 10\. De la cancelación y sustitución voluntaria del patrimonio de familia inembargable.
 
-**Parágrafo.** Cuando en estos asuntos surjan controversias o existan oposiciones, el trámite se remitirá al juez competente.
+**PARÁGRAFO.** Cuando en estos asuntos surjan controversias o existan oposiciones, el trámite se remitirá al juez competente.
+
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
 
 ---
 ← [[art. 616 CGP]] · ↑ [[CGP - Libro Quinto - Título III|Título III]] · [[art. 618 CGP]] →

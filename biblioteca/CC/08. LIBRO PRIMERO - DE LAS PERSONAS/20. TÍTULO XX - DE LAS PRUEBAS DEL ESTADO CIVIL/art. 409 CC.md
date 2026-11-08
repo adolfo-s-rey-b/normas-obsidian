@@ -14,12 +14,12 @@ titulo: "[[CC - Libro Primero - Título XX|TÍTULO XX - DE LAS PRUEBAS DEL ESTAD
 vigencia: "derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
-  - "[[art. 627 CC]]"
 anterior: "[[art. 408 CC]]"
 siguiente: "[[art. 411 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2012
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,15 +30,17 @@ tags:
 
 ## Artículo 409. PRUEBA DE HECHOS ANTERIORES A 1853
 
-<Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012>
+> [!warning] Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 
-> [!warning] Notas de Vigencia: Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir del 1o. de enero de 2014, en los términos del numeral 6) del artículo [[art. 627 CC|627]] .
+> [!warning] Notas de Vigencia: Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir del 1o. de enero de 2014, en los términos del numeral 6) del artículo 627 .
+
+A (REGISTRO DEL ESTADO CIVIL) RTÍCULO 410. .
 
 (REGISTRO DEL ESTADO CIVIL)
 
-A (REGISTRO DEL ESTADO CIVIL) RTÍCULO 410. . <Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012>
+> [!warning] Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 
-> [!warning] Notas de Vigencia: Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir del 1o. de enero de 2014, en los términos del numeral 6) del artículo [[art. 627 CC|627]] .
+> [!warning] Notas de Vigencia: Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir del 1o. de enero de 2014, en los términos del numeral 6) del artículo 627 .
 
 ---
 ← [[art. 408 CC]] · ↑ [[CC - Libro Primero - Título XX|Título XX]] · [[art. 411 CC]] →

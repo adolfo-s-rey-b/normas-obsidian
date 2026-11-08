@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo V|CAPÍTULO V - EL PAGO]
 vigencia: "vigente"
 anterior: "[[art. 874 CCo]]"
 siguiente: "[[art. 876 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#875"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -26,8 +30,6 @@ tags:
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título I|Título I]] › [[CCo - Libro Cuarto - Título I - Capítulo V|Capítulo V]]
 
 ## Artículo 875. INDEMNIZACIONES EN ORO PURO
-
-> [!note] Reglamentado por el Decreto 1516 de 1974
 
 Para la fijación del monto de las indemnizaciones de oro puro que se mencionen en este Código, el Banco de la República certificará su valor correspondiente en moneda legal colombiana, excluidos los impuestos respectivos.
 

@@ -16,8 +16,12 @@ capitulo: "[[CPol - Título X - Capítulo 2|CAPÍTULO 2 - Del Ministerio Públic
 vigencia: "vigente"
 anterior: "[[art. 283 CPol]]"
 siguiente: "[[art. 285 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#284"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,17 +32,15 @@ tags:
 
 ## Artículo 284
 
-Salvo las excepciones previstas en la Constitución y la ley, el Procurador General de la Nación y el Defensor del Pueblo podrán requerir de las autoridades las informaciones necesarias para el ejercicio de sus funciones, sin que pueda oponerseles reserva alguna.
+Salvo las excepciones previstas en la Constitución y la ley, el Procurador General de la Nación y el Defensor del Pueblo podrán requerir de las autoridades las informaciones necesarias para el ejercicio de sus funciones, sin que pueda oponérseles reserva alguna.
 
-> [!note] Ver Ley 24 de 1992; Art. [[art. 14 Ley 24 de 1992|14]] al [[art. 17 Ley 24 de 1992|17]]
+> [!note] Concordancias: Ley 24 de 1992; Art. [[art. 14 Ley 24 de 1992|14]] ; Art. [[art. 15 Ley 24 de 1992|15]] : Art. [[art. 16 Ley 24 de 1992|16]] ; Art. [[art. 17 Ley 80 de 1993|17]] Ley 80 de 1993; Art. [[art. 62 Ley 812 de 2003|62]] Ley 812 de 2003; Art. [[art. 17 CPACA|17]] Ley 1437 de 2011; Art. [[art. 27 CPACA|27]]
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 62 Ley 80 de 1993|62]] y ss.
+TITULO XI.
 
-> [!note] Ver Ley 812 de 2003; Art. [[art. 17 Ley 812 de 2003|17]]
+DE LA ORGANIZACION TERRITORIAL
 
-> [!note] Ver Ley 1437 de 2011; Art. [[art. 27 CPACA|27]]
-
-DE LA ORGANIZACIÓN TERRITORIAL
+CAPITULO 1.
 
 DE LAS DISPOSICIONES GENERALES
 

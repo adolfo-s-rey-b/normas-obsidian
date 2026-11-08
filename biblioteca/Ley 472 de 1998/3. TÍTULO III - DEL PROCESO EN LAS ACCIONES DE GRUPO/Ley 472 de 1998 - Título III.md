@@ -21,11 +21,11 @@ tags:
 ### Contenido
 
 - [[Ley 472 de 1998 - Título III - Capítulo I|CAPÍTULO I - PROCEDENCIA]] (arts. 46 a 47)
-- [[Ley 472 de 1998 - Título III - Capítulo II|CAPÍTULO II - LEGITIMACIÓN]] (arts. 48 a 49)
-- [[Ley 472 de 1998 - Título III - Capítulo III|CAPÍTULO III - DE LA JURISDICCIÓN Y COMPETENCIA]] (arts. 50 a 51)
-- [[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISIÓN DE LA DEMANDA]] (arts. 52 a 57)
+- [[Ley 472 de 1998 - Título III - Capítulo II|CAPÍTULO II - LEGITIMACION]] (arts. 48 a 49)
+- [[Ley 472 de 1998 - Título III - Capítulo III|CAPÍTULO III - DE LA JURISDICCION Y COMPETENCIA]] (arts. 50 a 51)
+- [[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]] (arts. 52 a 57)
 - [[Ley 472 de 1998 - Título III - Capítulo V|CAPÍTULO V - DE LAS MEDIDAS CAUTELARES]] (arts. 58 a 61)
-- [[Ley 472 de 1998 - Título III - Capítulo VI|CAPÍTULO VI - PERÍODO PROBATORIO]] (art. 62)
+- [[Ley 472 de 1998 - Título III - Capítulo VI|CAPÍTULO VI - PERIODO PROBATORIO]] (art. 62)
 - [[Ley 472 de 1998 - Título III - Capítulo VII|CAPÍTULO VII - ALEGATOS, SENTENCIA Y RECURSOS]] (arts. 63 a 67)
 - [[Ley 472 de 1998 - Título III - Capítulo VIII|CAPÍTULO VIII - DISPOSICIONES COMPLEMENTARIAS]] (arts. 68 a 69)
 

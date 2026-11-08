@@ -15,7 +15,7 @@ vigencia: "derogado"
 anterior: "[[art. 69 CPT]]"
 siguiente: "[[art. 71 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#70"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 218 CC]]"
 siguiente: "[[art. 220 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2022
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 219. IMPUGNACIÓN POR TERCEROS
 
-<Artículo modificado por el artículo [[art. 7 Ley 1060 de 2006|7]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> Los herederos podrán impugnar la paternidad o la maternidad desde el momento en que conocieron del fallecimiento del padre o la madre o con posterioridad a esta; o desde el momento en que conocieron del nacimiento del hijo, de lo contrario el término para impugnar será de 140 días. Pero cesará este derecho si el padre o la madre hubieren reconocido expresamente al hijo como suyo en su testamento o en otro instrumento público.
+Los herederos podrán impugnar la paternidad o la maternidad desde el momento en que conocieron del fallecimiento del padre o la madre o con posterioridad a esta; o desde el momento en que conocieron del nacimiento del hijo, de lo contrario el término para impugnar será de 140 días. Pero cesará este derecho si el padre o la madre hubieren reconocido expresamente al hijo como suyo en su testamento o en otro instrumento público.
+
+> [!info] Artículo modificado por el artículo [[art. 7 Ley 1060 de 2006|7]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este inciso (parcial) por ineptitud de la demanda, mediante Sentencia C-260-22 de 13 de julio de 2022, Magistrado Ponente Dr. Antonio José Lizarazo Ocampo.
 

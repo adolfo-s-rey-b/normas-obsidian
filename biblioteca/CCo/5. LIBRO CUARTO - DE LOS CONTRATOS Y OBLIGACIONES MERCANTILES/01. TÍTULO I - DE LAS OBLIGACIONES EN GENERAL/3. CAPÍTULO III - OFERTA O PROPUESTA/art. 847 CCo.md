@@ -15,8 +15,13 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo III|CAPÍTULO III - OFER
 vigencia: "vigente"
 anterior: "[[art. 846 CCo]]"
 siguiente: "[[art. 848 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#847"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2020
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +33,8 @@ tags:
 ## Artículo 847. OFERTA DE MERCADERIAS
 
 Las ofertas de mercaderías, con indicación del precio, dirigidas a personas no determinadas, en circulares, prospectos o cualquiera otra especie similar de propaganda escrita, no serán obligatorias para el que las haga. Dirigidas a personas determinadas y acompañadas de una nota que no tenga las características de una circular, serán obligatorias si en ella no se hace salvedad alguna.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo (parcial) por ineptitud de la demanda, mediante Sentencia C-037-20 de 5 de febrero de 2020, Magistrado Ponente Dr. Antonio José Lizarazo Ocampo.
 
 ---
 ← [[art. 846 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo III|Capítulo III]] · [[art. 848 CCo]] →

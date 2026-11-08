@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título I - Capítulo II|CAPÍTULO II - CONST
 vigencia: "vigente"
 anterior: "[[art. 113 CCo]]"
 siguiente: "[[art. 115 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#114"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 114. INDETERMINACIÓN DE FACULTADES DE LOS ADMINISTRADORES DE SUCURSALES
 
-Cuando en la misma escritura social no se determinen las facultades de los administradores de las sucursales, deberá otorgarse un poder por escritura pública, que se registrará en la cámara de comercio correspondiente a los lugares de las sucursales. A falta de dicho poder se entenderá que tales administradores están facultados, como los administradores de la principal, para obligar a la sociedad en desarrollo de todos los negocios sociales.
+Cuando en la misma escritura social no se determinen las facultades de los administradores de las sucursales, deberá otorgarse un poder por escritura pública, que se registrará en al cámara de comercio correspondiente a los lugares de las sucursales. A falta de dicho poder se entenderá que tales administradores están facultados, como los administradores de la principal, para obligar a la sociedad en desarrollo de todos los negocios sociales.
 
 ---
 ← [[art. 113 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo II|Capítulo II]] · [[art. 115 CCo]] →

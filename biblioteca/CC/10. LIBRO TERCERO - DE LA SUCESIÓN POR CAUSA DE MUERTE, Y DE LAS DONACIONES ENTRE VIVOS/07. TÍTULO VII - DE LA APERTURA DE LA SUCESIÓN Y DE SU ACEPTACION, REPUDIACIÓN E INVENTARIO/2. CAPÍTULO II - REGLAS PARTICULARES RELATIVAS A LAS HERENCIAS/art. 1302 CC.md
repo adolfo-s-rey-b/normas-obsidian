@@ -17,7 +17,7 @@ anterior: "[[art. 1301 CC]]"
 siguiente: "[[art. 1303 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,6 +29,8 @@ tags:
 ## Artículo 1302. ACTO DE HEREDERO SIN INVENTARIO SOLEMNE QUE LES PRECEDA
 
 (sic) El que hace acto al heredero, sin previo inventario solemne, sucede en todas las obligaciones transmisibles del difunto, a prorrata de su cuota hereditaria, aunque le impongan un gravamen que exceda al valor de los bienes que hereda.
+
+(sic)
 
 Habiendo precedido inventario solemne, gozará del beneficio de inventario.
 

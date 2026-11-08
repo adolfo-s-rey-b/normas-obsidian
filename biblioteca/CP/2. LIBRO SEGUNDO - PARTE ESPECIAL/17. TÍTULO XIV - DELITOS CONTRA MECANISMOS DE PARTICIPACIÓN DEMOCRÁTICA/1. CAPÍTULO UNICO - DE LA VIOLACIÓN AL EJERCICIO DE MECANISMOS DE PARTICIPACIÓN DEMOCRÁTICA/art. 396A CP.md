@@ -12,6 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "396A"
+epigrafe: "FINANCIACIÓN DE CAMPAÑAS ELECTORALES CON FUENTES PROHIBIDAS"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XIV|TÍTULO XIV - DELITOS CONTRA MECANISMOS DE PARTICIPACIÓN DEMOCRÁTICA]]"
 capitulo: "[[CP - Libro Segundo - Título XIV - Capítulo Unico|CAPÍTULO UNICO - DE LA VIOLACIÓN AL EJERCICIO DE MECANISMOS DE PARTICIPACIÓN DEMOCRÁTICA]]"
@@ -21,7 +22,11 @@ modificado_por:
 anterior: "[[art. 396 CP]]"
 siguiente: "[[art. 396B CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#396A"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2017
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -30,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XIV|Título XIV]] › [[CP - Libro Segundo - Título XIV - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 396A
+## Artículo 396A. FINANCIACIÓN DE CAMPAÑAS ELECTORALES CON FUENTES PROHIBIDAS
 
 FINANCIACIÓN DE CAMPAÑAS ELECTORALES CON FUENTES PROHIBIDAS. El gerente de la campaña electoral que permita en ella la consecución de bienes provenientes de fuentes prohibidas por la ley para financiar campañas electorales, incurrirá en prisión de cuatro (4) a ocho (8) años, multa de cuatrocientos (400) a mil doscientos (1.200) salarios mínimos legales mensuales vigentes e inhabilitación para el ejercicio de derechos y funciones públicas por el mismo tiempo.
 

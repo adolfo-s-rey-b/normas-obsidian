@@ -1,0 +1,29 @@
+---
+aliases:
+  - "CST CAPÍTULO IV - TRABAJADORES DE NOTARIAS PUBLICAS Y OFICINAS DE REGISTRO DE INSTRUMENTOS PUBLICOS Y PRIVADOS"
+tipo: indice
+norma: "Decreto 2663 de 1950"
+sigla: "CST"
+nivel: "CAPÍTULO"
+etiqueta: "IV"
+nombre: "TRABAJADORES DE NOTARIAS PUBLICAS Y OFICINAS DE REGISTRO DE INSTRUMENTOS PUBLICOS Y PRIVADOS"
+titulo: "[[CST - Título III|TÍTULO III - CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES]]"
+articulos: "arts. 99 a 100"
+tags:
+  - normas/indice
+  - normas/cst
+---
+
+[[CST|CST]] › [[CST - Título III|Título III]]
+
+## CAPÍTULO IV - TRABAJADORES DE NOTARIAS PUBLICAS Y OFICINAS DE REGISTRO DE INSTRUMENTOS PUBLICOS Y PRIVADOS
+
+*Arts. 99 a 100*
+
+### Contenido
+
+- [[art. 99 CST|Artículo 99]]
+- [[art. 100 CST|Artículo 100]] — RESPONSABILIDAD DE LOS NOTARIOS Y REGISTRADORES
+
+---
+← [[CST - Título III - Capítulo III|Capítulo III]] · ↑ [[CST - Título III|Título III]] · [[CST - Título III - Capítulo V|Capítulo V]] →

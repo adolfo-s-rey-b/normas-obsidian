@@ -12,32 +12,34 @@ sigla: "ET"
 articulo: "14-2"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
-vigencia: "parcialmente derogado"
-modificado_por:
-  - "[[art. 6 Ley 6 de 1992]]"
+vigencia: "derogado"
 derogado_por:
   - "[[art. 198 Ley 1607 de 2012]]"
+  - "[[art. 6 Ley 6 de 1992]]"
 anterior: "[[art. 14-1 ET]]"
 siguiente: "[[art. 15 ET]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#14-2"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/parcialmente_derogado
+  - vigencia/derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
 ## Artículo 14-2
 
-Efectos tributarios de la escisión de sociedades. Para efectos tributarios, en el caso de la escisión de una sociedad, no se considerará que existe enajenación entre la sociedad escindida y las sociedades en que se subdivide.
+EFECTOS TRIBUTARIOS DE LA ESCISION DE SOCIEDADES.
 
-~~Las nuevas sociedades producto de la escisión serán responsables solidarios con la sociedad escindida, tanto por los impuestos, anticipos, retenciones, sanciones e intereses y demás obligaciones tributarias, de esta última, exigibles al momento de la escisión, como de los que se originen a su cargo con posterioridad, como consecuencia de los procesos de cobro, discusión, determinación oficial del tributo o aplicación de sanciones, correspondientes a períodos anteriores a la escisión. Lo anterior, sin perjuicio de la responsabilidad solidaria de los socios de la antigua sociedad, en los términos del artículo [[art. 794 ET|794]]".~~
+> [!warning] Artículo derogado por el artículo [[art. 198 Ley 1607 de 2012|198]] de la Ley 1607 de 2012
 
-> [!warning] Derogado por el Art. [[art. 198 Ley 1607 de 2012|198]] de la Ley 1607 de 2012 .
-
-> [!info] Adicionado por el Art. [[art. 6 Ley 6 de 1992|6]] de la Ley 6 de 1992
+> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 198 Ley 1607 de 2012|198]] de la Ley 1607 de 2012, 'por la cual se expiden normas en materia tributaria y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.655 de 26 de diciembre de 2012. - Artículo adicionado por el artículo [[art. 6 Ley 6 de 1992|6]] de la Ley 6 de 1992, publicada en el Diario Oficial No 40.490, de 30 de junio de 1992.
 
 ---
 ← [[art. 14-1 ET]] · ↑ [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]] · [[art. 15 ET]] →

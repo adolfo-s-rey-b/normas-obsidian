@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 24 Ley 222 de 1995]]"
 anterior: "[[art. 199 CCo]]"
 siguiente: "[[art. 201 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#200"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2006
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,25 +35,25 @@ tags:
 
 ## Artículo 200. RESPONSABILIDAD DE ADMINISTRADORES
 
-> [!info] Modificado por el art. [[art. 24 Ley 222 de 1995|24]], Ley 222 de 1995
+Los administradores responderán solidaria e ilimitadamente de los perjuicios que por dolo o culpa ocasionen a la sociedad, a los socios o a terceros.
 
-El nuevo texto es el siguiente Los administradores responderán solidaria e ilimitadamente de los perjuicios que por dolo o culpa ocasionen a la sociedad, a los socios o a terceros.
+> [!info] Artículo subrogado por el artículo [[art. 24 Ley 222 de 1995|24]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
 No estarán sujetos a dicha responsabilidad, quienes no hayan tenido conocimiento de la acción u omisión o hayan votado en contra, siempre y cuando no la ejecuten.
 
 En los casos de incumplimiento o extralimitación de sus funciones, violación de la ley o de los estatutos, se presumirá la culpa del administrador.
 
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - Inciso 3 de la Ley 222 de 1995 declarado EXEQUIBLE por los cargos analizados por la Corte Constitucional mediante Sentencia C-123-06 de 22 de febrero de 2006, Magistrada Ponente Dra. Clara Inés Vargas Hernández.
+
 De igual manera se presumirá la culpa cuando los administradores hayan propuesto o ejecutado la decisión sobre distribución de utilidades en contravención a lo prescrito en el artículo [[art. 151 CCo|151]] del Código de Comercio y demás normas sobre la materia. En estos casos el administrador responderá por las sumas dejadas de repartir o distribuidas en exceso y por los perjuicios a que haya lugar.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional: - Aparte subrayado de la Ley 222 de 1995 declarado EXEQUIBLE por los cargos analizados por la Corte Constitucional mediante Sentencia C-123-06 de 22 de febrero de 2006, Magistrada Ponente Dra. Clara Inés Vargas Hernández.
 
 Si el administrador es persona jurídica, la responsabilidad respectiva será de ella y de quien actúe como su representante legal.
 
 Se tendrán por no escritas las cláusulas del contrato social que tiendan a absolver a los administradores de las responsabilidades ante dichas o a limitarlas al importe de las cauciones que hayan prestado para ejercer sus cargos.
 
-Texto anterior:
-
-Los administradores responderán de los perjuicios que por dolo o culpa ocasionen a la sociedad, a los socios o a terceros.
-
-Se tendrán por no escritas las cláusulas del contrato social que tiendan a absolver a los administradores de las responsabilidades antedichas o a limitarlas al importe de las cauciones que hayan prestado para ejercer sus cargos.
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 24 Ley 222 de 1995|24]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995
 
 ---
 ← [[art. 199 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|Sección II]] · [[art. 201 CCo]] →

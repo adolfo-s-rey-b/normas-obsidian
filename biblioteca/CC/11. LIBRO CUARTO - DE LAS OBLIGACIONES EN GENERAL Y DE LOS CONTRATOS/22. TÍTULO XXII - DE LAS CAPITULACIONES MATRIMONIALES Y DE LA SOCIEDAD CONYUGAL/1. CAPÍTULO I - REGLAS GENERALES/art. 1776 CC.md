@@ -17,7 +17,7 @@ anterior: "[[art. 1775 CC]]"
 siguiente: "[[art. 1777 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,7 +32,7 @@ Se puede estipular en las capitulaciones matrimoniales que la mujer administrar�
 
 Se podrá también estipular que la mujer dispondrá libremente de una determinada suma de dinero, o de una determinada pensión periódica, y este pacto surtirá los mismos efectos que la separación parcial de bienes; pero no será lícito a la mujer tomar prestado o comprar fiado sobre dicha suma o pensión.
 
-> [!note] Notas del Editor: Para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el artículo [[art. 1 Ley 28 de 1932|1]] de la Ley 28 de 1932, publicada en el Diario Oficial No. 22.139, de 17 de noviembre de 1932, Cuyo texto original es el siguiente: 'ARTÍCULO [[art. 1 CC|1]]: Durante el matrimonio cada uno de los cónyuges tiene la libre administración y disposición tanto de los bienes que le pertenezcan al momento de contraerse el matrimonio o que hubiere aportado a él, como de los demás que por cualquier causa hubiere adquirido o adquiera; pero a la disolución del matrimonio o en cualquier otro evento en que conforme al Código Civil deba liquidarse la sociedad conyugal, se considerará que los cónyuges han tenido esta sociedad desde la celebración del matrimonio, y en consecuencia se procederá a su liquidación'.
+> [!note] Notas del Editor: Para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el artículo [[art. 1 Ley 28 de 1932|1]] de la Ley 28 de 1932, publicada en el Diario Oficial No. 22.139, de 17 de noviembre de 1932, Cuyo texto original es el siguiente: 'ARTÍCULO [[art. 1 Ley 28 de 1932|1]]: Durante el matrimonio cada uno de los cónyuges tiene la libre administración y disposición tanto de los bienes que le pertenezcan al momento de contraerse el matrimonio o que hubiere aportado a él, como de los demás que por cualquier causa hubiere adquirido o adquiera; pero a la disolución del matrimonio o en cualquier otro evento en que conforme al Código Civil deba liquidarse la sociedad conyugal, se considerará que los cónyuges han tenido esta sociedad desde la celebración del matrimonio, y en consecuencia se procederá a su liquidación'.
 
 ---
 ← [[art. 1775 CC]] · ↑ [[CC - Libro Cuarto - Título XXII - Capítulo I|Capítulo I]] · [[art. 1777 CC]] →

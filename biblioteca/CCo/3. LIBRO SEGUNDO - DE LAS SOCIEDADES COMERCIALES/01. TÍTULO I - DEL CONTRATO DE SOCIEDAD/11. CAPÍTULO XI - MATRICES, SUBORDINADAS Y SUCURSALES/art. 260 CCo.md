@@ -17,8 +17,13 @@ modificado_por:
   - "[[art. 26 Ley 222 de 1995]]"
 anterior: "[[art. 259 CCo]]"
 siguiente: "[[art. 261 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#260"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,13 +34,11 @@ tags:
 
 ## Artículo 260. SUBORDINACIÓN
 
-> [!info] Modificado por el art. [[art. 26 Ley 222 de 1995|26]], Ley 222 de 1995
+Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o controlante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
 
-El nuevo texto es el siguiente Una sociedad será subordinada o controlada cuando su poder de decisión se encuentre sometido a la voluntad de otra u otras personas que serán su matriz o controlante, bien sea directamente, caso en el cual aquélla se denominará filial o con el concurso o por intermedio de las subordinadas de la matriz, en cuyo caso se llamará subsidiaria.
+> [!info] Artículo subrogado por el artículo [[art. 26 Ley 222 de 1995|26]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
-Texto anterior:
-
-Las sociedades subordinadas pueden ser filiales o subsidiarias. Se considerará filial la sociedad que esté dirigida o controlada económica, financiera o administrativamente por otra, que será la matriz. Será subsidiaria la compañía cuyo control o dirección lo ejerza la matriz por intermedio o con el concurso de una o varias filiales suyas, o de sociedades vinculadas a la matriz o a las filiales de ésta
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 26 Ley 222 de 1995|26]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.1563, del 20 de diciembre de 1995.
 
 ---
 ← [[art. 259 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo XI|Capítulo XI]] · [[art. 261 CCo]] →

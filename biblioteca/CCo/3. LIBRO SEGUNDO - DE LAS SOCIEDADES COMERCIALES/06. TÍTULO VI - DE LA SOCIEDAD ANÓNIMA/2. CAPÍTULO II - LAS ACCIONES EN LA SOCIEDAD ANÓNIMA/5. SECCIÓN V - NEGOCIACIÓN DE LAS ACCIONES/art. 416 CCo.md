@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección V|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 415 CCo]]"
 siguiente: "[[art. 417 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#416"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,9 @@ tags:
 
 ## Artículo 416. NEGATIVA DE LA SOCIEDAD ANÓNIMA A LA INSCRIPCIÓN DE ACCIONES EN EL LIBRO DE REGISTRO
 
-La sociedad no podrá negarse a hacer las inscripciones en el libro de registro de acciones, que se prevén en esta Sección sino por orden de autoridad competente, o cuando se trate de acciones para cuya negociación se requiera determinados requisitos o formalidades que no se hayan cumplido.
+(sic) La sociedad no podrá negarse a hacer las inscripciones en el libro de registro de acciones, que se prevén en esta Sección sino por orden de autoridad competente, o cuando se trate de acciones para cuya negociación se requiera determinados requisitos o formalidades que no se hayan cumplido.
+
+(sic)
 
 ---
 ← [[art. 415 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II - Sección V|Sección V]] · [[art. 417 CCo]] →

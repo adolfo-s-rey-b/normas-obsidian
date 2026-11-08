@@ -15,8 +15,9 @@ vigencia: "vigente"
 anterior: "[[art. 415 CC]]"
 siguiente: "[[art. 417 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2025
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,13 +34,13 @@ En primer lugar, el que tenga según el inciso 10.
 
 En segundo, el que tenga según los incisos 1o. y 4o.
 
-> [!note] Inciso CONDICIONALMENTE exequible
-
 En tercero, el que tenga según los incisos 2o. y 5o.
 
 > [!note] Inciso CONDICIONALMENTE exequible
 
 En cuarto, el que tenga según los incisos 3o. y 6o.
+
+> [!note] Inciso CONDICIONALMENTE exequible
 
 En quinto, el que tenga según los incisos 7o. y 8o.
 

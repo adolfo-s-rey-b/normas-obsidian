@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 208 CP|Artículo 208]] — Acceso carnal abusivo con menor de catorce años
-- [[art. 209 CP|Artículo 209]] — Actos sexuales con menor de catorce años
-- [[art. 210 CP|Artículo 210]] — Acceso carnal o acto sexual abusivos con incapaz de resistir
+- [[art. 208 CP|Artículo 208]] — ACCESO CARNAL ABUSIVO CON MENOR DE CATORCE AÑOS
+- [[art. 209 CP|Artículo 209]] — ACTOS SEXUALES CON MENOR DE CATORCE AÑOS
+- [[art. 210 CP|Artículo 210]] — ACCESO CARNAL O ACTO SEXUAL ABUSIVOS CON INCAPAZ DE RESISTIR
 - [[art. 210A CP|Artículo 210A]]
 
 ---

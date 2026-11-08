@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 132 CP|Artículo 132]] — Manipulación genetica
-- [[art. 133 CP|Artículo 133]] — Repetibilidad del ser humano
-- [[art. 134 CP|Artículo 134]] — Fecundación y trafico de embriones humanos
+- [[art. 132 CP|Artículo 132]] — MANIPULACIÓN GENETICA
+- [[art. 133 CP|Artículo 133]] — REPETIBILIDAD DEL SER HUMANO
+- [[art. 134 CP|Artículo 134]] — FECUNDACIÓN Y TRAFICO DE EMBRIONES HUMANOS
 
 ---
 ← [[CP - Libro Segundo - Título I - Capítulo Septimo|Capítulo Septimo]] · ↑ [[CP - Libro Segundo - Título I|Título I]] · [[CP - Libro Segundo - Título I - Capítulo Noveno|Capítulo Noveno]] →

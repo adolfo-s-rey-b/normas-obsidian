@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo I|CAPÍTULO I - Ejecutoria y Cosa Juzgada]] (arts. 302 a 304)
-- [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|CAPÍTULO II - Ejecución de las Providencias Judiciales]] (arts. 305 a 311)
+- [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo I|CAPÍTULO I - EJECUTORIA Y COSA JUZGADA]] (arts. 302 a 304)
+- [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|CAPÍTULO II - EJECUCIÓN DE LAS PROVIDENCIAS JUDICIALES]] (arts. 305 a 311)
 
 ---
 ← [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]] · ↑ [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]]

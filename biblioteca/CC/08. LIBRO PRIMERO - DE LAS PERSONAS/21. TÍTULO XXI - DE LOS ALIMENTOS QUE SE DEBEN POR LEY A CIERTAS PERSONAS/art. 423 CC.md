@@ -12,13 +12,12 @@ epigrafe: "FORMA Y CUANTIA DE LA PRESTACIÓN ALIMENTARIA"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título XXI|TÍTULO XXI - DE LOS ALIMENTOS QUE SE DEBEN POR LEY A CIERTAS PERSONAS]]"
 vigencia: "modificado"
-modificado_por:
-  - "[[art. 24 CC]]"
 anterior: "[[art. 422 CC]]"
 siguiente: "[[art. 424 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1996
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +28,7 @@ tags:
 
 ## Artículo 423. FORMA Y CUANTIA DE LA PRESTACIÓN ALIMENTARIA
 
-> [!info] Artículo modificado por el artículo [[art. 24 CC|24]] de la Ley 1a. de 1976. El nuevo texto es el siguiente:
+> [!info] Artículo modificado por el artículo 24 de la Ley 1a. de 1976. El nuevo texto es el siguiente:
 
 El juez reglará la forma y cuantía en que hayan de prestarse los alimentos, y podrá disponer que se conviertan en los intereses de un capital que se consigne a este efecto en una caja de ahorros o en otro establecimiento análogo, y se restituya al alimentante o a sus herederos luego que cese la obligación.
 
@@ -39,7 +38,7 @@ Son válidos los pactos de los cónyuges en los cuales, conforme a la ley, se de
 
 En el mismo evento y por el mismo procedimiento podrá cualquiera de los cónyuges solicitar la revisión judicial de la cuantía de las obligaciones fijadas en la sentencia.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 24 CC|24]] de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo 24 de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Apartes subrayados declarados EXEQUIBLES por la Corte Constitucional mediante Sentencia C-174-96 del 29 de abril de 1996. Magistrado Ponente Dr.Jorge Arango Mejía.
 

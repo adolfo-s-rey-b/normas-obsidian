@@ -8,11 +8,16 @@ epigrafe: "Poder preferente de la Sala Jurisdiccional Disciplinaria del Consejo 
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente inexequible"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 41 Ley 1474 de 2011]]"
 siguiente: "[[art. 43 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#42"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -27,7 +32,7 @@ La Sala Jurisdiccional Disciplinaria del Consejo Superior de la Judicatura a sol
 
 ~~Para el cumplimiento de estas funciones y las de su competencia creará por medio de su reglamento interno las salas de decisión pertinentes".~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019 .
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019 .
 
 > [!warning] Nota: Declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-619 de 2012.
 

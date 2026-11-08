@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 82 CP|Artículo 82]] — Extinción de la acción penal
-- [[art. 83 CP|Artículo 83]] — Termino de prescripción de la acción penal
+- [[art. 82 CP|Artículo 82]] — EXTINCIÓN DE LA ACCIÓN PENAL
+- [[art. 83 CP|Artículo 83]] — TÉRMINO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL
 - [[art. 84 CP|Artículo 84]] — Iniciación del termino de prescripción de la accion
 - [[art. 85 CP|Artículo 85]] — Renuncia a la prescripcion
-- [[art. 86 CP|Artículo 86]] — Interrupción y suspensión del termino prescriptivo de la accion
+- [[art. 86 CP|Artículo 86]] — INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO PRESCRIPTIVO DE LA ACCIÓN
 - [[art. 87 CP|Artículo 87]] — La oblacion
 - [[art. 88 CP|Artículo 88]] — Extinción de la sanción penal
-- [[art. 89 CP|Artículo 89]] — Termino De Prescripción De La Sanción Penal
+- [[art. 89 CP|Artículo 89]] — TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PENAL
 - [[art. 90 CP|Artículo 90]] — Interrupción del termino de prescripción de la sanción privativa de la libertad
 - [[art. 91 CP|Artículo 91]] — Interrupción del termino de prescripción de la multa
 - [[art. 92 CP|Artículo 92]] — La rehabilitacion

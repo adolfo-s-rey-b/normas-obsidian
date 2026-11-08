@@ -25,7 +25,7 @@ tags:
 
 - [[art. 229 CP|Artículo 229]] — Violencia intrafamiliar
 - [[art. 229A CP|Artículo 229A]] — Maltrato por descuido, negligencia o abandono en persona mayor de 60 años
-- [[art. 230 CP|Artículo 230]] — Maltrato mediante restricción a la libertad fisica
+- [[art. 230 CP|Artículo 230]] — MALTRATO MEDIANTE RESTRICCIÓN A LA LIBERTAD FISICA
 - [[art. 230A CP|Artículo 230A]]
 
 ---

@@ -8,11 +8,16 @@ epigrafe: "Prueba trasladada"
 capitulo: "[[Ley 1474 de 2011 - Capítulo III|CAPÍTULO III - MEDIDAS DISCIPLINARIAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 265 Ley 1952 de 2019]]"
+  - "[[art. 265 CGD]]"
 anterior: "[[art. 50 Ley 1474 de 2011]]"
 siguiente: "[[art. 52 Ley 1474 de 2011]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#51"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -31,7 +36,7 @@ También podrán trasladarse los elementos materiales de prueba o evidencias fí
 
 ~~Cuando la Procuraduría General de la Nación o el Consejo Superior de la Judicatura necesiten información acerca de una investigación penal en curso o requieran trasladar a la actuación disciplinaria elementos materiales de prueba o evidencias físicas que no hayan sido descubiertos, así lo solicitarán al Fiscal General de la Nación. En cada caso, el Fiscal General evaluará la solicitud y determinará qué información o elementos materiales de prueba o evidencias físicas puede entregar, sin afectar la investigación penal ni poner en riesgo el éxito de la misma.~~
 
-> [!warning] Derogado por el art. [[art. 265 Ley 1952 de 2019|265]] de la Ley 1952 de 2019
+> [!warning] Derogado por el art. [[art. 265 CGD|265]] de la Ley 1952 de 2019
 
 ---
 ← [[art. 50 Ley 1474 de 2011]] · ↑ [[Ley 1474 de 2011 - Capítulo III|Capítulo III]] · [[art. 52 Ley 1474 de 2011]] →

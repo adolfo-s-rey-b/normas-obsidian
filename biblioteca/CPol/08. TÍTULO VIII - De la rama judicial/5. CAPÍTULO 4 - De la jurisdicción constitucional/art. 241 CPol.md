@@ -13,90 +13,101 @@ sigla: "CPol"
 articulo: "241"
 titulo: "[[CPol - Título VIII|TÍTULO VIII - De la rama judicial]]"
 capitulo: "[[CPol - Título VIII - Capítulo 4|CAPÍTULO 4 - De la jurisdicción constitucional]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 14 Acto Legislativo 2 de 2015]]"
 anterior: "[[art. 240 CPol]]"
 siguiente: "[[art. 242 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#241"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2026
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPol|CPol]] › [[CPol - Título VIII|Título VIII]] › [[CPol - Título VIII - Capítulo 4|Capítulo 4]]
 
 ## Artículo 241
 
-A la Corte Constitucional se le confia la guarda de la integridad y supremacia de la Constitución, en los estrictos y precisos términos de este artículo. Con tal fin, cumplira las siguientes funciones:
+A la Corte Constitucional se le confía la guarda de la integridad y supremacía de la Constitución, en los estrictos y precisos términos de este artículo. Con tal fin, cumplirá las siguientes funciones:
 
-> [!note] Ver Ley 270 de 1996; Art. [[art. 43 Ley 270 de 1996|43]] ; Art. [[art. 45 Ley 270 de 1996|45]] ; Art. [[art. 46 Ley 270 de 1996|46]]
+> [!note] Concordancias: Ley 270 de 1996; Art. [[art. 43 Ley 270 de 1996|43]] ; Art. [[art. 45 Ley 270 de 1996|45]] ; Art. [[art. 46 Ley 270 de 1996|46]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-006-2001; C-047-2001 ; C-048-2001; C-052-2001 ; C-092-2001; C-093-2001; C-140-2001; C-201-2001; C-246-2001; C-362-2001; C-430-2001; C-478-2001; C-504-2001; C-506-2001; C-551-2001; C-581-2001; C-583-2001; C-646-2001 ; C-670-2001; C-737-2001; C-739-2001; C-760-2001 ; C-816-2001 ; C-829-2001; C-865-2001; C-895-2001 ; C-915-2001; C-949-2001 ; C-974-2001; C-1052-2001; C-1065-2001; C-1256-2001; C-1290-2001; C-174-2001; C-1255-2001; C-152-03 ; C-155-03; C-156-03; C-186-03; C-551-03 ; C-1200-03; C-664-13
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-006-2001 ; C-047-2001 ; C-048-2001 ; C-052-2001 ; C-092-2001 ; C-093-2001 ; C-140-2001 ; C-201-2001 ; C-246-2001 ; C-362-2001 ; C-430-2001 ; C-478-2001 ; C-504-2001 ; C-506-2001 ; C-551-2001 ; C-581-2001 ; C-583-2001 ; C-646-2001 ; C-670-2001 ; C-737-2001 ; C-739-2001 ; C-760-2001 ; C-816-2001 ; C-829-2001 ; C-865-2001 ; C-895-2001 ; C-915-2001 ; C-949-2001 ; C-974-2001 ; C-1052-2001 ; C-1065-2001 ; C-1256-2001 ; C-1290-2001 ; C-174-2001 ; C-1255-2001 ; C-152-03 ; C-155-03 ; C-156-03 ; C-186-03 ; C-551-03 ; C-1200-03 ; C-820-06 ; C-664-13 ;
 
-1\. Decidir sobre las demandas de inconstitucionalidad que promuevan los ciudadanos contra los actos reformatorios de la Constitución, cualquierá que sea su origen, solo por vicios de procedimiento en su formación.
+1\. Decidir sobre las demandas de inconstitucionalidad que promuevan los ciudadanos contra los actos reformatorios de la Constitución, cualquiera que sea su origen, sólo por vicios de procedimiento en su formación.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-545-92; C-562-00; C-551-03 ; C-816-04 ; C-1041-05; C-033-09; C-588-09; C-040-10; C-702-10; C-249-12 ; C-474-13; C-524-13; C-441-19
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este numeral 1o. mediante Sentencia C-1048-05 de 19 de octubre de 2005, Magistrados Ponentes Dr. Manuel José Cepeda Espinosa, Dr. Rodrigo Escobar Gil, Dr. Marco Gerardo Monroy Cabra, Dr. Humberto Antonio Sierra Porto, Dr. Álvaro Tafur Galvis, Dra. Clara Inés Vargas Hernández.
 
-2\. Decidir, con anterioridad al pronunciamiento popular, sobre la constitucionalidad de la convocatoria a un referendo o a una Asamblea Constituyente para reformar la Constitución, solo por vicios de procedimiento en su formación.
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-544-92 ; C-545-92 ; C-562-00 ; C-551-03 ; C-816-04 ; C-1041-05 ; C-033-09 ; C-588-09 ; C-040-10 ; C-702-10 ; C-249-12 ; C-474-13 ; C-524-13 ; C-441-19 ;
 
-> [!note] Ver Constitución Política; Art. [[art. 379 CPol|379]]
+2\. Decidir, con anterioridad al pronunciamiento popular, sobre la constitucionalidad de la convocatoria a un referendo o a una Asamblea Constituyente para reformar la Constitución, sólo por vicios de procedimiento en su formación.
 
-> [!note] Ver Ley 134 de 1994; Art. [[art. 34 Ley 134 de 1994|34]] ; Art. [[art. 60 Ley 134 de 1994|60]]
+> [!note] Concordancias: Constitución Política; Art. [[art. 379 Ley 134 de 1994|379]] Ley 134 de 1994; Art. [[art. 34 Ley 134 de 1994|34]] ; Art. [[art. 60 Ley 134 de 1994|60]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-141-10
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-546-92 ; C-141-10 ;
 
-3\. Decidir sobre la constitucionalidad de los referendos sobre leyes y de las consultas populares y plebiscitos del orden nacional. Estos ultimos solo por vicios de procedimiento en su convocatoria y realización.
+3\. Decidir sobre la constitucionalidad de los referendos sobre leyes y de las consultas populares y plebiscitos del orden nacional. Estos últimos sólo por vicios de procedimiento en su convocatoria y realización.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 40 Ley 5 de 1992|40]] Inc. 2o.; Art. [[art. 100 Ley 5 de 1992|100]] Inc. Final; Art. [[art. 103 Ley 5 de 1992|103]]; Art. [[art. 104 Ley 5 de 1992|104]]; Art. [[art. 105 Ley 5 de 1992|105]]; Art. [[art. 319 Ley 5 de 1992|319]] Incs 2. y 3; Art. [[art. 321 Ley 5 de 1992|321]] Inc. 4; Art. [[art. 379 Ley 5 de 1992|379]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 40 Ley 5 de 1992|40]] Inc. 2o.; Art. [[art. 100 Ley 5 de 1992|100]] Inc. Final; Art. [[art. 103 Ley 5 de 1992|103]] ; Art. [[art. 104 Ley 5 de 1992|104]] ; Art. [[art. 105 Ley 5 de 1992|105]] ; Art. [[art. 319 Ley 5 de 1992|319]] Incs 2o. y 3o.: Art. [[art. 321 Ley 5 de 1992|321]] Inc. 4; Art. [[art. 379 Ley 134 de 1994|379]] Ley 134 de 1994
 
-> [!note] Ver Ley 134 de 1994
-
-> [!note] Ver Sentencia de la Corte Constitucional: C-102-18
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-102-18 ;
 
 4\. Decidir sobre las demandas de inconstitucionalidad que presenten los ciudadanos contra las leyes, tanto por su contenido material como por vicios de procedimiento en su formación.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-221-97; C-141-01; C-048-04; C-073-04; C-158-04; C-282-04; C-283-04; C-662-04 C-734-05 ; C-441-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-221-97 ; C-141-01 ; C-048-04 ; C-073-04 ; C-158-04 ; C-282-04 ; C-283-04 : C-662-04 C-734-05; C-441-19 ;
 
 5\. Decidir sobre las demandas de inconstitucionalidad que presenten los ciudadanos contra los decretos con fuerza de ley dictados por el Gobierno con fundamento en los artículos [[art. 150 CPol|150]] numeral 10 y 341 de la Constitución, por su contenido material o por vicios de procedimiento en su formación.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-416-92 ; C-417-92; C-434-92 ; C-435-92 ; C-510-92; C-511-92; C-513-92; C-514-92 ; C-007-03; C-569-03; C-441-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-416-92 ; C-417-92 ; C-434-92 ; C-435-92 ; C-472-92 ; C-510-92 ; C-511-92 ; C-513-92 ; C-514-92 ; C-007-03 ; C-569-03 ; C-441-19 ; C-170-26 ;
 
 6\. Decidir sobre las excusas de que trata el artículo [[art. 137 CPol|137]] de la Constitución.
 
-7\. Decidir definitivamente sobre la constitucionalidad de los decretos legislativos que dicte el Gobierno con fundamento en los artículos [[art. 212 CPol|212]], [[art. 213 CPol|213]] y [[art. 215 CPol|215]] de la Constitución.
+7\. Decidir definitivamente sobre la constitucionalidad de los decretos legislativos que dicte el Gobierno con fundamento en los artículos [[art. 212 CPol|212]] , [[art. 213 CPol|213]] y [[art. 215 CPol|215]] de la Constitución.
 
-> [!note] Ver Ley 137 de 1994; Art. [[art. 55 Ley 137 de 1994|55]]
+> [!note] Concordancias: Ley 137 de 1994; Art. [[art. 55 Ley 137 de 1994|55]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-004-92; C-005-92; C-447-92; C-448-92; C-579-92; C-063-03
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-004-92 ; C-005-92 ; C-447-92 ; C-448-92 ; C-556-92 ; C-557-92 ; C-579-92 ; C-179-94 ; C-063-03 ;
 
 8\. Decidir definitivamente sobre la constitucionalidad de los proyectos de ley que hayan sido objetados por el Gobierno como inconstitucionales, y de los proyectos de leyes estatutarias, tanto por su contenido material como por vicios de procedimiento en su formación.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-057-93; C-292-03 ; C-041-04 ; C-068-04; C-070-04; C-307-04; C-433-04; C-397-10
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-057-93 ; C-292-03 ; C-041-04 ; C-068-04 ; C-070-04 ; C-307-04 ; C-433-04 : C-397-10 ;
 
 9\. Revisar, en la forma que determine la ley, las decisiones judiciales relacionadas con la acción de tutela de los derechos constitucionales.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-543-92 ; C-018-93
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-543-92 ; C-018-93 ;
 
-10\. Decidir definitivamente sobre la exequibilidad de los tratados internacionales y de las leyes que los aprueben. Con tal fin, el Gobierno los remitirá a la Corte, dentro de los seis dias siguientes a la sanción de la ley. Cualquier ciudadano podrá intervenir para defender o impugnar su constitucionalidad. Si la Corte los declara constitucionales, el Gobierno podrá efectuar el canje de notas; en caso contrario no serán ratificados. Cuando una o varias normas de un tratado multilateral sean declaradas inexequibles por la Corte Constitucional, el Presidente de la República solo podrá manifestar el consentimiento formulando la correspondiente reserva.
+10\. Decidir definitivamente sobre la exequibilidad de los tratados internacionales y de las leyes que los aprueben. Con tal fin, el Gobierno los remitirá a la Corte, dentro de los seis días siguientes a la sanción de la ley. Cualquier ciudadano podrá intervenir para defender o impugnar su constitucionalidad. Si la Corte los declara constitucionales, el Gobierno podrá efectuar el canje de notas; en caso contrario no serán ratificados. Cuando una o varias normas de un tratado multilateral sean declaradas inexequibles por la Corte Constitucional, el Presidente de la República sólo podrá manifestar el consentimiento formulando la correspondiente reserva.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-504-92; C-562-92; C-563-92; C-564-92; C-574-92; C-589-92; C-155-98; C-256-98; C-246-99; C-1490-00; C-005-2001; C-012-2001; C-279-2001; C-505-2001; C-861-2001; C-914-2001; C-916-2001; C-951-2001; C-1145-2001; C-071-03; C-255-03; C-291A-03; C-318-03; C-354-03; C-401-03; C-961-03; C-962-03; C-012-04; C-120-04; C-172-04; C-278-04; C-279-04; C-280-04; C-309-04; C-315-04; C-533-04; C-534-04; C-557-04; C-649-06; C-280-14; C-187-19; C-234-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-477-92 ; C-504-92 ; C-562-92 ; C-563-92 ; C-564-92 ; C-574-92 ; C-589-92 ; C-155-98 ; C-256-98 ; C-246-99 ; C-1490-00 ; C-005-2001 ; C-012-2001 ; C-279-2001 ; C-505-2001 ; C-861-2001 ; C-914-2001 ; C-916-2001 ; C-951-2001 ; C-1145-2001 ; C-071-03 ; C-255-03 ; C-291A-03; C-318-03 ; C-354-03 ; C-401-03 ; C-961-03 ; C-962-03 ; C-012-04 ; C-037-04 ; C-120-04 ; C-172-04 ; C-278-04 ; C-279-04 ; C-280-04 ; C-309-04 ; C-315-04 ; C-347-04 ; C-533-04 ; C-534-04 ; C-557-04 ; C-649-06 ; C-280-14 ; C-187-19 ; C-234-19 ; C-346-22 ; C-115-24 ;
 
 11\. Dirimir los conflictos de competencia que ocurran entre las distintas jurisdicciones.
 
-> [!info] Numeral 11 modificado por el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015. Declarado EXEQUIBLE, mediante Sentencia de la Corte Constitucional C-029 de 2018
+> [!info] Numeral adicionado por el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015. El nuevo texto es el siguiente:
 
-12\. Darse su propio reglamento.
+> [!info] Notas de Vigencia: Numeral adicionado por el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015, 'por medio del cual se adopta una reforma de equilibrio de poderes y reajuste institucional y se dictan otras disposiciones', publicado en el Diario Oficial No. 49.560 de 1 de julio de 2015. El numeral 11 original es renumerado como 12.
 
-> [!info] Numeral 12 adicionado por el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015. Declarado EXEQUIBLE, mediante Sentencia de la Corte Constitucional C-029 de 2018
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015 declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-029-18 de 2 de mayo de 2018, Magistrado Ponente Dr. Alberto Rojas Ríos. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015 por ineptitud de la demanda, mediante Sentencia C-112-17 de 2017, Magistrado Ponente Dr. Antonio José Lizarazo Ocampo. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015 por ineptitud de la demanda, mediante Sentencia C-053-16 de 10 de febrero de 2016, Magistrado Ponente Dr. Alejandro Linares Cantillo. - La Corte Constitucional mediante Auto A-368-15 de 26 de agosto de 2015, Magistrado Ponente Dr. Mauricio González Cuervo, declara inviable la solicitud de suspensión provisional del artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015.
 
-**PARÁGRAFO .** Cuando la Corte encuentre vicios de procedimiento subsanables en la formación del acto sujeto a su control, ordenará devolverlo a la autoridad que lo profirió para que, de ser posible, enmiende el defecto observado. Subsanado el vicio, procederá a decidir sobre la exequibilidad del acto.
+~~11.~~ 12. Darse su propio reglamento.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 202 Ley 5 de 1992|202]]; Art. [[art. 379 Ley 5 de 1992|379]]
+> [!note] Notas de Vigencia: Numeral 11 original renumerado como 12 por el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015, 'por medio del cual se adopta una reforma de equilibrio de poderes y reajuste institucional y se dictan otras disposiciones', publicado en el Diario Oficial No. 49.560 de 1 de julio de 2015.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-600-92; C-607-92; C-018-93; C-1142-08; C-685-11; C-634-15
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015 declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-029-18 de 2 de mayo de 2018, Magistrado Ponente Dr. Alberto Rojas Ríos. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015 por ineptitud de la demanda, mediante Sentencia C-112-17 de 2017, Magistrado Ponente Dr. Antonio José Lizarazo Ocampo. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015 por ineptitud de la demanda, mediante Sentencia C-053-16 de 10 de febrero de 2016, Magistrado Ponente Dr. Alejandro Linares Cantillo. - La Corte Constitucional mediante Auto A-368-15 de 26 de agosto de 2015, Magistrado Ponente Dr. Mauricio González Cuervo, declara inviable la solicitud de suspensión provisional del artículo [[art. 14 Acto Legislativo 2 de 2015|14]] del Acto Legislativo 2 de 2015.
+
+**PARAGRAFO.** Cuando la Corte encuentre vicios de procedimiento subsanables en la formación del acto sujeto a su control, ordenará devolverlo a la autoridad que lo profirió para que, de ser posible, enmiende el defecto observado. Subsanado el vicio, procederá a decidir sobre la exequibilidad del acto.
+
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 202 Ley 5 de 1992|202]] ; Art. [[art. 379 Ley 5 de 1992|379]]
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-600-92 ; C-607-92 ; C-018-93 ; C-1142-08 ; C-685-11 ; C-634-15 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 7, 8, 9, 36, 64, 74, 75, 81, 91, 96 y 111)
 
 ---
 ← [[art. 240 CPol]] · ↑ [[CPol - Título VIII - Capítulo 4|Capítulo 4]] · [[art. 242 CPol]] →

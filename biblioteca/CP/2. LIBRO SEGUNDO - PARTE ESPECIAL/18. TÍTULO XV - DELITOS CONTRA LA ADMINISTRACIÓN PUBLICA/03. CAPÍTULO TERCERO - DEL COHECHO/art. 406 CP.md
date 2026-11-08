@@ -18,7 +18,11 @@ modificado_por:
 anterior: "[[art. 405 CP]]"
 siguiente: "[[art. 407 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#406"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2011
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

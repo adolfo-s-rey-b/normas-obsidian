@@ -8,14 +8,17 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "12"
-epigrafe: "Vacíos y deficiencias del código"
+epigrafe: "VACÍOS Y DEFICIENCIAS DEL CÓDIGO"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 11 CGP]]"
 siguiente: "[[art. 13 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#12"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -24,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 12. Vacíos y deficiencias del código
+## Artículo 12. VACÍOS Y DEFICIENCIAS DEL CÓDIGO
 
 Cualquier vacío en las disposiciones del presente código se llenará con las normas que regulen casos análogos. A falta de estas, el juez determinará la forma de realizar los actos procesales con observancia de los principios constitucionales y los generales del derecho procesal, procurando hacer efectivo el derecho sustancial.
 

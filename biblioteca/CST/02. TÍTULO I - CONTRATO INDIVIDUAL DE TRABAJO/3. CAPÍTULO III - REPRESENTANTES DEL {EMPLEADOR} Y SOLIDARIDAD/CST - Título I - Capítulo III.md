@@ -24,7 +24,7 @@ tags:
 
 - [[art. 32 CST|Artículo 32]] — REPRESENTANTES DEL {EMPLEADOR}
 - [[art. 33 CST|Artículo 33]] — SUCURSALES
-- [[art. 34 CST|Artículo 34]] — CONTRATISTAS INDEPENDIENTES
+- [[art. 34 CST|Artículo 34]] — CONTRATISTAS Y SUBCONTRATISTAS
 - [[art. 35 CST|Artículo 35]] — SIMPLE INTERMEDIARIO
 - [[art. 36 CST|Artículo 36]] — RESPONSABILIDAD SOLIDARIA
 

@@ -11,13 +11,19 @@ tipo: articulo
 norma: "Constitución Política de 1991"
 sigla: "CPol"
 articulo: "337"
+epigrafe: "(sic)"
 titulo: "[[CPol - Título XII|TÍTULO XII - Del régimen económico y de la hacienda pública]]"
 capitulo: "[[CPol - Título XII - Capítulo 1|CAPÍTULO 1 - De las disposiciones generales]]"
 vigencia: "vigente"
 anterior: "[[art. 336 CPol]]"
 siguiente: "[[art. 338 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#337"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -26,21 +32,17 @@ tags:
 
 [[CPol|CPol]] › [[CPol - Título XII|Título XII]] › [[CPol - Título XII - Capítulo 1|Capítulo 1]]
 
-## Artículo 337
+## Artículo 337. (sic)
 
 La Ley podrá establecer para las zonas de frontera, terrestres y marítimas, normas especiales en materias ecónomicas y sociales tendientes a promover su desarrollo.
 
-> [!note] Ver Ley 191 de 1995
+(sic)
 
-> [!note] Ver Ley 843 de 2003
+> [!note] Concordancias: Ley 191 de 1995 Ley 843 de 2003 Ley 1450 de 2011; Art. [[art. 15 Ley 1813 de 2016|15]] Ley 1813 de 2016 Ley 2135 de 2021
 
-> [!note] Ver Ley 1450 de 2011; Art. [[art. 15 Ley 1450 de 2011|15]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-504-92 ; C-379-93 ;
 
-> [!note] Ver Ley 1813 de 2016
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-504-92; C-379-93
-
-> [!note] Ver Decreto 1793 de 2021; Art. [[art. 47 Decreto 1793 de 2021|47]]
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 103)
 
 ---
 ← [[art. 336 CPol]] · ↑ [[CPol - Título XII - Capítulo 1|Capítulo 1]] · [[art. 338 CPol]] →

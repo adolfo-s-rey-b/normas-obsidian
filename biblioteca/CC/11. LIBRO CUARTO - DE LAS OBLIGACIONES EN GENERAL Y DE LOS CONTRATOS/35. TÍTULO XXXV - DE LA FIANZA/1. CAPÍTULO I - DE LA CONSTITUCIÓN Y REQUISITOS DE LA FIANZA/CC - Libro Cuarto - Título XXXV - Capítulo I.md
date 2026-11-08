@@ -40,7 +40,7 @@ tags:
 - [[art. 2375 CC|Artículo 2375]] — INSOLVENCIA SOBREVINIENTE DEL FIADOR
 - [[art. 2376 CC|Artículo 2376]] — REQUISITOS DEL FIADOR Y SUFICIENCIA DE LOS BIENES
 - [[art. 2377 CC|Artículo 2377]] — RESPONSABILIDAD DEL FIADOR
-- [[art. 2378 CC|Artículo 2378]] — <TRANSMISIBILIDAD DE LA FIANZA
+- [[art. 2378 CC|Artículo 2378]]
 
 ---
 ↑ [[CC - Libro Cuarto - Título XXXV|Título XXXV]] · [[CC - Libro Cuarto - Título XXXV - Capítulo II|Capítulo II]] →

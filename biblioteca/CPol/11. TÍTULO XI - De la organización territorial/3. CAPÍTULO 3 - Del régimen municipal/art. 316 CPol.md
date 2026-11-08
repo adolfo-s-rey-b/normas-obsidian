@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 3|CAPÍTULO 3 - Del régimen municipa
 vigencia: "vigente"
 anterior: "[[art. 315 CPol]]"
 siguiente: "[[art. 317 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#316"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,11 +35,9 @@ tags:
 
 En las votaciones que se realicen para la elección de autoridades locales y para la decisión de asuntos del mismo carácter, sólo podrán participar los ciudadanos residentes en el respectivo municipio.
 
-> [!note] Ver Ley 84 de 1993; Art. [[art. 5 Ley 84 de 1993|5]]
+> [!note] Concordancias: Ley 84 de 1993; Art. [[art. 5 Ley 136 de 1994|5]] Ley 136 de 1994; Art. [[art. 183 CPACA|183]] Ley 1437 de 2011; Art. [[art. 275 CPACA|275]] Num. 7.
 
-> [!note] Ver Ley 136 de 1994; Art. [[art. 183 Ley 136 de 1994|183]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-020-93; C-530-93; C-307-95
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-020-93 ; C-503-93 ; C-530-93 ; C-307-95
 
 ---
 ← [[art. 315 CPol]] · ↑ [[CPol - Título XI - Capítulo 3|Capítulo 3]] · [[art. 317 CPol]] →

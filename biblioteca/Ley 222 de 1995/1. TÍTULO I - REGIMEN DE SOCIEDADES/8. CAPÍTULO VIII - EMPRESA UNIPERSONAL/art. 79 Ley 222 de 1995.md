@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VIII|CAPÍTULO VIII - EMPRE
 vigencia: "vigente"
 anterior: "[[art. 78 Ley 222 de 1995]]"
 siguiente: "[[art. 80 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#79"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -22,9 +26,9 @@ tags:
 
 ## Artículo 79. TERMINACION DE LA EMPRESA
 
-La Empresa Unipersonal se disolverá en los siguientes casos:
+Empresa Unipersonal se disolverá en los siguientes casos:
 
-1\. Por voluntad del titular de la empresa.
+1\. Por voluntad del titular de la empresa,
 
 2\. Por vencimiento del término previsto, si lo hubiere, a menos que fuere prorrogado mediante documento inscrito en el registro mercantil antes de su expiración.
 

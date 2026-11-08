@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título II - Capítulo IV|CAPÍTULO IV - OBLIG
 vigencia: "vigente"
 anterior: "[[art. 922 CCo]]"
 siguiente: "[[art. 924 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#923"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -33,7 +37,7 @@ La entrega de la cosa se entenderá verificada:
 
 2\. Por la fijación que haga el comprador de su marca en las mercaderías compradas, con conocimiento y aquiescencia del vendedor;
 
-3\. Por la expedición que haga el vendedor de las mercaderías al domicilio del comprador o a cualquier otro lugar convenido, sin perjuicio de los dispuesto en el artículo [[art. 915 CCo|915]].
+3\. Por la expedición que haga el vendedor de las mercaderías al domicilio del comprador o a cualquier otro lugar convenido, sin perjuicio de los dispuesto en el artículo [[art. 915 CCo|915]] .
 
 La expedición no implicará entrega cuando sea efectuada sin ánimo de transferir la propiedad, como cuando el vendedor ha remitido las mercaderías a un consignatario, con orden de no entregarlas hasta que el comprador pague el precio o dé garantías suficientes, y
 

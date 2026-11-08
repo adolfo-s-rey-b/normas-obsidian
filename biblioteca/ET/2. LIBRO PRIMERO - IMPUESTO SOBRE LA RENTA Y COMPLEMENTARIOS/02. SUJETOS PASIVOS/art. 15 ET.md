@@ -19,7 +19,12 @@ derogado_por:
 anterior: "[[art. 14-2 ET]]"
 siguiente: "[[art. 16 ET]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#15"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et

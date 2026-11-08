@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 201 CCo]]"
 siguiente: "[[art. 203 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#202"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -33,6 +37,10 @@ En las sociedades por acciones, ninguna persona podrá ser designada ni ejercer,
 La Superintendencia de Sociedades sancionará con multa hasta de diez mil pesos la infracción a este artículo, sin perjuicio de declarar la vacancia de los cargos que excedieren del número antedicho.
 
 Lo dispuesto en este artículo se aplicará también cuando se trate de sociedades matrices y sus subordinadas, o de estas entre sí.
+
+(Notas del Editor: Para la interpretación de este artículo, en lo pertinente a multas, debe tenerse en cuenta lo dispuesto por el artículo [[art. 86 Ley 222 de 1995|86]] , numeral 3, de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995. El texto referido es el siguiente:
+
+ARTÍCULO 86. Además la Superintendencia de Sociedades cumplirá las siguientes funciones: 3. Imponer sanciones o multas, sucesivas o no, hasta de doscientos salarios mínimos legales mensuales, cualquiera sea el caso, a quienes incumplan sus órdenes, la ley o los estatutos.)
 
 ---
 ← [[art. 201 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|Sección II]] · [[art. 203 CCo]] →

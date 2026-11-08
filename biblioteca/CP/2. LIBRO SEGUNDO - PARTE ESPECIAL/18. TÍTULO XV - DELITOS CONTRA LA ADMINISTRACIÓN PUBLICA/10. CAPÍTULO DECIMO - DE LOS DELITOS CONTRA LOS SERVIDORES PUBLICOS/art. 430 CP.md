@@ -18,7 +18,11 @@ modificado_por:
 anterior: "[[art. 429D CP]]"
 siguiente: "[[art. 431 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#430"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2011
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

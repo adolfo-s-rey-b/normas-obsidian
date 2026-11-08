@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[Ley 472 de 1998 - Título VI - Capítulo Único|CAPÍTULO ÚNICO - DISPOSICIONES FINALES]] (arts. 80 a 86)
+- [[Ley 472 de 1998 - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES FINALES]] (arts. 80 a 86)
 
 ---
 ← [[Ley 472 de 1998 - Título V|Título V]] · ↑ [[Ley 472 de 1998|Ley 472 de 1998]]

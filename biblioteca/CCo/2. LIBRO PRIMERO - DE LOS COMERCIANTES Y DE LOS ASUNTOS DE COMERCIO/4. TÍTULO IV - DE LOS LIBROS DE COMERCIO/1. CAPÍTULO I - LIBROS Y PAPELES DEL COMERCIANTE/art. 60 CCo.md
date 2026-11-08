@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Primero - Título IV - Capítulo I|CAPÍTULO I - LIBROS
 vigencia: "vigente"
 anterior: "[[art. 59 CCo]]"
 siguiente: "[[art. 61 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#60"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,6 +34,10 @@ tags:
 Los libros y papeles a que se refiere este Capítulo deberán ser conservados cuando menos por diez años, contados desde el cierre de aquéllos o la fecha del último asiento, documento o comprobante. Transcurrido este lapso, podrán ser destruidos por el comerciante, siempre que por cualquier medio técnico adecuado garantice su reproducción exacta. Además, ante la cámara de comercio donde fueron registrados los libros se verificará la exactitud de la reproducción de la copia, y el secretario de la misma firmará acta en la que anotará los libros y papeles que se destruyeron y el procedimiento utilizado para su reproducción.
 
 Cuando se expida copia de un documento conservado como se prevé en este artículo, se hará constar el cumplimiento de las formalidades anteriores.
+
+(Notas del Editor: En criterio del editor para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el Artículo [[art. 28 Ley 962 de 2005|28]] de la Ley 962 de 2005, 'por la cual se dictan disposiciones sobre racionalización de trámites y procedimientos administrativos de los organismos y entidades del Estado y de los particulares que ejercen funciones públicas o prestan servicios públicos', publicada en el Diario Oficial No. 45.963 de 8 de julio de 2005. El texto original del Artículo [[art. 28 CCo|28]] mencionado establece:
+
+ARTÍCULO 28 . RACIONALIZACIÓN DE LA CONSERVACIÓN DE LIBROS Y PAPELES DE COMERCIO. Los libros y papeles del comerciante deberán ser conservados por un período de diez (10) años contados a partir de la fecha del último asiento, documento o comprobante, pudiendo utilizar para el efecto, a elección del comerciante, su conservación en papel o en cualquier medio técnico, magnético o electrónico que garantice su reproducción exacta. Igual término aplicará en relación con las personas, no comerciantes, que legalmente se encuentren obligadas a conservar esta información. Lo anterior sin perjuicio de los términos menores consagrados en normas especiales.)
 
 ---
 ← [[art. 59 CCo]] · ↑ [[CCo - Libro Primero - Título IV - Capítulo I|Capítulo I]] · [[art. 61 CCo]] →

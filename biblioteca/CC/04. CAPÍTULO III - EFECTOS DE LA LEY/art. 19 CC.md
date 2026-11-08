@@ -14,8 +14,9 @@ vigencia: "vigente"
 anterior: "[[art. 18 CC]]"
 siguiente: "[[art. 20 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2020
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,9 +31,9 @@ Los colombianos residentes o domiciliados en país extranjero, permanecerán suj
 
 1o) En lo relativo al estado de las personas y su capacidad para efectuar ciertos actos que hayan de tener efecto en alguno de los territorios administrados por el gobierno general, o en asuntos de la competencia de la Unión.
 
-> [!note] Aparte subrayado CONDICIONALMENTE exequible
-
 2o) En las obligaciones y derechos que nacen de las relaciones de familia, pero sólo respecto de sus cónyuges y parientes en los casos indicados en el inciso anterior.
+
+> [!note] Aparte subrayado CONDICIONALMENTE exequible
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Expresión 'cónyuges' declarada CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-456-20 de 21 de octubre de 2020, Magistrado Ponente Dr. Jorge Enrique Ibáñez Najar, 'bajo el entendido de que estas expresiones se refieren, en igualdad de derechos y deberes, a los cónyuges y a los compañeros permanentes de las uniones maritales de hecho, tanto de parejas de distinto sexo como de parejas del mismo sexo.' .
 

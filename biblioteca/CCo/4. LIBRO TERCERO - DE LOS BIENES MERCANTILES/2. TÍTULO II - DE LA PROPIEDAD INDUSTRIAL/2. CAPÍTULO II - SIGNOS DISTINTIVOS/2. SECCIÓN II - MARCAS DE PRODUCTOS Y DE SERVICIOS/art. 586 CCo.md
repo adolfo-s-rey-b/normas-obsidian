@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo II - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 585 CCo]]"
 siguiente: "[[art. 587 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#586"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,19 +33,11 @@ tags:
 
 ## Artículo 586. OTROS CASOS QUE NO SE PUEDEN REGISTRAR COMO MARCA
 
-Tampoco podrán registrarse como marcas:
+(Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
-1o. Las que se asemejen en forma que puedan inducir al público a error, a una marca registrada o solicitada con anterioridad por un tercero, o solicitada posteriormente con reivindicación válida de una prioridad, para los mismos productos o servicios, o para otros similares;
+> [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-2o. Las que se asemejen, en forma que puedan inducir al público a error, a una marca usada públicamente por otro en Colombia para productos idénticos o similares, si el solicitante de la marca ha conocido o no ha podido ignorar el uso;
-
-3o. Las que se asemejen, en forma que puedan inducir al público a error, a un nombre comercial o a una enseña utilizados anteriormente en Colombia por un tercero, para la misma actividad a que se destina el nombre o la enseña;
-
-4o. Las que en forma que puedan inducir al público a error, constituyan la reproducción total o parcial, la imitación, traducción o trasliteración de una marca, nombre comercial o enseña pertenecientes a un tercero, notoriamente conocidos en Colombia:
-
-5o. Las que violen otros derechos de terceros o sean contrarias a las reglas relativas a la represión de la competencia desleal, y
-
-6o. Las que sean solicitadas por el agente o representante de un tercero que sea titular de esas marcas en otro país, sin la autorización de éste, a menos que dicho agente o representante justifique su actuación.
+> [!note] Notas de Vigencia: Ver Nota de Vigencia del Título II 'DE LA PROPIEDAD INDUSTRIAL' del Libro Tercero 'DE LOS BIENES MERCANTILES'. Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena.
 
 ---
 ← [[art. 585 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo II - Sección II|Sección II]] · [[art. 587 CCo]] →

@@ -13,9 +13,12 @@ titulo: "[[CGP - Libro Quinto - Título II|TÍTULO II - DISPOSICIONES RELATIVAS 
 vigencia: "vigente"
 anterior: "[[art. 614 CGP]]"
 siguiente: "[[art. 616 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#615"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -26,13 +29,17 @@ tags:
 
 ## Artículo 615
 
-Modifíquese el artículo [[art. 150 CPACA|150]] de la Ley 1437 de 2011, el cual quedará así "Artículo [[art. 150 CGP|150]]. Competencia del Consejo de Estado en segunda instancia y cambio de radicación. El Consejo de Estado, en Sala de lo Contencioso Administrativo conocerá en segunda instancia de las apelaciones de las sentencias dictadas en primera instancia por los tribunales administrativos y de las apelaciones de autos susceptibles de este medio de impugnación, así como de los recursos de queja cuando no se conceda el de apelación por parte de los tribunales, o se conceda en un efecto distinto del que corresponda, o no se concedan los extraordinarios de revisión o de unificación de jurisprudencia.
+Modifíquese el artículo [[art. 150 CPACA|150]] de la Ley 1437 de 2011, el cual quedará así:
+
+"Artículo [[art. 150 CPACA|150]] . Competencia del Consejo de Estado en segunda instancia y cambio de radicación . El Consejo de Estado, en Sala de lo Contencioso Administrativo conocerá en segunda instancia de las apelaciones de las sentencias dictadas en primera instancia por los tribunales administrativos y de las apelaciones de autos susceptibles de este medio de impugnación, así como de los recursos de queja cuando no se conceda el de apelación por parte de los tribunales, o se conceda en un efecto distinto del que corresponda, o no se concedan los extraordinarios de revisión o de unificación de jurisprudencia.
 
 El Consejo de Estado, en Sala de lo Contencioso Administrativo, conocerá de las peticiones de cambio de radicación de un proceso o actuación, que se podrá disponer excepcionalmente cuando en el lugar en donde se esté adelantando existan circunstancias que puedan afectar el orden público, la imparcialidad o la independencia de la administración de justicia, las garantías procesales o la seguridad o integridad de los intervinientes.
 
 Adicionalmente, podrá ordenarse el cambio de radicación cuando se adviertan deficiencias de gestión y celeridad de los procesos, previo concepto de la Sala Administrativa del Consejo Superior de la Judicatura.
 
-**Parágrafo.** En todas las jurisdicciones las solicitudes de cambio de radicación podrán ser formuladas por la Agencia Nacional de Defensa Jurídica del Estado".
+**PARÁGRAFO.** En todas las jurisdicciones las solicitudes de cambio de radicación podrán ser formuladas por la Agencia Nacional de Defensa Jurídica del Estado".
+
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
 
 ---
 ← [[art. 614 CGP]] · ↑ [[CGP - Libro Quinto - Título II|Título II]] · [[art. 616 CGP]] →

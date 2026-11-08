@@ -1,0 +1,29 @@
+---
+aliases:
+  - "CPP CAPÍTULO III - DEBERES DE LA FISCALÍA GENERAL DE LA NACIÓN"
+tipo: indice
+norma: "Ley 906 de 2004"
+sigla: "CPP"
+nivel: "CAPÍTULO"
+etiqueta: "III"
+nombre: "DEBERES DE LA FISCALÍA GENERAL DE LA NACIÓN"
+libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
+titulo: "[[CPP - Libro I - Título V|TÍTULO V - DEBERES Y PODERES DE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
+articulos: "art. 142"
+tags:
+  - normas/indice
+  - normas/cpp
+---
+
+[[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título V|Título V]]
+
+## CAPÍTULO III - DEBERES DE LA FISCALÍA GENERAL DE LA NACIÓN
+
+*Art. 142*
+
+### Contenido
+
+- [[art. 142 CPP|Artículo 142]] — DEBERES ESPECÍFICOS DE LA FISCALÍA GENERAL DE LA NACIÓN
+
+---
+← [[CPP - Libro I - Título V - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro I - Título V|Título V]] · [[CPP - Libro I - Título V - Capítulo IV|Capítulo IV]] →

@@ -1,0 +1,37 @@
+---
+aliases:
+  - "Ley 222 de 1995 art. 57"
+tipo: articulo
+norma: "Ley 222 de 1995"
+articulo: "57"
+epigrafe: "DECISIONES"
+titulo: "[[Ley 222 de 1995 - Título I|TÍTULO I - REGIMEN DE SOCIEDADES]]"
+capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VII|CAPÍTULO VII - SOCIEDAD ANONIMA]]"
+seccion: "[[Ley 222 de 1995 - Título I - Capítulo VII - Sección II|SECCIÓN II - CONSTITUCION POR SUSCRIPCION SUCESIVA]]"
+vigencia: "vigente"
+anterior: "[[art. 56 Ley 222 de 1995]]"
+siguiente: "[[art. 58 Ley 222 de 1995]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_222_de_1995
+  - vigencia/vigente
+---
+
+[[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título I|Título I]] › [[Ley 222 de 1995 - Título I - Capítulo VII|Capítulo VII]] › [[Ley 222 de 1995 - Título I - Capítulo VII - Sección II|Sección II]]
+
+## Artículo 57. DECISIONES
+
+En la asamblea constituyente cada suscrito tendrá tantos votos como acciones haya suscrito.
+
+Las decisiones se tomarán por un número plural de suscriptores que represente, por lo menos, la mayoría absoluta de las acciones suscritas.
+
+En caso de que existan aportes en especie, los interesados no podrán votar los acuerdos que deban aprobarlos. En este evento, la mayoría se formará con los votos de las acciones restantes.
+
+---
+← [[art. 56 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo VII - Sección II|Sección II]] · [[art. 58 Ley 222 de 1995]] →

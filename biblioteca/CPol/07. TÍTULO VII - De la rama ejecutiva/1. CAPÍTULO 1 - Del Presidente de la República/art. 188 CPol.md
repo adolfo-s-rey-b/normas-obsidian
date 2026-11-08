@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 1|CAPÍTULO 1 - Del Presidente de la
 vigencia: "vigente"
 anterior: "[[art. 187 CPol]]"
 siguiente: "[[art. 189 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#188"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,7 +35,9 @@ tags:
 
 El Presidente de la República simboliza la unidad nacional y al jurar el cumplimiento de la Constitución y de las leyes, se obliga a garantizar los derechos y libertades de todos los colombianos.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-530-93 ; C-350-94 ; C-453-94 ; C-048-2001 ; C-1172-2001
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-530-93 ; C-537-93 ; C-350-94 ; C-453-94 ; C-048-2001 ; C-1172-2001 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 8, 21, 24, 31, 78 y 105)
 
 ---
 ← [[art. 187 CPol]] · ↑ [[CPol - Título VII - Capítulo 1|Capítulo 1]] · [[art. 189 CPol]] →

@@ -10,8 +10,13 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo V|CAPÍTULO V - MATRICES Y 
 vigencia: "vigente"
 anterior: "[[art. 32 Ley 222 de 1995]]"
 siguiente: "[[art. 34 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#33"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2005
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -24,7 +29,9 @@ tags:
 
 Al artículo [[art. 455 CCo|455]] del Código de Comercio se adiciona el siguiente parágrafo:
 
-**PARÁGRAFO.** En todo caso, cuando se configure una situación de control en los términos previstos en la ley, sólo podrá pagarse el dividendo en acciones o cuotas liberadas de la misma sociedad, a los socios que así lo acepten.
+**PARAGRAFO.** En todo caso, cuando se configure una situación de control en los términos previstos en la ley , sólo podrá pagarse el dividendo en acciones o cuotas liberadas de la misma sociedad, a los socios que así lo acepten.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-707-05 de 6 de julio de 2005, Magistrado Ponente Dr. Jaime Córdoba Triviño.
 
 ---
 ← [[art. 32 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo V|Capítulo V]] · [[art. 34 Ley 222 de 1995]] →

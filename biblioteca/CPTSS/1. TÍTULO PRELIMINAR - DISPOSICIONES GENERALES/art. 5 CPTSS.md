@@ -8,13 +8,17 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "5"
-epigrafe: "Inmediación"
+epigrafe: "INMEDIACIÓN"
 titulo: "[[CPTSS - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 4 CPTSS]]"
 siguiente: "[[art. 6 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#5"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -23,7 +27,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Título Preliminar|Título Preliminar]]
 
-## Artículo 5. Inmediación
+## Artículo 5. INMEDIACIÓN
 
 El juez practicará personalmente todas las pruebas, para lo cual podrá valerse de los medios digitales o físicos disponibles o de cualquier otra forma de comunicación que garantice la inmediación, concentración y contradicción.
 

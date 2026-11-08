@@ -18,8 +18,9 @@ derogado_por:
 anterior: "[[art. 2129 CC]]"
 siguiente: "[[art. 2131 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1995
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,7 @@ tags:
 
 ## Artículo 2130. CONTINUACIÓN DE LA SOCIEDAD CON LOS HEREDEROS
 
-<Artículo derogado por el artículo [[art. 242 Ley 222 de 1995|242]] de la Ley 222 de 1995>
+> [!warning] Artículo derogado por el artículo [[art. 242 Ley 222 de 1995|242]] de la Ley 222 de 1995
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 242 Ley 222 de 1995|242]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995.
 

@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título VIII - Capítulo III|CAPÍTULO III - H
 vigencia: "vigente"
 anterior: "[[art. 1576 CCo]]"
 siguiente: "[[art. 1578 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1577"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 1577. PRESCRIPCIÓN DE ACCIÓN DERIVADA DE HIPOTECA DE NAVES
 
-Los derechos derivados de la hipoteca prescribirán por el transcurso de dos años, desde la fecha del vencimiento de la obligación respectiva.
+lOS derechos derivados de la hipoteca prescribirán por el transcurso de dos años, desde la fecha del vencimiento de la obligación respectiva.
 
 ---
 ← [[art. 1576 CCo]] · ↑ [[CCo - Libro Quinto - Título VIII - Capítulo III|Capítulo III]] · [[art. 1578 CCo]] →

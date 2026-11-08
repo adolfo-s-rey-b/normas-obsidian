@@ -8,15 +8,18 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "619"
-epigrafe: "Comisión de Seguimiento a la Ejecución del Plan de Acción para la Implementación del Código General del Proceso"
+epigrafe: "COMISIÓN DE SEGUIMIENTO A LA EJECUCIÓN DEL PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título IV|TÍTULO IV - PLAN DE IMPLEMENTACIÓN DEL CÓDIGO Y COMISIÓN DE SEGUIMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 618 CGP]]"
 siguiente: "[[art. 620 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#619"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -25,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título IV|Título IV]]
 
-## Artículo 619. Comisión de Seguimiento a la Ejecución del Plan de Acción para la Implementación del Código General del Proceso
+## Artículo 619. COMISIÓN DE SEGUIMIENTO A LA EJECUCIÓN DEL PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO
 
 La ejecución del Plan de Acción para la Implementación del Código General del Proceso estará a cargo de la Sala Administrativa del Consejo Superior de la Judicatura.
 
@@ -45,13 +48,15 @@ Confórmase una Comisión de Seguimiento a la Ejecución del Plan de Acción par
 
 7\. Dos (2) representantes de organizaciones no gubernamentales de la sociedad civil especializadas en temas de justicia, designados por el Presidente de la Comisión de seguimiento a que se refiere este artículo.
 
-**Parágrafo 1°.** El Presidente de la Sala Administrativa del Consejo Superior de la Judicatura será invitado permanente de la Comisión.
+**PARÁGRAFO 1o.** El Presidente de la Sala Administrativa del Consejo Superior de la Judicatura será invitado permanente de la Comisión.
 
-**Parágrafo 2°.** Los miembros a los que se refieren los numerales 1, 2, 3, 4 y 5 podrán delegar, únicamente, en Viceministros, Viceprocuradores o Procuradores Delegados y Vicepresidente, respectivamente.
+**PARÁGRAFO 2o.** Los miembros a los que se refieren los numerales 1, 2, 3, 4 y 5 podrán delegar, únicamente, en Viceministros, Viceprocuradores o Procuradores Delegados y Vicepresidente, respectivamente.
 
-**Parágrafo 3°.** Los delegados a los que se refiere los numerales 6 y 7 tendrán voz pero no voto.
+**PARÁGRAFO 3o.** Los delegados a los que se refiere los numerales 6 y 7 tendrán voz pero no voto.
 
-**Parágrafo 4°.** La Sala Administrativa del Consejo Superior de la Judicatura y las demás entidades públicas estarán obligadas a suministrar la información que le solicite la Comisión.
+**PARÁGRAFO 4o.** La Sala Administrativa del Consejo Superior de la Judicatura y las demás entidades públicas estarán obligadas a suministrar la información que le solicite la Comisión.
+
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
 
 ---
 ← [[art. 618 CGP]] · ↑ [[CGP - Libro Quinto - Título IV|Título IV]] · [[art. 620 CGP]] →

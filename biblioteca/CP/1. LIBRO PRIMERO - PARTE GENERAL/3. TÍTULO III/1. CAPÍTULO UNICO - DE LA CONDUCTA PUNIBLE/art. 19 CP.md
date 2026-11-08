@@ -8,6 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "19"
+epigrafe: "DELITOS Y CONTRAVENCIONES"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título III|TÍTULO III]]"
 capitulo: "[[CP - Libro Primero - Título III - Capítulo Unico|CAPÍTULO UNICO - DE LA CONDUCTA PUNIBLE]]"
@@ -15,7 +16,10 @@ vigencia: "vigente"
 anterior: "[[art. 18 CP]]"
 siguiente: "[[art. 20 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#19"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -24,7 +28,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título III|Título III]] › [[CP - Libro Primero - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 19
+## Artículo 19. DELITOS Y CONTRAVENCIONES
 
 Delitos y contravenciones. Las conductas punibles se dividen en delitos y contravenciones.
 

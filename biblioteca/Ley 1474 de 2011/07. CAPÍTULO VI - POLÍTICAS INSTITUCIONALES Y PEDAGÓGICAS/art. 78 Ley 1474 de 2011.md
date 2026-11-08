@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "78"
-epigrafe: "Democratización de la Administración Pública"
+epigrafe: "DEMOCRATIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VI|CAPÍTULO VI - POLÍTICAS INSTITUCIONALES Y PEDAGÓGICAS]]"
 vigencia: "vigente"
 anterior: "[[art. 77 Ley 1474 de 2011]]"
 siguiente: "[[art. 79 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#78"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]]
 
-## Artículo 78. Democratización de la Administración Pública
+## Artículo 78. DEMOCRATIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA
 
 Modifíquese el artículo [[art. 32 Ley 489 de 1998|32]] de la Ley 489 de 1998, que quedará así:
 

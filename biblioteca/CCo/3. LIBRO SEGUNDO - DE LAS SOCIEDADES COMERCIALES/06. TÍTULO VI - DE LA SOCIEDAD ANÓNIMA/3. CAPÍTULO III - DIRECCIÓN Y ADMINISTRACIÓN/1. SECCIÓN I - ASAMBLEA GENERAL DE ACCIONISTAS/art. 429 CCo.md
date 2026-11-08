@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 69 Ley 222 de 1995]]"
 anterior: "[[art. 428 CCo]]"
 siguiente: "[[art. 430 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#429"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,19 +35,15 @@ tags:
 
 ## Artículo 429. REUNIONES DE SEGUNDA CONVOCATORIA POR DERECHO PROPIO-REGLAS
 
-> [!info] Modificado por el art. [[art. 69 Ley 222 de 1995|69]], Ley 222 de 1995
+Si se convoca a la asamblea y ésta no se lleva a cabo por falta de quórum, se citará a una nueva reunión que sesionará y decidirá válidamente con un número plural de socios cualquiera sea la cantidad de acciones que esté representada. La nueva reunión deberá efectuarse no antes de los diez días ni después de los treinta, contados desde la fecha fijada para la primera reunión.
 
-El nuevo texto es el siguiente Si se convoca a la asamblea y ésta no se lleva a cabo por falta de quórum, se citará a una nueva reunión que sesionará y decidirá válidamente con un número plural de socios cualquiera sea la cantidad de acciones que esté representada. La nueva reunión deberá efectuarse no antes de los diez días ni después de los treinta, contados desde la fecha fijada para la primera reunión.
+> [!info] Artículo subrogado por el artículo [[art. 69 Ley 222 de 1995|69]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
 Cuando la asamblea se reúna en sesión ordinaria por derecho propio el primer día hábil del mes de abril, también podrá deliberar y decidir válidamente en los términos del inciso anterior.
 
 En las sociedades que negocien sus acciones en el mercado público de valores, en las reuniones de segunda convocatoria la asamblea sesionará y decidirá válidamente con uno o varios socios, cualquiera sea el número de acciones representadas.
 
-Texto anterior:
-
-Si se convoca la asamblea y ésta no se lleva a cabo por falta de quórum, se citará a una nueva reunión que sesionará y decidirá válidamente con un número plural de personal, cualquiera que sea la cantidad de acciones que esté representada. La nueva reunión deberá efectuarse no antes de los diez días ni después de los treinta, contados desde la fecha fijada para la primera reunión.
-
-Cuando la asamblea se reúna en sesión ordinaria por derecho propio el primer día hábil del mes de abril, también podrá deliberar y decidir válidamente en los términos del inciso anterior.
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 69 Ley 222 de 1995|69]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995.
 
 ---
 ← [[art. 428 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo III - Sección I|Sección I]] · [[art. 430 CCo]] →

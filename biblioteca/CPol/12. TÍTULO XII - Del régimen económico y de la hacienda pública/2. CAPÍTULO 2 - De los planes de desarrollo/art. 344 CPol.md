@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XII - Capítulo 2|CAPÍTULO 2 - De los planes de des
 vigencia: "vigente"
 anterior: "[[art. 343 CPol]]"
 siguiente: "[[art. 345 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#344"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2004
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -32,15 +37,13 @@ Los organismos departamentales de planeación harán la evaluación de gestión 
 
 En todo caso el organismo nacional de planeación, de manera selectiva, podrá ejercer dicha evaluación sobre cualquier entidad territorial.
 
-> [!note] Ver Ley 60 de 1993; Art. [[art. 28 Ley 60 de 1993|28]] numeral 2.
+> [!note] Concordancias: Ley 60 de 1993; Art. [[art. 28 Ley 60 de 1993|28]] numeral 2. Ley 141 de 1994; Art. [[art. 65 Ley 819 de 2003|65]] Ley 819 de 2003; Art. [[art. 8 Ley 819 de 2003|8]]
 
-> [!note] Ver Ley 141 de 1994; Art. [[art. 65 Ley 141 de 1994|65]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-517-92 ; C-579-2001 ; C-837-2001 ; C-867-2001 ; C-1051-2001 ; C-373-04
 
-> [!note] Ver Ley 819 de 2003; Art. [[art. 8 Ley 819 de 2003|8]]
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 85)
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-579-2001 ; C-837-2001 ; C-867-2001; C-1051-2001; C-373-04
-
-CAPÍTULO 3.
+CAPITULO 3.
 
 DEL PRESUPUESTO
 

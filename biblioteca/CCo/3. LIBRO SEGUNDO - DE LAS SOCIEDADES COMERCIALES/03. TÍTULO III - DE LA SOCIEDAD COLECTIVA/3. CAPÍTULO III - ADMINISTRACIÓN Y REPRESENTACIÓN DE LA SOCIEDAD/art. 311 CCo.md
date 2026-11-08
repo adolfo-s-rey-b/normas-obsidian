@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título III - Capítulo III|CAPÍTULO III - A
 vigencia: "vigente"
 anterior: "[[art. 310 CCo]]"
 siguiente: "[[art. 312 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#311"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

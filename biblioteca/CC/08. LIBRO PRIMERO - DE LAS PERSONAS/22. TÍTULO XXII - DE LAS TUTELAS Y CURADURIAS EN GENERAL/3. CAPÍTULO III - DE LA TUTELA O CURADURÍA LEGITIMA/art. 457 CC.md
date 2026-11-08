@@ -22,8 +22,9 @@ derogado_por:
 anterior: "[[art. 456 CC]]"
 siguiente: "[[art. 458 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2009
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -34,7 +35,7 @@ tags:
 
 ## Artículo 457. PERSONAS QUE EJERCEN LA GUARDA LEGITIMA
 
-<Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009>
+> [!warning] Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009, publicada en el Diario Oficial No. 47.371 de 5 de junio de 2009. - Artículo modificado por el artículo [[art. 51 Decreto 2820 de 1974|51]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975. - El texto original del artículo [[art. 22 Ley 75 de 1968|22]] de la Ley 75 de 1968, establece: ' ARTÍCULO 22. Las mujeres pueden ser tutoras o curadoras en los mismos casos que los varones y se habilitan de edad por matrimonio, igual que estos. Quedan en tales términos modificados los artículos [[art. 430 CC|430]] y [[art. 457 CC|457]] del Código Civil y derogado el artículo 587 del mismo Código.'
 

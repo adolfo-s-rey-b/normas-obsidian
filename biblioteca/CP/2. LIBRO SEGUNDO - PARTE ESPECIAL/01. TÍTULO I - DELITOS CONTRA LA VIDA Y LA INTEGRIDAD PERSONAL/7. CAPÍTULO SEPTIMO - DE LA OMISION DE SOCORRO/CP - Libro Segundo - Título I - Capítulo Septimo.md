@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 131 CP|Artículo 131]] — Omisión de socorro
+- [[art. 131 CP|Artículo 131]] — OMISIÓN DE SOCORRO
 - [[art. 131A CP|Artículo 131A]]
 
 ---

@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[CPACA - Parte Primera - Título I - Capítulo I|CAPÍTULO I - Finalidad, ámbito de aplicación y principios]] (arts. 1 a 4)
-- [[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - Derechos, deberes, prohibiciones, impedimentos y recusaciones]] (arts. 5 a 12)
+- [[CPACA - Parte Primera - Título I - Capítulo I|CAPÍTULO I - FINALIDAD, ÁMBITO DE APLICACIÓN Y PRINCIPIOS]] (arts. 1 a 4)
+- [[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]] (arts. 5 a 12)
 
 ---
 ↑ [[CPACA - Parte Primera|Parte Primera]] · [[CPACA - Parte Primera - Título II|Título II]] →

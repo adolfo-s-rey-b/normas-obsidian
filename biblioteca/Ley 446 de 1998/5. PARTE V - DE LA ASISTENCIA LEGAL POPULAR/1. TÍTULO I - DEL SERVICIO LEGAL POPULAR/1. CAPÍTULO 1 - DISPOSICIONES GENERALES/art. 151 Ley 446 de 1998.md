@@ -15,7 +15,12 @@ derogado_por:
 anterior: "[[art. 150 Ley 446 de 1998]]"
 siguiente: "[[art. 152 Ley 446 de 1998]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992#151"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1999
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998

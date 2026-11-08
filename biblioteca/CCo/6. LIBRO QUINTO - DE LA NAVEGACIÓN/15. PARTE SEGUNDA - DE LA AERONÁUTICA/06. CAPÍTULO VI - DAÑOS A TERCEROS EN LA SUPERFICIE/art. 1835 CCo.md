@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "1835"
-epigrafe: "LIMITE EN LAINDEMNIZACIÓN POR DAÑOS A TERCEROS EN LA SUPERFICIE"
+epigrafe: "LIMITE EN LA INDEMNIZACIÓN POR DAÑOS A TERCEROS EN LA SUPERFICIE"
 libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
 parte: "[[CCo - Libro Quinto - Parte Segunda|PARTE SEGUNDA - DE LA AERONÁUTICA]]"
 capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo VI|CAPÍTULO VI - DAÑOS A TERCEROS EN LA SUPERFICIE]]"
 vigencia: "vigente"
 anterior: "[[art. 1834 CCo]]"
 siguiente: "[[art. 1836 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1835"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -25,7 +29,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]] › [[CCo - Libro Quinto - Parte Segunda|Parte Segunda]] › [[CCo - Libro Quinto - Parte Segunda - Capítulo VI|Capítulo VI]]
 
-## Artículo 1835. LIMITE EN LAINDEMNIZACIÓN POR DAÑOS A TERCEROS EN LA SUPERFICIE
+## Artículo 1835. LIMITE EN LA INDEMNIZACIÓN POR DAÑOS A TERCEROS EN LA SUPERFICIE
 
 La indemnización por daños a terceros en la superficie no excederá, por aeronave y accidente, de:
 

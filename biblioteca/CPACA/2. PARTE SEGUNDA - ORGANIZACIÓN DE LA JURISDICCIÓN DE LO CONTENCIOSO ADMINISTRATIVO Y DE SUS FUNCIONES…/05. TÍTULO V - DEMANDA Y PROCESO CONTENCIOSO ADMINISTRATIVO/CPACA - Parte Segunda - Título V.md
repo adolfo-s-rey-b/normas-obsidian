@@ -22,18 +22,18 @@ tags:
 
 ### Contenido
 
-- [[CPACA - Parte Segunda - Título V - Capítulo I|CAPÍTULO I - Capacidad, Representación y Derecho de Postulación]] (arts. 159 a 160)
-- [[CPACA - Parte Segunda - Título V - Capítulo II|CAPÍTULO II - Requisitos de Procedibilidad]] (art. 161)
-- [[CPACA - Parte Segunda - Título V - Capítulo III|CAPÍTULO III - Requisitos de la Demanda]] (arts. 162 a 167)
-- [[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - Trámite de la Demanda]] (arts. 168 a 178)
-- [[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - Etapas del proceso y competencias para su instrucción]] (arts. 179 a 186)
-- [[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - Sentencia]] (arts. 187 a 195)
-- [[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - Notificaciones]] (arts. 196 a 206)
-- [[CPACA - Parte Segunda - Título V - Capítulo VIII|CAPÍTULO VIII - Nulidades e incidentes]] (arts. 207 a 210)
-- [[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - Pruebas]] (arts. 211 a 222)
-- [[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - Intervención de terceros]] (arts. 223 a 228)
-- [[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - Medidas cautelares]] (arts. 229 a 241)
-- [[CPACA - Parte Segunda - Título V - Capítulo XII|CAPÍTULO XII - Recursos Ordinarios y Trámite]] (arts. 242 a 247)
+- [[CPACA - Parte Segunda - Título V - Capítulo I|CAPÍTULO I - CAPACIDAD, REPRESENTACIÓN Y DERECHO DE POSTULACIÓN]] (arts. 159 a 160)
+- [[CPACA - Parte Segunda - Título V - Capítulo II|CAPÍTULO II - REQUISITOS DE PROCEDIBILIDAD]] (art. 161)
+- [[CPACA - Parte Segunda - Título V - Capítulo III|CAPÍTULO III - REQUISITOS DE LA DEMANDA]] (arts. 162 a 167)
+- [[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]] (arts. 168 a 178)
+- [[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]] (arts. 179 a 186)
+- [[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - SENTENCIA]] (arts. 187 a 195)
+- [[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - NOTIFICACIONES]] (arts. 196 a 206)
+- [[CPACA - Parte Segunda - Título V - Capítulo VIII|CAPÍTULO VIII - NULIDADES E INCIDENTES]] (arts. 207 a 210)
+- [[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - PRUEBAS]] (arts. 211 a 222)
+- [[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]] (arts. 223 a 228)
+- [[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]] (arts. 229 a 241)
+- [[CPACA - Parte Segunda - Título V - Capítulo XII|CAPÍTULO XII - RECURSOS ORDINARIOS Y TRÁMITE]] (arts. 242 a 247)
 
 ---
 ← [[CPACA - Parte Segunda - Título IV|Título IV]] · ↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título VI|Título VI]] →

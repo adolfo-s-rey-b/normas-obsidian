@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "13"
-epigrafe: "Exclusión de beneficios en los delitos contra la Administración Pública relacionados con corrupción"
+epigrafe: "EXCLUSIÓN DE BENEFICIOS EN LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA RELACIONADOS CON CORRUPCIÓN"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 12 Ley 1474 de 2011]]"
 siguiente: "[[art. 14 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#13"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,9 +23,9 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 13. Exclusión de beneficios en los delitos contra la Administración Pública relacionados con corrupción
+## Artículo 13. EXCLUSIÓN DE BENEFICIOS EN LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA RELACIONADOS CON CORRUPCIÓN
 
-El artículo [[art. 68 CP|68]] A del Código Penal quedará así:
+El artículo [[art. 68A CP|68A]] del Código Penal quedará así:
 
 No se concederán los subrogados penales o mecanismos sustitutivos de la pena privativa de libertad de suspensión condicional de la ejecución de la pena o libertad condicional; tampoco la prisión domiciliaria como sustitutiva de la prisión; ni habrá lugar a ningún otro beneficio o subrogado legal, judicial o administrativo, salvo los beneficios por colaboración regulados por la ley, siempre que esta sea efectiva, cuando la persona haya sido condenada por delito doloso o preterintencional dentro de los cinco (5) años anteriores.
 

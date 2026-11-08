@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 472 de 1998|Artículo 1]] — Objeto de la Ley
+- [[art. 1 Ley 472 de 1998|Artículo 1]] — OBJETO DE LA LEY
 
 ---
 ↑ [[Ley 472 de 1998 - Título I|Título I]] · [[Ley 472 de 1998 - Título I - Capítulo II|Capítulo II]] →

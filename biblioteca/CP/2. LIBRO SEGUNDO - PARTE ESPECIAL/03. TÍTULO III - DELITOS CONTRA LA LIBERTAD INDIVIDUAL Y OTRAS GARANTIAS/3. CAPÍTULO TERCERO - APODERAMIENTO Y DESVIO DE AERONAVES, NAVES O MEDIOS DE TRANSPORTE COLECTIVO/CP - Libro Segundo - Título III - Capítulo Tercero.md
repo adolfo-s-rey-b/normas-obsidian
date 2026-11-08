@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 173 CP|Artículo 173]] — Apoderamiento de aeronaves, naves, o medios de transporte colectivo
+- [[art. 173 CP|Artículo 173]] — APODERAMIENTO DE AERONAVES, NAVES, O MEDIOS DE TRANSPORTE COLECTIVO
 
 ---
 ← [[CP - Libro Segundo - Título III - Capítulo Segundo|Capítulo Segundo]] · ↑ [[CP - Libro Segundo - Título III|Título III]] · [[CP - Libro Segundo - Título III - Capítulo Cuarto|Capítulo Cuarto]] →

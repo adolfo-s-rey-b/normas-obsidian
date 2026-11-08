@@ -13,7 +13,7 @@ anio: "1948"
 fecha: "Junio 24"
 estado: "derogada"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 articulos: 149
 tags:
   - normas/norma
@@ -27,7 +27,7 @@ tags:
 > [!warning] Norma derogada.
 
 - Fuente: [Gestor Normativo de Función Pública](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259)
-- Extraído el 2026-11-07 · 149 artículos
+- Extraído el 2026-11-08 · 149 artículos
 
 ## Contenido
 

@@ -8,6 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "442"
+epigrafe: "FALSO TESTIMONIO"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XVI|TÍTULO XVI - DELITOS CONTRA LA EFICAZ Y RECTA IMPARTICIÓN DE JUSTICIA]]"
 capitulo: "[[CP - Libro Segundo - Título XVI - Capítulo Tercero|CAPÍTULO TERCERO - DEL FALSO TESTIMONIO]]"
@@ -17,7 +18,11 @@ modificado_por:
 anterior: "[[art. 441 CP]]"
 siguiente: "[[art. 443 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#442"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2004
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -26,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XVI|Título XVI]] › [[CP - Libro Segundo - Título XVI - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 442
+## Artículo 442. FALSO TESTIMONIO
 
 > [!info] Modificado por el art. [[art. 8 Ley 890 de 2004|8]], Ley 890 de 2004
 

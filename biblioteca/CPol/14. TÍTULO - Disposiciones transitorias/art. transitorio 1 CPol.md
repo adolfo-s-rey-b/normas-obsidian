@@ -13,10 +13,14 @@ sigla: "CPol"
 articulo: "transitorio 1"
 titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
-anterior: "[[art. 380 CPol]]"
-siguiente: "[[art. transitorio 2 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+anterior: "[[art. transitorio (final) CPol]]"
+siguiente: "[[art. transitorio (AL 1 de 2016) 4 CPol]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -34,4 +38,4 @@ El Congreso así elegido, tendrá el período que termina el 19 de julio de 1994
 La Registraduría del Estado Civil, abrirá un período de inscripción de cédulas de ciudadanía.
 
 ---
-← [[art. 380 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 2 CPol]] →
+← [[art. transitorio (final) CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio (AL 1 de 2016) 4 CPol]] →

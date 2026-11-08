@@ -18,8 +18,9 @@ derogado_por:
 anterior: "[[art. 214 CC]]"
 siguiente: "[[art. 216 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,7 @@ tags:
 
 ## Artículo 215. IMPUGANCIÓN POR ADULTERIO
 
-<Artículo derogado por el artículo [[art. 3 Ley 1060 de 2006|3]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:>
+> [!warning] Artículo derogado por el artículo [[art. 3 Ley 1060 de 2006|3]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 3 Ley 1060 de 2006|3]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

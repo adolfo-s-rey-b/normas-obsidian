@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 31 CPTSS|Artículo 31]] — Naturaleza de los cargos
-- [[art. 32 CPTSS|Artículo 32]] — Exclusión de la lista
-- [[art. 33 CPTSS|Artículo 33]] — Designación
-- [[art. 34 CPTSS|Artículo 34]] — Comunicación del nombramiento, aceptación del cargo y relevo del auxiliar de la justicia
-- [[art. 35 CPTSS|Artículo 35]] — Custodia de bienes y dineros
-- [[art. 36 CPTSS|Artículo 36]] — Funciones del secuestre
-- [[art. 37 CPTSS|Artículo 37]] — Designación
+- [[art. 31 CPTSS|Artículo 31]] — NATURALEZA DE LOS CARGOS
+- [[art. 32 CPTSS|Artículo 32]] — EXCLUSIÓN DE LA LISTA
+- [[art. 33 CPTSS|Artículo 33]] — DESIGNACIÓN
+- [[art. 34 CPTSS|Artículo 34]] — COMUNICACIÓN DEL NOMBRAMIENTO, ACEPTACIÓN DEL CARGO Y RELEVO DEL AUXILIAR DE LA JUSTICIA
+- [[art. 35 CPTSS|Artículo 35]] — CUSTODIA DE BIENES Y DINEROS
+- [[art. 36 CPTSS|Artículo 36]] — FUNCIONES DEL SECUESTRE
+- [[art. 37 CPTSS|Artículo 37]] — DESIGNACIÓN
 
 ---
 ← [[CPTSS - Libro Primero - Sección Primera - Título Tercero|Título Tercero]] · ↑ [[CPTSS - Libro Primero - Sección Primera|Sección Primera]]

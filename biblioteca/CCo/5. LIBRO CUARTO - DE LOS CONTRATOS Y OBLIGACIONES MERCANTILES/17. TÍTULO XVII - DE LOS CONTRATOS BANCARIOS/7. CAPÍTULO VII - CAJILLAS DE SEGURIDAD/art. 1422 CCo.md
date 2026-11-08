@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título XVII - Capítulo VII|CAPÍTULO VII - C
 vigencia: "vigente"
 anterior: "[[art. 1421 CCo]]"
 siguiente: "[[art. 1423 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1422"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -31,7 +35,7 @@ En los casos en los cuales el banco tenga conocimiento de hechos que puedan repr
 
 El establecimiento, sin embargo, no estará obligado a dar avisos individuales a los usuarios, bastándole, en consecuencia, notificarlos en forma general.
 
-Si el riesgo fuere inminente, podrá el establecimiento tomar las medidas que juzgue convenientes y aún proceder a la apertura y desocupación de la cajilla. En este caso, se hará ante notario, a la mayor brevedad, la diligencia de que trata el artículo [[art. 1421 CCo|1421]].
+Si el riesgo fuere inminente, podrá el establecimiento tomar las medidas que juzgue convenientes y aún proceder a la apertura y desocupación de la cajilla. En este caso, se hará ante notario, a la mayor brevedad, la diligencia de que trata el artículo [[art. 1421 CCo|1421]] .
 
 ---
 ← [[art. 1421 CCo]] · ↑ [[CCo - Libro Cuarto - Título XVII - Capítulo VII|Capítulo VII]] · [[art. 1423 CCo]] →

@@ -16,8 +16,9 @@ vigencia: "derogado"
 anterior: "[[art. 207 CC]]"
 siguiente: "[[art. 209 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1998
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,7 +29,7 @@ tags:
 
 ## Artículo 208. NECESIDAD DE CURADOR
 
-<Artículo derogado tácitamente por la Ley 28 de 1932, según sostiene la Corte Constitucional en Sentencia C-379-98>.
+> [!warning] Artículo derogado tácitamente por la Ley 28 de 1932, según sostiene la Corte Constitucional en Sentencia C-379-98
 
 > [!warning] Notas de Vigencia: Artículo derogado tácitamente por la Ley 28 de 1932, según sostiene la Corte Constitucional en Sentencia C-379-98 del 27 de julio de 1998, Magistrado Ponente Dr. José Gregorio Hernández Galindo.
 

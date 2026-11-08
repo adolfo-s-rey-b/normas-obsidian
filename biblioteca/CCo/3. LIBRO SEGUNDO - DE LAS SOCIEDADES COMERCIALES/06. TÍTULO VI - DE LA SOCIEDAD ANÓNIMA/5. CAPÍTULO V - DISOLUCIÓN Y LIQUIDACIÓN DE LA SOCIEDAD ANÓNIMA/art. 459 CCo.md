@@ -18,7 +18,11 @@ derogado_por:
 anterior: "[[art. 458 CCo]]"
 siguiente: "[[art. 460 CCo]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#459"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco

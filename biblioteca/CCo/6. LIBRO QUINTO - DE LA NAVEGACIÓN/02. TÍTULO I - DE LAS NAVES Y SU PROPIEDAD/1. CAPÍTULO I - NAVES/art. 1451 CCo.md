@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - NAVES]]"
 vigencia: "vigente"
 anterior: "[[art. 1450 CCo]]"
 siguiente: "[[art. 1452 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1451"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Embargada una nave, el juez lo comunicará, antes de notificar el auto respectivo, al capitán de puerto de matrícula para su registro.
 
-Dictada la providencia de embargo y secuestro, aunque no esté ejecutoriada, la nave no podrá zarpar, a menos que se preste una caución real, bancaria o de compañía de seguros, igual al doble del crédito demandado, sin intereses ni costas, ni exceder en ningún caso el límite señalado en el artículo [[art. 1481 CCo|1481]], para garantizar su regreso oportuno.
+Dictada la providencia de embargo y secuestro, aunque no esté ejecutoriada, la nave no podrá zarpar, a menos que se preste una caución real, bancaria o de compañía de seguros, igual al doble del crédito demandado, sin intereses ni costas, ni exceder en ningún caso el límite señalado en el artículo [[art. 1481 CCo|1481]] , para garantizar su regreso oportuno.
 
 La nave que haya recibido autorización de zarpe, no podrá ser secuestrada sino por obligaciones contraídas con el fin de aprestarla y aprovisionarla para el viaje.
 

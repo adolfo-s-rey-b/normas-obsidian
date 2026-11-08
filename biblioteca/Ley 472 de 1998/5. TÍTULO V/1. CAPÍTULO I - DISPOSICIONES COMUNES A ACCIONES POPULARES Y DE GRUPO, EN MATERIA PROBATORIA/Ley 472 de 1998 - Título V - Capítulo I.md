@@ -1,0 +1,32 @@
+---
+aliases:
+  - "Ley 472 de 1998 CAPÍTULO I - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA"
+tipo: indice
+norma: "Ley 472 de 1998"
+nivel: "CAPÍTULO"
+etiqueta: "I"
+nombre: "DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA"
+titulo: "[[Ley 472 de 1998 - Título V|TÍTULO V]]"
+articulos: "arts. 74 a 79"
+tags:
+  - normas/indice
+  - normas/ley_472_de_1998
+---
+
+[[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título V|Título V]]
+
+## CAPÍTULO I - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA
+
+*Arts. 74 a 79*
+
+### Contenido
+
+- [[art. 74 Ley 472 de 1998|Artículo 74]] — REGISTRO PUBLICO DE PERITOS PARA ACCIONES POPULARES Y DE GRUPO
+- [[art. 75 Ley 472 de 1998|Artículo 75]] — COLABORACION EN LA PRACTICA DE PRUEBAS
+- [[art. 76 Ley 472 de 1998|Artículo 76]] — COLABORACION PARA LA EVALUACION DE LA PRUEBA
+- [[art. 77 Ley 472 de 1998|Artículo 77]] — REFERENCIA A UN TERCERO EN DECLARACION
+- [[art. 78 Ley 472 de 1998|Artículo 78]] — ASPECTOS COMPLEMENTARIOS DEL TESTIMONIO
+- [[art. 79 Ley 472 de 1998|Artículo 79]] — EFICACIA DE LA PRUEBA
+
+---
+↑ [[Ley 472 de 1998 - Título V|Título V]]

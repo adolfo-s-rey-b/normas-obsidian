@@ -14,12 +14,15 @@ articulo: "334"
 titulo: "[[CPol - Título XII|TÍTULO XII - Del régimen económico y de la hacienda pública]]"
 capitulo: "[[CPol - Título XII - Capítulo 1|CAPÍTULO 1 - De las disposiciones generales]]"
 vigencia: "modificado"
-modificado_por:
-  - "[[art. 1 CPol]]"
 anterior: "[[art. 333 CPol]]"
 siguiente: "[[art. 335 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#334"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2024
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,217 +33,37 @@ tags:
 
 ## Artículo 334
 
-La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la explotación de los recursos naturales, en el uso del suelo, en la producción, distribución, utilización y consumo de los bienes, y en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir en el plano nacional y territorial, en un marco de sostenibilidad fiscal, el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades y los beneficios del desarrollo y la preservación de un ambiente sano. Dicho marco de sostenibilidad fiscal deberá fungir como instrumento para alcanzar de manera progresiva los objetivos del Estado Social de Derecho. En cualquier caso, el gasto público social será prioritario.
+La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la explotación de los recursos naturales, en el uso del suelo, en la producción, distribución, utilización y consumo de los bienes, y en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir en el plano nacional y territorial, en un marco de sostenibilidad fiscal, el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades y los beneficios del desarrollo y la preservación de un ambiente sano. Dicho marco de sostenibilidad fiscal deberá fungir como instrumento para alcanzar de manera progresiva los objetivos del Estado Social de Derecho. En cualquier caso el gasto público social será prioritario.
 
-> [!note] Ver Sentencia de la Corte Constitucional: C-123-14
+> [!info] Artículo modificado por el artículo 1o. del Acto Legislativo 3 de 2011. El nuevo texto es el siguiente:
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-123-14 ; C-330-21;
 
 El Estado, de manera especial, intervendrá para dar pleno empleo a los recursos humanos y asegurar, de manera progresiva, que todas las personas, en particular las de menores ingresos, tengan acceso efectivo al conjunto de los bienes y servicios básicos. También para promover la productividad y competitividad y el desarrollo armónico de las regiones.
 
 La sostenibilidad fiscal debe orientar a las Ramas y Órganos del Poder Público, dentro de sus competencias, en un marco de colaboración armónica.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-288-12 ; C-258-13
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-227-04 ; C-288-12 ; C-258-13 ; C-322-21 ;
 
-El Procurador General de la Nación o uno de los Ministros del Gobierno, una vez proferida la sentencia por cualquierá de las máximas corporaciones judiciales, podrán solicitar la apertura de un Incidente de Impacto Fiscal, cuyo trámite será obligatorio. Se oirán las explicaciones de los proponentes sobre las consecuencias de la sentencia en las finanzas públicas, así como el plan concreto para su cumplimiento y se decidirá si procede modular, modificar o diferir los efectos de la misma, con el objeto de evitar alteraciones serias de la sostenibilidad fiscal. En ningún caso se afectará el núcleo esencial de los derechos fundamentales.
+El Procurador General de la Nación o uno de los Ministros del Gobierno, una vez proferida la sentencia por cualquiera de las máximas corporaciones judiciales, podrán solicitar la apertura de un Incidente de Impacto Fiscal, cuyo trámite será obligatorio. Se oirán las explicaciones de los proponentes sobre las consecuencias de la sentencia en las finanzas públicas, así como el plan concreto para su cumplimiento y se decidirá si procede modular, modificar o diferir los efectos de la misma, con el objeto de evitar alteraciones serias de la sostenibilidad fiscal. En ningún caso se afectará el núcleo esencial de los derechos fundamentales.
 
-> [!note] Inciso declarado EXEQUIBLE, mediante Sentencia de la Corte Constitucional C-1052 de 2012
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso declarado EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-1052-12 de 5 de diciembre de 2012, Magistrado Ponente Dr. Jorge Ignacio Pretelt Chaljub.
+
+> [!note] Jurisprudencia Unificación: Consejo de Estado, Sala Plena, Sentencia de Unificación, Expediente No. 25000-23-26-000-1999-00002-05(IJ) de 25 de noviembre de 2014, C.P. Dr. Enrique Gil Botero. Sentencia proferida por importancia jurídica acerca del requisito del incidente de impacto fiscal relacionado con la existencia de 'alteraciones serias de la sostenibilidad fiscal', y de la posibilidad de ampliar el plazo legal establecido para la entrega del monto de las condena emitida en la acción de grupo. '[E]n abstracto una condena muy alta no afecta la sostenibilidad fiscal de una entidad. […] Para explicar lo que se analiza basta tener en cuenta que el presupuesto general del Distrito, para el año 2013 -cuando quedó ejecutoriada la sentencia de condena-, ascendió a un poco más de 13 billones 660 mil millones de pesos […], lo que significa que la condena […] equivale a menos del 1,66 por ciento de aquella suma, de manera que lo que sin duda es una condena alta, aisladamente considerada no lo es tanto, en relación con el presupuesto de la entidad condenada. En estos términos, […] no basta considerar el monto de la condena sino que hay que relacionarla con la capacidad económica del Distrito, para tener contexto y punto de medición. […] [L]a comparación que hay que hacer con el monto de la condena -para inferir si existe esa alteración- es frente a las finanzas presentes de la entidad, no ante su historial de condenas. Lo anterior significa que es indiferente que en los últimos años una entidad haya sido condena a pagar mucho o poco, lo importante es establecer si una condena en particular […] altera la sostenibilidad fiscal: si lo hace se contemplará la posibilidad de modular la decisión; si no lo hace no cabe pensarlo, y esto al margen del historial condenatorio o absolutorio de la institución. […] [N]o se desconoce que una condena -toda condena- afecta las finanzas de quien la debe pagar, porque en lugar de destinar esos recursos a determinados proyectos los debe gastar reparando el daño que causó con una conducta anterior. Sin embargo, esto tampoco es una 'alteración seria' a la sostenibilidad fiscal de la entidad, sino, simplemente, un impase para cumplir el Plan de Desarrollo. Es más, pueden existir dificultades grandes para ejecutar todos los proyectos que conforman el Plan de Desarrollo, incluso que se incumplan algunos por falta de recursos, pero eso no significa que la situación fiscal de la entidad se haya alterado 'seriamente'. […] [L]a circunstancia de que el dinero con que se pagaría la condena rente mejor en el portafolio financiero de una entidad o en el de la otra -mientras se le entrega a las víctimas-, no afecta la única razón que justifica acceder a la solicitud que inicia el incidente de impacto fiscal. […] [L]a administración que la Defensoría del Pueblo haga de los recursos que le traslade el Distrito para pagarle a las víctimas es un asunto que sólo a ella corresponde, así que es incomprensible la preocupación que expresa la Procuraduría [capacidad administrativa para administrar los recursos] para justificar que ese hecho afecta la estabilidad fiscal del Distrito. […] Asignada esta competencia a la Defensoría del Pueblo, por la Ley 472 de 1998, la gestión administrativa que realice para cumplirla es de su absoluta responsabilidad, así que la adición presupuestal que deba hacer y la manera de cumplirla se ajustará a lo que el ordenamiento jurídico imponga […]. Lo claro para los efectos de este incidente es que ir o no al Congreso de la República para hacer la adición presupuestal en el erario de la Defensoría del Pueblo no afecta la sostenibilidad fiscal del Distrito […]. [E]s inadmisible que el marco fiscal de mediano plazo se afecte en la magnitud que exige el art. 334 de la CP. -para que prospere el incidente de impacto fiscal-, cuando el monto de la condena representa el 1.66 por ciento del presupuesto distrital del 2013. Se trata de un monto pequeño, medido en la magnitud que permite comparar cosas equivalentes. Además, no puede perderse de vista que, finalmente, la ejecución presupuestal del Distrito, en el año 2013, fue del 85,75 por ciento, lo que significa que se liberó una suma muy importante de dinero, que bien puede utilizarse en honrar la deuda […]. [Se] concedió un término breve […] en cumplimiento del art. [[art. 65 Ley 472 de 1998|65]] de la Ley 472 de 1998, según el cual el dinero de la condena lo debe entregar la entidad a la Defensoría del Pueblo en ese lapso. Sin embargo, partiendo de la realidad presupuestal que rige las entidades del Estado, es razonable ampliarlo, no obstante el contenido de esta norma, teniendo en cuenta que la condena es muy alta -aunque no desestabiliza, per se, la economía de la entidad (como ya se analizó)-, de manera que es prudente que el juez valore este hecho con racionalidad financiera y ajuste la orden temporal a las variables presupuestales que exige el gasto público. De allí, la dificultad que […] representa hacer traslados presupuestales tan cuantiosos justifica modular los efectos de una sentencia […], porque la actividad administrativa que demanda su cumplimiento, pese a que es del resorte de su destinatario -de ahí que tiene la obligación de hacer lo que sea pertinente para pagar-, no deja de incidir en la capacidad de cumplir oportunamente, por eso la Sala modulará los efectos de la condena y ampliará el plazo para pagar, pero en los términos más óptimos y eficientes para cumplir, no en otros que generen desidia en el condenado para desembolsar los recursos que posee.'
 
 **PARÁGRAFO.** Al interpretar el presente artículo, bajo ninguna circunstancia, autoridad alguna de naturaleza administrativa, legislativa o judicial, podrá invocar la sostenibilidad fiscal para menoscabar Los derechos fundamentales, restringir su alcance o negar su protección efectiva.
 
-> [!info] Artículo modificado por el artículo [[art. 1 CPol|1]]. del Acto Legislativo 3 de 2011. Acto Legislativo 3 de 2011 declarado EXEQUIBLE, mediante Sentencias de la Corte Constitucional C-332 de 2012 y C-288 de 2012
+(sic)
 
-> [!note] Ver Ley 100 de 1993; Art. [[art. 154 Ley 100 de 1993|154]]
+> [!info] Notas de Vigencia: Artículo modificado por el artículo 1o . del Acto Legislativo 3 de 2011, publicado en el Diario Oficial No. 48.117 de 1 de julio de 2011.
 
-> [!note] Ver Ley 135 de 1994; Art. [[art. 2 Ley 135 de 1994|2]]
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-332-12, mediante Sentencia C-384-12 de 24 de mayo de 2012, Magistrado Ponente Dr. Gabriel Eduardo Mendoza. - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-332-12, mediante Sentencia C-367-12 de 16 de mayo de 2012, Magistrado Ponente Dr. Luis Ernesto Vargas Silva. - Acto Legislativo 3 de 2011 declarado EXEQUIBLE - por vicio de trámite- por la Corte Constitucional mediante Sentencia C-332-12 de 9 de mayo de 2012, Magistrado Ponente Dr. Humberto Antonio Sierra Porto. - Acto Legislativo 3 de 2001 declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-288-12 de 18 de abril de 2012, Magistrado Ponente Dr. Luis Ernesto Vargas Silva. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el Acto Legislativo 3 de 2011 por ineptitud de la demanda, mediante Sentencia C-132-12 de 29 de febrero de 2012, Magistrado Ponente Dr. Humberto Antonio Sierra Porto.
 
-> [!note] Ver Ley 142 de 1994; Art. [[art. 2 Ley 142 de 1994|2]]
+> [!note] Concordancias: Ley 100 de 1993; Art. [[art. 154 Ley 135 de 1994|154]] Ley 135 de 1994; Art. [[art. 2 Ley 142 de 1994|2]] Ley 142 de 1994; Art. [[art. 2 Ley 143 de 1994|2]] Ley 143 de 1994; Art. [[art. 7 Ley 191 de 1995|7]] Ley 191 de 1995; Art. [[art. 9 Ley 221 de 1995|9]] Ley 221 de 1995; Art. [[art. 2 Ley 231 de 1995|2]] Ley 231 de 1995; Art. [[art. 3 Ley 256 de 1996|3]] Ley 256 de 1996 Ley 317 de 1996; Art. [[art. 2 Ley 336 de 1996|2]] Ley 336 de 1996; Art. [[art. 3 Ley 334 de 1996|3]] Ley 334 de 1996; Art. [[art. 2 Ley 342 de 1996|2]] Ley 342 de 1996; Art. [[art. 2 Ley 491 de 1999|2]] Ley 491 de 1999 Ley 550 de 1999 Ley 658 de 2001 Ley 677 de 2001 Ley 685 de 2001 Ley 689 de 2001 Ley 693 de 2001 Ley 730 de 2001 Ley 769 de 2002 Ley 812 de 2003; Art. [[art. 59 Ley 812 de 2003|59]] ; Art. [[art. 60 Ley 812 de 2003|60]] ; Art. [[art. 61 Ley 812 de 2003|61]] ; Art. [[art. 62 Ley 812 de 2003|62]] ; Art. [[art. 63 Ley 812 de 2003|63]] ; Art. [[art. 64 Ley 812 de 2003|64]] ; Art. [[art. 65 Ley 812 de 2003|65]] ; Art. [[art. 66 Ley 819 de 2003|66]] ley 819 de 2003; Art. [[art. 7 Ley 843 de 2003|7]] Ley 843 de 2003 Ley 853 de 2003 Ley 855 de 2003 Ley 856 de 2003 Ley 903 de 2004 Ley 922 de 2004 Ley 926 de 2004 Ley 963 de 2005 Ley 1005 de 2006 Ley 1087 de 2006 Ley 1116 de 2006 Ley 1138 de 2007; Art. [[art. 6 Ley 1138 de 2007|6]] o. Ley 1150 de 2007; Art. [[art. 12 Ley 1151 de 2007|12]] Ley 1151 de 2007; Art. [[art. 6 Ley 1151 de 2007|6]] o. Num. 6.2.1; Art. [[art. 71 Ley 1173 de 2007|71]] Ley 1173 de 2007 Ley 1215 de 2008 Ley 1239 de 2008 Ley 1253 de 2008 Ley 1274 de 2009 Ley 1281 de 2009 Ley 1292 de 2009; Art. [[art. 3 Ley 1292 de 2009|3]] o. Ley 1308 de 2009 Ley 1337 de 2009 Ley 1339 de 2009 Ley 1340 de 2009 Ley 1352 de 2009; Art. [[art. 2 Ley 1352 de 2009|2]] o. Ley 1358 de 2009; Art. [[art. 2 Ley 1358 de 2009|2]] o. Ley 1382 de 2010 Ley 1383 de 2010 Ley 1397 de 2010 Ley 1413 de 2010 Ley 1417 de 2010; Art. [[art. 2 Ley 1417 de 2010|2]] o. Ley 1439 de 2011; Art. [[art. 4 Ley 1439 de 2011|4]] o. Ley 1450 de 2011; Art. [[art. 32 Ley 1450 de 2011|32]] ; Art. [[art. 58 Ley 1467 de 2011|58]] Ley 1467 de 2011 Ley 1469 de 2011 Ley 1473 de 2011 Ley 1495 de 2011 Ley 1509 de 2012 Ley 1521 de 2012 Ley 1522 de 2012 Ley 1524 de 2012 Ley 1525 de 2012 Ley 1533 de 2012 Ley 1534 de 2012 Ley 1537 de 2012 Ley 1538 de 2012 Ley 1540 de 2012 Ley 1542 de 2012 Ley 1543 de 2012 Ley 1544 de 2012 Ley 1545 de 2012 Ley 1548 de 2012 Ley 1552 de 2012 Ley 1553 de 2012 Ley 1557 de 2012 Ley 1560 de 2012 Ley 1576 de 2012 Ley 1603 de 2012 Ley 1646 de 2013 Ley 1647 de 2013 Ley 1649 de 2013 Ley 1658 de 2013 Ley 1659 de 2013 Ley 1683 de 2013 Ley 1684 de 2013 Ley 1686 de 2013 Ley 1695 de 2013 Ley 1696 de 2013 Ley 1704 de 2014 Ley 1711 de 2014 Ley 1713 de 2014 Ley 1717 de 2014 Ley 1723 de 2014 Ley 1726 de 2014 Ley 1730 de 2014 Ley 1772 de 2016; Art. [[art. 7 Ley 1772 de 2016|7]] o. Ley 1798 de 2016; Art. [[art. 2 Ley 1798 de 2016|2]] o. Ley 1852 de 2017; Art. [[art. 3 Ley 1852 de 2017|3]] o. Ley 1899 de 2018; Art. [[art. 2 Ley 1899 de 2018|2]] o. Ley 1906 de 2018; Art. [[art. 2 Ley 1906 de 2018|2]] o. Ley 1914 de 2018; Art. [[art. 3 Ley 1914 de 2018|3]] o. Ley 1924 de 2018 Ley 2024 de 2020 Ley 2027 de 2020 Ley 2056 de 2020; Art. [[art. 19 Ley 2066 de 2020|19]] Ley 2066 de 2020 Ley 2120 de 2021 Ley 2125 de 2021 Ley 2143 de 2021 Ley 2251 de 2022 Ley 2330 de 2023 Ley 2470 de 2025
 
-> [!note] Ver Ley 143 de 1994; Art. [[art. 7 Ley 143 de 1994|7]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-590-92 ; C-006-93 ; C-040-93 ; C-074-93 ; C-103-93 ; C-112-93 ; C-134-93 ; C-059-2001 ; C-197-2001 ; C-303-2001 ; C-579-2001 ; C-586-2001 ; C-711-2001 ; C-737-2001 ; C-815-2001 ; C-837-2001 ; C-862-2001 ; C-953-2001 ; C-1064-2001 ; C-1108-2001 ; C-1143-2001 ; C-1168-2001 ; C-1173-2001 ; C-616-2001 ; C-150-03 ; C-531-03 ; C-776-03 ; C-1037-03 ; C-1062-03 ; C-070-04 ; C-130-04 ; C-177-04 ; C-347-04 ; C-458-04 ; C-516-04 ; C-042-06 ; C-243-06 ; C-860-06 ; C-955-07 ; C-1041-07 ; C-377-08 ; C-639-10 ; C-197-12 ; C-288-12 ; C-258-13 ; C-753-13 ; C-073-14 ; C-123-14 ; C-313-14 ; C-870-14 ; C-219-15 ; C-077-17 ; C-051-18 ; C-110-19 ; C-178-20 ; C-028-21 ; C-322-21 ; C-188-22 ; C-424-23 ; C-425-23 ; C-459-23 ; C-160-24 ; C-161-24 ; Sentencias de Tutela: T-407-92; T-411-92; T-426-92; T-540-92; T-604-92; T-163-93; T-251-93; T-611-2001; T-889-2001; T-026-06; T-760-08; C-138-18 ;
 
-> [!note] Ver Ley 221 de 1995; Art. [[art. 2 Ley 221 de 1995|2]]
-
-> [!note] Ver Ley 231 de 1995; Art. [[art. 3 Ley 231 de 1995|3]]
-
-> [!note] Ver Ley 336 de 1996; Art. [[art. 3 Ley 336 de 1996|3]]
-
-> [!note] Ver Ley 342 de 1996; Art. [[art. 2 Ley 342 de 1996|2]]
-
-> [!note] Ver Ley 550 de 1999
-
-> [!note] Ver Ley 658 de 2001
-
-> [!note] Ver Ley 677 de 2001
-
-> [!note] Ver Ley 689 de 2001
-
-> [!note] Ver Ley 693 de 2001
-
-> [!note] Ver Ley 769 de 2002
-
-> [!note] Ver Ley 819 de 2003; Art. [[art. 7 Ley 819 de 2003|7]]
-
-> [!note] Ver Ley 853 de 2003
-
-> [!note] Ver Ley 855 de 2003
-
-> [!note] Ver Ley 856 de 2003
-
-> [!note] Ver Ley 903 de 2004
-
-> [!note] Ver Ley 922 de 2004
-
-> [!note] Ver Ley 926 de 2004
-
-> [!note] Ver Ley 963 de 2005
-
-> [!note] Ver Ley 1005 de 2006
-
-> [!note] Ver Ley 1087 de 2006
-
-> [!note] Ver Ley 1116 de 2006
-
-> [!note] Ver Ley 1150 de 2007; Art. [[art. 12 Ley 1150 de 2007|12]]
-
-> [!note] Ver Ley 1151 de 2007; Art. [[art. 6 Ley 1151 de 2007|6]]. Núm. 6.2.1; Art. [[art. 71 Ley 1151 de 2007|71]]
-
-> [!note] Ver Ley 1173 de 2007
-
-> [!note] Ver Ley 1215 de 2008
-
-> [!note] Ver Ley 1239 de 2008
-
-> [!note] Ver Ley 1253 de 2008
-
-> [!note] Ver Ley 1274 de 2009
-
-> [!note] Ver Ley 1281 de 2009
-
-> [!note] Ver Ley 1292 de 2009; Art. [[art. 3 Ley 1292 de 2009|3]]
-
-> [!note] Ver Ley 1340 de 2009
-
-> [!note] Ver Ley 1382 de 2010
-
-> [!note] Ver Ley 1383 de 2010
-
-> [!note] Ver Ley 1397 de 2010
-
-> [!note] Ver Ley 1413 de 2010
-
-> [!note] Ver Ley 1417 de 2010; Art. [[art. 2 Ley 1417 de 2010|2]]
-
-> [!note] Ver Ley 1439 de 2011; Art. [[art. 4 Ley 1439 de 2011|4]]
-
-> [!note] Ver Ley 1450 de 2011; Art. [[art. 32 Ley 1450 de 2011|32]] ; Art. [[art. 58 Ley 1450 de 2011|58]]
-
-> [!note] Ver Ley 1467 de 2011
-
-> [!note] Ver Ley 1469 de 2011
-
-> [!note] Ver Ley 1473 de 2011
-
-> [!note] Ver Ley 1495 de 2011
-
-> [!note] Ver Ley 1509 de 2012
-
-> [!note] Ver Ley 1521 de 2012
-
-> [!note] Ver Ley 1522 de 2012
-
-> [!note] Ver Ley 1524 de 2012
-
-> [!note] Ver Ley 1525 de 2012
-
-> [!note] Ver Ley 1533 de 2012
-
-> [!note] Ver Ley 1534 de 2012
-
-> [!note] Ver Ley 1535 de 2012
-
-> [!note] Ver Ley 1537 de 2012
-
-> [!note] Ver Ley 1538 de 2012
-
-> [!note] Ver Ley 1540 de 2012
-
-> [!note] Ver Ley 1542 de 2012
-
-> [!note] Ver Ley 1543 de 2012
-
-> [!note] Ver Ley 1544 de 2012
-
-> [!note] Ver Ley 1545 de 2012
-
-> [!note] Ver Ley 1548 de 2012
-
-> [!note] Ver Ley 1552 de 2012
-
-> [!note] Ver Ley 1553 de 2012
-
-> [!note] Ver Ley 1557 de 2012
-
-> [!note] Ver Ley 1560 de 2012
-
-> [!note] Ver Ley 1576 de 2012
-
-> [!note] Ver Ley 1603 de 2012
-
-> [!note] Ver Ley 1646 de 2013
-
-> [!note] Ver Ley 1647 de 2013
-
-> [!note] Ver Ley 1649 de 2013
-
-> [!note] Ver Ley 1658 de 2013
-
-> [!note] Ver Ley 1659 de 2013
-
-> [!note] Ver Ley 1683 de 2013
-
-> [!note] Ver Ley 1684 de 2013
-
-> [!note] Ver Ley 1686 de 2013
-
-> [!note] Ver Ley 1695 de 2013
-
-> [!note] Ver Ley 1696 de 2013
-
-> [!note] Ver Ley 1704 de 2014
-
-> [!note] Ver Ley 1711 de 2014
-
-> [!note] Ver Ley 1713 de 2014
-
-> [!note] Ver Ley 1717 de 2014
-
-> [!note] Ver Ley 1723 de 2014
-
-> [!note] Ver Ley 1726 de 2014
-
-> [!note] Ver Ley 1730 de 2014
-
-> [!note] Ver Ley 1772 de 2016; Art. [[art. 7 Ley 1772 de 2016|7]]
-
-> [!note] Ver Ley 1798 de 2016; Art. [[art. 2 Ley 1798 de 2016|2]]
-
-> [!note] Ver Ley 1852 de 2017; Art. [[art. 3 Ley 1852 de 2017|3]]
-
-> [!note] Ver Ley 1899 de 2018; Art. [[art. 2 Ley 1899 de 2018|2]]
-
-> [!note] Ver Ley 1906 de 2018; Art. [[art. 2 Ley 1906 de 2018|2]]
-
-> [!note] Ver Ley 1914 de 2018; Art. [[art. 3 Ley 1914 de 2018|3]]
-
-> [!note] Ver Ley 1924 de 2018
-
-> [!note] Ver Ley 2027 de 2020
-
-> [!note] Ver Ley 2056 de 2020
-
-> [!note] Ver Sentencias de la Corte Constitucional: T-407-92; T-411-92; T-426-92; T-540-92; T-604-92; C-478-92 ; T-163-93; T-251-93; C-006-93; C-040-93; C-074-93 ; C-103-93; C-112-93 ; C-134-93; T-611-2001; T-889-2001, C-059-2001; C-197-2001; C-303-2001; C-579-2001 ; C-586-2001; C-711-2001; C-737-2001; C-815-2001; C-837-2001 ; C-862-2001; C-953-2001; C-1064-2001 ; C-1108-2001; C-1143-2001; C-1168-2001; C-1173-2001; C-616-2001; C-150-03; C-531-03; C-776-03; C-1037-03 ; C-1062-03; C-070-04; C-130-04; C-177-04; C-516-04; T-026-06, C-042-06; C-243-06; C-860-06; C-955-07 ; C-1041-07 ; T-760-08, C-377-08; C-639-10; C-197-12; C-288-12 ; C-258-13 ; C-753-13; C-073-14; C-123-14; C-313-14; C-870-14; C-219-15; C-077-17 ; C-051-18; C-138-18;C-110-19
-
-TEXTO ANTERIOR: La dirección general de la economía estará a cargo del Estado. Este intervendrá, por mandato de la ley, en la explotación de los recursos naturales, en el uso del suelo, en la producción, distribución, utilización y consumo de los bienes, y en los servicios públicos y privados, para racionalizar la economía con el fin de conseguir el mejoramiento de la calidad de vida de los habitantes, la distribución equitativa de las oportunidades y los beneficios del desarrollo y la preservación de un ambiente sano.
-
-El Estado, de manera especial, intervendrá para dar pleno empleo a los recursos humanos y asegurar que todas las personas, en particular las de menores ingresos, tengan acceso efectivo a los bienes y servicios básicos. También para promover la productividad y la competitividad y el desarrollo armónico de las regiones.
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 21 y 85)
 
 ---
 ← [[art. 333 CPol]] · ↑ [[CPol - Título XII - Capítulo 1|Capítulo 1]] · [[art. 335 CPol]] →

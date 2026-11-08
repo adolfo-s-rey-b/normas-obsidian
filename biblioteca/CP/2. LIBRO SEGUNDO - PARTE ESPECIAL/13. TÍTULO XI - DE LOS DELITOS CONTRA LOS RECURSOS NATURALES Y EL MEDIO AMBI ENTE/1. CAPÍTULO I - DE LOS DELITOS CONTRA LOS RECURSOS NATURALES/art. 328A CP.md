@@ -12,28 +12,42 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "328A"
-epigrafe: "Trafico de Fauna"
+epigrafe: "TRÁFICO DE FAUNA"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]]"
-vigencia: "vigente"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 1 Ley 2111 de 2021]]"
 anterior: "[[art. 328 CP]]"
 siguiente: "[[art. 328B CP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#328A"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2022
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 328A. Trafico de Fauna
+## Artículo 328A. TRÁFICO DE FAUNA
 
-El que trafique, adquiera, exporte o comercialice sin permiso de la autoridad competente o con incumplimiento de la normatividad existente los especimenes, productos o partes de la fauna acuatica, silvestre o especies silvestres exoticas, incurrirá en prisión de sesenta (60) a ciento treinta y cinco (135) meses y multa de trescientos (300) hasta cuarenta mil (40.000) salarios minimos legales mensuales vigentes.
+El que trafique, adquiera, exporte o comercialice sin permiso de la autoridad competente o con incumplimiento de la normatividad existente los especímenes, productos o partes de la fauna acuática, silvestre o especies silvestres exóticas, incurrirá en prisión de sesenta (60) a ciento treinta y cinco (135) meses y multa de trescientos (300) hasta cuarenta mil (40.000) salarios mínimos legales mensuales vigentes.
 
-La pena se aumentará de una tercera parte a la mitad cuando la conducta se cometa a traves de la exportación o comercialización de aletas de peces cartilaginosos (tiburones, rayas o quimeras).
+> [!note] Artículo CONDICIONALMENTE exequible
+
+> [!info] Artículo adicionado por el artículo [[art. 1 Ley 2111 de 2021|1]] de la Ley 2111 de 2021. El nuevo texto es el siguiente:
+
+La pena se aumentará de una tercera parte a la mitad cuando la conducta se cometa a través de la exportación o comercialización de aletas de peces cartilaginosos (tiburones, rayas o quimeras).
+
+> [!info] Notas de Vigencia: Título sustituido por el artículo [[art. 1 Ley 2111 de 2021|1]] de la Ley 2111 de 2021, 'por medio del cual se sustituye el Título XI 'De los delitos contra los recursos naturales y el medio ambiente' de la Ley 599 de 2000, se modifica la Ley 906 de 2004 y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.750 de 29 de julio de 2021.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado CONDICIONALMENTE EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-367-22 de 20 de octubre de 2022, Magistrada Ponente Dra. Natalia Ángel Cabo, 'siempre y cuando se entienda que las normas de reenvío que sean de naturaleza administrativa deben ser expedidas por las instituciones públicas pertenecientes al Sistema Nacional Ambiental con competencias regulatorias; sean precisas, previas a la configuración de la conducta, con un alcance general y de conocimiento público'.
 
 ---
 ← [[art. 328 CP]] · ↑ [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]] · [[art. 328B CP]] →

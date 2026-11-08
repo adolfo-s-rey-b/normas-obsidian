@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo I|CAPÍTULO I - Formación y Examen de los Expedientes]] (arts. 122 a 123)
-- [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo II|CAPÍTULO II - Retiro y Remisión de Expedientes]] (arts. 124 a 125)
-- [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo III|CAPÍTULO III - Reconstrucción de Expedientes]] (art. 126)
+- [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo I|CAPÍTULO I - FORMACIÓN Y EXAMEN DE LOS EXPEDIENTES]] (arts. 122 a 123)
+- [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo II|CAPÍTULO II - RETIRO Y REMISIÓN DE EXPEDIENTES]] (arts. 124 a 125)
+- [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo III|CAPÍTULO III - RECONSTRUCCIÓN DE EXPEDIENTES]] (art. 126)
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título II|Título II]] · ↑ [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] · [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] →

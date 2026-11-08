@@ -19,8 +19,9 @@ derogado_por:
 anterior: "[[art. 260 CC]]"
 siguiente: "[[art. 262 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2009
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,7 +32,7 @@ tags:
 
 ## Artículo 261. ASISTENCIA DEL MENOR POR TERCEROS
 
-<Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009>
+> [!warning] Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 119 Ley 1306 de 2009|119]] de la Ley 1306 de 2009, publicada en el Diario Oficial No. 47.371 de 5 de junio de 2009. - Inciso 2o. modificado por el artículo [[art. 3 Decreto 772 de 1975|3]] del Decreto 772 de 1975, publicado en el Diario Oficial No 34.324, de 27 de mayo 1975. - Artículo modificado por el artículo [[art. 20 Decreto 2820 de 1974|20]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

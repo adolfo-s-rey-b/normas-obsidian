@@ -16,30 +16,34 @@ epigrafe: "Plan Individual De Resocializacion"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Tercero|CAPÍTULO TERCERO - DE LOS MECANISMOS SUSTITUTIVOS DE LA PENA PRIVATIVA DE LA LIBERTAD]]"
-vigencia: "modificado"
+vigencia: "inexequible"
 modificado_por:
   - "[[art. 7 Ley 2098 de 2021]]"
 anterior: "[[art. 68B CP]]"
 siguiente: "[[art. 69 CP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#68C"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2022
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Tercero|Capítulo Tercero]]
 
 ## Artículo 68C. Plan Individual De Resocializacion
 
-> [!info] Adicionado por el Art. [[art. 7 Ley 2098 de 2021|7]] de la Ley 2098 de 2021
+PLAN INDIVIDUAL DE RESOCIALIZACIÓN.
 
-Con base en la prueba pericial practicada, de que trata el Articulo [[art. 483A CPP|483A]] de la Ley 906 de 2004, el juez de ejecución de penas y medidas de seguridad ordenará la continuidad, modificación o adición al Plan individual de resocialización del condenado elaborado por el equipo psicosocial allegado a traves de la Dirección General del INPEC, cuyo seguimiento y cumplimiento se verificará mediante evaluaciones. periodicas bianuales ante el equipo psicosocial, el cual debe permitir conocer el grado de habilitación social y de convivencia del condenado.
+> [!warning] Artículo INEXEQUIBLE
 
-NOTA: Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-383 de 2022
+> [!info] Notas de Vigencia: Artículo adicionado por el artículo [[art. 7 Ley 2098 de 2021|7]] de la Ley 2098 de 2021, 'por medio de la cual se reglamenta la prisión perpetua revisable y se reforma el Código Penal (Ley 599 de 2000), el Código de Procedimiento Penal (Ley 906 de 2004), el Código Penitenciario y Carcelario (Ley 65 de 1993) y se dictan otras disposiciones, Ley Gilma Jiménez', publicada en el Diario Oficial No. 51.727 de 6 de julio de 2021.
 
-PARÁGRAFO TRANSITORIO : El Ministerio de Justicia y del Derecho, sin que sea requisito para la aplicación de lo reglamentado en la presente ley, en un plazo no mayor a un (1) año expedirán los lineamentos para la formulación del plan de resocializacion, el cual debera, en cualquier caso, acogerse a los principios de la justicia terapeutica y el enfoque de justicia restaurativa.
+> [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-155-22, mediante Sentencia C-383-22 de 2 de noviembre de 2022, Magistrado Ponente Dr. Hernán Correa Cardozo. - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-155-22, mediante Sentencia C-163-22 de 11 de mayo de 2022, Magistrada Ponente Dra. Paola Andrea Meneses Mosquera. - Artículo declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-155-22 de 5 de mayo de 2022, Magistrada Ponente Dra. Cristina Pardo Schlesinger. Surte efectos a partir de la declaratoria de inconstitucionalidad del Acto Legislativo 01 de 2020, mediante Sentencia C-294 de 2021. Es decir, desde el 2 de septiembre de 2021.
 
 ---
 ← [[art. 68B CP]] · ↑ [[CP - Libro Primero - Título IV - Capítulo Tercero|Capítulo Tercero]] · [[art. 69 CP]] →

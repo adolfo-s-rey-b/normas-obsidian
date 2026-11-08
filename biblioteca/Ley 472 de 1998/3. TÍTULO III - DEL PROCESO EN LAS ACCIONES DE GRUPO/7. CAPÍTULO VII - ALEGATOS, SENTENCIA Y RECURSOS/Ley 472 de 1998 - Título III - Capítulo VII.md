@@ -21,11 +21,11 @@ tags:
 
 ### Contenido
 
-- [[art. 63 Ley 472 de 1998|Artículo 63]] — Alegatos
-- [[art. 64 Ley 472 de 1998|Artículo 64]] — Sentencias
-- [[art. 65 Ley 472 de 1998|Artículo 65]] — Contenido de la Sentencia
-- [[art. 66 Ley 472 de 1998|Artículo 66]] — Efectos de la Sentencia
-- [[art. 67 Ley 472 de 1998|Artículo 67]] — Recurso Contra la Sentencia
+- [[art. 63 Ley 472 de 1998|Artículo 63]] — ALEGATOS
+- [[art. 64 Ley 472 de 1998|Artículo 64]] — SENTENCIA
+- [[art. 65 Ley 472 de 1998|Artículo 65]] — CONTENIDO DE LA SENTENCIA
+- [[art. 66 Ley 472 de 1998|Artículo 66]] — EFECTOS DE LA SENTENCIA
+- [[art. 67 Ley 472 de 1998|Artículo 67]] — RECURSOS CONTRA LA SENTENCIA
 
 ---
 ← [[Ley 472 de 1998 - Título III - Capítulo VI|Capítulo VI]] · ↑ [[Ley 472 de 1998 - Título III|Título III]] · [[Ley 472 de 1998 - Título III - Capítulo VIII|Capítulo VIII]] →

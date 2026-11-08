@@ -7,15 +7,22 @@ articulo: "41"
 epigrafe: "PUBLICIDAD DE LOS ESTADOS FINANCIEROS"
 titulo: "[[Ley 222 de 1995 - Título I|TÍTULO I - REGIMEN DE SOCIEDADES]]"
 capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VI|CAPÍTULO VI - ESTADOS FINANCIEROS]]"
-vigencia: "vigente"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 150 Decreto 19 de 2012]]"
 anterior: "[[art. 40 Ley 222 de 1995]]"
 siguiente: "[[art. 42 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#41"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título I|Título I]] › [[Ley 222 de 1995 - Título I - Capítulo VI|Capítulo VI]]
@@ -28,7 +35,11 @@ Sin embargo, las entidades gubernamentales que ejerzan la inspección, vigilanci
 
 La Cámara de Comercio deberá conservar, por cualquier medio, los documentos mencionados en este artículo por el término de cinco años.
 
-Inciso adicionado por el art. [[art. 150 Decreto 19 de 2012|150]], Decreto Nacional 019 de 2012
+Cuando los estados financieros se depositen en Ia Superintendencia de Sociedades, no tendrán que ser depositados en las cámaras de comercio. La Superintendencia de Sociedades asegurará los mecanismos necesarios para garantizar el acceso a Ia información que no tenga carácter reservado. La Cámara de Comercio deberá conservar, por cualquier medio, los documentos mencionados en este artículo por el término de cinco años.
+
+> [!info] Inciso adicionado por el artículo [[art. 150 Decreto 19 de 2012|150]] del Decreto 19 de 2012. El nuevo texto es el siguiente:
+
+> [!info] Notas de Vigencia: Inciso adicionado por el artículo [[art. 150 Decreto 19 de 2012|150]] del Decreto 19 de 2012, publicado en el Diario Oficial No. 48.308 de 10 de enero de 2012.
 
 ---
 ← [[art. 40 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo VI|Capítulo VI]] · [[art. 42 Ley 222 de 1995]] →

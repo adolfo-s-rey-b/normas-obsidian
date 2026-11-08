@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 18 Ley 222 de 1995]]"
 anterior: "[[art. 183 CCo]]"
 siguiente: "[[art. 185 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#184"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1995
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,17 +35,13 @@ tags:
 
 ## Artículo 184. REPRESENTACIÓN DEL SOCIO EN ASAMBLEA O JUNTA DE SOCIOS
 
-> [!info] Modificado por el art. [[art. 18 Ley 222 de 1995|18]], Ley 222 de 1995
+Todo socio podrá hacerse representar en las reuniones de la Junta de Socios o Asamblea mediante poder otorgado por escrito, en el que se indique el nombre del apoderado, la persona en quien éste puede sustituirlo, si es del caso, la fecha o época de la reunión o reuniones para las que se confiere y los demás requisitos que se señalen en los estatutos.
 
-El nuevo texto es el siguiente Todo socio podrá hacerse representar en las reuniones de la Junta de Socios o Asamblea mediante poder otorgado por escrito, en el que se indique el nombre del apoderado, la persona en quien éste puede sustituirlo, si es del caso, la fecha o época de la reunión o reuniones para las que se confiere y los demás requisitos que se señalen en los estatutos.
+> [!info] Artículo subrogado por el artículo [[art. 18 Ley 222 de 1995|18]] de la Ley 222 de 1995. El nuevo texto es el siguiente:
 
 Los poderes otorgados en el exterior sólo requerirán las formalidades aquí previstas.
 
-Texto anterior:
-
-Todo asociado podrá hacerse representar en las reuniones de la junta de socios o de la asamblea mediante poder otorgado por escrito, en el que se indique el nombre del apoderado, la persona en quien éste pueda sustituirlo y la fecha de la reunión para la cual se confiere, así como los demás requisitos señalados en los estatutos. Esta representación no podrá otorgarse a una persona jurídica, salvo que se conceda en desarrollo del negocio fiduciario.
-
-El poder otorgado por escritura pública o por documento legalmente reconocido podrá comprender dos o más reuniones de la asamblea o de la junta de socios.
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo [[art. 18 Ley 222 de 1995|18]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995.
 
 ---
 ← [[art. 183 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VII - Sección I|Sección I]] · [[art. 185 CCo]] →

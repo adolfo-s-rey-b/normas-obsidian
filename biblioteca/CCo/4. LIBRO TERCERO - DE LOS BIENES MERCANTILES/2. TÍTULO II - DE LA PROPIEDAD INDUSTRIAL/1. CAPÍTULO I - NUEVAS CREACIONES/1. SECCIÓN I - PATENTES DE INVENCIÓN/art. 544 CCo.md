@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo I - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 543 CCo]]"
 siguiente: "[[art. 545 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#544"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,19 +33,13 @@ tags:
 
 ## Artículo 544. DOCUMENTOS QUE DEBEN ACOMPAÑAR LA SOLICITUD DE PATENTE
 
-A la solicitud deberá acompañarse:
+(Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
-1o. El poder o certificación de que se halla protocolizado en la Oficina de Propiedad Industrial, o una fotocopia del mismo poder, debidamente autenticada;
+> [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-2o. La comprobación, en su caso, de la existencia o representación de la persona jurídica solicitante;
+> [!note] Notas de Vigencia: Ver Nota de Vigencia del Título II 'DE LA PROPIEDAD INDUSTRIAL' del Libro Tercero 'DE LOS BIENES MERCANTILES'. Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena.
 
-3o. La comprobación, en la misma forma prevista para los poderes, de que se ha dado cumplimiento al parágrafo primero del artículo anterior;
-
-4o. El extracto de la solicitud el cual deberá contener, a lo menos, una reivindicación que caracterice la invención, y
-
-5o. Los planos, si fuere el caso.
-
-**PARÁGRAFO.** Cuando el solicitante quiera hacer valer una prioridad que le confiera una solicitud anterior presentada en otro país, deberá hacerlo dentro de los seis meses siguientes a la fecha de dicha solicitud e indicar en su petición la fecha y el número de la solicitud anterior y el país en que le haya efectuado; además, en el término de tres meses contados desde la fecha de presentación de la petición en Colombia, presentará una copia certificada por la Oficina de Propiedad Industrial del país en donde hubiere hecho la solicitud.
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Ordinal 1o. declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia del 20 de septiembre de 1973.
 
 ---
 ← [[art. 543 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo I - Sección I|Sección I]] · [[art. 545 CCo]] →

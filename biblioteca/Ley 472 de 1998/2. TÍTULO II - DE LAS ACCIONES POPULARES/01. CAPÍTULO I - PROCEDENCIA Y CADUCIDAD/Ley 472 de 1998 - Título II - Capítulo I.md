@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 9 Ley 472 de 1998|Artículo 9]] — Procedencia de las Acciones Populares
-- [[art. 10 Ley 472 de 1998|Artículo 10]] — Agotamiento Opcional de la Vía Gubernativa
-- [[art. 11 Ley 472 de 1998|Artículo 11]] — Caducidad
+- [[art. 9 Ley 472 de 1998|Artículo 9]] — PROCEDENCIA DE LAS ACCIONES POPULARES
+- [[art. 10 Ley 472 de 1998|Artículo 10]] — AGOTAMIENTO OPCIONAL DE LA VIA GUBERNATIVA
+- [[art. 11 Ley 472 de 1998|Artículo 11]] — CADUCIDAD
 
 ---
 ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo II|Capítulo II]] →

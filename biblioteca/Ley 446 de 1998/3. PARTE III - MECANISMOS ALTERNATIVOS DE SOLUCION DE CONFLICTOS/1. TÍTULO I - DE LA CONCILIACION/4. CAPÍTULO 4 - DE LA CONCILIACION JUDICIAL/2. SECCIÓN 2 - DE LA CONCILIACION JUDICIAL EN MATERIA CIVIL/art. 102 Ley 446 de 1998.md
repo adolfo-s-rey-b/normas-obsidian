@@ -1,0 +1,44 @@
+---
+aliases:
+  - "Ley 446 de 1998 art. 102"
+tipo: articulo
+norma: "Ley 446 de 1998"
+articulo: "102"
+epigrafe: "PROCESOS DE EJECUCION"
+parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
+titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
+capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|CAPÍTULO 4 - DE LA CONCILIACION JUDICIAL]]"
+seccion: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 2|SECCIÓN 2 - DE LA CONCILIACION JUDICIAL EN MATERIA CIVIL]]"
+vigencia: "derogado"
+derogado_por:
+  - "[[art. 69 Ley 794 de 2003]]"
+  - "[[art. 24 Ley 446 de 1998]]"
+anterior: "[[art. 101 Ley 446 de 1998]]"
+siguiente: "[[art. 103 Ley 446 de 1998]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0446_1998.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2003
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_446_de_1998
+  - vigencia/derogado
+---
+
+[[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|Capítulo 4]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 2|Sección 2]]
+
+## Artículo 102. PROCESOS DE EJECUCION
+
+> [!warning] Artículo derogado por el artículo [[art. 69 Ley 794 de 2003|69]] de la Ley 794 de 2003
+
+(Incorporado en el Estatuto de los Mecanismos Alternativos de Solución de Conflictos, artículo [[art. 24 Ley 446 de 1998|24]].)
+
+> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 69 Ley 794 de 2003|69]] de la Ley 794 de 2003, publicada en el Diario Oficial No. 45.058 de 9 de enero de 2003. - Artículo incorporado en el Decreto 1818 de 1998, artículo [[art. 24 Ley 446 de 1998|24]] , publicado en el Diario Oficial No. 43.380, del 07 de septiembre de 1998, 'Por medio del cual se expide el Estatuto de los mecanismos alternativos de solución de conflictos'.
+
+> [!warning] Notas del Editor: En criterio del editor, en relación con la incorporación de este artículo en el Decreto 1818 de 1998, debe tenerse en cuenta lo establecido por la Corte Constitucional en Sentencia C-558-92 , M.P. Dr. Ciro Angarita Barón, cuyos apartes relevantes se transcriben a continuación: '... Incorporar sin sustituir, esto es, sin producir la derogatoria de las disposiciones legales que se pretende subsumir en un régimen jurídico de imperativo cumplimiento, que puede estar contenido en uno o varios textos, equivale a realizar labores de compilación carentes de fuerza vinculante, similares a las que efectúan los particulares. Significaría no ejercer una competencia de naturaleza eminentemente legislativa, como quiera que, lo que caracteriza a la función de regulación normativa desde el punto de vista material, es la creación de proposiciones jurídicas 'con fuerza de ley', esto es, la producción de normas jurídicas obligatorias, coercibles y vinculantes. La sustitución de las normas incorporadas es una facultad inherente y consustancial a la de expedir estatutos orgánicos, códigos o cuerpos legales integrales como quiera que la incorporación a estos de las normas que conforman la legislación existente sobre una determinada materia produce como obligada consecuencia, su derogatoria tácita ...'.
+
+---
+← [[art. 101 Ley 446 de 1998]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 2|Sección 2]] · [[art. 103 Ley 446 de 1998]] →

@@ -9,7 +9,11 @@ vigencia: "vigente"
 anterior: "[[art. 21 Ley 80 de 1993]]"
 siguiente: "[[art. 23 Ley 80 de 1993]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#22"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993

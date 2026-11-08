@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Tercero - Título II - Capítulo III|CAPÍTULO III - DI
 vigencia: "vigente"
 anterior: "[[art. 615 CCo]]"
 siguiente: "[[art. 617 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#616"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +32,8 @@ tags:
 ## Artículo 616. CONCESIONES QUE REQUIEREN INSCRIPCIÓN EN LA OFICINA DE REGISTRO DE PROPIEDAD INDUSTRIAL
 
 Para que surtan efectos frente a terceros, y sin perjuicio de lo dispuesto sobre registro de comercio, deberán inscribirse en la oficina de Propiedad Industrial las concesiones de patentes, modelos y dibujos, marcas, nombres, enseñas, cesiones, transmisiones, cambio de nombre o domicilio del titular, renuncias, licencias, reglamento de comunidad y del empleo de la marca colectiva.
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Artículo declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia del 20 de septiembre de 1973.
 
 ---
 ← [[art. 615 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo III|Capítulo III]] · [[art. 617 CCo]] →

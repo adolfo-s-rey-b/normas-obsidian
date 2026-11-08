@@ -13,13 +13,13 @@ libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE
 titulo: "[[CC - Libro Tercero - Título XIII|TÍTULO XIII - DE LAS DONACIONES ENTRE VIVOS]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 1 CC]]"
   - "[[art. 1 Decreto 1712 de 1989]]"
 anterior: "[[art. 1457 CC]]"
 siguiente: "[[art. 1459 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1989
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +30,7 @@ tags:
 
 ## Artículo 1458. AUTORIZACIÓN DE DONACIONES EN RAZON AL MONTO
 
-> [!info] Artículo modificado por el artículo [[art. 1 CC|1]]o. del Decreto 1712 de 1989. El nuevo texto es el siguiente:
+> [!info] Artículo modificado por el artículo 1o. del Decreto 1712 de 1989. El nuevo texto es el siguiente:
 
 Corresponde al notario autorizar mediante escritura pública las donaciones cuyo valor excedan la suma de cincuenta (50) salarios mínimos mensuales, siempre que donante y donatario sean plenamente capaces, lo soliciten de común acuerdo y no se contravenga ninguna disposición legal.
 

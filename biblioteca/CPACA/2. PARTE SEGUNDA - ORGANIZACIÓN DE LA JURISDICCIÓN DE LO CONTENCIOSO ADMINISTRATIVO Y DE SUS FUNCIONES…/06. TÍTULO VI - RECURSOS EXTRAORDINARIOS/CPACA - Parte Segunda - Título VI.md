@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[CPACA - Parte Segunda - Título VI - Capítulo I|CAPÍTULO I - Recurso Extraordinario de Revisión]] (arts. 248 a 255)
-- [[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - Recurso Extraordinario de Unificación de Jurisprudencia]] (arts. 256 a 268)
+- [[CPACA - Parte Segunda - Título VI - Capítulo I|CAPÍTULO I - RECURSO EXTRAORDINARIO DE REVISIÓN]] (arts. 248 a 255)
+- [[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA]] (arts. 256 a 268)
 
 ---
 ← [[CPACA - Parte Segunda - Título V|Título V]] · ↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título VII|Título VII]] →

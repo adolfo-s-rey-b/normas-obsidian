@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 5 Ley 472 de 1998|Artículo 5]] — Trámite
-- [[art. 6 Ley 472 de 1998|Artículo 6]] — Trámite Preferencial
-- [[art. 7 Ley 472 de 1998|Artículo 7]] — Interpretación de los Derechos Protegidos
-- [[art. 8 Ley 472 de 1998|Artículo 8]] — Estados de Excepción
+- [[art. 5 Ley 472 de 1998|Artículo 5]] — TRAMITE
+- [[art. 6 Ley 472 de 1998|Artículo 6]] — TRAMITE PREFERENCIAL
+- [[art. 7 Ley 472 de 1998|Artículo 7]] — INTERPRETACION DE LOS DERECHOS PROTEGIDOS
+- [[art. 8 Ley 472 de 1998|Artículo 8]] — ESTADOS DE EXCEPCION
 
 ---
 ← [[Ley 472 de 1998 - Título I - Capítulo II|Capítulo II]] · ↑ [[Ley 472 de 1998 - Título I|Título I]]

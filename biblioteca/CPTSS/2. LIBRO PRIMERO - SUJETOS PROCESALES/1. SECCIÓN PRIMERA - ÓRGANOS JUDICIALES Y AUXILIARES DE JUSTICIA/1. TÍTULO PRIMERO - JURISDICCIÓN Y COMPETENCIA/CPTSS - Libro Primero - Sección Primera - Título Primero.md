@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|CAPÍTULO I - Competencia]] (arts. 7 a 17)
-- [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo II|CAPÍTULO II - Ministerio Público y la Agencia Nacional de Defensa Jurídica del Estado]] (art. 18)
-- [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo III|CAPÍTULO III - Conciliación]] (arts. 19 a 21)
+- [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|CAPÍTULO I - COMPETENCIA]] (arts. 7 a 17)
+- [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo II|CAPÍTULO II - MINISTERIO PÚBLICO Y LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO]] (art. 18)
+- [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo III|CAPÍTULO III - CONCILIACIÓN]] (arts. 19 a 21)
 
 ---
 ↑ [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] · [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]] →

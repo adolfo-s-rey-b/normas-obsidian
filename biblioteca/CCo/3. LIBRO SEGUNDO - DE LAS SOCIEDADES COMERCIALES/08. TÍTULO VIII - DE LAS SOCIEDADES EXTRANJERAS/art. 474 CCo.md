@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Segundo - Título VIII|TÍTULO VIII - DE LAS SOCIEDADES E
 vigencia: "vigente"
 anterior: "[[art. 473 CCo]]"
 siguiente: "[[art. 475 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#474"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -33,6 +37,8 @@ Se tienen por actividades permanentes para efectos del artículo [[art. 471 CCo|
 2\. Intervenir como contratista en la ejecución de obras o en la prestación de servicios;
 
 3\. Participar en cualquier forma en actividades que tengan por objeto el manejo, aprovechamiento o inversión de fondos provenientes del ahorro privado;
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Ordinal 3o. declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia 739 del 29 de octubre de 1979. Magistrado Ponente Dr. Gonzalo Vargas Rubiano.
 
 4\. Dedicarse a la industria extractiva en cualquiera de sus ramas o servicios;
 

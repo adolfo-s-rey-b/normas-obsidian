@@ -15,12 +15,12 @@ capitulo: "[[CC - Libro Primero - Título X - Capítulo II|CAPÍTULO II - REGLAS
 vigencia: "derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
-  - "[[art. 627 CC]]"
 anterior: "[[art. 224 CC]]"
 siguiente: "[[art. 226 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2012
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,9 +31,9 @@ tags:
 
 ## Artículo 225. DENUNCIA DE EMBARAZO
 
-<Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012>
+> [!warning] Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 
-> [!warning] Notas de Vigencia: Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir del 1o. de enero de 2014, en los términos del numeral 6) del artículo [[art. 627 CC|627]] .
+> [!warning] Notas de Vigencia: Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir del 1o. de enero de 2014, en los términos del numeral 6) del artículo 627 .
 
 ---
 ← [[art. 224 CC]] · ↑ [[CC - Libro Primero - Título X - Capítulo II|Capítulo II]] · [[art. 226 CC]] →

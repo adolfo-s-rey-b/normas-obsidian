@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título II - Capítulo III|CAPÍTULO III - EL 
 vigencia: "vigente"
 anterior: "[[art. 919 CCo]]"
 siguiente: "[[art. 921 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#920"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,9 @@ tags:
 
 ## Artículo 920. PRECIO
 
-No habrá compraventa si los contratantes no convienen en el precio o en la manera de determinarlo. Pero si el comprador recibe la cosa, se presumirá que las partes aceptan el precio medio que tenga en el día y lugar de la entrega. El precio irrisorio se tendrá por no pactado.
+No habrá compraventa si los contratantes no convienen en el precio o en la manera de determinarlo. Pero si el comprador recibe la cosa, se presumirá que las partes aceptan el precio medio que tenga en el día y lugar de la entrega.
+
+El precio irrisorio se tendrá por no pactado.
 
 ---
 ← [[art. 919 CCo]] · ↑ [[CCo - Libro Cuarto - Título II - Capítulo III|Capítulo III]] · [[art. 921 CCo]] →

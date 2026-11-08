@@ -8,14 +8,18 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "99"
-epigrafe: "Documentos que prestan mérito ejecutivo a favor del Estado"
+epigrafe: "DOCUMENTOS QUE PRESTAN MÉRITO EJECUTIVO A FAVOR DEL ESTADO"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título IV|TÍTULO IV - PROCEDIMIENTO ADMINISTRATIVO DE COBRO COACTIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 98 CPACA]]"
 siguiente: "[[art. 100 CPACA]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249#99"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
@@ -24,13 +28,13 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título IV|Título IV]]
 
-## Artículo 99. Documentos que prestan mérito ejecutivo a favor del Estado
+## Artículo 99. DOCUMENTOS QUE PRESTAN MÉRITO EJECUTIVO A FAVOR DEL ESTADO
 
 Prestarán mérito ejecutivo para su cobro coactivo, siempre que en ellos conste una obligación clara, expresa y exigible, los siguientes documentos:
 
-1\. Todo acto administrativo ejecutoriado que imponga a favor de las entidades públicas a las que alude el parágrafo del artículo [[art. 104 CPACA|104]], la obligación de pagar una suma líquida de dinero, en los casos previstos en la ley.
+1\. Todo acto administrativo ejecutoriado que imponga a favor de las entidades públicas a las que alude el parágrafo del artículo [[art. 104 CPACA|104]] , la obligación de pagar una suma líquida de dinero, en los casos previstos en la ley.
 
-2\. Las sentencias y demás decisiones jurisdiccionales ejecutoriadas que impongan a favor del tesoro nacional, o de las entidades públicas a las que alude el parágrafo del artículo [[art. 104 CPACA|104]], la obligación de pagar una suma líquida de dinero.
+2\. Las sentencias y demás decisiones jurisdiccionales ejecutoriadas que impongan a favor del tesoro nacional, o de las entidades públicas a las que alude el parágrafo del artículo [[art. 104 CPACA|104]] , la obligación de pagar una suma líquida de dinero.
 
 3\. Los contratos o los documentos en que constan sus garantías, junto con el acto administrativo que declara el incumplimiento o la caducidad. Igualmente lo serán el acta de liquidación del contrato o cualquier acto administrativo proferido con ocasión de la actividad contractual.
 

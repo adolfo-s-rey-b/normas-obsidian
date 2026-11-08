@@ -13,13 +13,12 @@ libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE L
 titulo: "[[CC - Libro Cuarto - Título XXII|TÍTULO XXII - DE LAS CAPITULACIONES MATRIMONIALES Y DE LA SOCIEDAD CONYUGAL]]"
 capitulo: "[[CC - Libro Cuarto - Título XXII - Capítulo V|CAPÍTULO V - DE LA DISOLUCIÓN DE LA SOCIEDAD CONYUGAL Y LA PARTICIÓN DE GANANCIAS]]"
 vigencia: "modificado"
-modificado_por:
-  - "[[art. 25 CC]]"
 anterior: "[[art. 1819 CC]]"
 siguiente: "[[art. 1821 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1976
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +29,7 @@ tags:
 
 ## Artículo 1820. CAUSALES DE DISOLUCIÓN DE LA SOCIEDAD CONYUGAL
 
-> [!info] Artículo modificado por el artículo [[art. 25 CC|25]] de la Ley 1a. de 1976. El nuevo texto es el siguiente:
+> [!info] Artículo modificado por el artículo 25 de la Ley 1a. de 1976. El nuevo texto es el siguiente:
 
 La sociedad conyugal se disuelve:
 
@@ -52,7 +51,7 @@ Para ser oponible a terceros, la escritura en mención deberá registrarse confo
 
 Lo dispuesto en este numeral es aplicable a la liquidación de la sociedad conyugal disuelta por divorcio o separación de cuerpos judicialmente decretados.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 25 CC|25]] de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo 25 de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 
 ---
 ← [[art. 1819 CC]] · ↑ [[CC - Libro Cuarto - Título XXII - Capítulo V|Capítulo V]] · [[art. 1821 CC]] →

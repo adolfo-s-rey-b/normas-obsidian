@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2543 CC]]"
 siguiente: "[[art. 2545 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2002
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 2544. SUSPENSIÓN E INTERRUPCIÓN DE LAS PRESCRIPCIONES A CORTO TIEMPO
 
-<Artículo modificado por el artículo [[art. 11 Ley 791 de 2002|11]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> Las prescripciones mencionadas en los dos artículos anteriores, no admiten suspensión alguna.
+Las prescripciones mencionadas en los dos artículos anteriores, no admiten suspensión alguna.
+
+> [!info] Artículo modificado por el artículo [[art. 11 Ley 791 de 2002|11]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 Interrúmpense:
 

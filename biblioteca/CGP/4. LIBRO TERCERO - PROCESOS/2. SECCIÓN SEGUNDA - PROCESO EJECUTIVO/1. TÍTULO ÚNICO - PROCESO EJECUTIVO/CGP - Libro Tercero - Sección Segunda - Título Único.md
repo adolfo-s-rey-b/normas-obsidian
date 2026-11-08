@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|CAPÍTULO I - Disposiciones Generales]] (arts. 422 a 445)
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo II|CAPÍTULO II - Liquidación del crédito]] (arts. 446 a 447)
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|CAPÍTULO III - Remate de Bienes y Pago al Acreedor]] (arts. 448 a 461)
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|CAPÍTULO IV - Citación de acreedores con garantía real y acumulación de procesos]] (arts. 462 a 466)
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo V|CAPÍTULO V - Adjudicación o realización especial de la garantía real]] (art. 467)
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VI|CAPÍTULO VI - Disposiciones Especiales para la Efectividad de la Garantía Real]] (art. 468)
-- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VII|CAPÍTULO VII - Ejecución para el Cobro de Deudas Fiscales]] (arts. 469 a 472)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]] (arts. 422 a 445)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo II|CAPÍTULO II - LIQUIDACIÓN DEL CRÉDITO]] (arts. 446 a 447)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|CAPÍTULO III - REMATE DE BIENES Y PAGO AL ACREEDOR]] (arts. 448 a 461)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|CAPÍTULO IV - CITACIÓN DE ACREEDORES CON GARANTÍA REAL Y ACUMULACIÓN DE PROCESOS]] (arts. 462 a 466)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo V|CAPÍTULO V - ADJUDICACIÓN O REALIZACIÓN ESPECIAL DE LA GARANTÍA REAL]] (art. 467)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VI|CAPÍTULO VI - DISPOSICIONES ESPECIALES PARA LA EFECTIVIDAD DE LA GARANTÍA REAL]] (art. 468)
+- [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VII|CAPÍTULO VII - EJECUCIÓN PARA EL COBRO DE DEUDAS FISCALES]] (arts. 469 a 472)
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]]

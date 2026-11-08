@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 4|CAPÍTULO 4 - Del régimen especial
 vigencia: "vigente"
 anterior: "[[art. 330 CPol]]"
 siguiente: "[[art. 332 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#331"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2011
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -32,31 +37,17 @@ Créase la Corporación Autónoma Regional del Río Grande de la Magdalena encar
 
 La ley determinará su organización y fuentes de financiación, y definirá en favor de los municipios ribereños un tratamiento especial en la asignación de regalías y en la participación que les corresponda en los ingresos corrientes de la Nación.
 
-> [!note] Ver Ley 99 de 1993; Art. [[art. 23 Ley 99 de 1993|23]]
+> [!note] Concordancias: Ley 99 de 1993; Art. [[art. 23 Ley 139 de 1994|23]] Ley 139 de 1994; Art. [[art. 15 Ley 141 de 1994|15]] Ley 141 de 1994 Ley 142 de 1994; Art. [[art. 2 Ley 161 de 1994|2]] Ley 161 de 1994 Ley 209 de 1995 Ley 1150 de 2007; Art. [[art. 24 Ley 1263 de 2008|24]] Ley 1263 de 2008 Ley 1283 de 2009 Ley 1450 de 2011; Art. [[art. 93 Ley 1557 de 2012|93]] Ley 1557 de 2012 Ley 2065 de 2020
 
-> [!note] Ver Ley 139 de 1994; Art. [[art. 15 Ley 139 de 1994|15]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-517-92 ; C-509-08 ; C-689-11 ;
 
-> [!note] Ver Ley 141 de 1994
-
-> [!note] Ver Ley 161 de 1994
-
-> [!note] Ver Ley 1150 de 2007; Art. [[art. 24 Ley 1150 de 2007|24]]
-
-> [!note] Ver Ley 1263 de 2008
-
-> [!note] Ver Ley 1283 de 2009
-
-> [!note] Ver Ley 1450 de 2011; Art. [[art. 93 Ley 1450 de 2011|93]]
-
-> [!note] Ver Ley 1557 de 2012
-
-> [!note] Ver Ley 2065 de 2020
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-509-08; C-689-11
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 4)
 
 TITULO XII.
 
-DEL REGIMEN ECONÓMICO Y DE LA HACIENDA PUBLICA
+DEL REGIMEN ECONOMICO Y DE LA HACIENDA PUBLICA
+
+CAPITULO 1.
 
 DE LAS DISPOSICIONES GENERALES
 

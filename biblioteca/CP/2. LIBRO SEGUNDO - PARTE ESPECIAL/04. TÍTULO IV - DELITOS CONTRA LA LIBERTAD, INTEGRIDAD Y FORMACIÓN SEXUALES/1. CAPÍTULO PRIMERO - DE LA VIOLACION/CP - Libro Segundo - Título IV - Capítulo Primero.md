@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 205 CP|Artículo 205]] — Acceso carnal violento
-- [[art. 206 CP|Artículo 206]] — Acto sexual violento
-- [[art. 207 CP|Artículo 207]] — Acceso carnal o acto sexual en persona puesta en incapacidad de resistir
+- [[art. 205 CP|Artículo 205]] — ACCESO CARNAL VIOLENTO
+- [[art. 206 CP|Artículo 206]] — ACTO SEXUAL VIOLENTO
+- [[art. 207 CP|Artículo 207]] — ACCESO CARNAL O ACTO SEXUAL EN PERSONA PUESTA EN INCAPACIDAD DE RESISTIR
 
 ---
 ↑ [[CP - Libro Segundo - Título IV|Título IV]] · [[CP - Libro Segundo - Título IV - Capítulo Segundo|Capítulo Segundo]] →

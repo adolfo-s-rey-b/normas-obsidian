@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo I - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 557 CCo]]"
 siguiente: "[[art. 559 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#558"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,19 +33,11 @@ tags:
 
 ## Artículo 558. DE CUANDO SE PUEDE IMPETRAR EL OTORGAMIENTO DE UNA LICENCIA PARA LA EXPLOTACIÓN DE UNA PATENTE
 
-Vencido el término de tres años contados a partir de la concesión de una patente, o de cuatro desde la fecha de presentación de la solicitud, según sea el término que expire más tarde, toda persona podrá impetrar del juez el otorgamiento de una licencia para explotar esa patente si en el momento de su petición y salvo excusa legítima hubiere ocurrido alguno de los siguientes hechos:
+(Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
-1o. Que la invención patentada no haya sido explotada en el país o su explotación haya sido suspendida por más de un año;
+> [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-2o. Que la explotación no satisfaga, en condiciones razonables de cantidad, calidad o precio, la demanda del mercado nacional, y
-
-3o. Que el titular de la patente no haya concedido licencias contractuales en forma que el beneficiario de éstas pueda satisfacer la demanda del mercado nacional en condiciones razonables de cantidad, calidad y precio.
-
-**PARÁGRAFO 1 o.** Notificado el titular de la patente, podrá oponerse a la concesión de la licencia obligatoria. La importación del producto no constituirá excusa legítima.
-
-**PARÁGRAFO 2 o.** Se entiende por explotación la utilización permanente y estable de los procedimientos patentados o la elaboración del producto amparado por la patente, con el objeto de suministrar al mercado el resultado final en dichas condiciones razonables, siempre que tales hechos ocurran en Colombia.
-
-**PARÁGRAFO 3 o.** La licencia de que trata este artículo se denomina licencia obligatoria, no podrá ser exclusiva y en ningún caso dará derecho a importar el producto, a cederla o a otorgar sublicencias.
+> [!note] Notas de Vigencia: Ver Nota de Vigencia del Título II 'DE LA PROPIEDAD INDUSTRIAL' del Libro Tercero 'DE LOS BIENES MERCANTILES'. Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena.
 
 ---
 ← [[art. 557 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo I - Sección I|Sección I]] · [[art. 559 CCo]] →

@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 2|CAPÍTULO 2 - Del régimen departam
 vigencia: "vigente"
 anterior: "[[art. 297 CPol]]"
 siguiente: "[[art. 299 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#298"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -34,15 +39,11 @@ Los departamentos ejercen funciones administrativas, de coordinación, de comple
 
 La ley reglamentará lo relacionado con el ejercicio de las atribuciones que la Constitución les otorga.
 
-> [!note] Ver Ley 99 de 1993; Art. [[art. 64 Ley 99 de 1993|64]]
+> [!note] Concordancias: Ley 60 de 1993; Art. [[art. 3 Ley 99 de 1993|3]] Ley 99 de 1993; Art. [[art. 64 Ley 388 de 1997|64]] Ley 388 de 1997; Art. [[art. 7 Ley 80 de 1993|7]] Ley 80 de 1993; Art. [[art. 2 Ley 1454 de 2011|2]] , Numeral 1, literal a Ley 1454 de 2011 Ley 2200 de 2022
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 2 Ley 80 de 1993|2]], Numeral 1, literal a
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-517-92 ; C-004-93 ; C-126-93 ; C-172-2001 ; C-579-2001 ; C-1051-2001 ; C-1146-2001 ;
 
-> [!note] Ver Ley 715 de 2001; Art. [[art. 6 Ley 715 de 2001|6]]
-
-> [!note] Ver Ley 1454 de 2011
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-126-93; C-172-2001; C-579-2001 ; C-1051-2001; C-1146-2001
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 8, 23, 27, 35, 42, 43, 80, 106 y 107)
 
 ---
 ← [[art. 297 CPol]] · ↑ [[CPol - Título XI - Capítulo 2|Capítulo 2]] · [[art. 299 CPol]] →

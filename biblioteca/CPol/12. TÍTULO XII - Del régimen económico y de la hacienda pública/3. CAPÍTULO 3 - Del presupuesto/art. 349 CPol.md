@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XII - Capítulo 3|CAPÍTULO 3 - Del presupuesto]]"
 vigencia: "vigente"
 anterior: "[[art. 348 CPol]]"
 siguiente: "[[art. 350 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#349"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -32,9 +37,9 @@ Durante los tres primeros meses de cada legislatura, y estrictamente de acuerdo 
 
 Los cómputos de las rentas, de los recursos del crédito y los provenientes del balance del Tesoro, no podrán aumentarse por el Congreso sino con el concepto previo y favorable suscrito por el ministro del ramo.
 
-> [!note] Ver Ley 5 de 1992; Art.[[art. 119 Ley 5 de 1992|119]] Num. 3 Lit b); Art. [[art. 211 Ley 5 de 1992|211]] Inc. 4.; Art. [[art. 212 Ley 5 de 1992|212]]; Art. [[art. 215 Ley 5 de 1992|215]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 119 Ley 5 de 1992|119]] Num. 3 Lit b): Art. [[art. 211 Ley 5 de 1992|211]] Inc. 4o.: Art. [[art. 212 Ley 5 de 1992|212]] ; Art. [[art. 215 Ley 5 de 1992|215]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-017-93; C-069-93; C-206-93; C-261-93; C-271-93; C-337-93 ; C-416-93; C-409-2001; C-1064-2001 ; C-1065-2001; C-1249-2001
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-546-92 ; C-017-93 ; C-069-93 ; C-206-93 ; C-261-93 ; C-271-93 ; C-337-93 ; C-416-93 ; C-409-2001 ; C-1064-2001 ; C-1065-2001 ; C-1249-2001 ;
 
 ---
 ← [[art. 348 CPol]] · ↑ [[CPol - Título XII - Capítulo 3|Capítulo 3]] · [[art. 350 CPol]] →

@@ -1,0 +1,48 @@
+---
+aliases:
+  - "CCo SUBSECCIÓN III - CHEQUES ESPECIALES - <CHEQUE FISCAL>"
+tipo: indice
+norma: "Decreto 410 de 1971"
+sigla: "CCo"
+nivel: "SUBSECCIÓN"
+etiqueta: "III"
+nombre: "CHEQUES ESPECIALES - <CHEQUE FISCAL>"
+libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
+titulo: "[[CCo - Libro Tercero - Título III|TÍTULO III - DE LOS TÍTULOS VALORES]]"
+capitulo: "[[CCo - Libro Tercero - Título III - Capítulo V|CAPÍTULO V - DISTINTAS ESPECIES DE TÍTULOS-VALORES]]"
+seccion: "[[CCo - Libro Tercero - Título III - Capítulo V - Sección III|SECCIÓN III - CHEQUE]]"
+articulos: "arts. 734 a 751"
+tags:
+  - normas/indice
+  - normas/cco
+---
+
+[[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título III|Título III]] › [[CCo - Libro Tercero - Título III - Capítulo V|Capítulo V]] › [[CCo - Libro Tercero - Título III - Capítulo V - Sección III|Sección III]]
+
+## SUBSECCIÓN III - CHEQUES ESPECIALES - <CHEQUE FISCAL>
+
+*Arts. 734 a 751*
+
+### Contenido
+
+- [[art. 734 CCo|Artículo 734]] — CARACTERÍSTICAS DEL CHEQUE CRUZADO
+- [[art. 735 CCo|Artículo 735]] — CARACTERÍSTICAS Y EFECTOS DEL CRUZAMIENTO ESPECIAL Y EL GENERAL EN LOS CHEQUES
+- [[art. 736 CCo|Artículo 736]] — NO VALIDEZ DE BORRONES O CAMBIOS EN EL CRUZAMIENTO - VALIDEZ DE CAMBIOS Y SUPRESIONES
+- [[art. 737 CCo|Artículo 737]] — DEFINICIONES Y EFECTOS DEL CHEQUE CERTIFICADO
+- [[art. 738 CCo|Artículo 738]] — RESPONSABILIDAD DEL LIBRADO POR PAGO IRREGULAR
+- [[art. 739 CCo|Artículo 739]] — DEFINICIÓN Y EFECTOS DEL CHEQUE PARA A350 EN CUENTA
+- [[art. 740 CCo|Artículo 740]] — RESPONSABILIDAD CAMBIARIA DEL LIBRADO FRENTE AL TENEDOR EN LOS CHEQUES CERTIFICADOS
+- [[art. 741 CCo|Artículo 741]] — EXPRESIONES DEL LIBRADO QUE EQUIVALEN A CERTIFICACIÓN
+- [[art. 742 CCo|Artículo 742]] — PROHIBICIÓN DE REVOCACIÓN DE CHEQUE CERTIFICADO
+- [[art. 743 CCo|Artículo 743]] — EXPEDICIÓN DE CHEQUES CON PROVISIÓN GARANTIZADA
+- [[art. 744 CCo|Artículo 744]] — EXTINCIÓN DE LA GARANTÍA DE LA PREVISIÓN
+- [[art. 745 CCo|Artículo 745]] — EXPEDICIÓN DE CHEQUES POR PARTE DEL BANCO A CARGO DE SUS PROPIAS DEPENDENCIAS
+- [[art. 746 CCo|Artículo 746]] — CARACTERÍSTICAS DE LOS CHEQUES DE VIAJERO
+- [[art. 747 CCo|Artículo 747]] — FORMALIDAD PARA LA NEGOCIACIÓN DE UN CHEQUE VIAJERO
+- [[art. 748 CCo|Artículo 748]] — ENTREGA POR PARTE DEL LIBRADOR DE LISTADO DE SUCURSALES O CORRESPONSALES DONDE PUEDA SER COBRADO EL CHEQUE VIAJERO
+- [[art. 749 CCo|Artículo 749]] — SANCIONES POR FALTA DE PAGO DE UN CHEQUE VIAJERO
+- [[art. 750 CCo|Artículo 750]] — AVALISTA DEL LIBRADOR DE UN CHEQUE VIAJERO
+- [[art. 751 CCo|Artículo 751]] — PRESCRIPCIÓN DE LAS ACCIONES SOBRE QUIEN EXPIDA CHEQUE VIAJERO
+
+---
+← [[CCo - Libro Tercero - Título III - Capítulo V - Sección III - Subsección II|Subsección II]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo V - Sección III|Sección III]]

@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección V|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 407 CCo]]"
 siguiente: "[[art. 409 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#408"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 408. NEGOCIACIÓN DE ACCIONES CUYA PROPIEDAD ESTE EN LITIGIO
 
 Para enajenar acciones cuya propiedad esté en litigio, se necesitará permiso del respectivo juez; tratándose de acciones embargadas se requerirá, además, la autorización de la parte actora.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 1 Decreto 2282 de 1989|1]]o., numeral 339, del Decreto 2282 de 1989, modificatorio del artículo [[art. 681 CPC|681]] l Código de Procedimiento Civil, el cual establece el procedimiento para efectuar los embargos, entre otros (numeral 6), el de acciones en sociedades anónimas y establece: '... El embargo se considerará perfeccionado desde la fecha de recibo del oficio y a partir de ésta no podrá aceptarse ni autorizarse transferencia ni gravamen alguno'.
 
 ---
 ← [[art. 407 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II - Sección V|Sección V]] · [[art. 409 CCo]] →

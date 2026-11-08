@@ -1,0 +1,31 @@
+---
+aliases:
+  - "Ley 1996 de 2019 CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS"
+tipo: indice
+norma: "Ley 1996 de 2019"
+nivel: "CAPÍTULO"
+etiqueta: "III"
+nombre: "ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS"
+articulos: "arts. 15 a 20"
+tags:
+  - normas/indice
+  - normas/ley_1996_de_2019
+---
+
+[[Ley 1996 de 2019|Ley 1996 de 2019]]
+
+## CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS
+
+*Arts. 15 a 20*
+
+### Contenido
+
+- [[art. 15 Ley 1996 de 2019|Artículo 15]] — ACUERDOS DE APOYO
+- [[art. 16 Ley 1996 de 2019|Artículo 16]] — ACUERDOS DE APOYO POR ESCRITURA PÚBLICA ANTE NOTARIO
+- [[art. 17 Ley 1996 de 2019|Artículo 17]] — ACUERDOS DE APOYO ANTE CONCILIADORES EXTRAJUDICIALES EN DERECHO
+- [[art. 18 Ley 1996 de 2019|Artículo 18]] — DURACIÓN DE LOS ACUERDOS DE APOYO
+- [[art. 19 Ley 1996 de 2019|Artículo 19]] — ACUERDOS DE APOYO COMO REQUISITO DE VALIDEZ PARA LA REALIZACIÓN DE ACTOS JURÍDICOS
+- [[art. 20 Ley 1996 de 2019|Artículo 20]] — TERMINACIÓN Y MODIFICACIÓN DEL ACUERDO DE APOYOS
+
+---
+← [[Ley 1996 de 2019 - Capítulo II|Capítulo II]] · ↑ [[Ley 1996 de 2019|Ley 1996 de 2019]] · [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]] →

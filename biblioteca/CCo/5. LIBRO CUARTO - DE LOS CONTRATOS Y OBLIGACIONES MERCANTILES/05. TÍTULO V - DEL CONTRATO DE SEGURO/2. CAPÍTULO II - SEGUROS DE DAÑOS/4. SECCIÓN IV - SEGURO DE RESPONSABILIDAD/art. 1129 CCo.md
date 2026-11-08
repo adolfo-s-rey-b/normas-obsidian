@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo II - Sección IV|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 1128 CCo]]"
 siguiente: "[[art. 1130 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1129"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 1129. NULIDAD ABSOLUTA DEL SEGURO DE RESPONSABILIDAD
 
 Será nulo, de nulidad absoluta, el seguro de responsabilidad profesional cuando la profesión y su ejercicio no gocen de la tutela del Estado o cuando, al momento de celebrarse el contrato, el asegurado no sea legalmente hábil para ejercer la profesión.
+
+(NULIDAD ABSOLUTA DEL SEGURO DE RESPONSABILIDAD)
 
 ---
 ← [[art. 1128 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección IV|Sección IV]] · [[art. 1130 CCo]] →

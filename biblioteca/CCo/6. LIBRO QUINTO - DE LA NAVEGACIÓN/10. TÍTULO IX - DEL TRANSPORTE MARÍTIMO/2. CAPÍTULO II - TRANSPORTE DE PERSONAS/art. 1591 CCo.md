@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título IX - Capítulo II|CAPÍTULO II - TRANS
 vigencia: "vigente"
 anterior: "[[art. 1590 CCo]]"
 siguiente: "[[art. 1592 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1591"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Cuando el nombre de la nave sea condición esencial del contrato, podrá el pasajero cumplir el viaje en otra que sustituya a la designada o desistir del contrato.
 
-No obstante, la mera designación de la nave en el billete o boleto no privará al transportador de la facultad que le concede el artículo [[art. 1580 CCo|1580]], si la nave sustituta permite que el transporte pueda efectuarse en las condiciones pactadas y no se causa con ello perjuicio al pasajero.
+No obstante, la mera designación de la nave en el billete o boleto no privará al transportador de la facultad que le concede el artículo [[art. 1580 CCo|1580]] , si la nave sustituta permite que el transporte pueda efectuarse en las condiciones pactadas y no se causa con ello perjuicio al pasajero.
 
 ---
 ← [[art. 1590 CCo]] · ↑ [[CCo - Libro Quinto - Título IX - Capítulo II|Capítulo II]] · [[art. 1592 CCo]] →

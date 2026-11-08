@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo I|CAPÍTULO I - PRINCIPI
 vigencia: "vigente"
 anterior: "[[art. 1037 CCo]]"
 siguiente: "[[art. 1039 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1038"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 Si el tomador estipula el seguro en nombre de un tercero sin poder para representarlo, el asegurado puede ratificar el contrato aún después de ocurrido el siniestro. El tomador está obligado personalmente a cumplir las obligaciones derivadas del contrato, hasta el momento en que el asegurador haya tenido noticia de la ratificación o del rechazo de dicho contrato por el asegurado.
 
-Desde el momento en que el asegurador haya recibido la noticia de rechazo, cesarán los riesgos a su cargo y el tomador quedará liberado de sus obligaciones, sin perjuicio de lo dispuesto en el artículo [[art. 1119 CCo|1119]].
+Desde el momento en que el asegurador haya recibido la noticia de rechazo, cesarán los riesgos a su cargo y el tomador quedará liberado de sus obligaciones, sin perjuicio de lo dispuesto en el artículo [[art. 1119 CCo|1119]] .
 
 ---
 ← [[art. 1037 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo I|Capítulo I]] · [[art. 1039 CCo]] →

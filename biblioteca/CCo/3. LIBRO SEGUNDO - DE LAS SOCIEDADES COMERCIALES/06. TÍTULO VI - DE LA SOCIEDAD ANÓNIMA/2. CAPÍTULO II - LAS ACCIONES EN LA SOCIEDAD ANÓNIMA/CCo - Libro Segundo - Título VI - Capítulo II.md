@@ -21,6 +21,8 @@ tags:
 
 *Arts. 377 a 418*
 
+> [!note] Notas del Editor: En criterio del editor, este Capítulo debe interpretarse en el marco jurídico del mercado público de valores, reglamentado entre otras disposiciones por la Ley 32 de 1979, la Ley 35 de 1993, la Resolución 400 de 1995 Única de la Sala General de la Superintendencia de Valores, y la Resolución 1200 de 1995 Única del Superintendente de Valores.
+
 ### Contenido
 
 - [[CCo - Libro Segundo - Título VI - Capítulo II - Sección I|SECCIÓN I - EMISIÓN DE ACCIONES]] (arts. 377 a 383)

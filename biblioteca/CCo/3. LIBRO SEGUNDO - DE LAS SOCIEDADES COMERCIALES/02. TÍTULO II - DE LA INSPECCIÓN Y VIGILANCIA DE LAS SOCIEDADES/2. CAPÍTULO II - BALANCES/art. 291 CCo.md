@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Segundo - Título II - Capítulo II|CAPÍTULO II - BALA
 vigencia: "vigente"
 anterior: "[[art. 290 CCo]]"
 siguiente: "[[art. 292 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#291"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -38,6 +42,8 @@ Al balance y a la cuenta de resultados se anexarán las siguientes informaciones
 4\. Un estudio de las cuentas que hayan tenido modificaciones de importancia en relación con el balance anterior, y
 
 5\. Los índices de solvencia, rendimiento y liquidez con un análisis comparativo de dichos índices en relación con los dos últimos ejercicios.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 36 Ley 222 de 1995|36]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, que trata de las notas a los estados financieros, su indivisibilidad de los mismos, y de las normas para su preparación, remitiendo a los principios de contabilidad generalmente aceptados.
 
 ---
 ← [[art. 290 CCo]] · ↑ [[CCo - Libro Segundo - Título II - Capítulo II|Capítulo II]] · [[art. 292 CCo]] →

@@ -16,8 +16,12 @@ capitulo: "[[CPol - Título X - Capítulo 2|CAPÍTULO 2 - Del Ministerio Públic
 vigencia: "vigente"
 anterior: "[[art. 275 CPol]]"
 siguiente: "[[art. 277 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#276"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,9 +32,13 @@ tags:
 
 ## Artículo 276
 
-El Procurador General de la Nación será elegido por el Senado, para un periodo de cuatro años, de terna integrada por candidatos del Presidente de la República, la Corte Suprema de Justicia y el Consejo de Estado.
+El Procurador General de la Nación será elegido por el Senado, para un período de cuatro años, de terna integrada por candidatos del Presidente de la República, la Corte Suprema de Justicia y el Consejo de Estado.
 
-> [!note] Ver Decreto Ley 262 de 2000; Art. [[art. 3 Decreto 262 de 2000|3]] ; Art. [[art. 4 Decreto 262 de 2000|4]] ; Art. [[art. 5 Decreto 262 de 2000|5]] ; Art. [[art. 6 Decreto 262 de 2000|6]] ; Art. [[art. 7 Decreto 262 de 2000|7]]
+> [!note] Concordancias: Ley 201 de 1995; Art. [[art. 3 Decreto 262 de 2000|3]] Decreto Ley 262 de 2000; Art. [[art. 3 Decreto 262 de 2000|3]] ; Art. [[art. 4 Decreto 262 de 2000|4]] ; Art. [[art. 5 Decreto 262 de 2000|5]] ; Art. [[art. 6 Decreto 262 de 2000|6]] ; Art. [[art. 7 Decreto 262 de 2000|7]]
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional C-146-2001 ; C-365-2001 ; C-429-2001 ; C-507-2001 ; C-1105-2001 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 8, 22, 27 y 69)
 
 ---
 ← [[art. 275 CPol]] · ↑ [[CPol - Título X - Capítulo 2|Capítulo 2]] · [[art. 277 CPol]] →

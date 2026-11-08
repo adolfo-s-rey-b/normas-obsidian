@@ -17,7 +17,7 @@ anterior: "[[art. 1300 CC]]"
 siguiente: "[[art. 1302 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,8 +29,6 @@ tags:
 ## Artículo 1301. ACTOS DE HEREDERO
 
 La enajenación de cualquier efecto hereditario, aun para objeto de administración urgente, es acto de heredero, si no ha sido autorizada por el juez, a petición del heredero, protestando éste que no es su ánimo obligarse en calidad de tal.
-
-(sic)
 
 ---
 ← [[art. 1300 CC]] · ↑ [[CC - Libro Tercero - Título VII - Capítulo II|Capítulo II]] · [[art. 1302 CC]] →

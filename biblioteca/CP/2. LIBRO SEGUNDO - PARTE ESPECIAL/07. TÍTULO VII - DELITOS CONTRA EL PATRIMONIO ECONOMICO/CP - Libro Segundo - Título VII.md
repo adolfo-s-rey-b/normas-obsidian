@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[CP - Libro Segundo - Título VII - Capítulo Primero|CAPÍTULO PRIMERO - DEL HURTO]] (arts. 239 a 243)
+- [[CP - Libro Segundo - Título VII - Capítulo Primero|CAPÍTULO PRIMERO - DEL HURTO]] (arts. 239 a 243B)
 - [[CP - Libro Segundo - Título VII - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LA EXTORSION]] (arts. 244 a 245)
 - [[CP - Libro Segundo - Título VII - Capítulo Tercero|CAPÍTULO TERCERO - DE LA ESTAFA]] (arts. 246 a 247)
 - [[CP - Libro Segundo - Título VII - Capítulo Cuarto|CAPÍTULO CUARTO - FRAUDE MEDIANTE CHEQUE]] (art. 248)

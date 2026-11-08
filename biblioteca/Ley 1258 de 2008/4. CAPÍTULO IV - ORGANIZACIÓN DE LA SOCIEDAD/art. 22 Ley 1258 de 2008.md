@@ -1,0 +1,35 @@
+---
+aliases:
+  - "Ley 1258 de 2008 art. 22"
+tipo: articulo
+norma: "Ley 1258 de 2008"
+articulo: "22"
+epigrafe: "QUÓRUM Y MAYORÍAS EN LA ASAMBLEA DE ACCIONISTAS"
+capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
+vigencia: "vigente"
+anterior: "[[art. 21 Ley 1258 de 2008]]"
+siguiente: "[[art. 23 Ley 1258 de 2008]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1258_2008.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/ley_1258_de_2008
+  - vigencia/vigente
+---
+
+[[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
+
+## Artículo 22. QUÓRUM Y MAYORÍAS EN LA ASAMBLEA DE ACCIONISTAS
+
+Salvo estipulación en contrario, la asamblea deliberará con uno o varios accionistas que representen cuando menos la mitad más una de las acciones suscritas.
+
+Las determinaciones se adoptarán mediante el voto favorable de un número singular o plural de accionistas que represente cuando menos la mitad más una de las acciones presentes, salvo que en los estatutos se prevea una mayoría decisoria superior para algunas o todas las decisiones.
+
+**PARÁGRAFO.** En las sociedades con accionista único las determinaciones que le correspondan a la asamblea serán adoptadas por aquel. En estos casos, el accionista dejará constancia de tales determinaciones en actas debidamente asentadas en el libro correspondiente de la sociedad.
+
+---
+← [[art. 21 Ley 1258 de 2008]] · ↑ [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]] · [[art. 23 Ley 1258 de 2008]] →

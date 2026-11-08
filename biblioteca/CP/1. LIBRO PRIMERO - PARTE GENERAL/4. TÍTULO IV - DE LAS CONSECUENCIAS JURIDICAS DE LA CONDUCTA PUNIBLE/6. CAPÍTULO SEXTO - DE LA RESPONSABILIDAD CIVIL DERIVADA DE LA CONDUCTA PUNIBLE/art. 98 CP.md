@@ -8,15 +8,19 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "98"
-epigrafe: "Prescripcion"
+epigrafe: "PRESCRIPCIÓN"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Sexto|CAPÍTULO SEXTO - DE LA RESPONSABILIDAD CIVIL DERIVADA DE LA CONDUCTA PUNIBLE]]"
 vigencia: "vigente"
 anterior: "[[art. 97 CP]]"
 siguiente: "[[art. 99 CP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#98"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2003
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -25,9 +29,11 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Sexto|Capítulo Sexto]]
 
-## Artículo 98. Prescripcion
+## Artículo 98. PRESCRIPCIÓN
 
-La acción civil proveniente de la conducta punible, cuando se ejercita dentro del proceso penal, prescribe, en relación con los penalmente responsables, en tiempo igual al de la prescripción de la respectiva acción penal. En los demas casos, se aplicaran las normas pertinentes de la legislación civil.
+La acción civil proveniente de la conducta punible, cuando se ejercita dentro del proceso penal, prescribe, en relación con los penalmente responsables, en tiempo igual al de la prescripción de la respectiva acción penal. En los demás casos, se aplicarán las normas pertinentes de la legislación civil.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-570-03 de 3 de julio de 2003, Magistrado Ponente Dr. Marco Gerardo Monroy Cabra.
 
 ---
 ← [[art. 97 CP]] · ↑ [[CP - Libro Primero - Título IV - Capítulo Sexto|Capítulo Sexto]] · [[art. 99 CP]] →

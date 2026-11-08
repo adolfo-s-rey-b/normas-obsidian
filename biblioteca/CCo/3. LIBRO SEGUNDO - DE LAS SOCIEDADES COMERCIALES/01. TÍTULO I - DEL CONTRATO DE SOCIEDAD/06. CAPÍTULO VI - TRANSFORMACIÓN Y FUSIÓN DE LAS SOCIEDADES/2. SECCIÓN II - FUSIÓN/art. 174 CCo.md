@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título I - Capítulo VI - Sección II|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 173 CCo]]"
 siguiente: "[[art. 175 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#174"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,9 @@ tags:
 
 ## Artículo 174. PUBLICACIÓN DE LA FUSIÓN
 
-Los representantes legales de las sociedades interesadas darán a conocer al público la aprobación del compromiso, mediante aviso publicado en un diario de amplia circulación nacional. Dicho aviso deberá contener:1) Los nombres de las compañías participantes, sus domicilios y el capital social, o el suscrito y el pagado, en su caso;
+Los representantes legales de las sociedades interesadas darán a conocer al público la aprobación del compromiso, mediante aviso publicado en un diario de amplia circulación nacional. Dicho aviso deberá contener:
+
+1\. Los nombres de las compañías participantes, sus domicilios y el capital social, o el suscrito y el pagado, en su caso;
 
 2\. El valor de los activos y pasivos de las sociedades que serán absorbidas y de la absorbente, y
 

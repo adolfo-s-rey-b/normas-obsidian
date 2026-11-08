@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo V|CAPÍTULO V - MATRICES Y 
 vigencia: "vigente"
 anterior: "[[art. 31 Ley 222 de 1995]]"
 siguiente: "[[art. 33 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#32"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -24,7 +28,7 @@ tags:
 
 El artículo [[art. 262 CCo|262]] del Código de Comercio quedará así:
 
-Artículo [[art. 262 Ley 222 de 1995|262]]. Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
+ARTICULO 262. Las sociedades subordinadas no podrán tener a ningún título, partes de interés, cuotas o acciones en las sociedades que las dirijan o controlen. Serán ineficaces los negocios que se celebren, contrariando lo dispuesto en este artículo.
 
 ---
 ← [[art. 31 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo V|Capítulo V]] · [[art. 33 Ley 222 de 1995]] →

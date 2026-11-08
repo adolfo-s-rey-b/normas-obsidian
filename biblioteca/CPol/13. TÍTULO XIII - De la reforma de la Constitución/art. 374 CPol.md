@@ -15,8 +15,13 @@ titulo: "[[CPol - Título XIII|TÍTULO XIII - De la reforma de la Constitución]
 vigencia: "vigente"
 anterior: "[[art. 373 CPol]]"
 siguiente: "[[art. 375 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#374"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2021
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,13 +34,11 @@ tags:
 
 La Constitución Política podrá ser reformada por el Congreso, por una Asamblea Constituyente o por el pueblo mediante referendo.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 218 Ley 5 de 1992|218]]; Art. [[art. 219 Ley 5 de 1992|219]]; Art. [[art. 376 Ley 5 de 1992|376]] Inc. 1
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 218 Ley 5 de 1992|218]] ; Art. [[art. 219 Ley 5 de 1992|219]] ; Art. [[art. 376 Ley 796 de 2003|376]] Inc. 1 Ley 796 de 2003 Ley 1757 de 2015
 
-> [!note] Ver Ley 796 de 2003
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-454-93 ; C-059-2001 ; C-507-2001 ; C-1052-01 ; C-551-03 ; C-141-10 ; C-140-20 ; C-294-21 ;
 
-> [!note] Ver Ley 1757 de 2015
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-454-93 ; C-059-2001; C-507-2001; C-551-03 ; C-141-10
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 4, 5, 9, 10, 52, 63 y 81)
 
 ---
 ← [[art. 373 CPol]] · ↑ [[CPol - Título XIII|Título XIII]] · [[art. 375 CPol]] →

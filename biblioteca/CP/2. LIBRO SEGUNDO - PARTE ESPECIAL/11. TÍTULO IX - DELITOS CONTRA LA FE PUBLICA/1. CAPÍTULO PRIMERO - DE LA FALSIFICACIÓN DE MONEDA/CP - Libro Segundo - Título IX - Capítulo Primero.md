@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 273 CP|Artículo 273]] — Falsificación de moneda nacional o extranjera
-- [[art. 274 CP|Artículo 274]] — Trafico de moneda falsificada
-- [[art. 275 CP|Artículo 275]] — Trafico, elaboración y tenencia de elementos destinados a la falsificación de moneda
-- [[art. 276 CP|Artículo 276]] — Emisiones ilegales
-- [[art. 277 CP|Artículo 277]] — Circulación ilegal de monedas
+- [[art. 273 CP|Artículo 273]] — FALSIFICACIÓN DE MONEDA NACIONAL O EXTRANJERA
+- [[art. 274 CP|Artículo 274]] — TRAFICO DE MONEDA FALSIFICADA
+- [[art. 275 CP|Artículo 275]] — TRAFICO, ELABORACIÓN Y TENENCIA DE ELEMENTOS DESTINADOS A LA FALSIFICACIÓN DE MONEDA
+- [[art. 276 CP|Artículo 276]] — EMISIONES ILEGALES
+- [[art. 277 CP|Artículo 277]] — CIRCULACIÓN ILEGAL DE MONEDAS
 - [[art. 278 CP|Artículo 278]] — Valores equiparados a moneda
 
 ---

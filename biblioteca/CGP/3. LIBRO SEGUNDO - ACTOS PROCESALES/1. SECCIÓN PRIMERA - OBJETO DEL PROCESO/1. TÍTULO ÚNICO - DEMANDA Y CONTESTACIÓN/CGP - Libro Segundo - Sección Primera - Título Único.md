@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - Demanda]] (arts. 82 a 95)
-- [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - Contestación]] (arts. 96 a 99)
-- [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo III|CAPÍTULO III - Excepciones Previas]] (arts. 100 a 102)
+- [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - DEMANDA]] (arts. 82 a 95)
+- [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo II|CAPÍTULO II - CONTESTACIÓN]] (arts. 96 a 99)
+- [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo III|CAPÍTULO III - EXCEPCIONES PREVIAS]] (arts. 100 a 102)
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Primera|Sección Primera]]

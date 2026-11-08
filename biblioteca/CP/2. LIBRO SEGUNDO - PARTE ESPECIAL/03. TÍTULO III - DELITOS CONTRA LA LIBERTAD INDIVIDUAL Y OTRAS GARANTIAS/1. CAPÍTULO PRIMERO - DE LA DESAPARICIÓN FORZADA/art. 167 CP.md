@@ -16,7 +16,10 @@ vigencia: "vigente"
 anterior: "[[art. 166 CP]]"
 siguiente: "[[art. 168 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#167"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp

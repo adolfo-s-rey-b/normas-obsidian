@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 86 Ley 45 de 1990]]"
 anterior: "[[art. 1130 CCo]]"
 siguiente: "[[art. 1132 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1131"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,13 +35,13 @@ tags:
 
 ## Artículo 1131. OCURRENCIA DEL SINIESTRO
 
-> [!info] Modificado por el art. [[art. 86 Ley 45 de 1990|86]], Ley 45 de 1990
+> [!info] Artículo subrogado por el artículo [[art. 86 Ley 45 de 1990|86]] de la Ley 45 de 1990. El nuevo texto es el siguiente:
 
-El nuevo texto es el siguiente En el seguro de responsabilidad se entenderá ocurrido el siniestro en el momento en que acaezca el hecho externo imputable al asegurado, fecha a partir de la cual correrá la prescripción respecto de la víctima. Frente al asegurado ello ocurrirá desde cuando la víctima le formula la petición judicial o extrajudicial.
+En el seguro de responsabilidad se entenderá ocurrido el siniestro en el momento en que acaezca el hecho externo imputable al asegurado, fecha a partir de la cual correrá la prescripción respecto de la víctima. Frente al asegurado ello ocurrirá desde cuando la víctima le formula la petición judicial o extrajudicial.
 
-Texto anterior:
+> [!info] Notas de Vigencia: Artículo subrogado por el artículo 86 de la Ley 45 de diciembre 18 de 1990, publicada en el Diario Oficial No. 39.607, del 19 de diciembre de 1990.
 
-Se entenderá ocurrido el siniestro desde el momento en que acaezca el hecho externo imputable al asegurado. Pero la responsabilidad del asegurador, si es que surge del respectivo contrato de seguro, sólo podrá hacerse efectiva, cuando el damnificado o sus causahabientes demanden judicial o extrajudicialmente la indemnización.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Apartes subrayados declarados EXEQUIBLES, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-388-08 de 22 de abril de 2008, Magistrado Ponente Dr. Clara Inés Vargas Hernández.
 
 ---
 ← [[art. 1130 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo II - Sección IV|Sección IV]] · [[art. 1132 CCo]] →

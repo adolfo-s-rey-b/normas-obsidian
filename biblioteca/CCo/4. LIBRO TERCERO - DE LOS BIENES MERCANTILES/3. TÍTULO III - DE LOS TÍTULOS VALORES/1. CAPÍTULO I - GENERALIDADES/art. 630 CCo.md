@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Tercero - Título III - Capítulo I|CAPÍTULO I - GENER
 vigencia: "vigente"
 anterior: "[[art. 629 CCo]]"
 siguiente: "[[art. 631 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#630"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 630. PROHIBICIONES AL TENOR DE CAMBIO EN LA FORMA DE CIRCULACIÓN DE UN TÍTULO-VALOR
 
-El tenedor de un título-valor no podrá cambiar su forma de circulación sin consentimiento del creador del título.
+El tenedor del un título-valor no podrá cambiar su forma de circulación sin consentimiento del creador del título.
 
 ---
 ← [[art. 629 CCo]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo I|Capítulo I]] · [[art. 631 CCo]] →

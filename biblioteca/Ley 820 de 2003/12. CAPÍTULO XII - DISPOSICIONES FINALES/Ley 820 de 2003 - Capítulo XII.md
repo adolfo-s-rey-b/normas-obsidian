@@ -1,0 +1,28 @@
+---
+aliases:
+  - "Ley 820 de 2003 CAPÍTULO XII - DISPOSICIONES FINALES"
+tipo: indice
+norma: "Ley 820 de 2003"
+nivel: "CAPÍTULO"
+etiqueta: "XII"
+nombre: "DISPOSICIONES FINALES"
+articulos: "arts. 41 a 43"
+tags:
+  - normas/indice
+  - normas/ley_820_de_2003
+---
+
+[[Ley 820 de 2003|Ley 820 de 2003]]
+
+## CAPÍTULO XII - DISPOSICIONES FINALES
+
+*Arts. 41 a 43*
+
+### Contenido
+
+- [[art. 41 Ley 820 de 2003|Artículo 41]] — FOMENTO A LA INVERSIÓN
+- [[art. 42 Ley 820 de 2003|Artículo 42]] — RÉGIMEN APLICABLE A LOS CONTRATOS EN EJECUCIÓN
+- [[art. 43 Ley 820 de 2003|Artículo 43]] — TRÁNSITO DE LEGISLACIÓN, VIGENCIA Y DEROGATORIA
+
+---
+← [[Ley 820 de 2003 - Capítulo XI|Capítulo XI]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]]

@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 446 de 1998|Artículo 1]] — Del apoyo de los estudiantes a los despachos judiciales
+- [[art. 1 Ley 446 de 1998|Artículo 1]] — DEL APOYO DE LOS ESTUDIANTES A LOS DESPACHOS JUDICIALES
 
 ---
 ↑ [[Ley 446 de 1998 - Parte I - Título I|Título I]] · [[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|Capítulo 2]] →

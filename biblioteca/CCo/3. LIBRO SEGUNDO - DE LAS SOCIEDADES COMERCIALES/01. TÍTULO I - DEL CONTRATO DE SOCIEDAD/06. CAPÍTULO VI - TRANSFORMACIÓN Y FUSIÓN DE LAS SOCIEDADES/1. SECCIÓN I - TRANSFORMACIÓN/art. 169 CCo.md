@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título I - Capítulo VI - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 168 CCo]]"
 siguiente: "[[art. 170 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#169"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,6 +33,8 @@ tags:
 ## Artículo 169. MODIFICACIÓN DE LA RESPONSABILIDAD EN LA TRANSFORMACIÓN
 
 Si en virtud de la transformación se modifica la responsabilidad de los socios frente a terceros, dicha modificación no afectará las obligaciones contraídas por la sociedad con anterioridad a la inscripción del acuerdo de transformación en el registro mercantil.
+
+> [!note] Notas del Editor: El artículo [[art. 16 Ley 222 de 1995|16]] , parágrafo, de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, establece límites a la responsabilidad de los socios colectivos que ejerzan el derecho de retiro, y fija un término de un año para la cesación de dicha responsabilidad.
 
 ---
 ← [[art. 168 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VI - Sección I|Sección I]] · [[art. 170 CCo]] →

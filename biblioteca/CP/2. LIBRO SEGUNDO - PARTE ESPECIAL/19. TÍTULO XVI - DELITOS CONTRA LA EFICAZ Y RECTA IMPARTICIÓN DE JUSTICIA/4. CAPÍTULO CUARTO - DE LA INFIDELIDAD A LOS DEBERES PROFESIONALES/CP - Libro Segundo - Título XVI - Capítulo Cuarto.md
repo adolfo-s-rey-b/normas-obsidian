@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 445 CP|Artículo 445]] — Infidelidad a los deberes profesionales
+- [[art. 445 CP|Artículo 445]] — INFIDELIDAD A LOS DEBERES PROFESIONALES
 
 ---
 ← [[CP - Libro Segundo - Título XVI - Capítulo Tercero|Capítulo Tercero]] · ↑ [[CP - Libro Segundo - Título XVI|Título XVI]] · [[CP - Libro Segundo - Título XVI - Capítulo Sexto|Capítulo Sexto]] →

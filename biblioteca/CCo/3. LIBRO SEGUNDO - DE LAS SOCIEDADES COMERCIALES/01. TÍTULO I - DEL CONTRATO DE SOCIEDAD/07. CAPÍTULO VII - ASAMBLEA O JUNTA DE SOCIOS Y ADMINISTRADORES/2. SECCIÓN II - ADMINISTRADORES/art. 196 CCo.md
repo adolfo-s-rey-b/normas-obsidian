@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 195 CCo]]"
 siguiente: "[[art. 197 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#196"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2008
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -33,6 +38,8 @@ La representación de la sociedad y la administración de sus bienes y negocios 
 A falta de estipulaciones, se entenderá que las personas que representan a la sociedad podrán celebrar o ejecutar todos los actos y contratos comprendidos dentro del objeto social o que se relacionen directamente con la existencia y el funcionamiento de la sociedad.
 
 Las limitaciones o restricciones de las facultades anteriores que no consten expresamente en el contrato social inscrito en el registro mercantil no serán oponibles a terceros.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo, inciso final por ineptitud de la demanda, mediante Sentencia C-190-08 de 27 de febrero de 2008, Magistrado Ponente Dr. Marco Gerardo Monroy Cabra.
 
 ---
 ← [[art. 195 CCo]] · ↑ [[CCo - Libro Segundo - Título I - Capítulo VII - Sección II|Sección II]] · [[art. 197 CCo]] →

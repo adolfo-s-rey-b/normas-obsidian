@@ -17,7 +17,12 @@ modificado_por:
 anterior: "[[art. 391 CST]]"
 siguiente: "[[art. 392 CST]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#391-1"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "solo en DAFP"
+reforma_mas_reciente: 2006
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst

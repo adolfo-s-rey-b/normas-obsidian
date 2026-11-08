@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Quinto - Título IX - Capítulo III - Sección III|SECCI
 vigencia: "vigente"
 anterior: "[[art. 1656 CCo]]"
 siguiente: "[[art. 1658 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1657"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,7 +32,7 @@ tags:
 
 ## Artículo 1657. FIJACIÓN DE TÉRMINO DE ESTADÍA PARA CARGUE O DESCARGUE
 
-El término de estadía, salvo pacto, reglamento o costumbre en contrario, será fijado por el capitán del puerto, teniendo en cuenta los medios disponibles en el lugar de cargue o descargue, la estructura de la nave la naturaleza del cargamento.
+eL término de estadía, salvo pacto, reglamento o costumbre en contrario, será fijado por el capitán del puerto, teniendo en cuenta los medios disponibles en el lugar de cargue o descargue, la estructura de la nave la naturaleza del cargamento.
 
 Tal término será comunicado oportunamente a quien deba entregar o recibir las cosas.
 

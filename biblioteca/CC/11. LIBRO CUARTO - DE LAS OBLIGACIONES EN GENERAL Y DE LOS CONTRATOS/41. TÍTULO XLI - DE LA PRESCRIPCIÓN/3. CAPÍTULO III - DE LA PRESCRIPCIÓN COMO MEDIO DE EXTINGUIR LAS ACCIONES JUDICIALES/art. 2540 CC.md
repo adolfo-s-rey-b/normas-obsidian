@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2539 CC]]"
 siguiente: "[[art. 2541 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2005
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,9 @@ tags:
 
 ## Artículo 2540. EFECTOS DE LA INTERRUPCIÓN RESPECTO A CODEUDORES Y COACREEDORES
 
-<Artículo modificado por el artículo [[art. 9 Ley 791 de 2002|9]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> La interrupción que obra a favor de uno o varios coacreedores, no aprovecha a los otros, ni la que obra en perjuicio de uno o varios codeudores, perjudica a los otros, a menos que haya solidaridad, y no se haya esta renunciado en los términos del artículo [[art. 1573 CC|1573]], o que la obligación sea indivisible.
+La interrupción que obra a favor de uno o varios coacreedores, no aprovecha a los otros, ni la que obra en perjuicio de uno o varios codeudores, perjudica a los otros, a menos que haya solidaridad, y no se haya esta renunciado en los términos del artículo [[art. 1573 CC|1573]], o que la obligación sea indivisible.
+
+> [!info] Artículo modificado por el artículo [[art. 9 Ley 791 de 2002|9]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 9 Ley 791 de 2002|9]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002.
 

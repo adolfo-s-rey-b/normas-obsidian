@@ -21,8 +21,9 @@ modificado_por:
 anterior: "[[art. 2531 CC]]"
 siguiente: "[[art. 2533 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2014
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -35,7 +36,9 @@ tags:
 
 > [!note] Artículo CONDICIONALMENTE exequible
 
-<Artículo modificado por el artículo [[art. 6 Ley 791 de 2002|6]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> El lapso de tiempo necesario para adquirir por esta especie de prescripción, es de diez (10) años contra todo persona y no se suspende a favor de las enumerados en el artículo [[art. 2530 CC|2530]]
+El lapso de tiempo necesario para adquirir por esta especie de prescripción, es de diez (10) años contra todo persona y no se suspende a favor de las enumerados en el artículo [[art. 2530 CC|2530]]
+
+> [!info] Artículo modificado por el artículo [[art. 6 Ley 791 de 2002|6]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 6 Ley 791 de 2002|6]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002.
 

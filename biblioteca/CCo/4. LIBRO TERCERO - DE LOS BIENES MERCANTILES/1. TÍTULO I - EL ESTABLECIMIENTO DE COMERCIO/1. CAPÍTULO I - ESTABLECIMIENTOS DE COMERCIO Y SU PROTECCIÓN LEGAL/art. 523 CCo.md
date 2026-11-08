@@ -15,8 +15,13 @@ capitulo: "[[CCo - Libro Tercero - Título I - Capítulo I|CAPÍTULO I - ESTABLE
 vigencia: "vigente"
 anterior: "[[art. 522 CCo]]"
 siguiente: "[[art. 524 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#523"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1996
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -32,6 +37,8 @@ El arrendatario no podrá, sin la autorización expresa o tácita del arrendador
 El arrendatario podría subarrendar hasta la mitad los inmuebles, con la misma limitación.
 
 La cesión del contrato será válida cuando la autorice el arrendador {o sea consecuencia de la enajenación del respectivo establecimiento de comercio}.
+
+> [!note] Jurisprudencia Vigencia: Aparte subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-598-96 del 6 de noviembre de 1996
 
 ---
 ← [[art. 522 CCo]] · ↑ [[CCo - Libro Tercero - Título I - Capítulo I|Capítulo I]] · [[art. 524 CCo]] →

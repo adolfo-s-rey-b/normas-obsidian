@@ -15,12 +15,13 @@ capitulo: "[[CC - Libro Cuarto - Título XXIII - Capítulo IX|CAPÍTULO IX - DE 
 vigencia: "derogado"
 derogado_por:
   - "[[art. 2 Ley 45 de 1930]]"
-  - "[[art. 1 CC]]"
+  - "[[art. 1 Ley 45 de 1930]]"
 anterior: "[[art. 1930 CC]]"
 siguiente: "[[art. 1932 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1930
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,7 +34,7 @@ tags:
 
 > [!warning] Artículo derogado por el artículo [[art. 2 Ley 45 de 1930|2]] de la Ley 45 de 1930.
 
-> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 2 Ley 45 de 1930|2]] de la Ley 45 de 1930, publicada en el Diario Oficial No. 21.550, de 20 de noviembre de 1930. Ver artículo [[art. 1 CC|1]].
+> [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 2 Ley 45 de 1930|2]] de la Ley 45 de 1930, publicada en el Diario Oficial No. 21.550, de 20 de noviembre de 1930. Ver artículo [[art. 1 Ley 45 de 1930|1]].
 
 ---
 ← [[art. 1930 CC]] · ↑ [[CC - Libro Cuarto - Título XXIII - Capítulo IX|Capítulo IX]] · [[art. 1932 CC]] →

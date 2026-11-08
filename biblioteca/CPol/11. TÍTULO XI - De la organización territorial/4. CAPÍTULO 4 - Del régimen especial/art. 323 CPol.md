@@ -16,11 +16,18 @@ capitulo: "[[CPol - Título XI - Capítulo 4|CAPÍTULO 4 - Del régimen especial
 vigencia: "modificado"
 modificado_por:
   - "[[art. 1 Acto Legislativo 3 de 2019]]"
+  - "[[art. 323 CPol]]"
+  - "[[art. 1 Acto Legislativo 3 de 2007]]"
   - "[[art. 5 Acto Legislativo 2 de 2002]]"
 anterior: "[[art. 322 CPol]]"
 siguiente: "[[art. 324 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#323"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2022
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -33,6 +40,8 @@ tags:
 
 El Concejo Distrital se compondrá de cuarenta y cinco (45) concejales. En cada una de las localidades habrá una junta administradora elegida popularmente para períodos de cuatro (4) años que estará integrada por no menos de siete ediles, según lo determine el Concejo Distrital, atendida la población respectiva.
 
+> [!info] Artículo modificado por el artículo [[art. 1 Acto Legislativo 3 de 2019|1]] del Acto Legislativo 3 de 2019. El nuevo texto es el siguiente:
+
 El Alcalde Mayor será elegido para un período de cuatro años, por el 40 por ciento de los votos que, de manera secreta y directa, depositen los ciudadanos con las formalidades que determine la ley, siempre que sobrepase al segundo candidato más votado por 10 puntos porcentuales.
 
 Si ningún candidato obtiene dicha mayoría, se celebrará una nueva votación que tendrá lugar tres semanas más tarde, en la que solo participarán los dos candidatos que hubieren obtenido las más altas votaciones. Será declarado Alcalde Mayor quien obtenga el mayor número de votos, en la segunda vuelta.
@@ -43,31 +52,15 @@ Siempre que se presente falta absoluta a más de dieciocho (18) meses de la term
 
 En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al Alcalde Mayor. Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
 
-**PARÁGRAFO.** Los dos candidatos que participen en la segunda vuelta podrán ajustar, conforme los acuerdos programáticos que adelanten, su programa de Gobierno, el cual deberá públicarse en medio de amplia circulación ocho (8) días hábiles antes de la segunda vuelta.
+**PARÁGRAFO.** Los dos candidatos que participen en la segunda vuelta podrán ajustar, conforme los acuerdos programáticos que adelanten, su programa de Gobierno, el cual deberá publicarse en medio de amplia circulación ocho (8) días hábiles antes de la segunda vuelta.
 
-> [!info] Artículo modificado por el artículo [[art. 1 Acto Legislativo 3 de 2019|1]] del Acto Legislativo 3 de 2019.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 1 Acto Legislativo 3 de 2019|1]] del Acto Legislativo 3 de 2019, 'por el cual se modifica el artículo [[art. 323 CPol|323]] de la Constitución Política de Colombia y se establece la segunda vuelta para la Elección de Alcalde Mayor de Bogotá, Distrito Capital, Segunda Vuelta', publicado en el Diario Oficial No. 51.025 de 25 de julio 2019. - Inciso 1o. modificado por el artículo [[art. 1 Acto Legislativo 3 de 2007|1]] del Acto Legislativo 3 de 2007, publicado en el Diario Oficial No. 46.685 de 10 de julio de 2007. Rige a partir de las elecciones que se celebren en el año 2007. - Artículo modificado por el artículo [[art. 5 Acto Legislativo 2 de 2002|5]] del Acto Legislativo No. 2 de 2002 publicado en el Diario Oficial No. 44.893, de 07 de agosto de 2002.
 
-> [!info] Artículo modificado por el artículo [[art. 5 Acto Legislativo 2 de 2002|5]] del Acto Legislativo 2 de 2002
+> [!note] Concordancias: Ley 1 de 1992 Decreto Ley 1421 de 1993 Ley 80 de 1993; Art. [[art. 2 Ley 136 de 1994|2]] , Numeral 2, literal b Ley 136 de 1994; Art. [[art. 34 Ley 136 de 1994|34]] ; Arts. [[art. 119 Ley 617 de 2000|119]] a [[art. 140 Ley 617 de 2000|140]] Ley 617 de 2000; Art. [[art. 40 Ley 617 de 2000|40]] ; Art. [[art. 41 Ley 648 de 2001|41]] Ley 648 de 2001 Ley 1136 de 2007 Ley 1825 de 2017 Ley 1981 de 2019; Art. [[art. 2 Ley 1981 de 2019|2]] o.
 
-> [!note] Ver Decreto Ley 1421 de 1993
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-607-92 ; C-503-93 ; C-541-93 ; C-047-2001 ; C-554-2001 ; C-778-2001 ; C-896-2001 ; C-268-22 ;
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 2 Ley 80 de 1993|2]], Numeral 2, literal b
-
-> [!note] Ver Ley 136 de 1994; Art. [[art. 34 Ley 136 de 1994|34]]; Arts. [[art. 119 Ley 136 de 1994|119]] a [[art. 140 Ley 136 de 1994|140]]
-
-> [!note] Ver Ley 617 de 2000; Art. [[art. 40 Ley 617 de 2000|40]]; Art. [[art. 41 Ley 617 de 2000|41]]
-
-> [!note] Ver Ley 1981 de 2019; Art. [[art. 2 Ley 1981 de 2019|2]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-503-93; C-541-93; C-047-2001
-
-TEXTO ANTERIOR: El concejo distrital se compondrá de un concejal por cada ciento cincuenta mil habitantes o fracción mayor de setenta y cinco mil que tenga su territorio. En cada una de las localidades habrá una junta administradora, elegida popularmente para períodos de tres años, que estará integrada por no menos de siete ediles, según lo determine el concejo distrital, atendida la población respectiva.
-
-La elección de Alcalde Mayor, de concejales distritales y de ediles se hará en un mismo día para períodos de tres años. Los alcaldes locales serán designados por el Alcalde Mayor de terna enviada por la correspondiente junta administradora.
-
-En los casos taxativamente señalados por la ley, el Presidente de la República suspenderá o destituirá al Alcalde Mayor.
-
-Los concejales y los ediles no podrán hacer parte de las juntas directivas de las entidades descentralizadas.
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 80, 100 y 101)
 
 ---
 ← [[art. 322 CPol]] · ↑ [[CPol - Título XI - Capítulo 4|Capítulo 4]] · [[art. 324 CPol]] →

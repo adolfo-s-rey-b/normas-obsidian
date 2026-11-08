@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título XIII - Capítulo II|CAPÍTULO II - DER
 vigencia: "vigente"
 anterior: "[[art. 1270 CCo]]"
 siguiente: "[[art. 1272 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1271"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,6 +34,8 @@ tags:
 El mandatario no podrá emplear en sus propios negocios los fondos que le suministre el mandante y, si lo hace, abonará a éste el interés legal desde el día en que infrinja la prohibición y le indemnizará los daños que le cause, sin perjuicio de las sanciones penales correspondientes al abuso de confianza.
 
 La misma regla se aplicará cuando el mandatario dé a los dineros suministrados un destino distinto del expresamente indicado.
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Artículo declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia del 7 de julio de 1977.
 
 ---
 ← [[art. 1270 CCo]] · ↑ [[CCo - Libro Cuarto - Título XIII - Capítulo II|Capítulo II]] · [[art. 1272 CCo]] →

@@ -4,13 +4,17 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "62"
-epigrafe: "Conformación de la Comisión Nacional para la Moralización"
+epigrafe: "CONFORMACIÓN DE LA COMISIÓN NACIONAL PARA LA MORALIZACIÓN"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 61 Ley 1474 de 2011]]"
 siguiente: "[[art. 63 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#62"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -19,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 62. Conformación de la Comisión Nacional para la Moralización
+## Artículo 62. CONFORMACIÓN DE LA COMISIÓN NACIONAL PARA LA MORALIZACIÓN
 
 Créase la Comisión Nacional para la Moralización, integrada por:
 
@@ -46,8 +50,6 @@ j) El Director del Programa Presidencial de Modernización, Eficiencia, Transpar
 k) El Consejero Presidencial para el Buen Gobierno y la Transparencia;
 
 l) El Defensor del Pueblo.
-
-> [!note] Ver numeral 9, artículo 1.3.1 , Decreto 1081 de 2015
 
 ---
 ← [[art. 61 Ley 1474 de 2011]] · ↑ [[Ley 1474 de 2011 - Capítulo V|Capítulo V]] · [[art. 63 Ley 1474 de 2011]] →

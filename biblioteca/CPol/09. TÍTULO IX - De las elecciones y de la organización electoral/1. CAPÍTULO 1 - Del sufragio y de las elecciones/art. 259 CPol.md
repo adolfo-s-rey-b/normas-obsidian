@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título IX - Capítulo 1|CAPÍTULO 1 - Del sufragio y de las
 vigencia: "vigente"
 anterior: "[[art. 258 CPol]]"
 siguiente: "[[art. 260 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#259"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -28,15 +33,13 @@ tags:
 
 ## Artículo 259
 
-Quienes elijan gobernadores y alcaldes, imponen por mandato al elegido el programa que presento al inscribirse como candidato. La ley reglamentará el ejercicio del voto programatico.
+Quienes elijan gobernadores y alcaldes, imponen por mandato al elegido el programa que presentó al inscribirse como candidato. La ley reglamentará el ejercicio del voto programático.
 
-> [!note] Ver Ley 131 de 1994
+> [!note] Concordancias: Ley 131 de 1994 Ley 190 de 1995; Art. [[art. 48 Ley 741 de 2002|48]] Ley 741 de 2002
 
-> [!note] Ver Ley 190 de 1995; Art. [[art. 48 Ley 190 de 1995|48]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-454-93 ; C-532-93 ; C-200-2001 ; C-540-2001 ; C-1258-2001 ; C-358-19 ;
 
-> [!note] Ver Ley 741 de 2002
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-454-93 ; C-532-93; C-200-2001 ; C-540-2001 ; C-1258-2001 ; C-358-19
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 80)
 
 ---
 ← [[art. 258 CPol]] · ↑ [[CPol - Título IX - Capítulo 1|Capítulo 1]] · [[art. 260 CPol]] →

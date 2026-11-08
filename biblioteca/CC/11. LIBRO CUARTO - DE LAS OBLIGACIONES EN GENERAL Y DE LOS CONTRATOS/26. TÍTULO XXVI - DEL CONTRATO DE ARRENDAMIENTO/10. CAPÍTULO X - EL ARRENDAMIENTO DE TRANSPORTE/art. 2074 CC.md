@@ -17,7 +17,7 @@ anterior: "[[art. 2073 CC]]"
 siguiente: "[[art. 2075 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,8 +29,6 @@ tags:
 ## Artículo 2074. CONDUCCIÓN DE MUJER EMBARAZADA
 
 El precio de la conducción de una mujer no se aumenta por el hecho de parir en el viaje, aunque el acarreador haya ignorado que estaba encinta.
-
-(trabajadores o empleados)
 
 ---
 ← [[art. 2073 CC]] · ↑ [[CC - Libro Cuarto - Título XXVI - Capítulo X|Capítulo X]] · [[art. 2075 CC]] →

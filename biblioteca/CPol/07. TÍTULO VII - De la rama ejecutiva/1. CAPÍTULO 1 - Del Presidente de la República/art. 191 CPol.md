@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título VII - Capítulo 1|CAPÍTULO 1 - Del Presidente de la
 vigencia: "vigente"
 anterior: "[[art. 190 CPol]]"
 siguiente: "[[art. 192 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#191"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,9 +35,9 @@ tags:
 
 Para ser Presidente de la República se requiere ser colombiano por nacimiento, ciudadano en ejercicio y mayor de treinta años.
 
-> [!note] Ver Ley 43 de 1993; Art. [[art. 28 Ley 43 de 1993|28]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-487-93 ; C-130-94 ; C-093-2001 ;
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-130-94
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 7, 8, 9 y 27)
 
 ---
 ← [[art. 190 CPol]] · ↑ [[CPol - Título VII - Capítulo 1|Capítulo 1]] · [[art. 192 CPol]] →

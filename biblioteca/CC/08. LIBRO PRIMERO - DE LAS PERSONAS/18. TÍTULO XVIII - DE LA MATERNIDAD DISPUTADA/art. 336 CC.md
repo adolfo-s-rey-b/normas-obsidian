@@ -17,8 +17,9 @@ derogado_por:
 anterior: "[[art. 335 CC]]"
 siguiente: "[[art. 337 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +30,7 @@ tags:
 
 ## Artículo 336. OPORTUNIDAD PARA IMPUGNAR
 
-<Artículo derogado por el artículo [[art. 12 Ley 1060 de 2006|12]] de la Ley 1060 de 2006.>
+> [!warning] Artículo derogado por el artículo [[art. 12 Ley 1060 de 2006|12]] de la Ley 1060 de 2006.
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 12 Ley 1060 de 2006|12]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

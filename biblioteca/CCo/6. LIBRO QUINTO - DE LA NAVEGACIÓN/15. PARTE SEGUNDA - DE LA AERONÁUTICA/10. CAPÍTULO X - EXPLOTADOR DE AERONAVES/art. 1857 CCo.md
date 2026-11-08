@@ -13,10 +13,14 @@ libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
 parte: "[[CCo - Libro Quinto - Parte Segunda|PARTE SEGUNDA - DE LA AERONÁUTICA]]"
 capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo X|CAPÍTULO X - EXPLOTADOR DE AERONAVES]]"
 vigencia: "vigente"
-anterior: "[[art. 1855 CCo]]"
+anterior: "[[art. 1856 CCo]]"
 siguiente: "[[art. 1858 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1857"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,4 +34,4 @@ tags:
 Para la obtención del permiso de operación, la empresa deberá demostrar su capacidad administrativa, técnica y financiera, en relación con las actividades que se propone desarrollar y deberá mantener tales condiciones mientras sea titular de un permiso de operación.
 
 ---
-← [[art. 1855 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]] · [[art. 1858 CCo]] →
+← [[art. 1856 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]] · [[art. 1858 CCo]] →

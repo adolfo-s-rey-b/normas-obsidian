@@ -8,14 +8,18 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "305"
-epigrafe: "Implantación del nuevo sistema procesal"
+epigrafe: "IMPLANTACIÓN DEL NUEVO SISTEMA PROCESAL"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título XI|TÍTULO XI - PLAN ESPECIAL DE DESCONGESTIÓN, RÉGIMEN DE TRANSICIÓN, VIGENCIA Y DEROGATORIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 304 CPACA]]"
 siguiente: "[[art. 306 CPACA]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249#305"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1437_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
@@ -24,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título XI|Título XI]]
 
-## Artículo 305. Implantación del nuevo sistema procesal
+## Artículo 305. IMPLANTACIÓN DEL NUEVO SISTEMA PROCESAL
 
 Con el fin de conseguir la transición hacia la implantación del nuevo régimen procesal y de competencias previstos en este Código, el Consejo Superior de la Judicatura con la participación del Consejo de Estado, deberá realizar los análisis necesarios y tomar las decisiones correspondientes, por lo menos, en los siguientes asuntos:
 

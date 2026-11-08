@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Título XIII - Capítulo IX|CAPÍTULO IX - IND
 vigencia: "vigente"
 anterior: "[[art. 1757 CCo]]"
 siguiente: "[[art. 1759 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1758"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,9 +33,9 @@ tags:
 
 Cuando el asegurado pague o sea responsable por una contribución de avería común, el importe de la indemnización será equivalente al valor total de dicha contribución, si el interés sujeto a ella hubiere sido asegurado por su valor contribuyente total. Si no, o si sólo una parte de él hubiere sido asegurada, el importe de la indemnización será reducido en proporción al bajo seguro.
 
-Cuando haya pérdida por avería particular que signifique una deducción del valor contribuyente y por la cual sea responsable el asegurador, el importe de ella deberá deducirse del valor asegurado en orden a determinar la contribución de avería general correspondiente al asegurador.
+Cuando haya perdida por avería particular que signifique una deducción del valor contribuyente y por la cual sea responsable el asegurador, el importe de ella deberá deducirse del valor asegurado en orden a determinar la contribución de avería general correspondiente al asegurador.
 
-Cuando el asegurador sea responsable por gastos de salvamento, el importe de la indemnización será determinado conforme al mismo principio.
+Cuando el asegurador sea responsable por gastos de salvamento, el importe de la indemnización serán determinado conforme al mismo principio.
 
 ---
 ← [[art. 1757 CCo]] · ↑ [[CCo - Libro Quinto - Título XIII - Capítulo IX|Capítulo IX]] · [[art. 1759 CCo]] →

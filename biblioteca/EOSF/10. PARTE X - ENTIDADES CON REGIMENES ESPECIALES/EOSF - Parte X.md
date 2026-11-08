@@ -1,0 +1,38 @@
+---
+aliases:
+  - "EOSF PARTE X - ENTIDADES CON REGIMENES ESPECIALES"
+tipo: indice
+norma: "Decreto 663 de 1993"
+sigla: "EOSF"
+nivel: "PARTE"
+etiqueta: "X"
+nombre: "ENTIDADES CON REGIMENES ESPECIALES"
+articulos: "arts. 227 a 289"
+tags:
+  - normas/indice
+  - normas/eosf
+---
+
+[[EOSF|EOSF]]
+
+## PARTE X - ENTIDADES CON REGIMENES ESPECIALES
+
+*Arts. 227 a 289*
+
+### Contenido
+
+- [[EOSF - Parte X - Capítulo I|CAPÍTULO I - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO FINAGRO]] (arts. 227 a 232)
+- [[EOSF - Parte X - Capítulo II|CAPÍTULO II - CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO <BANCO AGRARIO DE COLOMBIA>]] (arts. 233 a 239)
+- [[EOSF - Parte X - Capítulo III|CAPÍTULO III - FONDO NACIONAL DE GARANTÍAS S.A]] (arts. 240 a 243)
+- [[EOSF - Parte X - Capítulo IV|CAPÍTULO IV - BANCO CENTRAL HIPOTECARIO B.C.H]] (arts. 244 a 249)
+- [[EOSF - Parte X - Capítulo V|CAPÍTULO V - INSTITUTO DE FOMENTO INDUSTRIAL IFI]] (arts. 250 a 257)
+- [[EOSF - Parte X - Capítulo VI|CAPÍTULO VI - FINANCIERA ENERGETICA NACIONAL -FEN-]] (arts. 258 a 263)
+- [[EOSF - Parte X - Capítulo VII|CAPÍTULO VII - BANCO CAFETERO]] (arts. 264 a 267)
+- [[EOSF - Parte X - Capítulo VIII|CAPÍTULO VIII - FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER-]] (arts. 268 a 274)
+- [[EOSF - Parte X - Capítulo IX|CAPÍTULO IX - FIDUCIARIA LA PREVISORA]] (arts. 275 a 276)
+- [[EOSF - Parte X - Capítulo X|CAPÍTULO X - INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIOS TECNICOS EN EL EXTERIOR ICETEX]] (arts. 277 a 278)
+- [[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]] (arts. 279 a 285)
+- [[EOSF - Parte X - Capítulo XII|CAPÍTULO XII - FONDO FINANCIERO DE PROYECTOS DE DESARROLLO FONADE]] (arts. 286 a 289)
+
+---
+← [[EOSF - Parte IX|Parte IX]] · ↑ [[EOSF|EOSF]] · [[EOSF - Parte XI|Parte XI]] →

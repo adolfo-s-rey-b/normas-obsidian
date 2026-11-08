@@ -17,8 +17,9 @@ modificado_por:
 anterior: "[[art. 336 CC]]"
 siguiente: "[[art. 338 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2006
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +30,9 @@ tags:
 
 ## Artículo 337. TERCEROS TITULARES DE LA ACCIÓN
 
-<Artículo modificado por el artículo [[art. 13 Ley 1060 de 2006|13]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:> Se concederá también esta acción a toda otra persona a quien la maternidad putativa perjudique actualmente en sus derechos sobre sucesión testamentaria o abintestato de los supuestos padre o madre.
+Se concederá también esta acción a toda otra persona a quien la maternidad putativa perjudique actualmente en sus derechos sobre sucesión testamentaria o abintestato de los supuestos padre o madre.
+
+> [!info] Artículo modificado por el artículo [[art. 13 Ley 1060 de 2006|13]] de la Ley 1060 de 2006. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 13 Ley 1060 de 2006|13]] de la Ley 1060 de 2006, publicada en el Diario Oficial No. 46.341 de 26 de julio de 2006.
 

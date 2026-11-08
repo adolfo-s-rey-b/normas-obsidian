@@ -8,15 +8,18 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "618"
-epigrafe: "Plan de Acción para la Implementación del Código General del Proceso"
+epigrafe: "PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título IV|TÍTULO IV - PLAN DE IMPLEMENTACIÓN DEL CÓDIGO Y COMISIÓN DE SEGUIMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 617 CGP]]"
 siguiente: "[[art. 619 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#618"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -25,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título IV|Título IV]]
 
-## Artículo 618. Plan de Acción para la Implementación del Código General del Proceso
+## Artículo 618. PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO
 
 La Sala Administrativa del Consejo Superior de la Judicatura, con la colaboración armónica del Ministerio de Justicia y del Derecho, dentro de los seis (6) meses siguientes a la promulgación de la presente ley, elaborará el correspondiente Plan de Acción para la Implementación del Código General del Proceso que incluirá, como mínimo, los siguientes componentes respecto de los despachos judiciales con competencias en lo civil, comercial, de familia y agrario:
 
@@ -50,6 +53,8 @@ La Sala Administrativa del Consejo Superior de la Judicatura, con la colaboraci�
 10\. Planeación y control financiero y presupuestal de acuerdo con el estudio de costos y beneficios para la implementación del código;
 
 11\. Sistema de seguimiento y control a la ejecución del plan de acción.
+
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
 
 ---
 ← [[art. 617 CGP]] · ↑ [[CGP - Libro Quinto - Título IV|Título IV]] · [[art. 619 CGP]] →

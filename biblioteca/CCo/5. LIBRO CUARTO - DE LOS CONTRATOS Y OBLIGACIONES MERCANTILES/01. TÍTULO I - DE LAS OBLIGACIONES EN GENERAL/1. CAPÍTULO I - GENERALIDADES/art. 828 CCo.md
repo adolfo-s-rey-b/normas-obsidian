@@ -15,8 +15,13 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - GENERALI
 vigencia: "vigente"
 anterior: "[[art. 827 CCo]]"
 siguiente: "[[art. 829 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#828"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2000
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,6 +33,8 @@ tags:
 ## Artículo 828. FIRMA DE CIEGOS-AUTENTICACIÓN
 
 La firma de los ciegos no les obligará sino cuando haya sido debidamente autenticada ante juez o ante notario, previa lectura del respectivo documento de parte del mismo juez o notario.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-952-00 de 26 de julio de 2000, Magistrado Ponente Dr. Carlos Gaviria Díaz.
 
 ---
 ← [[art. 827 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo I|Capítulo I]] · [[art. 829 CCo]] →

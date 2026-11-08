@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "92"
-epigrafe: "AFILIACIÓN A LA CÁMARA"
+epigrafe: "REQUISITOS PARA SER AFILIADO"
 libro: "[[CCo - Libro Primero|LIBRO PRIMERO - DE LOS COMERCIANTES Y DE LOS ASUNTOS DE COMERCIO]]"
 titulo: "[[CCo - Libro Primero - Título VI|TÍTULO VI - DE LAS CÁMARAS DE COMERCIO]]"
 vigencia: "modificado"
@@ -16,8 +16,13 @@ modificado_por:
   - "[[art. 12 Ley 1727 de 2014]]"
 anterior: "[[art. 91 CCo]]"
 siguiente: "[[art. 93 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#92"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2014
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -26,19 +31,27 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Primero|Libro Primero]] › [[CCo - Libro Primero - Título VI|Título VI]]
 
-## Artículo 92. AFILIACIÓN A LA CÁMARA
+## Artículo 92. REQUISITOS PARA SER AFILIADO
 
-> [!info] Modificado por el art. [[art. 12 Ley 1727 de 2014|12]], Ley 1727 de 2014
+Podrán ser afiliados a una Cámara de Comercio, las personas naturales o jurídicas que:
 
-Los comerciantes que hayan cumplido y estén cumpliendo los deberes de comerciante, podrán ser afiliados de una cámara de comercio cuando así lo soliciten con el apoyo de un banco local o de tres comerciantes inscritos del mismo lugar.
+> [!info] Artículo modificado por el artículo [[art. 12 Ley 1727 de 2014|12]] de la Ley 1727 de 2014. El nuevo texto es el siguiente:
 
-Los afiliados a las cámaras tendrán derecho a:
+1\. Así lo soliciten.
 
-1\. Dar como referencia la respectiva cámara de comercio;
+2\. Tengan como mínimo dos (2) años consecutivos de matriculados en cualquier Cámara de Comercio.
 
-2\. A que se les envíe gratuitamente las publicaciones de la cámara, y
+3\. Hayan ejercido durante este plazo la actividad mercantil, y
 
-3\. A obtener gratuitamente los certificados que soliciten a la cámara.
+4\. Hayan cumplido en forma permanente sus obligaciones derivadas de la calidad de comerciante, incluida la renovación oportuna de la matrícula mercantil en cada periodo.
+
+El afiliado para mantener su condición deberá continuar cumpliendo los anteriores requisitos.
+
+Quien ostente la calidad de representante legal de las personas jurídicas deberá cumplir los mismos requisitos previstos para los afiliados, salvo el de ser comerciante.
+
+> [!note] Notas del Editor: D0896002; Art. 5
+
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 12 Ley 1727 de 2014|12]] de la Ley 1727 de 2014, 'por medio de la cual se reforma el Código de Comercio, se fijan normas para el fortalecimiento de la gobernabilidad y el funcionamiento de las Cámaras de Comercio y se dictan otras disposiciones', publicada en el Diario Oficial No. 49.209 de 11 de julio de 2014.
 
 ---
 ← [[art. 91 CCo]] · ↑ [[CCo - Libro Primero - Título VI|Título VI]] · [[art. 93 CCo]] →

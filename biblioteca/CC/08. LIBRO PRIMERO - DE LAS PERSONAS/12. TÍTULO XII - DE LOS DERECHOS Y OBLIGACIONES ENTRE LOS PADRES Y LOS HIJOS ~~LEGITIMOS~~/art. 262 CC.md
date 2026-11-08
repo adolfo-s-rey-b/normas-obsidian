@@ -20,8 +20,9 @@ modificado_por:
 anterior: "[[art. 261 CC]]"
 siguiente: "[[art. 263 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2021
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,7 +33,9 @@ tags:
 
 ## Artículo 262
 
-VIGILANCIA, CORRECCIÓN Y SANCIÓN SIN VIOLENCIA. <Artículo modificado por el artículo [[art. 3 Ley 2089 de 2021|3]] de la Ley 2089 de 2021. El nuevo texto es el siguiente:> Las familias, los padres, las personas encargadas del cuidado personal de los niños, niñas y adolescentes o quienes tengan su representación legal, tendrán la facultad de vigilar su conducta, corregirlos y sancionarlos.
+VIGILANCIA, CORRECCIÓN Y SANCIÓN SIN VIOLENCIA. Las familias, los padres, las personas encargadas del cuidado personal de los niños, niñas y adolescentes o quienes tengan su representación legal, tendrán la facultad de vigilar su conducta, corregirlos y sancionarlos.
+
+> [!info] Artículo modificado por el artículo [[art. 3 Ley 2089 de 2021|3]] de la Ley 2089 de 2021. El nuevo texto es el siguiente:
 
 Queda prohibido el uso del castigo físico, los tratos crueles, humillantes o degradantes y cualquier tipo de violencia como método de corrección, sanción o disciplina.
 

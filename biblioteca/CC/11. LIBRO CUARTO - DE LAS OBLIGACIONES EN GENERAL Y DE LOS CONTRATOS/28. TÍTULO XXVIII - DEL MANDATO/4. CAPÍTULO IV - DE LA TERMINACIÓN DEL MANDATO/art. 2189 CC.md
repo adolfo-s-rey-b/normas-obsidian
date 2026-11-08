@@ -18,8 +18,9 @@ derogado_por:
 anterior: "[[art. 2188 CC]]"
 siguiente: "[[art. 2190 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1974
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -48,9 +49,9 @@ El mandato termina:
 
 > [!note] Notas del Editor: En criterio del editor en relación con la figura de la interdicción, debe tenerse en cuenta la expedición de la Ley 1996 de 2019 -'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019-, que eliminó esta figura, y establece apoyos para la realización de actos jurídicos.
 
-> [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
-
 8.
+
+> [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 
 > [!warning] Notas de vigencia: Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

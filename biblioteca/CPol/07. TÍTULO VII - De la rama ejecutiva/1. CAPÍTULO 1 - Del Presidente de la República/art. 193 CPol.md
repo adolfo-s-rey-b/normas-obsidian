@@ -16,8 +16,12 @@ capitulo: "[[CPol - Título VII - Capítulo 1|CAPÍTULO 1 - Del Presidente de la
 vigencia: "vigente"
 anterior: "[[art. 192 CPol]]"
 siguiente: "[[art. 194 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#193"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,9 +34,9 @@ tags:
 
 Corresponde al Senado conceder licencia al Presidente de la República para separarse temporalmente del cargo.
 
-Por motivo de enfermedad, el Presidente de la República puede dejar de ejercer el cargo, por el tiempo necesario, mediante aviso al Senado o, en receso de este, a la Corte Suprema de Justicia.
+Por motivo de enfermedad, el Presidente de la República puede dejar de ejercer el cargo, por el tiempo necesario, mediante aviso al Senado o, en receso de éste, a la Corte Suprema de Justicia.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 313 Ley 5 de 1992|313]] ; Art. [[art. 323 Ley 5 de 1992|323]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 313 Ley 5 de 1992|313]] ; Art. [[art. 323 Ley 5 de 1992|323]]
 
 ---
 ← [[art. 192 CPol]] · ↑ [[CPol - Título VII - Capítulo 1|Capítulo 1]] · [[art. 194 CPol]] →

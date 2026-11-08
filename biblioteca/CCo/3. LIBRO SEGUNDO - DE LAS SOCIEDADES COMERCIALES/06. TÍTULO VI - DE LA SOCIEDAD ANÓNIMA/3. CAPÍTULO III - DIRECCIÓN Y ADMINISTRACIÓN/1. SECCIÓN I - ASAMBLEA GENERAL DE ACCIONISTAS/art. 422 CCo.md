@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo III - Sección I|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 421 CCo]]"
 siguiente: "[[art. 423 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#422"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -33,6 +37,54 @@ Las reuniones ordinarias de la asamblea se efectuarán por lo menos una vez al a
 Si no fuere convocada, la asamblea se reunirá por derecho propio el primer día hábil del mes de abril, a las 10 a.m., en las oficinas del domicilio principal donde funcione la administración de la sociedad.
 
 Los administradores permitirán el ejercicio del derecho de inspección a los accionistas o a sus representantes durante los quince días anteriores a la reunión.
+
+Concepto SUPERSOCIEDADES 45838 de 2022
+
+Concepto SUPERSOCIEDADES 706 de 2021
+
+Concepto SUPERSOCIEDADES 6643 de 2006
+
+Concepto SUPERSOCIEDADES 19970 de 2005
+
+Concepto SUPERSOCIEDADES 18892 de 2005
+
+Concepto SUPERSOCIEDADES 18570 de 2005
+
+Concepto SUPERSOCIEDADES 26938 de 2004
+
+Concepto SUPERSOCIEDADES 23231 de 2004
+
+Concepto SUPERSOCIEDADES 13507 de 2004
+
+Concepto SUPERSOCIEDADES 11131 de 2004
+
+Concepto SUPERSOCIEDADES 2465 de 2004
+
+Concepto SUPERSOCIEDADES 33969 de 2002
+
+Concepto SUPERSOCIEDADES 20270 de 2002
+
+Concepto SUPERSOCIEDADES 5205 de 2002
+
+Concepto SUPERSOCIEDADES 44596 de 2001
+
+Concepto SUPERSOCIEDADES 12037 de 2001
+
+Concepto SUPERSOCIEDADES 11364 de 2001
+
+Concepto SUPERSOCIEDADES 378 de 2001
+
+Concepto SUPERSOCIEDADES 73376 de 2000
+
+Concepto SUPERSOCIEDADES 44600 de 2000
+
+Concepto SUPERSOCIEDADES 29595 de 2000
+
+Concepto SUPERBANCARIA 64857 de 2001
+
+Concepto SUPERSERVICIOS 377 de 2021
+
+Concepto SUPERSERVICIOS 183 de 2021
 
 ---
 ← [[art. 421 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo III - Sección I|Sección I]] · [[art. 423 CCo]] →

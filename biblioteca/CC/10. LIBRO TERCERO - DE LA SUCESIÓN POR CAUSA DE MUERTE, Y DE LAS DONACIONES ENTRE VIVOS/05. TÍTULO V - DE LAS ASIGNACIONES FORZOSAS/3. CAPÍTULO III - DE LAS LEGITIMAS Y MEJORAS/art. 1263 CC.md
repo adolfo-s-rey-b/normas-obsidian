@@ -15,12 +15,12 @@ capitulo: "[[CC - Libro Tercero - Título V - Capítulo III|CAPÍTULO III - DE L
 vigencia: "modificado"
 modificado_por:
   - "[[art. 15 Ley 1934 de 2018]]"
-  - "[[art. 22 CC]]"
 anterior: "[[art. 1262 CC]]"
 siguiente: "[[art. 1264 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2018
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,11 +31,11 @@ tags:
 
 ## Artículo 1263. DOMINIO SOBRE LOS FRUTOS DE LA COSA DONADA
 
-<Artículo modificado por el artículo [[art. 15 Ley 1934 de 2018|15]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:> Los frutos de las cosas donadas revocable o irrevocablemente, a título de legítima, durante la vida del donante, pertenecerán al donatario, desde la entrega de ellas, y no figurarán en el acervo; y si las cosas donadas no se han entregado al donatario, no le pertenecerán los frutos sino desde la muerte del donante, a menos que este le haya donado irrevocablemente, y de un modo auténtico, no sólo la propiedad sino el usufructo de las cosas donadas
+Los frutos de las cosas donadas revocable o irrevocablemente, a título de legítima, durante la vida del donante, pertenecerán al donatario, desde la entrega de ellas, y no figurarán en el acervo; y si las cosas donadas no se han entregado al donatario, no le pertenecerán los frutos sino desde la muerte del donante, a menos que este le haya donado irrevocablemente, y de un modo auténtico, no sólo la propiedad sino el usufructo de las cosas donadas
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 15 Ley 1934 de 2018|15]] de la Ley 1934 de 2018, 'por medio de la cual se reforma y adiciona el Código Civil', publicada en el Diario Oficial No. 50.673 de 2 de agosto de 2018. Esta ley entrará a regir a partir del 1 de enero del año siguiente de su expedición y no será aplicable a los testamentos que hayan sido depositados en notaría antes de la vigencia de la presente ley, los cuales seguirán regulados por la legislación anterior (Art. [[art. 22 CC|22]] ).
+> [!info] Artículo modificado por el artículo [[art. 15 Ley 1934 de 2018|15]] de la Ley 1934 de 2018. El nuevo texto es el siguiente:
 
-(DONACIÓN DE ESPECIES IMPUTABLES A LA LEGÍTIMA)
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 15 Ley 1934 de 2018|15]] de la Ley 1934 de 2018, 'por medio de la cual se reforma y adiciona el Código Civil', publicada en el Diario Oficial No. 50.673 de 2 de agosto de 2018. Esta ley entrará a regir a partir del 1 de enero del año siguiente de su expedición y no será aplicable a los testamentos que hayan sido depositados en notaría antes de la vigencia de la presente ley, los cuales seguirán regulados por la legislación anterior (Art. 22 ).
 
 ---
 ← [[art. 1262 CC]] · ↑ [[CC - Libro Tercero - Título V - Capítulo III|Capítulo III]] · [[art. 1264 CC]] →

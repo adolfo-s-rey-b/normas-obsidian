@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 603 CGP|Artículo 603]] — Clases, cuantía y oportunidad para constituirlas
-- [[art. 604 CGP|Artículo 604]] — Calificación y cancelación
+- [[art. 603 CGP|Artículo 603]] — CLASES, CUANTÍA Y OPORTUNIDAD PARA CONSTITUIRLAS
+- [[art. 604 CGP|Artículo 604]] — CALIFICACIÓN Y CANCELACIÓN
 
 ---
 ← [[CGP - Libro Cuarto - Título I|Título I]] · ↑ [[CGP - Libro Cuarto|Libro Cuarto]]

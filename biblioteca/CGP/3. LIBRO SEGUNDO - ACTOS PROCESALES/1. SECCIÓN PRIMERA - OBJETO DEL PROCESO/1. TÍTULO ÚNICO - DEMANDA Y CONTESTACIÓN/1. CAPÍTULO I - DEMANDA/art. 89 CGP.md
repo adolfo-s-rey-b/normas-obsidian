@@ -1,0 +1,51 @@
+---
+aliases:
+  - "CGP art. 89"
+  - "art. 89 Ley 1564 de 2012"
+  - "Ley 1564 de 2012 art. 89"
+  - "CGP 89"
+tipo: articulo
+norma: "Ley 1564 de 2012"
+sigla: "CGP"
+articulo: "89"
+epigrafe: "PRESENTACIÓN DE LA DEMANDA"
+libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
+seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
+titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
+capitulo: "[[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|CAPÍTULO I - DEMANDA]]"
+vigencia: "vigente"
+anterior: "[[art. 88 CGP]]"
+siguiente: "[[art. 90 CGP]]"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2020
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+tags:
+  - normas/articulo
+  - normas/cgp
+  - vigencia/vigente
+---
+
+[[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
+
+## Artículo 89. PRESENTACIÓN DE LA DEMANDA
+
+La demanda se entregará, sin necesidad de presentación personal, ante el secretario del despacho judicial al que se dirija o de la oficina judicial respectiva, quien dejará constancia de la fecha de su recepción.
+
+Con la demanda deberá acompañarse copia para el archivo del juzgado, y tantas copias de ella y de sus anexos cuantas sean las personas a quienes deba correrse traslado. Además, deberá adjuntarse la demanda como mensaje de datos para el archivo del juzgado y el traslado de los demandados. Donde se haya habilitado en Plan de Justicia Digital, no será necesario presentar copia física de la demanda.
+
+Al momento de la presentación, el secretario verificará la exactitud de los anexos anunciados, y si no estuvieren conformes con el original los devolverá para que se corrijan.
+
+**PARÁGRAFO.** Atendiendo las circunstancias particulares del caso, el juez podrá excusar al demandante de presentar la demanda como mensaje de datos según lo dispuesto en este artículo.
+
+> [!note] Notas del Editor: 3. En criterio del Editor, para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 6 Ley 2213 de 2022|6]] de la Ley 2213 de 2022, 'por la cual se establece la vigencia permanente del Decreto Legislativo 806 de 2020 y se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.064 de 13 de junio de 2022.. Cuyo texto original establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) 'ARTÍCULO 6 o. DEMANDA. La demanda indicará el canal digital donde deben ser notificadas las partes, sus representantes y apoderados, los testigos, peritos y cualquier tercero que deba ser citado al proceso, so pena de su inadmisión. No obstante, en caso que el demandante desconozca el canal digital donde deben ser notificados los peritos, testigos o cualquier tercero que deba ser citado al proceso, podrá indicarlo así en la demanda sin que ello implique su inadmisión. Asimismo, contendrá los anexos en medio electrónico, los cuales corresponderán a los enunciados y enumerados en la demanda. Las demandas se presentarán en forma de mensaje de datos, lo mismo que todos sus anexos , a las direcciones de correo electrónico que el Consejo Superior de la Judicatura disponga para efectos del reparto, cuando haya lugar a este. De las demandas y sus anexos no será necesario acompañar copias físicas, ni electrónicas para el archivo del juzgado, ni para el traslado. En cualquier jurisdicción, incluido el proceso arbitral y las autoridades administrativas que ejerzan funciones jurisdiccionales, salvo cuando se soliciten medidas cautelares previas o se desconozca el lugar donde recibirá notificaciones el demandado, el demandante, al presentar la demanda, simultáneamente deberá enviar por medio electrónico copia de ella y de sus anexos a los demandados. Del mismo modo deberá proceder el demandante cuando al inadmitirse la demanda presente.el escrito de subsanación. El secretario o el funcionario que haga sus veces velará por el cumplimiento de este deber, sin cuya acreditación la autoridad judicial inadmitirá la demanda. De no conocerse el canal digital de la parte demandada, se acreditará con la demanda el envío físico de la misma con sus anexos. En caso de que el demandante haya remitido copia de la demanda con todos sus anexos al demandado, al admitirse la demanda la notificación personal se limitará al envío del auto admisorio al demandado. '. Tener en cuenta el análisis sobre las modificaciones (en su momento transitorias) que introdujo el Decreto Ley 806 de 2020, expuesto por la Corte Constitucional en Sentencia C-420-20, destacado en la Nota 2. 2. La Corte Constitucional en la Sentencia C-420-20 de 24 de septiembre de 2020, Magistrado Ponente Dr. Richard Ramírez Grisales, establece: ii. Modificaciones provisionales al trámite ordinario de la presentación de la demanda (art. 6 º) 62. El artículo 89 del CGP exige que la demanda sea presentada físicamente ' ante el secretario del despacho judicial ' junto con las copias físicas para el archivo del juzgado y el traslado a las personas que correspond. Únicamente en aquellos despachos en donde se haya implementado el Plan de Justicia Digital ' no será necesario presentar copia física de la demanda '. El demandante debe adjuntar la demanda ' como mensaje de datos para el archivo del juzgado y el traslado de los demandados ', salvo cuando el juez lo excuse del cumplimiento de ese requisito en virtud de ' las circunstancias particulares del caso ' (parágrafo del artículo en cita). 63. El artículo 6º del Decreto sub examine introduce tres modificaciones transitorias al régimen de presentación de la demanda. Primero , elimina la presentación física de la demanda y sus anexos (inciso 2 del art. 6º. Segundo, elimina la obligación de presentar copias físicas y electrónicas de la demanda y de sus anexos (inciso 3 del art. 6º). Tercero , establece dos obligaciones en cabeza del demandante cuyo incumplimiento da lugar a la inadmisión de la demanda. De un lado, (i) exige que indique ' el canal digital donde deben ser notificadas las partes, sus representantes y apoderados, los testigos, peritos y cualquier tercero que deba ser citado al proceso ' (inciso 1 del art. 6º). De otro, (ii) al presentar la demanda o el escrito que la subsana, debe enviar a los demandados una copia ' por medio electrónico '. En estos eventos, ' al admitirse la demanda la notificación personal se limitará al envío del auto admisorio al demandado ' (inciso 5 del art. 6º). Si el demandante no conoce el canal digital de la parte demandada, al presentar la demandada deberá acreditar ' el envío físico de la misma con sus anexos ' (inciso 4 del art. 6º). 1. En criterio del editor tener en cuenta las disposiciones transitorias dispuestas en el Decreto Legislativo 806 de 2020, 'por el cual se adoptan medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de justicia, en el marco del Estado de Emergencia Económica, Social y Ecológica', publicado en el Diario Oficial No. 51.335 de 4 de junio de 2020, el cual estará vigente durante los dos (2) años siguientes a partir de su expedición. Particularmente: 'ARTÍCULO 6 o. DEMANDA. La demanda indicará el canal digital donde deben ser notificadas las partes, sus representantes y apoderados, los testigos, peritos y cualquier tercero que deba ser citado al proceso, so pena de su inadmisión. Asimismo, contendrá los anexos en medio electrónico, los cuales corresponderán a los enunciados y enumerados en la demanda. Las demandas se presentarán en forma de mensaje de datos, lo mismo que todos sus anexos , a las direcciones de correo electrónico que el Consejo Superior de la Judicatura disponga para efectos del reparto, cuando haya lugar a este. De las demandas y sus anexos no será necesario acompañar copias físicas, ni electrónicas para el archivo del juzgado, ni para el traslado. En cualquier jurisdicción, incluido el proceso arbitral y las autoridades administrativas que ejerzan funciones jurisdiccionales, salvo cuando se soliciten medidas cautelares previas o se desconozca el lugar donde recibirá notificaciones el demandado, el demandante, al presentar la demanda, simultáneamente deberá enviar por medio electrónico copia de ella y de sus anexos a los demandados. Del mismo modo deberá proceder el demandante cuando al inadmitirse la demanda presente el escrito de subsanación. El secretario o el funcionario que haga sus veces velará por el cumplimiento de este deber, sin cuya acreditación la autoridad judicial inadmitirá la demanda. De no conocerse el canal digital de la parte demandada, se acreditará con la demanda el envío físico de la misma con sus anexos. En caso de que el demandante haya remitido copia de la demanda con todos sus anexos al demandado, al admitirse la demanda la notificación personal se limitará al envío del auto admisorio al demandado.'. ---- * Artículo declarado CONDICIONALMENTE EXEQUIBLE por la Corte Constitucional mediante Sentencia C-420-20 de 24 de septiembre de 2020, Magistrado Ponente Dr. Richard Ramírez Grisales, 'en el entendido de que en el evento en que el demandante desconozca la dirección electrónica de los peritos, testigos o cualquier tercero que deba ser citado al proceso, podrá indicarlo así en la demanda sin que ello implique su inadmisión'.
+
+> [!note] Artículo CONDICIONALMENTE exequible
+
+(destaca el editor)
+
+---
+← [[art. 88 CGP]] · ↑ [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]] · [[art. 90 CGP]] →

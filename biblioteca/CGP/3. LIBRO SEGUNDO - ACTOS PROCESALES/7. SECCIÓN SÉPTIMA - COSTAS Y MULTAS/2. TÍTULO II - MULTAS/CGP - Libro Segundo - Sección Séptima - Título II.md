@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 367 CGP|Artículo 367]] — Imposición de multas y su cobro ejecutivo
+- [[art. 367 CGP|Artículo 367]] — IMPOSICIÓN DE MULTAS Y SU COBRO EJECUTIVO
 
 ---
 ← [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] · ↑ [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]]

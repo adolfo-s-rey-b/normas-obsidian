@@ -14,8 +14,13 @@ titulo: "[[CCo - Libro Segundo - Título X|TÍTULO X - DE LAS CUENTAS EN PARTICI
 vigencia: "vigente"
 anterior: "[[art. 510 CCo]]"
 siguiente: "[[art. 512 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#511"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2011
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -26,7 +31,9 @@ tags:
 
 ## Artículo 511. RESPONSABILIDAD DEL PARTICIPE NO GESTOR
 
-La responsabilidad del partícipe no gestor se limitará al valor de su aportación. Sin embargo, los partícipes inactivos que revelen o autoricen que se conozca su calidad de partícipe, responderán ante terceros en forma solidaria con el gestor. Esta solidaridad surgirá desde la fecha en que haya desaparecido en carácter oculto del partícipe. Texto subrayado declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-790 de 2011.
+La responsabilidad del partícipe no gestor se limitará al valor de su aportación. Sin embargo, los partícipes inactivos que revelen o autoricen que se conozca su calidad de partícipe, responderán ante terceros en forma solidaria con el gestor. Esta solidaridad surgirá desde la fecha en que haya desaparecido el carácter oculto del partícipe.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-790-11 de 20 de octubre de 2011, Magistrado Ponente Dr. Nilson Pinilla Pinilla.
 
 ---
 ← [[art. 510 CCo]] · ↑ [[CCo - Libro Segundo - Título X|Título X]] · [[art. 512 CCo]] →

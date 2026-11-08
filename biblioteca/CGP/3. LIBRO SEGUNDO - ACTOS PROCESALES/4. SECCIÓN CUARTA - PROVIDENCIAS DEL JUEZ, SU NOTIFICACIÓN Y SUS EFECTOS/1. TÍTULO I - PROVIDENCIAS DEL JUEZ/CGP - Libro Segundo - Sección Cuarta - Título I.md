@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo I|CAPÍTULO I - Autos y Sentencias]] (arts. 278 a 282)
-- [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo II|CAPÍTULO II - Condena en Concreto]] (arts. 283 a 284)
-- [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo III|CAPÍTULO III - Aclaración, Corrección y Adición de las Providencias]] (arts. 285 a 288)
+- [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo I|CAPÍTULO I - AUTOS Y SENTENCIAS]] (arts. 278 a 282)
+- [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo II|CAPÍTULO II - CONDENA EN CONCRETO]] (arts. 283 a 284)
+- [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo III|CAPÍTULO III - ACLARACIÓN, CORRECCIÓN Y ADICIÓN DE LAS PROVIDENCIAS]] (arts. 285 a 288)
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] · [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]] →

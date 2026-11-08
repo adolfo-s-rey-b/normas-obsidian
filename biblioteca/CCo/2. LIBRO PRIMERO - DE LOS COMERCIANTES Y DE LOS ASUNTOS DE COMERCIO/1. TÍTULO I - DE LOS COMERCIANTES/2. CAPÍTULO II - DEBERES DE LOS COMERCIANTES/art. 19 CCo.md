@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Primero - Título I - Capítulo II|CAPÍTULO II - DEBER
 vigencia: "vigente"
 anterior: "[[art. 18 CCo]]"
 siguiente: "[[art. 20 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#19"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -39,7 +43,11 @@ Es obligación de todo comerciante:
 
 5\. Denunciar ante el juez competente la cesación en el pago corriente de sus obligaciones mercantiles, y
 
+> [!note] Notas del Editor: Consultar suspensión temporal en el artículo [[art. 15 Decreto 560 de 2020|15]] del Decreto Legislativo 560 de 2020, 'por el cual se adoptan medidas transitorias especiales en materia de procesos de insolvencia, en el marco del Estado de Emergencia, Social y Ecológica', publicado en el Diario Oficial No. 51.286 de 15 de abril de 2020.
+
 6\. Abstenerse de ejecutar actos de competencia desleal.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este numeral debe tenerse en cuenta lo dispuesto en la Ley 256 de 1996, 'Por la cual se dictan normas sobre competencia desleal', publicada en el Diario Oficial No. 42.692 del 18 de enero de 1996.
 
 ---
 ← [[art. 18 CCo]] · ↑ [[CCo - Libro Primero - Título I - Capítulo II|Capítulo II]] · [[art. 20 CCo]] →

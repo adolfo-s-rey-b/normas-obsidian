@@ -8,15 +8,18 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "610"
-epigrafe: "Intervención de la Agencia Nacional de Defensa Jurídica del Estado"
+epigrafe: "INTERVENCIÓN DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título II|TÍTULO II - DISPOSICIONES RELATIVAS A LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO]]"
 vigencia: "vigente"
 anterior: "[[art. 609 CGP]]"
 siguiente: "[[art. 611 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#610"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -25,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título II|Título II]]
 
-## Artículo 610. Intervención de la Agencia Nacional de Defensa Jurídica del Estado
+## Artículo 610. INTERVENCIÓN DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
 
 En los procesos que se tramiten ante cualquier jurisdicción, la Agencia Nacional de Defensa Jurídica del Estado, podrá actuar en cualquier estado del proceso, en los siguientes eventos:
 
@@ -33,7 +36,7 @@ En los procesos que se tramiten ante cualquier jurisdicción, la Agencia Naciona
 
 2\. Como apoderada judicial de entidades públicas, facultada, incluso, para demandar.
 
-**Parágrafo 1°.** Cuando la Agencia Nacional de Defensa Jurídica del Estado actúe como interviniente, tendrá las mismas facultades atribuidas legalmente a la entidad o entidades públicas vinculadas como parte en el respectivo proceso y en especial, las siguientes:
+**PARÁGRAFO 1o.** Cuando la Agencia Nacional de Defensa Jurídica del Estado actúe como interviniente, tendrá las mismas facultades atribuidas legalmente a la entidad o entidades públicas vinculadas como parte en el respectivo proceso y en especial, las siguientes:
 
 a) Proponer excepciones previas y de mérito, coadyuvar u oponerse a la demanda.
 
@@ -47,13 +50,15 @@ e) Solicitar la práctica de medidas cautelares o solicitar el levantamiento de 
 
 f) Llamar en garantía.
 
-**Parágrafo 2°.** Cuando la Agencia Nacional de Defensa Jurídica del Estado obre como apoderada judicial de una entidad pública, esta le otorgará poder a aquella.
+**PARÁGRAFO 2o.** Cuando la Agencia Nacional de Defensa Jurídica del Estado obre como apoderada judicial de una entidad pública, esta le otorgará poder a aquella.
 
 La actuación de la Agencia Nacional de Defensa Jurídica del Estado, en todos los eventos, se ejercerá a través del abogado o abogados que designe bajo las reglas del otorgamiento de poderes.
 
-**Parágrafo 3°.** La Agencia Nacional de Defensa Jurídica del Estado podrá interponer acciones de tutela en representación de las entidades públicas.
+**PARÁGRAFO 3o.** La Agencia Nacional de Defensa Jurídica del Estado podrá interponer acciones de tutela en representación de las entidades públicas.
 
 Así mismo, en toda tutela, la Agencia Nacional de Defensa Jurídica del Estado podrá solicitarle a la Corte Constitucional la revisión de que trata el artículo [[art. 33 Decreto 2591 de 1991|33]] del Decreto 2591 de 1991 .
+
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
 
 ---
 ← [[art. 609 CGP]] · ↑ [[CGP - Libro Quinto - Título II|Título II]] · [[art. 611 CGP]] →

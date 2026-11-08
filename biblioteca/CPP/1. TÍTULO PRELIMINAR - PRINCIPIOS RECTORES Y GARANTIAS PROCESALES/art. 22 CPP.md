@@ -8,13 +8,17 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "22"
-epigrafe: "Restablecimiento del derecho"
+epigrafe: "RESTABLECIMIENTO DEL DERECHO"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 21 CPP]]"
 siguiente: "[[art. 23 CPP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787#22"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
@@ -23,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 22. Restablecimiento del derecho
+## Artículo 22. RESTABLECIMIENTO DEL DERECHO
 
 Cuando sea procedente, la Fiscalía General de la Nación y los jueces deberán adoptar las medidas necesarias para hacer cesar los efectos producidos por el delito y las cosas vuelvan al estado anterior, si ello fuere posible, de modo que se restablezcan los derechos quebrantados, independientemente de la responsabilidad penal.
 

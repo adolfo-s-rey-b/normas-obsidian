@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 63 CP|Artículo 63]] — Suspensión condicional de la ejecución de la pena
-- [[art. 64 CP|Artículo 64]] — Libertad Condicional
-- [[art. 65 CP|Artículo 65]] — Obligaciones
+- [[art. 63 CP|Artículo 63]] — SUSPENSIÓN DE LA EJECUCIÓN DE LA PENA
+- [[art. 64 CP|Artículo 64]] — LIBERTAD CONDICIONAL
+- [[art. 65 CP|Artículo 65]] — OBLIGACIONES
 - [[art. 66 CP|Artículo 66]] — Revocación de la suspensión de la ejecución condicional de la pena y de la libertad condicional
 - [[art. 67 CP|Artículo 67]] — Extinción y liberacion
-- [[art. 68 CP|Artículo 68]] — Reclusión domiciliaria u hospitalaria por enfermedad muy grave
-- [[art. 68A CP|Artículo 68A]]
+- [[art. 68 CP|Artículo 68]] — RECLUSIÓN DOMICILIARIA U HOSPITALARIA POR ENFERMEDAD
+- [[art. 68A CP|Artículo 68A]] — EXCLUSIÓN DE LOS BENEFICIOS Y SUBROGADOS PENALES
 - [[art. 68B CP|Artículo 68B]] — Revisión De La Pena Por Evaluación De Resocialización De La Prisión Perpetua
 - [[art. 68C CP|Artículo 68C]] — Plan Individual De Resocializacion
 

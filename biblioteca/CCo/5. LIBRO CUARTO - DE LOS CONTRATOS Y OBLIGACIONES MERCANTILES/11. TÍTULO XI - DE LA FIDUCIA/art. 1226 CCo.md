@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Cuarto - Título XI|TÍTULO XI - DE LA FIDUCIA]]"
 vigencia: "vigente"
 anterior: "[[art. 1225 CCo]]"
 siguiente: "[[art. 1227 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1226"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -26,7 +30,7 @@ tags:
 
 ## Artículo 1226. CONCEPTO DE LA FIDUCIA MERCANTIL
 
-La fiducia mercantil es un negocio jurídico en virtud del cual una persona, llamada fiduciante o fideicomitente, transfiere uno o más bienes especificados a otra, llamada fiduciario, quien se obliga a administrarlos o enajenarlos para cumplir una finalidad determinada por el constituyente, en provecho de éste o de un tercero llamado beneficiario o fideicomisario.
+La fiducia mercantil es un negocio jurídico en virtud del cual una persona, llamada fiduciante o fideicomitente, transfiere uno o mas bienes especificados a otra, llamada fiduciario, quien se obliga a administrarlos o enajenarlos para cumplir una finalidad determinada por el constituyente, en provecho de éste o de un tercero llamado beneficiario o fideicomisario.
 
 Una persona puede ser al mismo tiempo fiduciante y beneficiario.
 

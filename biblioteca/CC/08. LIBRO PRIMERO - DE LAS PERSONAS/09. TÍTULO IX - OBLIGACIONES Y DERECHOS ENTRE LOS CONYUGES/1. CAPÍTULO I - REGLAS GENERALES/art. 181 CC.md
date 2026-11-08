@@ -14,13 +14,13 @@ titulo: "[[CC - Libro Primero - Título IX|TÍTULO IX - OBLIGACIONES Y DERECHOS 
 capitulo: "[[CC - Libro Primero - Título IX - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 5 CC]]"
   - "[[art. 5 Ley 28 de 1932]]"
 anterior: "[[art. 180 CC]]"
 siguiente: "[[art. 182 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2016
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,7 +31,7 @@ tags:
 
 ## Artículo 181. CAPACIDAD DE LA MUJER
 
-> [!info] Artículo subrogado por el artículo [[art. 5 CC|5]]o. de la Ley 28 de 1932. El nuevo texto es el siguiente:
+> [!info] Artículo subrogado por el artículo 5o. de la Ley 28 de 1932. El nuevo texto es el siguiente:
 
 La mujer casada, mayor de edad, como tal, puede comparecer libremente en juicio, y para la administración y disposición de sus bienes no necesita autorización marital ni licencia del juez, ni tampoco el marido será su representante legal.
 

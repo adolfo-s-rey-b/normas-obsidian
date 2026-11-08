@@ -10,12 +10,13 @@ nombre: "Código de Comercio"
 tipo_norma: "Decreto"
 numero: "410"
 anio: "1971"
-fecha: "Marzo 27"
+fecha: "marzo 27"
 epigrafe: "Por el cual se expide el Código de Comercio"
 estado: "vigente"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102"
-fecha_extraccion: 2026-11-07
-articulos: 2037
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
+articulos: 2038
 tags:
   - normas/norma
   - normas/cco
@@ -23,12 +24,13 @@ tags:
 
 # Código de Comercio
 
-**Decreto 410 de 1971** (Marzo 27)
+**Decreto 410 de 1971** (marzo 27)
 
 *Por el cual se expide el Código de Comercio*
 
 - Fuente: [Gestor Normativo de Función Pública](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102)
-- Extraído el 2026-11-07 · 2037 artículos
+- Actualización de la fuente: 15 de octubre de 2026
+- Extraído el 2026-11-08 · 2038 artículos
 
 ## Contenido
 
@@ -63,8 +65,7 @@ tags:
     - [[CCo - Libro Segundo - Título I - Capítulo X|CAPÍTULO X - LIQUIDACIÓN DEL PATRIMONIO SOCIAL]] (arts. 225 a 259)
     - [[CCo - Libro Segundo - Título I - Capítulo XI|CAPÍTULO XI - MATRICES, SUBORDINADAS Y SUCURSALES]] (arts. 260 a 265)
   - [[CCo - Libro Segundo - Título II|TÍTULO II - DE LA INSPECCIÓN Y VIGILANCIA DE LAS SOCIEDADES]] (arts. 266 a 293)
-    - [[CCo - Libro Segundo - Título II - Capítulo I|CAPÍTULO I - Derogado por el art. 242, Ley 222 de 1995]] (arts. 266 a 288)
-      - [[CCo - Libro Segundo - Título II - Capítulo I - Superintendencia de sociedades|SUPERINTENDENCIA DE SOCIEDADES]] (arts. 266 a 288)
+    - [[CCo - Libro Segundo - Título II - Capítulo I|CAPÍTULO I - SUPERINTENDENCIA DE SOCIEDADES]] (arts. 266 a 288)
     - [[CCo - Libro Segundo - Título II - Capítulo II|CAPÍTULO II - BALANCES]] (arts. 289 a 293)
   - [[CCo - Libro Segundo - Título III|TÍTULO III - DE LA SOCIEDAD COLECTIVA]] (arts. 294 a 322)
     - [[CCo - Libro Segundo - Título III - Capítulo I|CAPÍTULO I - LOS SOCIOS]] (arts. 294 a 302)
@@ -116,17 +117,17 @@ tags:
     - [[CCo - Libro Tercero - Título III - Capítulo III|CAPÍTULO III - TÍTULOS A LA ORDEN]] (arts. 651 a 667)
     - [[CCo - Libro Tercero - Título III - Capítulo IV|CAPÍTULO IV - TÍTULOS AL PORTADOR]] (arts. 668 a 670)
     - [[CCo - Libro Tercero - Título III - Capítulo V|CAPÍTULO V - DISTINTAS ESPECIES DE TÍTULOS-VALORES]] (arts. 671 a 779)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I|SECCIÓN I - LETRA DE CAMBIO]]
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I (2)|SECCIÓN I - CREACIÓN Y FORMA DE LA LETRA DE CAMBIO]] (arts. 671 a 679)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección II|SECCIÓN II - ACEPTACIÓN]] (arts. 680 a 690)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III|SECCIÓN III - PAGO]] (arts. 691 a 696)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección IV|SECCIÓN IV - PROTESTO]] (arts. 697 a 708)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección II (2)|SECCIÓN II - PAGARE]] (arts. 709 a 711)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III (2)|SECCIÓN III - CHEQUE]]
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I (3)|SECCIÓN I - CREACIÓN Y FORMA DEL CHEQUE]] (arts. 712 a 716)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección II (3)|SECCIÓN II - PRESENTACIÓN Y PAGO]] (arts. 717 a 733)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III (3)|SECCIÓN III - CHEQUES ESPECIALES - CHEQUE FISCAL]] (arts. 734 a 751)
-      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección IV (2)|SECCIÓN IV - BONOS]] (arts. 752 a 756)
+      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I|SECCIÓN I - LETRA DE CAMBIO]] (arts. 671 a 708)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I - Subsección I|SUBSECCIÓN I - CREACIÓN Y FORMA DE LA LETRA DE CAMBIO]] (arts. 671 a 679)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I - Subsección II|SUBSECCIÓN II - ACEPTACIÓN]] (arts. 680 a 690)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I - Subsección III|SUBSECCIÓN III - PAGO]] (arts. 691 a 696)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección I - Subsección IV|SUBSECCIÓN IV - PROTESTO]] (arts. 697 a 708)
+      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección II|SECCIÓN II - PAGARE]] (arts. 709 a 711)
+      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III|SECCIÓN III - CHEQUE]] (arts. 712 a 751)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III - Subsección I|SUBSECCIÓN I - CREACIÓN Y FORMA DEL CHEQUE]] (arts. 712 a 716)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III - Subsección II|SUBSECCIÓN II - PRESENTACIÓN Y PAGO]] (arts. 717 a 733)
+        - [[CCo - Libro Tercero - Título III - Capítulo V - Sección III - Subsección III|SUBSECCIÓN III - CHEQUES ESPECIALES - <CHEQUE FISCAL>]] (arts. 734 a 751)
+      - [[CCo - Libro Tercero - Título III - Capítulo V - Sección IV|SECCIÓN IV - BONOS]] (arts. 752 a 756)
       - [[CCo - Libro Tercero - Título III - Capítulo V - Sección V|SECCIÓN V - CERTIFICADO DE DEPÓSITO Y BONO DE PRENDA]] (arts. 757 a 766)
       - [[CCo - Libro Tercero - Título III - Capítulo V - Sección VI|SECCIÓN VI - CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE]] (arts. 767 a 771)
       - [[CCo - Libro Tercero - Título III - Capítulo V - Sección VII|SECCIÓN VII - FACTURAS CAMBIARIAS]] (arts. 772 a 779)
@@ -201,6 +202,7 @@ tags:
     - [[CCo - Libro Cuarto - Título XVII - Capítulo VII|CAPÍTULO VII - CAJILLAS DE SEGURIDAD]] (arts. 1416 a 1425)
 - [[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]] (arts. 1426 a 1909)
   - [[CCo - Libro Quinto - Capítulo Preliminar|CAPÍTULO PRELIMINAR - DISPOSICIONES COMUNES]] (arts. 1426 a 1431)
+    - [[CCo - Libro Quinto - Capítulo Preliminar - Disposiciones generales|DISPOSICIONES GENERALES]] (arts. 1429 a 1431)
   - [[CCo - Libro Quinto - Título I|TÍTULO I - DE LAS NAVES Y SU PROPIEDAD]] (arts. 1432 a 1472)
     - [[CCo - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - NAVES]] (arts. 1432 a 1457)
     - [[CCo - Libro Quinto - Título I - Capítulo II|CAPÍTULO II - PROPIETARIOS Y COPROPIETARIOS DE LAS NAVES]] (arts. 1458 a 1472)
@@ -263,7 +265,7 @@ tags:
     - [[CCo - Libro Quinto - Parte Segunda - Capítulo XV|CAPÍTULO XV - HIPOTECA, EMBARGO Y SECUESTRO]] (arts. 1904 a 1909)
 - [[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]] (arts. 1910 a 2038)
   - [[CCo - Libro Sexto - Título I|TÍTULO I - DEL CONCORDATO PREVENTIVO]] (arts. 1910 a 1936)
-  - [[CCo - Libro Sexto - Título II|TÍTULO II - Derogado por el artículo 242, Ley 222 de 1995]] (arts. 1937 a 2010)
+  - [[CCo - Libro Sexto - Título II|TÍTULO II - DE LA QUIEBRA]] (arts. 1937 a 2010)
     - [[CCo - Libro Sexto - Título II - Capítulo I|CAPÍTULO I - ESTADO DE QUIEBRA]] (arts. 1937 a 1949)
     - [[CCo - Libro Sexto - Título II - Capítulo II|CAPÍTULO II - RESTITUCIÓN DEL QUEBRADO]] (arts. 1950 a 1952)
     - [[CCo - Libro Sexto - Título II - Capítulo III|CAPÍTULO III - SINDICO DE LA QUIEBRA]] (arts. 1953 a 1960)
@@ -274,39 +276,482 @@ tags:
     - [[CCo - Libro Sexto - Título II - Capítulo VIII|CAPÍTULO VIII - REHABILITACIÓN DEL QUEBRADO]] (arts. 2006 a 2010)
   - [[CCo - Libro Sexto - Título III|TÍTULO III - DEL ARBITRAMENTO]] (arts. 2011 a 2025)
   - [[CCo - Libro Sexto - Título IV|TÍTULO IV - DE LA REGULACIÓN POR EXPERTOS O PERITOS]] (arts. 2026 a 2038)
+    - [[CCo - Libro Sexto - Título IV - Disposiciones finales|DISPOSICIONES FINALES]] (arts. 2033 a 2038)
 
 ## Encabezado y preámbulo
 
+ACTUALIZACIÓN: 15 de octubre de 2026
+
+- Los textos encerrados entre los símbolos fueron agregados por el editor, con el único propósito de facilitar la consulta de este documento legal. Dichos textos no corresponden a la edición oficial del Código de Comercio.
+
+(...)
+
 DECRETO 410 DE 1971
 
-(Marzo 27)
+(marzo 27)
 
-Reglamentado parcialmente por el Decreto 1753 de 1991 - Reglamentado por el Decreto 2952 de 1936 - Adicionado por el Artículo [[art. 1 Ley 1 de 1980|1]] Ley 1 de 1980 .
+Diario Oficial No. 33.339 del 16 de junio de 1971
 
-"Por el cual se expide el Código de Comercio"
+Por el cual se expide el Código de Comercio
 
-EL PRESIDENTE DE LA REPÚBLICA DE COLOMBIA,
+El Presidente de la República de Colombia, en ejercicio de
 
-En ejercicio de las facultades extraordinarias que le confiere el numeral 15 del artículo [[art. 20 Ley 16 de 1968|20]] de la Ley 16 de 1968, y cumplido el requisito allí establecido,
+las facultades extraordinarias que le confiere el
+
+numeral 15 del artículo [[art. 20 Ley 16 de 1968|20]] de la Ley 16 de 1968,
+
+y cumplido el requisito allí establecido,
 
 DECRETA:
 
-NOTA: en lo relacionado con la propiedad industrial se aplica la Decisión 486 de 2000 del Acuerdo de Cartagena, excepto en los artículos [[art. 539 CCo|539]], [[art. 550 CCo|550]], [[art. 554 CCo|554]], [[art. 556 CCo|556]], [[art. 557 CCo|557]], [[art. 564 CCo|564]], [[art. 569 CCo|569]] al [[art. 571 CCo|571]], [[art. 594 CCo|594]], [[art. 596 CCo|596]] y [[art. 603 CCo|603]] al [[art. 618 CCo|618]].
+(Notas de Vigencia: El Decreto 2150 de 1995, 'Por el cual se suprimen y reforman regulaciones, procedimientos o trámites innecesarios existentes en la administración pública', publicado en el Diario Oficial No. 42.137 del 6 de diciembre de 1995, establece en los artículos [[art. 82 CCo|82]] y [[art. 83 CCo|83]] : 'ARTÍCULO 82. EXPEDICIÓN DEL CERTIFICADO. El Certificado de Carencia de Informes por Tráfico de Estupefacientes se expedirá por la Dirección Nacional de Estupefacientes con destino a las siguientes entidades y exclusivamente para los fines previstos en este artículo: ... 2. Con destino a la Dirección General Marítima, Dimar, para: a. La expedición de licencias de navegación; b. La adquisición o matrícula de embarcación; c. El uso y goce de bienes de uso público de propiedad de la Nación; d. El otorgamiento de rutas y servicios de transporte marítimo; e. La propiedad, explotación u operación de tanques en tierra ubicados en zonas francas comerciales. ... PARÁGRAFO. En ningún caso se solicitará y/o expedirá el Certificado sobre Carencia de Informes sobre Narcotráfico a entidades, organismos o dependencias de carácter público o a quienes lo soliciten sin fin específico.
+
+ARTÍCULO 83. TÉRMINO DE VIGENCIA DE LOS CERTIFICADOS. El certificado expedido tendrá las siguientes vigencias: ... 3. Los otorgados para realizar trámites ante la Dirección General Marítima, Dimar, tendrán las siguientes vigencias: a. Para obtener y renovar Licencia de Navegación, podrá otorgarse hasta por 5 años y quedará sujeta en su vigencia al término estipulado por la Dirección general Marítima en la resolución que otorgue la Licencia de Navegación; b. Para el otorgamiento de rutas y servicios de transporte marítimo, podrá otorgarse hasta por 5 años; c. Para el otorgamiento de uso y goce de bienes de uso público, podrá otorgarse hasta por 5 años; d. Para la propiedad, explotación y operación de tanques en tierra ubicados en zona franca comercial, podrá otorgarse hasta por 5 años, e. Para la adquisición y/o matrícula de embarcación podrá otorgarse hasta por un (1) año. PARÁGRAFO 1o. No obstante, el Certificado podrá anularse unilateralmente en cualquier tiempo por la Dirección Nacional de Estupefacientes, con base en los informes provenientes de autoridad u organismo competente. Dicha anulación será informada a las autoridades correspondientes y contra ella procede únicamente el recurso de reposición. PARÁGRAFO 2o. Los Certificados de Carencia de Informes por Tráfico de Estupefacientes, expedidos por la Dirección Nacional de Estupefacientes, que se encuentren vigentes al momento de entrar a regir el presente decreto, se entenderán expedidos por el término de 5 años, contados a partir de la fecha de expedición de los mismos. PARÁGRAFO 3o. El Consejo Nacional de Estupefacientes continuará fijando las tarifas por la expedición de los Certificados a que se refiere este capítulo, conforme a las normas vigentes'.)
+
+(Notas de Vigencia: El Decreto 2150 de 1995, 'Por el cual se suprimen y reforman regulaciones, procedimientos o trámites innecesarios existentes en la administración pública', publicado en el Diario Oficial No. 42.137 del 6 de diciembre de 1995, establece en los artículos [[art. 82 CCo|82]] y [[art. 83 CCo|83]] : 'ARTÍCULO 82. EXPEDICIÓN DEL CERTIFICADO. El Certificado de Carencia de Informes por Tráfico de Estupefacientes se expedirá por la Dirección Nacional de Estupefacientes con destino a las siguientes entidades y exclusivamente para los fines previstos en este artículo: ... 2. Con destino a la Dirección General Marítima, Dimar, para: a. La expedición de licencias de navegación; b. La adquisición o matrícula de embarcación; c. El uso y goce de bienes de uso público de propiedad de la Nación; d. El otorgamiento de rutas y servicios de transporte marítimo; e. La propiedad, explotación u operación de tanques en tierra ubicados en zonas francas comerciales. ... PARÁGRAFO. En ningún caso se solicitará y/o expedirá el Certificado sobre Carencia de Informes sobre Narcotráfico a entidades, organismos o dependencias de carácter público o a quienes lo soliciten sin fin específico.
+
+ARTÍCULO 83. TÉRMINO DE VIGENCIA DE LOS CERTIFICADOS. El certificado expedido tendrá las siguientes vigencias: ... 3. Los otorgados para realizar trámites ante la Dirección General Marítima, Dimar, tendrán las siguientes vigencias: a. Para obtener y renovar Licencia de Navegación, podrá otorgarse hasta por 5 años y quedará sujeta en su vigencia al término estipulado por la Dirección general Marítima en la resolución que otorgue la Licencia de Navegación; b. Para el otorgamiento de rutas y servicios de transporte marítimo, podrá otorgarse hasta por 5 años; c. Para el otorgamiento de uso y goce de bienes de uso público, podrá otorgarse hasta por 5 años; d. Para la propiedad, explotación y operación de tanques en tierra ubicados en zona franca comercial, podrá otorgarse hasta por 5 años, e. Para la adquisición y/o matrícula de embarcación podrá otorgarse hasta por un (1) año. PARÁGRAFO 1o. No obstante, el Certificado podrá anularse unilateralmente en cualquier tiempo por la Dirección Nacional de Estupefacientes, con base en los informes provenientes de autoridad u organismo competente. Dicha anulación será informada a las autoridades correspondientes y contra ella procede únicamente el recurso de reposición. PARÁGRAFO 2o. Los Certificados de Carencia de Informes por Tráfico de Estupefacientes, expedidos por la Dirección Nacional de Estupefacientes, que se encuentren vigentes al momento de entrar a regir el presente decreto, se entenderán expedidos por el término de 5 años, contados a partir de la fecha de expedición de los mismos. PARÁGRAFO 3o. El Consejo Nacional de Estupefacientes continuará fijando las tarifas por la expedición de los Certificados a que se refiere este capítulo, conforme a las normas vigentes'.)
 
 ## Firmas
 
-COMUNÍQUESE Y PUBLÍQUESE.  
-Dado en Bogotá, D.E., a los 27 días del mes de marzo de 1971.  
+Comuníquese y publíquese.  
+Dado en Bogotá, D.E., a 27 de marzo de 1971.  
 MISAEL PASTRANA BORRERO  
-EL MINISTRO DE JUSTICIA,  
-MIGUEL ESCOBAR MENDEZ  
-NOTA: Publicado en el Diario Oficial 33.339 de junio 16 de 1971.
+El Ministro de Justicia,  
+MIGUEL ESCOBAR MENDEZ
 
-> [!bug]- Avisos de la conversión (7)
+## Fuentes y consolidación
+
+Esta norma se construyó comparando todas sus fuentes; de cada artículo se toma la versión cuya reforma más reciente citada es posterior (en empate, la de la estructura base: Senado).
+
+| Fuente | Artículos | Actualización declarada | Textos tomados |
+| --- | ---: | --- | ---: |
+| [DAFP](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102) | 2037 | — | 246 |
+| [Senado](http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html) | 2038 | 15 de octubre de 2026 | 1792 |
+
+Artículos con texto idéntico en las fuentes: 1615; con diferencias: 421; presentes en una sola fuente: 2.
+
+> [!info]- Artículos con diferencias entre fuentes
+> - 6: se toma DAFP (DAFP —, Senado 2012)
+> - 8: se toma DAFP (DAFP —, Senado 2012)
+> - 9: se toma DAFP (DAFP —, Senado 2012)
+> - 12: se toma Senado (DAFP —, Senado 2005)
+> - 28: se toma Senado (DAFP 2012, Senado 2012)
+> - 31: se toma Senado (DAFP —, Senado —)
+> - 33: se toma Senado (DAFP —, Senado 2006)
+> - 56: se toma Senado (DAFP 2012, Senado 2012)
+> - 57: se toma Senado (DAFP —, Senado 2022)
+> - 58: se toma Senado (DAFP —, Senado 2022)
+> - 60: se toma Senado (DAFP —, Senado —)
+> - 62: se toma Senado (DAFP —, Senado —)
+> - 68: se toma DAFP (DAFP —, Senado 2012)
+> - 69: se toma DAFP (DAFP —, Senado 2012)
+> - 70: se toma DAFP (DAFP —, Senado 2012)
+> - 71: se toma DAFP (DAFP —, Senado 2012)
+> - 72: se toma DAFP (DAFP —, Senado 2012)
+> - 73: se toma DAFP (DAFP —, Senado 2012)
+> - 74: se toma DAFP (DAFP —, Senado 2012)
+> - 75: se toma DAFP (DAFP —, Senado 1996)
+> - 76: se toma DAFP (DAFP —, Senado 1996)
+> - 77: se toma DAFP (DAFP —, Senado 1996)
+> - 79: se toma Senado (DAFP 2014, Senado 2014)
+> - 81: se toma DAFP (DAFP 2014, Senado 2014)
+> - 82: se toma Senado (DAFP 2014, Senado 2014)
+> - 83: se toma Senado (DAFP 2014, Senado 2014)
+> - 84: se toma DAFP (DAFP 2014, Senado 2014)
+> - 85: se toma Senado (DAFP 2014, Senado 2014)
+> - 86: se toma Senado (DAFP —, Senado 2007)
+> - 90: se toma Senado (DAFP —, Senado 2000)
+> - 92: se toma Senado (DAFP 2014, Senado 2014)
+> - 100: se toma Senado (DAFP 1995, Senado 1996)
+> - 103: se toma Senado (DAFP 1995, Senado 2006)
+> - 114: se toma Senado (DAFP —, Senado —)
+> - 121: se toma DAFP (DAFP —, Senado 1995)
+> - 152: se toma DAFP (DAFP —, Senado 1995)
+> - 155: se toma Senado (DAFP 1995, Senado 2005)
+> - 157: se toma Senado (DAFP —, Senado 1996)
+> - 159: se toma Senado (DAFP 1981, Senado 1981)
+> - 164: se toma Senado (DAFP —, Senado 2003)
+> - 165: se toma Senado (DAFP 2012, Senado 2012)
+> - 172: se toma Senado (DAFP —, Senado —)
+> - 174: se toma Senado (DAFP —, Senado —)
+> - 176: se toma Senado (DAFP —, Senado —)
+> - 182: se toma Senado (DAFP 2020, Senado 2020)
+> - 184: se toma Senado (DAFP 1995, Senado 1995)
+> - 189: se toma Senado (DAFP —, Senado —)
+> - 194: se toma DAFP (DAFP 2012, Senado 2012)
+> - 200: se toma Senado (DAFP 1995, Senado 2006)
+> - 202: se toma Senado (DAFP —, Senado —)
+> - 207: se toma Senado (DAFP —, Senado 2015)
+> - 216: se toma Senado (DAFP —, Senado —)
+> - 220: se toma Senado (DAFP —, Senado 2004)
+> - 233: se toma Senado (DAFP —, Senado —)
+> - 234: se toma Senado (DAFP —, Senado —)
+> - 235: se toma Senado (DAFP —, Senado —)
+> - 236: se toma Senado (DAFP —, Senado —)
+> - 237: se toma Senado (DAFP —, Senado —)
+> - 260: se toma Senado (DAFP 1995, Senado 1995)
+> - 261: se toma Senado (DAFP 1995, Senado 1995)
+> - 262: se toma Senado (DAFP 1995, Senado 1995)
+> - 265: se toma Senado (DAFP 1995, Senado 1995)
+> - 266: se toma DAFP (DAFP 1995, Senado 1995)
+> - 267: se toma DAFP (DAFP 1995, Senado 1995)
+> - 268: se toma DAFP (DAFP 1995, Senado 1995)
+> - 269: se toma DAFP (DAFP 1995, Senado 1995)
+> - 270: se toma DAFP (DAFP 1995, Senado 1995)
+> - 271: se toma DAFP (DAFP 1995, Senado 1995)
+> - 272: se toma DAFP (DAFP 1995, Senado 1995)
+> - 273: se toma DAFP (DAFP 1995, Senado 1995)
+> - 274: se toma DAFP (DAFP 1995, Senado 1995)
+> - 275: se toma DAFP (DAFP 1995, Senado 1995)
+> - 276: se toma DAFP (DAFP 1995, Senado 1995)
+> - 277: se toma DAFP (DAFP 1995, Senado 1995)
+> - 278: se toma DAFP (DAFP 1995, Senado 1995)
+> - 279: se toma DAFP (DAFP 1995, Senado 1995)
+> - 280: se toma DAFP (DAFP 1995, Senado 1995)
+> - 281: se toma DAFP (DAFP 1995, Senado 1995)
+> - 282: se toma DAFP (DAFP 1995, Senado 1995)
+> - 283: se toma DAFP (DAFP 1995, Senado 1995)
+> - 284: se toma DAFP (DAFP 1995, Senado 1995)
+> - 285: se toma DAFP (DAFP 1995, Senado 1995)
+> - 286: se toma DAFP (DAFP 1995, Senado 1995)
+> - 287: se toma DAFP (DAFP 1995, Senado 1995)
+> - 288: se toma DAFP (DAFP 1995, Senado 1995)
+> - 292: se toma DAFP (DAFP —, Senado 1995)
+> - 293: se toma Senado (DAFP —, Senado 1996)
+> - 300: se toma Senado (DAFP —, Senado —)
+> - 323: se toma Senado (DAFP —, Senado —)
+> - 325: se toma Senado (DAFP —, Senado —)
+> - 326: se toma Senado (DAFP —, Senado —)
+> - 342: se toma DAFP (DAFP —, Senado 2020)
+> - 351: se toma DAFP (DAFP —, Senado 2020)
+> - 355: se toma Senado (DAFP —, Senado —)
+> - 370: se toma DAFP (DAFP —, Senado 2020)
+> - 390: se toma Senado (DAFP —, Senado —)
+> - 395: se toma Senado (DAFP —, Senado 1996)
+> - 416: se toma Senado (DAFP —, Senado —)
+> - 422: se toma Senado (DAFP —, Senado —)
+> - 428: se toma DAFP (DAFP —, Senado 1995)
+> - 429: se toma Senado (DAFP 1995, Senado 1995)
+> - 439: se toma DAFP (DAFP —, Senado 1995)
+> - 441: se toma Senado (DAFP —, Senado —)
+> - 442: se toma Senado (DAFP —, Senado 2003)
+> - 443: se toma DAFP (DAFP —, Senado 1995)
+> - 447: se toma Senado (DAFP —, Senado —)
+> - 448: se toma DAFP (DAFP —, Senado 1995)
+> - 455: se toma Senado (DAFP —, Senado 2005)
+> - 457: se toma Senado (DAFP —, Senado 2020)
+> - 458: se toma DAFP (DAFP —, Senado 2020)
+> - 459: se toma DAFP (DAFP —, Senado 2020)
+> - 470: se toma Senado (DAFP —, Senado —)
+> - 483: se toma Senado (DAFP —, Senado —)
+> - 490: se toma DAFP (DAFP —, Senado 2020)
+> - 491: se toma Senado (DAFP —, Senado —)
+> - 493: se toma Senado (DAFP —, Senado —)
+> - 508: se toma Senado (DAFP —, Senado —)
+> - 510: se toma Senado (DAFP —, Senado 2011)
+> - 511: se toma Senado (DAFP —, Senado 2011)
+> - 518: se toma Senado (DAFP —, Senado 2026)
+> - 534: se toma Senado (DAFP —, Senado 2019)
+> - 535: se toma Senado (DAFP —, Senado 2019)
+> - 536: se toma Senado (DAFP —, Senado 2019)
+> - 537: se toma Senado (DAFP —, Senado 2019)
+> - 538: se toma Senado (DAFP —, Senado 2019)
+> - 540: se toma Senado (DAFP —, Senado 2019)
+> - 541: se toma Senado (DAFP —, Senado 2019)
+> - 542: se toma Senado (DAFP —, Senado 2019)
+> - 543: se toma Senado (DAFP —, Senado 2019)
+> - 544: se toma Senado (DAFP —, Senado 2019)
+> - 545: se toma Senado (DAFP —, Senado 2019)
+> - 546: se toma Senado (DAFP —, Senado 2019)
+> - 547: se toma Senado (DAFP —, Senado 2019)
+> - 548: se toma Senado (DAFP —, Senado 2019)
+> - 549: se toma Senado (DAFP —, Senado 2019)
+> - 551: se toma Senado (DAFP —, Senado 2019)
+> - 552: se toma Senado (DAFP —, Senado 2019)
+> - 553: se toma Senado (DAFP —, Senado 2019)
+> - 555: se toma Senado (DAFP —, Senado 2019)
+> - 558: se toma Senado (DAFP —, Senado 2019)
+> - 559: se toma Senado (DAFP —, Senado 2019)
+> - 560: se toma Senado (DAFP —, Senado 2019)
+> - 561: se toma Senado (DAFP —, Senado 2019)
+> - 562: se toma Senado (DAFP —, Senado 2019)
+> - 563: se toma Senado (DAFP —, Senado 2019)
+> - 568: se toma Senado (DAFP —, Senado 2019)
+> - 572: se toma Senado (DAFP —, Senado 2019)
+> - 573: se toma Senado (DAFP —, Senado 2019)
+> - 574: se toma Senado (DAFP —, Senado 2019)
+> - 575: se toma Senado (DAFP —, Senado 2019)
+> - 576: se toma Senado (DAFP —, Senado 2019)
+> - 577: se toma Senado (DAFP —, Senado 2019)
+> - 578: se toma Senado (DAFP —, Senado 2019)
+> - 579: se toma Senado (DAFP —, Senado 2019)
+> - 582: se toma Senado (DAFP —, Senado 2019)
+> - 583: se toma Senado (DAFP —, Senado 2019)
+> - 584: se toma Senado (DAFP —, Senado 2019)
+> - 585: se toma Senado (DAFP —, Senado 2019)
+> - 586: se toma Senado (DAFP —, Senado 2019)
+> - 587: se toma Senado (DAFP —, Senado 2019)
+> - 588: se toma Senado (DAFP —, Senado 2019)
+> - 589: se toma Senado (DAFP —, Senado 2019)
+> - 590: se toma Senado (DAFP —, Senado 2019)
+> - 591: se toma Senado (DAFP —, Senado 2019)
+> - 592: se toma Senado (DAFP —, Senado 2019)
+> - 593: se toma Senado (DAFP —, Senado 2019)
+> - 595: se toma Senado (DAFP —, Senado 2019)
+> - 596: se toma Senado (DAFP —, Senado 2019)
+> - 598: se toma Senado (DAFP —, Senado 2019)
+> - 599: se toma Senado (DAFP —, Senado 2019)
+> - 600: se toma Senado (DAFP —, Senado 2019)
+> - 601: se toma Senado (DAFP —, Senado 2019)
+> - 602: se toma Senado (DAFP —, Senado 2019)
+> - 630: se toma Senado (DAFP —, Senado —)
+> - 694: se toma Senado (DAFP —, Senado 1998)
+> - 751: se toma Senado (DAFP —, Senado 1998)
+> - 772: se toma Senado (DAFP —, Senado 2009)
+> - 773: se toma Senado (DAFP 2008, Senado 2013)
+> - 774: se toma Senado (DAFP 2008, Senado 2009)
+> - 777: se toma Senado (DAFP —, Senado 2009)
+> - 778: se toma Senado (DAFP 2008, Senado 2013)
+> - 779: se toma Senado (DAFP 2008, Senado 2008)
+> - 804: se toma Senado (DAFP —, Senado 2012)
+> - 805: se toma DAFP (DAFP —, Senado 2012)
+> - 806: se toma DAFP (DAFP —, Senado 2012)
+> - 807: se toma DAFP (DAFP —, Senado 2012)
+> - 808: se toma DAFP (DAFP —, Senado 2012)
+> - 809: se toma DAFP (DAFP —, Senado 2012)
+> - 810: se toma DAFP (DAFP —, Senado 2012)
+> - 811: se toma DAFP (DAFP —, Senado 2012)
+> - 812: se toma DAFP (DAFP —, Senado 2012)
+> - 813: se toma DAFP (DAFP —, Senado 2012)
+> - 814: se toma DAFP (DAFP —, Senado 2012)
+> - 815: se toma DAFP (DAFP —, Senado 2012)
+> - 816: se toma DAFP (DAFP —, Senado 2012)
+> - 862: se toma Senado (DAFP —, Senado —)
+> - 883: se toma DAFP (DAFP —, Senado 1990)
+> - 884: se toma Senado (DAFP 1999, Senado 2001)
+> - 900: se toma Senado (DAFP —, Senado 2017)
+> - 906: se toma Senado (DAFP —, Senado 1999)
+> - 925: se toma Senado (DAFP —, Senado —)
+> - 947: se toma Senado (DAFP —, Senado —)
+> - 975: se toma DAFP (DAFP —, Senado —)
+> - 976: se toma DAFP (DAFP —, Senado —)
+> - 981: se toma DAFP (DAFP 1990, Senado —)
+> - 982: se toma DAFP (DAFP 1990, Senado —)
+> - 983: se toma DAFP (DAFP 1990, Senado —)
+> - 984: se toma DAFP (DAFP 1990, Senado —)
+> - 985: se toma DAFP (DAFP 1990, Senado —)
+> - 986: se toma DAFP (DAFP 1990, Senado —)
+> - 987: se toma DAFP (DAFP 1990, Senado —)
+> - 988: se toma DAFP (DAFP 1990, Senado —)
+> - 991: se toma DAFP (DAFP 1990, Senado —)
+> - 992: se toma DAFP (DAFP 1990, Senado —)
+> - 993: se toma DAFP (DAFP 1990, Senado —)
+> - 994: se toma DAFP (DAFP 1990, Senado —)
+> - 997: se toma DAFP (DAFP 1990, Senado —)
+> - 998: se toma DAFP (DAFP 1990, Senado —)
+> - 1000: se toma Senado (DAFP 1990, Senado 2005)
+> - 1002: se toma DAFP (DAFP 1990, Senado —)
+> - 1005: se toma DAFP (DAFP 1990, Senado —)
+> - 1006: se toma DAFP (DAFP —, Senado 2012)
+> - 1008: se toma DAFP (DAFP 1990, Senado —)
+> - 1009: se toma DAFP (DAFP 1990, Senado —)
+> - 1010: se toma DAFP (DAFP 1990, Senado —)
+> - 1011: se toma DAFP (DAFP 1990, Senado —)
+> - 1012: se toma DAFP (DAFP 1990, Senado —)
+> - 1013: se toma DAFP (DAFP 1990, Senado —)
+> - 1015: se toma DAFP (DAFP 1990, Senado —)
+> - 1016: se toma DAFP (DAFP 1990, Senado —)
+> - 1017: se toma DAFP (DAFP 1990, Senado —)
+> - 1018: se toma DAFP (DAFP 1990, Senado —)
+> - 1019: se toma DAFP (DAFP 1990, Senado —)
+> - 1021: se toma DAFP (DAFP 1990, Senado —)
+> - 1022: se toma DAFP (DAFP 1990, Senado —)
+> - 1023: se toma DAFP (DAFP 1990, Senado —)
+> - 1024: se toma DAFP (DAFP 1990, Senado —)
+> - 1025: se toma DAFP (DAFP 1990, Senado —)
+> - 1026: se toma DAFP (DAFP 1990, Senado —)
+> - 1027: se toma DAFP (DAFP 1990, Senado —)
+> - 1028: se toma DAFP (DAFP 1990, Senado —)
+> - 1029: se toma DAFP (DAFP 1990, Senado —)
+> - 1030: se toma DAFP (DAFP 1990, Senado —)
+> - 1031: se toma DAFP (DAFP 1990, Senado —)
+> - 1032: se toma DAFP (DAFP 1990, Senado —)
+> - 1033: se toma Senado (DAFP 1990, Senado 2023)
+> - 1034: se toma DAFP (DAFP 1990, Senado —)
+> - 1036: se toma DAFP (DAFP 1997, Senado —)
+> - 1046: se toma DAFP (DAFP 1997, Senado —)
+> - 1047: se toma Senado (DAFP —, Senado —)
+> - 1053: se toma Senado (DAFP 1990, Senado 2012)
+> - 1058: se toma Senado (DAFP —, Senado 2025)
+> - 1066: se toma Senado (DAFP 1990, Senado 1990)
+> - 1068: se toma Senado (DAFP 1990, Senado 1990)
+> - 1080: se toma Senado (DAFP —, Senado 2001)
+> - 1084: se toma Senado (DAFP —, Senado —)
+> - 1117: se toma DAFP (DAFP 1990, Senado —)
+> - 1118: se toma DAFP (DAFP 1990, Senado —)
+> - 1122: se toma DAFP (DAFP 1990, Senado —)
+> - 1124: se toma DAFP (DAFP 1990, Senado —)
+> - 1127: se toma Senado (DAFP 1990, Senado 1990)
+> - 1128: se toma Senado (DAFP 1990, Senado 1990)
+> - 1129: se toma Senado (DAFP —, Senado —)
+> - 1131: se toma Senado (DAFP 1990, Senado 2008)
+> - 1133: se toma Senado (DAFP 1990, Senado 1990)
+> - 1134: se toma Senado (DAFP 1990, Senado 1990)
+> - 1166: se toma DAFP (DAFP —, Senado 1990)
+> - 1184: se toma Senado (DAFP —, Senado —)
+> - 1203: se toma DAFP (DAFP 2013, Senado 2013)
+> - 1207: se toma Senado (DAFP —, Senado —)
+> - 1208: se toma DAFP (DAFP 2013, Senado 2013)
+> - 1209: se toma DAFP (DAFP 2013, Senado 2013)
+> - 1210: se toma DAFP (DAFP 2013, Senado 2013)
+> - 1228: se toma Senado (DAFP —, Senado —)
+> - 1230: se toma Senado (DAFP 2009, Senado 2009)
+> - 1282: se toma Senado (DAFP —, Senado —)
+> - 1302: se toma Senado (DAFP —, Senado —)
+> - 1304: se toma Senado (DAFP —, Senado —)
+> - 1305: se toma DAFP (DAFP —, Senado —)
+> - 1306: se toma DAFP (DAFP —, Senado —)
+> - 1307: se toma DAFP (DAFP —, Senado —)
+> - 1324: se toma Senado (DAFP —, Senado 2006)
+> - 1347: se toma Senado (DAFP —, Senado —)
+> - 1352: se toma Senado (DAFP —, Senado —)
+> - 1358: se toma Senado (DAFP —, Senado —)
+> - 1371: se toma Senado (DAFP —, Senado —)
+> - 1388: se toma DAFP (DAFP —, Senado 1990)
+> - 1426: se toma DAFP (DAFP —, Senado —)
+> - 1428: se toma Senado (DAFP —, Senado —)
+> - 1443: se toma Senado (DAFP —, Senado —)
+> - 1482: se toma Senado (DAFP —, Senado —)
+> - 1490: se toma DAFP (DAFP —, Senado —)
+> - 1538: se toma Senado (DAFP —, Senado —)
+> - 1673: se toma Senado (DAFP —, Senado —)
+> - 1758: se toma Senado (DAFP —, Senado —)
+> - 1773: se toma Senado (DAFP —, Senado —)
+> - 1823: se toma Senado (DAFP —, Senado —)
+> - 1837: se toma Senado (DAFP —, Senado —)
+> - 1855: se toma Senado (DAFP —, Senado —)
+> - 1878: se toma Senado (DAFP —, Senado —)
+> - 1910: se toma DAFP (DAFP —, Senado —)
+> - 1911: se toma DAFP (DAFP —, Senado —)
+> - 1912: se toma Senado (DAFP —, Senado —)
+> - 1914: se toma DAFP (DAFP —, Senado —)
+> - 1915: se toma DAFP (DAFP —, Senado —)
+> - 1916: se toma DAFP (DAFP —, Senado —)
+> - 1917: se toma DAFP (DAFP —, Senado —)
+> - 1918: se toma DAFP (DAFP —, Senado —)
+> - 1919: se toma DAFP (DAFP —, Senado —)
+> - 1920: se toma DAFP (DAFP —, Senado —)
+> - 1921: se toma DAFP (DAFP —, Senado —)
+> - 1922: se toma DAFP (DAFP —, Senado —)
+> - 1923: se toma DAFP (DAFP —, Senado —)
+> - 1924: se toma DAFP (DAFP —, Senado —)
+> - 1925: se toma DAFP (DAFP —, Senado —)
+> - 1926: se toma DAFP (DAFP —, Senado —)
+> - 1927: se toma DAFP (DAFP —, Senado —)
+> - 1928: se toma DAFP (DAFP —, Senado —)
+> - 1929: se toma DAFP (DAFP —, Senado —)
+> - 1930: se toma DAFP (DAFP —, Senado —)
+> - 1931: se toma DAFP (DAFP —, Senado —)
+> - 1932: se toma DAFP (DAFP —, Senado —)
+> - 1933: se toma DAFP (DAFP —, Senado —)
+> - 1934: se toma DAFP (DAFP —, Senado —)
+> - 1935: se toma DAFP (DAFP —, Senado —)
+> - 1936: se toma DAFP (DAFP —, Senado —)
+> - 1937: se toma DAFP (DAFP —, Senado 1995)
+> - 1938: se toma DAFP (DAFP —, Senado 1995)
+> - 1939: se toma DAFP (DAFP —, Senado 1995)
+> - 1940: se toma DAFP (DAFP —, Senado 1995)
+> - 1941: se toma DAFP (DAFP —, Senado 1995)
+> - 1942: se toma DAFP (DAFP —, Senado 1995)
+> - 1943: se toma DAFP (DAFP —, Senado 1995)
+> - 1944: se toma DAFP (DAFP —, Senado 1995)
+> - 1945: se toma DAFP (DAFP —, Senado 1995)
+> - 1946: se toma DAFP (DAFP —, Senado 1995)
+> - 1947: se toma DAFP (DAFP —, Senado 1995)
+> - 1948: se toma DAFP (DAFP —, Senado 1995)
+> - 1949: se toma DAFP (DAFP —, Senado 1995)
+> - 1950: se toma DAFP (DAFP —, Senado 1995)
+> - 1951: se toma DAFP (DAFP —, Senado 1995)
+> - 1952: se toma DAFP (DAFP —, Senado 1995)
+> - 1953: se toma DAFP (DAFP —, Senado 1995)
+> - 1954: se toma DAFP (DAFP —, Senado 1995)
+> - 1955: se toma DAFP (DAFP —, Senado 1995)
+> - 1956: se toma DAFP (DAFP —, Senado 1995)
+> - 1957: se toma DAFP (DAFP —, Senado 1995)
+> - 1958: se toma DAFP (DAFP —, Senado 1995)
+> - 1959: se toma DAFP (DAFP —, Senado 1995)
+> - 1960: se toma DAFP (DAFP —, Senado 1995)
+> - 1961: se toma DAFP (DAFP —, Senado 1995)
+> - 1962: se toma DAFP (DAFP —, Senado 1995)
+> - 1963: se toma DAFP (DAFP —, Senado 1995)
+> - 1964: se toma DAFP (DAFP —, Senado 1995)
+> - 1965: se toma DAFP (DAFP —, Senado 1995)
+> - 1966: se toma DAFP (DAFP —, Senado 1995)
+> - 1967: se toma DAFP (DAFP —, Senado 1995)
+> - 1968: se toma DAFP (DAFP —, Senado 1995)
+> - 1969: se toma DAFP (DAFP —, Senado 1995)
+> - 1970: se toma DAFP (DAFP —, Senado 1995)
+> - 1971: se toma DAFP (DAFP —, Senado 1995)
+> - 1972: se toma DAFP (DAFP —, Senado 1995)
+> - 1973: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1974: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1975: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1976: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1977: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1978: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1979: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1980: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1981: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1982: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1983: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1984: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1985: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1986: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1987: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1988: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1989: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1990: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1991: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1992: se toma DAFP (DAFP 1995, Senado 1995)
+> - 1993: se toma DAFP (DAFP —, Senado 1995)
+> - 1994: se toma DAFP (DAFP —, Senado 1995)
+> - 1995: se toma DAFP (DAFP —, Senado 1995)
+> - 1996: se toma DAFP (DAFP —, Senado 1995)
+> - 1997: se toma DAFP (DAFP —, Senado 1995)
+> - 1998: se toma DAFP (DAFP —, Senado 1995)
+> - 1999: se toma DAFP (DAFP —, Senado 1995)
+> - 2000: se toma DAFP (DAFP —, Senado 1995)
+> - 2001: se toma DAFP (DAFP —, Senado 1995)
+> - 2002: se toma DAFP (DAFP —, Senado 1995)
+> - 2003: se toma DAFP (DAFP —, Senado 1995)
+> - 2004: se toma DAFP (DAFP —, Senado 1995)
+> - 2005: se toma DAFP (DAFP —, Senado 1995)
+> - 2006: se toma DAFP (DAFP —, Senado 1995)
+> - 2007: se toma DAFP (DAFP —, Senado 1995)
+> - 2008: se toma DAFP (DAFP —, Senado 1995)
+> - 2009: se toma DAFP (DAFP —, Senado 1995)
+> - 2010: se toma DAFP (DAFP —, Senado 1995)
+
+> [!bug]- Avisos de la conversión (21)
+> - cabecera descartada (salto 150): ARTÍCULO 183 . CONSECUENCIAS POR EL NO PAGO DE MULTAS. Si tr
+> - cabecera descartada (interpolada): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 28 . RACIONALIZACIÓN DE LA CONSERVACIÓN DE LIBROS Y
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
+> - cabecera descartada (secuencia): ARTÍCULO 86. Además la Superintendencia de Sociedades cumpli
 > - cabecera descartada (secuencia): ARTÍCULO 1o. Denomínanse cheques fiscales, aquellos que son 
-> - cabecera descartada (secuencia): ARTÍCULO 2o . Las restricciones contenidas en el artículo an
-> - cabecera descartada (secuencia): ARTÍCULO 3o . Las únicas personas autorizadas para celebrar 
+> - cabecera descartada (secuencia): ARTÍCULO 2o. Las restricciones contenidas en el artículo ant
+> - cabecera descartada (secuencia): ARTÍCULO 3o. Las únicas personas autorizadas para celebrar c
 > - cabecera descartada (secuencia): ARTÍCULO 4o. Los funcionarios de las entidades públicas enca
 > - cabecera descartada (secuencia): ARTÍCULO 5o. Los establecimientos bancarios que pagaren o ne
 > - cabecera descartada (secuencia): ARTÍCULO 6o. Esta ley rige a partir de la fecha de su promul
-> - cabecera descartada (secuencia): ARTÍCULO 1100%. OTORGAMIENTO DE PERMISO DE OPERACIÓN A LAS E
+> - cabecera descartada (secuencia): ARTÍCULO 101. DE LOS INTERMEDIARIOS DE SEGUROS. Los corredor
+> - cabecera descartada (secuencia): ARTÍCULO 83. TÉRMINO DE VIGENCIA DE LOS CERTIFICADOS. El cer
+> - cabecera descartada (secuencia): ARTÍCULO 83. TÉRMINO DE VIGENCIA DE LOS CERTIFICADOS. El cer
+> - artículo 1913 tomado solo de DAFP

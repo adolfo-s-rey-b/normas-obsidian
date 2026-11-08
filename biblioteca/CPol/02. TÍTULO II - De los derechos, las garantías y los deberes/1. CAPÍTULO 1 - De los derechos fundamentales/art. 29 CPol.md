@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título II - Capítulo 1|CAPÍTULO 1 - De los derechos funda
 vigencia: "vigente"
 anterior: "[[art. 28 CPol]]"
 siguiente: "[[art. 30 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#29"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2025
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -34,191 +39,25 @@ Nadie podrá ser juzgado sino conforme a leyes preexistentes al acto que se le i
 
 En materia penal, la ley permisiva o favorable, aun cuando sea posterior, se aplicará de preferencia a la restrictiva o desfavorable.
 
-> [!note] Ver Ley 975 de 2005; Art. [[art. 63 Ley 975 de 2005|63]]
+> [!note] Concordancias: Ley 975 de 2005; Art. [[art. 63 CPP|63]] Ley 906 de 2004; Art. [[art. 6 CPP|6]] o.; Art. [[art. 38 CPP|38]] Num. 7o. Ley 600 de 2000; Art. [[art. 6 Ley 600 de 2000|6]] o.; Art. [[art. 79 Ley 600 de 2000|79]] Num. 7o. Ley 599 de 2000; Art. [[art. 6 CP|6]] o.
 
-> [!note] Ver Ley 906 de 2004; Art. [[art. 6 CPP|6]]o .; Art. [[art. 38 CPP|38]] Num. 7
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-922-01 ; C-692-08 ; C-98010 ; C-331-12 ; C-034-14 ;
 
-> [!note] Ver Ley 600 de 2000; Art. [[art. 6 Ley 600 de 2000|6]]o .; Art. [[art. 79 Ley 600 de 2000|79]] Num. 7
+> [!note] Jurisprudencia Unificación: Consejo de Estado, Sección Primera, Sentencia de Unificación Jurisprudencial, Expediente No. 2013-00701-01 de 4 de agosto de 2016, C.P. Dr. Guillermo Vargas Ayala.
 
-> [!note] Ver Ley 599 de 2000; Art. [[art. 6 CP|6]]
+Toda persona se presume inocente mientras no se la haya declarado judicialmente culpable. Quien sea sindicado tiene derecho a la defensa y a la asistencia de un abogado escogido por él, o de oficio, durante la investigación y el juzgamiento; a un debido proceso público sin dilaciones injustificadas; a presentar pruebas y a controvertir las que se alleguen en su contra; a impugnar la sentencia condenatoria, y a no ser juzgado dos veces por el mismo hecho.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-922-01; C-692-08 ; C-980-10; C-331-12; C-034-14
-
-Toda persona se presume inocente mientras no se la haya declarado judicialmente culpable. Quien sea sindicado tiene derecho a la defensa y a la asistencia de un abogado escogido por el, o de oficio, durante la investigación y el juzgamiento; a un debido proceso público sin dilaciones injustificadas; a presentar pruebas y a controvertir las que se alleguen en su contra; a impugnar la sentencia condenatoria, y a no ser juzgado dos veces por el mismo hecho.
-
-> [!note] ver Ley 1142 de 2007; Art. [[art. 47 Ley 1142 de 2007|47]]
+> [!note] Concordancias: Ley 1142 de 2007; Art. [[art. 47 Ley 1142 de 2007|47]]
 
 Es nula, de pleno derecho, la prueba obtenida con violación del debido proceso.
 
-> [!note] Ver Constitución Política; Art. [[art. 31 CPol|31]] ; Art. [[art. 228 CPol|228]]
+> [!note] Concordancias: Constitución Política; Art. [[art. 31 CPol|31]] ; Art. [[art. 228 Ley 65 de 1993|228]] Ley 65 de 1993; Art. [[art. 2 Ley 65 de 1993|2]] ; Art. [[art. 134 Ley 80 de 1993|134]] Ley 80 de 1993; Art. [[art. 22 Ley 80 de 1993|22]] ; Art. [[art. 57 Ley 80 de 1993|57]] ; Art. [[art. 58 Ley 80 de 1993|58]] ; Art. [[art. 59 Ley 104 de 1993|59]] Ley 104 de 1993; Art. [[art. 116 Ley 142 de 1994|116]] Ley 142 de 1994; Art. [[art. 29 Ley 200 de 1995|29]] Ley 200 de 1995 Ley 241 de 1995; Art. [[art. 54 Ley 270 de 1996|54]] Ley 270 de 1996; Art. [[art. 3 Ley 270 de 1996|3]] : Art. [[art. 4 Ley 333 de 1996|4]] Ley 333 de 1996; Art. [[art. 11 Ley 333 de 1996|11]] ; Art. [[art. 16 Ley 379 de 1997|16]] Ley 379 de 1997 Ley 388 de 1997; Art. [[art. 66 Ley 388 de 1997|66]] ; Art. [[art. 70 Ley 388 de 1997|70]] ; Art. [[art. 71 Ley 418 de 1997|71]] Ley 418 de 1997; Art. [[art. 73 CP|73]] Ley 599 de 2000 Ley 600 de 2000 Ley 679 de 2001 Ley 712 de 2001 Decreto 1975 de 2002; Art 8 ; Art. [[art. 9 Ley 734 de 2002|9]] Ley 734 de 2002 Ley 745 de 2002 Ley 747 de 2002 Ley 759 de 2002 Ley 764 de 2002 Ley 765 de 2002 Ley 777 de 2002 Ley 782 de 2002; Art. [[art. 27 Ley 793 de 2002|27]] Ley 793 de 2002; Art. [[art. 8 Ley 793 de 2002|8]] ; Art. [[art. 9 Ley 793 de 2002|9]] ; Art. [[art. 10 Ley 794 de 2003|10]] Ley 794 de 2003 Ley 813 de 2003 Ley 830 de 2003 Ley 837 de 2003 Ley 890 de 2004 Ley 906 de 2004 Ley 919 de 2004 Ley 937 de 2004 Ley 941 de 2005 Ley 975 de 2005 Ley 1017 de 2006 Ley 1028 de 2006 Ley 1032 de 2006 Ley 1073 de 2006 Ley 1098 de 2006; Art. [[art. 26 Ley 1123 de 2007|26]] Ley 1123 de 2007 Ley 1142 de 2007 Ley 1149 de 2007 Ley 1150 de 2007; Art. [[art. 17 Ley 1153 de 2007|17]] Ley 1153 de 2007 Ley 1154 de 2007 Ley 1181 de 2007 Ley 1194 de 2008 Ley 1200 de 2008 Ley 1201 de 2008 Ley 1210 de 2008 Ley 1220 de 2008 Ley 1224 de 2008 Ley 1236 de 2008 Ley 1268 de 2008 Ley 1273 de 2009 Ley 1282 de 2009 Ley 1285 de 2009; Art. [[art. 1 Ley 1285 de 2009|1]] o. Ley 1309 de 2009 Ley 1311 de 2009 Ley 1312 de 2009 Ley 1326 de 2009 Ley 1329 de 2009 Ley 1330 de 2009 Ley 1333 de 2009 Ley 1336 de 2009 Ley 1356 de 2009 Ley 1357 de 2009 Ley 1381 de 2010; Art. [[art. 7 Ley 1381 de 2010|7]] o. Ley 1393 de 2010; Art. [[art. 18 Ley 1395 de 2010|18]] Ley 1395 de 2010 Ley 1407 de 2010 Ley 1418 de 2010; Art. [[art. 11 Ley 1418 de 2010|11]] ; Art. [[art. 17 Ley 1424 de 2010|17]] Ley 1424 de 2010 Ley 1426 de 2010 Ley 1448 de 2011 Ley 1453 de 2011 Ley 1474 de 2011 Ley 1476 de 2011 Ley 1482 de 2011 Ley 1542 de 2012 Ley 1561 de 2012 Ley 1564 de 2012 Ley 1592 de 2012 Ley 1621 de 2013; Art. [[art. 4 Ley 1621 de 2013|4]] o. Ley 1653 de 2013 Ley 1752 de 2015 Ley 1765 de 2015 Ley 1826 de 2017 Ley 1952 de 2019 Ley 2078 de 2021 Ley 2094 de 2021 Ley 2195 de 2022; Art. [[art. 8 Ley 2213 de 2022|8]] Ley 2213 de 2022 Ley 2444 de 2025
 
-> [!note] Ver Ley 65 de 1993; Art. [[art. 2 Ley 65 de 1993|2]] ; Art. [[art. 134 Ley 65 de 1993|134]]
+> [!note] Jurisprudencia Unificación: Consejo de Estado, Sala Plena, Sentencia de Unificación, Expediente No. 11001-03-25-000-2011-00371-00(IJ) de 21 de mayo de 2019, C.P. Dr. César Palomino Cortés.
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 22 Ley 80 de 1993|22]] ; Art. [[art. 57 Ley 80 de 1993|57]] ; Art. [[art. 58 Ley 80 de 1993|58]] ; Art. [[art. 59 Ley 80 de 1993|59]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-479-92 ; C-541-92 ; C-543-92 ; C-549-92 ; C-556-92 ; C-557-92 ; C-561-92 ; C-587-92 ; C-599-92 ; C-606-92 ; C-096-93 ; C-214-94 ; C-264-95 ; C-272-97; C-010-2001 ; C-013-2001 ; C-046-2001 ; C-047-2001 ; C-052-2001 ; C-060-2001 ; C-095-2001 ; C-096-2001 ; C-140-2001 ; C-143-2001 ; C-173-2001 ; C-252-2001 ; C-329-2001 ; C-333-2001 ; C-361-2001 ; C-364-2001 ; C-403-2001 ; C-404-2001 ; C-429-2001 ; C-477-2001 ; C-479-2001 ; C-551-2001 ; C-553-2001 ; C-554-2001 ; C-555-2001 ; C-556-2001 ; C-557-2001 ; C-581-2001 ; C-619-2001 ; C-620-2001 ; C-1026-2001 ; C-1066-2001 ; C-1147-2001 ; C-1178-2001 ; C-1195-2001 ; C-1212-2001 ; C-1247-2001 ; C-1251-2001 ; C-011-2002 ; C-012-2002 ; C-040-2002 ; C-041-2002 ; C-042-2002 ; C-043-2002 ; C-087-2002 ; C-088-2002 ; C-091-2002 ; C-131-2002 ; C-156-2002 ; C-187-2002; C-200-02 ; C-870-02 ; C-004-03 ; C-006-03 ; C-009-03 ; C-010-03 ; C-030-03 ; C-033-03 ; C-036-03 ; C-039-03 ; C-040-03 ; C-091-03; C-096-03 ; C-099-03 ; C-100-03 ; C-123-03 ; C-124-03 ; C-125-03 ; C-128-03 ; C-131-03 ; C-182-03 ; C-205-03 ; C-207-03 ; C-228-03 ; C-234-03 ; C-311-03 ; C-317-03 ; C-328-03 ; C-330-03 ; C-356-03 ; C-406-03 ; C-429-03 ; C-450-03 ; C-485-03 ; C-526-03 ; C-567-03 ; C-573-03 ; C-900-03 ; C-942-03 ; C-1003-03 ; C-1055-03 ; C-1061-03 ; C-1096-03 ; C-014-04 ; C-017-04 ; C-018-04 ; C-041-04 ; C-074-04 ; C-075-04 ; C-101-04 ; C-107-04 ; C-122-04 ; C-123-04 ; C-125-04 ; C-152-04 ; C-154-04 ; C-157-04 ; C-173-04 ; C-237-04 ; C-237A-04 ; C-248-04 ; C-374-04 ; C-379-04 ; C-407-04 ; C-458-04 ; C-510-04 ; C-569-04 ; C-998-04 ; C-062-05 ; C-194-05 ; C-591-05 ; C-592-05 ; C-669-05 ; C-853-05 ; C-1189-05 ; C-030-06 ; C-047-06 ; C-117-06 ; C-123-06 ; C-340-06 ; C-393-06 ; C-507-06 ; C-425-06 ; C-340-07 ; C-692-08 ; C-860-08 ; C-241-09 ; C-801-09 ; C-980-10 ; C-089-11 ; C-444-11 ; C-644-11 ; C-289-12 ; C-434-13 ; C-755-13 ; C-034-14 ; C-035-14 ; C-431-14; C-792-14 ; C-225-17 ; C-349-17 ; C-394-19 ; C-321-21 ; C-406-21 ; C-269-22 ; C-321-22 ; C-397-24 ; C-504-25 ;
 
-> [!note] Ver Ley 104 de 1993; Art. [[art. 116 Ley 104 de 1993|116]]
-
-> [!note] Ver Ley 142 de 1994; Art. [[art. 29 Ley 142 de 1994|29]]
-
-> [!note] Ver Ley 241 de 1995; Art. [[art. 54 Ley 241 de 1995|54]]
-
-> [!note] Ver Ley 270 de 1996; Art. [[art. 3 Ley 270 de 1996|3]] ; Art. [[art. 4 Ley 270 de 1996|4]]
-
-> [!note] Ver Ley 333 de 1996; Art. [[art. 11 Ley 333 de 1996|11]] ; Art. [[art. 16 Ley 333 de 1996|16]]
-
-> [!note] Ver Ley 379 de 1997
-
-> [!note] Ver Ley 388 de 1997; Art. [[art. 66 Ley 388 de 1997|66]] ; Art. [[art. 70 Ley 388 de 1997|70]] ; Art. [[art. 71 Ley 388 de 1997|71]]
-
-> [!note] Ver Ley 418 de 1997; Art. [[art. 73 Ley 418 de 1997|73]]
-
-> [!note] Ver Ley 599 de 2000
-
-> [!note] Ver Ley 600 de 2000
-
-> [!note] Ver Ley 679 de 2001
-
-> [!note] Ver Ley 712 de 2001
-
-> [!note] Ver Decreto 1975 de 2002; Art 8 ; Art. [[art. 9 Decreto 1975 de 2002|9]]
-
-> [!note] Ver Ley 734 de 2002
-
-> [!note] Ver Ley 745 de 2002
-
-> [!note] Ver Ley 747 de 2002
-
-> [!note] Ver Ley 759 de 2002
-
-> [!note] Ver Ley 764 de 2002
-
-> [!note] Ver Ley 765 de 2002
-
-> [!note] Ver Ley 777 de 2002
-
-> [!note] Ver Ley 782 de 2002; Art. [[art. 27 Ley 782 de 2002|27]]
-
-> [!note] Ver Ley 793 de 2002; Art. [[art. 8 Ley 793 de 2002|8]] ; Art. [[art. 9 Ley 793 de 2002|9]] ; Art. [[art. 10 Ley 793 de 2002|10]]
-
-> [!note] Ver Ley 794 de 2003
-
-> [!note] Ver Ley 813 de 2003
-
-> [!note] Ver Ley 837 de 2003
-
-> [!note] Ver Ley 890 de 2004
-
-> [!note] Ver Ley 906 de 2004
-
-> [!note] Ver Ley 919 de 2004
-
-> [!note] Ver Ley 937 de 2004
-
-> [!note] Ver Ley 941 de 2005
-
-> [!note] Ver Ley 975 de 2005
-
-> [!note] Ver Ley 1028 de 2006
-
-> [!note] Ver Ley 1098 de 2006; Art. [[art. 26 Ley 1098 de 2006|26]]
-
-> [!note] Ver Ley 1123 de 2007
-
-> [!note] Ver Ley 1142 de 2007
-
-> [!note] Ver Ley 1149 de 2007
-
-> [!note] Ver Ley 1150 de 2007; Art. [[art. 17 Ley 1150 de 2007|17]]
-
-> [!note] Ver Ley 1153 de 2007
-
-> [!note] Ver Ley 1154 de 2007
-
-> [!note] Ver Ley 1181 de 2007
-
-> [!note] Ver Ley 1194 de 2008
-
-> [!note] Ver Ley 1200 de 2008
-
-> [!note] Ver Ley 1201 de 2008
-
-> [!note] Ver Ley 1210 de 2008
-
-> [!note] Ver Ley 1220 de 2008
-
-> [!note] Ver Ley 1224 de 2008
-
-> [!note] Ver Ley 1236 de 2008
-
-> [!note] Ver Ley 1268 de 2008
-
-> [!note] Ver Ley 1273 de 2009
-
-> [!note] Ver Ley 1282 de 2009
-
-> [!note] Ver Ley 1285 de 2009; Art. [[art. 1 Ley 1285 de 2009|1]]
-
-> [!note] Ver Ley 1309 de 2009
-
-> [!note] Ver Ley 1311 de 2009
-
-> [!note] Ver Ley 1312 de 2009
-
-> [!note] Ver Ley 1326 de 2009
-
-> [!note] Ver Ley 1329 de 2009
-
-> [!note] Ver Ley 1330 de 2009
-
-> [!note] Ver Ley 1333 de 2009
-
-> [!note] Ver Ley 1336 de 2009
-
-> [!note] Ver Ley 1356 de 2009
-
-> [!note] Ver Ley 1357 de 2009
-
-> [!note] Ver Ley 1381 de 2010; Art. [[art. 7 Ley 1381 de 2010|7]]
-
-> [!note] Ver Ley 1393 de 2010; Art. [[art. 18 Ley 1393 de 2010|18]]
-
-> [!note] Ver Ley 1395 de 2010
-
-> [!note] Ver Ley 1407 de 2010
-
-> [!note] Ver Ley 1418 de 2010; Art. [[art. 11 Ley 1418 de 2010|11]] ; Art. [[art. 17 Ley 1418 de 2010|17]]
-
-> [!note] Ver Ley 1448 de 2011
-
-> [!note] Ver Ley 1453 de 2011
-
-> [!note] Ver Ley 1474 de 2011
-
-> [!note] Ver Ley 1476 de 2011
-
-> [!note] Ver Ley 1482 de 2011
-
-> [!note] Ver Ley 1542 de 2012
-
-> [!note] Ver Ley 1561 de 2012
-
-> [!note] Ver Ley 1564 de 2012
-
-> [!note] Ver Ley 1592 de 2012
-
-> [!note] Ver Ley 1621 de 2013; Art. [[art. 4 Ley 1621 de 2013|4]]
-
-> [!note] Ver Ley 1653 de 2013
-
-> [!note] Ver Ley 1752 de 2015
-
-> [!note] Ver Ley 1765 de 2015
-
-> [!note] Ver Ley 1826 de 2017
-
-> [!note] Ver Ley 1952 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-479-92 ; C-543-92 ; C-606-92; C-096-93; C-214-94; C-264-95; C-272-97; C-010-2001; C-013-2001; C-046-2001; C-047-2001 ; C-052-2001; C-060-2001 ; C-095-2001; C-096-2001 ; C-140-2001; C-143-2001; C-173-2001; C-252-2001 ; C-329-2001; C-333-2001; C-361-2001; C-364-2001 ; C-403-2001; C-404-2001 ; C-429-2001 ; C-477-2001 ; C-479-2001; C-551-2001; C-553-2001; C-554-2001; C-555-2001; C-556-2001; C-557-2001; C-581-2001; C-619-2001; C-620-2001 ; C-1026-2001; C-1066-2001; C-1147-2001; C-1178-2001; C-1195-2001 ; C-1212-2001; C-1247-2001; C-1251-2001; C-011-2002; C-040-2002; C-042-2002; C-043-2002 ; C-087-2002; C-088-2002 ; C-091-2002; C-131-2002 ; C-187-2002; C-200-02; C-870-02 ; C-004-03; C-006-03; C-009-03; C-010-03; C-030-03; C-033-03; C-036-03 ; C-039-03; C-040-03; C-091-03; C-096-03; C-099-03; C-100-03 ; C-123-03; C-124-03 ; C-125-03 ; C-131-03 ; C-182-03; C-205-03; C-207-03 ; C-228-03; C-311-03; C-328-03 ; C-330-03; C-406-03; C-429-03 ; C-450-03 ; C-485-03 ; C-526-03 ; C-567-03; C-900-03; C-942-03 ; C-1003-03; C-1061-03 ; C-1096-03; C-014-04 ; C-041-04 ; C-101-04; C-107-04 ; C-122-04; C-123-04; C-125-04; C-152-04; C-154-04; C-157-04 ; C-173-04 ; C-237-04; C-237A-04; C-248-04; C-374-04; C-407-04; C-510-04; C-569-04 ; C-998-04; C-062-05; C-194-05; C-591-05 ; C-592-05; C-669-05; C-853-05; C-1189-05 ; C-030-06; C-047-06; C-117-06; C-123-06; C-340-06; C-393-06 ; C-507-06; C-425-06; C-340-07 ; C-692-08 ; C-860-08; C-241-09 ; C-801-09; C-980-10; C-089-11; C-444-11; C-644-11 ; C-289-12; C-434-13 ; C-755-13; C-034-14; C-035-14; C-431-14; C-792-14; C-225-17; C-349-17; C-394-19
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 5, 10, 12, 20, 23, 24, 25, 26, 27, 29, 30, 34, 51, 60, 65, 74, 75, 82 y 83)
 
 ---
 ← [[art. 28 CPol]] · ↑ [[CPol - Título II - Capítulo 1|Capítulo 1]] · [[art. 30 CPol]] →

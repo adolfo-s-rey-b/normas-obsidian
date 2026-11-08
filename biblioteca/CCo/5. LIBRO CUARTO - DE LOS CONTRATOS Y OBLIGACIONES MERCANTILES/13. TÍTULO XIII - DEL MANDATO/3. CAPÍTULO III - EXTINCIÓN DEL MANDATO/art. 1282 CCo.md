@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título XIII - Capítulo III|CAPÍTULO III - E
 vigencia: "vigente"
 anterior: "[[art. 1281 CCo]]"
 siguiente: "[[art. 1283 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1282"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo 1282. EFECTOS DE LA REVOCACIÓN
 
-La revocación producirá efectos a partir del momento en que el mandatario tenga conocimiento de ella, sin perjuicio de lo dispuesto en el artículo [[art. 2199 CC|2199]] del Código Civil.
+La revocación producirá efectos a partir del momento en que el mandatario tenga conocimiento de ella, sin perjuicio de lo dispuesto en el artículo 2199ódigo Civil.
 
 ---
 ← [[art. 1281 CCo]] · ↑ [[CCo - Libro Cuarto - Título XIII - Capítulo III|Capítulo III]] · [[art. 1283 CCo]] →

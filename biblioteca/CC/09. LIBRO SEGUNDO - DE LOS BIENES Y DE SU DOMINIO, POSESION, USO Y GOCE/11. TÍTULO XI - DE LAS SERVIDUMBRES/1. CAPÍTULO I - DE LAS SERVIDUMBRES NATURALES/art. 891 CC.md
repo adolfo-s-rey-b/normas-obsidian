@@ -17,7 +17,7 @@ anterior: "[[art. 890 CC]]"
 siguiente: "[[art. 892 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -32,9 +32,9 @@ El predio inferior está sujeto a recibir las aguas que descienden del predio su
 
 No se puede, por consiguiente, dirigir un albañal o acequia sobre el predio vecino, si no se ha constituido esta servidumbre especial.
 
-(sic)
-
 En el predio servil no se puede hacer cosa alguna que estorbe la servidumbre natural, ni el predio dominante, que la grave.
+
+(sic)
 
 ---
 ← [[art. 890 CC]] · ↑ [[CC - Libro Segundo - Título XI - Capítulo I|Capítulo I]] · [[art. 892 CC]] →

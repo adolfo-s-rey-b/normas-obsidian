@@ -11,8 +11,13 @@ modificado_por:
   - "[[art. 5 Ley 2195 de 2022]]"
 anterior: "[[art. 34-2 Ley 1474 de 2011]]"
 siguiente: "[[art. 34-4 Ley 1474 de 2011]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292#34-3"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1474_2011.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2022
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
@@ -23,9 +28,11 @@ tags:
 
 ## Artículo 34-3. CRITERIOS DE GRADUACIÓN DE LAS SANCIONES
 
-Para efectos de la graduación de las sanciones de que trata el Artículo [[art. 34 Ley 1474 de 2011|34]] de la Ley 1474 de 2011, se tendrán en cuenta los siguientes criterios:
+CRITERIOS DE GRADUACIÓN DE LAS SANCIONES. Para efectos de la graduación de las sanciones de que trata el artículo [[art. 34 Ley 1474 de 2011|34]] de la Ley 1474 de 2011, se tendrán en cuenta los siguientes criterios:
 
-Circunstancias Agravantes:
+> [!info] Artículo adicionado por el artículo [[art. 5 Ley 2195 de 2022|5]] de la Ley 2195 de 2022. El nuevo texto es el siguiente:
+
+Circunstancias agravantes:
 
 a) El daño o peligro generado a los intereses jurídicos tutelados.
 
@@ -37,15 +44,17 @@ d) La resistencia, negativa u obstrucción a la acción investigadora o de super
 
 e) La utilización de medios fraudulentos o utilización de persona interpuesta para ocultar la infracción u ocultar sus efectos.
 
-f) La renuencia o desacato en el cumplimiento de las órdenes impartidas por la autoridad competente. Circunstancias Atenuantes:
+f) La renuencia o desacato en el cumplimiento de las órdenes impartidas por la autoridad competente.
+
+Circunstancias atenuantes:
 
 a) El reconocimiento o aceptación expresa de la infracción antes del decreto de pruebas salvo que se esté en presencia de reiteración de conductas.
 
 b) El grado de cumplimiento de las medidas cautelares.
 
-c) La realización de un proceso adecuado de debida diligencia, en caso que la persona jurídica o la sucursal de sociedad extranjera domiciliadas en Colombia hayan sido adquiridas por un tercero, con posterioridad a los hechos de corrupción.
+c) La realización de un proceso adecuado de debida diligencia, en caso de que la persona jurídica o la sucursal de sociedad extranjera domiciliadas en Colombia hayan sido adquiridas por un tercero, con posterioridad a los hechos de corrupción.
 
-d) Que la persona jurídica o sucursal de sociedad extranjera domiciliada en Colombia hayan entregado pruebas relacionadas con la comisión de los delitos del Artículo [[art. 34 Ley 1474 de 2011|34]] de esta ley por parte de sus administradores, funcionarios o empleados involucrados.
+d) Que la persona jurídica o sucursal de sociedad extranjera domiciliada en Colombia hayan entregado pruebas relacionadas con la comisión de los delitos del artículo [[art. 34 Ley 1474 de 2011|34]] de esta ley por parte de sus administradores, funcionarios o empleados involucrados.
 
 e) Haber puesto en conocimiento de las autoridades de inspección, vigilancia y control la infracción.
 
@@ -53,7 +62,7 @@ f) Adoptar medidas y acciones que, a juicio de la autoridad administrativa encar
 
 g) Abstenerse de ejecutar los negocios jurídicos o de ejercer los derechos obtenidos mediante la ejecución de actos de corrupción.
 
-> [!info] Adicionado por el Art. [[art. 5 Ley 2195 de 2022|5]] de la Ley 2195 de 2022
+> [!info] Notas de Vigencia: Artículo adicionado por el artículo [[art. 5 Ley 2195 de 2022|5]] de la Ley 2195 de 2022, 'por medio de la cual se adoptan medidas en materia de transparencia, prevención y lucha contra la corrupción y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.921 de 18 de enero de 2022.
 
 ---
 ← [[art. 34-2 Ley 1474 de 2011]] · ↑ [[Ley 1474 de 2011 - Capítulo II|Capítulo II]] · [[art. 34-4 Ley 1474 de 2011]] →

@@ -13,10 +13,16 @@ libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título III|TÍTULO III - DE LA SOCIEDAD COLECTIVA]]"
 capitulo: "[[CCo - Libro Segundo - Título III - Capítulo IV|CAPÍTULO IV - REGLAS ESPECIALES SOBRE DISOLUCIÓN DE LA SOCIEDAD COLECTIVA]]"
 vigencia: "vigente"
+derogado_por:
+  - "[[art. 340 CC]]"
 anterior: "[[art. 319 CCo]]"
 siguiente: "[[art. 321 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#320"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -31,7 +37,9 @@ El pacto de continuar la sociedad con los herederos de un socio fallecido, sólo
 
 Habiendo entre los herederos del socio fallecido alguno o algunos que reúnan las condiciones indicadas en este artículo, podrá continuar la sociedad si se adjudica a tales herederos las partes de interés del difunto; pero si éstas se adjudican, en todo o en parte, a personas que carezcan de capacidad para ejercer el comercio o que no puedan obtener la habilitación respectiva, la sociedad se disolverá desde la fecha del registro de la correspondiente partición.
 
-Cuando la incapacidad provenga de falta de edad y el heredero pueda obtener y obtenga la habilitación de edad antes del registro de la partición, se cumplirá el pacto de que trata este artículo.
+Cuando la incapacidad provenga de falta de edad y el heredero pueda obtener y obtenga la habilitación de edad* antes del registro de la partición, se cumplirá el pacto de que trata este artículo.
+
+> [!warning] Notas del Editor: * La Ley 27 de 1977, publicada en el Diario Oficial No. 34.902, de 4 de noviembre de 1977, estableció la mayoría de edad a los 18 años, El artículo [[art. 340 CC|340]] l Código Civil otorgaba la habilitación de edad a partir de los 18 años. En este sentido quedó derogada la habilitación de edad.
 
 ---
 ← [[art. 319 CCo]] · ↑ [[CCo - Libro Segundo - Título III - Capítulo IV|Capítulo IV]] · [[art. 321 CCo]] →

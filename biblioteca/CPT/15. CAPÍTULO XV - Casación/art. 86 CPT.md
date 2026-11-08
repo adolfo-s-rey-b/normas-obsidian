@@ -17,7 +17,8 @@ modificado_por:
 anterior: "[[art. 85 CPT]]"
 siguiente: "[[art. 87 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#86"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2010
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

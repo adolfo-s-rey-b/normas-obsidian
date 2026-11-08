@@ -17,7 +17,11 @@ derogado_por:
 anterior: "[[art. 345 CST]]"
 siguiente: "[[art. 347 CST]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983#346"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst

@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 265 CP|Artículo 265]] — Daño en bien ajeno
+- [[art. 265 CP|Artículo 265]] — DAÑO EN BIEN AJENO
 - [[art. 266 CP|Artículo 266]] — Circunstancias de agravación punitiva
 
 ---

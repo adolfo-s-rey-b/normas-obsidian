@@ -18,7 +18,7 @@ anterior: "[[art. 2523 CC]]"
 siguiente: "[[art. 2525 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -29,7 +29,7 @@ tags:
 
 ## Artículo 2524
 
-<Artículo derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil>
+> [!warning] Artículo derogado por el artículo [[art. 698 CPC|698]] del Código de Procedimiento Civil
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 698 CPC|698]] del C.P.C., publicado en el Diario Oficial No. 33.150 de 21 de septiembre de 1970.
 

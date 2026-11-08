@@ -8,26 +8,40 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "271"
-epigrafe: "Defraudación a los derechos patrimoniales de autor"
+epigrafe: "VIOLACIÓN A LOS DERECHOS PATRIMONIALES DE AUTOR Y DERECHOS CONEXOS"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VIII|TÍTULO VIII - DE LOS DELITOS CONTRA LOS DERECHOS DE AUTOR]]"
 capitulo: "[[CP - Libro Segundo - Título VIII - Capítulo Unico|CAPÍTULO UNICO]]"
-vigencia: "vigente"
+vigencia: "modificado"
+modificado_por:
+  - "[[art. 2 Ley 1032 de 2006]]"
+  - "[[art. 36 Ley 1915 de 2018]]"
+derogado_por:
+  - "[[art. 16 Ley 1520 de 2012]]"
+  - "[[art. 2 Ley 1032 de 2006]]"
+  - "[[art. 14 Ley 890 de 2004]]"
+  - "[[art. 15 CP]]"
 anterior: "[[art. 270 CP]]"
 siguiente: "[[art. 272 CP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#271"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2018
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/vigente
+  - vigencia/modificado
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VIII|Título VIII]] › [[CP - Libro Segundo - Título VIII - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 271. Defraudación a los derechos patrimoniales de autor
+## Artículo 271. VIOLACIÓN A LOS DERECHOS PATRIMONIALES DE AUTOR Y DERECHOS CONEXOS
 
 Incurrirá en prisión de cuatro (4) a ocho (8) años y multa de veintiséis punto sesenta y seis (26.66) a mil (1.000) salarios mínimos legales mensuales vigentes quien, salvo las excepciones previstas en la ley, sin autorización previa y expresa del titular de los derechos correspondientes:
+
+> [!info] Artículo modificado por el artículo [[art. 2 Ley 1032 de 2006|2]] de la Ley 1032 de 2006. El nuevo texto es el siguiente:
 
 1\. Por cualquier medio o procedimiento, reproduzca una obra de carácter literario, científico, artístico o cinematográfico, fonograma, videograma, soporte lógico o programa de ordenador, o, quien transporte, almacene, conserve, distribuya, importe, venda, ofrezca, adquiera para la venta o distribución, o suministre a cualquier título dichas reproducciones.
 
@@ -43,11 +57,15 @@ Incurrirá en prisión de cuatro (4) a ocho (8) años y multa de veintiséis pun
 
 7\. Recepcione, difunda o distribuya por cualquier medio las emisiones de la televisión por suscripción.
 
-**PARÁGRAFO 1 .** Si como consecuencia de las conductas contempladas en los numerales 1, 3 y 4 de este ARTÍCULO resulta un numero no mayor de cien (100) unidades, la pena se rebajará hasta en la mitad.
+**PARÁGRAFO.** La reproducción por medios informáticos de las obras contenidas en el presente artículo será punible cuando el autor lo realice con el ánimo de obtener un beneficio económico directo o indirecto, o lo haga a escala comercial.
 
-**PARÁGRAFO 2.** Adicionado por el art. [[art. 36 Ley 1915 de 2018|36]], Ley 1915 de 2018 . La reproducción por medios informáticos de las obras contenidas en el presente artículo será punible cuando el autor lo realice con el ánimo de obtener un beneficio económico directo o indirecto, o lo haga a escala comercial.
+> [!info] Parágrafo adicionado por el artículo [[art. 36 Ley 1915 de 2018|36]] de la Ley 1915 de 2018. El nuevo texto es el siguiente:
 
-(Penas aumentadas por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004)
+> [!info] Notas de Vigencia: Parágrafo adicionado por el artículo [[art. 36 Ley 1915 de 2018|36]] de la Ley 1915 de 2018, 'por la cual se modifica la Ley 23 de 1982 y se establecen otras disposiciones en materia de derecho de autor y derechos conexos', publicada en el Diario Oficial No. 50.652 de 12 de julio de 2018.
+
+> [!warning] Notas de Vigencia: Artículo modificado por el artículo [[art. 16 Ley 1520 de 2012|16]] de la Ley 1520 de 2012, publicada en el Diario Oficial No. 48.400 de 13 de abril de 2012. INEXEQUIBLE. - Artículo modificado por el artículo [[art. 2 Ley 1032 de 2006|2]] de la Ley 1032 de 2006, publicada en el Diario Oficial No. 46.307 de 22 de junio de 2006. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. - Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+
+> [!warning] Jurisprudencia Vigencia: Corte Constitucional - Ley 1520 de 2012 declarada INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-011-13 de 23 de enero de 2013, Magistrado Ponente Dr. Alexei Julio Estrada. Por vicios de trámite. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el texto original de los numerales 2 y 5 (parciales) por ineptitud de la demanda, mediante Sentencia C-576-09 de 20 de agosto de 2009, Magistrado Ponente Dr. Gabriel Eduardo Mendoza Martelo. - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-941-08 de 1 de octubre de 2008, Magistrado Ponente Dr. Marco Gerardo Monroy Cabra. - La Corte Constitucional se declaró INHIBIDA de fallar sobre el texto original de los numerales 2 y 5 por ineptitud de la demanda, mediante Sentencia C-261-08 de 11 de marzo de 2008, Magistrado Ponente Dr. Manuel José Cepeda Espinosa.
 
 ---
 ← [[art. 270 CP]] · ↑ [[CP - Libro Segundo - Título VIII - Capítulo Unico|Capítulo Unico]] · [[art. 272 CP]] →

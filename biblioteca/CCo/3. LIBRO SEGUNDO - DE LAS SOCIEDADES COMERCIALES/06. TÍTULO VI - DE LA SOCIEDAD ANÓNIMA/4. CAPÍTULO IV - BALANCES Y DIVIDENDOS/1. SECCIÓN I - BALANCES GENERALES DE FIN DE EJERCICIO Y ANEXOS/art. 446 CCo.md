@@ -16,8 +16,12 @@ seccion: "[[CCo - Libro Segundo - Título VI - Capítulo IV - Sección I|SECCIÓ
 vigencia: "vigente"
 anterior: "[[art. 445 CCo]]"
 siguiente: "[[art. 447 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#446"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -51,6 +55,8 @@ f) Las inversiones discriminadas de la compañía en otras sociedades, nacionale
 4\. Un informe escrito del representante legal sobre la forma como hubiere llevado a cabo su gestión, y las medidas cuya adopción recomiende a la asamblea, y
 
 5\. El informe escrito del revisor fiscal.
+
+> [!note] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en los artículos [[art. 46 Ley 222 de 1995|46]] y [[art. 47 Ley 222 de 1995|47]] de la Ley 222 de 1995, publicada en el Diario Oficial No. 42.156 del 20 de diciembre de 1995, que tratan de la rendición de cuentas al final de cada ejercicio contable que deben presentar los administradores a la asamblea, y del contenido del informe de gestión que debe incluirse.
 
 ---
 ← [[art. 445 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo IV - Sección I|Sección I]] · [[art. 447 CCo]] →

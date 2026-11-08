@@ -1,0 +1,32 @@
+---
+aliases:
+  - "Ley 489 de 1998 CAPÍTULO XV - CONTROL ADMINISTRATIVO"
+tipo: indice
+norma: "Ley 489 de 1998"
+nivel: "CAPÍTULO"
+etiqueta: "XV"
+nombre: "CONTROL ADMINISTRATIVO"
+articulos: "arts. 103 a 109"
+tags:
+  - normas/indice
+  - normas/ley_489_de_1998
+---
+
+[[Ley 489 de 1998|Ley 489 de 1998]]
+
+## CAPÍTULO XV - CONTROL ADMINISTRATIVO
+
+*Arts. 103 a 109*
+
+### Contenido
+
+- [[art. 103 Ley 489 de 1998|Artículo 103]] — TITULARIDAD DEL CONTROL
+- [[art. 104 Ley 489 de 1998|Artículo 104]] — ORIENTACION Y LA FINALIDAD
+- [[art. 105 Ley 489 de 1998|Artículo 105]] — CONTROL ADMINISTRATIVO
+- [[art. 106 Ley 489 de 1998|Artículo 106]] — CONTROL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO Y DE LAS SOCIEDADES DE ECONOMIA MIXTA
+- [[art. 107 Ley 489 de 1998|Artículo 107]] — CONVENIOS PARA LA EJECUCION DE PLANES Y PROGRAMAS
+- [[art. 108 Ley 489 de 1998|Artículo 108]] — CONVENIOS DE DESEMPEÑO
+- [[art. 109 Ley 489 de 1998|Artículo 109]] — CONTROL DE LAS ENTIDADES DESCENTRALIZADAS INDIRECTAS Y DE LAS FILIALES DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO
+
+---
+← [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo XVI|Capítulo XVI]] →

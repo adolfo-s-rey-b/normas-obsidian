@@ -15,7 +15,7 @@ vigencia: "derogado"
 anterior: "[[art. 108 CPT]]"
 siguiente: "[[art. 110 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#109"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt

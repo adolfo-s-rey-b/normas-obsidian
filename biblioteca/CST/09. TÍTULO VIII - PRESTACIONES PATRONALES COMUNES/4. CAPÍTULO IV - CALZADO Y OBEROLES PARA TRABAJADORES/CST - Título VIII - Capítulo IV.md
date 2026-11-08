@@ -8,7 +8,7 @@ nivel: "CAPÍTULO"
 etiqueta: "IV"
 nombre: "CALZADO Y OBEROLES PARA TRABAJADORES"
 titulo: "[[CST - Título VIII|TÍTULO VIII - PRESTACIONES PATRONALES COMUNES]]"
-articulos: "arts. 230 a 235"
+articulos: "arts. 230 a 235A"
 tags:
   - normas/indice
   - normas/cst
@@ -18,7 +18,7 @@ tags:
 
 ## CAPÍTULO IV - CALZADO Y OBEROLES PARA TRABAJADORES
 
-*Arts. 230 a 235*
+*Arts. 230 a 235A*
 
 ### Contenido
 
@@ -28,6 +28,7 @@ tags:
 - [[art. 233 CST|Artículo 233]] — USO DEL CALZADO Y VESTIDO DE LABOR
 - [[art. 234 CST|Artículo 234]] — PROHIBICION DE LA COMPENSACION EN DINERO
 - [[art. 235 CST|Artículo 235]] — REGLAMENTACION
+- [[art. 235A CST|Artículo 235A]] — PROTECCION A LA MATERNIDAD
 
 ---
 ← [[CST - Título VIII - Capítulo III|Capítulo III]] · ↑ [[CST - Título VIII|Título VIII]] · [[CST - Título VIII - Capítulo V|Capítulo V]] →

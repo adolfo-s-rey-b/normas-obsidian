@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 425 CP|Artículo 425]] — Usurpación de funciones públicas
+- [[art. 425 CP|Artículo 425]] — USURPACIÓN DE FUNCIONES PÚBLICAS
 - [[art. 426 CP|Artículo 426]] — Simulación de investidura o cargo
 - [[art. 427 CP|Artículo 427]] — Circunstancia de agravación punitiva
-- [[art. 428 CP|Artículo 428]] — Abuso de función publica
+- [[art. 428 CP|Artículo 428]] — ABUSO DE FUNCIÓN PÚBLICA
 
 ---
 ← [[CP - Libro Segundo - Título XV - Capítulo Octavo|Capítulo Octavo]] · ↑ [[CP - Libro Segundo - Título XV|Título XV]] · [[CP - Libro Segundo - Título XV - Capítulo Decimo|Capítulo Decimo]] →

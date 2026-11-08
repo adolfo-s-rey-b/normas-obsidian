@@ -8,13 +8,17 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "6"
-epigrafe: "Fallo extra y ultra petita"
+epigrafe: "FALLO EXTRA Y ULTRA PETITA"
 titulo: "[[CPTSS - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 5 CPTSS]]"
 siguiente: "[[art. 7 CPTSS]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639#6"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_2452_2025.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cptss
@@ -23,7 +27,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Título Preliminar|Título Preliminar]]
 
-## Artículo 6. Fallo extra y ultra petita
+## Artículo 6. FALLO EXTRA Y ULTRA PETITA
 
 El juez de primera instancia ordenará el pago de salarios, prestaciones, indemnizaciones, y demás derechos laborales o de la seguridad social distintos de los pedidos, cuando los hechos que los originen hayan sido discutidos en el proceso y estén debidamente probados, o condenará al pago de sumas mayores que las demandadas por el mismo concepto, cuando aparezca que estas son inferiores a las que corresponden al trabajador, afiliado, pensionado o beneficiario, siempre que no hayan sido pagadas.
 

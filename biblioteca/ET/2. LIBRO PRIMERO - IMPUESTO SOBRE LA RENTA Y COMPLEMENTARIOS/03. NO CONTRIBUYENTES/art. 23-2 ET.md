@@ -18,8 +18,13 @@ modificado_por:
   - "[[art. 23 Ley 1819 de 2016]]"
 anterior: "[[art. 23-1 ET]]"
 siguiente: "[[art. 24 ET]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533#23-2"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2016
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
@@ -30,13 +35,21 @@ tags:
 
 ## Artículo 23-2
 
-No son contribuyentes los fondos de pensiones y los de cesantías. Los fondos de pensiones de jubilación e invalidez y los fondos de cesantías no son contribuyentes del impuesto sobre la renta y complementarios
+NO SON CONTRIBUYENTES LOS FONDOS DE PENSIONES Y LOS DE CESANTIAS. : Los fondos de pensiones de jubilación e invalidez y los fondos de cesantías no son contribuyentes del impuesto sobre la renta y complementarios.
 
-> [!info] Adicionado por el art. [[art. 9 Ley 49 de 1990|9]], Ley 49 de 1990
+> [!info] Artículo adicionado por el artículo [[art. 9 Ley 49 de 1990|9]] de la Ley 49 de 1990. El nuevo texto es el siguiente
 
-**PARÁGRAFO .** Los fondos de pensiones y cesantías administrados por sociedades supervisadas por autoridades extranjeras con las cuales la Superintendencia Financiera de Colombia haya suscrito acuerdos o convenios de intercambio de información y protocolos de supervisión, no están obligados a presentar declaración del impuesto sobre la renta y complementarios y, respecto de sus inversiones en Colombia de capital del exterior de portafolio en Colombia, no estarán sometidos a retención en la fuente.
+La remuneración que reciba por su labor la entidad que administre el fondo, constituye un ingreso gravable para la misma sobre la cual se aplicará retención en la fuente.
 
-> [!info] PARÁGRAFO Adicionado por el Art. [[art. 23 Ley 1819 de 2016|23]] de la Ley 1819 de 2016
+**PARÁGRAFO.** Los fondos de pensiones y cesantías administrados por sociedades supervisadas por autoridades extranjeras con las cuales la Superintendencia Financiera de Colombia haya suscrito acuerdos o convenios de intercambio de información y protocolos de supervisión, no están obligados a presentar declaración del impuesto sobre la renta y complementarios y, respecto de sus inversiones en Colombia de capital del exterior de portafolio en Colombia, no estarán sometidos a retención en la fuente.
+
+> [!info] Parágrafo adicionado por el artículo [[art. 23 Ley 1819 de 2016|23]] de la Ley 1819 de 2016. El nuevo texto es el siguiente:
+
+> [!info] Notas de Vigencia: Parágrafo adicionado por el artículo [[art. 23 Ley 1819 de 2016|23]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016.
+
+> [!info] Notas de Vigencia: Artículo adicionado por el artículo [[art. 9 Ley 49 de 1990|9]] de la Ley 49 de 1990, publicada en el Diario Oficial 36.615 del 30 de diciembre de 1990.
+
+I NGRESOS DE FUENTE NACIONAL Y DE FUENTE EXTRANJERA.
 
 ---
 ← [[art. 23-1 ET]] · ↑ [[ET - Libro Primero - No contribuyentes|No contribuyentes]] · [[art. 24 ET]] →

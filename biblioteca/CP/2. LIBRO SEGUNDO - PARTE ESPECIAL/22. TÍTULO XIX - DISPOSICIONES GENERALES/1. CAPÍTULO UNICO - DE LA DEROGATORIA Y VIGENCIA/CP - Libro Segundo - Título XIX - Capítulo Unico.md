@@ -23,8 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 474 CP|Artículo 474]] — Derogatoria
-- [[art. 476 CP|Artículo 476]] — Vigencia
+- [[art. 474 CP|Artículo 474]] — DEROGATORIA
+- [[art. 475 CP|Artículo 475]] — TRANSITORIO
+- [[art. 476 CP|Artículo 476]] — VIGENCIA
 
 ---
 ↑ [[CP - Libro Segundo - Título XIX|Título XIX]]

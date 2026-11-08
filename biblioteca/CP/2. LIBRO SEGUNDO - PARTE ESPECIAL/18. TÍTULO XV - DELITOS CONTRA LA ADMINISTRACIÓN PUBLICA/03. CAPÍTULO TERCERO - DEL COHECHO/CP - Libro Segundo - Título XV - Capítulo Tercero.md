@@ -25,7 +25,7 @@ tags:
 
 - [[art. 405 CP|Artículo 405]] — Cohecho propio
 - [[art. 406 CP|Artículo 406]] — Cohecho impropio
-- [[art. 407 CP|Artículo 407]] — Cohecho por dar u ofrecer
+- [[art. 407 CP|Artículo 407]] — COHECHO POR DAR U OFRECER
 
 ---
 ← [[CP - Libro Segundo - Título XV - Capítulo Segundo|Capítulo Segundo]] · ↑ [[CP - Libro Segundo - Título XV|Título XV]] · [[CP - Libro Segundo - Título XV - Capítulo Cuarto|Capítulo Cuarto]] →

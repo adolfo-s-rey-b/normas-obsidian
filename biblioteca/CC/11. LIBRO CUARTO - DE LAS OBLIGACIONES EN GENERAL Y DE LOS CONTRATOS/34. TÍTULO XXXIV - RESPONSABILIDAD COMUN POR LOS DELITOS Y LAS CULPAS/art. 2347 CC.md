@@ -19,8 +19,9 @@ derogado_por:
 anterior: "[[art. 2346 CC]]"
 siguiente: "[[art. 2348 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1974
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -33,9 +34,9 @@ tags:
 
 Toda persona es responsable, no sólo de sus propias acciones para el efecto de indemnizar el daño sino del hecho de aquellos que estuvieren a su cuidado.
 
-> [!info] Inciso segundo modificado por el artículo [[art. 65 Decreto 2820 de 1974|65]] del Decreto 2820 de 1974. El nuevo texto es el siguiente.
-
 Así, los padres son responsables solidariamente del hecho de los hijos menores que habiten en la misma casa.
+
+> [!info] Inciso segundo modificado por el artículo [[art. 65 Decreto 2820 de 1974|65]] del Decreto 2820 de 1974. El nuevo texto es el siguiente.
 
 > [!info] Notas de vigencia: Inciso segundo modificado por el artículo [[art. 65 Decreto 2820 de 1974|65]] del Decreto 2820 de 1974, publicado en el Diario Oficial No. 34.249 del 4 de febrero de 1975.
 

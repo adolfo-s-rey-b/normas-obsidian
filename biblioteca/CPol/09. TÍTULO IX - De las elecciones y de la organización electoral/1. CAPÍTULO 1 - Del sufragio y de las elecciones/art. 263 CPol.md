@@ -16,10 +16,18 @@ capitulo: "[[CPol - Título IX - Capítulo 1|CAPÍTULO 1 - Del sufragio y de las
 vigencia: "modificado"
 modificado_por:
   - "[[art. 21 Acto Legislativo 2 de 2015]]"
+  - "[[art. 263 CPol]]"
+  - "[[art. 263 Acto Legislativo 1 de 2003]]"
+  - "[[art. 13 Acto Legislativo 1 de 2003]]"
 anterior: "[[art. 262 CPol]]"
 siguiente: "[[art. 264 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#263"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2018
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,27 +38,27 @@ tags:
 
 ## Artículo 263
 
-Para garantizar la equitativa representación de los Partidos y Movimientos Politicos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un minimo de votos que no podrá ser inferior al tres por ciento (3%) de los votos válidos para Senado de la República o al cincuenta por ciento (50%) del cuociente electoral en el caso de las demás Corporaciones, conforme lo establezcan la Constitución y la ley.
+Para garantizar la equitativa representación de los Partidos y Movimientos Políticos y grupos significativos de ciudadanos, las curules de las Corporaciones Públicas se distribuirán mediante el sistema de cifra repartidora entre las listas de candidatos que superen un mínimo de votos que no podrá ser inferior al tres por ciento (3%) de los votos válidos para Senado de la República o al cincuenta por ciento (50%) del cuociente electoral en el caso de las demás Corporaciones, conforme lo establezcan la Constitución y la ley.
 
-La cifra repartidora resulta de dividir sucesivamente por uno, dos, tres o mas, el número de votos por cada lista ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer. El resultado menor se llamará cifra repartidora. Cada lista obtendra tantas curules como veces este contenida la cifra repartidora en el total de sus votos.
+> [!info] Artículo modificado por el artículo [[art. 21 Acto Legislativo 2 de 2015|21]] del Acto Legislativo 2 de 2015, anteriormente era el artículo [[art. 263 CPol|263]]-A. El nuevo texto es el siguiente:
+
+La cifra repartidora resulta de dividir sucesivamente por uno, dos, tres o más, el número de votos por cada lista ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer. El resultado menor se llamará cifra repartidora. Cada lista obtendrá tantas curules como veces esté contenida la cifra repartidora en el total de sus votos.
 
 En las circunscripciones en las que se eligen dos miembros se aplicará el sistema de cuociente electoral entre las listas que superen en votos el 30% de dicho cuociente. En las circunscripciones en las que se elige un miembro, la curul se adjudicará a la lista mayoritaria.
 
 Cuando ninguna de las listas supere el umbral, las curules se distribuirán entre todas las inscritas, de acuerdo con la regla de asignación que corresponda.
 
-> [!info] Artículo modificado por el Artículo [[art. 21 Acto Legislativo 2 de 2015|21]] del Acto Legislativo 2 de 2015. Declarado EXEQUIBLE, mediante Sentencia de la Corte Constitucional C-029 de 2018
+> [!info] Notas de Vigencia: El artículo [[art. 263 Acto Legislativo 1 de 2003|263]]-A adicionado por el Acto Legislativo 1 de 2003 fue renumerado como 263 y a su vez modificado por el artículo [[art. 21 Acto Legislativo 2 de 2015|21]] del Acto Legislativo 2 de 2015, 'por medio del cual se adopta una reforma de equilibrio de poderes y reajuste institucional y se dictan otras disposiciones', publicado en el Diario Oficial No. 49.560 de 1 de julio de 2015. - Artículo [[art. 263 Acto Legislativo 1 de 2003|263]]-A adicionado por el artículo [[art. 13 Acto Legislativo 1 de 2003|13]] del Acto Legislativo 1 de 2003, publicado en el Diario Oficial No. 45.237, de 3 de julio de 2003.
 
-> [!note] Ver Sentencia de la Corte Constitucional: C-572-04 ; C-955-01
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo [[art. 21 Acto Legislativo 2 de 2015|21]] del Acto Legislativo 2 de 2015 declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-029-18 de 2 de mayo de 2018, Magistrado Ponente Dr. Alberto Rojas Ríos. - Incisos 3o. y 4o. del artículo 263-A declarados EXEQUIBLES, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-208-05 de 10 de marzo de 2005, Magistrada Ponente Dra. Clara Inés Vargas Hernández.
 
-TEXTO ANTERIOR: La adjudicación de curules entre los miembros de la respectiva corporación se hará por el sistema de cifra repartidora. Esta resulta de dividir sucesivamente por uno, dos, tres o mas el número de votos obtenidos por cada lista, ordenando los resultados en forma decreciente hasta que se obtenga un número total de resultados igual al número de curules a proveer.
+> [!note] Concordancias: Ley 1909 de 2018; Art. [[art. 25 Ley 1909 de 2018|25]]
 
-El resultado menor se llamará cifra repartidora. Cada lista obtendra tantas curules como veces este contenida la cifra repartidora en el total de sus votos.
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-572-04
 
-Cada partido o movimiento político podrá optar por el mecanismo de voto preferente. En tal caso, el elector podrá señalar el candidato de su preferencia entre los nombres de la lista que aparezcan en la tarjeta electoral. La lista se reordenará de acuerdo con la cantidad de votos obtenidos por cada uno de los candidatos. La asignación de curules entre los miembros de la respectiva lista se hará en orden descendente empezando por el candidato que haya obtenido el mayor número de votos preferentes.
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 9)
 
-En el caso de los partidos y movimientos políticos que hayan optado por el mecanismo del voto preferente, los votos por el partido o movimiento que no hayan sido atribuidos por el elector a ningún candidato en particular, se contabilizarán a favor de la respectiva lista para efectos de la aplicación de las normas sobre el umbral y la cifra repartidora, pero no se computarán para la reordenación de la lista. Cuando el elector vote simultáneamente por el partido o movimiento político y por el candidato de su preferencia dentro de la respectiva lista, el voto será valido y se computará a favor del candidato.
-
-CAPÍTULO 2.
+CAPITULO 2.
 
 DE LAS AUTORIDADES ELECTORALES
 

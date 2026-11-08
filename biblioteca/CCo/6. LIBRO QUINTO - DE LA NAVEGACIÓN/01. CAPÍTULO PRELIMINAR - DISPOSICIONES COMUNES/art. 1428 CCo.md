@@ -14,8 +14,12 @@ capitulo: "[[CCo - Libro Quinto - Capítulo Preliminar|CAPÍTULO PRELIMINAR - DI
 vigencia: "vigente"
 anterior: "[[art. 1427 CCo]]"
 siguiente: "[[art. 1429 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1428"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,12 +31,6 @@ tags:
 ## Artículo 1428. ENTREGA DE NAVES O AERONAVES-AMPARO ADMINISTRATIVO PARA IMPEDIR OPERACIÓN
 
 Para los efectos de la entrega de naves o aeronaves, el propietario o adquirente podrá solicitar amparo administrativo ante la autoridad marítima o aeronáutica para que ésta impida su operación.
-
-PRIMERA PARTE.
-
-DE LA NAVEGACIÓN ACUATICA.
-
-DISPOSICIONES GENERALES.
 
 ---
 ← [[art. 1427 CCo]] · ↑ [[CCo - Libro Quinto - Capítulo Preliminar|Capítulo Preliminar]] · [[art. 1429 CCo]] →

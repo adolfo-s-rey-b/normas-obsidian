@@ -12,7 +12,12 @@ derogado_por:
 anterior: "[[art. 69 Ley 80 de 1993]]"
 siguiente: "[[art. 71 Ley 80 de 1993]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304#70"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2012
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
@@ -41,7 +46,7 @@ Texto anterior:
 
 En los contratos con personas extranjeras y en los que incluyan financiamiento a largo plazo, sistemas de pago mediante la explotación del objeto construido u operación de bienes para la prestación de un servicio público, podrá pactarse que las diferencias surgidas del contrato sean sometidas a la decisión de un tribunal de arbitramento designado por un organismo internacional.
 
-> [!note] NOTA: El art. [[art. 70 Ley 80 de 1993|70]], fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1436 de 2000, bajo el entendido que los árbitros nombrados para resolver los conflictos suscitados como consecuencia de la celebración, el desarrollo, la terminación y la liquidación de contratos celebrados entre el Estado y los particulares, no tienen competencia para pronunciarse sobre los actos administrativos dictados por la administración en desarrollo de sus poderes excepcionales.
+> [!note] NOTA: El art. 70, fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-1436 de 2000, bajo el entendido que los árbitros nombrados para resolver los conflictos suscitados como consecuencia de la celebración, el desarrollo, la terminación y la liquidación de contratos celebrados entre el Estado y los particulares, no tienen competencia para pronunciarse sobre los actos administrativos dictados por la administración en desarrollo de sus poderes excepcionales.
 
 ---
 ← [[art. 69 Ley 80 de 1993]] · ↑ [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]] · [[art. 71 Ley 80 de 1993]] →

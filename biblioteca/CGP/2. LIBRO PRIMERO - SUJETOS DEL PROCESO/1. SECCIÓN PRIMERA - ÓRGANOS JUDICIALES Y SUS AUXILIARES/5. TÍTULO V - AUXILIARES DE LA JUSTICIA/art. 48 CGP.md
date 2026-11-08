@@ -8,16 +8,20 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "48"
-epigrafe: "Designación"
+epigrafe: "DESIGNACIÓN"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
 vigencia: "vigente"
 anterior: "[[art. 47 CGP]]"
 siguiente: "[[art. 49 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#48"
-actualizacion_fuente: "27 de agosto de 2025"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2014
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
@@ -26,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 48. Designación
+## Artículo 48. DESIGNACIÓN
 
 Para la designación de los auxiliares de la justicia se observarán las siguientes reglas:
 
@@ -50,9 +54,9 @@ Los requisitos de idoneidad que determine el Consejo Superior de la Judicatura p
 
 7\. La designación del curador ad lítem recaerá en un abogado que ejerza habitualmente la profesión, quien desempeñará el cargo en forma gratuita como defensor de oficio . El nombramiento es de forzosa aceptación, salvo que el designado acredite estar actuando en más de cinco (5) procesos como defensor de oficio. En consecuencia, el designado deberá concurrir inmediatamente a asumir el cargo, so pena de las sanciones disciplinarias a que hubiere lugar, para lo cual se compulsarán copias a la autoridad competente.
 
-> [!note] NOTA: El texto subrayado fue declarado EXEQUIBLE por la Corte Constitucional mediante Sentencias C-083 y C-369 de 2014.
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-083-14, mediante Sentencia C-389-14 de 25 de junio de 2014, Magistrado Ponente Dr. Alberto Rojas Ríos. - Aparte subrayado declarado EXEQUIBLE, por el cargo de presunto desconocimiento del derecho al mínimo vital, por la Corte Constitucional mediante Sentencia C-369-14 de 11 de junio de 2014, Magistrado Ponente Dr. Alberto Rojas Ríos. Estarse a lo resuelto en la C-083-14, por los cargos relacionados con el principio de igualdad y del derecho al trabajo. - Aparte subrayado declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-083-14 de 12 de febrero de 2014, Magistrado Ponente Dra. María Victoria Calle Correa.
 
-**Parágrafo.** Lo dispuesto en este artículo no afectará la competencia de las autoridades administrativas para la elaboración de las listas, la designación y exclusión, de conformidad con lo previsto en la ley.
+**PARÁGRAFO.** Lo dispuesto en este artículo no afectará la competencia de las autoridades administrativas para la elaboración de las listas, la designación y exclusión, de conformidad con lo previsto en la ley.
 
 ---
 ← [[art. 47 CGP]] · ↑ [[CGP - Libro Primero - Sección Primera - Título V|Título V]] · [[art. 49 CGP]] →

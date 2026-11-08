@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 2|CAPÍTULO 2 - Del régimen departam
 vigencia: "vigente"
 anterior: "[[art. 300 CPol]]"
 siguiente: "[[art. 302 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#301"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 1994
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,11 +35,9 @@ tags:
 
 La ley señalará los casos en los cuales las asambleas podrán delegar en los concejos municipales las funciones que ella misma determine. En cualquier momento, las asambleas podrán reasumir el ejercicio de las funciones delegadas.
 
-> [!note] Ver Constitución Política; Art. [[art. 150 CPol|150]] Numeral 5
+> [!note] Concordancias: Constitución Política; Art. [[art. 150 CPol|150]] Numeral 5o. Ley 105 de 1993; Art. [[art. 39 Ley 105 de 1993|39]]
 
-> [!note] Ver Ley 105 de 1993; Art. [[art. 39 Ley 105 de 1993|39]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-086-94
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-086-94 ; C-321-94 ;
 
 ---
 ← [[art. 300 CPol]] · ↑ [[CPol - Título XI - Capítulo 2|Capítulo 2]] · [[art. 302 CPol]] →

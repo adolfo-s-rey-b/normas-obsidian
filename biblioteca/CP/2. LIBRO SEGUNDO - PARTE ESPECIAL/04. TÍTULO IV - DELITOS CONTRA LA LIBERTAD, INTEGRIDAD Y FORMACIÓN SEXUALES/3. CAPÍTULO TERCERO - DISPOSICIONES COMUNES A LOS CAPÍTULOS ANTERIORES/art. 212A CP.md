@@ -12,6 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "212A"
+epigrafe: "VIOLENCIA"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IV|TÍTULO IV - DELITOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUALES]]"
 capitulo: "[[CP - Libro Segundo - Título IV - Capítulo Tercero|CAPÍTULO TERCERO - DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES]]"
@@ -21,7 +22,11 @@ modificado_por:
 anterior: "[[art. 212 CP]]"
 siguiente: "[[art. 213 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#212A"
-fecha_extraccion: 2026-11-07
+fuente_texto: "DAFP"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2014
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
@@ -30,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IV|Título IV]] › [[CP - Libro Segundo - Título IV - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 212A
+## Artículo 212A. VIOLENCIA
 
 > [!info] Adicionado por el art. [[art. 11 Ley 1719 de 2014|11]], Ley 1719 de 2014
 

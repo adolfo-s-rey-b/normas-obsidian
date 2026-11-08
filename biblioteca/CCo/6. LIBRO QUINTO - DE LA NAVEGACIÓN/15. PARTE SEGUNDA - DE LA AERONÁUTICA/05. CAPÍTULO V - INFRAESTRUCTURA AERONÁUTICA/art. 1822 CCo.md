@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo V|CAPÍTULO V - INFR
 vigencia: "vigente"
 anterior: "[[art. 1821 CCo]]"
 siguiente: "[[art. 1823 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1822"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -31,7 +35,7 @@ El permiso de operaciones de un aeródromo podrá suspenderse o cancelarse en lo
 
 1\. Cuando desde el aeródromo se atente contra la seguridad del Estado;
 
-2\. Cuando no se cumpla lo dispuesto en el artículo [[art. 1812 CCo|1812]], o en cualquier otra forma se abuse del aeródromo;
+2\. Cuando no se cumpla lo dispuesto en el artículo [[art. 1812 CCo|1812]] , o en cualquier otra forma se abuse del aeródromo;
 
 3\. Cuando se autorice, a solicitud del propietario. Si el explotador fuere persona distinta, se requerirá su asentimiento;
 

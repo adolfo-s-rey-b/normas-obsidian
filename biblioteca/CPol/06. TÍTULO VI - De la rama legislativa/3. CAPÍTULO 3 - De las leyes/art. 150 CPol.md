@@ -15,11 +15,17 @@ titulo: "[[CPol - Título VI|TÍTULO VI - De la rama legislativa]]"
 capitulo: "[[CPol - Título VI - Capítulo 3|CAPÍTULO 3 - De las leyes]]"
 vigencia: "modificado"
 modificado_por:
-  - "[[art. 1 CPol]]"
+  - "[[art. 1 Acto Legislativo 2 de 2019]]"
+  - "[[art. 150 CPol]]"
 anterior: "[[art. 149 CPol]]"
 siguiente: "[[art. 151 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#150"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2025
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -32,1103 +38,227 @@ tags:
 
 Corresponde al Congreso hacer las leyes. Por medio de ellas ejerce las siguientes funciones:
 
-> [!note] Ver Ley 1027 de 2006
+> [!note] Concordancias: Ley 1027 de 2006
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-337-94 ; C-497-94 ; C-528-94 ; C-010-2001 ; C-047-2001 ; C-048-2001 ; C-057-2001 ; C-093-2001 ; C-098-2001 ; C-099-2001 ; C-507-2001 ; C-553-2001 ; C-647-2001 ; C-709-2001 ; C-775-2001 ; C-778-2001 ; C-782-2001 ; C-1104-2001 ; C-1176-2001 ; C-1191-2001 ; C-260-2001 ; C-129-03 ; C-356-03 ; C-022-04 ; C-249-04 ; C-305-04 ; C-312-04 ; C-409-04 ; C-573-04 ; C-706-05 ; C-536-06
 
 1\. Interpretar, reformar y derogar las leyes.
 
-> [!note] Ver Ley 72 de 1993
+> [!note] Concordancias: Ley 72 de 1993 Ley 174 de 1994 Ley 177 de 1994 Ley 268 de 1996 Ley 276 de 1996 Ley 286 de 1996 Ley 377 de 1997 Ley 383 de 1997 Ley 388 de 1997 Ley 488 de 1998: Art. [[art. 32 Ley 488 de 1998|32]] ; Art. [[art. 33 Ley 488 de 1998|33]] ; Art. [[art. 112 Ley 504 de 1999|112]] Ley 504 de 1999 Ley 505 de 1999 Ley 507 de 1999 Ley 526 de 1999 Ley 533 de 1999 Ley 537 de 1999 Ley 548 de 1999 Ley 575 de 2000 Ley 582 de 2000 Ley 603 de 2000 Ley 614 de 2000 Ley 632 de 2000 Ley 640 de 2001 Ley 1219 de 2008 Ley 1230 de 2008 Ley 1679 de 2013 Ley 1946 de 2019
 
-> [!note] Ver Ley 177 de 1994
-
-> [!note] Ver Ley 276 de 1996
-
-> [!note] Ver Ley 286 de 1996
-
-> [!note] Ver Ley 383 de 1997
-
-> [!note] Ver Ley 388 de 1997
-
-> [!note] Ver Ley 488 de 1998 ; Art. [[art. 32 Ley 488 de 1998|32]] ; Art. [[art. 33 Ley 488 de 1998|33]] ; Art. [[art. 112 Ley 488 de 1998|112]]
-
-> [!note] Ver Ley 505 de 1999
-
-> [!note] Ver Ley 507 de 1999
-
-> [!note] Ver Ley 526 de 1999
-
-> [!note] Ver Ley 533 de 1999
-
-> [!note] Ver Ley 537 de 1999
-
-> [!note] Ver Ley 548 de 1999
-
-> [!note] Ver Ley 575 de 2000
-
-> [!note] Ver Ley 582 de 2000
-
-> [!note] Ver Ley 603 de 2000
-
-> [!note] Ver Ley 614 de 2000
-
-> [!note] Ver Ley 632 de 2000
-
-> [!note] Ver Ley 640 de 2001
-
-> [!note] Ver Ley 1219 de 2008
-
-> [!note] Ver Ley 1679 de 2013
-
-> [!note] Ver Ley 1946 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-531-93 ; C-145-94 ; C-527-94 ; C-582-2001 ; C-808-2001 ; C-128-04
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-465-92 ; C-557-92 ; C-558-92 ; C-015-93 ; C-035-93 ; C-132-93 ; C-270-93 ; C-301-93 ; C-531-93 ; C-020-94 ; C-039-94 ; C-145-94 ; C-212-94 ; C-424-94 ; C-490-94 ; C-491-94 ; C-521-94 ; C-527-94 ; C-529-94 ; C-566-94 ; C-169-2001 ; C-329-2001 ; C-504-2001 ; C-555-2001 ; C-582-2001 ; C-739-2001 ; C-806-2001 ; C-808-2001 ; C-896-2001 ; C-1246-2001 ; C-035-03 ; C-573-03 ; C-128-04 ; C-159-04 ; C-306-04 ; C-458-04 ; C-820-06 ;
 
 2\. Expedir códigos en todos los ramos de la legislación y reformar sus disposiciones.
 
-> [!note] Ver Decreto Ley 2241 de 1986 - Código Electoral
+> [!note] Concordancias: Decreto Ley 2241 de 1986 - Código Electoral Ley 15 de 1992 Ley 33 de 1992 Ley 40 de 1993 Ley 49 de 1993 Ley 57 de 1993; Art. [[art. 1 Ley 58 de 1993|1]] Ley 58 de 1993; Art. [[art. 1 Ley 58 de 1993|1]] ; Art. [[art. 2 Ley 58 de 1993|2]] ; Art. [[art. 3 Ley 65 de 1993|3]] Ley 65 de 1993 Ley 81 de 1993 Ley 142 de 1994 Ley 190 de 1995 Ley 192 de 1995 Ley 200 de 1995 Ley 228 de 1995 Ley 232 de 1995 Ley 256 de 1996 Ley 261 de1996; Art. [[art. 1 Ley 282 de 1996|1]] Ley 282 de 1996; Art. [[art. 11 Ley 282 de 1996|11]] ; Art. [[art. 12 Ley 282 de 1996|12]] ; Art. [[art. 13 Ley 282 de 1996|13]] ; Art. [[art. 14 Ley 282 de 1996|14]] ; Art. [[art. 15 Ley 282 de 1996|15]] ; Art. [[art. 16 Ley 287 de 1996|16]] Ley 287 de 1996 Ley 294 de 1996 Ley 308 de 1996 Ley 360 de 1997 Ley 362 de 1997 Ley 365 de 1997 Ley 377 de 1997 Ley 389 de 1997 Ley 415 de 1997 Ley 446 de 1998 Ley 520 de 1999 Ley 553 de 2000 Ley 572 de 2000 Ley 584 de 2000 Ley 589 de 2000 Ley 592 de 2000 Ley 599 de 2000 Ley 600 de 2000 Ley 640 de 2001 Ley 685 de 2001 Ley 712 de 2001 Ley 734 de 2002 Ley 745 de 2002 Ley 746 de 2002 Ley 747 de 2002 Ley 755 de 2002 Ley 759 de 2002 Ley 769 de 2002 Ley 777 de 2002 Ley 791 de 2002 Ley 794 de 2003 Ley 795 de 2003 Ley 809 de 2003 Ley 813 de 2003 Ley 820 de 2003 Ley 903 de 2004 Ley 906 de 2004 Ley 926 de 2004 Ley 937 de 2004 Ley 954 de 2005 Ley 962 de 2005 Ley 975 de 2005; Art. [[art. 71 Ley 1005 de 2006|71]] Ley 1005 de 2006 Ley 1028 de 2006 Ley 1032 de 2006 Ley 1058 de 2006 Ley 1060 de 2006 Ley 1142 de 2007 Ley 1149 de 2007 Ley 1154 de 2007 Ley 1181 de 2007 Ley 1194 de 2008 Ley 1210 de 2008 Ley 1220 de 2008 Ley 1236 de 2008 Ley 1239 de 2008 Ley 1257 de 2008 Ley 1273 de 2009 Ley 1280 de 2009 Ley 1281 de 2009 Ley 1309 de 2009 Ley 1306 de 2009 Ley 1311 de 2009 Ley 1312 de 2009 Ley 1326 de 2009 Ley 1329 de 2009 Ley 1356 de 2009 Ley 1357 de 2009 Ley 1364 de 2009 Ley 1382 de 2010 Ley 1383 de 2010 Ley 1393 de 2010; Art. [[art. 18 Ley 1395 de 2010|18]] Ley 1395 de 2010 Ley 1397 de 2010 Ley 1426 de 2010 Ley 1437 de 2011 Ley 1468 de 2011 Ley 1482 de 2011 Ley 1548 de 2012 Ley 1564 de 2012 Ley 1696 de 2013 Ley 1708 de 2014 Ley 1727 de 2014 Ley 1730 de 2014 Ley 1752 de 2015 Ley 1760 de 2015 Ley 1761 de 2015 Ley 1762 de 2015 Ley 1773 de 2016 Ley 1774 de 2016 Ley 1786 de 2016 Ley 1788 de 2016 Ley 1801 de 2016 Ley 1809 de 2016 Ley 1811 de 2016, Art. 8 o.; Art. [[art. 9 Ley 1811 de 2016|9]] o.; Art. [[art. 14 Ley 1811 de 2016|14]] ; Art. [[art. 15 Ley 1811 de 2016|15]] ; Art. [[art. 17 Ley 1822 de 2017|17]] Ley 1822 de 2017 Ley 1826 de 2017 Ley 1843 de 2017; Art. [[art. 5 Ley 1843 de 2017|5]] o.; Art. [[art. 6 Ley 1843 de 2017|6]] o.; Art. [[art. 7 Ley 1843 de 2017|7]] o.; Art. [[art. 11 Ley 1846 de 2017|11]] Ley 1846 de 2017 Ley 1849 de 2017 Ley 1864 de 2017 Ley 1893 de 2018 Ley 1908 de 2018; Art. [[art. 3 Ley 1908 de 2018|3]] o.; Art. [[art. 4 Ley 1908 de 2018|4]] o.; Art. [[art. 5 Ley 1908 de 2018|5]] o.; Art. [[art. 6 Ley 1908 de 2018|6]] o.; Art. [[art. 7 Ley 1908 de 2018|7]] o.; Art. [[art. 8 Ley 1908 de 2018|8]] o.; Art. [[art. 9 Ley 1908 de 2018|9]] o.; Art. [[art. 10 Ley 1908 de 2018|10]] , Art. [[art. 11 Ley 1908 de 2018|11]] ; Art. [[art. 12 Ley 1908 de 2018|12]] ; Art. [[art. 13 Ley 1908 de 2018|13]] ; Art. [[art. 14 Ley 1908 de 2018|14]] ; Art. [[art. 15 Ley 1908 de 2018|15]] ; Art. [[art. 16 Ley 1908 de 2018|16]] ; Art. [[art. 17 Ley 1908 de 2018|17]] ; Art. [[art. 18 Ley 1908 de 2018|18]] ; Art. [[art. 19 Ley 1908 de 2018|19]] ; Art. [[art. 20 Ley 1908 de 2018|20]] ; Art. [[art. 21 Ley 1908 de 2018|21]] ; Art. [[art. 22 Ley 1908 de 2018|22]] ; Art. [[art. 23 Ley 1908 de 2018|23]] ; Art. [[art. 24 Ley 1908 de 2018|24]] ; Art. [[art. 25 Ley 1908 de 2018|25]] ; Art. [[art. 31 Ley 1911 de 2018|31]] Ley 1911 de 2018; Art. [[art. 22 Ley 1918 de 2018|22]] Ley 1918 de 2018; Art. [[art. 1 Ley 1918 de 2018|1]] o. Ley 1934 de 2018 Ley 1944 de 2018 Ley 1952 de 2019 Ley 1959 de 2019 Ley 2000 de 2019 Ley 2014 de 2019 Ley 2027 de 2020 Ley 2030 de 2020 Ley 2050 de 2020 Ley 2080 de 2021 Ley 2094 de 2021 Ley 2110 de 2021 Ley 2114 de 2021 Ley 2141 de 2021 Ley 2161 de 2021 Ley 2168 de 2021 Ley 2174 de 2021; Art. [[art. 4 Ley 2195 de 2022|4]] Ley 2195 de 2022 Ley 2197 de 2022 Ley 2220 de 2022 Ley 2222 de 2022 Ley 2229 de 2022 Ley 2251 de 2022 Ley 2252 de 2022 Ley 2283 de 2023 Ley 2292 de 2023 Ley 2346 de 2024 Ley 2356 de 2024 Ley 2375 de 2024; Art. [[art. 2 Ley 2375 de 2024|2]] ; Art. [[art. 5 Ley 2388 de 2024|5]] Ley 2388 de 2024 Ley 2393 de 2024 Ley 2411 de 2024 Ley 2435 de 2024 Ley 2454 de 2025; Art. [[art. 19 Ley 2454 de 2025|19]] ; Art. [[art. 20 Ley 2455 de 2025|20]] Ley 2455 de 2025 Ley 2477 de 2025
 
-> [!note] Ver Ley 40 de 1993
-
-> [!note] Ver Ley 49 de 1993
-
-> [!note] Ver Ley 57 de 1993; Art. [[art. 1 Ley 57 de 1993|1]]
-
-> [!note] Ver Ley 65 de 1993
-
-> [!note] Ver Ley 142 de 1994
-
-> [!note] Ver Ley 190 de 1995
-
-> [!note] Ver Ley 228 de 1995
-
-> [!note] Ver Ley 232 de 1995
-
-> [!note] Ver Ley 256 de 1996
-
-> [!note] Ver Ley 282 de 1996; Art. [[art. 11 Ley 282 de 1996|11]] al [[art. 16 Ley 282 de 1996|16]]
-
-> [!note] Ver Ley 294 de 1996
-
-> [!note] Ver Ley 362 de 1997
-
-> [!note] Ver Ley 365 de 1997
-
-> [!note] Ver Ley 389 de 1997
-
-> [!note] Ver Ley 446 de 1998
-
-> [!note] Ver Ley 584 de 2000
-
-> [!note] Ver Ley 589 de 2000
-
-> [!note] Ver Ley 599 de 2000
-
-> [!note] Ver Ley 600 de 2000
-
-> [!note] Ver Ley 640 de 2001
-
-> [!note] Ver Ley 685 de 2001
-
-> [!note] Ver Ley 712 de 2001
-
-> [!note] Ver Ley 734 de 2002
-
-> [!note] Ver Ley 745 de 2002
-
-> [!note] Ver Ley 746 de 2002
-
-> [!note] Ver Ley 747 de 2002
-
-> [!note] Ver Ley 755 de 2002
-
-> [!note] Ver Ley 759 de 2002
-
-> [!note] Ver Ley 769 de 2002
-
-> [!note] Ver Ley 777 de 2002
-
-> [!note] Ver Ley 791 de 2002
-
-> [!note] Ver Ley 794 de 2003
-
-> [!note] Ver Ley 795 de 2003
-
-> [!note] Ver Ley 809 de 2003
-
-> [!note] Ver Ley 813 de 2003
-
-> [!note] Ver Ley 820 de 2003
-
-> [!note] Ver Ley 903 de 2004
-
-> [!note] Ver Ley 906 de 2004
-
-> [!note] Ver Ley 926 de 2004
-
-> [!note] Ver Ley 937 de 2004
-
-> [!note] Ver Ley 954 de 2005
-
-> [!note] Ver Ley 962 de 2005
-
-> [!note] Ver Ley 975 de 2005; Art. [[art. 71 Ley 975 de 2005|71]]
-
-> [!note] Ver Ley 1005 de 2006
-
-> [!note] Ver Ley 1028 de 2006
-
-> [!note] Ver Ley 1060 de 2006
-
-> [!note] Ver Ley 1142 de 2007
-
-> [!note] Ver Ley 1149 de 2007
-
-> [!note] Ver Ley 1154 de 2007
-
-> [!note] Ver Ley 1181 de 2007
-
-> [!note] Ver Ley 1194 de 2008
-
-> [!note] Ver Ley 1210 de 2008
-
-> [!note] Ver Ley 1220 de 2008
-
-> [!note] Ver Ley 1236 de 2008
-
-> [!note] Ver Ley 1239 de 2008
-
-> [!note] Ver Ley 1257 de 2008
-
-> [!note] Ver Ley 1273 de 2009
-
-> [!note] Ver Ley 1280 de 2009
-
-> [!note] Ver Ley 1281 de 2009
-
-> [!note] Ver Ley 1309 de 2009
-
-> [!note] Ver Ley 1306 de 2009
-
-> [!note] Ver Ley 1311 de 2009
-
-> [!note] Ver Ley 1312 de 2009
-
-> [!note] Ver Ley 1326 de 2009
-
-> [!note] Ver Ley 1329 de 2009
-
-> [!note] Ver Ley 1356 de 2009
-
-> [!note] Ver Ley 1357 de 2009
-
-> [!note] Ver Ley 1364 de 2009
-
-> [!note] Ver Ley 1382 de 2010
-
-> [!note] Ver Ley 1383 de 2010
-
-> [!note] Ver Ley 1393 de 2010; Art. [[art. 18 Ley 1393 de 2010|18]]
-
-> [!note] Ver Ley 1395 de 2010
-
-> [!note] Ver Ley 1397 de 2010
-
-> [!note] Ver Ley 1426 de 2010
-
-> [!note] Ver Ley 1437 de 2011
-
-> [!note] Ver Ley 1468 de 2011
-
-> [!note] Ver Ley 1482 de 2011
-
-> [!note] Ver Ley 1548 de 2012
-
-> [!note] Ver Ley 1564 de 2012
-
-> [!note] Ver Ley 1696 de 2013
-
-> [!note] Ver Ley 1708 de 2014
-
-> [!note] Ver Ley 1727 de 2014
-
-> [!note] Ver Ley 1730 de 2014
-
-> [!note] Ver Ley 1752 de 2015
-
-> [!note] Ver Ley 1760 de 2015
-
-> [!note] Ver Ley 1761 de 2015
-
-> [!note] Ver Ley 1762 de 2015
-
-> [!note] Ver Ley 1773 de 2016
-
-> [!note] Ver Ley 1774 de 2016
-
-> [!note] Ver Ley 1801 de 2016
-
-> [!note] Ver Ley 1809 de 2016
-
-> [!note] Ver Ley 1811 de 2016, Art. [[art. 8 Ley 1811 de 2016|8]].; Art. [[art. 9 Ley 1811 de 2016|9]].; Art. [[art. 14 Ley 1811 de 2016|14]]; Art. [[art. 15 Ley 1811 de 2016|15]]; Art. [[art. 17 Ley 1811 de 2016|17]]
-
-> [!note] Ver Ley 1822 de 2017
-
-> [!note] Ver Ley 1826 de 2017
-
-> [!note] Ver Ley 1843 de 2017; Art. [[art. 5 Ley 1843 de 2017|5]]; Art. [[art. 6 Ley 1843 de 2017|6]]; Art. [[art. 7 Ley 1843 de 2017|7]]; Art. [[art. 11 Ley 1843 de 2017|11]]
-
-> [!note] Ver Ley 1846 de 2017
-
-> [!note] Ver Ley 1893 de 2018
-
-> [!note] Ver Ley 1908 de 2018; Art. [[art. 3 Ley 1908 de 2018|3]] al [[art. 25 Ley 1908 de 2018|25]] ; Art. [[art. 31 Ley 1908 de 2018|31]]
-
-> [!note] Ver Ley 1911 de 2018; Art. [[art. 22 Ley 1911 de 2018|22]]
-
-> [!note] Ver Ley 1918 de 2018; Art. [[art. 1 Ley 1918 de 2018|1]]
-
-> [!note] Ver Ley 1934 de 2018
-
-> [!note] Ver Ley 1944 de 2018
-
-> [!note] Ver Ley 1952 de 2019
-
-> [!note] Ver Ley 2014 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-543-92 ; C-558-92; C-559-92; C-560-92; C-013-93 ; C-015-93; C-024-93; C-070-93; C-114-93; C-143-93 ; C-150-93; C-171-93; C-548-93; C-591-93; C-174-2001; C-261-2001; C-555-2001; C-582-2001 ; C-586-2001; C-646-2001 ; C-653-2001; C-1195-2001 ; C-1157-03 ; C-153-04; C-306-04; C-180-06
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-541-92 ; C-543-92 ; C-558-92 ; C-559-92 ; C-560-92 ; C-013-93 ; C-015-93 ; C-024-93 ; C-070-93 ; C-114-93 ; C-143-93 ; C-150-93 ; C-171-93 ; C-548-93 ; C-591-93 ; C-174-2001 ; C-261-2001 ; C-555-2001 ; C-582-2001 ; C-586-2001 ; C-646-2001 ; C-653-2001 ; C-1195-2001 ; C-573-03 ; C-1157-03 ; C-153-04 ; C-306-04 ; C-458-04 ; C-180-06 ; C-269-22 ; C-397-24 ;
 
 3\. Aprobar el plan nacional de desarrollo y de inversiones públicas que hayan de emprenderse o continuarse, con la determinación de los recursos y apropiaciones que se autoricen para su ejecución, y las medidas necesarias para impulsar el cumplimiento de los mismos.
 
-> [!note] Ver Ley 95 de 1993; Art. [[art. 2 Ley 95 de 1993|2]]
+> [!note] Concordancias: Ley 95 de 1993; Art. [[art. 2 Ley 152 de 1994|2]] Ley 152 de 1994 Ley 153 de 1994, Art. [[art. 3 Ley 165 de 1994|3]] Ley 165 de 1994 Ley 168 de 1994 Ley 179 de 1994; Art. [[art. 55 Ley 188 de 1995|55]] Ley 188 de 1995 Ley 217 de 1995 Ley 343 de 1996; Art. [[art. 2 Ley 508 de 1999|2]] Ley 508 de 1999 Ley 812 de 2003 Ley 1151 de 2007 Ley 1176 de 2007 Ley 1450 de 2011 Ley 1473 de 2011 Ley 1541 de 2012 Ley 1542 de 2012 Ley 1543 de 2012 Ley 1545 de 2012 Ley 1753 de 2015 Ley 1955 de 2019 Ley 1977 de 2019 Ley 2062 de 2020 Ley 2294 de 2023
 
-> [!note] Ver Ley 152 de 1994
-
-> [!note] Ver Ley 153 de 1994, Art. [[art. 3 Ley 153 de 1994|3]]
-
-> [!note] Ver Ley 165 de 1994
-
-> [!note] Ver Ley 179 de 1994; Art. [[art. 55 Ley 179 de 1994|55]]
-
-> [!note] Ver Ley 343 de 1996; Art. [[art. 2 Ley 343 de 1996|2]]
-
-> [!note] Ver Ley 508 de 1999
-
-> [!note] Ver Ley 812 de 2003
-
-> [!note] Ver Ley 1151 de 2007
-
-> [!note] Ver Ley 1450 de 2011
-
-> [!note] Ver Ley 1473 de 2011
-
-> [!note] Ver Ley 1541 de 2012
-
-> [!note] Ver Ley 1542 de 2012
-
-> [!note] Ver Ley 1753 de 2015
-
-> [!note] Ver Ley 1955 de 2019
-
-> [!note] Ver Ley 1977 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-490-94; C-547-94; C-566-94; C-1065-2001; C-022-04 ; C-473-04; C-533-05; C-377-08; C-510-08
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-490-94 ; C-547-94 ; C-566-94 ; C-1065-2001 ; C-022-04 ; C-473-04 ; C-533-05 ; C-377-08 ; C-510-08 ;
 
 4\. Definir la división general del territorio con arreglo a lo previsto en esta Constitución, fijar las bases y condiciones para crear, eliminar, modificar o fusionar entidades territoriales y establecer sus competencias.
 
-> [!note] Ver Ley 47 de 1993
+> [!note] Concordancias: Ley 47 de 1993 Ley 60 de 1993 Ley 128 de 1994 Ley 136 de 1994 Ley 191 de 1995 Ley 677 de 2001 Ley 715 de 2001 Ley 1059 de 2006 Ley 1625 de 2013 Ley 1813 de 2016 Ley 1845 de 2017 Ley 1993 de 2019 Ley 2135 de 2021
 
-> [!note] Ver Ley 60 de 1993
-
-> [!note] Ver Ley 136 de 1994
-
-> [!note] Ver Ley 191 de 1995
-
-> [!note] Ver Ley 677 de 2001
-
-> [!note] Ver Ley 715 de 2001
-
-> [!note] Ver Ley 1059 de 2006
-
-> [!note] Ver Ley 1625 de 2013
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-061-93 ; C-428-93 ; C-579-2001 ; C-313-09
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-061-93 ; C-428-93 ; C-579-2001 ; C-313-09
 
 5\. Conferir atribuciones especiales a las asambleas departamentales.
 
-Constitución Política; Art. [[art. 301 CPol|301]])
+> [!note] Concordancias: Constitución Política; Art. [[art. 301 Ley 85 de 1993|301]] Ley 85 de 1993 Ley 93 de 1993; Art. [[art. 3 Ley 93 de 1993|3]] ; Art. [[art. 4 Ley 122 de 1994|4]] Ley 122 de 1994; Art. [[art. 1 Ley 122 de 1994|1]] ; Art. [[art. 3 Ley 206 de 1995|3]] Ley 206 de 1995 Ley 288 de 1996 Ley 334 de 1996 Ley 348 de 1997 Ley 367 de 1997 Ley 382 de 1997 Ley 397 de 1997; Art. [[art. 38 Ley 426 de 1998|38]] Ley 426 de 1998 Ley 538 de 1999 Ley 542 de 1999 Ley 551 de 1999 Ley 561 de 2000 Ley 634 de 2000 Ley 645 de 2001 Ley 648 de 2001 Ley 654 de 2001 Ley 655 de 2001 Ley 656 de 2001 Ley 662 de 2001 Ley 663 de 2001 Ley 664 de 2001 Ley 665 de 2001 Ley 666 de 2001 Ley 669 de 2001 Ley 682 de 2001 Ley 687 de 2001 Ley 699 de 2001 Ley 709 de 2001 Ley 1068 de 2006 Ley 1162 de 2007 Ley 1177 de 2007 Ley 1178 de 2007 Ley 1216 de 2008 Ley 1217 de 2008 Ley 1276 de 2009 Ley 1277 de 2009 Ley 1301 de 2009 Ley 1320 de 2009 Ley 1321 de 2009 Ley 1452 de 2011 Ley 1486 de 2011 Ley 1489 de 2011 Ley 1492 de 2011 Ley 1495 de 2011 Ley 1510 de 2012 Ley 1614 de 2013 Ley 1655 de 2013 Ley 1685 de 2013 Ley 1725 de 2014 Ley 1814 de 2016 Ley 1816 de 2016; Art. [[art. 4 Ley 1816 de 2016|4]] ; Art. [[art. 11 Ley 1816 de 2016|11]] ; Art. [[art. 14 Ley 1825 de 2017|14]] Ley 1825 de 2017 Ley 1869 de 2017 Ley 1877 de 2018 Ley 1936 de 2018 Ley 1974 de 2019 Ley 1983 de 2019 Ley 1992 de 2019 Ley 2023 de 2020 Ley 2028 de 2020 Ley 2076 de 2021 Ley 2122 de 2021 Ley 2123 de 2021 Ley 2124 de 2021 Ley 2126 de 2021; Art. [[art. 22 Ley 2146 de 2021|22]] Ley 2146 de 2021 Ley 2147 de 2021 Ley 2200 de 2022; Art. [[art. 19 Ley 2256 de 2022|19]] Ley 2256 de 2022 Ley 2257 de 2022 Ley 2448 de 2025 Ley 2449 de 2025
 
-> [!note] Ver Ley 93 de 1993; Art. [[art. 3 Ley 93 de 1993|3]]; Art. [[art. 4 Ley 93 de 1993|4]]
-
-> [!note] Ver Ley 122 de 1994; Art. [[art. 1 Ley 122 de 1994|1]]; Art. [[art. 3 Ley 122 de 1994|3]]
-
-> [!note] Ver Ley 288 de 1996
-
-> [!note] Ver Ley 397 de 1997; Art. [[art. 38 Ley 397 de 1997|38]]
-
-> [!note] Ver Ley 648 de 2001
-
-> [!note] Ver Ley 666 de 2001
-
-> [!note] Ver Ley 687 de 2001
-
-> [!note] Ver Ley 1217 de 2008
-
-> [!note] Ver Ley 1276 de 2009
-
-> [!note] Ver Ley 1655 de 2013
-
-> [!note] Ver Ley 1816 de 2016; Art. [[art. 4 Ley 1816 de 2016|4]] ; Art. [[art. 11 Ley 1816 de 2016|11]] ; Art. [[art. 14 Ley 1816 de 2016|14]]
-
-> [!note] Ver Sentencia de la Corte Constitucional: C-478-92
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ;
 
 6\. Variar, en circunstancias extraordinarias y por graves motivos de conveniencia pública, la actual residencia de los altos poderes nacionales.
 
-> [!note] Ver Constitución Política; Art. [[art. 140 CPol|140]]
+> [!note] Concordancias: Constitución Política; Art. [[art. 140 CPol|140]]
 
-7\. Determinar la estructura de la administración nacional y crear, suprimir o fusionar ministerios, departamentos administrativos, superintendencias, establecimientos públicos y otras entidades del orden nacional, señalando sus objetivos y estructura organica; reglamentar la creación y funcionamiento de las Corporaciones Autonomas Regionales dentro de un régimen de autonomía; así mismo, crear o autorizar la constitución de empresas industriales y comerciales del estado y sociedades de economía mixta.
+7\. Determinar la estructura de la administración nacional y crear, suprimir o fusionar ministerios, departamentos administrativos, superintendencias, establecimientos públicos y otras entidades del orden nacional, señalando sus objetivos y estructura orgánica; reglamentar la creación y funcionamiento de las Corporaciones Autónomas Regionales dentro de un régimen de autonomía; así mismo, crear o autorizar la constitución de empresas industriales y comerciales del estado y sociedades de economía mixta.
 
-> [!note] Ver Constitución Política; Art. [[art. 189 CPol|189]], Numeral 15
+> [!note] Concordancias: Constitución Política; Art. [[art. 189 Ley 5 de 1992|189]] , Numeral 15 Ley 5 de 1992; Art. [[art. 142 Ley 5 de 1992|142]] Nums. 2 y 3 Ley 62 de 1993 Ley 91 de 1993 Ley 99 de 1993 Ley 105 de 1993 Ley 109 de 1994 Ley 116 de 1994 Ley 119 de 1994 Ley 142 de 1994 Ley 161 de 1994 Ley 182 de 1995 Ley 199 de 1995 Ley 219 de 1995 Ley 229 de 1995 Ley 281 de 1996 Ley 298 de 1996; Art. [[art. 6 Ley 300 de 1996|6]] Ley 300 de 1996; Art. [[art. 51 Ley 309 de 1996|51]] Ley 309 de 1996; Art. [[art. 1 Ley 314 de 1996|1]] Ley 314 de 1996 Ley 318 de 1996 Ley 322 de 1996 Ley 326 de 1996 Ley 352 de 1997; Art. [[art. 40 Ley 368 de 1997|40]] Ley 368 de 1997 Ley 391 de 1997 Ley 396 de 1997 Ley 397 de 1997; Art. [[art. 66 Ley 401 de 1997|66]] Ley 401 de 1997 Ley 432 de 1998 Ley 454 de 1998; Art. [[art. 29 Ley 454 de 1998|29]] ; Art. [[art. 30 Ley 454 de 1998|30]] ; Art. [[art. 31 Ley 454 de 1998|31]] ; Art. [[art. 32 Ley 454 de 1998|32]] ; Art. [[art. 33 Ley 454 de 1998|33]] ; Art. [[art. 34 Ley 454 de 1998|34]] ; Art. [[art. 35 Ley 454 de 1998|35]] ; Art. [[art. 36 Ley 489 de 1998|36]] Ley 489 de 1998; Art. [[art. 38 Ley 489 de 1998|38]] ; Art. [[art. 49 Ley 489 de 1998|49]] ; Art. [[art. 50 Ley 489 de 1998|50]] ; Art. [[art. 51 Ley 489 de 1998|51]] ; Art. [[art. 52 Ley 489 de 1998|52]] ; Art. [[art. 53 Ley 489 de 1998|53]] ; Art. [[art. 54 Ley 490 de 1998|54]] Ley 490 de 1998 Ley 526 de 1999 Ley 653 de 2001 Ley 718 de 2001 Ley 727 de 2001 Ley 768 de 2002; Art. [[art. 13 Ley 773 de 2002|13]] Ley 773 de 2002 Ley 812 de 2003; Art. [[art. 49 Ley 887 de 2004|49]] Ley 887 de 2004 Ley 888 de 2004 Ley 914 de 2004; Art. [[art. 5 Ley 914 de 2004|5]] o.; Art. [[art. 6 Ley 914 de 2004|6]] o. Ley 925 de 2004 Ley 1002 de 2005 Ley 1009 de 2006 Ley 1084 de 2006 Ley 1118 de 2006 Ley 1263 de 2008 Ley 1427 de 2010 Ley 1886 de 2018 Ley 1938 de 2018 Ley 1951 de 2019 Decreto Ley 2106 de 2019; Art. [[art. 125 Ley 2065 de 2020|125]] Ley 2065 de 2020 Ley 2281 de 2023
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 142 Ley 5 de 1992|142]] Nums. 2 y 3
-
-> [!note] Ver Ley 62 de 1993
-
-> [!note] Ver Ley 91 de 1993
-
-> [!note] Ver Ley 99 de 1993
-
-> [!note] Ver Ley 105 de 1993
-
-> [!note] Ver Ley 109 de 1994
-
-> [!note] Ver Ley 116 de 1994
-
-> [!note] Ver Ley 119 de 1994
-
-> [!note] Ver Ley 142 de 1994
-
-> [!note] Ver Ley 161 de 1994
-
-> [!note] Ver Ley 182 de 1995
-
-> [!note] Ver Ley 199 de 1995
-
-> [!note] Ver Ley 281 de 1996
-
-> [!note] Ver Ley 298 de 1996; Art. [[art. 6 Ley 298 de 1996|6]]
-
-> [!note] Ver Ley 300 de 1996; Art. [[art. 51 Ley 300 de 1996|51]]
-
-> [!note] Ver Ley 309 de 1996; Art. [[art. 1 Ley 309 de 1996|1]]
-
-> [!note] Ver Ley 314 de 1996
-
-> [!note] Ver Ley 318 de 1996
-
-> [!note] Ver Ley 322 de 1996
-
-> [!note] Ver Ley 352 de 1997; Art. [[art. 40 Ley 352 de 1997|40]]
-
-> [!note] Ver Ley 368 de 1997
-
-> [!note] Ver Ley 396 de 1997
-
-> [!note] Ver Ley 397 de 1997; Art. [[art. 66 Ley 397 de 1997|66]]
-
-> [!note] Ver Ley 401 de 1997
-
-> [!note] Ver Ley 432 de 1998
-
-> [!note] Ver Ley 454 de 1998; Art. [[art. 29 Ley 454 de 1998|29]] al [[art. 36 Ley 454 de 1998|36]]
-
-> [!note] Ver Ley 489 de 1998; Art. [[art. 38 Ley 489 de 1998|38]] ; Art. [[art. 49 Ley 489 de 1998|49]] al [[art. 54 Ley 489 de 1998|54]]
-
-> [!note] Ver Ley 490 de 1998
-
-> [!note] Ver Ley 526 de 1999
-
-> [!note] Ver Ley 768 de 2002; Art. [[art. 13 Ley 768 de 2002|13]]
-
-> [!note] Ver Ley 812 de 2003; Art. [[art. 49 Ley 812 de 2003|49]]
-
-> [!note] Ver Ley 887 de 2004
-
-> [!note] Ver Ley 888 de 2004
-
-> [!note] Ver Ley 914 de 2004; Art. [[art. 5 Ley 914 de 2004|5]]o.; Art. [[art. 6 Ley 914 de 2004|6]]
-
-> [!note] Ver Ley 1002 de 2005
-
-> [!note] Ver Ley 1009 de 2006
-
-> [!note] Ver Ley 1084 de 2006
-
-> [!note] Ver Ley 1118 de 2006
-
-> [!note] Ver Ley 1263 de 2008
-
-> [!note] Ver Ley 1427 de 2010
-
-> [!note] Ver Ley 1886 de 2018
-
-> [!note] Ver Ley 1938 de 2018
-
-> [!note] Ver Ley 1951 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C C-448-92; C-465-92; C-514-92 ; C-559-92; C-560-92; C-013-93 ; C-014-93; C-040-93; C-041-93; C-058-93; C-074-93 ; C-112-93 ; C-132-93; C-364-93; C-455-93; C-505-93; C-537-93; C-544-93; C-994-00 ; C-090-2001; C-401-2001; C-408-2001; C-442-2001; C-670-2001; C-779-2001 ; C-837-2001 ; C-992-2001; C-1096-2001; C-540-2001 ; C-894-03; C-121-04; C-150-04 ; C-205-05 ; C-044-06 ; C-856-06; C-554-07 ; C-691-07 ; C-910-07 ; C-955-07 ; C-228-08 ; C-462-08 ; C-689-11; C-570-12 ; C-862-12; C-909-12; C-914-13 ; C-035-16; C-110-19; C-246-19 ; C-407-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-448-92 ; C-465-92 ; C-514-92 ; C-517-92 ; C-559-92 ; C-560-92 ; C-590-92 ; C-013-93 ; C-014-93 ; C-040-93 ; C-041-93 ; C-058-93 ; C-074-93 ; C-112-93 ; C-132-93 ; C-364-93 ; C-455-93 ; C-505-93 ; C-537-93 ; C-544-93 ; C-994-00 ; C-090-2001 ; C-401-2001 ; C-408-2001 ; C-442-2001 ; C-670-2001 ; C-779-2001 ; C-837-2001 ; C-992-2001 ; C-1096-2001 ; C-540-2001 ; C-894-03 ; C-121-04 ; C-150-04 ; C-350-04 ; C-205-05 ; C-044-06 ; C-856-06 ; C-554-07 ; C-691-07 ; C-910-07 ; C-955-07 ; C-228-08 ; C-462-08 ; C-689-11 ; C-570-12 ; C-862-12 ; C-909-12 ; C-914-13 ; C-035-16 ; C-110-19 ; C-246-19 ; C-407-19 ; C-047-21 ; C-145-21 ; C-043-23 ; C-152-23 ;
 
 8\. Expedir las normas a las cuales debe sujetarse el Gobierno para el ejercicio de las funciones de inspección y vigilancia que le señala la Constitución.
 
-> [!note] Ver Ley 30 de 1992
+> [!note] Concordancias: Ley 30 de 1992 Ley 31 de 1992 Ley 35 de 1993 Ley 105 de 1993 Ley 142 de 1994 Ley 143 de 1994 Ley 222 de 1995; Art. [[art. 229 Ley 272 de 1996|229]] Ley 272 de 1996; Art. [[art. 12 Ley 336 de 1996|12]] Ley 336 de 1996 Ley 527 de 1999 Ley 549 de 1999; Art. [[art. 18 Ley 643 de 2001|18]] Ley 643 de 2001; Art. [[art. 53 Ley 643 de 2001|53]]
 
-> [!note] Ver Ley 31 de 1992
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-465-92 ; C-549-92 ; C-553-92 ; C-559-92 ; C-560-92 ; C-542-93 ; C-008-2001 ; C-199-2001 ; C-921-2001 ; C-782-07 ; C-246-19 ; C-269-22 ;
 
-> [!note] Ver Ley 35 de 1993
+9\. Conceder autorizaciones al Gobierno para celebrar contratos, negociar empréstitos y enajenar bienes nacionales. El Gobierno rendirá periódicamente informes al Congreso sobre el ejercicio de estas autorizaciones.
 
-> [!note] Ver Ley 105 de 1993
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 254 Ley 60 de 1993|254]] Ley 60 de 1993; Art. [[art. 5 Ley 95 de 1993|5]] Ley 95 de 1993; Art. [[art. 2 Ley 101 de 1993|2]] Ley 101 de 1993; Art. [[art. 30 Ley 80 de 1993|30]] Ley 80 de 1993; Art. [[art. 11 Ley 80 de 1993|11]] ; Art. [[art. 41 Ley 80 de 1993|41]] , Parágrafo 2o. Ley 153 de 1994, Art. [[art. 3 Ley 187 de 1995|3]] Ley 187 de 1995 Ley 193 de 1995 Ley 226 de 1995 Ley 227 de 1995; Art. [[art. 4 Ley 300 de 1996|4]] Ley 300 de 1996; Art. [[art. 41 Ley 321 de 1996|41]] Ley 321 de 1996; Art. [[art. 1 Ley 343 de 1996|1]] Ley 343 de 1996; Art. [[art. 2 Ley 533 de 1999|2]] Ley 533 de 1999 Ley 534 de 1999; Art. [[art. 8 Ley 534 de 1999|8]] o.. Ley 643 de 2001; Art. [[art. 56 Ley 781 de 2002|56]] Ley 781 de 2002 Ley 848 de 2003; Art. [[art. 32 Ley 1041 de 2006|32]] Ley 1041 de 2006; Art. [[art. 2 Ley 1041 de 2006|2]] o. Ley 1062 de 2006; Art. [[art. 3 Ley 1062 de 2006|3]] o. Ley 1066 de 2006; Art. [[art. 15 Ley 1068 de 2006|15]] Ley 1068 de 2006; Art. [[art. 7 Ley 1068 de 2006|7]] o. Ley 1080 de 2006; Art. [[art. 3 Ley 1366 de 2009|3]] o Ley 1366 de 2009 Ley 1494 de 2011 Ley 1523 de 2012; Art. [[art. 67 Ley 1541 de 2012|67]] Ley 1541 de 2012 Ley 1542 de 2012 Ley 1543 de 2012 Ley 1545 de 2012 Ley 1914 de 2018; Art. [[art. 3 Ley 1914 de 2018|3]] o. Ley 1940 de 2018; Art. [[art. 120 Ley 1940 de 2018|120]]
 
-> [!note] Ver Ley 142 de 1994
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-447-92 ; C-448-92 ; C-449-92 ; C-006-93 ; C-056-93 ; C-068-93 ; C-098-93 ; C-149-93 ; C-205-93 ; C-337-93 ; C-548-93 ; C-543-2001 ; C-738-2001 ; C-183-03 ; C-246-04 ; C-132-09 ; C-437-11 ; C-393-12 ; C-416-20 ; C-037-21 ;
 
-> [!note] Ver Ley 143 de 1994
+10\. Revestir, hasta por seis meses, al Presidente de la República de precisas facultades extraordinarias, para expedir normas con fuerza de ley cuando la necesidad lo exija o la conveniencia pública lo aconseje. Tales facultades deberán ser solicitadas expresamente por el Gobierno y su aprobación requerirá la mayoría absoluta de los miembros de una y otra Cámara.
 
-> [!note] Ver Ley 222 de 1995; Art. [[art. 229 Ley 222 de 1995|229]]
-
-> [!note] Ver Ley 272 de 1996; Art. [[art. 12 Ley 272 de 1996|12]]
-
-> [!note] Ver Ley 336 de 1996
-
-> [!note] Ver Ley 527 de 1999
-
-> [!note] Ver Ley 549 de 1999; Art. [[art. 18 Ley 549 de 1999|18]]
-
-> [!note] Ver Ley 643 de 2001; Art. [[art. 53 Ley 643 de 2001|53]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C C-465-92; C-553-92; C-559-92; C-560-92; C-542-93; C-008-2001; C-199-2001; C-921-2001; C-782-07 ; C-246-19
-
-9\. Conceder autorizaciones al Gobierno para celebrar contratos, negociar emprestitos y enajenar bienes nacionales. El Gobierno rendirá periodicamente informes al Congreso sobre el ejercicio de estas autorizaciones.
-
-> [!note] Ver Ley 5 de 1992; Art. [[art. 254 Ley 5 de 1992|254]]
-
-> [!note] Ver Ley 60 de 1993; Art. [[art. 5 Ley 60 de 1993|5]]
-
-> [!note] Ver Ley 95 de 1993; Art. [[art. 2 Ley 95 de 1993|2]]
-
-> [!note] Ver Ley 101 de 1993; Art. [[art. 30 Ley 101 de 1993|30]]
-
-> [!note] Ver Ley 80 de 1993; Art. [[art. 11 Ley 80 de 1993|11]] ; Art. [[art. 41 Ley 80 de 1993|41]], PARÁGRAFO 2
-
-> [!note] Ver Ley 153 de 1994, Art. [[art. 3 Ley 153 de 1994|3]]
-
-> [!note] Ver Ley 226 de 1995
-
-> [!note] Ver Ley 227 de 1995; Art. [[art. 4 Ley 227 de 1995|4]]
-
-> [!note] Ver Ley 300 de 1996; Art. [[art. 41 Ley 300 de 1996|41]]
-
-> [!note] Ver Ley 321 de 1996; Art. [[art. 1 Ley 321 de 1996|1]]
-
-> [!note] Ver Ley 343 de 1996; Art. [[art. 2 Ley 343 de 1996|2]]
-
-> [!note] Ver Ley 533 de 1999
-
-> [!note] Ver Ley 534 de 1999; Art. [[art. 8 Ley 534 de 1999|8]]
-
-> [!note] Ver Ley 643 de 2001; Art. [[art. 56 Ley 643 de 2001|56]]
-
-> [!note] Ver Ley 781 de 2002
-
-> [!note] Ver Ley 848 de 2003; Art. [[art. 32 Ley 848 de 2003|32]]
-
-> [!note] Ver Ley 1041 de 2006; Art. [[art. 2 Ley 1041 de 2006|2]]
-
-> [!note] Ver Ley 1062 de 2006; Art. [[art. 3 Ley 1062 de 2006|3]]
-
-> [!note] Ver Ley 1066 de 2006; Art. [[art. 15 Ley 1066 de 2006|15]]
-
-> [!note] Ver Ley 1068 de 2006; Art. [[art. 7 Ley 1068 de 2006|7]]
-
-> [!note] Ver Ley 1080 de 2006; Art. [[art. 3 Ley 1080 de 2006|3]]
-
-> [!note] Ver Ley 1366 de 2009
-
-> [!note] Ver Ley 1523 de 2012; Art. [[art. 67 Ley 1523 de 2012|67]]
-
-> [!note] Ver Ley 1541 de 2012
-
-> [!note] Ver Ley 1542 de 2012
-
-> [!note] Ver Ley 1914 de 2018; Art. [[art. 3 Ley 1914 de 2018|3]]
-
-> [!note] Ver Ley 1940 de 2018; Art. [[art. 120 Ley 1940 de 2018|120]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-447-92; C-448-92; C-006-93; C-056-93; C-068-93; C-098-93; C-149-93 ; C-205-93; C-337-93 ; C-548-93; C-543-2001; C-738-2001 ; C-246-04; C-132-09; C-437-11; C-393-12
-
-10\. Revestir, hasta por seis meses, al Presidente de la República de precisas facultades extraordinarias, para expedir normas con fuerza de ley cuando la necesidad lo exija o la conveniencia pública lo aconseje. Tales facultades deberán ser solicitadas expresamente por el Gobierno y su aprobación requerira la mayoría absoluta de los miembros de una y otra Cámara.
-
-> [!note] Ver Ley 5 de 1992; Art. [[art. 115 Ley 5 de 1992|115]] ; Art. [[art. 119 Ley 5 de 1992|119]] Num. 1 ; Art. [[art. 140 Ley 5 de 1992|140]] Num. 2 ; Art. [[art. 1 Ley 5 de 1992|1]] [[art. 42 Ley 5 de 1992|42]] ; Art. [[art. 300 Ley 5 de 1992|300]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 115 Ley 5 de 1992|115]] ; Art. [[art. 119 Ley 5 de 1992|119]] Num. 1; Art. [[art. 140 Ley 5 de 1992|140]] Num. 2; Art. [[art. 142 Ley 5 de 1992|142]] ; Art. [[art. 300 Ley 5 de 1992|300]]
 
 El Congreso podrá, en todo tiempo y por iniciativa propia, modificar los decretos leyes dictados por el Gobierno en uso de facultades extraordinarias.
 
-Estas facultades no se podrán conferir para expedir códigos, leyes estatutarias, organicas, ni las previstas en el numeral 20 del presente artículo, ni para decretar impuestos.
+Estas facultades no se podrán conferir para expedir códigos, leyes estatutarias, orgánicas, ni las previstas en el numeral 20 del presente artículo, ni para decretar impuestos.
 
-> [!note] Ver Ley 3 de 1992; Art. [[art. 3 Ley 3 de 1992|3]]
+> [!note] Notas del Editor: Para la Interpretación de este numeral, debe tenerse en cuenta lo recalcado en varias ocasiones por la doctrina de la Corte Constitucional. A continuación se trascriben apartes de la Sentencia C-700-99 : '... la remisión en el numeral 10 al 20 del artículo 150 de la Carta no obedeció más que a una lamentable inadvertencia al producirse un cambio de numeración en los ordinales del precepto (Cfr., entre otras, Corte Constitucional, Sentencia C-417-92 del 18 de junio de 1992. M.P.: Dr. Fabio Morón Díaz, y Sentencia C-608-99 del 23 de agosto de 1999, M.P.: Dr. José Gregorio Hernández Galindo), pero jamás a prohibir la concesión de facultades extraordinarias al Presidente para el efecto, mucho más cercano a su propia función, de 'crear los servicios administrativos y técnicos de las cámaras'. Esto último habría carecido de toda fundamentación razonable, y también la correlativa circunstancia de que materias tan importantes como las señaladas en el numeral 19 del mencionado artículo hubiesen quedado expuestas sin limitación al otorgamiento de esas autorizaciones, permitiendo al Congreso marginarse -por la vía de la delegación- de una de sus esenciales atribuciones en el contexto de la nueva Carta Política. Añádase a lo dicho que, en esa hipótesis, no se habría hallado razón para descartar la posibilidad de facultades extraordinarias con el objeto de expedir códigos, leyes orgánicas y leyes estatutarias, dando en cambio a las leyes marco un trato amplio y flexible, injustificadamente distinto. Por eso, uno de los delegatarios a la Asamblea Constituyente, el doctor Alfonso Palacio Rudas, escribió así al respecto: (...) En concreto, ¿cuáles son las materias objeto de facultades extraordinarias? La respuesta es sencilla. Todas aquellas cuya naturaleza sea la propia de la normatividad común, excepto los códigos, y las tributarias. Este es el alcance correcto del artículo 150 numeral 10, en particular su último párrafo. Y me refiero expresamente a él como sometida a facultades extraordinarias la atribución 20 del artículo 150 que se refiere a una prerrogativa inherente al Congreso, pues se trata de la creación de los servicios administrativos y técnicos de las cámaras. Lo que ocurrió fue que en la votación final de la norma que comento se retiró la atribución 15, referente al estatuto general de la administración pública. De suerte que el numeral 20, al que se le asignaron las normas generales pasó a ser la atribución 19. Sin embargo, se omitió efectuar la concordancia con lo dispuesto en el numeral 10 sobre facultades extraordinarias. Parece oportuno hacer esta aclaración para evitar futuros equívocos derivados de los apresuramientos que dieron origen a sucesivos gazapos'. (Cfr. Palacios Rudas, Alfonso. El Congreso en la Constitución de 1991. 2a. edición aumentada. Thomas Greg & Sons de Colombia TM Editores. págs. 113 y 118).
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 119 Ley 5 de 1992|119]] Num. 2 ; Art. [[art. 208 Ley 5 de 1992|208]] Num. 3
+> [!note] Concordancias: Ley 3 de 1992; Art. [[art. 3 Ley 5 de 1992|3]] Ley 5 de 1992; Art. [[art. 119 Ley 5 de 1992|119]] Num. 2; Art. [[art. 208 Ley 60 de 1993|208]] Num. 3 Ley 60 de 1993; Art. [[art. 27 Ley 61 de 1993|27]] Ley 61 de 1993; Art. [[art. 1 Ley 62 de 1993|1]] Ley 62 de 1993; Art. [[art. 35 Ley 65 de 1993|35]] Ley 65 de 1993; Art. [[art. 172 Ley 70 de 1993|172]] Ley 70 de 1993; Art. [[art. 43 Ley 100 de 1993|43]] Ley 100 de 1993; Art. [[art. 139 Ley 134 de 1994|139]] Ley 134 de 1994; Art. [[art. 101 Ley 134 de 1994|101]] ; Art. [[art. 104 Ley 136 de 1994|104]] Ley 136 de 1994; Art. [[art. 199 Ley 136 de 1994|199]] ; Art. [[art. 202 Ley 160 de 1994|202]] Ley 160 de 1994; Art. [[art. 108 Ley 180 de 1995|108]] Ley 180 de 1995; Art. [[art. 7 Ley 190 de 1995|7]] Ley 190 de 1995; Art. [[art. 83 Ley 222 de 1995|83]] Ley 222 de 1995 Ley 223 de 1995; Art. [[art. 180 Ley 322 de 1996|180]] Ley 322 de 1996; Art. [[art. 37 Ley 344 de 1996|37]] Ley 344 de 1996; Art. [[art. 30 Ley 375 de 1997|30]] Ley 375 de 1997; Art. [[art. 50 Ley 383 de 1997|50]] Ley 383 de 1997 Ley 443 de 1998; Art. [[art. 66 Ley 488 de 1998|66]] Ley 488 de 1998; Art. [[art. 79 Ley 488 de 1998|79]] ; Art. [[art. 120 Ley 573 de 2000|120]] Ley 573 de 2000 Ley 578 de 2000 Ley 651 de 2001; Art. [[art. 9 Ley 651 de 2001|9]] o. Ley 788 de 2002; Art. [[art. 60 Ley 789 de 2002|60]] Ley 789 de 2002; Art. [[art. 5 Ley 789 de 2002|5]] o. Ley 790 de 2002; Art. [[art. 16 Ley 797 de 2003|16]] Ley 797 de 2003; Art. [[art. 17 Ley 909 de 2004|17]] Ley 909 de 2004; Art. [[art. 53 Ley 1033 de 2006|53]] Ley 1033 de 2006; Art. [[art. 2 Ley 1033 de 2006|2]] o.; Art. [[art. 3 Ley 1033 de 2006|3]] o.; Art. [[art. 6 Ley 1033 de 2006|6]] o. Ley 1424 de 2010; Art. [[art. 10 Ley 1424 de 2010|10]] o. Ley 1448 de 2011; Art. [[art. 205 Ley 1453 de 2011|205]] Ley 1453 de 2011; Art. [[art. 104 Ley 1474 de 2011|104]] Ley 1474 de 2011, Art. [[art. 75 Ley 1642 de 2013|75]] Ley 1642 de 2013 Ley 1654 de 2013 Ley 1955 de 2019; Art. [[art. 331 Ley 1955 de 2019|331]] ; Art. [[art. 332 Ley 1955 de 2019|332]] : Art. [[art. 333 Ley 1955 de 2019|333]] ; Art. [[art. 334 Ley 1955 de 2019|334]] ; Art. [[art. 335 Ley 2281 de 2023|335]] Ley 2281 de 2023; Art. [[art. 12 Ley 2294 de 2023|12]] Ley 2294 de 2023; Art. [[art. 366 Ley 2294 de 2023|366]] ; Art. [[art. 367 Ley 2294 de 2023|367]] ; Art. [[art. 368 Ley 2294 de 2023|368]]
 
-> [!note] Ver Ley 60 de 1993; Art. [[art. 27 Ley 60 de 1993|27]]
-
-> [!note] Ver Ley 61 de 1993; Art. [[art. 1 Ley 61 de 1993|1]]
-
-> [!note] Ver Ley 62 de 1993; Art. [[art. 35 Ley 62 de 1993|35]]
-
-> [!note] Ver Ley 65 de 1993; Art. [[art. 172 Ley 65 de 1993|172]]
-
-> [!note] Ver Ley 70 de 1993; Art. [[art. 43 Ley 70 de 1993|43]]
-
-> [!note] Ver Ley 100 de 1993; Art. [[art. 139 Ley 100 de 1993|139]]
-
-> [!note] Ver Ley 134 de 1994; Art. [[art. 101 Ley 134 de 1994|101]] ; Art. [[art. 104 Ley 134 de 1994|104]]
-
-> [!note] Ver Ley 136 de 1994; Art. [[art. 199 Ley 136 de 1994|199]] ; Art. [[art. 202 Ley 136 de 1994|202]]
-
-> [!note] Ver Ley 160 de 1994; Art. [[art. 108 Ley 160 de 1994|108]]
-
-> [!note] Ver Ley 180 de 1995; Art. [[art. 7 Ley 180 de 1995|7]]
-
-> [!note] Ver Ley 190 de 1995; Art. [[art. 83 Ley 190 de 1995|83]]
-
-> [!note] Ver Ley 222 de 1995
-
-> [!note] Ver Ley 223 de 1995; Art. [[art. 180 Ley 223 de 1995|180]]
-
-> [!note] Ver Ley 322 de 1996; Art. [[art. 37 Ley 322 de 1996|37]]
-
-> [!note] Ver Ley 344 de 1996; Art. [[art. 30 Ley 344 de 1996|30]]
-
-> [!note] Ver Ley 375 de 1997; Art. [[art. 50 Ley 375 de 1997|50]]
-
-> [!note] Ver Ley 383 de 1997
-
-> [!note] Ver Ley 488 de 1998; Art. [[art. 79 Ley 488 de 1998|79]] ; Art. [[art. 120 Ley 488 de 1998|120]]
-
-> [!note] Ver Ley 573 de 2000
-
-> [!note] Ver Ley 651 de 2001; Art. [[art. 9 Ley 651 de 2001|9]]o.
-
-> [!note] Ver Ley 788 de 2002; Art. [[art. 60 Ley 788 de 2002|60]]
-
-> [!note] Ver Ley 789 de 2002; Art. [[art. 5 Ley 789 de 2002|5]]
-
-> [!note] Ver Ley 790 de 2002; Art. [[art. 16 Ley 790 de 2002|16]]
-
-> [!note] Ver Ley 797 de 2003; Art. [[art. 17 Ley 797 de 2003|17]]
-
-> [!note] Ver Ley 909 de 2004; Art. [[art. 53 Ley 909 de 2004|53]]
-
-> [!note] Ver Ley 1033 de 2006; Art. [[art. 2 Ley 1033 de 2006|2]] ; Art. [[art. 3 Ley 1033 de 2006|3]] ; Art. [[art. 6 Ley 1033 de 2006|6]]
-
-> [!note] Ver Ley 1424 de 2010; Art. [[art. 10 Ley 1424 de 2010|10]]
-
-> [!note] Ver Ley 1448 de 2011; Art. [[art. 205 Ley 1448 de 2011|205]]
-
-> [!note] Ver Ley 1453 de 2011; Art. [[art. 104 Ley 1453 de 2011|104]]
-
-> [!note] Ver Ley 1474 de 2011, Art. [[art. 75 Ley 1474 de 2011|75]]
-
-> [!note] Ver Ley 1642 de 2013
-
-> [!note] Ver Ley 1654 de 2013
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-416-92 ; C-417-92; C-434-92 ; C-435-92 ; C-478-92 ; C-479-92 ; C-510-92; C-511-92; C-514-92 ; C-553-92; C-558-92; C-559-92; C-560-92; C-586-92; C-608-92; C-119-96 ; C-702-99 ; C-1713-2000; C-409-2001; C-140-2001; C-170-2001; C-171-2001; C-174-2001; C-199-2001; C-245-2001; C-292-2001 ; C-401-2001; C-402-2001; C-429-2001 ; C-430-2001; C-503-2001; C-504-2001; C-582-2001 ; C-586-2001; C-650-2001; C-710-2001; C-711-2001; C-712-2001 ; C-713-2001; C-757-2001 ; C-781-2001; C-807-2001; C-808-2001 ; C-830-2001; C-895-2001 ; C-1252-2001; C-1293-2001 ; C-452-02 ; C-097-03 ; C-186-03; C-253-03; C-328-03 ; C-333-03; C-357-03; C-691-03; C-1060-03; C-1063-03 ; C-1157-03 ; C-1200-03; C-121-04; C-150-04 ; C-151-04 ; C-228-04; C-251-04; C-349-04; C-432-04 ; C-461-04; C-475-04; C-510-04; C-559-04 ; C-734-05 ; C-1152-05 ; C-318-06 ; C-340-06; C-858-06; C-211-07 ; C-491-07 ; C-909-07; C-922-08; C-259-08 ; C-839-08; C-1155-08 ; C-366-12; C-711-12 ; C-744-12 ; C-862-12; C-965-12; C-235-14 ; C-630-14; C-172-17 ; C-249-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-416-92 ; C-417-92 ; C-434-92 ; C-435-92 ; C-478-92 ; C-479-92 ; C-510-92 ; C-511-92 ; C-514-92 ; C-549-92 ; C-553-92 ; C-558-92 ; C-559-92 ; C-560-92 ; C-586-92 ; C-599-92 ; C-608-92 ; C-119-96 ; C-702-99 ; C-1713-2000 ; C-409-2001 ; C-140-2001 ; C-170-2001 ; C-171-2001 ; C-174-2001 ; C-199-2001 ; C-245-2001 ; C-292-2001 ; C-401-2001 ; C-402-2001 ; C-429-2001 ; C-430-2001 ; C-503-2001 ; C-504-2001 ; C-582-2001 ; C-586-2001 ; C-650-2001 ; C-710-2001 ; C-711-2001 ; C-712-2001 ; C-713-2001 ; C-757-2001 ; C-781-2001 ; C-807-2001 ; C-808-2001 ; C-830-2001 ; C-895-2001 ; C-1252-2001 ; C-1293-2001 ; C-452-02 ; C-097-03 ; C-186-03 ; C-253-03 ; C-328-03 ; C-333-03 ; C-357-03 ; C-691-03 ; C-1060-03 ; C-1063-03 ; C-1157-03 ; C-1200-03; C-121-04 ; C-150-04 ; C-151-04 ; C-228-04 ; C-251-04 ; C-349-04 ; C-350-04 ; C-432-04 ; C-461-04 ; C-475-04 ; C-510-04 ; C-559-04 ; C-734-05 ; C-1152-05 ; C-318-06 ; C-340-06 ; C-858-06 ; C-211-07 ; C-491-07 ; C-909-07 ; C-922-08; C-259-08 ; C-839-08 ; C-1155-08 ; C-366-12 ; C-711-12 ; C-744-12 ; C-862-12 ; C-965-12 ; C-235-14 ; C-630-14 ; C-172-17 ; C-249-19 ; C-092-20 ; C-028-21 ; C-398-24 ; C-072-25 ;
 
 11\. Establecer las rentas nacionales y fijar los gastos de la administración.
 
-> [!note] Ver Ley 53 de 1993; Art. [[art. 3 Ley 53 de 1993|3]]
+> [!note] Concordancias: Ley 53 de 1993; Art. [[art. 3 Ley 54 de 1993|3]] Ley 54 de 1993; Art. [[art. 2 Ley 325 de 1996|2]] Ley 325 de 1996 Ley 331 de 1996 Ley 384 de 1997 Ley 413 de 1997 Ley 439 de 1998 Ley 441 de 1998 Ley 442 de 1998 Ley 481 de 1998 Ley 482 de 1998 Ley 530 de 1999 Ley 531 de 1999 Ley 547 de 1999 Ley 612 de 2000 Ley 626 de 2000 Ley 627 de 2000 Ley 628 de 2000 Ley 659 de 2001 Ley 696 de 2001 Ley 698 de 2001 Ley 710 de 2001 Ley 714 de 2001 Ley 778 de 2002 Ley 803 de 2003; Art. [[art. 2 Ley 817 de 2003|2]] Ley 817 de 2003; Art. [[art. 5 Ley 819 de 2003|5]] Ley 819 de 2003; Art. [[art. 7 Ley 819 de 2003|7]]
 
-> [!note] Ver Ley 54 de 1993; Art. [[art. 2 Ley 54 de 1993|2]]
-
-> [!note] Ver Ley 696 de 2001
-
-> [!note] Ver Ley 803 de 2003; Art. [[art. 2 Ley 803 de 2003|2]]
-
-> [!note] Ver Ley 817 de 2003; Art. [[art. 5 Ley 817 de 2003|5]]
-
-> [!note] Ver Ley 819 de 2003; Art. [[art. 7 Ley 819 de 2003|7]]
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-447-92; C-448-92; C-510-92; C-057-93; C-072-93; C-112-93 ; C-206-93; C-261-93; C-271-93; C-364-93; C-416-93; C-502-93; C-548-93; C-197-2001; C-1249-2001; C-527-03; C-066-18
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-447-92 ; C-448-92 ; C-510-92 ; C-057-93 ; C-072-93 ; C-112-93 ; C-206-93 ; C-261-93 ; C-271-93 ; C-364-93 ; C-416-93 ; C-502-93 ; C-548-93 ; C-197-2001 ; C-1249-2001 ; C-527-03 ; C-066-18 ;
 
 12\. Establecer contribuciones fiscales y, excepcionalmente, contribuciones parafiscales en los casos y bajo las condiciones que establezca la ley.
 
-> [!note] Ver Conctitución Política; Art. [[art. 154 CPol|154]] ; Art. [[art. 338 CPol|338]]
+> [!note] Concordancias: Conctitución Política; Art. 154 ; Art. [[art. 338 Ley 6 de 1992|338]] Ley 6 de 1992 Ley 48 de 1993; Art. [[art. 22 Ley 89 de 1993|22]] Ley 89 de 1993 Ley 98 de 1993; Art. [[art. 21 Ley 98 de 1993|21]] ; Art. [[art. 22 Ley 98 de 1993|22]] ; Art. [[art. 23 Ley 100 de 1993|23]] Ley 100 de 1993; Art. [[art. 135 Ley 117 de 1994|135]] Ley 117 de 1994; Art. [[art. 4 Ley 117 de 1994|4]] ; Art. [[art. 7 Ley 117 de 1994|7]] ; Art. [[art. 8 Ley 117 de 1994|8]] ; Art. [[art. 9 Ley 118 de 1994|9]] Ley 118 de 1994; Art. [[art. 3 Ley 118 de 1994|3]] ; Art. [[art. 4 Ley 118 de 1994|4]] ; Art. [[art. 5 Ley 119 de 1994|5]] Ley 119 de 1994; Art. [[art. 31 Ley 123 de 1994|31]] Ley 123 de 1994 Ley 174 de 1994 Ley 181 de 1995; Art. [[art. 75 Ley 181 de 1995|75]] ; Art. [[art. 76 Ley 181 de 1995|76]] ; Art. [[art. 77 Ley 181 de 1995|77]] ; Art. [[art. 78 Ley 191 de 1995|78]] Ley 191 de 1995; Art. [[art. 25 Ley 191 de 1995|25]] ; Art. [[art. 26 Ley 191 de 1995|26]] ; Art. [[art. 27 Ley 191 de 1995|27]] ; Art. [[art. 28 Ley 191 de 1995|28]] ; Art. [[art. 29 Ley 219 de 1995|29]] Ley 219 de 1995; Art. [[art. 2 Ley 223 de 1995|2]] Ley 223 de 1995 Ley 272 de 1996; Art. [[art. 3 Ley 300 de 1996|3]] Ley 300 de 1996; Art. [[art. 40 Ley 383 de 1997|40]] Ley 383 de 1997 Ley 395 de 1997; Art. [[art. 16 Ley 418 de 1997|16]] Ley 418 de 1997; Art. [[art. 120 Ley 440 de 1998|120]] Ley 440 de 1998 Ley 488 de 1998 Ley 534 de 1999; Art. [[art. 2 Ley 546 de 1999|2]] Ley 546 de 1999; Art. [[art. 56 Ley 550 de 1999|56]] Ley 550 de 1999 Ley 633 de 2000 Ley 677 de 2001; Art. [[art. 16 Ley 681 de 2001|16]] Ley 681 de 2001 Ley 685 de 2001; Art. [[art. 236 Ley 694 de 2001|236]] Ley 694 de 2001; Art. [[art. 1 Ley 694 de 2001|1]] , Par. 1 Ley 716 de 2001 Ley 788 de 2002 Ley 789 de 2002 Ley 812 de 2003; Art. [[art. 126 Ley 814 de 2003|126]] Ley 814 de 2003; Art. [[art. 5 Ley 814 de 2003|5]] ; Art. [[art. 6 Ley 814 de 2003|6]] ; Art. [[art. 7 Ley 814 de 2003|7]] ; Art. [[art. 9 Ley 818 de 2003|9]] Ley 818 de 2003 Ley 819 de 2003; Art. [[art. 7 Ley 863 de 2003|7]] Ley 863 de 2003 Ley 924 de 2004 Ley 925 de 2004; Art. [[art. 4 Ley 939 de 2004|4]] Ley 939 de 2004 Ley 962 de 2005; Art. [[art. 4 Ley 962 de 2005|4]] ; Art. [[art. 26 Ley 962 de 2005|26]] ; Art. [[art. 43 Ley 962 de 2005|43]] ; Art. [[art. 44 Ley 962 de 2005|44]] ; Art. [[art. 45 Ley 962 de 2005|45]] ; Art. [[art. 46 Ley 962 de 2005|46]] ; Art. [[art. 47 Ley 962 de 2005|47]] ; Art. [[art. 48 Ley 964 de 2005|48]] Ley 964 de 2005; Art. [[art. 82 Ley 1004 de 2005|82]] Ley 1004 de 2005 Ley 1064 de 2006; Art. [[art. 6 Ley 1066 de 2006|6]] Ley 1066 de 2006 Ley 1099 de 2006 Ley 1101 de 2006; Art. [[art. 3 Ley 1233 de 2008|3]] Ley 1233 de 2008 Ley 1375 de 2010 Ley 1378 de 2010 Ley 1500 de 2011 Ley 1558 de 2012 Ley 1707 de 2014; Art. [[art. 3 Ley 1911 de 2018|3]] Ley 1911 de 2018 Ley 2093 de 2021 Ley 2118 de 2021
 
-> [!note] Ver Ley 6 de 1992
-
-> [!note] Ver Ley 48 de 1993; Art. [[art. 22 Ley 48 de 1993|22]]
-
-> [!note] Ver Ley 89 de 1993
-
-> [!note] Ver Ley 98 de 1993; Art. [[art. 21 Ley 98 de 1993|21]] ; Art. [[art. 22 Ley 98 de 1993|22]] ; Art. [[art. 23 Ley 98 de 1993|23]]
-
-> [!note] Ver Ley 100 de 1993; Art. [[art. 135 Ley 100 de 1993|135]]
-
-> [!note] Ver Ley 117 de 1994; Art. [[art. 4 Ley 117 de 1994|4]] ; Art. [[art. 7 Ley 117 de 1994|7]] ; Art. [[art. 8 Ley 117 de 1994|8]] ; Art. [[art. 9 Ley 117 de 1994|9]]
-
-> [!note] Ver Ley 118 de 1994; Art. [[art. 3 Ley 118 de 1994|3]] ; Art. [[art. 4 Ley 118 de 1994|4]] ; Art. [[art. 5 Ley 118 de 1994|5]]
-
-> [!note] Ver Ley 119 de 1994; Art. [[art. 31 Ley 119 de 1994|31]]
-
-> [!note] Ver Ley 123 de 1994
-
-> [!note] Ver Ley 181 de 1995; Art. [[art. 75 Ley 181 de 1995|75]] al [[art. 78 Ley 181 de 1995|78]]
-
-> [!note] Ver Ley 191 de 1995; Art. [[art. 25 Ley 191 de 1995|25]] al [[art. 29 Ley 191 de 1995|29]]
-
-> [!note] Ver Ley 219 de 1995; Art. [[art. 2 Ley 219 de 1995|2]]
-
-> [!note] Ver Ley 223 de 1995
-
-> [!note] Ver Ley 272 de 1996; Art. [[art. 3 Ley 272 de 1996|3]]
-
-> [!note] Ver Ley 300 de 1996; Art. [[art. 40 Ley 300 de 1996|40]]
-
-> [!note] Ver Ley 383 de 1997
-
-> [!note] Ver Ley 395 de 1997; Art. [[art. 16 Ley 395 de 1997|16]]
-
-> [!note] Ver Ley 418 de 1997; Art. [[art. 120 Ley 418 de 1997|120]]
-
-> [!note] Ver Ley 488 de 1998
-
-> [!note] Ver Ley 534 de 1999; Art. [[art. 2 Ley 534 de 1999|2]]
-
-> [!note] Ver Ley 546 de 1999; Art. [[art. 56 Ley 546 de 1999|56]]
-
-> [!note] Ver Ley 550 de 1999
-
-> [!note] Ver Ley 633 de 2000
-
-> [!note] Ver Ley 677 de 2001; Art. [[art. 16 Ley 677 de 2001|16]]
-
-> [!note] Ver Ley 685 de 2001; Art. [[art. 236 Ley 685 de 2001|236]]
-
-> [!note] Ver Ley 694 de 2001; Art. [[art. 1 Ley 694 de 2001|1]], PARÁGRAFO 1
-
-> [!note] Ver Ley 716 de 2001
-
-> [!note] Ver Ley 788 de 2002
-
-> [!note] Ver Ley 789 de 2002
-
-> [!note] Ver Ley 812 de 2003; Art. [[art. 126 Ley 812 de 2003|126]]
-
-> [!note] Ver Ley 814 de 2003; Art. [[art. 5 Ley 814 de 2003|5]] ; Art. [[art. 6 Ley 814 de 2003|6]] ; Art. [[art. 7 Ley 814 de 2003|7]] ; Art. [[art. 9 Ley 814 de 2003|9]]
-
-> [!note] Ver Ley 818 de 2003
-
-> [!note] Ver Ley 819 de 2003; Art. [[art. 7 Ley 819 de 2003|7]]
-
-> [!note] Ver Ley 863 de 2003
-
-> [!note] Ver Ley 924 de 2004
-
-> [!note] Ver Ley 925 de 2004; Art. [[art. 4 Ley 925 de 2004|4]]
-
-> [!note] Ver Ley 939 de 2004
-
-> [!note] Ver Ley 962 de 2005; Art. [[art. 4 Ley 962 de 2005|4]] ; Art. [[art. 26 Ley 962 de 2005|26]] ; Art. [[art. 43 Ley 962 de 2005|43]] al [[art. 48 Ley 962 de 2005|48]]
-
-> [!note] Ver Ley 964 de 2005; Art. [[art. 82 Ley 964 de 2005|82]]
-
-> [!note] Ver Ley 1004 de 2005
-
-> [!note] Ver Ley 1064 de 2006; Art. [[art. 6 Ley 1064 de 2006|6]]
-
-> [!note] Ver Ley 1066 de 2006
-
-> [!note] Ver Ley 1099 de 2006
-
-> [!note] Ver Ley 1101 de 2006; Art. [[art. 3 Ley 1101 de 2006|3]]
-
-> [!note] Ver Ley 1233 de 2008
-
-> [!note] Ver Ley 1378 de 2010
-
-> [!note] Ver Ley 1558 de 2012
-
-> [!note] Ver Ley 1707 de 2014; Art. [[art. 3 Ley 1707 de 2014|3]]
-
-> [!note] Ver Ley 1911 de 2018
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-510-92; C-553-92; C-560-92; C-575-92 ; C-058-2001; C-172-2001; C-543-2001; C-651-2001; C-711-2001; C-806-2001; C-1097-2001; C-1148-2001; C-155-03; C-432-03; C-527-03; C-1035-03; C-349-04; C-508-06; C-517-07; C-621-07; C-173-08; C-228-09; C-1018-12; C-030-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-449-92 ; C-510-92 ; C-553-92 ; C-560-92 ; C-575-92 ; C-058-2001 ; C-172-2001 ; C-543-2001 ; C-651-2001 ; C-711-2001 ; C-806-2001 ; C-1097-2001 ; C-1148-2001 ; C-155-03 ; C-432-03 ; C-527-03 ; C-1035-03 ; C-349-04 ; C-508-06 ; C-517-07 ; C-621-07 ; C-173-08; C-228-09 ; C-1018-12 ; C-030-19 ; C-511-19 ; C-019-22 ; C-101-22 ;
 
 13\. Determinar la moneda legal, la convertibilidad y el alcance de su poder liberatorio, y arreglar el sistema de pesas y medidas.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-021-93; C-529-93 ; C-021-94; C-050-94; C-070-94; C-132-94; C-781-2001;
+> [!note] Concordancias: Ley 275 de 1996
 
-14\. Aprobar o improbar los contratos o convenios que, por razones de evidente necesidad nacional, hubiere celebrado el Presidente de la República, con particulares, compañias o entidades públicas, sin autorización previa.
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-021-93 ; C-529-93 ; C-021-94 ; C-050-94 ; C-070-94 ; C-132-94 ; C-781-2001 ; C-827-2001 ;
 
-> [!note] Ver Ley 80 de 1993; Art. [[art. 11 Ley 80 de 1993|11]]
+14\. Aprobar o improbar los contratos o convenios que, por razones de evidente necesidad nacional, hubiere celebrado el Presidente de la República, con particulares, compañías o entidades públicas, sin autorización previa.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-337-93
+> [!note] Concordancias: Ley 80 de 1993; Art. [[art. 11 Ley 80 de 1993|11]]
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-449-92 ; C-337-93 ;
 
 15\. Decretar honores a los ciudadanos que hayan prestado servicios a la patria.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-057-93; C-859-2001; C-766-10
+> [!note] Concordancias: Ley 18 de 1992 Ley 46 de 1993 Ley 53 de 1993; Art. [[art. 1 Ley 54 de 1993|1]] Ley 54 de 1993; Art. [[art. 1 Ley 59 de 1993|1]] Ley 59 de 1993 Ley 63 de 1993 Ley 75 de 1993; Art. [[art. 1 Ley 86 de 1993|1]] Ley 86 de 1993 Ley 93 de 1993; Art. [[art. 1 Ley 94 de 1993|1]] Ley 94 de 1993 Ley 95 de 1993; Art. [[art. 1 Ley 102 de 1993|1]] Ley 102 de 1993 Ley 103 de 1993 Ley 108 de 1994 Ley 110 de 1994 Ley 113 de 1994 Ley 120 de 1994 Ley 121 de 1994 Ley 125 de 1994; Art. [[art. 1 Ley 126 de 1994|1]] Ley 126 de 1994 Ley 127 de 1994 Ley 129 de 1994 Ley 135 de 1994 Ley 154 de 1994 Ley 156 de 1994 Ley 158 de 1994 Ley 159 de 1994 Ley 167 de 1994 Ley 175 de 1994 Ley 184 de 1995 Ley 196 de 1995 Ley 202 de 1995 Ley 203 de 1995 Ley 221 de 1995 Ley 227 de 1995 Ley 231 de 1995 Ley 234 de 1995 Ley 235 de 1995 Ley 236 de 1995 Ley 237 de 1995 Ley 239 de 1995 Ley 254 de 1996 Ley 255 de 1996 Ley 259 de 1996 Ley 271 de 1996 Ley 274 de 1996 Ley 277 de 1996 Ley 307 de 1996 Ley 317 de 1996 Ley 328 de 1996 Ley 329 de 1996 Ley 337 de 1996 Ley 338 de 1996 Ley 339 de 1996 Ley 342 de 1996 Ley 343 de 1996 Ley 345 de 1996 Ley 346 de 1997 Ley 349 de 1997 Ley 351 de 1997 Ley 353 de 1997 Ley 355 de 1997 Ley 359 de 1997 Ley 364 de 1997; Art. [[art. 1 Ley 369 de 1997|1]] Ley 369 de 1997 Ley 374 de 1997 Ley 386 de 1997 Ley 390 de 1997 Ley 394 de 1997 Ley 407 de 1997 Ley 423 de 1998 Ley 425 de 1998 Ley 444 de 1998 Ley 473 de 1998 Ley 474 de 1998 Ley 483 de 1998 Ley 484 de 1998 Ley 499 de 1999 Ley 500 de 1999 Ley 501 de 1999 Ley 541 de 1999 Ley 570 de 2000 Ley 606 de 2000 Ley 609 de 2000 Ley 621 de 2000 Ley 667 de 2001 Ley 668 de 2001 Ley 692 de 2001 Ley 695 de 2001 Ley 706 de 2001 Ley 713 de 2001 Ley 723 de 2001 Ley 724 de 2001 Ley 725 de 2001 Ley 735 de 2002 Ley 736 de 2002 Ley 739 de 2002 Ley 748 de 2002 Ley 751 de 2002 Ley 770 de 2002 Ley 774 de 2002 Ley 783 de 2002 Ley 792 de 2002 Ley 803 de 2003 Ley 806 de 2003 Ley 817 de 2003 Ley 832 de 2003 Ley 835 de 2003 Ley 838 de 2003 Ley 839 de 2003 Ley 851 de 2003 Ley 862 de 2003 Ley 865 de 2003 Ley 866 de 2003 Ley 881 de 2004 Ley 910 de 2004; Art. [[art. 3 Ley 912 de 2004|3]] Ley 912 de 2004; Art. [[art. 2 Ley 913 de 2004|2]] Ley 913 de 2004 Ley 930 de 2004 Ley 933 de 2004 Ley 935 de 2004 Ley 948 de 2005 Ley 950 de 2005 Ley 953 de 2005 Ley 956 de 2005 Ley 965 de 2005 Ley 966 de 2005 Ley 976 de 2005 Ley 977 de 2005 Ley 988 de 2005 Ley 989 de 2005 Ley 1007 de 2006 Ley 1016 de 2006 Ley 1020 de 2006 Ley 1030 de 2006 Ley 1035 de 2006 Ley 1038 de 2006 Ley 1039 de 2006 Ley 1041 de 2006 Ley 1042 de 2006 Ley 1043 de 2006 Ley 1044 de 2006 Ley 1047 de 2006 Ley 1048 de 2006 Ley 1049 de 2006 Ley 1050 de 2006 Ley 1051 de 2006 Ley 1053 de 2006 Ley 1054 de 2006 Ley 1055 de 2006 Ley 1056 de 2006 Ley 1057 de 2006 Ley 1061 de 2006 Ley 1062 de 2006 Ley 1063 de 2006 Ley 1068 de 2006 Ley 1078 de 2006 Ley 1080 de 2006 Ley 1100 de 2006 Ley 1103 de 2006 Ley 1132 de 2007 Ley 1135 de 2007 Ley 1138 de 2007 Ley 1167 de 2007 Ley 1172 de 2007 Ley 1235 de 2008 Ley 1248 de 2008 Ley 1256 de 2008 Ley 1298 de 2009 Ley 1299 de 2009 Ley 1300 de 2009 Ley 1323 de 2009 Ley 1332 de 2009 Ley 1337 de 2009 Ley 1339 de 2009 Ley 1352 de 2009 Ley 1358 de 2009 Ley 1387 de 2010 Ley 1390 de 2010 Ley 1396 de 2010 Ley 1398 de 2010 Ley 1399 de 2010 Ley 1400 de 2010 Ley 1401 de 2010 Ley 1406 de 2010 Ley 1433 de 2011 Ley 1470 de 2011 Ley 1477 de 2011 Ley 1487 de 2011 Ley 1490 de 2011 Ley 1491 de 2011 Ley 1497 de 2011 Ley 1526 de 2012 Ley 1529 de 2012 Ley 1536 de 2012 Ley 1597 de 2012 Ley 1599 de 2012 Ley 1601 de 2012 Ley 1612 de 2013 Ley 1619 de 2013 Ley 1627 de 2013 Ley 1629 de 2013 Ley 1710 de 2014 Ley 1741 de 2014 Ley 1764 de 2015 Ley 1770 de 2015 Ley 1783 de 2016 Ley 1798 de 2016 Ley 1808 de 2016 Ley 1810 de 2016 Ley 1829 de 2017 Ley 1863 de 2017 Ley 1891 de 2018 Ley 1910 de 2018 Ley 1919 de 2018 Ley 1963 de 2019 Ley 1976 de 2019 Ley 1979 de 2019 Ley 1991 de 2019 Ley 1998 de 2019 Ley 2007 de 2019 Ley 2018 de 2020 Ley 2034 de 2020 Ley 2035 de 2020 Ley 2087 de 2021 Ley 2091 de 2021 Ley 2102 de 2021 Ley 2127 de 2021 Ley 2131 de 2021 Ley 2149 de 2021 Ley 2150 de 2021 Ley 2151 de 2021 Ley 2165 de 2021 Ley 2201 de 2022 Ley 2293 de 2023
+
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-057-93 ; C-859-2001 ; C-766-10 ;
 
 16\. Aprobar o improbar los tratados que el Gobierno celebre con otros Estados o con entidades de derecho internacional. Por medio de dichos tratados podrá el Estado, sobre bases de equidad, reciprocidad y conveniencia nacional, transferir parcialmente determinadas atribuciones a organismos internacionales, que tengan por objeto promover o consolidar la integración económica con otros Estados.
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-504-92; C-562-92; C-563-92; C-564-92; C-574-92; C-589-92; C-279-2001; C-953-2001; C-012-04; C-129-04; C-309-04; C-622-04; C-121-08; C-378-09; C-823-11
+> [!note] Concordancias: Leyes 1992: Ley 5 - Art. 20 Num. 3, Art. 217 ; Ley 8 ; Ley 9 ; Ley 13 ; Ley 22 ; Ley 23 ; Ley 26 ; Ley 28 ; Ley 29 Leyes 1993: Ley 39 ; Ley 51 ; Ley 67;: Ley 71 ; Ley 83 ; Ley 90 ; Ley 96 Leyes 1994: Ley 145 ; Ley 150 ; Ley 155 ; Ley 162 ; Ley 165 ; Ley 170 ; Ley 171 ; Ley 172 ; Ley 176 ; Ley 178 Leyes 1995: Ley 183 ; Ley 189 ; Ley 191 - Art. 6 ; Ley 195 ; Ley 197 ; Ley 205 ; Ley 207 ; Ley 208 ; Ley 210 ; Ley 213 ; Ley 214 ; Ley 215 ; Ley 216 ; Ley 233 ; Ley 230 ; Ley 240 ; Ley 243 ; Ley 245 ; Ley 246 ; Ley 247 ; Ley 248 ; Ley 249 ; Ley 250 ; Ley 251 ; Ley 252 Leyes 1996: Ley 253 ; Ley 257 ; Ley 265 ; Ley 267 ; Ley 279 ; Ley 280 ; Ley 283 ; Ley 284 ; Ley 285 ; Ley 291 : Ley 292 ; Ley 293 ; Ley 295 ; Ley 296 ; Ley 297 ; Ley 303 ; Ley 304 ; Ley 305 ; Ley 306 ; Ley 313 ; Ley 316 ; Ley 319 ; Ley 320 ; Ley 323 ; Ley 327 ; Ley 341 ; Ley 340 Leyes 1997: Ley 347 ; Ley350 ; Ley 354 ; Ley 356 ; Ley 357 ; Ley 370 ; Ley 371 ; Ley 378 ; Ley 381 ; Ley 404 ; Ley 405 ; Ley 406 ; Ley 408 ; Ley 409 ; Ley 410 ; Ley 411 ; Ley 412 ; Ley 413 ; Ley 414 Leyes 1998: Ley 421 ; Ley 431 ; Ley 436 ; Ley 437 ; Ley 438 ; Ley 449 ; Ley 450 ; Ley 451 ; Ley 452 ; Ley 453 ; Ley 456 ; Ley 457 ; Ley 458 ; Ley 459 ; Ley 460 ; Ley 461 ; Ley 462 ; Ley 463 ; Ley 464 ; Ley 465 ; Ley 466 ; Ley 467 ; Ley 468 ; Ley 469 ; Ley 470 ; Ley 471 ; Ley 478 ; Ley 479 ; Ley 480 Leyes 1999: Ley 492 ; Ley 493 ; Ley 496 ; Ley 502 ; Ley 512 ; Ley 513 ; Ley 514 ; Ley 515 ; Ley 516 ; Ley 517 ; Ley 518 ; Ley 519 ; Ley 520 ; Ley 521 ; Ley 523 ; Ley 524 ; Ley 525 ; Ley 535 ; Ley 536 ; Ley 539 ; Ley 540 ; Ley 543 ; Ley 544 ; Ley 545 Leyes 2000: Ley 554 ; Ley 557 ; Ley 558 ; Ley 559 ; Ley 560 ; Ley 562 ; Ley 566 ; Ley 567 ; Ley 568 ; Ley 569 ; Ley 574 ; Ley 577 ; Ley 579 ; Ley 587 ; Ley 591 ; Ley 593 ; Ley 595 ; Ley 596 ; Ley 597 ; Ley 602 ; Ley 604 ; Ley 618 ; Ley 620 ; Ley 622 ; Ley 624 ; Ley 625 ; Ley 629 ; Ley 630 ; Ley 631 Leyes 2001: Ley 636 ; Ley 637 ; Ley 638 ; Ley 639 ; Ley 641 ; Ley 646 ; Ley 652 ; Ley 660 ; Ley 661 ; Ley 671 ; Ley 672 ; Ley 673 ; Ley 674 ; Ley 681 ; Ley 690 ; Ley 701 ; Ley 702 ; Ley 703 ; Ley 704 ; Ley 705 ; Ley 707 ; Ley 722 ; Ley 728 Leyes 2002: Ley 737 ; Ley 740 ; Ley 742 ; Ley 761 ; Ley 762 ; Ley 763 ; Ley 764 ; Ley 765 ; Ley 766 ; Ley 767 ; Ley 786 Leyes 2003: Ley 798 ; Ley 799 ; Ley 800 ; Ley 801 ; Ley 802 ; Ley 804 ; Ley 807 ; Ley 808 ; Ley 824 ; Ley 825 ; Ley 826 ; Ley 827 ; Ley 829 ; Ley 830 ; Ley 831 ; Ley 833 ; Ley 834 ; Ley 837 ; Ley 840 ; Ley 846 ; Ley 847 ; Ley 849 ; Ley 864 ; Ley 867 ; Ley 869 ; Ley 870 ; Ley 871 Leyes 2004: Ley 873 ; Ley 874 ; Ley 876 ; Ley 877 ; Ley 879 ; Ley 880 ; Ley 883 ; Ley 884 ; Ley 885 ; Ley 894 ; Ley 895 ; Ley 896 ; Ley 897 ; Ley 898 ; Ley 899 ; Ley 900 Leyes 2005: Ley 942 ; Ley 943 ; Ley 944 ; Ley 945 ; Ley 946 ; Ley 960 ; Ley 967 ; Ley 968 ; Ley 969 ; Ley 970 ; Ley 984 ; Ley 992 ; Ley 994 ; Ley 1000 Leyes 2006: Ley 1017 ; Ley 1018 ; Ley 1019 ; Ley 1037 ; Ley 1069 ; Ley 1072 ; Ley 1073 ; Ley 1074 ; Ley 1075 ; Ley 1102 ; Ley 1108 ; Ley 1109 ; Ley 1112 ; Ley 1113 ; Ley 1120 Leyes 2007: Ley 1130 ; Ley 1131 ; Ley 1132 ; Ley 1137 : Ley 1139 : Ley 1140 ; Ley 1141 ; Ley 1143 ; Ley 1144 ; Ley 1155 ; Ley 1156 ; Ley 1158 ; Ley 1159 ; Ley 1160 ; Ley 1165 ; Ley 1166 ; Ley 1179 ; Ley 1180 Leyes 2008: Ley 1186 ; Ley 1189 ; Ley 1191; Ley 1192; Ley 1196 ; Ley 1197 ; Ley 1203 ; Ley 1206 ; Ley 1207 ; Ley 1208 ; Ley 1211 ; Ley 1214 ; Ley 1222 ; Ley 1226 ; Ley 1246 ; Ley 1247 ; Ley 1254 ; Ley 1261 ; Ley 1262 ; Ley 1265 ; Ley 1268 ; Ley 1278 Leyes 2009: Ley 1282 ; Ley 1304 ; Ley 1342; Ley 1343; Ley 1344; Ley 1345; Ley 1346; Ley 1347 ; Ley 1348; Ley 1349; Ley 1351; Ley 1359 ; Ley 1360 ; Ley 1363 Leyes 2010: Ley 1410 ; Ley 1411 ; 1418 Leyes 2011: 1422; 1440 ; 1449 ; 1455 ; 1456 ; 1457 ; 1458 ; 1459 ; 1460 ; 1461 ; 1462 ; 1463 ; 1464 ; 1479 Leyes 2012: 1511 ; 1512 ; 1513 ; 1514 ; 1515 ; 1516 ; 1517 ; 1518 ; 1519 ; 1520 ; 1567 ; 1568 ; 1569 ; 1570 ; 1571 ; 1572 ; 1573 ; 1582 ; 1583 ; 1584 ; 1585 ; 1586 ; 1588 ; 1589 ; 1590 ; 1591 ; 1594 ; 1595 ; 1596 ; 1600 ; 1604 ; 1605 Leyes 2013: 1611 ; 1623 ; 1628 ; 1631 ; 1634 ; 1661 ; 1662 ; 1663 ; 1664 ; 1665 ; 1666 ; 1667 ; 1668 , 1669 ; 1670 ; 1671 Leyes 2014: 1714 ; 1720 ; 1721 ; 1722 ; 1734 , 1746 ; 1747 Leyes 2015: 1749 ; 1763 Leyes 2016: 1782 ; 1794 Leyes 2017: 1827 ; 1839 ; 1840 ; 1841 ; 1868 Leyes 2018: 1880 ; 1892 ; 1897 ; 1898 ; 1925 ; 1926 ; 1928 ; 1939 ; Leyes 2019: 1950 ; 1954 ; 1958 ; 1970 ; 2004 ; Leyes 2020: 2061 ; 2055 ; 2031 ; Leyes 2021: 2163 ; 2145 ; 2107 ; 2106 ; 2105 ; 2104 ; 2103 ; 2100 ; 2095 ; 2092 ; 2090 Leyes 2022: 2280 ; 2274 ; 2273 ; 2263 ; 2255 ; 2247 ; 2246 ; 2233 ; 2218 ; 2212 Leyes 2023: 2313 ; 2309 ; 2308 ; 2305 ; 2301 ; 2293 ; 2290 ; 2289 ; 2288 ; 2285 ; 2284 Leyes 2024: 2372 ; 2371 ; 2370 ; 2363 ; 2362 ; 2357 Leyes 2025: 2493 ; 2528 ; 2529 ; 2562 ; Leyes 2026: 2591 ;
 
-17\. Conceder, por mayoría de los dos tercios de los votos de los miembros de una y otra Cámara y por graves motivos de conveniencia pública, amnistias o indultos generales por delitos políticos. En caso de que los favorecidos fueren eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar.
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-477-92 ; C-504-92 ; C-562-92 ; C-563-92 ; C-564-92 ; C-574-92 ; C-589-92 ; C-279-2001 ; C-953-2001 ; C-012-04 ; C-037-04 ; C-129-04 ; C-309-04 ; C-622-04 ; C-121-08 ; C-378-09 ; C-823-11 ; C-126-23 ; C-115-24 ;
 
-En ningún caso el delito de secuestro, ni los delitos relacionados con la fabricación, el tráfico o el porte de estupefacientes, serán considerados como delitos políticos o como conductas conexas a estos, ni como dirigidas a promover, facilitar, apoyar, financiar, u ocultar cualquier delito que atente contra el régimen constitucional y legal. Por lo tanto, no podrá existir respecto de ellos, amnistia o indulto.
+17\. Conceder, por mayoría de los dos tercios de los votos de los miembros de una y otra Cámara y por graves motivos de conveniencia pública, amnistías o indultos generales por delitos políticos. En caso de que los favorecidos fueren eximidos de la responsabilidad civil respecto de particulares, el Estado quedará obligado a las indemnizaciones a que hubiere lugar.
 
-> [!info] Inciso adicionado por el artículo [[art. 1 CPol|1]] del Legislativo 2 de 2019.
+En ningún caso el delito de secuestro, ni los delitos relacionados con la fabricación, el tráfico o el porte de estupefacientes, serán considerados como delitos políticos o como conductas conexas a estos, ni como dirigidas a promover, facilitar, apoyar, financiar, u ocultar cualquier delito que atente contra el régimen constitucional y legal. Por lo tanto, no podrá existir respecto de ellos, amnistía o indulto.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 20 Ley 5 de 1992|20]] Num. 3 ; Art. [[art. 120 Ley 5 de 1992|120]] Num. 2
+> [!info] Inciso adicionado por el artículo [[art. 1 Acto Legislativo 2 de 2019|1]] del Acto Legislativo 2 de 2019. El nuevo texto es el siguiente:
 
-> [!note] Ver Ley 40 de 1993; Art. [[art. 14 Ley 40 de 1993|14]]
+> [!info] Notas de Vigencia: Inciso adicionado por el artículo [[art. 1 Acto Legislativo 2 de 2019|1]] del Acto Legislativo 2 de 2019, 'por medio del cual se adiciona un inciso y un parágrafo al numeral 17 del artículo [[art. 150 CPol|150]] de la Constitución Política', publicado en el Diario Oficial No. 51.015 de 15 de julio 2019.
 
-> [!note] Ver Ley 418 de 1997; Art. [[art. 57 Ley 418 de 1997|57]]
+**PARÁGRAFO.** Las disposiciones del inciso segundo del numeral 17 del artículo [[art. 150 CPol|150]] de la Constitución Política, en ningún caso afectarán las disposiciones de acuerdos de paz anteriores, ni sus respectivas disposiciones y serán aplicadas a conductas cometidas con posterioridad a la entrada en vigencia del presente acto legislativo.
 
-> [!note] Ver Ley 589 de 2000; Art. [[art. 14 Ley 589 de 2000|14]]
+> [!info] Parágrafo adicionado por el artículo [[art. 1 Acto Legislativo 2 de 2019|1]] del Acto Legislativo 2 de 2019. El nuevo texto es el siguiente:
 
-> [!note] Ver Ley 975 de 2005
+> [!info] Notas de Vigencia: Parágrafo adicionado por el artículo [[art. 1 Acto Legislativo 2 de 2019|1]] del Acto Legislativo 2 de 2019, 'por medio del cual se adiciona un inciso y un parágrafo al numeral 17 del artículo [[art. 150 CPol|150]] de la Constitución Política', publicado en el Diario Oficial No. 51.015 de 15 de julio 2019.
 
-> [!note] Ver Ley 1106 de 2006
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 20 Ley 5 de 1992|20]] Num. 3; Art. [[art. 120 Ley 7 de 1992|120]] Num. 2 Ley 7 de 1992 Ley 40 de 1993; Art. [[art. 14 Ley 418 de 1997|14]] Ley 418 de 1997; Art. [[art. 57 Ley 589 de 2000|57]] Ley 589 de 2000; Art. [[art. 14 Ley 975 de 2005|14]] Ley 975 de 2005 Ley 1106 de 2006 Ley 1421 de 2010 Ley 1820 de 2016
 
-> [!note] Ver Ley 1421 de 2010
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-052-93 ; C-127-93 ; C-171-93 ; C-207-93 ; C-214-93 ; C-415-93 ; C-008-94 ; C-179-94 ; C-928-05 ;
 
-> [!note] Ver Ley 1820 de 2016
+18\. Dictar las normas sobre apropiación o adjudicación y recuperación de tierras baldías.
 
-(Ver Sentencias de la Corte Constitucional: C-052-93; C-127-93; C-171-93; C-207-93; C-214-93; C-415-93; C-008-94; C-179-94 ; C-928-05;
+> [!note] Concordancias: Ley 41 de 1993 Ley 70 de 1993 Ley 418 de 1997; Art. [[art. 123 Ley 418 de 1997|123]] ; Art. [[art. 124 Ley 418 de 1997|124]] ; Art. [[art. 125 Ley 418 de 1997|125]] ; Art. [[art. 126 Ley 418 de 1997|126]] ; Art. [[art. 127 Ley 418 de 1997|127]] ; Art. [[art. 128 Ley 418 de 1997|128]] ; Art. [[art. 129 Ley 418 de 1997|129]] ; Art. [[art. 130 Ley 1106 de 2006|130]] Ley 1106 de 2006 Ley 1738 de 2014; Art. [[art. 7 Ley 1738 de 2014|7]] ; Art. [[art. 8 Ley 1738 de 2014|8]]
 
-18\. Dictar las normas sobre apropiación o adjudicación y recuperación de tierras baldias.
-
-> [!note] Ver Ley 41 de 1993
-
-> [!note] Ver Ley 70 de 1993
-
-> [!note] Ver Ley 418 de 1997; Art. [[art. 123 Ley 418 de 1997|123]] al [[art. 130 Ley 418 de 1997|130]]
-
-> [!note] Ver Ley 1106 de 2006
-
-> [!note] Ver Ley 1738 de 2014; Art. [[art. 7 Ley 1738 de 2014|7]] ; Art. [[art. 8 Ley 1738 de 2014|8]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-060-93 ; C-428-94 ;
 
 19\. Dictar las normas generales, y señalar en ellas los objetivos y criterios a los cuales debe sujetarse el Gobierno para los siguientes efectos:
 
-> [!note] Ver Ley 115 de 1994; Art. [[art. 146 Ley 115 de 1994|146]]
+> [!note] Concordancias: Ley 115 de 1994; Art. [[art. 146 Ley 115 de 1994|146]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-465-92; C-478-92 ; C-510-92; C-514-92 ; C-311-94; C-348-94; C-262-2001; C-090-2001; C-170-2001; C-245-2001; C-401-2001; C-504-2001; C-579-2001 ; C-586-2001; C-705-2001; C-781-2001; C-921-2001; C-948-2001; C-949-2001 ; C-974-2001; C-1064-2001 ; C-1107-2001; C-1218-2001; C-432-04
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-465-92 ; C-478-92 ; C-510-92 ; C-514-92 ; C-599-92 ; C-311-94 ; C-348-94 ; C-262-2001 ; C-090-2001 ; C-170-2001 ; C-245-2001 ; C-401-2001 ; C-501-2001 ; C-504-2001 ; C-579-2001 ; C-586-2001 ; C-705-2001 ; C-781-2001 ; C-827-2001 ; C-921-2001 ; C-948-2001 ; C-949-2001 ; C-974-2001 ; C-1064-2001 ; C-1107-2001 ; C-1218-2001 ; C-452-03 ; C-432-04
 
-a) Organizar el credito público;
+a) Organizar el crédito público;
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 142 Ley 5 de 1992|142]] Inc. 10
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 142 Ley 136 de 1994|142]] Inc. 10 Ley 136 de 1994; Art. [[art. 2 Ley 185 de 1995|2]] , Lit.C. Ley 185 de 1995 Ley 533 de 1999 Ley 487 de 1998
 
-> [!note] Ver Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]], Lit. c
-
-> [!note] Ver Ley 185 de 1995
-
-> [!note] Ver Ley 533 de 1999
-
-> [!note] Ver Ley 487 de 1998
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-068-93; C-311-94; C-357-94; C-490-94; C-547-94; C-566-94
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-068-93 ; C-311-94 ; C-357-94 ; C-490-94 ; C-547-94 ; C-566-94 ;
 
 b) Regular el comercio exterior y señalar el régimen de cambio internacional, en concordancia con las funciones que la Constitución consagra para la Junta Directiva del Banco de la República;
 
-> [!note] Ver Constitución Política; Art. [[art. 371 CPol|371]]
+> [!note] Concordancias: Constitución Política; Art. [[art. 371 Ley 5 de 1992|371]] Ley 5 de 1992; Art. [[art. 142 Ley 518 de 1999|142]] Inc. 10 Ley 518 de 1999 Ley 1004 de 2005
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 142 Ley 5 de 1992|142]] Inc. 10
-
-> [!note] Ver Ley 518 de 1999
-
-> [!note] Ver Ley 1004 de 2005
-
-> [!note] Ver Sentencias de la Corte Constitucional: C C-553-92; C-564-92; C-021-93; C-084-93; C-103-93; C-364-93; C-445-93; C-468-93; C-354-06; C-140-07; C-339-07; C-624-07; C-860-07
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-553-92 ; C-564-92 ; C-590-92 ; C-021-93 ; C-084-93 ; C-103-93 ; C-364-93 ; C-445-93; C-468-93 ; C-354-06 ; C-140-07 ; C-339-07 ; C-624-07 ; C-860-07 ;
 
 c) Modificar, por razones de política comercial los aranceles, tarifas y demás disposiciones concernientes al régimen de aduanas;
 
-> [!note] Ver Ley 142 de 1994; Art. [[art. 2 Ley 142 de 1994|2]], Num. 2.9 .
+> [!note] Concordancias: Ley 142 de 1994; Art. [[art. 2 Ley 142 de 1994|2]] , Num. 2.9. Ley 383 de 1997 Ley 763 de 2002 Ley 1004 de 2005 Ley 1609 de 2013 Ley 1955 de 2019; Art. [[art. 274 Ley 1955 de 2019|274]] ; Art. [[art. 275 Ley 2135 de 2021|275]] Ley 2135 de 2021; Art. [[art. 4 Ley 2135 de 2021|4]]
 
-> [!note] Ver Ley 383 de 1997
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-311-92; C-511-92 ; C-563-92 ; C-062-93 ; C-083-93 ; C-085-93 ; C-798-04 ; C-140-07 ; C-624-07 ; C-723-07 ; C-026-20 ; C-441-21 ;
 
-> [!note] Ver Ley 763 de 2002
+d) Regular las actividades financiera, bursátil, aseguradora y cualquiera otra relacionada con el manejo, aprovechamiento e inversión de los recursos captados del público;
 
-> [!note] Ver Ley 1004 de 2005
+> [!note] Concordancias: Constitución Política; Art. [[art. 335 Ley 35 de 1993|335]] Ley 35 de 1993; Art. [[art. 1 Ley 35 de 1993|1]] ; Art. [[art. 2 Ley 35 de 1993|2]] ; Art. [[art. 3 Ley 35 de 1993|3]] ; Art; 4 Ley 454 de 1998; Art. [[art. 39 Ley 454 de 1998|39]] ; Art. [[art. 40 Ley 454 de 1998|40]] ; Art. [[art. 41 Ley 454 de 1998|41]] ; Art. [[art. 42 Ley 454 de 1998|42]] ; Art. [[art. 47 Ley 454 de 1998|47]] ; Art. [[art. 48 Ley 454 de 1998|48]] ; Art. [[art. 49 Ley 454 de 1998|49]] ; Art. [[art. 50 Ley 510 de 1999|50]] Ley 510 de 1999 Ley 546 de 1999 Ley 590 de 2000; Art. [[art. 34 Ley 590 de 2000|34]] ; Art. [[art. 35 Ley 590 de 2000|35]] ; Art. [[art. 36 Ley 590 de 2000|36]] ; Art. [[art. 37 Ley 590 de 2000|37]] ; Art. [[art. 38 Ley 590 de 2000|38]] ; Art. [[art. 39 Ley 590 de 2000|39]] ; Art. [[art. 40 Ley 676 de 2001|40]] Ley 676 de 2001 Ley 795 de 2003 Ley 789 de 2002; Art. [[art. 16 Ley 905 de 2004|16]] Num. 14 Ley 905 de 2004; Art. [[art. 18 Ley 905 de 2004|18]] ; Art. [[art. 19 Ley 920 de 2004|19]] Ley 920 de 2004 Ley 1114 de 2006 Ley 1133 de 2007; Art. [[art. 10 Ley 1328 de 2009|10]] Ley 1328 de 2009 Ley 1430 de 2010 Ley 1527 de 2012 Ley 1735 de 2014 Ley 1793 de 2014 Ley 1836 de 2017 Ley 1870 de 2017 Ley 1902 de 2018 Ley 2009 de 2019
 
-> [!note] Ver Ley 1609 de 2013
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-311-92; C-511-92; C-563-92; C-062-93; C-083-93; C-085-93; C-798-04; C-140-07; C-624-07; C-723-07
-
-d) Regular las actividades financiera, bursatil, aseguradora y cualquierá otra relacionada con el manejo, aprovechamiento e inversión de los recursos captados del público;
-
-> [!note] Ver Constitución Política; Art. [[art. 335 CPol|335]]
-
-> [!note] Ver Ley 35 de 1993; Art. [[art. 1 Ley 35 de 1993|1]] al [[art. 4 Ley 35 de 1993|4]]
-
-> [!note] Ver Ley 454 de 1998; Art. [[art. 39 Ley 454 de 1998|39]] al [[art. 42 Ley 454 de 1998|42]] ; Art. [[art. 47 Ley 454 de 1998|47]] al [[art. 50 Ley 454 de 1998|50]]
-
-> [!note] Ver Ley 510 de 1999
-
-> [!note] Ver Ley 546 de 1999
-
-> [!note] Ver Ley 590 de 2000; Art. [[art. 34 Ley 590 de 2000|34]] ; Art. [[art. 35 Ley 590 de 2000|35]] ; Art. [[art. 36 Ley 590 de 2000|36]] ; Art. [[art. 37 Ley 590 de 2000|37]] ; Art. [[art. 38 Ley 590 de 2000|38]] ; Art. [[art. 39 Ley 590 de 2000|39]] ; Art. [[art. 40 Ley 590 de 2000|40]]
-
-> [!note] Ver Ley 676 de 2001
-
-> [!note] Ver Ley 795 de 2003
-
-> [!note] Ver Ley 789 de 2002; Art. [[art. 16 Ley 789 de 2002|16]] Num. 14
-
-> [!note] Ver Ley 905 de 2004; Art. [[art. 18 Ley 905 de 2004|18]] ; Art. [[art. 19 Ley 905 de 2004|19]]
-
-> [!note] Ver Ley 920 de 2004
-
-> [!note] Ver Ley 1114 de 2006
-
-> [!note] Ver Ley 1133 de 2007; Art. [[art. 10 Ley 1133 de 2007|10]]
-
-> [!note] Ver Ley 1328 de 2009
-
-> [!note] Ver Ley 1430 de 2010
-
-> [!note] Ver Ley 1527 de 2012
-
-> [!note] Ver Ley 1735 de 2014
-
-> [!note] Ver Ley 1902 de 2018
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-558-92; C-015-93; C-024-93; C-074-93 ; C-132-93; C-209-93; C-364-93; C-542-93; C-700-99; C-955-00; C-041-06; C-553-07; C-438-11; C-823-11
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-558-92 ; C-015-93 ; C-024-93 ; C-074-93 ; C-132-93 ; C-209-93 ; C-364-93 ; C-542-93 ; C-700-99 ; C-955-00 ; C-041-06 ; C-553-07 ; C-438-11 ; C-823-11 ; C-395-22 ;
 
 e) Fijar el régimen salarial y prestacional de los empleados públicos, de los miembros del Congreso Nacional y la Fuerza Pública;
 
-> [!note] Ver Ley 4 de 1992
+> [!note] Concordancias: Ley 4 de 1992 Ley 116 de 1994; Art. [[art. 2 Ley 119 de 1994|2]] Ley 119 de 1994; Art. [[art. 43 Ley 119 de 1994|43]] ; Art. [[art. 44 Ley 119 de 1994|44]] ; Art. [[art. 45 Ley 119 de 1994|45]] ; Art. [[art. 46 Ley 136 de 1994|46]] Ley 136 de 1994; Art. [[art. 2 Ley 180 de 1995|2]] , Lit. C. Ley 180 de 1995 Ley 199 de 1995 Ley 244 de 1995 Ley 245 de 1995 Ley 332 de 1996 Ley 344 de 1996; Art. [[art. 13 Ley 344 de 1996|13]] ; Art. [[art. 14 Ley 344 de 1996|14]] ; Art. [[art. 15 Ley 352 de 1997|15]] Ley 352 de 1997 Ley 416 de 1997 Ley 420 de 1998 Ley 432 de 1998; Art. [[art. 2 Ley 432 de 1998|2]] ; Art. [[art. 3 Ley 432 de 1998|3]] ; Art. [[art. 6 Ley 432 de 1998|6]] ; Art. [[art. 8 Ley 432 de 1998|8]] ; Art. [[art. 12 Ley 445 de 1998|12]] Ley 445 de 1998 Ley 447 de 1998 Ley 476 de 1998 Ley 578 de 2000 Ley 651 de 2001 Ley 923 de 2004 Ley 987 de 2005 Ley 995 de 2005 Ley 1071 de 2006 Ley 1660 de 2013 Ley 1984 de 2019 Ley 2179 de 2021; Art. [[art. 81 Ley 2594 de 2026|81]] Ley 2594 de 2026
 
-> [!note] Ver Ley 116 de 1994; Art. [[art. 2 Ley 116 de 1994|2]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-005-92 ; C-013-93 ; C-112-93 ; C-133-93 ; C-166-93 ; C-167-93 ; C-207-93 ; C-391-93 ; C-468-93 ; C-292-2001 ; C-1246-2001 ; C-101-03 ; C-126-03 ; C-128-04 ; C-432-04 ; C-381-05 ; C-1234-05 ; C-558-19 ;
 
-> [!note] Ver Ley 119 de 1994; Art. [[art. 43 Ley 119 de 1994|43]] al [[art. 46 Ley 119 de 1994|46]]
+f) Regular el régimen de prestaciones sociales mínimas de los trabajadores oficiales.
 
-> [!note] Ver Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]], Lit. c
+> [!note] Concordancias: Ley 4 de 1992 Ley 136 de 1994; Art. [[art. 2 Ley 245 de 1995|2]] Lit. C. Ley 245 de 1995 Ley 401 de 1997; Art. [[art. 12 Ley 651 de 2001|12]] Ley 651 de 2001
 
-> [!note] Ver Ley 199 de 1995
+Estas funciones en lo pertinente a prestaciones sociales son indelegables en las corporaciones públicas territoriales y éstas no podrán arrogárselas.
 
-> [!note] Ver Ley 244 de 1995
+Nota Aclaratoria
 
-> [!note] Ver Ley 245 de 1995
+La Secretaría General de la Asamblea Nacional Constituyente en aclaración del 6 de septiembre de 1991, publicada en la Gaceta Constitucional No. 125, del 25 de septiembre de 1991, informó lo sucedido con el tenor original del literal f) publicado en la Gaceta No. 114, el cual establecía: "f) Regular la educación".
 
-> [!note] Ver Ley 332 de 1996
-
-> [!note] Ver Ley 344 de 1996; Art. [[art. 13 Ley 344 de 1996|13]] ; Art. [[art. 14 Ley 344 de 1996|14]] ; Art. [[art. 15 Ley 344 de 1996|15]]
-
-> [!note] Ver Ley 352 de 1997
-
-> [!note] Ver Ley 432 de 1998; Art. [[art. 2 Ley 432 de 1998|2]] ; Art. [[art. 3 Ley 432 de 1998|3]] ; Art. [[art. 6 Ley 432 de 1998|6]] ; Art. [[art. 8 Ley 432 de 1998|8]] ; Art. [[art. 12 Ley 432 de 1998|12]]
-
-> [!note] Ver Ley 445 de 1998
-
-> [!note] Ver Ley 476 de 1998
-
-> [!note] Ver Ley 923 de 2004
-
-> [!note] Ver Ley 987 de 2005
-
-(Ver Ley 995 de 2005
-
-> [!note] Ver Ley 1071 de 2006
-
-> [!note] Ver Ley 1660 de 2013
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-005-92; C-013-93 ; C-112-93 ; C-133-93 ; C-166-93; C-167-93; C-207-93; C-391-93 ; C-468-93; C-292-2001 ; C-1246-2001; C-101-03; C-126-03; C-128-04 ; C-432-04 ; C-381-05 ; C-1234-05 ; C-558-19
-
-f) Regular el régimen de prestaciones sociales minimas de los trabajadores oficiales.
-
-> [!note] Ver Ley 4 de 1992
-
-> [!note] Ver Ley 136 de 1994; Art. [[art. 2 Ley 136 de 1994|2]] Lit. c
-
-> [!note] Ver Ley 245 de 1995
-
-> [!note] Ver Ley 401 de 1997; Art. [[art. 12 Ley 401 de 1997|12]]
-
-Estas funciones en lo pertinente a prestaciones sociales son indelegables en las corporaciones públicas territoriales y estas no podrán arrogarselas.
-
-La Secretaria General de la Asamblea Nacional Constituyente en aclaración del 6 de septiembre de 1991, públicada en la Gaceta Constitucional No. 125, del 25 de septiembre de 1991, informo lo sucedido con el tenor original del literal f) públicado en la Gaceta No. 114, el cual establecia: "f) Regular la educación".
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-013-93 ; C-112-93 ; C-133-93 ; C-166-93 ; C-167-93 ; C-270-93 ; C-391-93 ; C-432-04
 
 20\. Crear los servicios administrativos y técnicos de las Cámaras.
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 367 Ley 5 de 1992|367]] a [[art. 392 Ley 5 de 1992|392]]
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 367 Ley 5 de 1992|367]] a [[art. 392 Ley 5 de 1992|392]]
 
-21\. Expedir las leyes de intervención económica, previstas en el artículo [[art. 334 CPol|334]], las cuales deberán precisar sus fines y alcances y los limites a la libertad económica.
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-830-2001 ;
 
-> [!note] Ver Ley 142 de 1994
+21\. Expedir las leyes de intervención económica, previstas en el artículo [[art. 334 CPol|334]] , las cuales deberán precisar sus fines y alcances y los límites a la libertad económica.
 
-> [!note] Ver Ley 256 de 1996
+> [!note] Concordancias: Ley 142 de 1994 Ley 256 de 1996 Ley 344 de 1996 Ley 550 de 1999 Ley 590 de 2000 Ley 617 de 2000 Ley 905 de 2004 Ley 922 de 2004 Ley 1116 de 2006 Ley 1173 de 2007 Ley 1314 de 2009
 
-> [!note] Ver Ley 344 de 1996
-
-> [!note] Ver Ley 550 de 1999
-
-> [!note] Ver Ley 590 de 2000
-
-> [!note] Ver Ley 617 de 2000
-
-> [!note] Ver Ley 905 de 2004
-
-> [!note] Ver Ley 922 de 2004
-
-> [!note] Ver Ley 1116 de 2006
-
-> [!note] Ver Ley 1173 de 2007
-
-> [!note] Ver Ley 1314 de 2009
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-006-93; C-205-93; C-223-94; C-281-94; C-415-94 ; C-548-94; C-586-2001; C-867-2001; C-616-2001; C-130-04; C-516-04; C-042-06; C-137-07; C-955-07 ; C-260-08; C-263-13; C-148-15
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-006-93 ; C-205-93 ; C-223-94 ; C-281-94 ; C-415-94 ; C-548-94 ; C-586-2001 ; C-867-2001 ; C-616-2001 ; C-130-04 ; C-516-04 ; C-042-06 ; C-137-07 ; C-955-07 ; C-260-08 ; C-263-13 ; C-148-15 ; C-188-22 ;
 
 22\. Expedir las leyes relacionadas con el Banco de la República y con las funciones que compete desempeñar a su Junta Directiva.
 
-> [!note] Ver Ley 31 de 1992
+> [!note] Concordancias: Ley 31 de 1992 Ley 34 de 1993 Ley 130 de 1994; Art. [[art. 17 Ley 275 de 1996|17]] Ley 275 de 1996 Ley 477 de 1998 Ley 1484 de 2011
 
-> [!note] Ver Ley 130 de 1994; Art. [[art. 17 Ley 130 de 1994|17]]
-
-> [!note] Ver Ley 1484 de 2011
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-478-92 ; C-021-93; C-455-93; C-468-93; C-529-93 ; C-021-94; C-050-94; C-070-94; C-132-94; C-489-94; C-490-94; C-521-94; C-547-94; C-560-94; C-566-94; C-401-2001; C-781-2001
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-478-92 ; C-021-93 ; C-455-93 ; C-468-93 ; C-529-93 ; C-021-94 ; C-050-94 ; C-070-94 ; C-132-94 ; C-489-94 ; C-490-94 ; C-521-94 ; C-547-94 ; C-560-94 ; C-566-94 ; C-401-2001 ; C-781-2001 ;
 
 23\. Expedir las leyes que regirán el ejercicio de las funciones públicas y la prestación de los servicios públicos.
 
-> [!note] Ver Ley 37 de 1993
+> [!note] Concordancias: Ley 37 de 1993 Ley 41 de 1993; Art. [[art. 3 Ley 100 de 1993|3]] Ley 100 de 1993 Ley 105 de 1993; Art. [[art. 3 Ley 115 de 1994|3]] Ley 115 de 1994; Art. [[art. 146 Ley 142 de 1994|146]] Ley 142 de 1994 Ley 143 de 1994 Ley 238 de 1995 Ley 489 de 1998 Ley 632 de 2000 Ley 658 de 2001 Ley 689 de 2001 Ley 769 de 2002 Ley 797 de 2003 Ley 853 de 2003 Ley 855 de 2003 Ley 856 de 2003 Ley 903 de 2004 Ley 1005 de 2006 Ley 1215 de 2008 Ley 1228 de 2008 Ley 1239 de 2008 Ley 1250 de 2008 Ley 1281 de 2009 Ley 1310 de 2009 Ley 1383 de 2010 Ley 1388 de 2010 Ley 1397 de 2010 Ley 1438 de 2011 Ley 1506 de 2012 Ley 1548 de 2012 Ley 1696 de 2013 Ley 1730 de 2014 Ley 1843 de 2017 Ley 1949 de 2019 Ley 2026 de 2020 Ley 2027 de 2020 Ley 2050 de 2020 Ley 2251 de 2022
 
-> [!note] Ver Ley 41 de 1993; Art. [[art. 3 Ley 41 de 1993|3]]
-
-> [!note] Ver Ley 100 de 1993
-
-> [!note] Ver Ley 105 de 1993; Art. [[art. 3 Ley 105 de 1993|3]]
-
-> [!note] Ver Ley 115 de 1994; Art. [[art. 146 Ley 115 de 1994|146]]
-
-> [!note] Ver Ley 142 de 1994
-
-> [!note] Ver Ley 143 de 1994
-
-> [!note] Ver Ley 489 de 1998
-
-> [!note] Ver Ley 632 de 2000
-
-> [!note] Ver Ley 689 de 2001
-
-> [!note] Ver Ley 769 de 2002
-
-> [!note] Ver Ley 797 de 2003
-
-> [!note] Ver Ley 856 de 2003
-
-> [!note] Ver Ley 903 de 2004
-
-> [!note] Ver Ley 1005 de 2006
-
-> [!note] Ver Ley 1215 de 2008
-
-> [!note] Ver Ley 1228 de 2008
-
-> [!note] Ver Ley 1239 de 2008
-
-> [!note] Ver Ley 1250 de 2008
-
-> [!note] Ver Ley 1281 de 2009
-
-> [!note] Ver Ley 1310 de 2009
-
-> [!note] Ver Ley 1383 de 2010
-
-> [!note] Ver Ley 1388 de 2010
-
-> [!note] Ver Ley 1397 de 2010
-
-> [!note] Ver Ley 1438 de 2011
-
-> [!note] Ver Ley 1506 de 2012
-
-> [!note] Ver Ley 1548 de 2012
-
-> [!note] Ver Ley 1696 de 2013
-
-> [!note] Ver Ley 1730 de 2014
-
-> [!note] Ver Ley 1949 de 2019
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-575-92 ; C-020-93; C-075-93; C-132-93; C-143-93 ; C-170-93; C-532-93; C-537-93; C-591-93; C-045-2001; C-090-2001; C-200-2001 ; C-408-2001; C-815-2001; C-830-2001; C-921-2001; C-952-2001 ; C-1177-2001 ; C-1212-2001; C-1250-2001; C-161-03 ; C-233-03; C-100-04; C-150-04 ; C-955-07 ; C-957-07; C-619-12 ; C-263-13; C-098-19
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-517-92 ; C-575-92 ; C-020-93 ; C-075-93 ; C-132-93 ; C-143-93 ; C-170-93 ; C-532-93 ; C-537-93 ; C-591-93 ; C-045-2001 ; C-090-2001 ; C-200-2001 ; C-408-2001 ; C-815-2001 ; C-827-2001 ; C-830-2001 ; C-921-2001 ; C-952-2001 ; C-1177-2001 ; C-1212-2001 ; C-1250-2001 ; C-161-03 ; C-233-03 ; C-100-04 ; C-150-04 ; C-458-04 ; C-955-07 ; C-957-07 ; C-619-12 ; C-263-13 ; C-098-19 ; C-395-22 ;
 
 24\. Regular el régimen de propiedad industrial, patentes y marcas y las otras formas de propiedad intelectual.
 
-> [!note] Ver Ley 44 de 1993
+> [!note] Concordancias: Ley 44 de 1993 Ley 98 de 1993 Ley 178 de 1994 Ley 243 de 1995 Ley 545 de 1999 Ley 719 de 2001
 
-> [!note] Ver Ley 98 de 1993
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-095-93 ; C-115-93 ; C-144-93 ; C-069-19 ; C-083-22 ;
 
-> [!note] Ver Ley 178 de 1994
+25\. Unificar las normas sobre policía de tránsito en todo el territorio de la República.
 
-> [!note] Ver Ley 243 de 1995
-
-> [!note] Ver Ley 545 de 1999
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-095-93; C-115-93; C-144-93
-
-25\. Unificar las normas sobre policia de transito en todo el territorio de la República.
-
-> [!note] Ver Ley 769 de 2002
-
-> [!note] Ver Ley 903 de 2004
-
-> [!note] Ver Ley 1310 de 2009
-
-> [!note] Ver Ley 1397 de 2010
-
-> [!note] Ver Ley 1548 de 2012
-
-> [!note] Ver Ley 1696 de 2013
-
-> [!note] Ver Ley 1730 de 2014
+> [!note] Concordancias: Ley 769 de 2002 Ley 903 de 2004 Ley 1310 de 2009 Ley 1397 de 2010 Ley 1548 de 2012 Ley 1696 de 2013 Ley 1730 de 2014 Ley 1843 de 2017 Ley 2050 de 2020
 
 Compete al Congreso expedir el estatuto general de contratación de la administración pública y en especial de la administración nacional.
 
-**PARÁGRAFO .** Las disposiciones del inciso segundo del numeral 17 del artículo [[art. 150 CPol|150]] de la Constitución Política, en ningún caso afectarán las disposiciones de acuerdos de paz anteriores, ni sus respectivas disposiciones y serán aplicadas a conductas cometidas con posterioridad a la entrada en vigencia del presente acto legislativo.
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-119-20 ;
 
-> [!info] Parágrafo adicionado por el artículo [[art. 1 CPol|1]] del Legislativo 2 de 2019
+> [!note] Concordancias: Ley 5 de 1992; Art. [[art. 280 Ley 5 de 1992|280]] ; Art. [[art. 282 Ley 5 de 1992|282]] ; Art. [[art. 284 Ley 5 de 1992|284]] ; Art. [[art. 296 Ley 21 de 1992|296]] Ley 21 de 1992; Art. [[art. 107 Ley 80 de 1993|107]] Ley 80 de 1993; Art. [[art. 2 Ley 80 de 1993|2]] Num. 3o.; Art. [[art. 3 Ley 590 de 2000|3]] Ley 590 de 2000; Art. [[art. 12 Ley 785 de 2002|12]] Ley 785 de 2002; Art. [[art. 3 Ley 816 de 2003|3]] Ley 816 de 2003 Ley 905 de 2004; Art. [[art. 9 Ley 963 de 2005|9]] Ley 963 de 2005 Ley 1005 de 2006 Ley 1089 de 2006 Ley 1150 de 2007 Ley 1239 de 2008 Ley 1281 de 2009 Ley 1343 de 2009 Ley 1383 de 2010 Ley 1397 de 2010 Ley 1508 de 2012 Ley 1548 de 2012 Ley 2027 de 2020 Ley 2050 de 2020; Art. [[art. 7 Ley 2160 de 2021|7]] Ley 2160 de 2021
 
-> [!note] Ver Ley 5 de 1992; Art. [[art. 280 Ley 5 de 1992|280]] ; Art. [[art. 282 Ley 5 de 1992|282]] ; Art. [[art. 284 Ley 5 de 1992|284]] ; Art. [[art. 296 Ley 5 de 1992|296]]
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-447-92 ; C-448-92 ; C-449-92 ; C-035-93 ; C-056-93 ; C-126-93 ; C-136-93 ; C-427-93 ; C-464-93 ; C-529-93 ; C-542-93 ; C-400-99 ; C-035-03 ; C-429-03 ; C-432-04 ; C-713-09 ; C-126-16 ;
 
-> [!note] Ver Ley 21 de 1992; Art. [[art. 107 Ley 21 de 1992|107]]
-
-> [!note] Ver Ley 80 de 1993; Art. [[art. 2 Ley 80 de 1993|2]] Num. 3o .; Art. [[art. 3 Ley 80 de 1993|3]]
-
-> [!note] Ver Ley 590 de 2000; Art. [[art. 12 Ley 590 de 2000|12]]
-
-> [!note] Ver Ley 785 de 2002; Art. [[art. 3 Ley 785 de 2002|3]]
-
-> [!note] Ver Ley 816 de 2003
-
-> [!note] Ver Ley 905 de 2004; Art. [[art. 9 Ley 905 de 2004|9]]
-
-> [!note] Ver Ley 963 de 2005
-
-> [!note] Ver Ley 1005 de 2006
-
-> [!note] Ver Ley 1150 de 2007
-
-> [!note] Ver Ley 1239 de 2008
-
-> [!note] Ver Ley 1281 de 2009
-
-> [!note] Ver Ley 1343 de 2009
-
-> [!note] Ver Ley 1383 de 2010
-
-> [!note] Ver Ley 1397 de 2010
-
-> [!note] Ver Ley 1508 de 2012
-
-> [!note] Ver Ley 1548 de 2012
-
-> [!note] Ver Sentencias de la Corte Constitucional: C-447-92; C-448-92; C-035-93; C-056-93; C-126-93; C-136-93; C-427-93; C-464-93; C-529-93 ; C-542-93; C-400-99; C-035-03; C-429-03 ; C-432-04 ; C-713-09; C-126-16
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 4, 5, 7, 9, 20, 24, 25, 27, 28, 30, 33, 34, 51, 52, 55, 59, 66, 71, 74, 80 y 103)
 
 ---
 ← [[art. 149 CPol]] · ↑ [[CPol - Título VI - Capítulo 3|Capítulo 3]] · [[art. 151 CPol]] →

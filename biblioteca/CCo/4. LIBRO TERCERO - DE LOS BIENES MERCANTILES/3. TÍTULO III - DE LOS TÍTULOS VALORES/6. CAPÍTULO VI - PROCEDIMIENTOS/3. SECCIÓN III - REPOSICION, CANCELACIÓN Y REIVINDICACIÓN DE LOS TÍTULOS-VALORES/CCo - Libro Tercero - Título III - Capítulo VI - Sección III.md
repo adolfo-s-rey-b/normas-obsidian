@@ -22,6 +22,8 @@ tags:
 
 *Arts. 802 a 821*
 
+> [!note] Notas del Editor: El artículo 1o. del Decreto 2273 de 1989 crea Juzgados Civiles del Circuito Especializados y establece las 8 ciudades principales en que tendrán sede dichos juzgados; el inciso segundo del parágrafo del mismo artículo dispone que los Tribunales Superiores de Distrito Judicial podrán especializar Juzgados Civiles del Circuito, cuando las necesidades así lo exijan, para el conocimiento de los asuntos enumerados en el artículo 3o. del Decreto. El artículo 3o. del mismo decreto establece las competencias para conocer de controversias en diferentes áreas del derecho comercial, entre ellas, numeral 8o., de la reposición, cancelación y reivindicación de títulos valores.
+
 ### Contenido
 
 - [[art. 802 CCo|Artículo 802]] — DETERIORO O DESTRUCCIÓN PARCIAL DE TÍTULOS - REPOSICION, CANCELACIÓN Y REIVINDICACIÓN

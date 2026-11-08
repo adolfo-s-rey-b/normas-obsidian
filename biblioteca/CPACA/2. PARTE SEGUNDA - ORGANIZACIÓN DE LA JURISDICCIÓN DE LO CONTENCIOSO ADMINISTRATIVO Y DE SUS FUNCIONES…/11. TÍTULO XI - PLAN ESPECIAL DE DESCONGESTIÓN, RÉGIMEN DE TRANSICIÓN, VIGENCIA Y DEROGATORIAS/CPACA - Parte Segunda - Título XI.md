@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 304 CPACA|Artículo 304]] — Plan Especial de Descongestión
-- [[art. 305 CPACA|Artículo 305]] — Implantación del nuevo sistema procesal
-- [[art. 306 CPACA|Artículo 306]] — Aspectos no regulados
-- [[art. 307 CPACA|Artículo 307]] — Recursos para la impImentación y desarrollo del Código
-- [[art. 308 CPACA|Artículo 308]] — Régimen de transición y vigencia
-- [[art. 309 CPACA|Artículo 309]] — Derogaciones
+- [[art. 304 CPACA|Artículo 304]] — PLAN ESPECIAL DE DESCONGESTIÓN
+- [[art. 305 CPACA|Artículo 305]] — IMPLANTACIÓN DEL NUEVO SISTEMA PROCESAL
+- [[art. 306 CPACA|Artículo 306]] — ASPECTOS NO REGULADOS
+- [[art. 307 CPACA|Artículo 307]] — RECURSOS PARA LA IMPIMENTACIÓN SIC, IMPLEMENTACIÓN Y DESARROLLO DEL CÓDIGO
+- [[art. 308 CPACA|Artículo 308]] — RÉGIMEN DE TRANSICIÓN Y VIGENCIA
+- [[art. 309 CPACA|Artículo 309]] — DEROGACIONES
 
 ---
 ← [[CPACA - Parte Segunda - Título X|Título X]] · ↑ [[CPACA - Parte Segunda|Parte Segunda]]

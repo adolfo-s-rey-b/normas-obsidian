@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Tercero - Título II - Capítulo II - Sección II|SECCI�
 vigencia: "vigente"
 anterior: "[[art. 586 CCo]]"
 siguiente: "[[art. 588 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#587"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 2019
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -28,13 +33,13 @@ tags:
 
 ## Artículo 587. SOLICITUD DE REGISTRO DE MARCA - PROCEDIMIENTO Y REQUISITOS
 
-La solicitud de registro de una marca deberá presentarse en la Oficina de Propiedad Industrial y comprenderá:
+(Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
-1o. La indicación del nombre y domicilio del solicitante;
+> [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-2o. La descripción de la marca con la enumeración clara y completa de los productos o servicios para los cuales se solicite el registro de la misma, y
+> [!note] Notas de Vigencia: Ver Nota de Vigencia del Título II 'DE LA PROPIEDAD INDUSTRIAL' del Libro Tercero 'DE LOS BIENES MERCANTILES'. Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena.
 
-3o. Reproducciones de la marca.
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Artículo declarado EXEQUIBLE por la Corte Suprema de Justicia, mediante Sentencia del 20 de septiembre de 1973.
 
 ---
 ← [[art. 586 CCo]] · ↑ [[CCo - Libro Tercero - Título II - Capítulo II - Sección II|Sección II]] · [[art. 588 CCo]] →

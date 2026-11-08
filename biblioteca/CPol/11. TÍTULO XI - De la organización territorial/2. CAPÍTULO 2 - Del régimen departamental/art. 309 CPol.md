@@ -16,8 +16,13 @@ capitulo: "[[CPol - Título XI - Capítulo 2|CAPÍTULO 2 - Del régimen departam
 vigencia: "vigente"
 anterior: "[[art. 308 CPol]]"
 siguiente: "[[art. 310 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125#309"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+reforma_mas_reciente: 1993
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -30,9 +35,11 @@ tags:
 
 Erígense en departamento las Intendencias de Arauca, Casanare, Putumayo, el Archipiélago de San Andrés, Providencia y Santa Catalina, y las Comisarías del Amazonas, Guaviare, Guainía, Vaupés y Vichada. Los bienes y derechos que a cualquier título pertenecían a las intendencias y comisarías continuarán siendo de propiedad de los respectivos departamentos.
 
-> [!note] Ver Ley 6 de 1992; Art. [[art. 45 Ley 6 de 1992|45]], Par.
+> [!note] Concordancias: Ley 6 de 1992; Art. [[art. 45 Ley 2200 de 2022|45]] , parágrafo Ley 2200 de 2022; Art. [[art. 152 Ley 2200 de 2022|152]]
 
-> [!note] Ver Sentencias de la Corte Constitucional: C-126-93; C-141-2001
+> [!note] Jurisprudencia Concordante: Corte Constitucional Sentencias de control de constitucionalidad: C-126-93 ; C-127-93 ; C-503-93 ; C-141-2001 ;
+
+(Antecedentes: Gacetas Asamblea Constituyente de 1991: 80)
 
 ---
 ← [[art. 308 CPol]] · ↑ [[CPol - Título XI - Capítulo 2|Capítulo 2]] · [[art. 310 CPol]] →

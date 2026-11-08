@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|CAPÍTULO ÚNICO - Arbitramento en derecho en materia laboral y de la seguridad social]] (arts. 302 a 312)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|CAPÍTULO ÚNICO - ARBITRAMENTO EN DERECHO EN MATERIA LABORAL Y DE LA SEGURIDAD SOCIAL]] (arts. 302 a 312)
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Cuarto|Título Cuarto]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|Título Sexto]] →

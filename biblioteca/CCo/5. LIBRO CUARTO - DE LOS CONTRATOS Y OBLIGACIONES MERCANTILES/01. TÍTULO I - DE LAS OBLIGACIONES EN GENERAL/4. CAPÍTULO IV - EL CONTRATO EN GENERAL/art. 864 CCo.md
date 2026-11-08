@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Cuarto - Título I - Capítulo IV|CAPÍTULO IV - EL CON
 vigencia: "vigente"
 anterior: "[[art. 863 CCo]]"
 siguiente: "[[art. 865 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#864"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -29,7 +33,7 @@ tags:
 
 El contrato es un acuerdo de dos o más partes para constituir, regular o extinguir entre ellas una relación jurídica patrimonial, y salvo estipulación en contrario, se entenderá celebrado en el lugar de residencia del proponente y en el momento en que éste reciba la aceptación de la propuesta.
 
-Se presumirá que el oferente ha recibido la aceptación cuando el destinatario pruebe la remisión de ella dentro de los términos fijados por los artículos [[art. 850 CCo|850]] y [[art. 851 CCo|851]].
+Se presumirá que el oferente ha recibido la aceptación cuando el destinatario pruebe la remisión de ella dentro de los términos fijados por los artículos [[art. 850 CCo|850]] y [[art. 851 CCo|851]] .
 
 ---
 ← [[art. 863 CCo]] · ↑ [[CCo - Libro Cuarto - Título I - Capítulo IV|Capítulo IV]] · [[art. 865 CCo]] →

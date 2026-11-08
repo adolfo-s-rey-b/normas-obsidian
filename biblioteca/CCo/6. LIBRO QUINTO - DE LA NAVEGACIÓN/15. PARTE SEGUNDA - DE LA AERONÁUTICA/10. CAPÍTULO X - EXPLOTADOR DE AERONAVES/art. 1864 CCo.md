@@ -15,8 +15,12 @@ capitulo: "[[CCo - Libro Quinto - Parte Segunda - Capítulo X|CAPÍTULO X - EXPL
 vigencia: "vigente"
 anterior: "[[art. 1863 CCo]]"
 siguiente: "[[art. 1865 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1864"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -30,6 +34,8 @@ tags:
 Los servicios aéreos colombianos internos e internacionales sólo podrán ser prestados por personas naturales o jurídicas nacionales, que tengan su domicilio real en Colombia.
 
 La autoridad aeronáutica podrá exigir que ciertos servicios se presten por personas organizadas jurídicamente en forma de sociedad.
+
+> [!note] Jurisprudencia Vigencia: Corte Suprema de Justicia - Inciso 2o. declarado EXEQUIBLE por la Corte Suprema de Justicia mediante Sentencia No. 21 de 22 de marzo de 1983, Magistrados Ponentes Drs. Alfonso Patiño Rosselli y Ricardo Medina Moyano.
 
 ---
 ← [[art. 1863 CCo]] · ↑ [[CCo - Libro Quinto - Parte Segunda - Capítulo X|Capítulo X]] · [[art. 1865 CCo]] →

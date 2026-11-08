@@ -14,8 +14,12 @@ titulo: "[[CCo - Libro Segundo - Título X|TÍTULO X - DE LAS CUENTAS EN PARTICI
 vigencia: "vigente"
 anterior: "[[art. 507 CCo]]"
 siguiente: "[[art. 509 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#508"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -27,6 +31,8 @@ tags:
 ## Artículo 508. LIBERTAD DE SOLEMNIDADES
 
 La participación no estará sujeta en cuanto a su formación a las solemnidades prescritas para la constitución de las compañías mercantiles.
+
+(LIBERTAD DE SOLEMNIDADES)
 
 El objeto, la forma, el interés y las demás condiciones se regirán por el acuerdo de los partícipes.
 

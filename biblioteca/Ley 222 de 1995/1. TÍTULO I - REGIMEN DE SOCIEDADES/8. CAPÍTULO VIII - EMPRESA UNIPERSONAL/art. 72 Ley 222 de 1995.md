@@ -10,8 +10,12 @@ capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VIII|CAPÍTULO VIII - EMPRE
 vigencia: "vigente"
 anterior: "[[art. 71 Ley 222 de 1995]]"
 siguiente: "[[art. 73 Ley 222 de 1995]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739#72"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0222_1995.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
@@ -40,11 +44,11 @@ Cuando los activos destinados a la empresa comprendan bienes cuya transferencia 
 
 7\. El número de cuotas de igual valor nominal en que se dividirá el capital de la empresa.
 
-8\. La forma de administración y el nombre, documento de identidad y las facultades de sus administradores. A falta de estipulaciones se entenderá que los administradores podrán adelantar todos los actos comprendidos dentro de las actividades previstas.
+8\. La forma de administración y el nombre, documento de identidad y las facultades de sus administradores. A falta de estipulaciones se entenderá que los administradores podrán adelantar todos los actos, comprendidos dentro de las actividades previstas.
 
 Delegada totalmente la administración y mientras se mantenga dicha delegación, el empresario no podrá realizar actos y contratos a nombre de la Empresa Unipersonal.
 
-**PARÁGRAFO.** Las Cámaras de Comercio se abstendrán de inscribir el documento mediante el cual se constituya la empresa unipersonal, cuando se omita alguno de los requisitos previstos en este artículo o cuando a la diligencia de registro no concurra personalmente el constituyente o su representante o apoderado.
+**PARAGRAFO.** Las Cámaras de Comercio se abstendrán de inscribir el documento mediante el cual se constituya la empresa unipersonal, cuando se omita alguno de los requisitos previstos en este artículo o cuando a la diligencia de registro no concurra personalmente el constituyente o su representante o apoderado.
 
 ---
 ← [[art. 71 Ley 222 de 1995]] · ↑ [[Ley 222 de 1995 - Título I - Capítulo VIII|Capítulo VIII]] · [[art. 73 Ley 222 de 1995]] →

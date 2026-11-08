@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|CAPÍTULO I - Disposiciones Varias]] (arts. 103 a 111)
-- [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo II|CAPÍTULO II - Allanamiento en Diligencias Judiciales]] (arts. 112 a 113)
-- [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo III|CAPÍTULO III - Copias, Certificaciones y Desgloses]] (arts. 114 a 116)
+- [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|CAPÍTULO I - DISPOSICIONES VARIAS]] (arts. 103 a 111)
+- [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo II|CAPÍTULO II - ALLANAMIENTO EN DILIGENCIAS JUDICIALES]] (arts. 112 a 113)
+- [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo III|CAPÍTULO III - COPIAS, CERTIFICACIONES Y DESGLOSES]] (arts. 114 a 116)
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] · [[CGP - Libro Segundo - Sección Segunda - Título II|Título II]] →

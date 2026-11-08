@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 53 CPol]]"
 siguiente: "[[art. transitorio 55 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -29,7 +33,7 @@ tags:
 
 Adóptanse, para todos los efectos constitucionales y legales, los resultados del Censo Nacional de Población y Vivienda realizado el 15 de octubre de 1985.
 
-> [!note] Ver Ley 79 de 1993
+> [!note] Concordancias: Ley 79 de 1993
 
 ---
 ← [[art. transitorio 53 CPol]] · ↑ [[CPol - Título|Título]] · [[art. transitorio 55 CPol]] →

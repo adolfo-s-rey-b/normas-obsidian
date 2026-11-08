@@ -18,8 +18,9 @@ modificado_por:
 anterior: "[[art. 2530 CC]]"
 siguiente: "[[art. 2532 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2002
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -38,7 +39,9 @@ El dominio de cosas comerciables, que no ha sido adquirido por la prescripción 
 
 3a. Pero la existencia de un título de mera tenencia, hará presumir mala fe, y no dará lugar a la prescripción, a menos de concurrir estas dos circunstancias:
 
-1a.) <Ordinal modificado por el artículo [[art. 5 Ley 791 de 2002|5]] de la Ley 791 de 2002. El nuevo texto es el siguiente:> Que el que se pretende dueño no pueda probar que en los últimos diez (10) años se haya reconocido expresa o tácitamente su dominio por el que alega la prescripción.
+1a.) Que el que se pretende dueño no pueda probar que en los últimos diez (10) años se haya reconocido expresa o tácitamente su dominio por el que alega la prescripción.
+
+> [!info] Ordinal modificado por el artículo [[art. 5 Ley 791 de 2002|5]] de la Ley 791 de 2002. El nuevo texto es el siguiente:
 
 > [!info] Notas de Vigencia: Ordinal 1o. modificado por el artículo [[art. 5 Ley 791 de 2002|5]] de la Ley 791 de 2002, publicada en el Diario Oficial No 45.046, de 27 de diciembre de 2002.
 

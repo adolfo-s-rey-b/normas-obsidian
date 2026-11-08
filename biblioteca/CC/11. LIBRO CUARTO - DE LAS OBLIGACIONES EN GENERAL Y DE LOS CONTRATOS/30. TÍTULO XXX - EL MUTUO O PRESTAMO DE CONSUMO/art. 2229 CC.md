@@ -15,8 +15,9 @@ vigencia: "vigente"
 anterior: "[[art. 2228 CC]]"
 siguiente: "[[art. 2230 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 1998
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -31,9 +32,9 @@ tags:
 
 Podrá el mutuario pagar toda la suma prestada, aún antes del término estipulado, salvo que se hayan pactado intereses.
 
-(Art. [[art. 884 CCo|884]] C.Co.)
-
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado EXEQUIBLE, en los términos de la providencia, por la Corte Constitucional mediante Sentencia C-252-98 del 26 de mayo de 1998, Magistrada Ponente (E) Dra. Carmenza Isaza de Gómez. Cuya aplicación, además, debe estar sujeta a las consideraciones relacionadas con la intervención estatal para los créditos de vivienda. Destaca el editor: 'Es decir, los intereses de que trata el aparte del artículo acusado, nunca pueden exceder los topes legales estipulados en los artículos transcritos , y, en este sentido, se condicionará la exequibilidad de la expresión acusada. (...) 'El aparte acusado del artículo [[art. 2229 CC|2229]] del Código Civil es constitucional, entendiendo que para el ámbito de los créditos para vivienda a largo plazo, éste no es aplicable, en razón a que dichos créditos están regulados por normas específicas de intervención del Estado, como se ha dicho anteriormente' .
+
+(Art. [[art. 884 CCo|884]] C.Co.)
 
 ---
 ← [[art. 2228 CC]] · ↑ [[CC - Libro Cuarto - Título XXX|Título XXX]] · [[art. 2230 CC]] →

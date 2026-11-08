@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[CPACA - Parte Segunda - Título IV - Capítulo I|CAPÍTULO I - Competencia del Consejo de Estado]] (arts. 149 a 150)
-- [[CPACA - Parte Segunda - Título IV - Capítulo II|CAPÍTULO II - Competencia de los Tribunales Administrativos]] (arts. 151 a 153)
-- [[CPACA - Parte Segunda - Título IV - Capítulo III|CAPÍTULO III - Competencia de los Jueces Administrativos]] (arts. 154 a 155)
-- [[CPACA - Parte Segunda - Título IV - Capítulo IV|CAPÍTULO IV - Determinación de Competencias]] (arts. 156 a 158)
+- [[CPACA - Parte Segunda - Título IV - Capítulo I|CAPÍTULO I - COMPETENCIA DEL CONSEJO DE ESTADO]] (arts. 149 a 150)
+- [[CPACA - Parte Segunda - Título IV - Capítulo II|CAPÍTULO II - COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS]] (arts. 151 a 153)
+- [[CPACA - Parte Segunda - Título IV - Capítulo III|CAPÍTULO III - COMPETENCIA DE LOS JUECES ADMINISTRATIVOS]] (arts. 154 a 155)
+- [[CPACA - Parte Segunda - Título IV - Capítulo IV|CAPÍTULO IV - DETERMINACIÓN DE COMPETENCIAS]] (arts. 156 a 158)
 
 ---
 ← [[CPACA - Parte Segunda - Título III|Título III]] · ↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título V|Título V]] →

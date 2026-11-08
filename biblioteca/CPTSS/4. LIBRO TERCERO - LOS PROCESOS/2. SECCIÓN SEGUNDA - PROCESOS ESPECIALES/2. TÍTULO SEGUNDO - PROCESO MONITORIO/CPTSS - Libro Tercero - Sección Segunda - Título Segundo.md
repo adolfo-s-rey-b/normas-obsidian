@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo - Capítulo Único|CAPÍTULO ÚNICO - Proceso monitorio del trabajo y la seguridad social]] (arts. 286 a 291)
+- [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo - Capítulo Único|CAPÍTULO ÚNICO - PROCESO MONITORIO DEL TRABAJO Y LA SEGURIDAD SOCIAL]] (arts. 286 a 291)
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] →

@@ -15,8 +15,12 @@ titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
 vigencia: "vigente"
 anterior: "[[art. transitorio 15 CPol]]"
 siguiente: "[[art. transitorio 17 CPol]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
@@ -27,7 +31,7 @@ tags:
 
 ## Artículo Transitorio 16
 
-Salvo los casos que señale la Constitución, la primerá elección popular de gobernadores se celebrará el 27 de octubre de 1991.
+Salvo los casos que señale la Constitución, la primera elección popular de gobernadores se celebrará el 27 de octubre de 1991.
 
 Los gobernadores elegidos en esa fecha tomarán posesión el 2 de enero de 1992.
 

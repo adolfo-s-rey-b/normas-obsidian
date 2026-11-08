@@ -18,8 +18,9 @@ derogado_por:
 anterior: "[[art. 201 CC]]"
 siguiente: "[[art. 203 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2012
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -30,7 +31,7 @@ tags:
 
 ## Artículo 202. CONFESIÓN INEFICAZ
 
-<Artículo derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012>
+> [!warning] Artículo derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 
 > [!warning] Notas de Vigencia: Artículo derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La derogatoria rige a partir de su promulgación.
 

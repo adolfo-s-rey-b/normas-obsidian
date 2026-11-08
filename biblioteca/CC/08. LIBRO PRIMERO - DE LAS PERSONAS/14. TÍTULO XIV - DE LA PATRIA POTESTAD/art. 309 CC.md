@@ -16,7 +16,7 @@ anterior: "[[art. 308 CC]]"
 siguiente: "[[art. 310 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
@@ -28,8 +28,6 @@ tags:
 ## Artículo 309. CAPACIDAD TESTAMENTARIA DEL HIJO
 
 El hijo de familia no necesita de la autorización paterna para disponer de sus bienes por acto testamentario que haya de tener efecto después de su muerte.
-
-(padres)
 
 ---
 ← [[art. 308 CC]] · ↑ [[CC - Libro Primero - Título XIV|Título XIV]] · [[art. 310 CC]] →

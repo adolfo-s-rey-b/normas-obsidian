@@ -16,8 +16,13 @@ seccion: "[[CCo - Libro Cuarto - Título V - Capítulo III - Sección I|SECCIÓN
 vigencia: "vigente"
 anterior: "[[art. 1136 CCo]]"
 siguiente: "[[art. 1138 CCo]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102#1137"
-fecha_extraccion: 2026-11-07
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
+fuente_texto: "Senado"
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "idéntico"
+reforma_mas_reciente: 2005
+actualizacion_fuente: "15 de octubre de 2026"
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
@@ -39,6 +44,8 @@ Toda persona tiene interés asegurable:
 En los seguros individuales sobre la vida de un tercero, se requiere el consentimiento escrito del asegurado, con indicación del valor del seguro y del nombre del beneficiario. Los menores adultos darán su consentimiento personalmente y no por conducto de sus representantes legales.
 
 En defecto del interés o del consentimiento requeridos al tenor de los incisos que anteceden, o en caso de suscripción sobre la vida de un incapaz absoluto, el contrato no producirá efecto alguno y el asegurador estará obligado a restituir las primas percibidas. Sólo podrá retener el importe de sus gastos, si ha actuado de buena fe.
+
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-534-05 de 24 de mayo de 2005, Magistrado Ponente Dr. Humberto Antonio Sierra Porto.
 
 ---
 ← [[art. 1136 CCo]] · ↑ [[CCo - Libro Cuarto - Título V - Capítulo III - Sección I|Sección I]] · [[art. 1138 CCo]] →

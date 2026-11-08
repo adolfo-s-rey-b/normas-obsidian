@@ -15,8 +15,9 @@ vigencia: "inexequible"
 anterior: "[[art. 173 CC]]"
 siguiente: "[[art. 175 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
+reforma_mas_reciente: 2000
 actualizacion_fuente: "15 de octubre de 2026"
-fecha_extraccion: 2026-11-07
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc

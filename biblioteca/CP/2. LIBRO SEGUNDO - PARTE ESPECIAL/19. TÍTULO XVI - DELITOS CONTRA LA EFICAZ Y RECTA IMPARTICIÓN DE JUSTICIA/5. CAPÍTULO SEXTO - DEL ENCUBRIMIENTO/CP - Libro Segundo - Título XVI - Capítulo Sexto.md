@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 446 CP|Artículo 446]] — Favorecimiento
-- [[art. 447 CP|Artículo 447]]
-- [[art. 447A CP|Artículo 447A]]
+- [[art. 446 CP|Artículo 446]] — FAVORECIMIENTO
+- [[art. 447 CP|Artículo 447]] — RECEPTACIÓN
+- [[art. 447A CP|Artículo 447A]] — COMERCIALIZACIÓN DE AUTOPARTES HURTADAS
 
 ---
 ← [[CP - Libro Segundo - Título XVI - Capítulo Cuarto|Capítulo Cuarto]] · ↑ [[CP - Libro Segundo - Título XVI|Título XVI]] · [[CP - Libro Segundo - Título XVI - Capítulo Septimo|Capítulo Septimo]] →

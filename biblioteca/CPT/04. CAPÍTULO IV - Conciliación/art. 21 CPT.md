@@ -16,7 +16,8 @@ derogado_por:
 anterior: "[[art. 20 CPT]]"
 siguiente: "[[art. 22 CPT]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=5259#21"
-fecha_extraccion: 2026-11-07
+reforma_mas_reciente: 2001
+fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpt
