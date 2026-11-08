@@ -1,6 +1,6 @@
 {
   "name": "obsidian-normas-colombianas",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Plugin de Obsidian para descargar normativa colombiana desde la biblioteca central del repositorio.",
   "main": "main.js",
   "scripts": {
