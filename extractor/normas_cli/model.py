@@ -19,7 +19,7 @@ TipoBloque = Literal["inciso", "numeral", "literal", "paragrafo", "nota", "tabla
 # Orden por defecto (el más frecuente), usado cuando el documento no permite
 # inferir otro. "RUBRO" es un encabezado sin etiqueta (p. ej. «IMPUESTOS
 # DEDUCIBLES.» en el Estatuto Tributario) y siempre va al nivel más profundo.
-ORDEN_DEFECTO = ["PARTE", "LIBRO", "TÍTULO", "CAPÍTULO", "SECCIÓN", "RUBRO"]
+ORDEN_DEFECTO = ["PARTE", "LIBRO", "TÍTULO", "CAPÍTULO", "SECCIÓN", "SUBSECCIÓN", "RUBRO"]
 
 
 @dataclass
@@ -56,6 +56,12 @@ class Articulo:
     bloques: list[Bloque] = field(default_factory=list)
     # Notas editoriales halladas en la propia cabecera (p. ej. «(Adicionado por…)»).
     notas_cabecera: list[Bloque] = field(default_factory=list)
+    # Consolidación multifuente (consolidar.py): de qué fuente sale este texto.
+    fuente: Optional[str] = None  # "Senado", "DAFP"
+    url_fuente: Optional[str] = None
+    reforma: Optional[int] = None  # año de la reforma más reciente citada en sus notas
+    coincidencia: Optional[str] = None  # "idéntico" | "difiere" | "solo en <fuente>"
+    tachado_explicito: bool = False  # la fuente marca los apartes tachados (Senado)
 
     @property
     def es_transitorio(self) -> bool:
@@ -101,6 +107,8 @@ class Norma:
     firmas: list[str] = field(default_factory=list)
     orden_niveles: list[str] = field(default_factory=lambda: list(ORDEN_DEFECTO))
     avisos: list[str] = field(default_factory=list)  # problemas detectados al parsear
+    # Resumen de la consolidación multifuente (None si hubo una sola fuente).
+    consolidacion: Optional[dict] = None
 
     @property
     def nombre_canonico(self) -> str:

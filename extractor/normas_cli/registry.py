@@ -51,7 +51,7 @@ def nombre_normalizado(tipo: str | None, numero: str | None, anio: str | None) -
 RE_IDENTIDAD = re.compile(
     r"(Ley|Decreto(?:\s+(?:Ley|Legislativo|Nacional|Reglamentario|Extraordinario))?|"
     r"Resoluci[oó]n|Acuerdo|Acto\s+Legislativo)\s+(?:No\.?\s*|N[°º]\s*)?"
-    r"(\d+[A-Za-z]?)\s+de\s+(\d{4})",
+    r"(\d+[A-Za-z]?)\s+de\s+(?:\d{1,2}\s+de\s+[a-záéíóú]+\s+de\s+)?(\d{4})",  # «Ley 2445 de 11 de febrero de 2025»
     re.I,
 )
 

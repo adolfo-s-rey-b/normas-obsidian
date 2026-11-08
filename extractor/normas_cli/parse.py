@@ -162,6 +162,7 @@ class Cabecera:
 
 
 RE_ART_INICIO = re.compile(r"^\s*(ART[ÍI]CULO|Art[íi]culo|ARTICULO)(S?)\s+")
+RE_ART_PUNTEADO = re.compile(r"(\d{1,2}(?:\.\d{1,2}){2,9})\.?(?![\d])")
 RE_ART_NUM = re.compile(r"(\d+)(?:\s*-\s*(\d+))?([A-N](?![A-Za-záéíóúñÁÉÍÓÚÑ]))?")
 
 
@@ -178,6 +179,15 @@ def _cabecera(texto: str) -> Cabecera | None:
         transitorio = True
         pos += mt.end()
         resto = texto[pos:]
+    # Numeración punteada de los decretos únicos: «ARTÍCULO 2.2.1.1.1.1.1.»
+    md = RE_ART_PUNTEADO.match(resto)
+    if md and not transitorio:
+        partes = [int(x) for x in md.group(1).split(".")]
+        fin = pos + md.end()
+        despues = texto[fin:]
+        if RE_NO_CABECERA.match(despues.lstrip()):
+            return None
+        return Cabecera(md.group(1), fin, False, partes[0], tuple(partes) + (0,) * (10 - len(partes)))
     mn = RE_ART_NUM.match(resto)
     if not mn:
         if transitorio:  # «ARTÍCULO TRANSITORIO.» sin número
@@ -442,7 +452,7 @@ def _epigrafe_en_texto(cuerpo: str) -> tuple[str, str] | None:
 # --- Niveles -------------------------------------------------------------------
 
 
-_TIPOS = {"TITULO": "TÍTULO", "SECCION": "SECCIÓN", "SUBSECCION": "SECCIÓN", "CAPITULO": "CAPÍTULO"}
+_TIPOS = {"TITULO": "TÍTULO", "SECCION": "SECCIÓN", "SUBSECCION": "SUBSECCIÓN", "CAPITULO": "CAPÍTULO"}
 
 
 def _nivel(u: Unidad) -> tuple[str, str, str] | None:

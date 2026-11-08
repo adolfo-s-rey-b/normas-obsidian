@@ -56,9 +56,9 @@ def _tag(s: str) -> str:
 
 
 _TIPO_CORTO = {"PARTE": "Parte", "LIBRO": "Libro", "TÍTULO": "Título", "SECCIÓN": "Sección",
-               "CAPÍTULO": "Capítulo", "RUBRO": ""}
+               "SUBSECCIÓN": "Subsección", "CAPÍTULO": "Capítulo", "RUBRO": ""}
 _CLAVE_FM = {"PARTE": "parte", "LIBRO": "libro", "TÍTULO": "titulo", "SECCIÓN": "seccion",
-             "CAPÍTULO": "capitulo", "RUBRO": "rubro"}
+             "SUBSECCIÓN": "subseccion", "CAPÍTULO": "capitulo", "RUBRO": "rubro"}
 
 
 def _etq_corta(n: Nivel) -> str:
@@ -161,7 +161,7 @@ def _render_nota(b: Bloque, etiqueta: str, reg: Registry) -> str:
         marcs = marcadores(texto, etiqueta, reg)
         if marcs:
             etiqueta = marcs[0][2]
-    texto = enlazar(texto, etiqueta, reg)
+    texto = enlazar(texto, etiqueta, reg, heredar=True)
     if "[[" not in texto and re.search(r"\bart", texto, re.I):
         for h in b.hrefs:
             if h.i and h.art and h.art.isdigit():
@@ -196,6 +196,9 @@ class Renderizador:
         opciones = reg.opciones(norma.id_fuente, norma.sigla)
         self.estado_norma = opciones.get("estado")
         self.alias_siglas = [str(x) for x in opciones.get("alias_siglas") or []]
+        # Decretos únicos (numeración 2.2.1.1…): un «artículo 4» sin norma no es suyo.
+        arts = norma.articulos
+        self.punteada = bool(arts) and sum("." in a.numero for a in arts) > len(arts) / 2
         # Fuentes que marcan los apartes tachados explícitamente (Senado):
         # no se infiere el tachado a partir de las notas.
         self.tachado_explicito = opciones.get("fuente") == "senado"
@@ -344,11 +347,12 @@ class Renderizador:
             if b.tipo == "tabla":
                 partes.append(b.texto)
                 continue
-            texto, objetivo = enlazar_bloque(b.texto, etq_ctx, self.reg)
+            texto, objetivo = enlazar_bloque(b.texto, etq_ctx, self.reg,
+                                             solo_punteados=self.punteada and etq_ctx == self.etq)
             if objetivo:
                 siguiente_ctx = objetivo
             sig = bloques[i + 1] if i + 1 < len(bloques) else None
-            if self.tachado_explicito:
+            if self.tachado_explicito or a.tachado_explicito:
                 tachados += "~~" in texto
             elif (sig is not None and sig.tipo == "nota" and sig.clase_nota == "warning"
                     and not RE_ART_COMPLETO.search(sig.texto)) or articulo_completo:
@@ -389,9 +393,17 @@ class Renderizador:
             fm.append(f"anterior: {_q(f'[[{ant}]]')}")
         if sig:
             fm.append(f"siguiente: {_q(f'[[{sig}]]')}")
-        if self.url:
-            ancla = "" if a.es_transitorio or "funcionpublica" not in self.url else f"#{a.numero}"
-            fm.append(f"fuente: {_q(self.url + ancla)}")
+        url = a.url_fuente or self.url
+        if url:
+            ancla = "" if a.es_transitorio or "funcionpublica" not in url else f"#{a.numero}"
+            fm.append(f"fuente: {_q(url + ancla)}")
+        if a.fuente and n.consolidacion:
+            fm.append(f"fuente_texto: {_q(a.fuente)}")
+            fm.append(f"fuentes_comparadas: {_q(', '.join(f['nombre'] for f in n.consolidacion['fuentes']))}")
+            if a.coincidencia:
+                fm.append(f"coincidencia_fuentes: {_q(a.coincidencia)}")
+        if a.reforma:
+            fm.append(f"reforma_mas_reciente: {a.reforma}")
         if n.actualizacion_fuente:
             fm.append(f"actualizacion_fuente: {_q(n.actualizacion_fuente)}")
         fm.append(f"fecha_extraccion: {self.fecha}")
@@ -523,6 +535,23 @@ class Renderizador:
             cuerpo.append("## Norma que lo expide\n\n" + "\n\n".join(env))
         if n.firmas:
             cuerpo.append("## Firmas\n\n" + "  \n".join(n.firmas))
+        if n.consolidacion:
+            c = n.consolidacion
+            filas = ["| Fuente | Artículos | Actualización declarada | Textos tomados |", "| --- | ---: | --- | ---: |"]
+            for f in c["fuentes"]:
+                nombre = f"[{f['nombre']}]({f['url']})" if f.get("url") else f["nombre"]
+                filas.append(f"| {nombre} | {f['articulos']} | {f.get('actualizacion') or '—'} | "
+                             f"{c['elegidos'].get(f['nombre'], 0)} |")
+            texto = ("## Fuentes y consolidación\n\n"
+                     "Esta norma se construyó comparando todas sus fuentes; de cada artículo se toma la "
+                     "versión cuya reforma más reciente citada es posterior (en empate, la de la estructura "
+                     f"base: {c['base']}).\n\n" + "\n".join(filas) +
+                     f"\n\nArtículos con texto idéntico en las fuentes: {c['identicos']}; con diferencias: "
+                     f"{c['diferentes']}; presentes en una sola fuente: {c['solo_una']}.")
+            if c["detalle"]:
+                texto += ("\n\n> [!info]- Artículos con diferencias entre fuentes\n"
+                          + "\n".join(f"> - {d}" for d in c["detalle"][:400]))
+            cuerpo.append(texto)
         if self.avisos:
             av = "\n".join(f"> - {a}" for a in self.avisos[:200])
             cuerpo.append(f"> [!bug]- Avisos de la conversión ({len(self.avisos)})\n{av}")

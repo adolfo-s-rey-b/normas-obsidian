@@ -249,6 +249,107 @@ normas:
   nombre: Estatuto Anticorrupción
   ruta: Ley 1474 de 2011
   estado: vigente
+- id: '77653'
+  tipo: Decreto
+  numero: '1082'
+  anio: '2015'
+  sigla: null
+  nombre: Decreto Único Reglamentario del Sector Administrativo de Planeación Nacional
+  ruta: Decreto 1082 de 2015
+  estado: vigente
+- id: '40032'
+  tipo: Decreto
+  numero: '2555'
+  anio: '2010'
+  sigla: null
+  nombre: Decreto Único del sector financiero, asegurador y del mercado de valores
+  ruta: Decreto 2555 de 2010
+  estado: vigente
+- id: '1348'
+  tipo: Decreto
+  numero: '663'
+  anio: '1993'
+  sigla: EOSF
+  nombre: Estatuto Orgánico del Sistema Financiero
+  ruta: EOSF
+  estado: vigente
+  url_senado: http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero.html
+- id: '90324'
+  tipo: Ley
+  numero: '1952'
+  anio: '2019'
+  sigla: CGD
+  nombre: Código General Disciplinario
+  ruta: CGD
+  estado: vigente
+- id: '44306'
+  tipo: Ley
+  numero: '1480'
+  anio: '2011'
+  sigla: null
+  nombre: Estatuto del Consumidor
+  ruta: Ley 1480 de 2011
+  estado: vigente
+- id: '48366'
+  tipo: Ley
+  numero: '1563'
+  anio: '2012'
+  sigla: null
+  nombre: Estatuto de Arbitraje Nacional e Internacional
+  ruta: Ley 1563 de 2012
+  estado: vigente
+- id: '186'
+  tipo: Ley
+  numero: '489'
+  anio: '1998'
+  sigla: null
+  nombre: Organización y funcionamiento de las entidades del orden nacional
+  ruta: Ley 489 de 1998
+  estado: vigente
+- tipo: Ley
+  numero: '1150'
+  anio: '2007'
+  sigla: null
+  nombre: Medidas para la eficiencia y la transparencia en la Ley 80 de 1993
+  ruta: Ley 1150 de 2007
+  estado: vigente
+  # El DAFP la marca «No disponible»: solo Senado.
+- tipo: Decreto
+  numero: '92'
+  anio: '2017'
+  sigla: null
+  nombre: Contratación con entidades privadas sin ánimo de lucro
+  ruta: Decreto 92 de 2017
+  estado: vigente
+  url_senado: http://www.secretariasenado.gov.co/senado/basedoc/decreto_0092_2017.html
+- tipo: Ley
+  numero: '389'
+  anio: '1997'
+  sigla: null
+  nombre: Normas en materia de seguros y capitalización
+  ruta: Ley 389 de 1997
+  estado: vigente
+- tipo: Ley
+  numero: '25'
+  anio: '1992'
+  sigla: null
+  nombre: Desarrollo de los incisos 9 a 13 del artículo 42 de la Constitución (divorcio y matrimonio religioso)
+  ruta: Ley 25 de 1992
+  estado: vigente
+- tipo: Ley
+  numero: '610'
+  anio: '2000'
+  sigla: null
+  nombre: Trámite de los procesos de responsabilidad fiscal
+  ruta: Ley 610 de 2000
+  estado: vigente
+- tipo: Ley
+  numero: '675'
+  anio: '2001'
+  sigla: null
+  nombre: Régimen de propiedad horizontal
+  ruta: Ley 675 de 2001
+  estado: vigente
 codigos:
   codigo general del proceso: CGP
   codigo de comercio: CCo
@@ -266,6 +367,7 @@ codigos:
   codigo nacional de seguridad y convivencia ciudadana: CNSCC
   codigo de la infancia y la adolescencia: CIA
   codigo general disciplinario: CGD
+  estatuto organico del sistema financiero: EOSF
   codigo disciplinario unico: CDU
   codigo electoral: CE
   codigo de minas: CMin

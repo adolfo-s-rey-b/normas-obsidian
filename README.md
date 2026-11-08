@@ -22,33 +22,46 @@ Función Pública (DAFP)**:
 
 ## Normas disponibles
 
-| Sigla | Norma | Artículos | Fuente | Estado |
+| Sigla | Norma | Artículos | Fuentes | Estado |
 | --- | --- | ---: | --- | --- |
-| `CPol` | Constitución Política de 1991 (alias `CN`) | 484 | DAFP | vigente |
 | `CC` | Código Civil (Ley 84 de 1873) | 2.679 | Senado | vigente |
-| `CCo` | Código de Comercio (Decreto 410 de 1971) | 2.037 | DAFP | vigente |
-| `CGP` | Código General del Proceso (Ley 1564 de 2012) | 628 | DAFP | vigente |
-| `CPACA` | Código de Procedimiento Administrativo y de lo Contencioso Administrativo (Ley 1437 de 2011) | 320 | DAFP | vigente |
-| `CP` | Código Penal (Ley 599 de 2000) | 588 | DAFP | vigente |
-| `CPP` | Código de Procedimiento Penal (Ley 906 de 2004) | 590 | DAFP | vigente |
-| `CST` | Código Sustantivo del Trabajo (Decreto 2663 de 1950) | 496 | DAFP | vigente |
-| `CPTSS` | Código Procesal del Trabajo y de la Seguridad Social (Ley 2452 de 2025) | 331 | DAFP | vigente |
-| `CPT` | Código Procesal del Trabajo (Decreto 2158 de 1948) | 149 | DAFP | derogado por la Ley 2452 de 2025 |
-| `ET` | Estatuto Tributario (Decreto Ley 624 de 1989) | 1.307 | DAFP | vigente |
-| — | Ley 80 de 1993 (contratación estatal) | 83 | DAFP | vigente |
-| — | Ley 222 de 1995 (reforma del régimen de sociedades) | 242 | DAFP | vigente |
-| — | Ley 446 de 1998 (descongestión y acceso a la justicia) | 167 | DAFP | vigente |
-| — | Ley 472 de 1998 (acciones populares y de grupo) | 87 | DAFP | vigente |
-| — | Ley 820 de 2003 (arrendamiento de vivienda urbana) | 43 | DAFP | vigente |
-| — | Ley 1258 de 2008 (SAS) | 46 | DAFP | vigente |
-| — | Ley 1474 de 2011 (Estatuto Anticorrupción) | 142 | DAFP | vigente |
-| — | Ley 1996 de 2019 (capacidad legal de las personas con discapacidad) | 63 | DAFP | vigente |
+| `CCo` | Código de Comercio (Decreto 410 de 1971) | 2.038 | DAFP + Senado | vigente |
+| `CGD` | Código General Disciplinario (Ley 1952 de 2019) | 281 | DAFP + Senado | vigente |
+| `CGP` | Código General del Proceso (Ley 1564 de 2012) | 634 | DAFP + Senado | vigente |
+| `CP` | Código Penal (Ley 599 de 2000) | 596 | DAFP + Senado | vigente |
+| `CPACA` | Código de Procedimiento Administrativo y de lo Contencioso Administrativo (Ley 1437 de 2011) | 321 | DAFP + Senado | vigente |
+| `CPP` | Código de Procedimiento Penal (Ley 906 de 2004) | 590 | DAFP + Senado | vigente |
+| `CPT` | Código Procesal del Trabajo (derogado por la Ley 2452 de 2025) (Decreto 2158 de 1948) | 149 | DAFP | derogado por la Ley 2452 de 2025 |
+| `CPTSS` | Código Procesal del Trabajo y de la Seguridad Social (Ley 2452 de 2025) | 331 | DAFP + Senado | vigente |
+| `CPol` | Constitución Política de Colombia (Constitución Política de 1991) | 497 | DAFP + Senado | vigente |
+| `CST` | Código Sustantivo del Trabajo (Decreto 2663 de 1950) | 499 | DAFP + Senado | vigente |
+| `EOSF` | Estatuto Orgánico del Sistema Financiero (Decreto 663 de 1993) | 343 | DAFP + Senado | vigente |
+| `ET` | Estatuto Tributario (Decreto Ley 624 de 1989) | 1.319 | DAFP + Senado | vigente |
+| — | Decreto 1082 de 2015 — Decreto Único Reglamentario del Sector Administrativo de Planeación Nacional | 864 | DAFP | vigente |
+| — | Decreto 2555 de 2010 — Decreto Único del sector financiero, asegurador y del mercado de valores | 2.565 | DAFP | vigente |
+| — | Decreto 92 de 2017 — Contratación con entidades privadas sin ánimo de lucro | 11 | Senado | vigente |
+| — | Ley 1150 de 2007 — Medidas para la eficiencia y la transparencia en la Ley 80 de 1993 | 33 | Senado | vigente |
+| — | Ley 1258 de 2008 — Sociedad por acciones simplificada (SAS) | 46 | DAFP + Senado | vigente |
+| — | Ley 1474 de 2011 — Estatuto Anticorrupción | 142 | DAFP + Senado | vigente |
+| — | Ley 1480 de 2011 — Estatuto del Consumidor | 84 | DAFP + Senado | vigente |
+| — | Ley 1563 de 2012 — Estatuto de Arbitraje Nacional e Internacional | 119 | DAFP + Senado | vigente |
+| — | Ley 1996 de 2019 — Régimen para el ejercicio de la capacidad legal de las personas con discapacidad | 63 | DAFP + Senado | vigente |
+| — | Ley 222 de 1995 — Reforma del Libro II del Código de Comercio (sociedades) | 242 | DAFP + Senado | vigente |
+| — | Ley 25 de 1992 — Desarrollo de los incisos 9 a 13 del artículo 42 de la Constitución (divorcio y matrimonio religioso) | 15 | Senado | vigente |
+| — | Ley 389 de 1997 — Normas en materia de seguros y capitalización | 8 | Senado | vigente |
+| — | Ley 446 de 1998 — Descongestión, eficiencia y acceso a la justicia | 167 | DAFP + Senado | vigente |
+| — | Ley 472 de 1998 — Acciones populares y de grupo | 87 | DAFP + Senado | vigente |
+| — | Ley 489 de 1998 — Organización y funcionamiento de las entidades del orden nacional | 121 | DAFP + Senado | vigente |
+| — | Ley 610 de 2000 — Trámite de los procesos de responsabilidad fiscal | 67 | Senado | vigente |
+| — | Ley 675 de 2001 — Régimen de propiedad horizontal | 87 | Senado | vigente |
+| — | Ley 80 de 1993 — Estatuto General de Contratación de la Administración Pública | 84 | DAFP + Senado | vigente |
+| — | Ley 820 de 2003 — Régimen de arrendamiento de vivienda urbana | 43 | DAFP + Senado | vigente |
 
-19 normas y 10.482 artículos, extraídos el 7 de noviembre de 2026; cada nota
-indica su fuente y fecha. El **Código Civil** no está en el Gestor Normativo del
-DAFP, así que se toma de la [Secretaría General del Senado](http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html)
-(compilación de Avance Jurídico; sus epígrafes son editoriales). Las leyes sin
-sigla se citan por su identificador: `[[art. 3 Ley 80 de 1993]]`.
+32 normas y 15.125 artículos, extraídos el 8 de noviembre de 2026. **Cada norma se
+consolida a partir de todas sus fuentes** (ver [Consolidación multifuente](#consolidación-multifuente)):
+el Gestor Normativo del DAFP y la Secretaría General del Senado. La Constitución también
+tiene el alias `CN`; las leyes y decretos sin sigla se citan por su identificador:
+`[[art. 3 Ley 80 de 1993]]`, `[[art. 2.2.1.1.1.1.1 Decreto 1082 de 2015]]`.
 
 ## Tres formas de usarlo
 
@@ -138,7 +151,11 @@ modificado_por: ["[[art. 35 Ley 1996 de 2019]]"]
 derogado_por: ["[[art. 61 Ley 1996 de 2019]]"]
 anterior: "[[art. 21 CGP]]"
 siguiente: "[[art. 23 CGP]]"
-fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425#22"
+fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
+fuente_texto: "Senado"               # fuente de la que se tomó este texto
+fuentes_comparadas: "DAFP, Senado"
+coincidencia_fuentes: "difiere"      # idéntico | difiere | solo en <fuente>
+reforma_mas_reciente: 2019           # evento de vigencia más reciente citado
 actualizacion_fuente: "27 de agosto de 2025"
 fecha_extraccion: 2026-11-07
 tags: [normas/articulo, normas/cgp, vigencia/parcialmente_derogado]
@@ -201,38 +218,36 @@ normas-cli catalogo
 normas-cli comparar CGP --salida comparacion-cgp.md
 ```
 
-### Dos fuentes: DAFP y Senado
+## Consolidación multifuente
 
-La fuente principal es el DAFP; el Senado (compilación de Avance Jurídico) se
-usa para normas que el DAFP no publica (`fuente: senado` en el registry, hoy el
-Código Civil). `normas-cli comparar` descarga la norma de ambas, alinea los
-artículos por número y compara el **texto normativo** (sin notas, tachados ni
-puntuación): fechas de actualización declaradas, artículos idénticos, con
-diferencias y presentes en una sola fuente, con extractos. Ninguna fuente es
-siempre la más reciente: las diferencias aparecen artículo por artículo, por eso
-el informe sirve para decidir y corregir, no se fusiona automáticamente.
+Las fuentes oficiales se actualizan en fechas distintas y con criterios propios, y
+**ninguna es siempre la más reciente**: difieren artículo por artículo (p. ej., para el
+CGP el Senado ya incorpora la Ley 2445 de 2025, que el DAFP aún no tenía; en otros
+artículos ocurre al revés). Por eso `normas-cli` construye cada norma así:
 
-| Opción | Descripción |
-| --- | --- |
-| `--sigla` | Sigla corta para nombrar las notas (`CGP`, `CCo`…). Si se omite, se usa la del registry o el identificador `Ley N de A`. |
-| `--id` | Id del DAFP cuando el origen es un archivo local. |
-| `--output, -o` | Carpeta de salida (por defecto `biblioteca/`). Apunta a tu *vault* para uso local. |
-| `--registry, -r` | Ruta del `registry.yaml`. |
-| `--cache-dir` | Guarda y reutiliza el HTML descargado (`todas` usa `~/.cache/normas-obsidian/html`). |
-| `--forzar` | Reemplaza la carpeta de salida aunque no parezca generada por `normas-cli`. |
-| `--no-update-registry` | No registrar la norma en `registry.yaml`. |
+1. Descarga **todas** las fuentes disponibles: el DAFP (`id` en el registry) y el
+   Senado (`url_senado`, o la URL estándar `ley_NNNN_AAAA.html`).
+2. Toma como estructura (jerarquía, preámbulo, firmas) la del Senado si cubre al
+   menos el 95 % de los artículos; si no, la más completa.
+3. **Por cada artículo elige la versión con el evento de vigencia más reciente**
+   citado en sus notas: reformas («modificado por el art. 3 de la Ley 2445 de 2025»)
+   y sentencias de la Corte Constitucional (una inexequibilidad posterior revive el
+   texto anterior, p. ej. el art. 4 de la Ley 1258 de 2008 tras la C-038-25). En
+   empate, la fuente base. Los artículos que solo trae una fuente se incorporan.
+4. Cada nota indica `fuente_texto`, `fuentes_comparadas`, `coincidencia_fuentes`
+   y `reforma_mas_reciente`; la nota raíz resume la comparación y lista los
+   artículos con diferencias.
 
-La carpeta de cada norma se **reemplaza completa** en cada generación (se
-escribe en un directorio temporal y luego se intercambia), así no quedan notas
-obsoletas. Por seguridad, el CLI se niega a reemplazar una carpeta que no
-parezca generada por él.
+`normas-cli comparar <norma>` produce el informe detallado de diferencias entre
+fuentes (texto normativo por artículo y reformas citadas solo por cada una).
 
-### `registry.yaml`
+## El registry (`extractor/registry.yaml`)
 
 Lista las normas de la biblioteca (`id`, identidad, `sigla`, `nombre`, `ruta`,
 `estado`) y el diccionario `codigos` (nombre de código → sigla). Admite dos
 ajustes por norma para páginas difíciles:
 
+- `url_senado`: página de la norma en el Senado, si no sigue el patrón `ley_NNNN_AAAA.html` (o `false` para no usarla).
 - `jerarquia`: orden forzado de niveles, p. ej. `[LIBRO, PARTE, TÍTULO, CAPÍTULO, SECCIÓN]` (CCo).
 - `esquema`: niveles a insertar antes de ciertos artículos, para páginas sin
   encabezados fiables. La Constitución lo usa porque el DAFP omite las
@@ -267,7 +282,7 @@ La verificación TLS **nunca** se desactiva.
 ## Desarrollo y pruebas
 
 ```bash
-cd extractor && pytest -q                 # 55 pruebas sobre HTML real del DAFP y del Senado
+cd extractor && pytest -q                 # 58 pruebas sobre HTML real del DAFP y del Senado
 cd plugin-obsidian && npm ci && npm run build && npm test
 ```
 
@@ -307,13 +322,11 @@ el workflow `release.yml` compila y crea el release con `main.js` y
 
 ## Pendientes
 
-- **Fuente más reciente por norma**: `normas-cli comparar` muestra que el
-  Senado incorpora reformas que el DAFP aún no tiene (p. ej. la Ley 2445 de
-  2025 en el CGP) y viceversa. Falta decidir la fuente de cada norma.
-- **Normas citadas aún fuera de la biblioteca**: decretos únicos con
-  numeración `2.2.1.2…` (Decreto 1082 de 2015, Decreto 2555 de 2010), Ley 1150
-  de 2007 (no está en el DAFP), Ley 5 de 1992, Ley 1819 de 2016… (`normas-cli
-  verificar` lista las más enlazadas).
+- **Más fuentes**: SUIN-Juriscol sería una tercera fuente para la consolidación.
+  Algunas normas solo están en una fuente (Código Civil y varias leyes, solo en el
+  Senado; CPT y decretos únicos, solo en el DAFP).
+- **Normas citadas aún fuera de la biblioteca**: Ley 5 de 1992, Ley 1819 de 2016,
+  Ley 1676 de 2013, Ley 527 de 1999… (`normas-cli verificar` lista las más enlazadas).
 - **Constitución**: los capítulos 5 a 7 de las disposiciones transitorias de
   1991 no tienen encabezado en la fuente; esos transitorios quedan directamente
   bajo «Disposiciones transitorias».

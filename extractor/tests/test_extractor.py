@@ -364,3 +364,51 @@ def test_comparar_fuentes():
     assert c.identicos == 1 and [d.numero for d in c.diferentes] == ["2"] and c.solo_a == ["3"]
     assert url_senado(None, "Ley", "80", "1993").endswith("ley_0080_1993.html")
     assert url_senado("CCo", None, None, None).endswith("codigo_comercio.html")
+
+
+# --- Consolidación multifuente y decretos únicos -------------------------------------
+
+
+def _ley(*arts):
+    cuerpo = "".join(f"<p><strong>ARTÍCULO {n}.</strong> {t}</p>" + (f"<p>({nota})</p>" if nota else "")
+                     for n, t, nota in arts)
+    return parse(f'<h2 class="titulo-norma">Ley 9 de 2000</h2><div class="descripcion-contenido">{cuerpo}</div>')
+
+
+def test_consolidar_toma_la_version_mas_reciente():
+    from normas_cli.consolidar import Fuente, consolidar
+
+    dafp = _ley(("1", "Texto igual.", None),
+                ("2", "Texto modificado en 2023.", "Modificado por el Art. 5 de la Ley 2294 de 2023"),
+                ("3", "Texto nuevo del DAFP.", "Modificado por el Art. 9 de la Ley 2500 de 2025"))
+    senado = _ley(("1", "Texto igual.", None),
+                  ("2", "Texto original revivido.",
+                   "Jurisprudencia Vigencia: artículo 5 de la Ley 2294 de 2023 declarado INEXEQUIBLE "
+                   "mediante Sentencia C-038-25"),
+                  ("3", "Texto viejo.", "Modificado por el artículo 1 de la Ley 100 de 1993"),
+                  ("3A", "Solo en el Senado.", None))
+    n = consolidar([Fuente("DAFP", "https://dafp", dafp), Fuente("Senado", "http://senado", senado, True)])
+    arts = {a.numero: a for a in n.articulos}
+    assert [a.numero for a in n.articulos] == ["1", "2", "3", "3A"]
+    assert arts["1"].coincidencia == "idéntico"
+    assert arts["2"].fuente == "Senado" and arts["2"].reforma == 2025  # la sentencia es posterior
+    assert arts["3"].fuente == "DAFP" and arts["3"].reforma == 2025
+    assert arts["3A"].coincidencia == "solo en Senado"
+    c = n.consolidacion
+    assert c["base"] == "Senado" and c["identicos"] == 1 and c["diferentes"] == 2
+
+
+def test_decreto_unico_numeracion_punteada():
+    html = ('<h2 class="titulo-norma">Decreto 1082 de 2015</h2><div class="descripcion-contenido">'
+            '<p align="center"><strong>SUBSECCIÓN 1</strong></p><p align="center"><strong>Generalidades</strong></p>'
+            "<p><strong>ARTÍCULO 2.2.1.1.1.1.1. <em>Objetivos.</em></strong> Las entidades…</p>"
+            "<p><strong>ARTÍCULO 2.2.1.1.1.1.2. <em>Definiciones.</em></strong> Para efectos…</p>"
+            "<p><strong>ARTÍCULO 2.2.1.1.1.2.1. <em>Plan.</em></strong> Según el artículo 2.2.1.1.1.1.1.</p></div>")
+    n = parse(html)
+    assert [a.numero for a in n.articulos] == ["2.2.1.1.1.1.1", "2.2.1.1.1.1.2", "2.2.1.1.1.2.1"]
+    assert n.niveles[0].tipo == "SUBSECCIÓN"
+
+
+def test_enlace_decreto_unico(reg):
+    t = enlazar("conforme al artículo 2.2.1.2.3.2.3 del Decreto 1082 de 2015 y 2.000.000 pesos", "CGP", reg)
+    assert "[[art. 2.2.1.2.3.2.3 Decreto 1082 de 2015|2.2.1.2.3.2.3]]" in t and "|2.000" not in t

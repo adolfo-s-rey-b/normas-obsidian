@@ -10,7 +10,7 @@ la documentación van **en español**.
 # Python: usar SIEMPRE el venv (el python3 del sistema no tiene bs4/pytest)
 cd extractor
 .venv/bin/pip install -e ".[dev]"       # si no existe: ~/anaconda3/bin/python -m venv .venv
-.venv/bin/python -m pytest -q           # 55 pruebas, ~3 s
+.venv/bin/python -m pytest -q           # 58 pruebas, ~3 s
 .venv/bin/normas-cli todas              # regenera biblioteca/ (HTML cacheado en ~/.cache/normas-obsidian/html)
 .venv/bin/normas-cli verificar          # debe terminar en «✓ biblioteca sin errores»
 .venv/bin/normas-cli catalogo           # regenera catalogo/ (después de cada `todas`)
@@ -47,6 +47,7 @@ separado.
 | `catalogo.py` | `catalogo/index.json` + un paquete JSON por norma para el plugin. |
 | `senado.py` | Adaptador de la Secretaría del Senado (páginas `_prNNN`, recuadros en JS, `<S>` → `~~`), normaliza a HTML tipo DAFP. |
 | `comparar.py` | Compara una norma DAFP vs Senado: texto por artículo y reformas citadas solo por cada fuente. |
+| `consolidar.py` | Une todas las fuentes de una norma: base estructural (Senado si cubre ≥95 %) y, por artículo, la versión con el evento de vigencia más reciente (reformas y sentencias C-). `todas`/`extraer` lo usan para toda norma registrada. |
 | `cli.py` | Subcomandos `extraer` (por defecto), `todas`, `verificar`, `catalogo`, `comparar`. |
 
 ## Convenciones que no se deben romper
@@ -75,8 +76,13 @@ separado.
   dos artículos en un mismo `<p>`, «ARTICULOS 438.» como cabecera.
 - No disfrazar el User-Agent: no hace falta y el entorno lo bloquea.
 - La fecha «Última actualización» del Senado es de todo el sitio, no de cada
-  norma; para saber cuál fuente es más reciente, mirar las reformas citadas
-  (`comparar`). Ninguna fuente gana siempre: difieren artículo por artículo.
+  norma. Ninguna fuente gana siempre: difieren artículo por artículo. Decisión del
+  usuario: **toda norma se consolida desde todas las fuentes** (`consolidar.py`);
+  nunca publicar una norma de una sola fuente si hay otra disponible.
+- Decretos únicos (1082/2015, 2555/2010) usan numeración punteada `2.2.1.1.1.1.1`
+  y niveles hasta SUBSECCIÓN; solo están en el DAFP.
+- Senado: marcas «<Artículo modificado por…>» pueden abarcar varios nodos HTML; la
+  fecha puede ir dentro de la identidad («Ley 2445 de 11 de febrero de 2025»).
 
 ## Pruebas E2E (aprendido)
 

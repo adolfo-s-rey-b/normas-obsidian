@@ -76,38 +76,83 @@ def construir_parser() -> argparse.ArgumentParser:
     return p
 
 
+def _entrada(reg: Registry, origen: str):
+    """Entrada del registry que corresponde a ``origen`` (id, sigla, carpeta o URL)."""
+    i = id_desde_url(origen) if origen.startswith("http") else origen
+    return next((e for e in reg.normas
+                 if i in (e.id, e.sigla, e.ruta) or origen in (e.extra.get("url"), e.extra.get("url_senado"))),
+                None)
+
+
+def _fuentes(ent, reg: Registry, cache_dir: str | None) -> list:
+    """Descarga y parsea todas las fuentes disponibles de una norma registrada."""
+    from .comparar import url_senado
+    from .consolidar import Fuente
+
+    opciones = reg.opciones(ent.id, ent.sigla)
+    titulo = f"{ent.tipo} {ent.numero} de {ent.anio}"
+    fuentes = []
+    if ent.id:
+        html, url = fetch_html(ent.id, cache_dir=cache_dir or str(CACHE_DIR / "html"))
+        fuentes.append(Fuente("DAFP", url_para_id(ent.id), parse(html, url=url, id_fuente=ent.id, opciones=opciones)))
+    url_s = ent.extra.get("url_senado")
+    if url_s is None and ent.extra.get("fuente") == "senado":
+        url_s = ent.extra.get("url")
+    if url_s is None:
+        url_s = url_senado(ent.sigla, ent.tipo, ent.numero, ent.anio)
+    if url_s:  # url_senado: false en el registry desactiva la fuente
+        try:
+            html = descargar_senado(url_s, cache_dir=CACHE_DIR, titulo=titulo)
+            fuentes.append(Fuente("Senado", url_s, parse(html, url=url_s, opciones=opciones),
+                                  tachado_explicito=True))
+        except Exception as e:  # noqa: BLE001 — sin esa fuente se sigue con las demás
+            print(f"  ! Senado no disponible ({url_s}): {e}", file=sys.stderr)
+    return fuentes
+
+
 def _extraer(origen: str, reg: Registry, *, sigla: str | None, id_fuente: str | None,
              output: str, cache_dir: str | None, actualizar_registry: bool, forzar: bool) -> dict:
-    ent_senado = next((e for e in reg.normas if e.extra.get("fuente") == "senado"
-                       and origen in (e.extra.get("url"), e.sigla)), None)
-    if ent_senado is not None:
-        # Normas que el DAFP no publica: Secretaría del Senado (ver senado.py).
-        html = descargar_senado(ent_senado.extra["url"], cache_dir=cache_dir or CACHE_DIR,
-                                titulo=f"{ent_senado.tipo} {ent_senado.numero} de {ent_senado.anio}")
-        url = ent_senado.extra["url"]
-        sigla = sigla or ent_senado.sigla
+    ent = _entrada(reg, origen) if not Path(origen).exists() else None
+    if ent is not None:
+        # Norma registrada: se comparan TODAS sus fuentes y se consolida la más actualizada.
+        from .consolidar import consolidar
+        fuentes = _fuentes(ent, reg, cache_dir)
+        if not fuentes:
+            raise RuntimeError("ninguna fuente disponible")
+        norma = consolidar(fuentes)
+        norma.sigla = sigla or ent.sigla
+        norma.nombre_largo = norma.nombre_largo or ent.nombre
+        if not norma.id_fuente:
+            norma.id_fuente = ent.id
+        dafp = next((f for f in fuentes if f.nombre == "DAFP"), None)
+        norma.url_fuente = dafp.url if dafp else fuentes[0].url
     else:
         html, url = fetch_html(origen, cache_dir=cache_dir)
         id_fuente = id_fuente or id_desde_url(url) or (origen if origen.isdigit() else None)
         if not url.startswith("http"):
             url = url_para_id(id_fuente) if id_fuente else None
-    opciones = reg.opciones(id_fuente, sigla)
-    norma = parse(html, url=url, id_fuente=id_fuente, opciones=opciones)
-    if sigla:
-        norma.sigla = sigla
-    else:
-        ent = reg.por_id(id_fuente) or reg.por_identidad(norma.tipo, norma.numero, norma.anio)
-        if ent and ent.sigla:
-            norma.sigla = ent.sigla
-        if ent and ent.nombre and not norma.nombre_largo:
-            norma.nombre_largo = ent.nombre
+        opciones = reg.opciones(id_fuente, sigla)
+        norma = parse(html, url=url, id_fuente=id_fuente, opciones=opciones)
+        if sigla:
+            norma.sigla = sigla
+        else:
+            e2 = reg.por_id(id_fuente) or reg.por_identidad(norma.tipo, norma.numero, norma.anio)
+            if e2 and e2.sigla:
+                norma.sigla = e2.sigla
+            if e2 and e2.nombre and not norma.nombre_largo:
+                norma.nombre_largo = e2.nombre
     stats = render(norma, output, reg, forzar=forzar)
     if actualizar_registry:
         reg.registrar(norma, ruta=Path(stats["raiz"]).name)
         reg.guardar()
     print(f"✓ {norma.nombre_canonico}" + (f" ({norma.sigla})" if norma.sigla else ""))
-    print(f"  artículos: {stats['articulos']}  niveles: {stats['niveles']}  notas: {stats['notas']}"
-          f"  avisos: {len(stats['avisos'])}")
+    linea = (f"  artículos: {stats['articulos']}  niveles: {stats['niveles']}  notas: {stats['notas']}"
+             f"  avisos: {len(stats['avisos'])}")
+    if norma.consolidacion:
+        c = norma.consolidacion
+        linea += (f"  | base {c['base']}; tomados {c['elegidos']}; idénticos {c['identicos']}, "
+                  f"distintos {c['diferentes']}, una sola fuente {c['solo_una']}")
+    print(linea)
     print(f"  salida: {stats['raiz']}")
     return stats
 
@@ -169,9 +214,9 @@ def main(argv: list[str] | None = None) -> int:
     # todas
     errores = 0
     for ent in reg.normas:
-        if args.solo and ent.sigla not in args.solo and ent.id not in args.solo:
+        if args.solo and not {ent.sigla, ent.id, ent.ruta} & set(args.solo):
             continue
-        origen = ent.id or (ent.extra.get("url") if ent.extra.get("fuente") == "senado" else None)
+        origen = ent.id or ent.sigla or ent.ruta
         if not origen:
             print(f"✗ {ent.etiqueta}: sin id ni fuente en el registry", file=sys.stderr)
             continue

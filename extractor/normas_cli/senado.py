@@ -134,17 +134,35 @@ def _normalizar_pagina(html: str, recuadros: dict[str, str]) -> str:
         if p.find("strong") is not None and p.get("align") == "center":
             continue
         marcas: list[str] = []
+        # Una marca puede abarcar varios nodos («<… artículo <a>3</a> de la Ley…>»):
+        # se recorre el texto nodo a nodo con un estado «dentro de la marca».
+        dentro, actual = False, []
         for s in list(p.find_all(string=True)):
-            if "<" not in s:
+            if "<" not in s and not dentro:
                 continue
-            for m in RE_MARCA.finditer(str(s)):
-                if not re.match(r"(?i)\s*ver\b", m.group(1)):
-                    marcas.append(m.group(1).strip())
-            s.replace_with(RE_MARCA.sub(" ", str(s)))
+            fuera, txt, i = [], str(s), 0
+            while i < len(txt):
+                ch = txt[i]
+                if not dentro and ch == "<":
+                    dentro, actual = True, []
+                elif dentro and ch == ">":
+                    dentro = False
+                    marca = "".join(actual).strip()
+                    if len(marca) >= 3 and not re.match(r"(?i)ver\b", marca):
+                        marcas.append(marca)
+                elif dentro:
+                    actual.append(ch)
+                else:
+                    fuera.append(ch)
+                i += 1
+            s.replace_with("".join(fuera))
+        # Después del párrafo: si es la cabecera de un artículo, la nota es de ese artículo.
+        ancla = p
         for texto in marcas:
             nota = sopa.new_tag("p")
             nota.string = f"({texto})"
-            p.insert_before(nota)
+            ancla.insert_after(nota)
+            ancla = nota
     return str(sopa)
 
 

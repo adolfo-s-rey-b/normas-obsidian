@@ -61,7 +61,8 @@ RE_TOKEN = re.compile(
     r"ordinal(?:es)?|par[áa]grafos?|cap[íi]tulos?|t[íi]tulos?|libros?|secci[óo]n(?:es)?|"
     r"leyes|ley|decretos?|sentencias?|n[uú]meros?|n[°º]|resoluci[óo]n(?:es)?|"
     r"inc\.|num\.|lit\.|par\.|ord\.|parag\.)(?=\W|$))"
-    r"|(?P<num>(?<![\w.,$-])\d+(?-i:[A-NP-Z])?(?:-\d+)?)(?=[º°]|o\b|\b)(?![.,]\d)",
+    r"|(?P<num>(?<![\w.,$-])\d{1,2}(?:\.\d{1,2}){2,9}(?![.,]?\d)"  # decretos únicos: 2.2.1.2.3
+    r"|(?<![\w.,$-])\d+(?-i:[A-NP-Z])?(?:-\d+)?(?=[º°]|o\b|\b)(?![.,]\d))",
     re.I,
 )
 # Lo que puede separar dos números de una misma enumeración de artículos.
@@ -194,12 +195,30 @@ def _enlazar_zona(zona: str, etiqueta: str | None, modo: str = "art") -> tuple[s
     return "".join(out), modo
 
 
-def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry) -> str:
-    """Inserta wikilinks en las referencias a artículos de ``texto``."""
+def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry, *, heredar: bool = False,
+            solo_punteados: bool = False) -> str:
+    """Inserta wikilinks en las referencias a artículos de ``texto``.
+
+    ``heredar`` (para notas): un «artículo N» sin norma a continuación se refiere
+    a la última norma nombrada antes en el texto («Decreto 1510 de 2013,
+    artículo 4», «Ley 80 de 1993; Art. 6»).
+    ``solo_punteados`` (decretos únicos): sin marcador, solo se enlazan a la
+    norma actual los números punteados (2.2.1.1); un «artículo 4» suelto no es suyo.
+    """
     salida, pos = [], 0
+    previa: str | None = None  # última norma nombrada fuera de las cláusulas ya procesadas
     for m in RE_REF.finditer(texto):
         if m.start() < pos:
             continue
+        if heredar:
+            # Solo normas nombradas muy cerca («Decreto 1510 de 2013, artículo 4») o en
+            # cadena inmediata («Art. 6; Art. 7»); en prosa larga no se hereda.
+            tramo = texto[pos:m.start()]
+            cerca = [e for (_, b, e) in marcadores(tramo, etiqueta_actual, reg) if len(tramo) - b <= 60]
+            if cerca:
+                previa = cerca[-1]
+            elif len(tramo) > 25:
+                previa = None
         if m.group().isupper() and re.match(r"\s+\d+[A-Z]?(?:-\d+)?\s*[º°o]?\s*\.\s", texto[m.end():]):
             continue
         salida.append(texto[pos:m.end()])
@@ -207,6 +226,20 @@ def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry) -> str:
         fin, natural = _clausula_fin(texto, ini)
         clausula = texto[ini:fin]
         marcs = marcadores(clausula, etiqueta_actual, reg)
+        if not marcs and heredar:
+            # En notas, sin norma explícita ni heredada cercana no se enlaza (suelen ser
+            # citas de sentencias o concordancias de otra norma).
+            zona_enl = _enlazar_zona(clausula, previa, "art")[0] if previa is not None else clausula
+            salida.append(zona_enl)
+            pos = fin
+            continue
+        if not marcs and solo_punteados:
+            clausula = re.sub(r"(?<![\w.])(\d+(?:\.\d+){2,})", lambda z: _wikilink(z.group(1), etiqueta_actual)
+                              if etiqueta_actual else z.group(1), clausula, count=0) if re.search(
+                r"^\s*\d+(?:\.\d+){2,}", clausula) else clausula
+            salida.append(clausula)
+            pos = fin
+            continue
         if not marcs:
             # «(C. P. artículo 188)»: abreviatura del código justo antes.
             ma = RE_ABREV_PREVIA.search(texto, max(0, m.start() - 14), m.start())
@@ -239,6 +272,8 @@ def enlazar(texto: str, etiqueta_actual: str | None, reg: Registry) -> str:
             zona_enl, modo = _enlazar_zona(clausula[cursor:a], etq, modo)
             partes.append(zona_enl + clausula[a:b])
             cursor, modo = b, "art"
+        if marcs and marcs[-1][2] is not None:
+            previa = marcs[-1][2]
         cola = clausula[cursor:]
         if not marcs:
             cola, _ = _enlazar_zona(cola, etiqueta_actual, "art")
@@ -268,13 +303,13 @@ def objetivo_de_reforma(texto: str, etiqueta_actual: str | None, reg: Registry) 
     return None
 
 
-def enlazar_bloque(texto: str, etiqueta: str | None, reg: Registry) -> tuple[str, str | None]:
+def enlazar_bloque(texto: str, etiqueta: str | None, reg: Registry, **opciones) -> tuple[str, str | None]:
     """Enlaza un párrafo y detecta si abre una cita de otra norma.
 
     Devuelve ``(texto enlazado, etiqueta para los párrafos siguientes o None)``.
     """
     obj = objetivo_de_reforma(texto, etiqueta, reg)
     if not obj:
-        return enlazar(texto, etiqueta, reg), None
+        return enlazar(texto, etiqueta, reg, **opciones), None
     destino, corte = obj
-    return enlazar(texto[:corte], etiqueta, reg) + enlazar(texto[corte:], destino, reg), destino
+    return enlazar(texto[:corte], etiqueta, reg, **opciones) + enlazar(texto[corte:], destino, reg), destino

@@ -30,7 +30,6 @@ SENADO_CONOCIDAS = {
     "CCo": "codigo_comercio.html",
     "CST": "codigo_sustantivo_trabajo.html",
     "ET": "estatuto_tributario.html",
-    "CPT": "codigo_procedimiento_laboral.html",
     "CC": "codigo_civil.html",
 }
 
@@ -62,7 +61,8 @@ def texto_articulos(norma: Norma) -> dict[str, str]:
 
 RE_REFORMA_NOTA = re.compile(
     r"(?:modificad|adicionad|derogad|sustituid|subrogad)\w*\s+por\s+(?:el\s+|los\s+)?(?:art[íi]culo|art\.)?"
-    r"[^.;]{0,80}?\b((?:Ley|Decreto|Acto Legislativo)\s+(?:Ley\s+|Nacional\s+)?(\d+)\s+de\s+(\d{4}))",
+    r"[^.;]{0,80}?\b((?:Ley|Decreto|Acto Legislativo)\s+(?:Ley\s+|Nacional\s+)?(\d+)\s+de\s+"
+    r"(?:\d{1,2}\s+de\s+[a-záéíóú]+\s+de\s+)?(\d{4}))",
     re.I,
 )
 
