@@ -10,7 +10,7 @@ la documentación van **en español**.
 # Python: usar SIEMPRE el venv (el python3 del sistema no tiene bs4/pytest)
 cd extractor
 .venv/bin/pip install -e ".[dev]"       # si no existe: ~/anaconda3/bin/python -m venv .venv
-.venv/bin/python -m pytest -q           # 48 pruebas, ~3 s
+.venv/bin/python -m pytest -q           # 55 pruebas, ~3 s
 .venv/bin/normas-cli todas              # regenera biblioteca/ (HTML cacheado en ~/.cache/normas-obsidian/html)
 .venv/bin/normas-cli verificar          # debe terminar en «✓ biblioteca sin errores»
 .venv/bin/normas-cli catalogo           # regenera catalogo/ (después de cada `todas`)

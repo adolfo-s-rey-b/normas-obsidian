@@ -30,6 +30,14 @@ norma y enlázalas con `[[art. 22 CGP]]`.
 | Repositorio | `adolfo-s-rey-b/normas-obsidian` | Repositorio de GitHub que publica el catálogo. |
 | Rama | `main` | |
 | Carpeta del catálogo | `catalogo` | |
+| URL base del catálogo | *(vacío)* | Avanzado: usar un espejo o servidor propio en lugar de GitHub. |
+
+Cada norma recuerda la carpeta donde se instaló: si cambias la carpeta destino,
+«Actualizar» sigue actualizándola en su sitio.
+
+Las normas grandes traen miles de notas (el Código Civil, casi 3.000). Tras la
+descarga, Obsidian y plugins como Dataview pueden tardar unos minutos en
+indexarlas; mientras tanto, búsquedas y consultas pueden salir incompletas.
 
 ## Uso de red
 

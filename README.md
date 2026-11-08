@@ -267,7 +267,7 @@ La verificación TLS **nunca** se desactiva.
 ## Desarrollo y pruebas
 
 ```bash
-cd extractor && pytest -q                 # 48 pruebas sobre HTML real del DAFP
+cd extractor && pytest -q                 # 55 pruebas sobre HTML real del DAFP y del Senado
 cd plugin-obsidian && npm ci && npm run build && npm test
 ```
 
@@ -275,19 +275,45 @@ La CI de GitHub Actions ejecuta ambas y `normas-cli verificar` sobre la
 biblioteca. Los fixtures se describen en
 [`extractor/tests/README.md`](extractor/tests/README.md).
 
-Para publicar una versión del plugin: `cd plugin-obsidian && npm version 0.2.1`
-(actualiza `manifest.json` y `versions.json`), y luego empujar el tag `0.2.1`;
+### Pruebas de punta a punta en Obsidian real
+
+`e2e/` prueba el plugin en una instalación real de Obsidian (1.15) a través de
+su CLI, con capturas de pantalla e informe. Usa un vault y una configuración
+**aislados**: nunca abre ni modifica tu vault ni tu configuración. Con
+`VAULT_ORIGEN` copia (solo lectura) una carpeta de tus notas para medir cuántos
+de tus enlaces `[[art. N X]]` resuelven.
+
+```bash
+export E2E_DIR=/tmp/normas-e2e
+VAULT_ORIGEN=~/ruta/a/tu/vault e2e/preparar.sh   # vault de pruebas (+ copia de Derecho/)
+e2e/servir.sh &                                  # catálogo local en http://127.0.0.1:8765
+e2e/obsidian.sh &                                # Obsidian aislado (cierra tu Obsidian antes)
+node e2e/run.mjs                                 # 14 escenarios → $E2E_DIR/informe.md
+```
+
+Escenarios: arranque sin errores, descarga por la paleta, descarga de las 19
+normas, resolución de enlaces de tus notas, visualización (tachados, callouts,
+tablas, índices), vista previa, navegación, propiedades y Dataview, búsqueda,
+actualización con confirmación, errores de red y de versión, ajustes y vista
+móvil. Resultados medidos (Obsidian 1.15, Linux): las 19 normas (12.127 notas)
+se instalan en unos 2,5 minutos; de 1.315 enlaces a artículos en un vault real
+de apuntes de Derecho, 1.200 resuelven. Tras instalar miles de notas, Obsidian
+y Dataview tardan unos minutos en indexarlas.
+
+Para publicar una versión del plugin: `cd plugin-obsidian && npm version X.Y.Z`
+(actualiza `manifest.json` y `versions.json`), y luego empujar el tag `X.Y.Z`;
 el workflow `release.yml` compila y crea el release con `main.js` y
 `manifest.json`.
 
 ## Pendientes
 
-- **Código Civil**: no está en el Gestor Normativo del DAFP. Hace falta un
-  adaptador para otra fuente oficial (Secretaría del Senado o SUIN-Juriscol).
-- **Leyes muy citadas** aún fuera de la biblioteca: Ley 5 de 1992, Ley 1819 de
-  2016, Ley 2010 de 2019, Ley 80 de 1993, Ley 50 de 1990… (`normas-cli
-  verificar` lista las más enlazadas). Basta con agregarlas: los enlaces ya
-  existentes resolverán solos.
+- **Fuente más reciente por norma**: `normas-cli comparar` muestra que el
+  Senado incorpora reformas que el DAFP aún no tiene (p. ej. la Ley 2445 de
+  2025 en el CGP) y viceversa. Falta decidir la fuente de cada norma.
+- **Normas citadas aún fuera de la biblioteca**: decretos únicos con
+  numeración `2.2.1.2…` (Decreto 1082 de 2015, Decreto 2555 de 2010), Ley 1150
+  de 2007 (no está en el DAFP), Ley 5 de 1992, Ley 1819 de 2016… (`normas-cli
+  verificar` lista las más enlazadas).
 - **Constitución**: los capítulos 5 a 7 de las disposiciones transitorias de
   1991 no tienen encabezado en la fuente; esos transitorios quedan directamente
   bajo «Disposiciones transitorias».
