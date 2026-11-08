@@ -144,10 +144,17 @@ function fijarVentana() {
 }
 fijarVentana();
 
-// Con una configuración nueva Obsidian abre Preferencias al arrancar; mientras esté
-// abierta, los modales y avisos se dibujan en esa ventana y no en la principal.
-js(`(()=>{try{app.setting.close()}catch(e){}return 1})()`);
-await dormir(800);
+// Con una configuración nueva Obsidian abre Preferencias unos segundos después de
+// arrancar; mientras esté abierta, los modales y avisos se dibujan en esa ventana.
+async function cerrarPreferencias() {
+  for (let k = 0; k < 20; k++) {
+    js(`(()=>{try{app.setting.close()}catch(e){}return 1})()`);
+    await dormir(700);
+    const abierta = spawnSync(join(AQUI, "ventana.sh"), ["Preferencias"], { encoding: "utf8" }).stdout.trim();
+    if (!abierta && k >= 2) return;
+  }
+}
+await cerrarPreferencias();
 
 if (corre("arranque")) await escenario("1. Arranque", async () => {
   const habilitados = ob("plugins:enabled", "filter=community");
@@ -169,6 +176,7 @@ if (corre("descarga-ui")) await escenario("3. Descarga por la interfaz (Ley 1996
   // Punto de partida limpio: sin normas descargadas.
   js(`(async()=>{for(const c of ["Normas","Biblioteca jurídica","Pruebas"]){const f=app.vault.getAbstractFileByPath(c);if(f)await app.vault.delete(f,true)}${PLUGIN}.settings.instaladas={};await ${PLUGIN}.saveSettings();return 1})()`);
   await dormir(1000);
+  await cerrarPreferencias();
   ob("command", "id=normas-colombianas:descargar-norma");
   let sugerencias = 0;
   for (let k = 0; k < 30 && !(sugerencias > 0); k++) {
