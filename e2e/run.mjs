@@ -60,6 +60,9 @@ function captura(nombre) {
 async function abrir(ruta, { lectura = false } = {}) {
   ob("open", `path=${ruta}`);
   await dormir(700);
+  // Dar el foco a la pestaña de la nota (no al panel de búsqueda u otro lateral).
+  js(`(()=>{const l=app.workspace.getLeavesOfType("markdown").find(x=>x.view.file&&x.view.file.path===${JSON.stringify(ruta)});if(l)app.workspace.setActiveLeaf(l,{focus:true});return 1})()`);
+  await dormir(300);
   const modo = js("app.workspace.activeLeaf.view.getMode && app.workspace.activeLeaf.view.getMode()");
   if ((lectura && modo !== "preview") || (!lectura && modo === "preview")) {
     ob("command", "id=markdown:toggle-preview");
@@ -73,6 +76,7 @@ function registrar(escenario, ok, detalle, capturas = []) {
   console.log(`${ok ? "✓" : "✗"} ${escenario}: ${detalle}`);
 }
 async function escenario(nombre, fn) {
+  fijarVentana();
   try {
     await fn();
   } catch (e) {
@@ -110,27 +114,40 @@ async function esperarDom(selector, maxMs = 15000) {
 }
 const existe = (ruta) => !/not found|no existe/i.test(ob("file", `path=${ruta}`)) && ob("file", `path=${ruta}`) !== "";
 
-/** Hace scroll hasta el final de la vista de lectura (el renderizado es diferido). */
+/**
+ * Hace scroll hasta el final de la vista de lectura (el renderizado es diferido)
+ * y espera a que exista el pie de navegación («↑ …»).
+ */
 async function alFinal() {
-  for (let k = 0; k < 4; k++) {
-    js(`(()=>{const v=document.querySelector(".workspace-leaf.mod-active .markdown-preview-view");v.scrollTop=v.scrollHeight-v.clientHeight;return 1})()`);
-    await dormir(500);
+  for (let k = 0; k < 20; k++) {
+    const r = js(`(()=>{const v=document.querySelector(".workspace-leaf.mod-active .markdown-preview-view");if(!v)return "sin-vista";v.scrollTop=v.scrollHeight-v.clientHeight;return [...v.querySelectorAll("a.internal-link")].some(a=>/^Capítulo|^Título|^Libro|^Sección|^Parte/.test(a.textContent)&&v.scrollTop>0)?"pie":"no"})()`);
+    if (r === "pie" && k >= 1) return;
+    await dormir(600);
   }
 }
 const SEL_ENLACES = ".workspace-leaf.mod-active .markdown-preview-view a.internal-link";
 
 /** Busca la ruta de una nota de la biblioteca por nombre. */
 const rutaDe = (nombre) =>
-  js(`(app.metadataCache.getFirstLinkpathDest(${JSON.stringify(nombre)}, "")||{}).path||""`);
+  jsJSON(`(app.metadataCache.getFirstLinkpathDest(${JSON.stringify(nombre)}, "")||{}).path||""`);
 
 // ---------------------------------------------------------------------------
 
 const elegidos = new Set(process.argv.slice(2));
 const corre = (id) => elegidos.size === 0 || elegidos.has(id);
 
-// Ventana de tamaño fijo para capturas comparables.
-ob("dev:cdp", "method=Emulation.setDeviceMetricsOverride",
-  'params={"width":1400,"height":900,"deviceScaleFactor":1,"mobile":false}');
+// Ventana de tamaño fijo para capturas comparables (se pierde al abrir/cerrar otras
+// ventanas o la emulación móvil, por eso se reaplica en cada escenario).
+function fijarVentana() {
+  ob("dev:cdp", "method=Emulation.setDeviceMetricsOverride",
+    'params={"width":1400,"height":900,"deviceScaleFactor":1,"mobile":false}');
+}
+fijarVentana();
+
+// Con una configuración nueva Obsidian abre Preferencias al arrancar; mientras esté
+// abierta, los modales y avisos se dibujan en esa ventana y no en la principal.
+js(`(()=>{try{app.setting.close()}catch(e){}return 1})()`);
+await dormir(800);
 
 if (corre("arranque")) await escenario("1. Arranque", async () => {
   const habilitados = ob("plugins:enabled", "filter=community");
@@ -181,6 +198,7 @@ if (corre("descarga-ui")) await escenario("3. Descarga por la interfaz (Ley 1996
 });
 
 if (corre("descarga-todas")) await escenario("4. Descarga de todas las normas", async () => {
+  ob("dev:errors", "clear"); // solo cuentan los errores de este escenario
   const cat = jsJSON(`(await ${PLUGIN}.leerCatalogo()).normas.map(n=>({c:n.carpeta,notas:n.notas,mb:+(n.bytes/1048576).toFixed(1)}))`);
   const filas = [];
   let todoOk = true;
@@ -247,14 +265,22 @@ if (corre("vistas")) await escenario("6. Visualización de notas", async () => {
 
 if (corre("vista-previa")) await escenario("7. Vista previa al pasar el ratón", async () => {
   await abrir(rutaDe("art. 22 CGP"), { lectura: true });
-  await alFinal();
-  const r = jsJSON(`(()=>{const a=[...document.querySelectorAll(${JSON.stringify(SEL_ENLACES)})].find(x=>x.textContent==="art. 23 CGP");if(!a)return null;const b=a.getBoundingClientRect();return {x:Math.round(b.x+b.width/2),y:Math.round(b.y+b.height/2)}})()`);
-  if (!r) return registrar("7. Vista previa al pasar el ratón", false, "no se encontró el enlace «art. 23 CGP» del pie");
+  let r = null;
+  let visibles = "";
+  for (let k = 0; k < 8 && !r; k++) {
+    await alFinal();
+    r = jsJSON(`(()=>{const a=[...document.querySelectorAll(${JSON.stringify(SEL_ENLACES)})].find(x=>x.textContent==="art. 23 CGP");if(!a)return null;const b=a.getBoundingClientRect();return {x:Math.round(b.x+b.width/2),y:Math.round(b.y+b.height/2)}})()`);
+    if (!r) visibles = js(`[...document.querySelectorAll(${JSON.stringify(SEL_ENLACES)})].map(a=>a.textContent).join(", ")`);
+  }
+  if (!r) return registrar("7. Vista previa al pasar el ratón", false, `no se encontró el enlace «art. 23 CGP» del pie (visibles: ${visibles})`);
   ob("dev:cdp", "method=Input.dispatchMouseEvent", `params={"type":"mouseMoved","x":${r.x - 40},"y":${r.y}}`);
   ob("dev:cdp", "method=Input.dispatchMouseEvent", `params={"type":"mouseMoved","x":${r.x},"y":${r.y}}`);
-  await dormir(1500);
-  const popover = cuenta(".hover-popover");
-  const texto = popover ? ob("dev:dom", "selector=.hover-popover h2", "text") : "";
+  let popover = 0;
+  for (let k = 0; k < 12 && !popover; k++) {
+    await dormir(500);
+    popover = cuenta(".hover-popover");
+  }
+  const texto = popover ? await esperarDom(".hover-popover h2", 8000) : "";
   const cap = captura("07-vista-previa");
   ob("dev:cdp", "method=Input.dispatchMouseEvent", 'params={"type":"mouseMoved","x":5,"y":450}');
   registrar("7. Vista previa al pasar el ratón", popover > 0 && /Artículo 23/.test(texto),
@@ -281,12 +307,21 @@ if (corre("navegacion")) await escenario("8. Navegación", async () => {
 if (corre("propiedades")) await escenario("9. Propiedades y Dataview", async () => {
   const vig = ob("property:read", "name=vigencia", "file=art. 22 CGP");
   const epi = ob("property:read", "name=epigrafe", "file=art. 1494 CC");
+  // Dataview indexa las notas nuevas por su cuenta y tarda minutos con miles de notas.
+  for (let k = 0; k < 120; k++) {
+    const r = js(`"dv="+(app.plugins.plugins.dataview.index.pages.size>=app.vault.getMarkdownFiles().length-5)`);
+    if (r.includes("dv=true")) break;
+    await dormir(5000);
+  }
   const ruta = "Pruebas/Derogados CGP.md";
   ob("create", `path=${ruta}`, "overwrite",
     'content=```dataview\\nTABLE epigrafe, vigencia FROM #normas/cgp\\nWHERE tipo = "articulo" AND vigencia = "derogado"\\nSORT file.name ASC\\n```');
   await abrir(ruta, { lectura: true });
-  await dormir(2500);
-  const filas = cuenta(".dataview.table-view-table tbody tr");
+  let filas = 0;
+  for (let k = 0; k < 20 && filas === 0; k++) {
+    await dormir(1000);
+    filas = cuenta(".dataview.table-view-table tbody tr");
+  }
   const cap = captura("09-dataview");
   registrar("9. Propiedades y Dataview", vig === "parcialmente derogado" && !!epi && filas > 0,
     `vigencia(art. 22 CGP)=${vig}; epígrafe(art. 1494 CC)=${epi}; Dataview: ${filas} artículos derogados del CGP`, [cap]);
@@ -313,6 +348,8 @@ if (corre("busqueda")) await escenario("10. Búsqueda", async () => {
     detalle.push(`${q} → ${n} archivos (${primero})`);
     ok &&= n > 0;
   }
+  // Dejar la búsqueda limpia: una consulta abierta sobre 12.000 notas consume CPU.
+  js(`(()=>{for(const l of app.workspace.getLeavesOfType("search"))l.view.setQuery("");return 1})()`);
   registrar("10. Búsqueda", ok && /art\. 22 CGP/.test(detalle[1]), detalle.join("; "), caps);
 });
 

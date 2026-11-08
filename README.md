@@ -60,6 +60,15 @@ sigla se citan por su identificador: `[[art. 3 Ley 80 de 1993]]`.
 3. **Generarla tú mismo** con el CLI (cualquier norma del DAFP, directo a tu
    *vault*). Ver más abajo.
 
+### Plugin: uso de red y datos
+
+El plugin se conecta **solo** a `raw.githubusercontent.com` (o a la URL base del
+catálogo que configures) para leer `catalogo/index.json` y el paquete de la norma
+elegida, y **únicamente** cuando ejecutas uno de sus comandos. No envía datos de
+tu vault ni tuyos, no tiene telemetría y no se conecta en segundo plano. Escribe
+solo dentro de la carpeta destino (por defecto `Normas/`) y pide confirmación
+antes de reemplazar una norma ya descargada.
+
 ## Estructura del repositorio
 
 ```text
