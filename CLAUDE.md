@@ -1,7 +1,8 @@
 # CLAUDE.md — normas-obsidian
 
-Monorepo: extractor Python (DAFP → notas Obsidian) + biblioteca generada +
-catálogo + plugin de Obsidian. Todo el código, los comentarios, los mensajes y
+Monorepo: extractor Python (DAFP + Senado → notas Obsidian, consolidadas por
+artículo) + biblioteca generada (32 normas) + catálogo + plugin de Obsidian
+(versión publicada: 0.4.1). Todo el código, los comentarios, los mensajes y
 la documentación van **en español**.
 
 ## Comandos
@@ -15,8 +16,8 @@ cd extractor
 .venv/bin/normas-cli verificar          # debe terminar en «✓ biblioteca sin errores»
 .venv/bin/normas-cli catalogo           # regenera catalogo/ (después de cada `todas`)
 
-# Plugin
-cd plugin-obsidian && npm ci && npm run build && npm test
+# Plugin (lint = reglas del escáner de la tienda de Obsidian; también en la CI)
+cd plugin-obsidian && npm ci && npm run lint && npm run build && npm test
 
 # Comparar fuentes (DAFP vs Senado)
 .venv/bin/normas-cli comparar CGP --salida /tmp/cgp.md
@@ -27,6 +28,12 @@ VAULT_ORIGEN=~/Documentos/Obsidian/adolfo-s-rey-b e2e/preparar.sh   # copia Dere
 e2e/servir.sh &                      # catálogo local en http://127.0.0.1:8765/catalogo
 e2e/obsidian.sh &                    # app aislada (XDG_CONFIG_HOME propio)
 node e2e/run.mjs [escenario …]       # informe en $E2E_DIR/informe.md + capturas
+# Contra GitHub: tras preparar.sh, data.json = {"destino":"Normas"} (sin urlBase)
+# y, para probar lo publicado, el main.js del release en la carpeta del plugin.
+
+# Release (tag sin «v»; release.yml adjunta main.js y manifest.json)
+cd plugin-obsidian && npm version X.Y.Z --no-git-tag-version   # package, manifest, versions
+git commit … && git push && (CI verde) && git tag -a X.Y.Z -m "…" && git push origin X.Y.Z
 ```
 
 Flujo al cambiar el parser o el render: pytest → `todas` → `verificar` →
@@ -63,7 +70,22 @@ separado.
 - `render()` reemplaza la carpeta completa de la norma; se niega a pisar una
   carpeta que no tenga `<ETIQUETA>.md` o `art. INTRO *.md`.
 - `manifest.json`/`versions.json` viven en la raíz (requisito de la tienda de
-  Obsidian). Tags de release sin «v» (`0.2.0`).
+  Obsidian). Tags de release sin «v» (`0.4.1`).
+- `minAppVersion` es 1.6.6: APIs de Obsidian ≥ 1.13 (`setDestructive`,
+  `getSettingDefinitions`…) solo con detección en tiempo de ejecución.
+  `npm run lint` no admite desactivar `@typescript-eslint/no-deprecated`.
+- Commits a nombre de `adolfo-s-rey-b` (email noreply de GitHub). Releases y envío
+  a la tienda solo con confirmación directa del usuario.
+
+## Tienda de Obsidian
+
+- Desde mayo de 2026 el envío se hace en **community.obsidian.md** (cuenta de
+  Obsidian del usuario + GitHub vinculado); `obsidianmd/obsidian-releases` es solo un
+  espejo y **no acepta PRs**. Solo el usuario puede enviarlo.
+- El portal lee `manifest.json` de `main` e instala desde el release con el mismo
+  tag. Revisión automática (eslint-plugin-obsidianmd, malware, políticas) en cada
+  versión; si falla, el plugin sale de la búsqueda en 24 h. *Preview scan* en el panel.
+- La página del plugin en la tienda muestra el `README.md` de la raíz.
 
 ## Particularidades del DAFP (aprendidas a la mala)
 
@@ -100,7 +122,12 @@ separado.
   retienen el bloqueo de instancia única y la app ya no arranca (bloqueo mutuo).
 - Para cerrar la instancia de pruebas, matar el PID de
   `/usr/lib/electron43/electron /usr/lib/obsidian/app.asar` (no usar `pkill -f`
-  con ese patrón: coincide con el propio shell).
+  ni `pgrep -f … | kill` con patrones que aparezcan en el propio comando: matan el shell).
+- Con la biblioteca completa (~18.000 notas) Obsidian tarda minutos en indexar y el
+  CLI responde vacío mientras tanto: `run.mjs` reintenta (`jsJSON`, `contarNotas`).
+  Un resultado vacío de `eval` se imprime como «=>» a secas.
+- `dev:screenshot` puede devolver un fotograma viejo si la ventana no está visible:
+  verificar por el DOM (`dev:dom`, `eval`) además de la captura.
 
 ## Fixtures
 

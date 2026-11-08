@@ -35,19 +35,29 @@ norma y enlázalas con `[[art. 22 CGP]]`.
 Cada norma recuerda la carpeta donde se instaló: si cambias la carpeta destino,
 «Actualizar» sigue actualizándola en su sitio.
 
-Las normas grandes traen miles de notas (el Código Civil, casi 3.000). Tras la
+Las normas grandes traen miles de notas (el Decreto 2555 de 2010, más de 3.200;
+el Código Civil, casi 3.000). Descargar las 32 normas de la biblioteca (unas 18.000
+notas, 50 MB) toma unos 7 minutos. Tras la
 descarga, Obsidian y plugins como Dataview pueden tardar unos minutos en
 indexarlas; mientras tanto, búsquedas y consultas pueden salir incompletas.
 
 ## Uso de red
 
 Para cumplir las [directrices de Obsidian](https://docs.obsidian.md/Developer+policies):
-el plugin se conecta **solo** a `raw.githubusercontent.com`, para leer
+el plugin se conecta **solo** a `raw.githubusercontent.com` (o a la URL base del
+catálogo, si la configuras), para leer
 `catalogo/index.json` y el paquete JSON de la norma que elijas, y **únicamente**
 cuando ejecutas uno de sus comandos. No envía datos del vault ni del usuario,
 no tiene telemetría y no se conecta en segundo plano.
 
-## Instalación manual
+## Instalación
+
+- **Tienda de Obsidian**: *Ajustes → Plugins de la comunidad → Explorar* →
+  «Normas Colombianas» (cuando la tienda lo apruebe).
+- **BRAT**: añade el repositorio `adolfo-s-rey-b/normas-obsidian` en el plugin
+  [BRAT](https://obsidian.md/plugins?id=obsidian42-brat).
+
+### Instalación manual
 
 1. Descarga `main.js` y `manifest.json` del
    [último release](https://github.com/adolfo-s-rey-b/normas-obsidian/releases).

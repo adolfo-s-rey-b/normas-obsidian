@@ -13,7 +13,8 @@
 | `et_i6533_recorte.html` | Estatuto Tributario (extracto) | norma «envoltura» (Decreto 624 de 1989), numeración `N-M` |
 | `cco_i41102_recorte.html` | Código de Comercio (extracto) | rúbrica en `<strong>` separado, dos artículos en un mismo `<p>` |
 | `cst_i199983_recorte.html` | CST (extracto) | numerales en listas `<ol>/<li>` |
+| `senado_cc_pr001_recorte.html` + `.js` | Código Civil, Senado (extracto) | adaptador del Senado: recuadros de vigencia en JS, `<S>` tachado, normalización a HTML tipo DAFP |
 
 Los extractos se generan con `recortar_fixture.py` a partir del HTML cacheado en
 `~/.cache/normas-obsidian/html/` (lo crea `normas-cli todas`). Son HTML reales
-del DAFP, recortados por tramos de párrafos completos.
+del DAFP (y del Senado), recortados por tramos de párrafos completos.

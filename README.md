@@ -16,9 +16,12 @@ Convierte normativa colombiana (códigos, leyes y decretos) en notas de
 - **Navegación**: migas de pan, artículo anterior/siguiente y frontmatter con
   la ubicación jerárquica, listo para Dataview.
 
-La fuente es el Gestor Normativo del **Departamento Administrativo de la
-Función Pública (DAFP)**:
-`https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=<id>`.
+Las fuentes son el Gestor Normativo del **Departamento Administrativo de la
+Función Pública (DAFP)**
+(`https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=<id>`) y la
+base documental de la **Secretaría General del Senado**
+(`http://www.secretariasenado.gov.co/senado/basedoc/…`). Cada norma se consolida a
+partir de ambas, artículo por artículo, con la versión más actualizada.
 
 ## Normas disponibles
 
@@ -66,7 +69,10 @@ tiene el alias `CN`; las leyes y decretos sin sigla se citan por su identificado
 ## Tres formas de usarlo
 
 1. **Plugin de Obsidian** (recomendado): instala «Normas Colombianas» y usa el
-   comando *Descargar norma de la biblioteca*. Ver
+   comando *Descargar norma de la biblioteca*. Mientras se aprueba en la tienda de
+   Obsidian, se instala a mano desde el
+   [último release](https://github.com/adolfo-s-rey-b/normas-obsidian/releases/latest)
+   o con [BRAT](https://obsidian.md/plugins?id=obsidian42-brat). Ver
    [`plugin-obsidian/README.md`](plugin-obsidian/README.md).
 2. **Copiar a mano**: copia la carpeta de la norma desde [`biblioteca/`](biblioteca/)
    a tu *vault*.
@@ -93,6 +99,7 @@ normas-obsidian/
 ├── biblioteca/       normas convertidas, listas para copiar a un vault
 ├── catalogo/         index.json + un paquete JSON por norma (lo usa el plugin)
 ├── plugin-obsidian/  código del plugin (TypeScript)
+├── e2e/              pruebas de punta a punta en Obsidian real (CLI de Obsidian)
 ├── manifest.json     manifest del plugin (en la raíz, como exige Obsidian)
 └── versions.json
 ```
@@ -283,11 +290,12 @@ La verificación TLS **nunca** se desactiva.
 
 ```bash
 cd extractor && pytest -q                 # 58 pruebas sobre HTML real del DAFP y del Senado
-cd plugin-obsidian && npm ci && npm run build && npm test
+cd plugin-obsidian && npm ci && npm run lint && npm run build && npm test
 ```
 
-La CI de GitHub Actions ejecuta ambas y `normas-cli verificar` sobre la
-biblioteca. Los fixtures se describen en
+`npm run lint` aplica `eslint-plugin-obsidianmd`, las mismas reglas que usa la
+revisión automática de la tienda de Obsidian. La CI de GitHub Actions ejecuta todo
+lo anterior y `normas-cli verificar` sobre la biblioteca. Los fixtures se describen en
 [`extractor/tests/README.md`](extractor/tests/README.md).
 
 ### Pruebas de punta a punta en Obsidian real
@@ -306,22 +314,45 @@ e2e/obsidian.sh &                                # Obsidian aislado (cierra tu O
 node e2e/run.mjs                                 # 14 escenarios → $E2E_DIR/informe.md
 ```
 
-Escenarios: arranque sin errores, descarga por la paleta, descarga de las 19
+Para probar **contra GitHub** (el catálogo publicado y los ajustes por defecto), tras
+`preparar.sh` escribe `{"destino":"Normas"}` en
+`$E2E_DIR/vault/.obsidian/plugins/normas-colombianas/data.json` (sin `urlBase`) y,
+si quieres probar exactamente lo publicado, copia ahí el `main.js` del release.
+`servir.sh` solo hace falta entonces para el escenario `errores`.
+
+Escenarios: arranque sin errores, descarga por la paleta, descarga de todas las
 normas, resolución de enlaces de tus notas, visualización (tachados, callouts,
 tablas, índices), vista previa, navegación, propiedades y Dataview, búsqueda,
 actualización con confirmación, errores de red y de versión, ajustes y vista
-móvil. Resultados medidos (Obsidian 1.15, Linux): las 19 normas (12.127 notas)
-se instalan en unos 2,5 minutos; de 1.315 enlaces a artículos en un vault real
-de apuntes de Derecho, 1.200 resuelven. Tras instalar miles de notas, Obsidian
-y Dataview tardan unos minutos en indexarlas.
+móvil. Resultados medidos (Obsidian 1.15, Linux, contra GitHub, 8 de noviembre de
+2026): las 32 normas (17.979 notas, 50 MB) se instalan en unos 7 minutos (el
+Decreto 2555 de 2010, el más grande, en ~100 s); de 1.315 enlaces a artículos en
+un vault real de apuntes de Derecho, 1.234 resuelven (los 81 restantes apuntan a
+normas ausentes o tienen errores de escritura). Tras instalar miles de notas,
+Obsidian y Dataview tardan unos minutos en indexarlas.
 
-Para publicar una versión del plugin: `cd plugin-obsidian && npm version X.Y.Z`
-(actualiza `manifest.json` y `versions.json`), y luego empujar el tag `X.Y.Z`;
-el workflow `release.yml` compila y crea el release con `main.js` y
-`manifest.json`.
+## Publicación
+
+1. **Versión**: `cd plugin-obsidian && npm version X.Y.Z --no-git-tag-version`
+   (actualiza `package.json`, `manifest.json` y `versions.json`), commit y push a
+   `main`, esperar la CI en verde.
+2. **Release**: `git tag -a X.Y.Z -m "Normas Colombianas X.Y.Z" && git push origin X.Y.Z`
+   (sin «v»); el workflow `release.yml` compila y adjunta `main.js` y `manifest.json`.
+3. **Tienda de Obsidian**: desde mayo de 2026 los plugins se envían en
+   [community.obsidian.md](https://community.obsidian.md) (cuenta de Obsidian con
+   GitHub vinculado → panel de desarrollador → elegir este repositorio), ya no por
+   PR a `obsidianmd/obsidian-releases`. El portal lee `manifest.json` de `main`,
+   instala desde el release con el mismo tag y pasa una revisión automática
+   (`eslint-plugin-obsidianmd`, malware, políticas) en cada versión; si una versión
+   falla, el plugin sale de la búsqueda en 24 h. El panel permite un *preview scan*
+   de cualquier rama, tag o commit antes de publicar.
 
 ## Pendientes
 
+- **Tienda de Obsidian**: enviar el plugin en community.obsidian.md (versión 0.4.1
+  publicada y lista; lo hace el titular de la cuenta) y atender la revisión automática.
+- **Ajustes en la búsqueda de Obsidian 1.13+**: implementar `getSettingDefinitions()`
+  (API declarativa) sin romper la compatibilidad con 1.6.6; hoy es solo un aviso del escáner.
 - **Más fuentes**: SUIN-Juriscol sería una tercera fuente para la consolidación.
   Algunas normas solo están en una fuente (Código Civil y varias leyes, solo en el
   Senado; CPT y decretos únicos, solo en el DAFP).
