@@ -61,9 +61,20 @@ cd plugin-obsidian
 npm ci
 npm run build      # genera main.js (comprueba tipos con tsc)
 npm test           # prueba de humo con un vault simulado y el catálogo local
+npm run lint       # reglas de eslint-plugin-obsidianmd (las del escáner de la tienda)
 npm run dev        # compila en modo watch
 ```
 
 `manifest.json` y `versions.json` están en la raíz del repositorio (la tienda de
 Obsidian los busca ahí). `npm version X.Y.Z` los actualiza; al empujar el tag
 `X.Y.Z`, el workflow `release.yml` publica el release.
+
+### Publicación en la tienda
+
+Los plugins se envían en [community.obsidian.md](https://community.obsidian.md)
+(cuenta de Obsidian con GitHub vinculado → panel de desarrollador → elegir este
+repositorio); ya no se hace por PR a `obsidianmd/obsidian-releases`. El portal lee
+`manifest.json` de la rama `main` y descarga los archivos del release cuyo tag
+coincide con la versión. Cada versión pasa por una revisión automática basada en
+`eslint-plugin-obsidianmd`: `npm run lint` (también en la CI) aplica las mismas
+reglas antes de publicar.

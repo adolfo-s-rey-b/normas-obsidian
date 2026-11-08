@@ -103,12 +103,13 @@ export default class NormasPlugin extends Plugin {
   }
 
   async loadSettings() {
-    const datos = (await this.loadData()) ?? {};
+    type Guardados = Partial<NormasSettings> & { branch?: string; bibliotecaDir?: string };
+    const datos = ((await this.loadData()) as Guardados | null) ?? {};
     // Compatibilidad con la versión 0.1 (ajustes «branch» y «bibliotecaDir»).
     if (datos.branch && !datos.rama) datos.rama = datos.branch;
     delete datos.branch;
     delete datos.bibliotecaDir;
-    this.settings = Object.assign({}, DEFAULTS, { instaladas: {} }, datos);
+    this.settings = { ...DEFAULTS, instaladas: {}, ...datos };
   }
 
   async saveSettings() {
@@ -437,14 +438,16 @@ class ConfirmarModal extends Modal {
           this.cerrar(false);
         })
       )
-      .addButton((b) =>
-        b
-          .setButtonText(this.boton)
-          .setWarning()
-          .onClick(() => {
-            this.cerrar(true);
-          })
-      );
+      .addButton((b) => {
+        b.setButtonText(this.boton).onClick(() => {
+          this.cerrar(true);
+        });
+        // Botón destructivo: setDestructive() existe desde Obsidian 1.13; en versiones
+        // anteriores (minAppVersion 1.6.6) se aplica la clase que usaba setWarning().
+        const destructivo: unknown = Reflect.get(b, "setDestructive");
+        if (typeof destructivo === "function") destructivo.call(b);
+        else b.buttonEl.addClass("mod-warning");
+      });
   }
 
   private cerrar(ok: boolean) {

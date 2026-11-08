@@ -38,5 +38,6 @@ jobs:
           cache: npm
           cache-dependency-path: plugin-obsidian/package-lock.json
       - run: npm ci
+      - run: npm run lint   # mismas reglas que el escáner de la tienda de Obsidian
       - run: npm run build
       - run: npm test
