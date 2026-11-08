@@ -276,7 +276,11 @@ export default class NormasPlugin extends Plugin {
       await this.saveSettings();
       new Notice(
         `✓ «${n.nombre}»: ${rutas.length} notas en ${this.carpetaVault(n)}` +
-          (borradas ? ` (${borradas} obsoletas a la papelera)` : "")
+          (borradas ? ` (${borradas} obsoletas a la papelera)` : "") +
+          (rutas.length > 500
+            ? ". Obsidian (y plugins como Dataview) pueden tardar unos minutos en indexar las notas nuevas."
+            : ""),
+        rutas.length > 500 ? 12000 : 5000
       );
       return true;
     }
