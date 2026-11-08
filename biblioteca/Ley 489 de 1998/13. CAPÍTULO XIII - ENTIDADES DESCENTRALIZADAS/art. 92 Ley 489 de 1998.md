@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "92"
-epigrafe: "CALIDAD Y FUNCIONES DEL GERENTE O PRESIDENTE"
+epigrafe: "Calidad y funciones del Gerente o Presidente"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 91 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 92. CALIDAD Y FUNCIONES DEL GERENTE O PRESIDENTE
+## Artículo 92. Calidad y funciones del Gerente o Presidente
 
 El Gerente o Presidente será el representante legal de la correspondiente entidad y cumplirá todas aquellas funciones que se relacionen con la organización y funcionamiento que no se hallen expresamente atribuidas a otra autoridad.
 

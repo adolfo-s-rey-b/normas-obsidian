@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "199"
-epigrafe: "APRECIACIÓN"
+epigrafe: "Apreciación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo VI|CAPÍTULO VI - INDICIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 199. APRECIACIÓN
+## Artículo 199. Apreciación
 
 El funcionario apreciará los indicios en conjunto teniendo en cuenta su gravedad, concordancia y convergencia, y su relación con los medios de prueba que obren en la actuación procesal.
 

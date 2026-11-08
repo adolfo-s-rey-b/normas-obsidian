@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "233"
-epigrafe: "RECURSO CONTRA EL FALLO DE PRIMERA INSTANCIA"
+epigrafe: "Recurso contra el fallo de primera instancia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 233. RECURSO CONTRA EL FALLO DE PRIMERA INSTANCIA
+## Artículo 233. Recurso contra el fallo de primera instancia
 
 Contra el fallo de primera instancia procede el recurso de apelación. Este deberá interponerse en la misma diligencia y se podrá sustentar verbalmente de forma inmediata o por escrito dentro de los cinco (5) días siguientes ante la Secretaría del Despacho.
 

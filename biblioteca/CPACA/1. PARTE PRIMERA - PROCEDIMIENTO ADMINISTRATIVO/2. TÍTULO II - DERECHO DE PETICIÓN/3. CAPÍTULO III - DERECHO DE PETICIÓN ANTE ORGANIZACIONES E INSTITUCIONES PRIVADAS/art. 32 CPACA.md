@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "32"
-epigrafe: "DERECHO DE PETICIÓN ANTE ORGANIZACIONES PRIVADAS PARA GARANTIZAR LOS DERECHOS FUNDAMENTALES"
+epigrafe: "Derecho de petición ante organizaciones privadas para garantizar los derechos fundamentales"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo III|CAPÍTULO III - DERECHO DE PETICIÓN ANTE ORGANIZACIONES E INSTITUCIONES PRIVADAS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 32. DERECHO DE PETICIÓN ANTE ORGANIZACIONES PRIVADAS PARA GARANTIZAR LOS DERECHOS FUNDAMENTALES
+## Artículo 32. Derecho de petición ante organizaciones privadas para garantizar los derechos fundamentales
 
 Toda persona podrá ejercer el derecho de petición para garantizar sus derechos fundamentales ante organizaciones privadas con o sin personería jurídica, tales como sociedades, corporaciones, fundaciones, asociaciones, organizaciones religiosas, cooperativas, instituciones financieras o clubes.
 

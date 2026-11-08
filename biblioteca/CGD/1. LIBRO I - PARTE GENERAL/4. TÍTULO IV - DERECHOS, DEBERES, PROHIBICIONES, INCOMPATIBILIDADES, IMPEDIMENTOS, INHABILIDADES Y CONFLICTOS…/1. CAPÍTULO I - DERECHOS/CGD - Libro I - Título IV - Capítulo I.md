@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 37 CGD|Artículo 37]] — DERECHOS
+- [[art. 37 CGD|Artículo 37]] — Derechos
 
 ---
 ↑ [[CGD - Libro I - Título IV|Título IV]] · [[CGD - Libro I - Título IV - Capítulo II|Capítulo II]] →

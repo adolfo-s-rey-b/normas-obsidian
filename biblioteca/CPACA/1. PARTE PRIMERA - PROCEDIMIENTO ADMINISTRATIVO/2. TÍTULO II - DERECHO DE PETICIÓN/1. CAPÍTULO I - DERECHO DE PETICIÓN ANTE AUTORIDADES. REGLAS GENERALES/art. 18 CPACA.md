@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "18"
-epigrafe: "DESISTIMIENTO EXPRESO DE LA PETICIÓN"
+epigrafe: "Desistimiento expreso de la petición"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 18. DESISTIMIENTO EXPRESO DE LA PETICIÓN
+## Artículo 18. Desistimiento expreso de la petición
 
 Los interesados podrán desistir en cualquier tiempo de sus peticiones, sin perjuicio de que la respectiva solicitud pueda ser nuevamente presentada con el lleno de los requisitos legales, pero las autoridades podrán continuar de oficio la actuación si la consideran necesaria por razones de interés público; en tal caso expedirán resolución motivada.
 

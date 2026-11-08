@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "46"
-epigrafe: "OBJETIVOS DE LA INTERVENCION"
+epigrafe: "Objetivos de la Intervención"
 parte: "[[EOSF - Parte II|PARTE II - INTERVENCION EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 capitulo: "[[EOSF - Parte II - Capítulo Unico|CAPÍTULO UNICO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 23 Ley 1328 de 2009]]"
   - "[[art. 76 Ley 1753 de 2015]]"
@@ -38,12 +38,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte II|Parte II]] › [[EOSF - Parte II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 46. OBJETIVOS DE LA INTERVENCION
+## Artículo 46. Objetivos de la Intervención
 
 Conforme al artículo [[art. 150 CPol|150]] numeral 19 literal d) de la Constitución Política, corresponderá al Gobierno Nacional ejercer la intervención en las actividades financiera, aseguradora, y demás actividades relacionadas con el manejo, aprovechamiento e inversión de los recursos captados del público, con sujeción a los siguientes objetivos y criterios:
 

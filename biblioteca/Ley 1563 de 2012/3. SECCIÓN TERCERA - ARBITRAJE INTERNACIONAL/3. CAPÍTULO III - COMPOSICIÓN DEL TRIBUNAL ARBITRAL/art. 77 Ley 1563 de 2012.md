@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "77"
-epigrafe: "FALTA O IMPOSIBILIDAD DE EJERCICIO DE LAS FUNCIONES"
+epigrafe: "Falta o imposibilidad de ejercicio de las funciones"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo III|CAPÍTULO III - COMPOSICIÓN DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]]
 
-## Artículo 77. FALTA O IMPOSIBILIDAD DE EJERCICIO DE LAS FUNCIONES
+## Artículo 77. Falta o imposibilidad de ejercicio de las funciones
 
 A falta de acuerdo de las partes:
 

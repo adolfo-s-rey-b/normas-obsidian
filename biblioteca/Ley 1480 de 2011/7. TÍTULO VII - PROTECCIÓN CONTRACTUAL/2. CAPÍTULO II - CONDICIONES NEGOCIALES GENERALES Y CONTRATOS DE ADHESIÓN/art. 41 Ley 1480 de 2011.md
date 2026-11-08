@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "41"
-epigrafe: "CLÁUSULA DE PERMANENCIA MÍNIMA"
+epigrafe: "Cláusula de permanencia mínima"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo II|CAPÍTULO II - CONDICIONES NEGOCIALES GENERALES Y CONTRATOS DE ADHESIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo II|Capítulo II]]
 
-## Artículo 41. CLÁUSULA DE PERMANENCIA MÍNIMA
+## Artículo 41. Cláusula de permanencia mínima
 
 La cláusula de permanencia mínima en los contratos de tracto sucesivo solo podrá ser pactada de forma expresa cuando el consumidor obtenga una ventaja sustancial frente a las condiciones ordinarias del contrato, tales como cuando se ofrezcan planes que subsidien algún costo o gasto que deba ser asumido por el consumidor, dividan el pago de bienes en cuotas o cuando se incluyan tarifas especiales que impliquen un descuento sustancial, y se pactarán por una sola vez, al inicio del contrato. El período de permanencia mínima no podrá ser superior a un año, a excepción de lo previsto en los parágrafos 1o y 2o.
 

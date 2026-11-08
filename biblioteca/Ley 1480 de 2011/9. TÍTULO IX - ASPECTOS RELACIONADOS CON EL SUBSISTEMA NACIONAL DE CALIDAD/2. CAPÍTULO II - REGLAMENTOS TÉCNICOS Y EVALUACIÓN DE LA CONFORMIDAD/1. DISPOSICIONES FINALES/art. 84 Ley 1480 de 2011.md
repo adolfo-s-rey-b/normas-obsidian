@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "84"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 rubro: "[[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 84. VIGENCIA
+## Artículo 84. Vigencia
 
 La presente ley entrará en vigencia seis (6) meses después de su promulgación y deroga todas las normas que le sean contrarias.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "818"
-epigrafe: "INTERRUPCIÓN Y SUSPENSION DEL TERMINO DE PRESCRIPCIÓN"
+epigrafe: "INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO DE PRESCRIPCIÓN"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Prescripción de la acción de cobro|Prescripción de la acción de cobro]]
 
-## Artículo 818. INTERRUPCIÓN Y SUSPENSION DEL TERMINO DE PRESCRIPCIÓN
+## Artículo 818. INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO DE PRESCRIPCIÓN
 
 El término de la prescripción de la acción de cobro se interrumpe por la notificación del mandamiento de pago, por el otorgamiento de facilidades para el pago, por la admisión de la solicitud del concordato y por la declaratoria oficial de la liquidación forzosa administrativa.
 

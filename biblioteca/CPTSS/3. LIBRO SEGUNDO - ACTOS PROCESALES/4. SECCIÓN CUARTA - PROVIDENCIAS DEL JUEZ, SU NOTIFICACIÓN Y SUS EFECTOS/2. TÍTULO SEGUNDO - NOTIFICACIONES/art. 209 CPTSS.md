@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "209"
-epigrafe: "PRÁCTICA DE LA NOTIFICACIÓN PERSONAL ELECTRÓNICA"
+epigrafe: "Práctica de la notificación personal electrónica"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|TÍTULO SEGUNDO - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]]
 
-## Artículo 209. PRÁCTICA DE LA NOTIFICACIÓN PERSONAL ELECTRÓNICA
+## Artículo 209. Práctica de la notificación personal electrónica
 
 Las notificaciones que deban hacerse personalmente podrán efectuarse con el envío de la providencia respectiva como mensaje de datos a la dirección electrónica o sitio que suministre el interesado en que se realice la notificación, sin necesidad del envío de previa citación física o virtual. Los anexos que deban entregarse para un traslado se enviarán por el mismo medio.
 

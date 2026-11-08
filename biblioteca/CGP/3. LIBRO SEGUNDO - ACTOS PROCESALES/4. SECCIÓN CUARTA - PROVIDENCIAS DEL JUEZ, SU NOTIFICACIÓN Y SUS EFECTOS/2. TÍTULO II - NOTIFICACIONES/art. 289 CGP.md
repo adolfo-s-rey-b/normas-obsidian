@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "289"
-epigrafe: "NOTIFICACIÓN DE LAS PROVIDENCIAS"
+epigrafe: "Notificación de las providencias"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 289. NOTIFICACIÓN DE LAS PROVIDENCIAS
+## Artículo 289. Notificación de las providencias
 
 Las providencias judiciales se harán saber a las partes y demás interesados por medio de notificaciones, con las formalidades prescritas en este código.
 

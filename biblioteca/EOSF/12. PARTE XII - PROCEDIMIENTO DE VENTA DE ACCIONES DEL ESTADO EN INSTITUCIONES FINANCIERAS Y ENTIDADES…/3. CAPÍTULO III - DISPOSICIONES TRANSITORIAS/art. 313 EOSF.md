@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "313"
-epigrafe: "EFECTOS DE LA RESOLUCION QUE DECRETA LA NACIONALIZACION"
+epigrafe: "Efectos de la Resolución que decreta la Nacionalización"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo III|CAPÍTULO III - DISPOSICIONES TRANSITORIAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo III|Capítulo III]]
 
-## Artículo 313. EFECTOS DE LA RESOLUCION QUE DECRETA LA NACIONALIZACION
+## Artículo 313. Efectos de la Resolución que decreta la Nacionalización
 
 La resolución que decreta la nacionalización de una entidad sometida al control de la Superintendencia Bancaria, produce los siguientes efectos:
 

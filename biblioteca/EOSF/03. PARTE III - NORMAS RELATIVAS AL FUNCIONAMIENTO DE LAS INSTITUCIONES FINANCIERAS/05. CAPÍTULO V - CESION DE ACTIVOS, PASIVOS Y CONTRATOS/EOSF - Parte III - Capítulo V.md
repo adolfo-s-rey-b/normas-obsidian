@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 68 EOSF|Artículo 68]] — ASPECTOS GENERALES DE LA CESION DE ACTIVOS, PASIVOS Y CONTRATOS
+- [[art. 68 EOSF|Artículo 68]] — Aspectos Generales de la Cesión de Activos, Pasivos y Contratos
 
 ---
 ← [[EOSF - Parte III - Capítulo IV|Capítulo IV]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo VI|Capítulo VI]] →

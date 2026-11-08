@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "119"
-epigrafe: "REGIMEN DE FILIALES DE SERVICIOS FINANCIEROS Y COMISIONISTAS DE BOLSA"
+epigrafe: "Régimen de Filiales de Servicios Financieros y Comisionistas de Bolsa"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo I|CAPÍTULO I - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo I|Capítulo I]]
 
-## Artículo 119. REGIMEN DE FILIALES DE SERVICIOS FINANCIEROS Y COMISIONISTAS DE BOLSA
+## Artículo 119. Régimen de Filiales de Servicios Financieros y Comisionistas de Bolsa
 
 1\. Inversiones en sociedades de servicios financieros, sociedades comisionistas de bolsa y sociedades especializadas en depósitos y pagos electrónicos. Los bancos, las corporaciones financieras y las compañías de financiamiento podrán participar en el capital de sociedades fiduciarias, sociedades comisionistas de bolsa, almacenes generales de depósito, sociedades administradoras de fondos de pensiones y cesantías y sociedades especializadas en depósitos y pagos electrónicos, siempre que se observen los siguientes requisitos:
 

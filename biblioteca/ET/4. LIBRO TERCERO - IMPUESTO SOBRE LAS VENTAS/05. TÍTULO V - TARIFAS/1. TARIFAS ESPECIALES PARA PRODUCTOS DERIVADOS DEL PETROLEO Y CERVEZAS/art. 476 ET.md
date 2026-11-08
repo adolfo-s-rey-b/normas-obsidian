@@ -14,7 +14,7 @@ epigrafe: "SERVICIOS EXCLUIDOS DEL IMPUESTO SOBRE LAS VENTAS -IVA"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título V|TÍTULO V - TARIFAS]]"
 rubro: "[[ET - Libro Tercero - Título V - Tarifas especiales para productos derivados del…|TARIFAS ESPECIALES PARA PRODUCTOS DERIVADOS DEL PETROLEO Y CERVEZAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 11 Ley 2010 de 2019]]"
   - "[[art. 76 Ley 2277 de 2022]]"
@@ -61,7 +61,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título V|Título V]] › [[ET - Libro Tercero - Título V - Tarifas especiales para productos derivados del…|Tarifas especiales para productos derivados del…]]

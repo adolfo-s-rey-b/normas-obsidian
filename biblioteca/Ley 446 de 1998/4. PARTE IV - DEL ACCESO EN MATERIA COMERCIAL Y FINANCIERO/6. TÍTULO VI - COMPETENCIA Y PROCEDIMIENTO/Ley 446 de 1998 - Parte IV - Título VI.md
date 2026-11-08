@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 147 Ley 446 de 1998|Artículo 147]] — COMPETENCIA A PREVENCION
+- [[art. 147 Ley 446 de 1998|Artículo 147]] — Competencia a prevención
 - [[art. 148 Ley 446 de 1998|Artículo 148]] — PROCEDIMIENTO
 
 ---

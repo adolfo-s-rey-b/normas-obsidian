@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "42"
-epigrafe: "GARANTIA"
+epigrafe: "Garantía"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo XII|CAPÍTULO XII - MEDIDAS COERCITIVAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo XII|Capítulo XII]]
 
-## Artículo 42. GARANTIA
+## Artículo 42. Garantía
 
 La parte vencida en el juicio deberá otorgar una garantía bancaria o póliza de seguros, por el monto que el juez determine, la que se hará efectiva en caso de incumplimiento a lo dispuesto por la sentencia. Si el demandado presta la garantía a satisfacción, no habrá lugar al embargo, o se levantará el que hubiese sido proferido.
 

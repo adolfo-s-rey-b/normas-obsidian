@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "177"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 177. PROCEDENCIA
+## Artículo 177. Procedencia
 
 La autoridad disciplinaria podrá decretar, de oficio o a petición de los sujetos procesales, la práctica de pruebas técnicocientíficas o artísticas, que serán rendidas por servidores públicos o particulares que acrediten conocimiento y experiencia en los temas objeto de prueba.
 

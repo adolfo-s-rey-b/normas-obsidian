@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 20 Ley 472 de 1998|Artículo 20]] — ADMISION DE LA DEMANDA
-- [[art. 21 Ley 472 de 1998|Artículo 21]] — NOTIFICACION DEL AUTO ADMISORIO DE LA DEMANDA
-- [[art. 22 Ley 472 de 1998|Artículo 22]] — TRASLADO Y CONTESTACION DE LA DEMANDA
-- [[art. 23 Ley 472 de 1998|Artículo 23]] — EXCEPCIONES
+- [[art. 20 Ley 472 de 1998|Artículo 20]] — Admisión de la Demanda
+- [[art. 21 Ley 472 de 1998|Artículo 21]] — Notificación del Auto Admisorio de la Demanda
+- [[art. 22 Ley 472 de 1998|Artículo 22]] — Traslado y Contestación de la Demanda
+- [[art. 23 Ley 472 de 1998|Artículo 23]] — Excepciones
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo IV|Capítulo IV]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo VI|Capítulo VI]] →

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "40"
-epigrafe: "PRINCIPIO DE OPORTUNIDAD PARA LOS DELITOS DE COHECHO"
+epigrafe: "Principio de oportunidad para los delitos de cohecho"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 39 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 40. PRINCIPIO DE OPORTUNIDAD PARA LOS DELITOS DE COHECHO
+## Artículo 40. Principio de oportunidad para los delitos de cohecho
 
 El artículo [[art. 324 CPP|324]] de la Ley 906 de 2004 tendrá un numeral 18, el cual quedará así:
 

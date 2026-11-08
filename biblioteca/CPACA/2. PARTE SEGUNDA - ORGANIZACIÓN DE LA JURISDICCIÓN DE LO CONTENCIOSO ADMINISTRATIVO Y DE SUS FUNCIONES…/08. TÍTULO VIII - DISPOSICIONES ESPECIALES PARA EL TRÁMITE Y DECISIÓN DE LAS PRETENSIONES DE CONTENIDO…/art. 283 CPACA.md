@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "283"
-epigrafe: "AUDIENCIA INICIAL"
+epigrafe: "Audiencia inicial"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 283. AUDIENCIA INICIAL
+## Artículo 283. Audiencia inicial
 
 Al día siguiente del vencimiento del término para contestar la demanda, el juez o Magistrado Ponente, mediante auto que no tendrá recurso, fijará fecha para la celebración de la audiencia inicial, la cual se llevará a cabo en un término no menor de cinco (5) días ni mayor de ocho (8) días a la fecha del auto que la fijé. Dicha audiencia tiene por objeto proveer al saneamiento, fijar el litigio y decretar pruebas.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "6"
-epigrafe: "COMPROMISO"
+epigrafe: "Compromiso"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 6. COMPROMISO
+## Artículo 6. Compromiso
 
 El compromiso podrá constar en cualquier documento, que contenga:
 

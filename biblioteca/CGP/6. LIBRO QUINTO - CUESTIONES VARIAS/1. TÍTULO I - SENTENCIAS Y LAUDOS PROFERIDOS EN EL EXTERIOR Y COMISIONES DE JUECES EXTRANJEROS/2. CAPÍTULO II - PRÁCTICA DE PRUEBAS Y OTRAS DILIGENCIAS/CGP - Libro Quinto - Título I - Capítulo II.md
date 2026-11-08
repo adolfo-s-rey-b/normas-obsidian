@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 608 CGP|Artículo 608]] — PROCEDENCIA
-- [[art. 609 CGP|Artículo 609]] — COMPETENCIA Y TRÁMITE
+- [[art. 608 CGP|Artículo 608]] — Procedencia
+- [[art. 609 CGP|Artículo 609]] — Competencia y trámite
 
 ---
 ← [[CGP - Libro Quinto - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Quinto - Título I|Título I]]

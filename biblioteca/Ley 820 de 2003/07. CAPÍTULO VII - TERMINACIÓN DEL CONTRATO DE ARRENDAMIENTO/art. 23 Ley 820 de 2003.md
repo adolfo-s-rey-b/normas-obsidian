@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "23"
-epigrafe: "REQUISITOS PARA LA TERMINACIÓN UNILATERAL POR PARTE DEL ARRENDADOR MEDIANTE PREAVISO CON INDEMNIZACIÓN"
+epigrafe: "Requisitos para la terminación unilateral por parte del arrendador mediante preaviso con indemnización"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 22 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 23. REQUISITOS PARA LA TERMINACIÓN UNILATERAL POR PARTE DEL ARRENDADOR MEDIANTE PREAVISO CON INDEMNIZACIÓN
+## Artículo 23. Requisitos para la terminación unilateral por parte del arrendador mediante preaviso con indemnización
 
 Para que el arrendador pueda dar por terminado unilateralmente el contrato de arrendamiento en el evento previsto en el numeral 7 del artículo anterior, deberá cumplir con los siguientes requisitos:
 

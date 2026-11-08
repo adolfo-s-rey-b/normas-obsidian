@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "247"
-epigrafe: "OPERACIONES AUTORIZADAS"
+epigrafe: "Operaciones Autorizadas"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo IV|CAPÍTULO IV - BANCO CENTRAL HIPOTECARIO B.C.H]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo IV|Capítulo IV]]
 
-## Artículo 247. OPERACIONES AUTORIZADAS
+## Artículo 247. Operaciones Autorizadas
 
 En desarrollo de su objeto social el Banco Central Hipotecario, podrá efectuar las siguientes operaciones:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "129"
-epigrafe: "REGISTRO DE PERSONAS VINCULADAS"
+epigrafe: "Registro de personas vinculadas"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo III|CAPÍTULO III - IMPUTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 129. REGISTRO DE PERSONAS VINCULADAS
+## Artículo 129. Registro de personas vinculadas
 
 La Fiscalía llevará un registro de las personas a las cuales se haya vinculado a una investigación penal. Para el efecto, el funcionario que realice la vinculación lo informará dentro de los cinco (5) días siguientes a la decisión, al sistema que para tal efecto lleve la Fiscalía General de la Nación.
 

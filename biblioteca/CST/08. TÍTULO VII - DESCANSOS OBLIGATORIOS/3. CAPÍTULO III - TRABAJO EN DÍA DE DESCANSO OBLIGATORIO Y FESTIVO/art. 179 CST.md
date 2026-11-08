@@ -21,9 +21,6 @@ modificado_por:
   - "[[art. 46 Decreto 3743 de 1950]]"
   - "[[art. 20 Ley 789 de 2002]]"
   - "[[art. 25 Ley 789 de 2002]]"
-  - "[[art. 161 CST]]"
-  - "[[art. 160 CST]]"
-  - "[[art. 179 CST]]"
 anterior: "[[art. 178 CST]]"
 siguiente: "[[art. 180 CST]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
@@ -69,7 +66,7 @@ Lo anterior, sin perjuicio de que, a la entrada en vigencia de la presente Ley, 
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-038-04, mediante Sentencia C-257-08 de 11 de marzo de 2008, Magistrada Ponente Dra. Clara Inés Vargas Hernández. - Artículo [[art. 26 Ley 789 de 2002|26]] de la Ley 789 de 2002 declarado EXEQUIBLE, por los cargos estuduados, por la Corte Constitucional mediante Sentencia C-038-04 de 27 de enero de 2004, Magistrado Ponente Dr. Eduardo Montealegre Lynett.
 
-> [!info] Notas del Editor: Las referencias a los artículo [[art. 20 Ley 789 de 2002|20]], [[art. 25 Ley 789 de 2002|25]] y [[art. 26 Ley 789 de 2002|26]] del texto modificado por la Ley 789 de 2002 deben entenderse a los artículo artículo [[art. 161 CST|161]] , [[art. 160 CST|160]] y [[art. 179 CST|179]] , respectivamente de este Código.
+> [!info] Notas del Editor: Las referencias a los artículo [[art. 20 Ley 789 de 2002|20]], [[art. 25 Ley 789 de 2002|25]] y [[art. 26 Ley 789 de 2002|26]] del texto modificado por la Ley 789 de 2002 deben entenderse a los artículo artículo 161 , 160 y 179 , respectivamente de este Código.
 
 ---
 ← [[art. 178 CST]] · ↑ [[CST - Título VII - Capítulo III|Capítulo III]] · [[art. 180 CST]] →

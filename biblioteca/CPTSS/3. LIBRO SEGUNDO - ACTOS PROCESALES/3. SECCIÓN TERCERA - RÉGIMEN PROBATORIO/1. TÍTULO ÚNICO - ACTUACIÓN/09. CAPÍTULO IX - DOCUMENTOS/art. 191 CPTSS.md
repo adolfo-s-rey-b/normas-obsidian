@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "191"
-epigrafe: "RENUENCIA Y OPOSICIÓN A LA EXHIBICIÓN"
+epigrafe: "Renuencia y oposición a la exhibición"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 191. RENUENCIA Y OPOSICIÓN A LA EXHIBICIÓN
+## Artículo 191. Renuencia y oposición a la exhibición
 
 Si la parte a quien se ordenó la exhibición se opone en el término de ejecutoria del auto que la decreta, o en la diligencia en que ella se ordenó, el juez al decidir la instancia o el incidente en que aquella se solicitó, apreciará los motivos de la oposición; si no la encontrare justificada y se hubiere acreditado que el documento estaba en poder del opositor, se tendrán por probado los hechos que quien pidió la exhibición se proponía probar, salvo cuando tales hechos no admitan prueba de confesión, caso en el cual la oposición se apreciará como indicio en contra del opositor. En la misma forma se procederá cuando no habiendo formulado oposición, la parte deje de exhibir el documento, salvo que dentro de los tres (3) días siguientes a la fecha señalada para la diligencia pruebe, siquiera sumariamente, causa justificativa de su renuencia y exhiba el documento en la oportunidad que el juez señale.
 

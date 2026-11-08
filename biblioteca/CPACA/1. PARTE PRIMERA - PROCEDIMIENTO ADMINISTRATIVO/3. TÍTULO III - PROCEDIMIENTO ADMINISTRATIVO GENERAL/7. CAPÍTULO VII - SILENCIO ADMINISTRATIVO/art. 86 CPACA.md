@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "86"
-epigrafe: "SILENCIO ADMINISTRATIVO EN RECURSOS"
+epigrafe: "Silencio administrativo en recursos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VII|CAPÍTULO VII - SILENCIO ADMINISTRATIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 86. SILENCIO ADMINISTRATIVO EN RECURSOS
+## Artículo 86. Silencio administrativo en recursos
 
 Salvo lo dispuesto en el artículo [[art. 52 CPACA|52]] de este Código, transcurrido un plazo de dos (2) meses, contados a partir de la interposición de los recursos de reposición o apelación sin que se haya notificado decisión expresa sobre ellos, se entenderá que la decisión es negativa.
 

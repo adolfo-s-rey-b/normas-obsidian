@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "52"
-epigrafe: "FUNCIONES DEL SECUESTRE"
+epigrafe: "Funciones del secuestre"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 52. FUNCIONES DEL SECUESTRE
+## Artículo 52. Funciones del secuestre
 
 El secuestre tendrá, como depositario, la custodia de los bienes que se le entreguen, y si se trata de empresa o de bienes productivos de renta, las atribuciones previstas para el mandatario en el Código Civil, sin perjuicio de las facultades y deberes de su cargo. Bajo su responsabilidad y con previa autorización judicial, podrá designar los dependientes que requiera para el buen desempeño del cargo y asignarles funciones. La retribución deberá ser autorizada por el juez.
 

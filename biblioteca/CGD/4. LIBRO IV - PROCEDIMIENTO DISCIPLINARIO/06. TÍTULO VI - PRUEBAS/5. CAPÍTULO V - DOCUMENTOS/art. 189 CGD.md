@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "189"
-epigrafe: "OBLIGACIÓN DE ENTREGAR DOCUMENTOS"
+epigrafe: "Obligación de entregar documentos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo V|CAPÍTULO V - DOCUMENTOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 189. OBLIGACIÓN DE ENTREGAR DOCUMENTOS
+## Artículo 189. Obligación de entregar documentos
 
 Salvo lo contemplado en el artículo [[art. 154 CGD|154]] y demás excepciones legales, quien tenga en su poder documentos que se requieran en un proceso disciplinario, tiene la obligación de ponerlos a disposición de la autoridad disciplinaria que los requiera de manera oportuna o de permitir su conocimiento.
 

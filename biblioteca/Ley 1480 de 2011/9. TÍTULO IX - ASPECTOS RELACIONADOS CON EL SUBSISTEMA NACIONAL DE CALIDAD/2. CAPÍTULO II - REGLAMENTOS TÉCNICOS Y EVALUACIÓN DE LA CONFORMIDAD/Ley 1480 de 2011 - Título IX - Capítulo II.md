@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 72 Ley 1480 de 2011|Artículo 72]] — DE LOS REGLAMENTOS TÉCNICOS
-- [[art. 73 Ley 1480 de 2011|Artículo 73]] — RESPONSABILIDAD DE LOS ORGANISMOS DE EVALUACIÓN DE LA CONFORMIDAD
-- [[art. 74 Ley 1480 de 2011|Artículo 74]] — FACULTADES DE SUPERVISIÓN Y CONTROL DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+- [[art. 72 Ley 1480 de 2011|Artículo 72]] — De los Reglamentos Técnicos
+- [[art. 73 Ley 1480 de 2011|Artículo 73]] — Responsabilidad de los Organismos de evaluación de la Conformidad
+- [[art. 74 Ley 1480 de 2011|Artículo 74]] — Facultades de supervisión y control de la Superintendencia de Industria y Comercio
 - [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]] (arts. 75 a 84)
 
 ---

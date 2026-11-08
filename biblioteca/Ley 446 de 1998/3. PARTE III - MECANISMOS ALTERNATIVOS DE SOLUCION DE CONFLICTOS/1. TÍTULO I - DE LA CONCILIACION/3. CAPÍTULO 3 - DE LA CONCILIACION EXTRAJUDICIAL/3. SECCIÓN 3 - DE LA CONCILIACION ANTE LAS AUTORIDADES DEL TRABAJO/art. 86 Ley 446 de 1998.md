@@ -4,12 +4,12 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "86"
-epigrafe: "ACTA DE CONCILIACION"
+epigrafe: "Acta de conciliación"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|CAPÍTULO 3 - DE LA CONCILIACION EXTRAJUDICIAL]]"
 seccion: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 3|SECCIÓN 3 - DE LA CONCILIACION ANTE LAS AUTORIDADES DEL TRABAJO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 34 Ley 23 de 1991]]"
   - "[[art. 49 Ley 640 de 2001]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 3|Sección 3]]
 
-## Artículo 86. ACTA DE CONCILIACION
+## Artículo 86. Acta de conciliación
 
 (Incorporado en el Estatuto de los Mecanismos Alternativos de Solución de Conflictos, artículo [[art. 49 Ley 446 de 1998|49]].)
 

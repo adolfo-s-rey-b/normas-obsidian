@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "53"
-epigrafe: "CAPACIDAD PARA SER PARTE"
+epigrafe: "Capacidad para ser parte"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 53. CAPACIDAD PARA SER PARTE
+## Artículo 53. Capacidad para ser parte
 
 Podrán ser parte en un proceso:
 

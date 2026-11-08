@@ -27,9 +27,9 @@ tags:
 - [[art. 622 CGP|Artículo 622]]
 - [[art. 623 CGP|Artículo 623]]
 - [[art. 624 CGP|Artículo 624]]
-- [[art. 625 CGP|Artículo 625]] — TRÁNSITO DE LEGISLACIÓN
-- [[art. 626 CGP|Artículo 626]] — DEROGACIONES
-- [[art. 627 CGP|Artículo 627]] — VIGENCIA
+- [[art. 625 CGP|Artículo 625]] — Tránsito de legislación
+- [[art. 626 CGP|Artículo 626]] — Derogaciones
+- [[art. 627 CGP|Artículo 627]] — Vigencia
 
 ---
 ← [[CGP - Libro Quinto - Título IV|Título IV]] · ↑ [[CGP - Libro Quinto|Libro Quinto]]

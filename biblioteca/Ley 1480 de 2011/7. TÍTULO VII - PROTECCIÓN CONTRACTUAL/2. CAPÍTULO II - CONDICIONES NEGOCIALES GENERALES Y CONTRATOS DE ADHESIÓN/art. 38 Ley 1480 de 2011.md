@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "38"
-epigrafe: "CLÁUSULAS PROHIBIDAS"
+epigrafe: "Cláusulas prohibidas"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo II|CAPÍTULO II - CONDICIONES NEGOCIALES GENERALES Y CONTRATOS DE ADHESIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo II|Capítulo II]]
 
-## Artículo 38. CLÁUSULAS PROHIBIDAS
+## Artículo 38. Cláusulas prohibidas
 
 En los contratos de adhesión, no se podrán incluir cláusulas que permitan al productor y/o proveedor modificar unilateralmente el contrato o sustraerse de sus obligaciones.
 

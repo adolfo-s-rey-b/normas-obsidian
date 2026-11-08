@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "113"
-epigrafe: "CAUSALES DE IMPEDIMENTO Y RECUSACIÓN"
+epigrafe: "Causales de impedimento y recusación"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]]
 
-## Artículo 113. CAUSALES DE IMPEDIMENTO Y RECUSACIÓN
+## Artículo 113. Causales de impedimento y recusación
 
 Las únicas causales de impedimento y recusación para los servidores públicos intervinientes en el trámite de las indagaciones preliminares y los procesos de responsabilidad fiscal serán las previstas para los jueces y magistrados en la Ley 1437 de 2011.
 

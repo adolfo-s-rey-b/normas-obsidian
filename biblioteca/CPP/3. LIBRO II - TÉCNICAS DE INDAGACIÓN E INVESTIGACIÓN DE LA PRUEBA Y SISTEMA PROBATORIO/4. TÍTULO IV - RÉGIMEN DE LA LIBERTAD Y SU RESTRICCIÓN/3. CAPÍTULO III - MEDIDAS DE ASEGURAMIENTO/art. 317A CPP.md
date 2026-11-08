@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "317A"
-epigrafe: "CAUSALES DE LIBERTAD"
+epigrafe: "Causales de libertad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 317A. CAUSALES DE LIBERTAD
+## Artículo 317A. Causales de libertad
 
 Las medidas de aseguramiento en los casos de miembros de Grupos Delictivos Organizados y Grupos Armados Organizados tendrán vigencia durante toda la actuación.
 

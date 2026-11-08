@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "103"
-epigrafe: "USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES"
+epigrafe: "Uso de las tecnologías de la información y de las comunicaciones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 103. USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES
+## Artículo 103. Uso de las tecnologías de la información y de las comunicaciones
 
 En todas las actuaciones judiciales deberá procurarse el uso de las tecnologías de la información y las comunicaciones en la gestión y trámite de los procesos judiciales, con el fin de facilitar y agilizar el acceso a la justicia, así como ampliar su cobertura.
 

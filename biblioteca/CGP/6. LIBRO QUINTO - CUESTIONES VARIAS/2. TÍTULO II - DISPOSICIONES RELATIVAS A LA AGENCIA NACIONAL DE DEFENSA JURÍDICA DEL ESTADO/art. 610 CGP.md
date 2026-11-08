@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "610"
-epigrafe: "INTERVENCIÓN DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO"
+epigrafe: "Intervención de la Agencia Nacional de Defensa Jurídica del Estado"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título II|TÍTULO II - DISPOSICIONES RELATIVAS A LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título II|Título II]]
 
-## Artículo 610. INTERVENCIÓN DE LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+## Artículo 610. Intervención de la Agencia Nacional de Defensa Jurídica del Estado
 
 En los procesos que se tramiten ante cualquier jurisdicción, la Agencia Nacional de Defensa Jurídica del Estado, podrá actuar en cualquier estado del proceso, en los siguientes eventos:
 
@@ -58,7 +58,7 @@ La actuación de la Agencia Nacional de Defensa Jurídica del Estado, en todos l
 
 Así mismo, en toda tutela, la Agencia Nacional de Defensa Jurídica del Estado podrá solicitarle a la Corte Constitucional la revisión de que trata el artículo [[art. 33 Decreto 2591 de 1991|33]] del Decreto 2591 de 1991 .
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 609 CGP]] · ↑ [[CGP - Libro Quinto - Título II|Título II]] · [[art. 611 CGP]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "166"
-epigrafe: "COMUNICACIÓN DE LA SENTENCIA"
+epigrafe: "Comunicación de la sentencia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo V|CAPÍTULO V - PROVIDENCIAS JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 166. COMUNICACIÓN DE LA SENTENCIA
+## Artículo 166. Comunicación de la sentencia
 
 Ejecutoriada la sentencia que imponga una pena o medida de seguridad, el funcionario judicial informará de dicha decisión a la Dirección General de Prisiones, la Registraduría Nacional del Estado Civil, la Procuraduría General de la Nación y demás organismos que tengan funciones de policía judicial y archivos sistematizados, en el entendido que solo en estos casos se considerará que la persona tiene antecedentes judiciales.
 

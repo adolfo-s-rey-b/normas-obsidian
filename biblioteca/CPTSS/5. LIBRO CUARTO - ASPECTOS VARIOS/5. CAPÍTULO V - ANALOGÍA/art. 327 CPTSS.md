@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "327"
-epigrafe: "ANALOGÍA"
+epigrafe: "Analogía"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo V|CAPÍTULO V - ANALOGÍA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo V|Capítulo V]]
 
-## Artículo 327. ANALOGÍA
+## Artículo 327. Analogía
 
 A falta de disposiciones especiales en el procedimiento del trabajo, se aplicarán las normas procesales contenidas en leyes laborales y de la seguridad social que sean análogas y, en su defecto, las del régimen procesal común, con la necesaria adaptación a las particularidades del proceso del trabajo y la seguridad social.
 

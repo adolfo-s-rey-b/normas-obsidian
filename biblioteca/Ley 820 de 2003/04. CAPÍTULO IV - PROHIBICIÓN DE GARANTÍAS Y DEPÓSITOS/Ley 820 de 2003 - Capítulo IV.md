@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 16 Ley 820 de 2003|Artículo 16]] — PROHIBICIÓN DE DEPÓSITOS Y CAUCIONES REALES
+- [[art. 16 Ley 820 de 2003|Artículo 16]] — Prohibición de depósitos y cauciones reales
 
 ---
 ← [[Ley 820 de 2003 - Capítulo III|Capítulo III]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo V|Capítulo V]] →

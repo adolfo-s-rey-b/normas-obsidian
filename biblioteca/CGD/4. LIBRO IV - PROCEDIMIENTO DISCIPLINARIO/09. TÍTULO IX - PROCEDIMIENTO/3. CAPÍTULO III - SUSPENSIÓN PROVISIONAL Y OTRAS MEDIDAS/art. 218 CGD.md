@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "218"
-epigrafe: "REINTEGRO DEL SUSPENDIDO"
+epigrafe: "Reintegro del suspendido"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo III|CAPÍTULO III - SUSPENSIÓN PROVISIONAL Y OTRAS MEDIDAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo III|Capítulo III]]
 
-## Artículo 218. REINTEGRO DEL SUSPENDIDO
+## Artículo 218. Reintegro del suspendido
 
 Quien hubiere sido suspendido provisionalmente será reintegrado a su cargo o función y tendrá derecho al reconocimiento y pago de la remuneración dejada de percibir durante el período de suspensión, cuando la investigación termine con fallo absolutorio, o decisión de archivo o de terminación del proceso, o cuando expire el término de suspensión sin que se hubiere proferido fallo de primera o única instancia.
 

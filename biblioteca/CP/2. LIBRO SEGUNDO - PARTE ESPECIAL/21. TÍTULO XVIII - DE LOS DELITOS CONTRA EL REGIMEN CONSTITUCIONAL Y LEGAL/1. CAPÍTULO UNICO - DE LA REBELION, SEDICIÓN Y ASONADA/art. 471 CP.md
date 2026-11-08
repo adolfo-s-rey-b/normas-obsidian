@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "471"
-epigrafe: "CONSPIRACIÓN"
+epigrafe: "Conspiracion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XVIII|TÍTULO XVIII - DE LOS DELITOS CONTRA EL REGIMEN CONSTITUCIONAL Y LEGAL]]"
 capitulo: "[[CP - Libro Segundo - Título XVIII - Capítulo Unico|CAPÍTULO UNICO - DE LA REBELION, SEDICIÓN Y ASONADA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XVIII|Título XVIII]] › [[CP - Libro Segundo - Título XVIII - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 471. CONSPIRACIÓN
+## Artículo 471. Conspiracion
 
 Los que se pongan de acuerdo para cometer delito de rebelión o de sedición, incurrirán, por esta sola conducta, en prisión de dieciséis (16) a treinta y seis (36) meses.
 

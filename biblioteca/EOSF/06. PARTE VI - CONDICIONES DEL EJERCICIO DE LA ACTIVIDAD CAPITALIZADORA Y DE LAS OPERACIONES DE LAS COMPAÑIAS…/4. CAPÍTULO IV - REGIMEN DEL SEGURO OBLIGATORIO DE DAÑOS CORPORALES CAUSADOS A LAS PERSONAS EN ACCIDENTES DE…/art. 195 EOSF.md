@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "195"
-epigrafe: "ATENCION DE LAS VICTIMAS"
+epigrafe: "Atención de las Víctimas"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo IV|CAPÍTULO IV - REGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRANSITO]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 195. ATENCION DE LAS VICTIMAS
+## Artículo 195. Atención de las Víctimas
 
 1\. Obligatoriedad. Los establecimientos hospitalarios o clínicos y las entidades de seguridad y previsión social de los subsectores oficial y privado del sector salud están obligados a prestar la atención médica, quirúrgica, farmacéutica u hospitalaria por daños corporales causados a las personas en accidentes de tránsito.
 

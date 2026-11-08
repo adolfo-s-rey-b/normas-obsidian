@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 151 EOSF|Artículo 151]] — NORMAS COMUNES A LOS FIDEICOMISOS DE INVERSION
+- [[art. 151 EOSF|Artículo 151]] — Normas Comunes a los Fideicomisos de Inversión
 
 ---
 ← [[EOSF - Parte V - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte V|Parte V]] · [[EOSF - Parte V - Capítulo III|Capítulo III]] →

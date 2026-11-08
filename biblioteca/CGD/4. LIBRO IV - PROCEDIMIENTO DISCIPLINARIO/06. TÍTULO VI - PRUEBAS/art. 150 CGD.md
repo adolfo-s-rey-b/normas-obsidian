@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "150"
-epigrafe: "LIBERTAD DE PRUEBAS"
+epigrafe: "Libertad de pruebas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 150. LIBERTAD DE PRUEBAS
+## Artículo 150. Libertad de pruebas
 
 La falta y la responsabilidad del investigado podrán demostrarse con cualquiera de los medios de prueba legalmente reconocidos.
 

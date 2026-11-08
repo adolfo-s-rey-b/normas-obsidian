@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "179"
-epigrafe: "ETAPAS"
+epigrafe: "Etapas"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]]
 
-## Artículo 179. ETAPAS
+## Artículo 179. Etapas
 
 El proceso para adelantar y decidir todos los litigios respecto de los cuales este código u otras leyes no señalen un trámite o procedimiento especial, en primera y en única instancia, se desarrollará en las siguientes etapas:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "37"
-epigrafe: "REGLAS GENERALES"
+epigrafe: "Reglas generales"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISI]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título II|Título II]]
 
-## Artículo 37. REGLAS GENERALES
+## Artículo 37. Reglas generales
 
 La comisión solo podrá conferirse para la práctica de pruebas en los casos que autoriza el artículo [[art. 171 CGP|171]], para la de otras diligencias que deban surtirse fuera de la sede del juez del conocimiento, y para secuestro y entrega de bienes en dicha sede, en cuanto fuere menester. No podrá comisionarse para la práctica de medidas cautelares extraprocesales.
 

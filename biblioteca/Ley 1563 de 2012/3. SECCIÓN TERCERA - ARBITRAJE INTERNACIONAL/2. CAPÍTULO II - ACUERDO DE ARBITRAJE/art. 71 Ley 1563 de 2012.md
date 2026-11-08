@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "71"
-epigrafe: "ACUERDO DE ARBITRAJE Y DECRETO DE MEDIDAS CAUTELARES POR UNA AUTORIDAD JUDICIAL"
+epigrafe: "Acuerdo de arbitraje y decreto de medidas cautelares por una autoridad judicial"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo II|CAPÍTULO II - ACUERDO DE ARBITRAJE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo II|Capítulo II]]
 
-## Artículo 71. ACUERDO DE ARBITRAJE Y DECRETO DE MEDIDAS CAUTELARES POR UNA AUTORIDAD JUDICIAL
+## Artículo 71. Acuerdo de arbitraje y decreto de medidas cautelares por una autoridad judicial
 
 Cualquiera de las partes, con anterioridad a las actuaciones arbitrales o durante el transcurso de las mismas, podrá solicitar de una autoridad judicial la adopción de medidas cautelares y esta podrá decretarlas, sin que por ello se entienda que ha renunciado al acuerdo de arbitraje.
 

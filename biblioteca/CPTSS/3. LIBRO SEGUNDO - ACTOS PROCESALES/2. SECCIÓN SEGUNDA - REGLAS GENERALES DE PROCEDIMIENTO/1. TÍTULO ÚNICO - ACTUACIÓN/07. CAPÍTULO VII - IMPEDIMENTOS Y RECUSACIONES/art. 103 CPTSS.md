@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "103"
-epigrafe: "SUSPENSIÓN DEL PROCESO POR IMPEDIMENTO O RECUSACIÓN"
+epigrafe: "Suspensión del proceso por impedimento o recusación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 103. SUSPENSIÓN DEL PROCESO POR IMPEDIMENTO O RECUSACIÓN
+## Artículo 103. Suspensión del proceso por impedimento o recusación
 
 El proceso se suspenderá desde que el funcionario se declare impedido o se formule la recusación hasta cuando se resuelva, sin que por ello se afecte la validez de los actos surtidos con anterioridad.
 

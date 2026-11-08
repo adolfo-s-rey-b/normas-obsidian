@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "73"
-epigrafe: "MONTO DE LA FINANCIACION"
+epigrafe: "Monto de la Financiación"
 titulo: "[[Ley 472 de 1998 - Título IV|TÍTULO IV - FONDO PARA LA DEFENSA DE LOS DERECHOS E INTERESES COLECTIVOS]]"
 capitulo: "[[Ley 472 de 1998 - Título IV - Capítulo I|CAPÍTULO I]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título IV|Título IV]] › [[Ley 472 de 1998 - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 73. MONTO DE LA FINANCIACION
+## Artículo 73. Monto de la Financiación
 
 El monto de la financiación por parte del Fondo a los demandantes en Acciones Populares o de Grupo será determinado por la Defensoría del Pueblo de acuerdo con las circunstancias particulares de cada caso, teniendo en cuenta, entre otros criterios, la situación socioeconómica de los peticionarios y los fundamentos de la posible demanda.
 

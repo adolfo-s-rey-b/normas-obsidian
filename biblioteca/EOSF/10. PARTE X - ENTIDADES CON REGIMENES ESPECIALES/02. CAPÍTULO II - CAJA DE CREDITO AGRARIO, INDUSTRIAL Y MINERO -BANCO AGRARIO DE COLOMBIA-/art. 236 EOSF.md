@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "236"
-epigrafe: "OPERACIONES"
+epigrafe: "Operaciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo II|CAPÍTULO II - CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO <BANCO AGRARIO DE COLOMBIA>]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo II|Capítulo II]]
 
-## Artículo 236. OPERACIONES
+## Artículo 236. Operaciones
 
 1\. Operaciones permanentes. La Caja Agraria, como sociedad anónima de economía mixta, del orden nacional, perteneciente al sector agropecuario y vinculada al Ministerio de Agricultura, cumplirá las siguientes actividades:
 

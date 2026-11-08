@@ -24,25 +24,25 @@ tags:
 
 ### Contenido
 
-- [[art. 405 CPP|Artículo 405]] — PROCEDENCIA
-- [[art. 406 CPP|Artículo 406]] — PRESTACIÓN DEL SERVICIO DE PERITOS
-- [[art. 407 CPP|Artículo 407]] — NÚMERO DE PERITOS
-- [[art. 408 CPP|Artículo 408]] — QUIÉNES PUEDEN SER PERITOS
-- [[art. 409 CPP|Artículo 409]] — QUIÉNES NO PUEDEN SER NOMBRADOS
-- [[art. 410 CPP|Artículo 410]] — OBLIGATORIEDAD DEL CARGO DE PERITO
-- [[art. 411 CPP|Artículo 411]] — IMPEDIMENTOS Y RECUSACIONES
-- [[art. 412 CPP|Artículo 412]] — COMPARECENCIA DE LOS PERITOS A LA AUDIENCIA
-- [[art. 413 CPP|Artículo 413]] — PRESENTACIÓN DE INFORMES
-- [[art. 414 CPP|Artículo 414]] — ADMISIBILIDAD DEL INFORME Y CITACIÓN DEL PERITO
-- [[art. 415 CPP|Artículo 415]] — BASE DE LA OPINIÓN PERICIAL
-- [[art. 416 CPP|Artículo 416]] — ACCESO A LOS ELEMENTOS MATERIALES
-- [[art. 417 CPP|Artículo 417]] — INSTRUCCIONES PARA INTERROGAR AL PERITO
-- [[art. 418 CPP|Artículo 418]] — INSTRUCCIONES PARA CONTRAINTERROGAR AL PERITO
-- [[art. 419 CPP|Artículo 419]] — PERITO IMPEDIDO PARA CONCURRIR
-- [[art. 420 CPP|Artículo 420]] — APRECIACIÓN DE LA PRUEBA PERICIAL
-- [[art. 421 CPP|Artículo 421]] — LIMITACIÓN A LAS OPINIONES DEL PERITO SOBRE INSANIDAD MENTAL
-- [[art. 422 CPP|Artículo 422]] — ADMISIBILIDAD DE PUBLICACIONES CIENTÍFICAS Y DE PRUEBA NOVEL
-- [[art. 423 CPP|Artículo 423]] — PRESENTACIÓN DE LA EVIDENCIA DEMOSTRATIVA
+- [[art. 405 CPP|Artículo 405]] — Procedencia
+- [[art. 406 CPP|Artículo 406]] — Prestación del servicio de peritos
+- [[art. 407 CPP|Artículo 407]] — Número de peritos
+- [[art. 408 CPP|Artículo 408]] — Quiénes pueden ser peritos
+- [[art. 409 CPP|Artículo 409]] — Quiénes no pueden ser nombrados
+- [[art. 410 CPP|Artículo 410]] — Obligatoriedad del cargo de perito
+- [[art. 411 CPP|Artículo 411]] — Impedimentos y recusaciones
+- [[art. 412 CPP|Artículo 412]] — Comparecencia de los peritos a la audiencia
+- [[art. 413 CPP|Artículo 413]] — Presentación de informes
+- [[art. 414 CPP|Artículo 414]] — Admisibilidad del informe y citación del perito
+- [[art. 415 CPP|Artículo 415]] — Base de la opinión pericial
+- [[art. 416 CPP|Artículo 416]] — Acceso a los elementos materiales
+- [[art. 417 CPP|Artículo 417]] — Instrucciones para interrogar al perito
+- [[art. 418 CPP|Artículo 418]] — Instrucciones para contrainterrogar al perito
+- [[art. 419 CPP|Artículo 419]] — Perito impedido para concurrir
+- [[art. 420 CPP|Artículo 420]] — Apreciación de la prueba pericial
+- [[art. 421 CPP|Artículo 421]] — Limitación a las opiniones del perito sobre insanidad mental
+- [[art. 422 CPP|Artículo 422]] — Admisibilidad de publicaciones científicas y de prueba novel
+- [[art. 423 CPP|Artículo 423]] — Presentación de la evidencia demostrativa
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]] · ↑ [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] · [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]] →

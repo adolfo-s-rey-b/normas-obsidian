@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "144"
-epigrafe: "JUEZ O MAGISTRADO QUE DEBE REEMPLAZAR AL IMPEDIDO O RECUSADO"
+epigrafe: "Juez o magistrado que debe reemplazar al impedido o recusado"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 144. JUEZ O MAGISTRADO QUE DEBE REEMPLAZAR AL IMPEDIDO O RECUSADO
+## Artículo 144. Juez o magistrado que debe reemplazar al impedido o recusado
 
 El juez que deba separarse del conocimiento por impedimento o recusación será reemplazado por el del mismo ramo y categoría que le siga en turno atendiendo el orden numérico, y a falta de este por el juez de igual categoría, promiscuo o de otra especialidad que determine la corporación respectiva.
 

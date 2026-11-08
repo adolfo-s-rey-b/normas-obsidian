@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "552"
-epigrafe: "EL GOBIERNO DEBERA PUBLICAR LAS CIFRAS AJUSTADAS"
+epigrafe: "EL GOBIERNO DEBERÁ PUBLICAR LAS CIFRAS AJUSTADAS"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título X|TÍTULO X - DISPOSICIONES VARIAS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título X|Título X]]
 
-## Artículo 552. EL GOBIERNO DEBERA PUBLICAR LAS CIFRAS AJUSTADAS
+## Artículo 552. EL GOBIERNO DEBERÁ PUBLICAR LAS CIFRAS AJUSTADAS
 
 El Gobierno publicará periódicamente las cifras ajustadas del impuesto de timbre.
 

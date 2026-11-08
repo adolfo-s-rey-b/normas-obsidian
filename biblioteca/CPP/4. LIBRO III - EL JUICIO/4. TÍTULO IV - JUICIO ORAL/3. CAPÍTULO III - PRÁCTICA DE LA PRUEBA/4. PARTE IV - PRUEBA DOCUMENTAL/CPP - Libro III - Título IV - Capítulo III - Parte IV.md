@@ -24,18 +24,18 @@ tags:
 
 ### Contenido
 
-- [[art. 424 CPP|Artículo 424]] — PRUEBA DOCUMENTAL
-- [[art. 425 CPP|Artículo 425]] — DOCUMENTO AUTÉNTICO
-- [[art. 426 CPP|Artículo 426]] — MÉTODOS DE AUTENTICACIÓN E IDENTIFICACIÓN
-- [[art. 427 CPP|Artículo 427]] — DOCUMENTOS PROCEDENTES DEL EXTRANJERO
-- [[art. 428 CPP|Artículo 428]] — TRADUCCIÓN DE DOCUMENTOS
-- [[art. 429 CPP|Artículo 429]] — PRESENTACIÓN DE DOCUMENTOS
+- [[art. 424 CPP|Artículo 424]] — Prueba documental
+- [[art. 425 CPP|Artículo 425]] — Documento auténtico
+- [[art. 426 CPP|Artículo 426]] — Métodos de autenticación e identificación
+- [[art. 427 CPP|Artículo 427]] — Documentos procedentes del extranjero
+- [[art. 428 CPP|Artículo 428]] — Traducción de documentos
+- [[art. 429 CPP|Artículo 429]] — Presentación de documentos
 - [[art. 429A CPP|Artículo 429A]] — COOPERACIÓN INTERINSTITUCIONAL EN MATERIA DE INVESTIGACIÓN CRIMINAL
-- [[art. 430 CPP|Artículo 430]] — DOCUMENTOS ANÓNIMOS
-- [[art. 431 CPP|Artículo 431]] — EMPLEO DE LOS DOCUMENTOS EN EL JUICIO
-- [[art. 432 CPP|Artículo 432]] — APRECIACIÓN DE LA PRUEBA DOCUMENTAL
-- [[art. 433 CPP|Artículo 433]] — CRITERIO GENERAL
-- [[art. 434 CPP|Artículo 434]] — EXCEPCIONES A LA REGLA DE LA MEJOR EVIDENCIA
+- [[art. 430 CPP|Artículo 430]] — Documentos anónimos
+- [[art. 431 CPP|Artículo 431]] — Empleo de los documentos en el juicio
+- [[art. 432 CPP|Artículo 432]] — Apreciación de la prueba documental
+- [[art. 433 CPP|Artículo 433]] — Criterio general
+- [[art. 434 CPP|Artículo 434]] — Excepciones a la regla de la mejor evidencia
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]] · ↑ [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] · [[CPP - Libro III - Título IV - Capítulo III - Parte V|Parte V]] →

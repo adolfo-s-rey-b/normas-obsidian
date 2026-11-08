@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "328A"
-epigrafe: "TRÁFICO DE FAUNA"
+epigrafe: "Trafico de Fauna"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 328A. TRÁFICO DE FAUNA
+## Artículo 328A. Trafico de Fauna
 
 El que trafique, adquiera, exporte o comercialice sin permiso de la autoridad competente o con incumplimiento de la normatividad existente los especímenes, productos o partes de la fauna acuática, silvestre o especies silvestres exóticas, incurrirá en prisión de sesenta (60) a ciento treinta y cinco (135) meses y multa de trescientos (300) hasta cuarenta mil (40.000) salarios mínimos legales mensuales vigentes.
 

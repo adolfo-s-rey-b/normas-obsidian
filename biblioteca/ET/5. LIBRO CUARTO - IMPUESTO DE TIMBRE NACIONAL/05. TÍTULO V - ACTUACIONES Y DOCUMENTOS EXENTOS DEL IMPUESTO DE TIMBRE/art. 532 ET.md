@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "532"
-epigrafe: "LAS ENTIDADES OFICIALES ESTAN EXENTAS DEL PAGO DEL IMPUESTO DE TIMBRE"
+epigrafe: "LAS ENTIDADES OFICIALES ESTÁN EXENTAS DEL PAGO DEL IMPUESTO DE TIMBRE"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título V|TÍTULO V - ACTUACIONES Y DOCUMENTOS EXENTOS DEL IMPUESTO DE TIMBRE]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título V|Título V]]
 
-## Artículo 532. LAS ENTIDADES OFICIALES ESTAN EXENTAS DEL PAGO DEL IMPUESTO DE TIMBRE
+## Artículo 532. LAS ENTIDADES OFICIALES ESTÁN EXENTAS DEL PAGO DEL IMPUESTO DE TIMBRE
 
 (Fuente original compilada: L. 02/76 Art 28.) Las entidades de derecho público están exentas del pago del impuesto de timbre nacional.
 

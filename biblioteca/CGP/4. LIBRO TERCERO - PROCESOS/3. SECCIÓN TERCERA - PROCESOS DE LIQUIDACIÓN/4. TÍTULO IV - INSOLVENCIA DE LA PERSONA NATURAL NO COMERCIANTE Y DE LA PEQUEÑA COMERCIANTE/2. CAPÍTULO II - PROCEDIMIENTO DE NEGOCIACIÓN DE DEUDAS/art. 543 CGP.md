@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "543"
-epigrafe: "ACEPTACIÓN DE LA SOLICITUD DE NEGOCIACIÓN DE DEUDAS"
+epigrafe: "Aceptación de la solicitud de negociación de deudas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 543. ACEPTACIÓN DE LA SOLICITUD DE NEGOCIACIÓN DE DEUDAS
+## Artículo 543. Aceptación de la solicitud de negociación de deudas
 
 Una vez el conciliador verifique el cumplimiento de los requisitos en la solicitud de negociación de deudas, el conciliador designado por el centro de conciliación, según fuere el caso, la aceptará, dará inicio al procedimiento de negociación de deudas y fijará fecha para audiencia de negociación dentro de los diez (10) días siguientes a la aceptación de la solicitud.
 

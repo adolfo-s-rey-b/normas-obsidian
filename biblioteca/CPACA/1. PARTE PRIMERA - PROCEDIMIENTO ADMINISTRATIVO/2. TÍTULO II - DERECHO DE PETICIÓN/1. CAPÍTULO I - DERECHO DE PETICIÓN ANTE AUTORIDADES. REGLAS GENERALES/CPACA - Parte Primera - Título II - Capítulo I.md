@@ -23,17 +23,17 @@ tags:
 
 ### Contenido
 
-- [[art. 13 CPACA|Artículo 13]] — OBJETO Y MODALIDADES DEL DERECHO DE PETICIÓN ANTE AUTORIDADES
-- [[art. 14 CPACA|Artículo 14]] — TÉRMINOS PARA RESOLVER LAS DISTINTAS MODALIDADES DE PETICIONES
-- [[art. 15 CPACA|Artículo 15]] — PRESENTACIÓN Y RADICACIÓN DE PETICIONES
-- [[art. 16 CPACA|Artículo 16]] — CONTENIDO DE LAS PETICIONES
-- [[art. 17 CPACA|Artículo 17]] — PETICIONES INCOMPLETAS Y DESISTIMIENTO TÁCITO
-- [[art. 18 CPACA|Artículo 18]] — DESISTIMIENTO EXPRESO DE LA PETICIÓN
-- [[art. 19 CPACA|Artículo 19]] — PETICIONES IRRESPETUOSAS, OSCURAS O REITERATIVAS
-- [[art. 20 CPACA|Artículo 20]] — ATENCIÓN PRIORITARIA DE PETICIONES
-- [[art. 21 CPACA|Artículo 21]] — FUNCIONARIO SIN COMPETENCIA
-- [[art. 22 CPACA|Artículo 22]] — ORGANIZACIÓN PARA EL TRÁMITE INTERNO Y DECISIÓN DE LAS PETICIONES
-- [[art. 23 CPACA|Artículo 23]] — DEBERES ESPECIALES DE LOS PERSONEROS DISTRITALES Y MUNICIPALES Y DE LOS SERVIDORES DE LA PROCURADURÍA Y LA DEFENSORÍA DEL PUEBLO
+- [[art. 13 CPACA|Artículo 13]] — Objeto y modalidades del derecho de petición ante autoridades
+- [[art. 14 CPACA|Artículo 14]] — Términos para resolver las distintas modalidades de peticiones
+- [[art. 15 CPACA|Artículo 15]] — Presentación y radicación de peticiones
+- [[art. 16 CPACA|Artículo 16]] — Contenido de las peticiones
+- [[art. 17 CPACA|Artículo 17]] — Peticiones incompletas y desistimiento tácito
+- [[art. 18 CPACA|Artículo 18]] — Desistimiento expreso de la petición
+- [[art. 19 CPACA|Artículo 19]] — Peticiones irrespetuosas, oscuras o reiterativas
+- [[art. 20 CPACA|Artículo 20]] — Atención prioritaria de peticiones
+- [[art. 21 CPACA|Artículo 21]] — Funcionario sin competencia
+- [[art. 22 CPACA|Artículo 22]] — Organización para el trámite interno y decisión de las peticiones
+- [[art. 23 CPACA|Artículo 23]] — Deberes especiales de los Personeros Distritales y Municipales y de los servidores de la Procuraduría y la Defensoría del Pueblo
 
 ---
 ↑ [[CPACA - Parte Primera - Título II|Título II]] · [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]] →

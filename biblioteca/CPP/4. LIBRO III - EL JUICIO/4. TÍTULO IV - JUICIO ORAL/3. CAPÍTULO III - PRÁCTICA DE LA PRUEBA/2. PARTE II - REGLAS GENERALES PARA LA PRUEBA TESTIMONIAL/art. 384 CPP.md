@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "384"
-epigrafe: "MEDIDAS ESPECIALES PARA ASEGURAR LA COMPARECENCIA DE TESTIGOS"
+epigrafe: "Medidas especiales para asegurar la comparecencia de testigos"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 384. MEDIDAS ESPECIALES PARA ASEGURAR LA COMPARECENCIA DE TESTIGOS
+## Artículo 384. Medidas especiales para asegurar la comparecencia de testigos
 
 Si el testigo debidamente citado se negare a comparecer, el juez expedirá a la Policía Nacional o cualquier otra autoridad, orden para su aprehensión y conducción a la sede de la audiencia. Su renuencia a declarar se castigará con arresto hasta por veinticuatro (24) horas, al cabo de las cuales, si persiste su negativa, se le procesará.
 

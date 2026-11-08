@@ -81,13 +81,13 @@ La tarifa del impuesto unificado bajo el régimen simple de Tributación –SIMP
 | 15.000 | 30.000 | 4,0% |
 | 30.000 | 100.000 | 4,5% |
 
-4.
+4\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-540-23, mediante Sentencia C-094-24 de 3 de abril de 2024, Magistrada Ponente Dra. María Cristina Pardo Schlesinger. - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-540-23, mediante Sentencia C-541-23 de 5 de diciembre de 2023, Magistrada Ponente Dra. Cristina Pardo Schlesinger. - Numeral modificado por la Ley 2277 de 2022 declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-540-23 de 5 de diciembre de 2023, Magistradas Ponentes Dras. Paola Andrea Meneses Mosquera y Cristina Pardo Schlesinger. Revive el numeral 3º del artículo [[art. 42 Ley 2155 de 2021|42]] de la Ley 2155 de 2021 que en su momento modificó el artículo [[art. 908 ET|908]] del Estatuto Tributario.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 
@@ -155,13 +155,13 @@ La base del anticipo depende de los ingresos brutos bimestrales y de la activida
 | 2.500 | 5.000 | 4,0% |
 | 5.000 | 16.666 | 4,5% |
 
-4.
+4\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-540-23, mediante Sentencia C-094-24 de 3 de abril de 2024, Magistrada Ponente Dra. María Cristina Pardo Schlesinger. - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-540-23, mediante Sentencia C-541-23 de 5 de diciembre de 2023, Magistrada Ponente Dra. Cristina Pardo Schlesinger. - Numeral modificado por la Ley 2277 de 2022 declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-540-23 de 5 de diciembre de 2023, Magistradas Ponentes Dras. Paola Andrea Meneses Mosquera y Cristina Pardo Schlesinger. Revive el numeral 3º del artículo [[art. 42 Ley 2155 de 2021|42]] de la Ley 2155 de 2021 que en su momento modificó el artículo [[art. 908 ET|908]] del Estatuto Tributario.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

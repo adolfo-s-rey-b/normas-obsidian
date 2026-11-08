@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 36 Ley 1563 de 2012|Artículo 36]] — INTEGRACIÓN DEL CONTRADICTORIO
-- [[art. 37 Ley 1563 de 2012|Artículo 37]] — INTERVENCIÓN DE OTRAS PARTES Y TERCEROS
+- [[art. 36 Ley 1563 de 2012|Artículo 36]] — Integración del contradictorio
+- [[art. 37 Ley 1563 de 2012|Artículo 37]] — Intervención de otras partes y terceros
 
 ---
 ← [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]] · ↑ [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] · [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]] →

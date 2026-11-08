@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "68"
-epigrafe: "AUTORIDAD JUDICIAL COMPETENTE"
+epigrafe: "Autoridad judicial competente"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]]
 
-## Artículo 68. AUTORIDAD JUDICIAL COMPETENTE
+## Artículo 68. Autoridad judicial competente
 
 La autoridad judicial competente para ejercer las funciones a que se refieren los artículos [[art. 71 Ley 1563 de 2012|71]], [[art. 73 Ley 1563 de 2012|73]] numerales 5 y 6, 76 numeral 2, 77 numeral 1, 88 inciso 1 y 3, 89, 90, 100, 111 y 116 será el juez civil del circuito. No obstante, cuando se trate de tribunales arbitrales en los que sea parte una entidad pública colombiana o quien ejerza funciones administrativas colombianas, lo será el juez administrativo.
 

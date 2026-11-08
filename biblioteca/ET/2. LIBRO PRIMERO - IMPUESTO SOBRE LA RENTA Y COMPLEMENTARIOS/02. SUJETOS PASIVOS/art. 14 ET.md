@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "14"
-epigrafe: "LAS SOCIEDADES ANONIMAS Y ASIMILADAS ESTAN SOMETIDAS AL IMPUESTO"
+epigrafe: "LAS SOCIEDADES ANÓNIMAS Y ASIMILADAS ESTÁN SOMETIDAS AL IMPUESTO"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 14. LAS SOCIEDADES ANONIMAS Y ASIMILADAS ESTAN SOMETIDAS AL IMPUESTO
+## Artículo 14. LAS SOCIEDADES ANÓNIMAS Y ASIMILADAS ESTÁN SOMETIDAS AL IMPUESTO
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 4 ET|4]]o.) Las sociedades anónimas y asimiladas están sometidas al impuesto sobre la renta y complementarios, sin perjuicio de que los respectivos accionistas, socios o suscriptores, paguen el impuesto que les corresponda sobre sus acciones y dividendos o certificados de inversión y utilidades, cuando éstas resulten gravadas de conformidad con las normas vigentes
 

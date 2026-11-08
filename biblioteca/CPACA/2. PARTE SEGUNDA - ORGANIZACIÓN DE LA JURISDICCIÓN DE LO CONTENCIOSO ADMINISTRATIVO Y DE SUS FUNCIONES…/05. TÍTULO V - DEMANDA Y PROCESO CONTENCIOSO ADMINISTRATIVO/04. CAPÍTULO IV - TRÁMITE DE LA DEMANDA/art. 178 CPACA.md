@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "178"
-epigrafe: "DESISTIMIENTO TÁCITO"
+epigrafe: "Desistimiento tácito"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 178. DESISTIMIENTO TÁCITO
+## Artículo 178. Desistimiento tácito
 
 Transcurrido un plazo de treinta (30) días sin que se hubiese realizado el acto necesario para continuar el trámite de la demanda, del incidente o de cualquier otra actuación que se promueva a instancia de parte, el Juez ordenará a la parte interesada mediante auto que lo cumpla dentro de los quince (15) días siguientes.
 

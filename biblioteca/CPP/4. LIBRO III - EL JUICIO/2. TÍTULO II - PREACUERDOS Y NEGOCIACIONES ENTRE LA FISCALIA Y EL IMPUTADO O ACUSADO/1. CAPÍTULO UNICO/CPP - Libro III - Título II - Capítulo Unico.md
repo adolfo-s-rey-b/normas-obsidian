@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 348 CPP|Artículo 348]] — FINALIDADES
-- [[art. 349 CPP|Artículo 349]] — IMPROCEDENCIA DE ACUERDOS O NEGOCIACIONES CON EL IMPUTADO O ACUSADO
-- [[art. 350 CPP|Artículo 350]] — PREACUERDOS DESDE LA AUDIENCIA DE FORMULACIÓN DE IMPUTACIÓN
-- [[art. 351 CPP|Artículo 351]] — MODALIDADES
-- [[art. 352 CPP|Artículo 352]] — PREACUERDOS POSTERIORES A LA PRESENTACIÓN DE LA ACUSACIÓN
-- [[art. 353 CPP|Artículo 353]] — ACEPTACIÓN TOTAL O PARCIAL DE LOS CARGOS
-- [[art. 354 CPP|Artículo 354]] — REGLAS COMUNES
+- [[art. 348 CPP|Artículo 348]] — Finalidades
+- [[art. 349 CPP|Artículo 349]] — Improcedencia de acuerdos o negociaciones con el imputado o acusado
+- [[art. 350 CPP|Artículo 350]] — Preacuerdos desde la audiencia de formulación de imputación
+- [[art. 351 CPP|Artículo 351]] — Modalidades
+- [[art. 352 CPP|Artículo 352]] — Preacuerdos posteriores a la presentación de la acusación
+- [[art. 353 CPP|Artículo 353]] — Aceptación total o parcial de los cargos
+- [[art. 354 CPP|Artículo 354]] — Reglas comunes
 
 ---
 ↑ [[CPP - Libro III - Título II|Título II]]

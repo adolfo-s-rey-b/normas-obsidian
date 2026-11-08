@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "161"
-epigrafe: "DURACIÓN"
+epigrafe: "DURACION"
 titulo: "[[CST - Título VI|TÍTULO VI - JORNADA DE TRABAJO]]"
 capitulo: "[[CST - Título VI - Capítulo II|CAPÍTULO II - JORNADA MAXIMA]]"
 vigencia: "modificado"
@@ -41,7 +41,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título VI|Título VI]] › [[CST - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 161. DURACIÓN
+## Artículo 161. DURACION
 
 La duración máxima de la jornada ordinaria de trabajo es de ocho (8) horas al día, sin perjuicio de lo establecido en el artículo [[art. 3 Ley 2101 de 2021|3]]o de la Ley 2101 de 2021 sobre la aplicación gradual, y una jornada máxima de cuarenta y dos (42) horas a la semana. La jornada máxima semanal podrá ser distribuida, de común acuerdo, entre empleador y trabajador(a), de cinco (5) a seis (6) días a la semana, garantizando siempre el día de descanso y sin afectar el salario.
 

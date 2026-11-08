@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 101 CP|Artículo 101]] — GENOCIDIO
-- [[art. 102 CP|Artículo 102]] — APOLOGÍA DEL GENOCIDIO
+- [[art. 101 CP|Artículo 101]] — Genocidio
+- [[art. 102 CP|Artículo 102]] — Apologia del genocidio
 
 ---
 ↑ [[CP - Libro Segundo - Título I|Título I]] · [[CP - Libro Segundo - Título I - Capítulo Segundo|Capítulo Segundo]] →

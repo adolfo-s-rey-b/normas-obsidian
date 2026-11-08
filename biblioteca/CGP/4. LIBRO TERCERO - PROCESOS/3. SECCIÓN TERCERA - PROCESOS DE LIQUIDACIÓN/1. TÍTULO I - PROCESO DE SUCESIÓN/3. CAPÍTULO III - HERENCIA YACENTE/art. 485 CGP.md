@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "485"
-epigrafe: "DECLARACIÓN DE VACANCIA"
+epigrafe: "Declaración de vacancia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 485. DECLARACIÓN DE VACANCIA
+## Artículo 485. Declaración de vacancia
 
 Transcurridos diez (10) años desde el fallecimiento del causante sin que se presenten herederos que reclamen la herencia, el juez de oficio o a petición del interesado, la declarará vacante y dará a los dineros de que trata el numeral 4 del artículo [[art. 483 CGP|483]] la destinación que la ley sustancial establece.
 

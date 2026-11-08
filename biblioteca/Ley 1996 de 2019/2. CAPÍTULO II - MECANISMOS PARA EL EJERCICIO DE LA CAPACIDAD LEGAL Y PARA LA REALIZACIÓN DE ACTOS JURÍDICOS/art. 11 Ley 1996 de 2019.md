@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "11"
-epigrafe: "VALORACIÓN DE APOYOS"
+epigrafe: "Valoración de apoyos"
 capitulo: "[[Ley 1996 de 2019 - Capítulo II|CAPÍTULO II - MECANISMOS PARA EL EJERCICIO DE LA CAPACIDAD LEGAL Y PARA LA REALIZACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 10 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo II|Capítulo II]]
 
-## Artículo 11. VALORACIÓN DE APOYOS
+## Artículo 11. Valoración de apoyos
 
 La valoración de apoyos podrá ser realizada por entes públicos o privados, siempre y cuando sigan los lineamientos y protocolos establecidos para este fin por el ente rector de la Política Nacional de Discapacidad. Cualquier persona podrá solicitar de manera gratuita el servicio de valoración de apoyos ante los entes públicos que presten dicho servicio. En todo caso, el servicio de valoración de apoyos deberán prestarlo, como mínimo, la Defensoría del Pueblo, la Personería, los entes territoriales a través de las gobernaciones y de las alcaldías en el caso de los distritos.
 

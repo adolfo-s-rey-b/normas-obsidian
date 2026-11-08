@@ -21,12 +21,12 @@ tags:
 
 ### Contenido
 
-- [[art. 23 Ley 1480 de 2011|Artículo 23]] — INFORMACIÓN MÍNIMA Y RESPONSABILIDAD
-- [[art. 24 Ley 1480 de 2011|Artículo 24]] — CONTENIDO DE LA INFORMACIÓN
-- [[art. 25 Ley 1480 de 2011|Artículo 25]] — CONDICIONES ESPECIALES
-- [[art. 26 Ley 1480 de 2011|Artículo 26]] — INFORMACIÓN PÚBLICA DE PRECIOS
-- [[art. 27 Ley 1480 de 2011|Artículo 27]] — CONSTANCIA
-- [[art. 28 Ley 1480 de 2011|Artículo 28]] — DERECHO A LA INFORMACIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES
+- [[art. 23 Ley 1480 de 2011|Artículo 23]] — Información mínima y responsabilidad
+- [[art. 24 Ley 1480 de 2011|Artículo 24]] — Contenido de la información
+- [[art. 25 Ley 1480 de 2011|Artículo 25]] — Condiciones especiales
+- [[art. 26 Ley 1480 de 2011|Artículo 26]] — Información pública de precios
+- [[art. 27 Ley 1480 de 2011|Artículo 27]] — Constancia
+- [[art. 28 Ley 1480 de 2011|Artículo 28]] — Derecho a la información de los niños, niñas y adolescentes
 
 ---
 ↑ [[Ley 1480 de 2011 - Título V|Título V]]

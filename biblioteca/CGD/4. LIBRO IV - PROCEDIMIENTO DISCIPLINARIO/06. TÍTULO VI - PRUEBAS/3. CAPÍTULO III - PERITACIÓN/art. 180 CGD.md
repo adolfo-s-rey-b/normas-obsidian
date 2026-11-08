@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "180"
-epigrafe: "CONTRADICCIÓN DEL DICTAMEN"
+epigrafe: "Contradicción del dictamen"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 180. CONTRADICCIÓN DEL DICTAMEN
+## Artículo 180. Contradicción del dictamen
 
 Recibido el dictamen, el funcionario competente examinará que se haya cumplido a cabalidad con lo ordenado; si no fuere así, lo devolverá al perito para que proceda a su corrección o complementación. De satisfacer todos los requisitos mediante decisión que se notificará por estado, se correrá su traslado a los sujetos procesales por el término común de tres (3) días para que puedan solicitar su aclaración, complementación o adición.
 

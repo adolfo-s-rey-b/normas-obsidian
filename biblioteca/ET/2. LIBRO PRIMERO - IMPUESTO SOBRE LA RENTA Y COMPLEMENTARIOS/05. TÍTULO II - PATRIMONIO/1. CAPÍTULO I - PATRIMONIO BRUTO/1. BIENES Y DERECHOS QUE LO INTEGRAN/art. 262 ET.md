@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "262"
-epigrafe: "QUE SON DERECHOS APRECIABLES EN DINERO"
+epigrafe: "QUÉ SON DERECHOS APRECIABLES EN DINERO"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Bienes y derechos que lo integran|Bienes y derechos que lo integran]]
 
-## Artículo 262. QUE SON DERECHOS APRECIABLES EN DINERO
+## Artículo 262. QUÉ SON DERECHOS APRECIABLES EN DINERO
 
 Son derechos apreciables en dinero, los reales y personales, en cuanto sean susceptibles de ser utilizados en cualquier forma para la obtención de una renta.
 

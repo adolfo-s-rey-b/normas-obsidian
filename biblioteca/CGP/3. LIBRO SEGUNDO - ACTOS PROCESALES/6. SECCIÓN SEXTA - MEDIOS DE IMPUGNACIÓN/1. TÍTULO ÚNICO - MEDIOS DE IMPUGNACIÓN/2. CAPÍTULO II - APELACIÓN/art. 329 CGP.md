@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "329"
-epigrafe: "CUMPLIMIENTO DE LA DECISIÓN DEL SUPERIOR"
+epigrafe: "Cumplimiento de la decisión del superior"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 329. CUMPLIMIENTO DE LA DECISIÓN DEL SUPERIOR
+## Artículo 329. Cumplimiento de la decisión del superior
 
 Decidida la apelación y devuelto el expediente al inferior, este dictará auto de obedecimiento a lo resuelto por el superior y en la misma providencia dispondrá lo pertinente para su cumplimiento.
 

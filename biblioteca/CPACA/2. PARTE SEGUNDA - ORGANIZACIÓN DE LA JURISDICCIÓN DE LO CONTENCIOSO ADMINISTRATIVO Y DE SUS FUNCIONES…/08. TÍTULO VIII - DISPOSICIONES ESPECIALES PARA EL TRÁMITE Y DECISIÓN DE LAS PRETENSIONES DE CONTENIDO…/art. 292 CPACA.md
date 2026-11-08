@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "292"
-epigrafe: "APELACIÓN DE LA SENTENCIA"
+epigrafe: "Apelación de la sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 292. APELACIÓN DE LA SENTENCIA
+## Artículo 292. Apelación de la sentencia
 
 El recurso se interpondrá y sustentará ante él a quo en el acto de notificación o dentro de los cinco (5) días siguientes, y se concederá en el efecto suspensivo. Si el recurso no es sustentado oportunamente el inferior lo declarará desierto y ejecutoriada la sentencia.
 

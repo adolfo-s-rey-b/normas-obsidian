@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 139 CGP|Artículo 139]] — TRÁMITE
+- [[art. 139 CGP|Artículo 139]] — Trámite
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] · [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|Capítulo II]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "281"
-epigrafe: "CARTELERA ELECTRÓNICA DE REMATE"
+epigrafe: "Cartelera electrónica de remate"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 281. CARTELERA ELECTRÓNICA DE REMATE
+## Artículo 281. Cartelera electrónica de remate
 
 La secretaría del juzgado publicará el listado de remates junto con la identificación del proceso, el tipo, clase y especificaciones de bienes a subastar, en la plataforma virtual que el Consejo Superior de la Judicatura disponga para tal fin.
 

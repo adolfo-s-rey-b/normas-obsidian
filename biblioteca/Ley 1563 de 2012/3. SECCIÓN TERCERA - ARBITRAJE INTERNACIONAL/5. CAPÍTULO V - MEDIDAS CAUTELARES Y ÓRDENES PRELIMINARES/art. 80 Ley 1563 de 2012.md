@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "80"
-epigrafe: "FACULTAD DEL TRIBUNAL ARBITRAL PARA DECRETAR MEDIDAS CAUTELARES"
+epigrafe: "Facultad del tribunal arbitral para decretar medidas cautelares"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 80. FACULTAD DEL TRIBUNAL ARBITRAL PARA DECRETAR MEDIDAS CAUTELARES
+## Artículo 80. Facultad del tribunal arbitral para decretar medidas cautelares
 
 Salvo acuerdo en contrario de las partes, el tribunal arbitral podrá, a instancia de cualquiera de ellas, decretar medidas cautelares.
 

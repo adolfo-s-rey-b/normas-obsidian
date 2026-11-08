@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "98"
-epigrafe: "RESERVA MATEMATICA Y RESERVA TECNICA"
+epigrafe: "RESERVA MATEMÁTICA Y RESERVA TÉCNICA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo IV|CAPÍTULO IV - RENTAS BRUTAS ESPECIALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo IV|Capítulo IV]] › [[ET - Libro Primero - Título I - Capítulo IV - Activos biológicos|Activos biológicos]]
 
-## Artículo 98. RESERVA MATEMATICA Y RESERVA TECNICA
+## Artículo 98. RESERVA MATEMÁTICA Y RESERVA TÉCNICA
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 39 ET|39]] Inc. 1o.) Por reserva matemática se entiende la fijada por las compañías de seguros de vida y por las de capitalización, y no puede exceder los límites establecidos, en cada caso, por la Superintendencia Bancaria*.
 

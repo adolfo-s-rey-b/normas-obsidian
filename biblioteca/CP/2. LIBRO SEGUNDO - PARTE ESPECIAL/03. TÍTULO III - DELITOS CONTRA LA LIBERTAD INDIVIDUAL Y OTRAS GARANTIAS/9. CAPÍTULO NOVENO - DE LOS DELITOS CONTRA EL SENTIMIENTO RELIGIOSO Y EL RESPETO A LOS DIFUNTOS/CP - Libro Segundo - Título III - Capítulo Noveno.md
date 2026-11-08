@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 201 CP|Artículo 201]] — VIOLACIÓN A LA LIBERTAD RELIGIOSA
-- [[art. 202 CP|Artículo 202]] — IMPEDIMENTO Y PERTURBACIÓN DE CEREMONIA RELIGIOSA
-- [[art. 203 CP|Artículo 203]] — DAÑOS O AGRAVIOS A PERSONAS O A COSAS DESTINADAS AL CULTO
+- [[art. 201 CP|Artículo 201]] — Violación a la libertad religiosa
+- [[art. 202 CP|Artículo 202]] — Impedimento y perturbación de ceremonia religiosa
+- [[art. 203 CP|Artículo 203]] — Daños o agravios a personas o a cosas destinadas al culto
 - [[art. 204 CP|Artículo 204]] — Irrespeto a cadaveres
 
 ---

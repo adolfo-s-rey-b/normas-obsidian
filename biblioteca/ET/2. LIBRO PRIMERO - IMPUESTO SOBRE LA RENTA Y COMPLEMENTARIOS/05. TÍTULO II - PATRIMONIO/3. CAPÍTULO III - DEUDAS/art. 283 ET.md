@@ -10,11 +10,11 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "283"
-epigrafe: "DEUDAS"
+epigrafe: "Deudas"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo III|CAPÍTULO III - DEUDAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 119 Ley 1819 de 2016]]"
 derogado_por:
@@ -33,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 283. DEUDAS
+## Artículo 283. Deudas
 
 Para efectos de este estatuto las deudas se entienden como un pasivo que corresponde a una obligación presente de la entidad, surgida a raíz de sucesos pasados, al vencimiento de la cual, y para cancelarla la entidad espera desprenderse de recursos que incorporan beneficios económicos.
 

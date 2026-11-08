@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "204"
-epigrafe: "DECLARATORIA OFICIOSA"
+epigrafe: "Declaratoria oficiosa"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VIII|TÍTULO VIII - NULIDADES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VIII|Título VIII]]
 
-## Artículo 204. DECLARATORIA OFICIOSA
+## Artículo 204. Declaratoria oficiosa
 
 En cualquier estado de la actuación disciplinaria, cuando el funcionario que conozca del asunto advierta la existencia de alguna de las causales previstas en la norma anterior, declarará la nulidad de lo actuado. Contra esta providencia no procede recurso.
 

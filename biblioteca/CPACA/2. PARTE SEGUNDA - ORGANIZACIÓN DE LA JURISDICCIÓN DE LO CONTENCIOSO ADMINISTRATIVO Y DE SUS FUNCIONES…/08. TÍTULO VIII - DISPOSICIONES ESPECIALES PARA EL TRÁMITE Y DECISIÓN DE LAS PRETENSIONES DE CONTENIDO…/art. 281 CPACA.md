@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "281"
-epigrafe: "IMPROCEDENCIA DE ACUMULACIÓN DE CAUSALES DE NULIDAD OBJETIVAS Y SUBJETIVAS"
+epigrafe: "Improcedencia de acumulación de causales de nulidad objetivas y subjetivas"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 281. IMPROCEDENCIA DE ACUMULACIÓN DE CAUSALES DE NULIDAD OBJETIVAS Y SUBJETIVAS
+## Artículo 281. Improcedencia de acumulación de causales de nulidad objetivas y subjetivas
 
 En una misma demanda no pueden acumularse causales de nulidad relativas a vicios en las calidades, requisitos e inhabilidades del elegido o nombrado, con las que se funden en irregularidades en el proceso de votación y en el escrutinio.
 

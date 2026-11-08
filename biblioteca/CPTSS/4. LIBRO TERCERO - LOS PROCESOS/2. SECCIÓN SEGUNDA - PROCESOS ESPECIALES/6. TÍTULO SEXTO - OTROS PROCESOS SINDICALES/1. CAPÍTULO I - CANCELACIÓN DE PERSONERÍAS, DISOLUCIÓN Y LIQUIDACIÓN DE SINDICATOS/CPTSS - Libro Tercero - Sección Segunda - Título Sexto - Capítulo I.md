@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 313 CPTSS|Artículo 313]] — CANCELACIÓN DE PERSONERÍAS, DISOLUCIÓN Y LIQUIDACIÓN DE SINDICATOS
+- [[art. 313 CPTSS|Artículo 313]] — Cancelación de personerías, disolución y liquidación de sindicatos
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|Título Sexto]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo II|Capítulo II]] →

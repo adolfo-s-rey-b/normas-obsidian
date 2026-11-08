@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "118"
-epigrafe: "DETERMINACIÓN DE LA CULPABILIDAD EN LOS PROCESOS DE RESPONSABILIDAD FISCAL"
+epigrafe: "Determinación de la culpabilidad en los procesos de responsabilidad fiscal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]]
 
-## Artículo 118. DETERMINACIÓN DE LA CULPABILIDAD EN LOS PROCESOS DE RESPONSABILIDAD FISCAL
+## Artículo 118. Determinación de la culpabilidad en los procesos de responsabilidad fiscal
 
 El grado de culpabilidad para establecer la existencia de responsabilidad fiscal será el dolo o la culpa grave.
 

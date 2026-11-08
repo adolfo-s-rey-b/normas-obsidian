@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "21"
-epigrafe: "DEL TRATAMIENTO Y PREFERENCIA DE LAS OFERTAS NACIONALES"
+epigrafe: "Del Tratamiento y Preferencia de las Ofertas Nacionales"
 vigencia: "vigente"
 anterior: "[[art. 20 Ley 80 de 1993]]"
 siguiente: "[[art. 22 Ley 80 de 1993]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 21. DEL TRATAMIENTO Y PREFERENCIA DE LAS OFERTAS NACIONALES
+## Artículo 21. Del Tratamiento y Preferencia de las Ofertas Nacionales
 
 Las entidades estatales garantizarán la participación de los oferentes de bienes y servicios de origen nacional, en condiciones competitivas de calidad, oportunidad y precio, sin perjuicio del procedimiento de selección objetiva que se utilice y siempre y cuando exista oferta de origen nacional.
 

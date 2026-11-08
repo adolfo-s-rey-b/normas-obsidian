@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "44"
-epigrafe: "ORIENTACION Y COORDINACION SECTORIAL"
+epigrafe: "Orientación y coordinación sectorial"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 43 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 44. ORIENTACION Y COORDINACION SECTORIAL
+## Artículo 44. Orientación y coordinación sectorial
 
 La orientación del ejercicio de las funciones a cargo de los organismos y entidades que conforman un Sector Administrativo está a cargo del Ministro o Director del Departamento Administrativo a cuyo despacho se encuentran adscritos o vinculados, sin perjuicio de las potestades de decisión, que de acuerdo con la ley y los actos de creación o de reestructuración, les correspondan.
 

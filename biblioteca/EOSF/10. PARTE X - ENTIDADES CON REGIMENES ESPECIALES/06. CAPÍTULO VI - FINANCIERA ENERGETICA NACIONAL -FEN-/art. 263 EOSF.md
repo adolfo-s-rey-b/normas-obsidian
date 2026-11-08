@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "263"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones finales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VI|CAPÍTULO VI - FINANCIERA ENERGETICA NACIONAL -FEN-]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VI|Capítulo VI]]
 
-## Artículo 263. DISPOSICIONES FINALES
+## Artículo 263. Disposiciones finales
 
 1\. Entidades del sector energético. Entiéndese por entidades del sector energético todas aquellas personas de derecho público o de derecho privado cuyo objeto sea:
 

@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "418"
-epigrafe: "CASOS EN LOS CUALES NO SE EFECTUA LA RETENCIÓN"
+epigrafe: "CASOS EN LOS CUALES NO SE EFECTÚA LA RETENCIÓN"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IX|CAPÍTULO IX - POR PAGOS AL EXTERIOR]]"
 rubro: "[[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de remesas|A TÍTULO DEL IMPUESTO DE REMESAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 78 Ley 1111 de 2006]]"
 anterior: "[[art. 417 ET]]"
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IX|Capítulo IX]] › [[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de remesas|A título del impuesto de remesas]]
 
-## Artículo 418. CASOS EN LOS CUALES NO SE EFECTUA LA RETENCIÓN
+## Artículo 418. CASOS EN LOS CUALES NO SE EFECTÚA LA RETENCIÓN
 
 No habrá retención sobre los pagos o abonos en cuenta que no correspondan a rentas o ganancias ocasionales de fuente nacional, hecho que deberá demostrarse cuando así lo exija la Dirección General de Impuestos Nacionales.
 

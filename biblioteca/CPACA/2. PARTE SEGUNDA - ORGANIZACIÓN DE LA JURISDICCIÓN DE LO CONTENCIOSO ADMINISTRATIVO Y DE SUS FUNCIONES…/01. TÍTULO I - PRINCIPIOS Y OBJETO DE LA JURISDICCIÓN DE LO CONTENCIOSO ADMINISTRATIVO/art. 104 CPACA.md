@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "104"
-epigrafe: "DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO"
+epigrafe: "De la Jurisdicción de lo Contencioso Administrativo"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título I|TÍTULO I - PRINCIPIOS Y OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título I|Título I]]
 
-## Artículo 104. DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
+## Artículo 104. De la Jurisdicción de lo Contencioso Administrativo
 
 La Jurisdicción de lo Contencioso Administrativo está instituida para conocer, además de lo dispuesto en la Constitución Política y en leyes especiales, de las controversias y litigios originados en actos, contratos, hechos, omisiones y operaciones, sujetos al derecho administrativo, en los que estén involucradas las entidades públicas, o los particulares cuando ejerzan función administrativa.
 

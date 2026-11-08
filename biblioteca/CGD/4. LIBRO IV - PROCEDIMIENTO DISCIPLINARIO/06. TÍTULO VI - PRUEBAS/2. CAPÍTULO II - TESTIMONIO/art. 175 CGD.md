@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "175"
-epigrafe: "PRÁCTICA DEL INTERROGATORIO"
+epigrafe: "Practica del interrogatorio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 175. PRÁCTICA DEL INTERROGATORIO
+## Artículo 175. Practica del interrogatorio
 
 La recepción del testimonio se sujetará a las siguientes reglas:
 

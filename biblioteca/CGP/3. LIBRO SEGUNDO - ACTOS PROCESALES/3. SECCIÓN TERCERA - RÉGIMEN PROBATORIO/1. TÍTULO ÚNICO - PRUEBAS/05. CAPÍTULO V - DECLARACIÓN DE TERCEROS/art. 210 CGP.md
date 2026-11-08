@@ -8,12 +8,12 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "210"
-epigrafe: "INHABILIDADES PARA TESTIMONIAR"
+epigrafe: "Inhabilidades para testimoniar"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
 capitulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|CAPÍTULO V - DECLARACIÓN DE TERCEROS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 61 Ley 1996 de 2019]]"
 anterior: "[[art. 209 CGP]]"
@@ -28,12 +28,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 210. INHABILIDADES PARA TESTIMONIAR
+## Artículo 210. Inhabilidades para testimoniar
 
 > [!warning] Inciso derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019
 

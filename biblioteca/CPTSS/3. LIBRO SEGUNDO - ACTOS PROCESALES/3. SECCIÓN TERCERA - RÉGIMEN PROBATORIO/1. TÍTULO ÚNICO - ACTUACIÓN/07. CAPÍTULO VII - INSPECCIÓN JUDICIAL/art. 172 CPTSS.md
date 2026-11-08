@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "172"
-epigrafe: "INSPECCIÓN DE BIENES MUEBLES O DOCUMENTOS"
+epigrafe: "Inspección de bienes muebles o documentos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 172. INSPECCIÓN DE BIENES MUEBLES O DOCUMENTOS
+## Artículo 172. Inspección de bienes muebles o documentos
 
 Cuando la inspección deba versar sobre bienes muebles o documentos que se hallen en poder de la parte contraria o de terceros se aplicarán también las disposiciones sobre exhibición.
 

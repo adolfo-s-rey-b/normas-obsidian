@@ -24,9 +24,9 @@ tags:
 ### Contenido
 
 - [[art. 279 CP|Artículo 279]] — Falsificación o uso fraudulento de sello oficial
-- [[art. 280 CP|Artículo 280]] — FALSIFICACIÓN DE EFECTO OFICIAL TIMBRADO
+- [[art. 280 CP|Artículo 280]] — Falsificación de efecto oficial timbrado
 - [[art. 281 CP|Artículo 281]] — Circulación y uso de efecto oficial o sello falsificado
-- [[art. 282 CP|Artículo 282]] — EMISIÓN ILEGAL DE EFECTOS OFICIALES
+- [[art. 282 CP|Artículo 282]] — Emisión ilegal de efectos oficiales
 - [[art. 283 CP|Artículo 283]] — Supresión de signo de anulación de efecto oficial
 - [[art. 284 CP|Artículo 284]] — Uso y circulación de efecto oficial anulado
 - [[art. 285 CP|Artículo 285]] — FALSEDAD MARCARIA

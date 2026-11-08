@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "467"
-epigrafe: "BASE GRAVABLE EN OTROS PRODUCTOS DERIVADOS DEL PETROLEO"
+epigrafe: "BASE GRAVABLE EN OTROS PRODUCTOS DERIVADOS DEL PETRÓLEO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 467. BASE GRAVABLE EN OTROS PRODUCTOS DERIVADOS DEL PETROLEO
+## Artículo 467. BASE GRAVABLE EN OTROS PRODUCTOS DERIVADOS DEL PETRÓLEO
 
 La base gravable en la venta de los siguientes productos derivados del petróleo se determinará así:
 

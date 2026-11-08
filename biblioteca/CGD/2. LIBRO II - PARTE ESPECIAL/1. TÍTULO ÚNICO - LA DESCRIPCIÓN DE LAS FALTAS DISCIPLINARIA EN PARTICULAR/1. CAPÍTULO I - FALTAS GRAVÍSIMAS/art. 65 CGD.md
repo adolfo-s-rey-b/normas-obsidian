@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "65"
-epigrafe: "FALTAS QUE COINCIDEN CON DESCRIPCIONES TÍPICAS DE LA LEY PENAL"
+epigrafe: "Faltas que coinciden con descripciones típicas de la ley penal"
 libro: "[[CGD - Libro II|LIBRO II - PARTE ESPECIAL]]"
 titulo: "[[CGD - Libro II - Título Único|TÍTULO ÚNICO - LA DESCRIPCIÓN DE LAS FALTAS DISCIPLINARIA EN PARTICULAR]]"
 capitulo: "[[CGD - Libro II - Título Único - Capítulo I|CAPÍTULO I - FALTAS GRAVÍSIMAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro II|Libro II]] › [[CGD - Libro II - Título Único|Título Único]] › [[CGD - Libro II - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 65. FALTAS QUE COINCIDEN CON DESCRIPCIONES TÍPICAS DE LA LEY PENAL
+## Artículo 65. Faltas que coinciden con descripciones típicas de la ley penal
 
 Cuando la conducta no pueda adecuarse a ninguna de las anteriores faltas, en virtud de los principios de especialidad y subsidiariedad, constituirá falta gravísima realizar objetivamente una descripción típica consagrada en la ley como delito sancionable a título de dolo, cuando se cometa en razón, con ocasión o como consecuencia de la función o cargo, o abusando de él.
 

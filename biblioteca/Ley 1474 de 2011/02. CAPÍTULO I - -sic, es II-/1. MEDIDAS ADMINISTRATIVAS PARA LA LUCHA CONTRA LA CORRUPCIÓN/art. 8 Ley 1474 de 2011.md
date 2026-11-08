@@ -4,10 +4,10 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "8"
-epigrafe: "DESIGNACIÓN DE RESPONSABLE DEL CONTROL INTERNO"
+epigrafe: "Designación de responsable del control interno"
 capitulo: "[[Ley 1474 de 2011 - Capítulo I (2)|CAPÍTULO I - <sic, es II>]]"
 rubro: "[[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 166 Decreto 403 de 2020]]"
 anterior: "[[art. 7 Ley 1474 de 2011]]"
@@ -22,12 +22,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo I (2)|Capítulo I]] › [[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|Medidas administrativas para la lucha contra la…]]
 
-## Artículo 8. DESIGNACIÓN DE RESPONSABLE DEL CONTROL INTERNO
+## Artículo 8. Designación de responsable del control interno
 
 Modifíquese el artículo [[art. 11 Ley 87 de 1993|11]] de la Ley 87 de 1993, que quedará así:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "6"
-epigrafe: "CALIDAD, IDONEIDAD Y SEGURIDAD DE LOS PRODUCTOS"
+epigrafe: "Calidad, idoneidad y seguridad de los productos"
 titulo: "[[Ley 1480 de 2011 - Título II|TÍTULO II - DE LA CALIDAD, IDONEIDAD Y SEGURIDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 5 Ley 1480 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título II|Título II]]
 
-## Artículo 6. CALIDAD, IDONEIDAD Y SEGURIDAD DE LOS PRODUCTOS
+## Artículo 6. Calidad, idoneidad y seguridad de los productos
 
 Todo productor debe asegurar la idoneidad y seguridad de los bienes y servicios que ofrezca o ponga en el mercado, así como la calidad ofrecida. En ningún caso estas podrán ser inferiores o contravenir lo previsto en reglamentos técnicos y medidas sanitarias o fitosanitarias.
 

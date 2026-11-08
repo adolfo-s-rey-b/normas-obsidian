@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "267"
-epigrafe: "EFECTOS DE LA SENTENCIA"
+epigrafe: "Efectos de la sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 267. EFECTOS DE LA SENTENCIA
+## Artículo 267. Efectos de la sentencia
 
 Si prospera el recurso, total o parcialmente, la sala anulará, en lo pertinente, la providencia recurrida y dictará la que deba reemplazarla o adoptará las decisiones que correspondan. Si el recurso es desestimado, se condenará en costas al recurrente.
 

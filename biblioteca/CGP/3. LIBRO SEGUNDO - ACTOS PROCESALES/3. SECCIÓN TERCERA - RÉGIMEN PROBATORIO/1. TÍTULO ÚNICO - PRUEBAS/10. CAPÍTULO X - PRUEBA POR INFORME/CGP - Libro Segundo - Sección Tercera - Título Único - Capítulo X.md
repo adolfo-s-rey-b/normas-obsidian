@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 275 CGP|Artículo 275]] — PROCEDENCIA
-- [[art. 276 CGP|Artículo 276]] — OBLIGACIÓN DE QUIEN RINDE EL INFORME
-- [[art. 277 CGP|Artículo 277]] — FACULTADES DE LAS PARTES
+- [[art. 275 CGP|Artículo 275]] — Procedencia
+- [[art. 276 CGP|Artículo 276]] — Obligación de quien rinde el informe
+- [[art. 277 CGP|Artículo 277]] — Facultades de las partes
 
 ---
 ← [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]]

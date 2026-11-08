@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "371"
-epigrafe: "DECLARACIÓN INICIAL"
+epigrafe: "Declaración inicial"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo II|CAPÍTULO II - PRESENTACIÓN DEL CASO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 371. DECLARACIÓN INICIAL
+## Artículo 371. Declaración inicial
 
 Antes de proceder a la presentación y práctica de las pruebas, la Fiscalía deberá presentar la teoría del caso. La defensa, si lo desea, podrá hacer lo propio.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "364"
-epigrafe: "PAGO DE EXPENSAS Y HONORARIOS"
+epigrafe: "Pago de expensas y honorarios"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título I|TÍTULO I - COSTAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] › [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 364. PAGO DE EXPENSAS Y HONORARIOS
+## Artículo 364. Pago de expensas y honorarios
 
 El pago de expensas y honorarios se sujetará a las reglas siguientes:
 

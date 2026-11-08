@@ -24,10 +24,10 @@ tags:
 
 - [[art. 258 EOSF|Artículo 258]] — ORGANIZACION
 - [[art. 259 EOSF|Artículo 259]] — DIRECCION Y ADMINISTRACION
-- [[art. 260 EOSF|Artículo 260]] — REGIMEN PATRIMONIAL
-- [[art. 261 EOSF|Artículo 261]] — OPERACIONES
-- [[art. 262 EOSF|Artículo 262]] — VIGILANCIA Y CONTROL
-- [[art. 263 EOSF|Artículo 263]] — DISPOSICIONES FINALES
+- [[art. 260 EOSF|Artículo 260]] — Régimen Patrimonial
+- [[art. 261 EOSF|Artículo 261]] — Operaciones
+- [[art. 262 EOSF|Artículo 262]] — Vigilancia y Control
+- [[art. 263 EOSF|Artículo 263]] — Disposiciones finales
 
 ---
 ← [[EOSF - Parte X - Capítulo V|Capítulo V]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo VII|Capítulo VII]] →

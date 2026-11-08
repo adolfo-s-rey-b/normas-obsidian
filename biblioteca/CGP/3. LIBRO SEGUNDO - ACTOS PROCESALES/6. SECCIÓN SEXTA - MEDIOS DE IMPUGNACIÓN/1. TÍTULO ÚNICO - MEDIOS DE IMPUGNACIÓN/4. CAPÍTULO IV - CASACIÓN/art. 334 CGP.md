@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "334"
-epigrafe: "PROCEDENCIA DEL RECURSO DE CASACIÓN"
+epigrafe: "Procedencia del recurso de casación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 334. PROCEDENCIA DEL RECURSO DE CASACIÓN
+## Artículo 334. Procedencia del recurso de casación
 
 El recurso extraordinario de casación procede contra las siguientes sentencias, cuando son proferidas por los tribunales superiores en segunda instancia:
 

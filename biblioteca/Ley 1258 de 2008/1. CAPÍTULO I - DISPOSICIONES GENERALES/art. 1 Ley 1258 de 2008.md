@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "1"
-epigrafe: "CONSTITUCIÓN"
+epigrafe: "Constitución"
 capitulo: "[[Ley 1258 de 2008 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 siguiente: "[[art. 2 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo I|Capítulo I]]
 
-## Artículo 1. CONSTITUCIÓN
+## Artículo 1. Constitución
 
 La sociedad por acciones simplificada podrá constituirse por una o varias personas naturales o jurídicas, quienes sólo serán responsables hasta el monto de sus respectivos aportes.
 

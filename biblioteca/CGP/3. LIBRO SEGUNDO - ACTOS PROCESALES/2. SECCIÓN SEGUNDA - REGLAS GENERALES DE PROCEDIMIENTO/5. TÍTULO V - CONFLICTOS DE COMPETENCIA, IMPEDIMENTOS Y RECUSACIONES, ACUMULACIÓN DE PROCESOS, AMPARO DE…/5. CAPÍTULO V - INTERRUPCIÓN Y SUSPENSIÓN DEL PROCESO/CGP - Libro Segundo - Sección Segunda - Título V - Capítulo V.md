@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 159 CGP|Artículo 159]] — CAUSALES DE INTERRUPCIÓN
-- [[art. 160 CGP|Artículo 160]] — CITACIONES
-- [[art. 161 CGP|Artículo 161]] — SUSPENSIÓN DEL PROCESO
-- [[art. 162 CGP|Artículo 162]] — DECRETO DE LA SUSPENSIÓN Y SUS EFECTOS
-- [[art. 163 CGP|Artículo 163]] — REANUDACIÓN DEL PROCESO
+- [[art. 159 CGP|Artículo 159]] — Causales de interrupción
+- [[art. 160 CGP|Artículo 160]] — Citaciones
+- [[art. 161 CGP|Artículo 161]] — Suspensión del proceso
+- [[art. 162 CGP|Artículo 162]] — Decreto de la suspensión y sus efectos
+- [[art. 163 CGP|Artículo 163]] — Reanudación del proceso
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo IV|Capítulo IV]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]]

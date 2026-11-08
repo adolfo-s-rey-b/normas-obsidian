@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "87"
-epigrafe: "PRIVILEGIOS Y PRERROGATIVAS"
+epigrafe: "Privilegios y prerrogativas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 86 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 87. PRIVILEGIOS Y PRERROGATIVAS
+## Artículo 87. Privilegios y prerrogativas
 
 Las empresas industriales y comerciales del Estado como integrantes de la Rama Ejecutiva del Poder Público, salvo disposición legal en contrario, gozan de los privilegios y prerrogativas que la Constitución Política y las leyes confieren a la Nación y a las entidades territoriales, según el caso.
 

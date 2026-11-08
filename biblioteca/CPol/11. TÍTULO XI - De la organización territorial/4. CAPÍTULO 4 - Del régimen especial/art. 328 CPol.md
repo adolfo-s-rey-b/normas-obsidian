@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "328"
 titulo: "[[CPol - Título XI|TÍTULO XI - De la organización territorial]]"
 capitulo: "[[CPol - Título XI - Capítulo 4|CAPÍTULO 4 - Del régimen especial]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 2 Acto Legislativo 2 de 2018]]"
   - "[[art. 2 Acto Legislativo 1 de 2019]]"
@@ -35,7 +35,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título XI|Título XI]] › [[CPol - Título XI - Capítulo 4|Capítulo 4]]

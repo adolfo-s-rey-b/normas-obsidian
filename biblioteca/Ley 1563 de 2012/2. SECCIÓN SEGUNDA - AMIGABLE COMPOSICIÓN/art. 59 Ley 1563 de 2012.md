@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "59"
-epigrafe: "DEFINICIÓN"
+epigrafe: "Definición"
 seccion: "[[Ley 1563 de 2012 - Sección Segunda|SECCIÓN SEGUNDA - AMIGABLE COMPOSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 58 Ley 1563 de 2012]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Segunda|Sección Segunda]]
 
-## Artículo 59. DEFINICIÓN
+## Artículo 59. Definición
 
 La amigable composición es un mecanismo alternativo de solución de conflictos, por medio del cual, dos o más particulares, un particular y una o más entidades públicas, o varias entidades públicas, o quien desempeñe funciones administrativas, delegan en un tercero, denominado amigable componedor, la facultad de definir, con fuerza vinculante para las partes, una controversia contractual de libre disposición.
 

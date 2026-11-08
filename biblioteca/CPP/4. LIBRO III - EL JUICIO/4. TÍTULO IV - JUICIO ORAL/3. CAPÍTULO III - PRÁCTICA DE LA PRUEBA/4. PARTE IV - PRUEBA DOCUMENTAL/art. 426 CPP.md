@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "426"
-epigrafe: "MÉTODOS DE AUTENTICACIÓN E IDENTIFICACIÓN"
+epigrafe: "Métodos de autenticación e identificación"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
 
-## Artículo 426. MÉTODOS DE AUTENTICACIÓN E IDENTIFICACIÓN
+## Artículo 426. Métodos de autenticación e identificación
 
 La autenticidad e identificación del documento se probará por métodos como los siguientes:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "128"
-epigrafe: "IDENTIFICACIÓN O INDIVIDUALIZACIÓN"
+epigrafe: "Identificación o individualización"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo III|CAPÍTULO III - IMPUTADO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 128. IDENTIFICACIÓN O INDIVIDUALIZACIÓN
+## Artículo 128. Identificación o individualización
 
 La Fiscalía General de la Nación estará obligada a verificar la correcta identificación o individualización del imputado, a fin de prevenir errores judiciales.
 

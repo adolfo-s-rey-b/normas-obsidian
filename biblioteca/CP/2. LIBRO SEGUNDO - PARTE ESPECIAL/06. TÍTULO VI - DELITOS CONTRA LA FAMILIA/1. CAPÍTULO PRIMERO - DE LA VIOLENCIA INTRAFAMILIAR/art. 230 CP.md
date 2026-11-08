@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "230"
-epigrafe: "MALTRATO MEDIANTE RESTRICCIÓN A LA LIBERTAD FISICA"
+epigrafe: "Maltrato mediante restricción a la libertad fisica"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VI|TÍTULO VI - DELITOS CONTRA LA FAMILIA]]"
 capitulo: "[[CP - Libro Segundo - Título VI - Capítulo Primero|CAPÍTULO PRIMERO - DE LA VIOLENCIA INTRAFAMILIAR]]"
@@ -17,7 +17,6 @@ modificado_por:
   - "[[art. 4 Ley 1850 de 2017]]"
   - "[[art. 32 Ley 1257 de 2008]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
   - "[[art. 7 Ley 890 de 2004]]"
   - "[[art. 15 Ley 890 de 2004]]"
 anterior: "[[art. 229A CP]]"
@@ -36,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VI|Título VI]] › [[CP - Libro Segundo - Título VI - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 230. MALTRATO MEDIANTE RESTRICCIÓN A LA LIBERTAD FISICA
+## Artículo 230. Maltrato mediante restricción a la libertad fisica
 
 El que mediante fuerza restrinja la libertad de locomoción a otra persona mayor de edad perteneciente a su grupo familiar o puesta bajo su cuidado, o en menor de edad sobre el cual no se ejerza patria potestad, incurrirá en prisión de dieciséis (16) a treinta y seis (36) meses y en multa de uno punto treinta y tres (1.33) a veinticuatro (24) salarios mínimos legales mensuales vigentes, siempre que la conducta no constituya delito sancionado con pena mayor.
 
@@ -50,7 +49,7 @@ El que mediante fuerza restrinja la libertad de locomoción a otra persona mayor
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 4 Ley 1850 de 2017|4]] de la Ley 1850 de 2017, 'por medio de la cual se establecen medidas de protección al adulto mayor en Colombia, se modifican las Leyes 1251 de 2008, 1315 de 2009, 599 de 2000 y 1276 de 2009, se penaliza el maltrato intrafamiliar por abandono y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.299 de 19 de julio de 2017. - Parágrafo adicionado por el artículo [[art. 32 Ley 1257 de 2008|32]] de la Ley 1257 de 2008, publicada en el Diario Oficial No. 47.193 de 4 de diciembre de 2008.
 
-> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 ARTÍCULO [[art. 230 CP|230]]-A. EJERCICIO ARBITRARIO DE LA CUSTODIA DE HIJO MENOR DE EDAD. El padre que arrebate, sustraiga, retenga u oculte a uno de sus hijos menores sobre quienes ejerce la patria potestad con el fin de privar al otro padre del derecho de custodia y cuidado personal, incurrirá, por ese solo hecho, en prisión de uno (1) a tres (3) años y en multa de uno (1) a dieciséis (16) salarios mínimos legales mensuales vigentes.
 

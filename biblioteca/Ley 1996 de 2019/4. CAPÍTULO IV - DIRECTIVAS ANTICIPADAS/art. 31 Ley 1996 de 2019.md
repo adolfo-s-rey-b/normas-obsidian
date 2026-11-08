@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "31"
-epigrafe: "MODIFICACIÓN, SUSTITUCIÓN Y REVOCACIÓN"
+epigrafe: "Modificación, sustitución y revocación"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 30 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 31. MODIFICACIÓN, SUSTITUCIÓN Y REVOCACIÓN
+## Artículo 31. Modificación, sustitución y revocación
 
 El documento de directiva anticipada puede ser modificado, sustituido o revocado en cualquier momento por quien lo suscribió, mediante el mismo trámite surtido para su creación, señalando explícitamente la voluntad de modificar, sustituir o revocar la directiva anticipada, según sea el caso, en los siguientes términos:
 

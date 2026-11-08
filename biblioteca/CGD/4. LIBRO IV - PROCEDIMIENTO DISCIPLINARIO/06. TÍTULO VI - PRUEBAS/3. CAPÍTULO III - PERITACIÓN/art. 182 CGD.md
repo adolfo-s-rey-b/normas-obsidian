@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "182"
-epigrafe: "APRECIACIÓN DEL DICTAMEN"
+epigrafe: "Apreciación del dictamen"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 182. APRECIACIÓN DEL DICTAMEN
+## Artículo 182. Apreciación del dictamen
 
 Al apreciar el dictamen se tendrá en cuenta su solidez, precisión y fundamentación técnico-científica, así como la idoneidad y competencia del perito. El dictamen se apreciará en conjunto con los demás elementos probatorios que obren en el proceso.
 

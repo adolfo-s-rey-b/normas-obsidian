@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "101"
-epigrafe: "COMPETENCIA DE LAS SALAS DISCIPLINARIAS DE LA PROCURADURÍA GENERAL DE LA NACIÓN"
+epigrafe: "Competencia de las salas disciplinarias de la Procuraduría General de la Nación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 16 Ley 2094 de 2021]]"
 anterior: "[[art. 100 CGD]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 101. COMPETENCIA DE LAS SALAS DISCIPLINARIAS DE LA PROCURADURÍA GENERAL DE LA NACIÓN
+## Artículo 101. Competencia de las salas disciplinarias de la Procuraduría General de la Nación
 
 La Procuraduría General de la Nación contará con tres (3) Salas Disciplinarias, encargadas de conocer, según sus competencias, de la etapa de instrucción y juzgamiento. Estas Salas serán competentes, en lo que les corresponda, para conocer de los procesos disciplinarios contra los siguientes servidores públicos.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "152"
-epigrafe: "PRÁCTICA DE PRUEBAS POR COMISIONADO"
+epigrafe: "Practica de pruebas por comisionado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 152. PRÁCTICA DE PRUEBAS POR COMISIONADO
+## Artículo 152. Practica de pruebas por comisionado
 
 El funcionario competente podrá comisionar para la práctica de pruebas a otro servidor de la misma Entidad. Cuando se requiera practicar pruebas fuera de la sede del despacho de conocimiento, se podrá acudir a las personerías distritales o municipales.
 

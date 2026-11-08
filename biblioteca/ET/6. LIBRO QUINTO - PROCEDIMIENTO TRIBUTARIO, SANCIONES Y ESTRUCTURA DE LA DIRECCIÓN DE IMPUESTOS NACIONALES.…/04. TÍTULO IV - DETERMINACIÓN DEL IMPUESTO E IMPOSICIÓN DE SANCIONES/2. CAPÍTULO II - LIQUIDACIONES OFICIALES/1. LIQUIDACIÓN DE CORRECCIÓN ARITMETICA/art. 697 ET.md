@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "697"
-epigrafe: "ERROR ARITMETICO"
+epigrafe: "ERROR ARITMÉTICO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo II|CAPÍTULO II - LIQUIDACIONES OFICIALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título IV - Capítulo II - Liquidación de corrección aritmetica|Liquidación de corrección aritmetica]]
 
-## Artículo 697. ERROR ARITMETICO
+## Artículo 697. ERROR ARITMÉTICO
 
 Se presenta error aritmético en las declaraciones tributarias, cuando:
 

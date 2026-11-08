@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "58"
-epigrafe: "CIRCUNSTANCIAS DE MAYOR PUNIBILIDAD"
+epigrafe: "Circunstancias de mayor punibilidad"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LOS CRITERIOS Y REGLAS PARA LA DETERMINACIÓN DE LA PUNIBILIDAD]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 58. CIRCUNSTANCIAS DE MAYOR PUNIBILIDAD
+## Artículo 58. Circunstancias de mayor punibilidad
 
 Son circunstancias de mayor punibilidad, siempre que no hayan sido previstas de otra manera:
 
@@ -99,7 +99,7 @@ Son circunstancias de mayor punibilidad, siempre que no hayan sido previstas de 
 
 > [!note] Notas de Vigencia: Numeral dicionado al Título II por el artículo [[art. 3 Ley 1356 de 2009|3]] de la Ley 1356 de 2009, publicada en el Diario Oficial No. 47.511 de 23 de octubre de 2009.
 
-19.
+19\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

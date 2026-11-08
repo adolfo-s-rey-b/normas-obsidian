@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "298"
-epigrafe: "CONTENIDO Y VIGENCIA"
+epigrafe: "Contenido y vigencia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 298. CONTENIDO Y VIGENCIA
+## Artículo 298. Contenido y vigencia
 
 El mandamiento escrito expedido por el juez correspondiente indicará de forma clara y sucinta los motivos de la captura, el nombre y los datos que permitan individualizar al indiciado o imputado, cuya captura se ordena, el delito que provisionalmente se señale, la fecha de los hechos y el fiscal que dirige la investigación.
 

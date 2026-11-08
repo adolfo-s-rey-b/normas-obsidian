@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "416"
-epigrafe: "LOS INTERESES SOBRE DEUDA EXTERNA PAGADOS POR LA NACIÓN NO ESTAN SOMETIDOS A RETENCIÓN"
+epigrafe: "LOS INTERESES SOBRE DEUDA EXTERNA PAGADOS POR LA NACIÓN NO ESTÁN SOMETIDOS A RETENCIÓN"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IX|CAPÍTULO IX - POR PAGOS AL EXTERIOR]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IX|Capítulo IX]] › [[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de renta|A título del impuesto de renta]]
 
-## Artículo 416. LOS INTERESES SOBRE DEUDA EXTERNA PAGADOS POR LA NACIÓN NO ESTAN SOMETIDOS A RETENCIÓN
+## Artículo 416. LOS INTERESES SOBRE DEUDA EXTERNA PAGADOS POR LA NACIÓN NO ESTÁN SOMETIDOS A RETENCIÓN
 
 El pago por la Nación y demás entidades de derecho público del principal, intereses, comisiones y demás gastos correspondientes a empréstitos y títulos de deuda externa, no están sujetos a retención en la fuente.
 

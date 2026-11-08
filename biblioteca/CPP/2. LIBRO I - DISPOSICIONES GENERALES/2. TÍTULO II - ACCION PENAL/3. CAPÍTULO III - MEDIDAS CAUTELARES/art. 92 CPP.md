@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "92"
-epigrafe: "MEDIDAS CAUTELARES SOBRE BIENES"
+epigrafe: "Medidas cautelares sobre bienes"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 92. MEDIDAS CAUTELARES SOBRE BIENES
+## Artículo 92. Medidas cautelares sobre bienes
 
 > [!warning] Apartes tachados INEXEQUIBLES
 

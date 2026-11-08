@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "194"
-epigrafe: "EXCLUSION DE LOS INMUEBLES GRAVEMENTE AFECTADOS POR EL NEVADO DEL RUIZ"
+epigrafe: "EXCLUSIÓN DE LOS INMUEBLES GRAVEMENTE AFECTADOS POR EL NEVADO DEL RUIZ"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VI|CAPÍTULO VI - RENTA LIQUIDA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]] › [[ET - Libro Primero - Título I - Capítulo VI - Normas aplicables a partir de 1990|Normas aplicables a partir de 1990]]
 
-## Artículo 194. EXCLUSION DE LOS INMUEBLES GRAVEMENTE AFECTADOS POR EL NEVADO DEL RUIZ
+## Artículo 194. EXCLUSIÓN DE LOS INMUEBLES GRAVEMENTE AFECTADOS POR EL NEVADO DEL RUIZ
 
 Cuando un inmueble hubiere sido gravemente afectado por la actividad volcánica del Nevado del Ruiz, según calificación del Instituto Geográfico Agustín Codazzi, y además hubiere estado destinado a la actividad agrícola, ganadera o industrial, lo cual se probará por cualquiera de los medios establecidos por la ley, no estará sometido a la renta presuntiva hasta el año gravable de 1991, inclusive.
 

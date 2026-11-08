@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "107"
-epigrafe: "CONVENIOS PARA LA EJECUCION DE PLANES Y PROGRAMAS"
+epigrafe: "Convenios para la ejecución de planes y programas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 106 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 107. CONVENIOS PARA LA EJECUCION DE PLANES Y PROGRAMAS
+## Artículo 107. Convenios para la ejecución de planes y programas
 
 Con la periodicidad que determinen las normas reglamentarias, la Nación y las entidades territoriales podrán celebrar convenios con las entidades descentralizadas del correspondiente nivel administrativo, para la ejecución de los planes y programas que se adopten conforme a las normas sobre planeación.
 

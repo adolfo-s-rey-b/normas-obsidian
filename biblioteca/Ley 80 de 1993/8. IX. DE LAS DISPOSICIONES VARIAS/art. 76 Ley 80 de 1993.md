@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "76"
-epigrafe: "DE LOS CONTRATOS DE EXPLORACIÓN Y EXPLOTACIÓN DE LOS RECURSOS NATURALES"
+epigrafe: "De los Contratos de Exploración y Explotación de los Recursos Naturales"
 rubro: "[[Ley 80 de 1993 - Ix. de las disposiciones varias|IX. DE LAS DISPOSICIONES VARIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 75 Ley 80 de 1993]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ix. de las disposiciones varias|Ix. de las disposiciones varias]]
 
-## Artículo 76. DE LOS CONTRATOS DE EXPLORACIÓN Y EXPLOTACIÓN DE LOS RECURSOS NATURALES
+## Artículo 76. De los Contratos de Exploración y Explotación de los Recursos Naturales
 
 Los contratos de exploración y explotación de recursos naturales renovables y no renovables, así como los concernientes a la comercialización y demás actividades comerciales e industriales propias de las entidades estatales a las que correspondan las competencias para estos asuntos, continuarán rigiéndose por la legislación especial que les sea aplicable. Las entidades estatales dedicadas a dichas actividades determinarán en sus reglamentos internos el procedimiento de selección de los contratistas, las cláusulas excepcionales que podrán pactarse, las cuantías y los trámites a que deben sujetarse.
 

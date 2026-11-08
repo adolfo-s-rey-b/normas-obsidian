@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "227"
-epigrafe: "INJURIAS O CALUMNIAS RECIPROCAS"
+epigrafe: "Injurias o calumnias reciprocas"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título V|TÍTULO V - DELITOS CONTRA LA INTEGRIDAD MORAL]]"
 capitulo: "[[CP - Libro Segundo - Título V - Capítulo Unico|CAPÍTULO UNICO - DE LA INJURIA Y LA CALUMNIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título V|Título V]] › [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 227. INJURIAS O CALUMNIAS RECIPROCAS
+## Artículo 227. Injurias o calumnias reciprocas
 
 Si las imputaciones o agravios a que se refieren los artículos [[art. 220 CP|220]], [[art. 221 CP|221]] y [[art. 226 CP|226]] fueren recíprocas, se podrán declarar exentos de responsabilidad a los injuriantes o calumniantes o a cualquiera de ellos.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "27"
-epigrafe: "ACCIÓN Y OMISIÓN"
+epigrafe: "Acción y omisión"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título II|TÍTULO II - DISPOSICIONES GENERALES]]"
 capitulo: "[[CGD - Libro I - Título II - Capítulo IV|CAPÍTULO IV - LA FALTA DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título II|Título II]] › [[CGD - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 27. ACCIÓN Y OMISIÓN
+## Artículo 27. Acción y omisión
 
 La falta disciplinaria puede ser realizada por acción u omisión en el cumplimiento de los deberes propios del cargo o función, o con ocasión de ellos, o por extralimitación de sus funciones.
 

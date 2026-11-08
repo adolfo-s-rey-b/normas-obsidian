@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "407"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 407. PROCEDENCIA
+## Artículo 407. Procedencia
 
 Salvo lo dispuesto en leyes especiales, la división material será procedente cuando se trate de bienes que puedan partirse materialmente sin que los derechos de los condueños desmerezcan por el fraccionamiento. En los demás casos procederá la venta.
 

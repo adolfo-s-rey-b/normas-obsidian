@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "90"
-epigrafe: "RESTRICCIONES A LA PARTICIPACION EN LAS SOCIEDADES CORREDORAS DE REASEGUROS"
+epigrafe: "Restricciones a la Participación en las Sociedades Corredoras de Reaseguros"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo X|CAPÍTULO X - PROPIEDAD ACCIONARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo X|Capítulo X]]
 
-## Artículo 90. RESTRICCIONES A LA PARTICIPACION EN LAS SOCIEDADES CORREDORAS DE REASEGUROS
+## Artículo 90. Restricciones a la Participación en las Sociedades Corredoras de Reaseguros
 
 En las sociedades corredoras de reaseguros no podrán participar como socios:
 

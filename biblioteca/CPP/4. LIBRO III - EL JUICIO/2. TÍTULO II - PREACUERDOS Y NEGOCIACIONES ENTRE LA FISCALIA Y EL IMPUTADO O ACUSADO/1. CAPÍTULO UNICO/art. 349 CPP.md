@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "349"
-epigrafe: "IMPROCEDENCIA DE ACUERDOS O NEGOCIACIONES CON EL IMPUTADO O ACUSADO"
+epigrafe: "Improcedencia de acuerdos o negociaciones con el imputado o acusado"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título II|TÍTULO II - PREACUERDOS Y NEGOCIACIONES ENTRE LA FISCALIA Y EL IMPUTADO O ACUSADO]]"
 capitulo: "[[CPP - Libro III - Título II - Capítulo Unico|CAPÍTULO UNICO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título II|Título II]] › [[CPP - Libro III - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 349. IMPROCEDENCIA DE ACUERDOS O NEGOCIACIONES CON EL IMPUTADO O ACUSADO
+## Artículo 349. Improcedencia de acuerdos o negociaciones con el imputado o acusado
 
 En los delitos en los cuales el sujeto activo de la conducta punible hubiese obtenido incremento patrimonial fruto del mismo, no se podrá celebrar el acuerdo con la Fiscalía hasta tanto se reintegre, por lo menos, el cincuenta por ciento del valor equivalente al incremento percibido y se asegure el recaudo del remanente.
 

@@ -22,17 +22,17 @@ tags:
 
 ### Contenido
 
-- [[art. 293 EOSF|Artículo 293]] — NATURALEZA Y NORMAS APLICABLES DE LA LIQUIDACION FORZOSA ADMINISTRATIVA
-- [[art. 294 EOSF|Artículo 294]] — COMPETENCIA PARA LA LIQUIDACION
-- [[art. 295 EOSF|Artículo 295]] — REGIMEN APLICABLE AL LIQUIDADOR Y AL CONTRALOR
+- [[art. 293 EOSF|Artículo 293]] — Naturaleza y Normas Aplicables de la Liquidación Forzosa Administrativa
+- [[art. 294 EOSF|Artículo 294]] — Competencia para la liquidación
+- [[art. 295 EOSF|Artículo 295]] — Régimen Aplicable al Liquidador y al Contralor
 - [[art. 295A EOSF|Artículo 295A]]
-- [[art. 296 EOSF|Artículo 296]] — INTERVENCION DEL FONDO DE GARANTIAS EN EL PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA
-- [[art. 297 EOSF|Artículo 297]] — RENDICION DE CUENTAS
+- [[art. 296 EOSF|Artículo 296]] — Intervención del Fondo de Garantías en el Proceso de Liquidación Forzosa Administrativa
+- [[art. 297 EOSF|Artículo 297]] — Rendición de Cuentas
 - [[art. 298 EOSF|Artículo 298]] — JUNTA DE ACREEDORES
-- [[art. 299 EOSF|Artículo 299]] — MASA DE LA LIQUIDACION
+- [[art. 299 EOSF|Artículo 299]] — Masa de la Liquidación
 - [[art. 300 EOSF|Artículo 300]] — ETAPAS DEL PROCESO LIQUIDATORIO
-- [[art. 301 EOSF|Artículo 301]] — OTRAS DISPOSICIONES
-- [[art. 302 EOSF|Artículo 302]] — DISPOSICIONES FINALES
+- [[art. 301 EOSF|Artículo 301]] — Otras Disposiciones
+- [[art. 302 EOSF|Artículo 302]] — Disposiciones Finales
 
 ---
 ← [[EOSF - Parte XI - Capítulo II|Capítulo II]] · ↑ [[EOSF - Parte XI|Parte XI]]

@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238G"
-epigrafe: "SENTENCIA"
+epigrafe: "Sentencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título|TÍTULO - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título|Título]]
 
-## Artículo 238G. SENTENCIA
+## Artículo 238G. Sentencia
 
 Vencido el período probatorio, si lo hubiere, se dictará la respectiva sentencia. En todo caso. la decisión de este recurso no podrá ser superior al término de los seis (6) meses contados desde su admisión. Pan el efecto, este recurso tendrá prelación frente a los otros asuntos que le corresponden conocer a la respectiva Sala Especial o el Tribunal, salvo las acciones constitucionales. El incumplimiento de los términos aquí previstos será causal de mala conducta.
 

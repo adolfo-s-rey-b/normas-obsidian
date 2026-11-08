@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "521"
-epigrafe: "DOCUMENTOS PRIVADOS SOMETIDOS AL IMPUESTO DE TIMBRE, CUALQUIERA FUERE SU CUANTIA"
+epigrafe: "DOCUMENTOS PRIVADOS SOMETIDOS AL IMPUESTO DE TIMBRE, CUALQUIERA FUERE SU CUANTÍA"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título II|TÍTULO II - ACTUACIONES GRAVADAS Y SUS TARIFAS]]"
 vigencia: "modificado"
@@ -42,7 +42,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título II|Título II]]
 
-## Artículo 521. DOCUMENTOS PRIVADOS SOMETIDOS AL IMPUESTO DE TIMBRE, CUALQUIERA FUERE SU CUANTIA
+## Artículo 521. DOCUMENTOS PRIVADOS SOMETIDOS AL IMPUESTO DE TIMBRE, CUALQUIERA FUERE SU CUANTÍA
 
 Los siguientes documentos están sujetos al impuesto de timbre cualquiera que fuere su cuantía y pagarán las sumas indicadas en cada caso:
 

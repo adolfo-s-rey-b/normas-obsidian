@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "116"
-epigrafe: "UTILIZACIÓN DE MEDIOS TECNOLÓGICOS"
+epigrafe: "Utilización de medios tecnológicos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]]
 
-## Artículo 116. UTILIZACIÓN DE MEDIOS TECNOLÓGICOS
+## Artículo 116. Utilización de medios tecnológicos
 
 Las pruebas y diligencias serán recogidas y conservadas en medios técnicos. Así mismo, la evacuación de audiencias, diligencias en general y la práctica de pruebas pueden llevarse a cabo en lugares diferentes a la sede del funcionario competente para adelantar el proceso, a través de medios como la audiencia o comunicación virtual, siempre que otro servidor público controle materialmente su desarrollo en el lugar de su evacuación. De ello se dejará constancia expresa en el acta de la diligencia.
 

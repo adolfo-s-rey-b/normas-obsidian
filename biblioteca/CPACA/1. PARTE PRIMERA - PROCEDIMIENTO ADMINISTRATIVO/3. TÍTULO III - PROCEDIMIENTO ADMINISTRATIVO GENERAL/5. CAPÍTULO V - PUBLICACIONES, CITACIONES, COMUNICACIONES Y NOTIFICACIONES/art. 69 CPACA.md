@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "69"
-epigrafe: "NOTIFICACIÓN POR AVISO"
+epigrafe: "Notificación por aviso"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - PUBLICACIONES, CITACIONES, COMUNICACIONES Y NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 69. NOTIFICACIÓN POR AVISO
+## Artículo 69. Notificación por aviso
 
 Si no pudiere hacerse la notificación personal al cabo de los cinco (5) días del envío de la citación, esta se hará por medio de aviso que se remitirá a la dirección, al número de fax o al correo electrónico que figuren en el expediente o puedan obtenerse del registro mercantil, acompañado de copia íntegra del acto administrativo. El aviso deberá indicar la fecha y la del acto que se notifica, la autoridad que lo expidió, los recursos que legalmente proceden, las autoridades ante quienes deben interponerse, los plazos respectivos y la advertencia de que la notificación se considerará surtida al finalizar el día siguiente al de la entrega del aviso en el lugar de destino.
 

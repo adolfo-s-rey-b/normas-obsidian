@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "296"
-epigrafe: "FALSEDAD PERSONAL"
+epigrafe: "Falsedad personal"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IX|TÍTULO IX - DELITOS CONTRA LA FE PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título IX - Capítulo Tercero|CAPÍTULO TERCERO - DE LA FALSEDAD EN DOCUMENTOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IX|Título IX]] › [[CP - Libro Segundo - Título IX - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 296. FALSEDAD PERSONAL
+## Artículo 296. Falsedad personal
 
 El que con el fin de obtener un provecho para sí o para otro, o causar daño, sustituya o suplante a una persona o se atribuya nombre, edad, estado civil, o calidad que pueda tener efectos jurídicos, incurrirá en muita, siempre que la conducta no constituya otro delito.
 

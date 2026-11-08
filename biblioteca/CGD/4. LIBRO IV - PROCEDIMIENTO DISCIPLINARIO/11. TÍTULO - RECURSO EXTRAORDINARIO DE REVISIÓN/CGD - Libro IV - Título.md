@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 238A CGD|Artículo 238A]] — PROCEDENCIA
-- [[art. 238B CGD|Artículo 238B]] — COMPETENCIA
-- [[art. 238C CGD|Artículo 238C]] — CAUSALES DE REVISIÓN
-- [[art. 238D CGD|Artículo 238D]] — TÉRMINO PARA INTERPONER EL RECURSO EXTRAORDINARIO DE REVISIÓN
-- [[art. 238E CGD|Artículo 238E]] — REQUISITOS DEL RECURSO EXTRAORDINARIO DE REVISIÓN
-- [[art. 238F CGD|Artículo 238F]] — TRÁMITE
-- [[art. 238G CGD|Artículo 238G]] — SENTENCIA
+- [[art. 238A CGD|Artículo 238A]] — Procedencia
+- [[art. 238B CGD|Artículo 238B]] — Competencia
+- [[art. 238C CGD|Artículo 238C]] — Causales de Revisión
+- [[art. 238D CGD|Artículo 238D]] — Termino para interponer el recurso extraordinario de revisión
+- [[art. 238E CGD|Artículo 238E]] — Requisitos del recurso extraordinario de revisión
+- [[art. 238F CGD|Artículo 238F]] — Tramite
+- [[art. 238G CGD|Artículo 238G]] — Sentencia
 
 ---
 ← [[CGD - Libro IV - Título X|Título X]] · ↑ [[CGD - Libro IV|Libro IV]] · [[CGD - Libro IV - Título XI|Título XI]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "298"
-epigrafe: "PROCEDIMIENTO"
+epigrafe: "Procedimiento"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IX|TÍTULO IX - PROCESO EJECUTIVO]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IX|Título IX]]
 
-## Artículo 298. PROCEDIMIENTO
+## Artículo 298. Procedimiento
 
 Una vez transcurridos los términos previstos en el artículo [[art. 192 CPACA|192]] de este código, sin que se haya cumplido la condena impuesta por esta jurisdicción, el juez o magistrado competente, según el factor de conexidad, librará mandamiento ejecutivo según las reglas previstas en el Código General del Proceso para la ejecución de providencias, previa solicitud del acreedor.
 

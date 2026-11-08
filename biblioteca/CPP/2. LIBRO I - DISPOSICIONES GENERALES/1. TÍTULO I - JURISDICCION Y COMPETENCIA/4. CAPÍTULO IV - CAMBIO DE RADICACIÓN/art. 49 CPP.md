@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "49"
-epigrafe: "FIJACIÓN DEL SITIO PARA CONTINUAR EL PROCESO"
+epigrafe: "Fijación del sitio para continuar el proceso"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo IV|CAPÍTULO IV - CAMBIO DE RADICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 49. FIJACIÓN DEL SITIO PARA CONTINUAR EL PROCESO
+## Artículo 49. Fijación del sitio para continuar el proceso
 
 El superior competente para resolver el cambio de radicación señalará el lugar donde deba continuar el proceso, previo informe del Gobierno Nacional o departamental sobre los sitios donde no sea conveniente fijar la nueva radicación.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "81"
-epigrafe: "SANCIONES POR INCUMPLIMIENTO DE POLÍTICAS INSTITUCIONALES"
+epigrafe: "Sanciones por incumplimiento de políticas institucionales"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VI|CAPÍTULO VI - POLÍTICAS INSTITUCIONALES Y PEDAGÓGICAS]]"
 vigencia: "vigente"
 anterior: "[[art. 80 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]]
 
-## Artículo 81. SANCIONES POR INCUMPLIMIENTO DE POLÍTICAS INSTITUCIONALES
+## Artículo 81. Sanciones por incumplimiento de políticas institucionales
 
 El incumplimiento de la implementación de las políticas institucionales y pedagógicas contenidas en el presente capítulo, por parte de los servidores públicos encargados se constituirá como falta disciplinaria grave.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "21"
-epigrafe: "FUNCIONARIO SIN COMPETENCIA"
+epigrafe: "Funcionario sin competencia"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 21. FUNCIONARIO SIN COMPETENCIA
+## Artículo 21. Funcionario sin competencia
 
 Si la autoridad a quien se dirige la petición no es la competente, se informará de inmediato al interesado si este actúa verbalmente, o dentro de los cinco (5) días siguientes al de la recepción, si obró por escrito. Dentro del término señalado remitirá la petición al competente y enviará copia del oficio remisorio al peticionario o en caso de no existir funcionario competente así se lo comunicará. Los términos para decidir o responder se contarán a partir del día siguiente a la recepción de la Petición por la autoridad competente.
 

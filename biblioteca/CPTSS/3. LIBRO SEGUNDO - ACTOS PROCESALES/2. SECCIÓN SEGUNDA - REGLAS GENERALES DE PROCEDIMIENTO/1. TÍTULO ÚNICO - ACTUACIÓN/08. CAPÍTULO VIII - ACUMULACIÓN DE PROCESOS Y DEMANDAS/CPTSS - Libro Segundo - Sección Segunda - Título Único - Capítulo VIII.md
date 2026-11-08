@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 106 CPTSS|Artículo 106]] — PROCEDENCIA DE LA ACUMULACIÓN EN LOS PROCESOS DECLARATIVOS
-- [[art. 107 CPTSS|Artículo 107]] — COMPETENCIA
-- [[art. 108 CPTSS|Artículo 108]] — TRÁMITE
+- [[art. 106 CPTSS|Artículo 106]] — Procedencia de la acumulación en los procesos declarativos
+- [[art. 107 CPTSS|Artículo 107]] — Competencia
+- [[art. 108 CPTSS|Artículo 108]] — Trámite
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]] →

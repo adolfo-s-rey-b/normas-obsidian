@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "195"
-epigrafe: "DECLARACIONES DE LOS REPRESENTANTES DE PERSONAS JURÍDICAS DE DERECHO PÚBLICO"
+epigrafe: "Declaraciones de los representantes de personas jurídicas de derecho público"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 195. DECLARACIONES DE LOS REPRESENTANTES DE PERSONAS JURÍDICAS DE DERECHO PÚBLICO
+## Artículo 195. Declaraciones de los representantes de personas jurídicas de derecho público
 
 No valdrá la confesión de los representantes de las entidades públicas cualquiera que sea el orden al que pertenezcan o el régimen jurídico al que estén sometidas.
 

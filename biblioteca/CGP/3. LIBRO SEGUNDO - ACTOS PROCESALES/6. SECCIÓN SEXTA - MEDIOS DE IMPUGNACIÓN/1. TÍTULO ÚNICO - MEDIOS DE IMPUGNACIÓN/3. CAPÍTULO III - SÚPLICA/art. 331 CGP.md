@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "331"
-epigrafe: "PROCEDENCIA Y OPORTUNIDAD PARA PROPONERLA"
+epigrafe: "Procedencia y oportunidad para proponerla"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 331. PROCEDENCIA Y OPORTUNIDAD PARA PROPONERLA
+## Artículo 331. Procedencia y oportunidad para proponerla
 
 El recurso de súplica procede contra los autos que por su naturaleza serían apelables, dictados por el Magistrado sustanciador en el curso de la segunda o única instancia, o durante el trámite de la apelación de un auto. También procede contra el auto que resuelve sobre la admisión del recurso de apelación o casación y contra los autos que en el trámite de los recursos extraordinarios de casación o revisión profiera el magistrado sustanciador y que por su naturaleza hubieran sido susceptibles de apelación. No procede contra los autos mediante los cuales se resuelva la apelación o queja.
 

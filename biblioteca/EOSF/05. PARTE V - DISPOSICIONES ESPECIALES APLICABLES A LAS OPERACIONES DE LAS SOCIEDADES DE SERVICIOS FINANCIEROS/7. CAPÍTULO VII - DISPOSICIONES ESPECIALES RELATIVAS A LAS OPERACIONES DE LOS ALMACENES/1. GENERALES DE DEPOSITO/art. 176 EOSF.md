@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "176"
-epigrafe: "REGLAS DE FUNCIONAMIENTO"
+epigrafe: "Reglas de Funcionamiento"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo VII|CAPÍTULO VII - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ALMACENES]]"
 rubro: "[[EOSF - Parte V - Capítulo VII - Generales de deposito|GENERALES DE DEPOSITO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo VII|Capítulo VII]] › [[EOSF - Parte V - Capítulo VII - Generales de deposito|Generales de deposito]]
 
-## Artículo 176. REGLAS DE FUNCIONAMIENTO
+## Artículo 176. Reglas de Funcionamiento
 
 1\. Registro de los certificados. Los certificados de depósito y los bonos de prenda se extenderán en libros talonarios y se expedirán formando un solo cuerpo, pero de manera que puedan separarse, y serán numerados en orden continuo y fechado.
 

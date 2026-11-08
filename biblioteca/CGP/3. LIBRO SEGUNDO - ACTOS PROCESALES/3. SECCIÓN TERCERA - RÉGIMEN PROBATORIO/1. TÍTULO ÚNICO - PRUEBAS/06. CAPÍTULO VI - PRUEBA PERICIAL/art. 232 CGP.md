@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "232"
-epigrafe: "APRECIACIÓN DEL DICTAMEN"
+epigrafe: "Apreciación del dictamen"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 232. APRECIACIÓN DEL DICTAMEN
+## Artículo 232. Apreciación del dictamen
 
 El juez apreciará el dictamen de acuerdo con las reglas de la sana crítica, teniendo en cuenta la solidez, claridad, exhaustividad, precisión y calidad de sus fundamentos, la idoneidad del perito y su comportamiento en la audiencia, y las demás pruebas que obren en el proceso.
 

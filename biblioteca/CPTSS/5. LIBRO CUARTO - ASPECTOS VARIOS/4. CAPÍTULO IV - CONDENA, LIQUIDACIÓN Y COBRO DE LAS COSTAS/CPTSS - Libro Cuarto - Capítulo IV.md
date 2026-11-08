@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 325 CPTSS|Artículo 325]] — CONDENA EN COSTAS
-- [[art. 326 CPTSS|Artículo 326]] — LIQUIDACIÓN
+- [[art. 325 CPTSS|Artículo 325]] — Condena en costas
+- [[art. 326 CPTSS|Artículo 326]] — Liquidación
 
 ---
 ← [[CPTSS - Libro Cuarto - Capítulo III|Capítulo III]] · ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]] · [[CPTSS - Libro Cuarto - Capítulo V|Capítulo V]] →

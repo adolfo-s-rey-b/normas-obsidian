@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "61"
-epigrafe: "SANCIONES"
+epigrafe: "Sanciones"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo II|CAPÍTULO II - ~~IV~~]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|OTRAS ACTUACIONES ADMINISTRATIVAS]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|Otras actuaciones administrativas]]
 
-## Artículo 61. SANCIONES
+## Artículo 61. Sanciones
 
 La Superintendencia de Industria y Comercio podrá imponer, previa investigación administrativa, las sanciones previstas en este artículo por inobservancia de las normas contenidas en esta ley, de reglamentos técnicos, de normas de metrología legal, de instrucciones y órdenes que imparta en ejercicio de las facultades que le son atribuidas por esta ley, o por no atender la obligación de remitir información con ocasión de alguno de los regímenes de control de precios:
 

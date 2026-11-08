@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "138"
-epigrafe: "EJECUTORIA DE LAS DECISIONES"
+epigrafe: "Ejecutoria de las decisiones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 138. EJECUTORIA DE LAS DECISIONES
+## Artículo 138. Ejecutoria de las decisiones
 
 Las decisiones disciplinarias contra las que proceden recursos quedarán en firme cinco (5) días después de la última notificación. Las que se dicten en audiencia o diligencia, al finalizar esta o la sesión donde se haya tomado la decisión, si no fueren impugnadas.
 

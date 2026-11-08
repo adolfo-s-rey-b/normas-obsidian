@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "180"
-epigrafe: "CONDICIONES DE LOS TITULOS DE CAPITALIZACION Y ACCIONES"
+epigrafe: "Condiciones de los Títulos de Capitalización y Acciones"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo I|CAPÍTULO I - ASPECTOS RELATIVOS A LA ACTIVIDAD CAPITALIZADORA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo I|Capítulo I]]
 
-## Artículo 180. CONDICIONES DE LOS TITULOS DE CAPITALIZACION Y ACCIONES
+## Artículo 180. Condiciones de los Títulos de Capitalización y Acciones
 
 1\. Clases de títulos. Los títulos de capitalización serán al portador o nominativos.
 

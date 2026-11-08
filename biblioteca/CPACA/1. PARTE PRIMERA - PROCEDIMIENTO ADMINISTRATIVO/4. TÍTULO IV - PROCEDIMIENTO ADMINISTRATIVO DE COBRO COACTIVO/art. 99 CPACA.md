@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "99"
-epigrafe: "DOCUMENTOS QUE PRESTAN MÉRITO EJECUTIVO A FAVOR DEL ESTADO"
+epigrafe: "Documentos que prestan mérito ejecutivo a favor del Estado"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título IV|TÍTULO IV - PROCEDIMIENTO ADMINISTRATIVO DE COBRO COACTIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título IV|Título IV]]
 
-## Artículo 99. DOCUMENTOS QUE PRESTAN MÉRITO EJECUTIVO A FAVOR DEL ESTADO
+## Artículo 99. Documentos que prestan mérito ejecutivo a favor del Estado
 
 Prestarán mérito ejecutivo para su cobro coactivo, siempre que en ellos conste una obligación clara, expresa y exigible, los siguientes documentos:
 

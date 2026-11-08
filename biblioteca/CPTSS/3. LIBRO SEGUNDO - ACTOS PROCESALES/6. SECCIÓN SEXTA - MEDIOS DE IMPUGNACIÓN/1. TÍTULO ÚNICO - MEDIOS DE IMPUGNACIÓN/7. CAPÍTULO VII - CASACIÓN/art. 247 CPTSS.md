@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "247"
-epigrafe: "TRÁMITE DEL RECURSO"
+epigrafe: "Trámite del recurso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 247. TRÁMITE DEL RECURSO
+## Artículo 247. Trámite del recurso
 
 Remitido el expediente a la Corte, la Sala de Casación Laboral, verificará el cumplimiento de los requisitos establecidos en este código y en el mismo auto, admitirá el recurso, calificará la demanda y correrá el traslado al opositor por el término de quince (15) días.
 

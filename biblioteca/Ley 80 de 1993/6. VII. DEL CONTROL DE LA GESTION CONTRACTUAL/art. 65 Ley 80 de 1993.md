@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "65"
-epigrafe: "DE LA INTERVENCIÓN DE LAS AUTORIDADES QUE EJERCEN CONTROL FISCAL"
+epigrafe: "De la Intervención de las Autoridades que ejercen Control Fiscal"
 rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
 
-## Artículo 65. DE LA INTERVENCIÓN DE LAS AUTORIDADES QUE EJERCEN CONTROL FISCAL
+## Artículo 65. De la Intervención de las Autoridades que ejercen Control Fiscal
 
 La intervención de las autoridades de control fiscal se ejercerá una vez agotados los trámites administrativos de legalización de los contratos. Igualmente, se ejercerá control posterior a las cuentas correspondientes a los pagos originados en los mismos, para verificar que estos se ajustaron a las disposiciones legales.
 

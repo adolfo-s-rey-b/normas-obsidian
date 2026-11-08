@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 222 de 1995"
 articulo: "65"
-epigrafe: "TITULOS"
+epigrafe: "TÍTULOS"
 titulo: "[[Ley 222 de 1995 - Título I|TÍTULO I - REGIMEN DE SOCIEDADES]]"
 capitulo: "[[Ley 222 de 1995 - Título I - Capítulo VII|CAPÍTULO VII - SOCIEDAD ANONIMA]]"
 seccion: "[[Ley 222 de 1995 - Título I - Capítulo VII - Sección III|SECCIÓN III - ACCIONES CON DIVIDENDO PREFERENCIAL Y SIN DERECHO A VOTO]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título I|Título I]] › [[Ley 222 de 1995 - Título I - Capítulo VII|Capítulo VII]] › [[Ley 222 de 1995 - Título I - Capítulo VII - Sección III|Sección III]]
 
-## Artículo 65. TITULOS
+## Artículo 65. TÍTULOS
 
 Además de los requisitos generales, en los títulos de las acciones con dividendo preferencial y sin derecho a voto, deberán indicarse los derechos especiales que ellos confieren.
 

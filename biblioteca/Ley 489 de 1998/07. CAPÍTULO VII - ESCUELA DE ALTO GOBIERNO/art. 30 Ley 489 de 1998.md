@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "30"
-epigrafe: "ESCUELA DE ALTO GOBIERNO"
+epigrafe: "Escuela de alto gobierno"
 capitulo: "[[Ley 489 de 1998 - Capítulo VII|CAPÍTULO VII - ESCUELA DE ALTO GOBIERNO]]"
 vigencia: "vigente"
 anterior: "[[art. 29 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo VII|Capítulo VII]]
 
-## Artículo 30. ESCUELA DE ALTO GOBIERNO
+## Artículo 30. Escuela de alto gobierno
 
 Establécese como un programa permanente y sistemático, la Escuela de Alto Gobierno, cuyo objeto es impartir la inducción y prestar apoyo a la alta gerencia de la Administración Pública en el orden nacional.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "61"
-epigrafe: "FUNDAMENTOS PARA LA INDIVIDUALIZACIÓN DE LA PENA"
+epigrafe: "Fundamentos para la individualización de la pena"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LOS CRITERIOS Y REGLAS PARA LA DETERMINACIÓN DE LA PUNIBILIDAD]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 61. FUNDAMENTOS PARA LA INDIVIDUALIZACIÓN DE LA PENA
+## Artículo 61. Fundamentos para la individualización de la pena
 
 Efectuado el procedimiento anterior, el sentenciador dividirá el ámbito punitivo de movilidad previsto en la ley en cuartos: uno mínimo, dos medios y uno máximo.
 

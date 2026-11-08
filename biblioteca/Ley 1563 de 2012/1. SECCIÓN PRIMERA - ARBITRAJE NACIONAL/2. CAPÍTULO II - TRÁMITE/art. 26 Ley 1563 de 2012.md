@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "26"
-epigrafe: "LÍMITE DE LOS HONORARIOS Y PARTIDA DE GASTOS"
+epigrafe: "Límite de los honorarios y partida de gastos"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 26. LÍMITE DE LOS HONORARIOS Y PARTIDA DE GASTOS
+## Artículo 26. Límite de los honorarios y partida de gastos
 
 Los árbitros tendrán como suma límite para fijar los honorarios de cada uno, la cantidad de mil salarios mínimos legales mensuales vigentes (1.000 smlmv). El Gobierno Nacional reglamentará las tarifas de honorarios y gastos.
 

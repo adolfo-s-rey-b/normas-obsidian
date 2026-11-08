@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "486"
-epigrafe: "TRANSFORMACIÓN DE LAS DILIGENCIAS EN PROCESO DE SUCESIÓN"
+epigrafe: "Transformación de las diligencias en proceso de sucesión"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 486. TRANSFORMACIÓN DE LAS DILIGENCIAS EN PROCESO DE SUCESIÓN
+## Artículo 486. Transformación de las diligencias en proceso de sucesión
 
 Si comparecen herederos o cónyuges antes de declararse la vacancia, las diligencias continuarán como proceso de sucesión, sin que haya lugar a nuevo emplazamiento.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "97"
-epigrafe: "RENTA BRUTA EN COMPAÑIAS DE SEGUROS GENERALES"
+epigrafe: "RENTA BRUTA EN COMPAÑÍAS DE SEGUROS GENERALES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo IV|CAPÍTULO IV - RENTAS BRUTAS ESPECIALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo IV|Capítulo IV]] › [[ET - Libro Primero - Título I - Capítulo IV - Activos biológicos|Activos biológicos]]
 
-## Artículo 97. RENTA BRUTA EN COMPAÑIAS DE SEGUROS GENERALES
+## Artículo 97. RENTA BRUTA EN COMPAÑÍAS DE SEGUROS GENERALES
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 38 ET|38]]) La renta bruta de las compañías de seguros generales se determina de la manera siguiente:
 

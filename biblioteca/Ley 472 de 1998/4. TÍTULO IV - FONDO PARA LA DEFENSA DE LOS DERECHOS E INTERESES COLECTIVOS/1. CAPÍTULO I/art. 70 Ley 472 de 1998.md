@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "70"
-epigrafe: "CREACION Y FUENTE DE RECURSOS"
+epigrafe: "Creación y Fuente de Recursos"
 titulo: "[[Ley 472 de 1998 - Título IV|TÍTULO IV - FONDO PARA LA DEFENSA DE LOS DERECHOS E INTERESES COLECTIVOS]]"
 capitulo: "[[Ley 472 de 1998 - Título IV - Capítulo I|CAPÍTULO I]]"
 vigencia: "parcialmente inexequible"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título IV|Título IV]] › [[Ley 472 de 1998 - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 70. CREACION Y FUENTE DE RECURSOS
+## Artículo 70. Creación y Fuente de Recursos
 
 Créase el Fondo para la Defensa de los Derechos e Intereses Colectivos, el cual contará con los siguientes recursos:
 

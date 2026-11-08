@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "15"
-epigrafe: "PRODUCTOS IMPERFECTOS, USADOS, REPARADOS, REMANUFACTURADOS REPOTENCIALIZADOS O DESCONTINUADOS"
+epigrafe: "Productos imperfectos, usados, reparados, remanufacturados repotencializados o descontinuados"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 15. PRODUCTOS IMPERFECTOS, USADOS, REPARADOS, REMANUFACTURADOS REPOTENCIALIZADOS O DESCONTINUADOS
+## Artículo 15. Productos imperfectos, usados, reparados, remanufacturados repotencializados o descontinuados
 
 Cuando se ofrezcan en forma pública productos imperfectos, usados, reparados, remanufacturados, repotencializados o descontinuados, se debe indicar dicha circunstancia en forma precisa y notoria, de acuerdo con las instrucciones que señale la Superintendencia de Industria y Comercio.
 

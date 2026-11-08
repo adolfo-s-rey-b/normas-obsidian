@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "54"
-epigrafe: "REGISTRO PARA EL USO DE MEDIOS ELECTRÓNICOS"
+epigrafe: "Registro para el uso de medios electrónicos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 54. REGISTRO PARA EL USO DE MEDIOS ELECTRÓNICOS
+## Artículo 54. Registro para el uso de medios electrónicos
 
 Toda persona tiene el derecho de actuar ante las autoridades utilizando medios electrónicos, caso en el cual deberá realizar sin ningún costo un registro previo como usuario ante la autoridad competente. Si así lo hace, las autoridades continuarán la actuación por este medio.
 

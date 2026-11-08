@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "255"
-epigrafe: "RESPONSABILIDAD"
+epigrafe: "Responsabilidad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo V|CAPÍTULO V - CADENA DE CUSTODIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 255. RESPONSABILIDAD
+## Artículo 255. Responsabilidad
 
 La aplicación de la cadena de custodia es responsabilidad de los servidores públicos que entren en contacto con los elementos materiales probatorios y evidencia física.
 

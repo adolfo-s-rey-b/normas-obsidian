@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 112 CGP|Artículo 112]] — PROCEDENCIA DEL ALLANAMIENTO
-- [[art. 113 CGP|Artículo 113]] — PRÁCTICA DE ALLANAMIENTO
+- [[art. 112 CGP|Artículo 112]] — Procedencia del allanamiento
+- [[art. 113 CGP|Artículo 113]] — Práctica de allanamiento
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] · [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo III|Capítulo III]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "195"
-epigrafe: "TRÁMITE PARA EL PAGO DE CONDENAS O CONCILIACIONES"
+epigrafe: "Trámite para el pago de condenas o conciliaciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - SENTENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VI|Capítulo VI]]
 
-## Artículo 195. TRÁMITE PARA EL PAGO DE CONDENAS O CONCILIACIONES
+## Artículo 195. Trámite para el pago de condenas o conciliaciones
 
 El trámite de pago de condenas y conciliaciones se sujetará a las siguientes reglas:
 

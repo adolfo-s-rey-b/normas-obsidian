@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "334"
-epigrafe: "EFECTOS DE LA DECISIÓN DE PRECLUSIÓN"
+epigrafe: "Efectos de la decisión de preclusión"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título VI|TÍTULO VI - DE LA PRECLUSIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título VI|Título VI]]
 
-## Artículo 334. EFECTOS DE LA DECISIÓN DE PRECLUSIÓN
+## Artículo 334. Efectos de la decisión de preclusión
 
 En firme la sentencia que decreta la preclusión, cesará con efectos de cosa juzgada la persecución penal en contra del imputado por esos hechos. Igualmente, se revocarán todas las medidas cautelares que se le hayan impuesto.
 

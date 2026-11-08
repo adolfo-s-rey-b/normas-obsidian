@@ -12,7 +12,7 @@ epigrafe: "ELECCIÓN DE LA COSA LEGADA"
 libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
 titulo: "[[CC - Libro Tercero - Título IV|TÍTULO IV - DE LAS ASIGNACIONES TESTAMENTARIAS]]"
 capitulo: "[[CC - Libro Tercero - Título IV - Capítulo VI|CAPÍTULO VI - DE LAS ASIGNACIONES A TÍTULO SINGULAR]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 45 Ley 57 de 1887]]"
 anterior: "[[art. 1174 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título IV|Título IV]] › [[CC - Libro Tercero - Título IV - Capítulo VI|Capítulo VI]]

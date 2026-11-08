@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "83"
-epigrafe: "REQUISITOS ADICIONALES"
+epigrafe: "Requisitos adicionales"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 83. REQUISITOS ADICIONALES
+## Artículo 83. Requisitos adicionales
 
 Las demandas que versen sobre bienes inmuebles los especificarán por su ubicación, linderos actuales, nomenclaturas y demás circunstancias que los identifiquen. No se exigirá transcripción de linderos cuando estos se encuentren contenidos en alguno de los documentos anexos a la demanda.
 

@@ -11,7 +11,7 @@ articulo: "2028"
 epigrafe: "POSESIÓN DE LOS PERITOS"
 libro: "[[CCo - Libro Sexto|LIBRO SEXTO - PROCEDIMIENTOS]]"
 titulo: "[[CCo - Libro Sexto - Título IV|TÍTULO IV - DE LA REGULACIÓN POR EXPERTOS O PERITOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 2027 CCo]]"
@@ -25,7 +25,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Sexto|Libro Sexto]] › [[CCo - Libro Sexto - Título IV|Título IV]]

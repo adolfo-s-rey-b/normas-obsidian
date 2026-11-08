@@ -15,7 +15,7 @@ libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
 rubro: "[[ET - Libro Quinto - Título VII - Capítulo II - Anticipo del impuesto|ANTICIPO DEL IMPUESTO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 12 Decreto 560 de 2020]]"
   - "[[art. 807 ET]]"
@@ -36,7 +36,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Anticipo del impuesto|Anticipo del impuesto]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "277"
-epigrafe: "FACULTADES DE LAS PARTES"
+epigrafe: "Facultades de las partes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo X|Capítulo X]]
 
-## Artículo 277. FACULTADES DE LAS PARTES
+## Artículo 277. Facultades de las partes
 
 Rendido el informe, se dará traslado a las partes por el término de tres (3) días, dentro del cual podrán solicitar su aclaración, complementación o ajuste a los asuntos solicitados.
 

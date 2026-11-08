@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "261"
-epigrafe: "INTERPOSICIÓN"
+epigrafe: "Interposición"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 261. INTERPOSICIÓN
+## Artículo 261. Interposición
 
 El recurso extraordinario de unificación de jurisprudencia deberá interponerse y sustentarse por escrito ante quien expidió la providencia, a más tardar dentro de los diez (10) días siguientes a su ejecutoria.
 

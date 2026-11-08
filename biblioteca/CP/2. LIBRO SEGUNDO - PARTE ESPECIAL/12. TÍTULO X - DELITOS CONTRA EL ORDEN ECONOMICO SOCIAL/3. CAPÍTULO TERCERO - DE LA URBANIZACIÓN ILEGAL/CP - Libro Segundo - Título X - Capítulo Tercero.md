@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 318 CP|Artículo 318]] — URBANIZACIÓN ILEGAL
+- [[art. 318 CP|Artículo 318]] — Urbanización ilegal
 
 ---
 ← [[CP - Libro Segundo - Título X - Capítulo Segundo|Capítulo Segundo]] · ↑ [[CP - Libro Segundo - Título X|Título X]] · [[CP - Libro Segundo - Título X - Capítulo Cuarto|Capítulo Cuarto]] →

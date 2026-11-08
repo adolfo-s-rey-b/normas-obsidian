@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "72"
-epigrafe: "DE LOS REGLAMENTOS TÉCNICOS"
+epigrafe: "De los Reglamentos Técnicos"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 72. DE LOS REGLAMENTOS TÉCNICOS
+## Artículo 72. De los Reglamentos Técnicos
 
 Cuando alguna norma legal o reglamentaria haga referencia a las –normas técnicas oficializadas– o las –normas técnicas oficiales obligatorias–, estas expresiones se entenderán reemplazadas por la expresión –reglamentos técnicos–.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "153"
-epigrafe: "NO ES DEDUCIBLE LA PÉRDIDA EN LA ENAJENACIÓN DE ACCIONES O CUOTAS DE INTERES SOCIAL"
+epigrafe: "NO ES DEDUCIBLE LA PÉRDIDA EN LA ENAJENACIÓN DE ACCIONES O CUOTAS DE INTERÉS SOCIAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Pérdidas|Pérdidas]]
 
-## Artículo 153. NO ES DEDUCIBLE LA PÉRDIDA EN LA ENAJENACIÓN DE ACCIONES O CUOTAS DE INTERES SOCIAL
+## Artículo 153. NO ES DEDUCIBLE LA PÉRDIDA EN LA ENAJENACIÓN DE ACCIONES O CUOTAS DE INTERÉS SOCIAL
 
 > [!info] Artículo modificado por el artículo [[art. 4 Ley 49 de 1990|4]] de la Ley 49 de 1990. El nuevo texto es el siguiente:
 

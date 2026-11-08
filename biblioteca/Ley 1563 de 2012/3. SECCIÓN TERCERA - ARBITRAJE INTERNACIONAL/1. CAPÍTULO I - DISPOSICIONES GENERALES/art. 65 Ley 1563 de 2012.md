@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "65"
-epigrafe: "RECEPCIÓN DE COMUNICACIONES ESCRITAS"
+epigrafe: "Recepción de comunicaciones escritas"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]]
 
-## Artículo 65. RECEPCIÓN DE COMUNICACIONES ESCRITAS
+## Artículo 65. Recepción de comunicaciones escritas
 
 Salvo acuerdo en contrario de las partes:
 

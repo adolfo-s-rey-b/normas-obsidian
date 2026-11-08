@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "341"
 titulo: "[[CPol - Título XII|TÍTULO XII - Del régimen económico y de la hacienda pública]]"
 capitulo: "[[CPol - Título XII - Capítulo 2|CAPÍTULO 2 - De los planes de desarrollo]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 26 Acto Legislativo 2 de 2015]]"
 anterior: "[[art. 340 CPol]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título XII|Título XII]] › [[CPol - Título XII - Capítulo 2|Capítulo 2]]

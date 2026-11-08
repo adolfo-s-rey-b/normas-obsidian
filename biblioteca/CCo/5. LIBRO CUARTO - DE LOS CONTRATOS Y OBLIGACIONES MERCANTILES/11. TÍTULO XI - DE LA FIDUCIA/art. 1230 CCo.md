@@ -11,7 +11,7 @@ articulo: "1230"
 epigrafe: "FIDUCIAS PROHIBIDAS"
 libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
 titulo: "[[CCo - Libro Cuarto - Título XI|TÍTULO XI - DE LA FIDUCIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 101 Ley 1328 de 2009]]"
 anterior: "[[art. 1229 CCo]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título XI|Título XI]]
@@ -39,7 +39,7 @@ Quedan prohibidos:
 
 2\. Aquellos en los cuales el beneficio se concede a diversas personas sucesivamente, y
 
-3)
+3\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 101 Ley 1328 de 2009|101]] de la Ley 1328 de 2009.
 

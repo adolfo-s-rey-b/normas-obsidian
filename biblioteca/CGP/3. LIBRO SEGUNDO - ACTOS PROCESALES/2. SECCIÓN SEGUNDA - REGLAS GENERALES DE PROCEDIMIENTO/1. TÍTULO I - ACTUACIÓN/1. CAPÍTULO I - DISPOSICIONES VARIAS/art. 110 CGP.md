@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "110"
-epigrafe: "TRASLADOS"
+epigrafe: "Traslados"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 110. TRASLADOS
+## Artículo 110. Traslados
 
 Cualquier traslado que deba surtirse en audiencia se cumplirá permitiéndole a la parte respectiva que haga uso de la palabra.
 

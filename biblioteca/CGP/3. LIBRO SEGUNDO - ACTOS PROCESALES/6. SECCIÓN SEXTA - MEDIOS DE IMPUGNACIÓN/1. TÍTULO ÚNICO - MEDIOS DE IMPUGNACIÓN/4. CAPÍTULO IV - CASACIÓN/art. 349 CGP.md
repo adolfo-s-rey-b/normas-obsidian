@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "349"
-epigrafe: "SENTENCIA"
+epigrafe: "Sentencia"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 349. SENTENCIA
+## Artículo 349. Sentencia
 
 Una vez elaborado el proyecto de sentencia la Sala podrá fijar audiencia si lo juzga necesario. La audiencia se realizará bajo la dirección efectiva del Presidente de la Sala, quien podrá limitar las intervenciones de las partes a lo que sea estrictamente necesario. Los magistrados podrán interrogar a los abogados sobre los fundamentos de la acusación contra la sentencia. En la misma audiencia la Sala podrá dictar la sentencia si lo estima pertinente.
 

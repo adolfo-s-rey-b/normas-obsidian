@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "139"
-epigrafe: "DESISTIMIENTO DE LOS RECURSOS"
+epigrafe: "Desistimiento de los recursos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 139. DESISTIMIENTO DE LOS RECURSOS
+## Artículo 139. Desistimiento de los recursos
 
 Quien hubiere interpuesto un recurso podrá desistir del mismo antes de que el funcionario competente lo decida.
 

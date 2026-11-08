@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "303"
-epigrafe: "DERECHOS DEL CAPTURADO"
+epigrafe: "Derechos del capturado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 303. DERECHOS DEL CAPTURADO
+## Artículo 303. Derechos del capturado
 
 Al capturado se le informará de manera inmediata lo siguiente:
 

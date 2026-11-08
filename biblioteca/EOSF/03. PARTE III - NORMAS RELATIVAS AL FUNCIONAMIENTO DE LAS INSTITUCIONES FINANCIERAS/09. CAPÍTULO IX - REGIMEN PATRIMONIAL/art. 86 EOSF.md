@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "86"
-epigrafe: "COMPUTO DE BONOS OBLIGATORIAMENTE CONVERTIBLES EN ACCIONES"
+epigrafe: "Cómputo de Bonos Obligatoriamente Convertibles en Acciones"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 86. COMPUTO DE BONOS OBLIGATORIAMENTE CONVERTIBLES EN ACCIONES
+## Artículo 86. Cómputo de Bonos Obligatoriamente Convertibles en Acciones
 
 1\. Regla general. Las emisiones de bonos obligatoriamente convertibles en acciones que realicen las entidades sometidas a la inspección y vigilancia de la Superintendencia Bancaria se tendrán en cuenta, en la medida en que vayan siendo efectivamente colocadas, para establecer sus cupos individuales de crédito, los limites de pasivo para con el público, las proporciones de quebranto de capital y demás relaciones legales, siempre que en el respectivo prospecto de emisión se determine que en los eventos de liquidación, el importe de su valor quedará subordinado al pago del pasivo externo. Igualmente, los bonos así emitidos servirán para establecer las proporciones en el quebranto del capital en los términos del artículo [[art. 114 EOSF|114]] del presente Estatuto, o para enervar la causal de disolución por pérdidas consagradas en el ordinal 2o. del artículo [[art. 457 CCo|457]] del Código de Comercio.
 

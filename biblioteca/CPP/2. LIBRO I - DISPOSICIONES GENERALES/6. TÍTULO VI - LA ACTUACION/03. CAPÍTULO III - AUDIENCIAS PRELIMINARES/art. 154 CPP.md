@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "154"
-epigrafe: "MODALIDADES"
+epigrafe: "Modalidades"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo III|CAPÍTULO III - AUDIENCIAS PRELIMINARES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 154. MODALIDADES
+## Artículo 154. Modalidades
 
 Se tramitará en audiencia preliminar:
 

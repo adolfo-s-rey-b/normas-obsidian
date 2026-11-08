@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "122"
-epigrafe: "FORMACIÓN Y ARCHIVO DE LOS EXPEDIENTES"
+epigrafe: "Formación y archivo de los expedientes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título III|TÍTULO III - EXPEDIENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] › [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 122. FORMACIÓN Y ARCHIVO DE LOS EXPEDIENTES
+## Artículo 122. Formación y archivo de los expedientes
 
 De cada proceso en curso se formará un expediente, en el que se insertará la demanda, su contestación, y los demás documentos que le correspondan. En él se tomará nota de los datos que identifiquen las grabaciones en que se registren las audiencias y diligencias.
 

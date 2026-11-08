@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 127 CPTSS|Artículo 127]] — NECESIDAD DE LA PRUEBA
-- [[art. 128 CPTSS|Artículo 128]] — CARGA DINÁMICA DE LA PRUEBA
-- [[art. 129 CPTSS|Artículo 129]] — PRESUNCIONES ESTABLECIDAS POR LA LEY
-- [[art. 130 CPTSS|Artículo 130]] — MEDIOS DE PRUEBA
-- [[art. 131 CPTSS|Artículo 131]] — OPORTUNIDADES PROBATORIAS
-- [[art. 132 CPTSS|Artículo 132]] — PRUEBAS DE OFICIO
+- [[art. 127 CPTSS|Artículo 127]] — Necesidad de la prueba
+- [[art. 128 CPTSS|Artículo 128]] — Carga dinámica de la prueba
+- [[art. 129 CPTSS|Artículo 129]] — Presunciones establecidas por la ley
+- [[art. 130 CPTSS|Artículo 130]] — Medios de prueba
+- [[art. 131 CPTSS|Artículo 131]] — Oportunidades probatorias
+- [[art. 132 CPTSS|Artículo 132]] — Pruebas de oficio
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]] →

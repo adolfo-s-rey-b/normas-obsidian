@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "253"
-epigrafe: "REINTEGRO DEL SUSPENDIDO"
+epigrafe: "Reintegro del suspendido"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VI|CAPÍTULO VI - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VI|Capítulo VI]]
 
-## Artículo 253. REINTEGRO DEL SUSPENDIDO
+## Artículo 253. Reintegro del suspendido
 
 Quien hubiere sido suspendido provisionalmente será reintegrado a su cargo y tendrá derecho a la remuneración dejada de percibir durante el período de suspensión, cuando la investigación termine con archivo definitivo o se produzca fallo absolutorio, o cuando expire el término de suspensión sin que hubiere concluido la investigación. Si la sanción fuere de suspensión inferior al término de la aplicada provisionalmente, tendrá derecho a percibir la diferencia.
 

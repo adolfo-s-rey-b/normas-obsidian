@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "221"
-epigrafe: "DECISIÓN DE EVALUACIÓN"
+epigrafe: "Decisión de evaluación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo IV|CAPÍTULO IV - CIERRE DE LA INVESTIGACIÓN Y EVALUACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo IV|Capítulo IV]]
 
-## Artículo 221. DECISIÓN DE EVALUACIÓN
+## Artículo 221. Decisión de evaluación
 
 Una vez surtida la etapa prevista en el artículo anterior, el funcionario de conocimiento, mediante decisión motivada, evaluará el mérito de las pruebas recaudadas y formulará pliego de cargos al disciplinable o terminará la actuación y ordenará el archivo, según corresponda.
 

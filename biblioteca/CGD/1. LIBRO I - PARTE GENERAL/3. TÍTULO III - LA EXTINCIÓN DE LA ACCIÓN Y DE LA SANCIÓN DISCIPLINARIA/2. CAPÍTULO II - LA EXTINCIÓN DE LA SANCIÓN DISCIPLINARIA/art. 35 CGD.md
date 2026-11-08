@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "35"
-epigrafe: "CAUSALES DE EXTINCIÓN DE LA SANCIÓN DISCIPLINARIA"
+epigrafe: "Causales de extinción de la sanción disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título III|TÍTULO III - LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN DISCIPLINARIA]]"
 capitulo: "[[CGD - Libro I - Título III - Capítulo II|CAPÍTULO II - LA EXTINCIÓN DE LA SANCIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título III|Título III]] › [[CGD - Libro I - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 35. CAUSALES DE EXTINCIÓN DE LA SANCIÓN DISCIPLINARIA
+## Artículo 35. Causales de extinción de la sanción disciplinaria
 
 Son causales de extinción de la sanción disciplinaria:
 

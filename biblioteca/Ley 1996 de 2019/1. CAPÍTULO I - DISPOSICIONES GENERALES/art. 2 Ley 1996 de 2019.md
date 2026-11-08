@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "2"
-epigrafe: "INTERPRETACIÓN NORMATIVA"
+epigrafe: "Interpretación normativa"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 1 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 2. INTERPRETACIÓN NORMATIVA
+## Artículo 2. Interpretación normativa
 
 La presente ley debe interpretarse conforme a la Convención de Naciones Unidas sobre los Derechos de las Personas con Discapacidad y los demás pactos, convenios y convenciones internacionales sobre derechos humanos aprobados por Colombia que integren el bloque de constitucionalidad y la Constitución colombiana.
 

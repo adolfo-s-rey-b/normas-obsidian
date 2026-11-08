@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "202"
-epigrafe: "NOTIFICACIÓN EN AUDIENCIAS Y DILIGENCIAS O EN ESTRADOS"
+epigrafe: "Notificación en audiencias y diligencias o en estrados"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]]
 
-## Artículo 202. NOTIFICACIÓN EN AUDIENCIAS Y DILIGENCIAS O EN ESTRADOS
+## Artículo 202. Notificación en audiencias y diligencias o en estrados
 
 Toda decisión que se adopte en audiencia pública o en el transcurso de una diligencia se notificará en estrados y las partes se considerarán notificadas aunque no hayan concurrido.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 141 EOSF|Artículo 141]] — CONDICIONES DE ALGUNAS OPERACIONES DE LAS COMPAÑIAS DE FINANCIAMIENTO COMERCIAL*
+- [[art. 141 EOSF|Artículo 141]] — Condiciones de Algunas Operaciones de las Compañías de Financiamiento Comercial
 - [[art. 142 EOSF|Artículo 142]] — Disposiciones Especiales Relativas a la Operación y Funcionamiento de las Compañías de Financiamiento Comercial Especializadas en Arrendamiento Financiero o Leasing
 
 ---

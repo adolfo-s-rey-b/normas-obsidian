@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 336 CPP|Artículo 336]] — PRESENTACIÓN DE LA ACUSACIÓN
-- [[art. 337 CPP|Artículo 337]] — CONTENIDO DE LA ACUSACIÓN Y DOCUMENTOS ANEXOS
+- [[art. 336 CPP|Artículo 336]] — Presentación de la acusación
+- [[art. 337 CPP|Artículo 337]] — Contenido de la acusación y documentos anexos
 
 ---
 ↑ [[CPP - Libro III - Título I|Título I]] · [[CPP - Libro III - Título I - Capítulo II|Capítulo II]] →

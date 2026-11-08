@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "39"
-epigrafe: "DE LA FUNCIÓN DE CONTROL DE GARANTÍAS"
+epigrafe: "De la función de control de garantías"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 39. DE LA FUNCIÓN DE CONTROL DE GARANTÍAS
+## Artículo 39. De la función de control de garantías
 
 La función de control de garantías será ejercida por cualquier juez penal municipal. El juez que ejerza el control de garantías quedará impedido para ejercer la función del conocimiento del mismo caso en su fondo.
 

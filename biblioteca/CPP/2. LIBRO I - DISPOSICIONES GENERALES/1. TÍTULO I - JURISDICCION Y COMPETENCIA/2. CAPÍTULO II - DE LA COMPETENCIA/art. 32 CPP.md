@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "32"
-epigrafe: "DE LA CORTE SUPREMA DE JUSTICIA"
+epigrafe: "De la Corte Suprema de Justicia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 32. DE LA CORTE SUPREMA DE JUSTICIA
+## Artículo 32. De la Corte Suprema de Justicia
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

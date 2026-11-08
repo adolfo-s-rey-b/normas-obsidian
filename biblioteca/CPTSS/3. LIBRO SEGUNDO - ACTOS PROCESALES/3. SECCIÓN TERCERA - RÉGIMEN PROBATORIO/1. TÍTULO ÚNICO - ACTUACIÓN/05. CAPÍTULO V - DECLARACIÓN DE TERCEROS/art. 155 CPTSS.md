@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "155"
-epigrafe: "FORMALIDADES DE LA DECLARACIÓN DE TERCEROS"
+epigrafe: "Formalidades de la declaración de terceros"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 155. FORMALIDADES DE LA DECLARACIÓN DE TERCEROS
+## Artículo 155. Formalidades de la declaración de terceros
 
 Los testigos no podrán escuchar las declaraciones de quienes les precedan. Cuando la actuación se realice por medios digitales, los testigos deberán esperar su turno en la sala de espera dispuesta por la aplicación que se esté utilizando para llevar a cabo la diligencia.
 

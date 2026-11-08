@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "14"
-epigrafe: "AMPLIACIÓN DE TÉRMINOS DE PRESCRIPCIÓN PENAL"
+epigrafe: "Ampliación de términos de prescripción penal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 13 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 14. AMPLIACIÓN DE TÉRMINOS DE PRESCRIPCIÓN PENAL
+## Artículo 14. Ampliación de términos de prescripción penal
 
 El inciso sexto del artículo [[art. 83 CP|83]] del Código Penal quedará así:
 

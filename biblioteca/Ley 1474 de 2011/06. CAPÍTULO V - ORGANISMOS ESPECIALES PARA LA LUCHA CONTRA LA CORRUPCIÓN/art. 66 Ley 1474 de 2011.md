@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "66"
-epigrafe: "CONFORMACIÓN DE LA COMISIÓN NACIONAL CIUDADANA PARA LA LUCHA CONTRA LA CORRUPCIÓN"
+epigrafe: "Conformación de la Comisión Nacional Ciudadana para la Lucha contra la Corrupción"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 65 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 66. CONFORMACIÓN DE LA COMISIÓN NACIONAL CIUDADANA PARA LA LUCHA CONTRA LA CORRUPCIÓN
+## Artículo 66. Conformación de la Comisión Nacional Ciudadana para la Lucha contra la Corrupción
 
 Créase la Comisión Nacional Ciudadana para la Lucha contra la Corrupción, la cual estará integrada por:
 

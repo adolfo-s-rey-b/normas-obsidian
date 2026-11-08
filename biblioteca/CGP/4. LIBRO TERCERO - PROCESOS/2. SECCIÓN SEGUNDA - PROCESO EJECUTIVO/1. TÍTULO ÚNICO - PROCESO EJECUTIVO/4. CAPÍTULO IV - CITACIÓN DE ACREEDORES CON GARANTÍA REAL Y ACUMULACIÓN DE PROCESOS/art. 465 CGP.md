@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "465"
-epigrafe: "CONCURRENCIA DE EMBARGOS EN PROCESOS DE DIFERENTES ESPECIALIDADES"
+epigrafe: "Concurrencia de embargos en procesos de diferentes especialidades"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 465. CONCURRENCIA DE EMBARGOS EN PROCESOS DE DIFERENTES ESPECIALIDADES
+## Artículo 465. Concurrencia de embargos en procesos de diferentes especialidades
 
 Cuando en un proceso ejecutivo laboral, de jurisdicción coactiva o de alimentos se decrete el embargo de bienes embargados en uno civil, la medida se comunicará inmediatamente al juez civil, sin necesidad de auto que lo ordene, por oficio en el que se indicarán el nombre de las partes y los bienes de que se trate.
 

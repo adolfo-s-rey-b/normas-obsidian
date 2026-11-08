@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "37"
-epigrafe: "RECURSO DE APELACION"
+epigrafe: "Recurso de Apelación"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo X|CAPÍTULO X - RECURSOS Y COSTAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo X|Capítulo X]]
 
-## Artículo 37. RECURSO DE APELACION
+## Artículo 37. Recurso de Apelación
 
 El recurso de apelación procederá contra la sentencia que se dicte en primera instancia, en la forma y oportunidad señalada en el Código de Procedimiento Civil, y deberá ser resuelto dentro de los veinte (20) días siguientes contados a partir de la radicación del expediente en la Secretaría del Tribunal competente.
 

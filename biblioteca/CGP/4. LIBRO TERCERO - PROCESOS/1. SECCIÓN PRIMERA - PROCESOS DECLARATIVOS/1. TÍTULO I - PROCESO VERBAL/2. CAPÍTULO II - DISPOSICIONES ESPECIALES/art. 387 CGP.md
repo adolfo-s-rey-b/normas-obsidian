@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "387"
-epigrafe: "NULIDAD DE MATRIMONIO CIVIL"
+epigrafe: "Nulidad de matrimonio civil"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 387. NULIDAD DE MATRIMONIO CIVIL
+## Artículo 387. Nulidad de matrimonio civil
 
 A la demanda en que se pida la nulidad de un matrimonio civil deberá acompañarse la prueba de este.
 

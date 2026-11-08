@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "85"
-epigrafe: "PROCEDIMIENTO PARA INVOCAR EL SILENCIO ADMINISTRATIVO POSITIVO"
+epigrafe: "Procedimiento para invocar el silencio administrativo positivo"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VII|CAPÍTULO VII - SILENCIO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 85. PROCEDIMIENTO PARA INVOCAR EL SILENCIO ADMINISTRATIVO POSITIVO
+## Artículo 85. Procedimiento para invocar el silencio administrativo positivo
 
 La persona que se hallare en las condiciones previstas en las disposiciones legales que establecen el beneficio del silencio administrativo positivo, protocolizará la constancia o copia de que trata el artículo [[art. 15 CPACA|15]], junto con una declaración jurada de no haberle sido notificada la decisión dentro del término previsto.
 

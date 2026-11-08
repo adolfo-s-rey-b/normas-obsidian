@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "308"
-epigrafe: "NOTIFICACIÓN"
+epigrafe: "Notificación"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|TÍTULO QUINTO - ARBITRAMENTO JURÍDICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|Capítulo Único]]
 
-## Artículo 308. NOTIFICACIÓN
+## Artículo 308. Notificación
 
 El laudo arbitral se notificará personalmente a las partes, hará tránsito a cosa juzgada y será susceptible del recurso de anulación, el cual será interpuesto dentro de los tres (3) días siguientes a su notificación.
 

@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 201 CPTSS|Artículo 201]] — CLASES DE PROVIDENCIAS
-- [[art. 202 CPTSS|Artículo 202]] — FORMALIDADES
-- [[art. 203 CPTSS|Artículo 203]] — CONTENIDO DE LA SENTENCIA
+- [[art. 201 CPTSS|Artículo 201]] — Clases de providencias
+- [[art. 202 CPTSS|Artículo 202]] — Formalidades
+- [[art. 203 CPTSS|Artículo 203]] — Contenido de la sentencia
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] · [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo II|Capítulo II]] →

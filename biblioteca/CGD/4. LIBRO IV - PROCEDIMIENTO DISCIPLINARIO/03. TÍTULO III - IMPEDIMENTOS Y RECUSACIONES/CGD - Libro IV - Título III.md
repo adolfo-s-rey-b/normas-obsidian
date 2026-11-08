@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 104 CGD|Artículo 104]] — CAUSALES DE IMPEDIMENTO Y RECUSACIÓN
-- [[art. 105 CGD|Artículo 105]] — DECLARACIÓN DE IMPEDIMENTO
-- [[art. 106 CGD|Artículo 106]] — RECUSACIONES
-- [[art. 107 CGD|Artículo 107]] — PROCEDIMIENTO EN CASO DE IMPEDIMENTO O DE RECUSACIÓN
-- [[art. 108 CGD|Artículo 108]] — IMPEDIMENTO Y RECUSACIÓN DEL PROCURADOR GENERAL DE LA NACIÓN
+- [[art. 104 CGD|Artículo 104]] — Causales de impedimento y recusación
+- [[art. 105 CGD|Artículo 105]] — Declaración de impedimento
+- [[art. 106 CGD|Artículo 106]] — Recusaciones
+- [[art. 107 CGD|Artículo 107]] — Procedimiento en caso de impedimento o de recusación
+- [[art. 108 CGD|Artículo 108]] — Impedimento y recusación del Procurador General de la Nación
 
 ---
 ← [[CGD - Libro IV - Título II|Título II]] · ↑ [[CGD - Libro IV|Libro IV]] · [[CGD - Libro IV - Título IV|Título IV]] →

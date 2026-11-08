@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "330A"
-epigrafe: "PROMOCIÓN Y FINANCIACIÓN DE LA DEFORESTACIÓN"
+epigrafe: "Promoción y financiación de la Deforestación"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 330A. PROMOCIÓN Y FINANCIACIÓN DE LA DEFORESTACIÓN
+## Artículo 330A. Promoción y financiación de la Deforestación
 
 El que promueva, financie, dirija, facilite, suministre medios, aproveche económicamente u obtenga cualquier otro beneficio de la tala, quema, corte, arranque o destrucción de áreas iguales o superiores a una hectárea continua o discontinua de bosque natural, incurrirá en prisión de noventa y seis (96) a ciento ochenta (180) meses y multa de trescientos (300) a cincuenta mil (50.000) salarios mínimos legales mensuales vigentes.
 

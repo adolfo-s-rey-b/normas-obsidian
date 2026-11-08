@@ -11,7 +11,7 @@ articulo: "250"
 epigrafe: "ORGANIZACION"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo V|CAPÍTULO V - INSTITUTO DE FOMENTO INDUSTRIAL IFI]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 50 Ley 795 de 2003]]"
 derogado_por:
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo V|Capítulo V]]

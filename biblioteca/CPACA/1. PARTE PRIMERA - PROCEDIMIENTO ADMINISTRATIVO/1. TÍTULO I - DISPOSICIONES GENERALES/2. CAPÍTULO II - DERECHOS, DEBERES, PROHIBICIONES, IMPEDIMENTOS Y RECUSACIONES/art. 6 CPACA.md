@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "6"
-epigrafe: "DEBERES DE LAS PERSONAS"
+epigrafe: "Deberes de las personas"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 6. DEBERES DE LAS PERSONAS
+## Artículo 6. Deberes de las personas
 
 Correlativamente con los derechos que les asisten, las personas tienen, en las actuaciones ante las autoridades, los siguientes deberes:
 

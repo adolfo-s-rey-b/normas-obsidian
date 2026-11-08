@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 208 CGD|Artículo 208]] — PROCEDENCIA, OBJETIVO Y TRÁMITE DE LA INDAGACIÓN PREVIA
-- [[art. 209 CGD|Artículo 209]] — DECISIÓN INHIBITORIA
-- [[art. 210 CGD|Artículo 210]] — QUEJAS FALSAS O TEMERARIAS
+- [[art. 208 CGD|Artículo 208]] — Procedencia, objetivo y trámite de la indagación previa
+- [[art. 209 CGD|Artículo 209]] — Decisión inhibitoria
+- [[art. 210 CGD|Artículo 210]] — Quejas falsas o temerarias
 
 ---
 ↑ [[CGD - Libro IV - Título IX|Título IX]] · [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]] →

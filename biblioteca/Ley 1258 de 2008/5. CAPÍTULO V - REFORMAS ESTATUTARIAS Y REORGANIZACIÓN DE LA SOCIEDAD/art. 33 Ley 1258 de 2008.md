@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "33"
-epigrafe: "FUSIÓN ABREVIADA"
+epigrafe: "Fusión abreviada"
 capitulo: "[[Ley 1258 de 2008 - Capítulo V|CAPÍTULO V - REFORMAS ESTATUTARIAS Y REORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 32 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo V|Capítulo V]]
 
-## Artículo 33. FUSIÓN ABREVIADA
+## Artículo 33. Fusión abreviada
 
 En aquellos casos en que una sociedad detente más del noventa (90%) de las acciones de una sociedad por acciones simplificada, aquella podrá absorber a esta, mediante determinación adoptada por los representantes legales o por las juntas directivas de las sociedades participantes en el proceso de fusión.
 

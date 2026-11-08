@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "183"
-epigrafe: "ACTAS Y REGISTRO DE LAS AUDIENCIAS Y DILIGENCIAS"
+epigrafe: "Actas y registro de las audiencias y diligencias"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]]
 
-## Artículo 183. ACTAS Y REGISTRO DE LAS AUDIENCIAS Y DILIGENCIAS
+## Artículo 183. Actas y registro de las audiencias y diligencias
 
 Las audiencias y diligencias serán presididas por el Juez o Magistrado Ponente. En el caso de jueces colegiados podrán concurrir los magistrados que integran la sala, sección o subsección si a bien lo tienen. Tratándose de la audiencia de alegaciones y juzgamiento esta se celebrará de acuerdo con el quórum requerido para adoptar la decisión.
 

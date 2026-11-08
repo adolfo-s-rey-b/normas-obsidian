@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 23 CGD|Artículo 23]] — GARANTÍA DE LA FUNCIÓN PÚBLICA
+- [[art. 23 CGD|Artículo 23]] — Garantía de la función pública
 
 ---
 ↑ [[CGD - Libro I - Título II|Título II]] · [[CGD - Libro I - Título II - Capítulo II|Capítulo II]] →

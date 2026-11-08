@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "9"
-epigrafe: "SUSCRIPCIÓN Y PAGO DEL CAPITAL"
+epigrafe: "Suscripción y pago del capital"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 8 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 9. SUSCRIPCIÓN Y PAGO DEL CAPITAL
+## Artículo 9. Suscripción y pago del capital
 
 La suscripción y pago del capital podrá hacerse en condiciones, proporciones y plazos distintos de los previstos en las normas contempladas en el Código de Comercio para las sociedades anónimas. Sin embargo, en ningún caso, el plazo para el pago de las acciones excederá de dos (2) años.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "295"
-epigrafe: "INASISTENCIA DE LAS PARTES"
+epigrafe: "Inasistencia de las partes"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|TÍTULO TERCERO - PROCESOS DE FUERO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|Capítulo I]]
 
-## Artículo 295. INASISTENCIA DE LAS PARTES
+## Artículo 295. Inasistencia de las partes
 
 Si notificadas las partes de la providencia que señala la fecha de audiencia, no concurrieren, el juez decidirá teniendo en cuenta los elementos del proceso de que disponga, o los que de oficio juzgue conveniente decretar y practicar.
 

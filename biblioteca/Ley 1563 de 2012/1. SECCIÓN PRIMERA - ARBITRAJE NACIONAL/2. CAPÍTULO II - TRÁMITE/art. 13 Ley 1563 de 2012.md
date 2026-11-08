@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "13"
-epigrafe: "AMPARO DE POBREZA"
+epigrafe: "Amparo de pobreza"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 13. AMPARO DE POBREZA
+## Artículo 13. Amparo de pobreza
 
 El amparo de pobreza se concederá, total o parcialmente, en los términos del Código de Procedimiento Civil. Si hubiere lugar a la designación del apoderado, esta se hará a la suerte entre los abogados incluidos en la lista de árbitros del respectivo centro de arbitraje, salvo que el interesado lo designe.
 

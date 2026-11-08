@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "82"
-epigrafe: "EXTINCIÓN DE LA ACCIÓN PENAL"
+epigrafe: "Extinción de la acción penal"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Quinto|CAPÍTULO QUINTO - DE LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN PENAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Quinto|Capítulo Quinto]]
 
-## Artículo 82. EXTINCIÓN DE LA ACCIÓN PENAL
+## Artículo 82. Extinción de la acción penal
 
 Son causales de extinción de la acción penal:
 

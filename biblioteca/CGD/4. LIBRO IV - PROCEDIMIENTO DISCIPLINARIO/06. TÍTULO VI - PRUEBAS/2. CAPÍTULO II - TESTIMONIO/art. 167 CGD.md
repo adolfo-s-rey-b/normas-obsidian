@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "167"
-epigrafe: "EXCEPCIONES POR OFICIO O PROFESIÓN"
+epigrafe: "Excepciones por oficio o profesión"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 167. EXCEPCIONES POR OFICIO O PROFESIÓN
+## Artículo 167. Excepciones por oficio o profesión
 
 No están obligados a declarar sobre aquello que se les ha confiado o ha llegado a su conocimiento por razón de su ministerio, profesión u oficio:
 

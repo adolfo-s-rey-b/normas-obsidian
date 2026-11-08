@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "255"
-epigrafe: "TRASLADO DE LA DEMANDA"
+epigrafe: "Traslado de la demanda"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 255. TRASLADO DE LA DEMANDA
+## Artículo 255. Traslado de la demanda
 
 Al admitir la demanda, el juez deberá integrar la litis con quienes advierta necesario y ordenará correr traslado de ella al demandado o demandados y demás intervinientes, al Agente del Ministerio Público y la Agencia Nacional de Defensa Jurídica del Estado, si fuere el caso, por un término común de diez (10) días, so pena de nulidad.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "4"
-epigrafe: "IGUALDAD"
+epigrafe: "Igualdad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 3 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 4. IGUALDAD
+## Artículo 4. Igualdad
 
 Es obligación de los servidores judiciales hacer efectiva la igualdad de los intervinientes en el desarrollo de la actuación procesal y proteger, especialmente, a aquellas personas que por su condición económica, física o mental, se encuentren en circunstancias de debilidad manifiesta.
 

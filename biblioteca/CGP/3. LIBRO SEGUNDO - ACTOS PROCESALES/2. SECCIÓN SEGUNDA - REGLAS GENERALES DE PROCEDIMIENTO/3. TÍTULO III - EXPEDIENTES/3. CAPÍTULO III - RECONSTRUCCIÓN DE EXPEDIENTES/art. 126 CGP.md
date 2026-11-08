@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "126"
-epigrafe: "TRÁMITE PARA LA RECONSTRUCCIÓN"
+epigrafe: "Trámite para la reconstrucción"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título III|TÍTULO III - EXPEDIENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] › [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 126. TRÁMITE PARA LA RECONSTRUCCIÓN
+## Artículo 126. Trámite para la reconstrucción
 
 En caso de pérdida total o parcial de un expediente se procederá así:
 

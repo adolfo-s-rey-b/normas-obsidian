@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "164"
-epigrafe: "PROVIDENCIAS DE JUECES COLEGIADOS O PLURALES"
+epigrafe: "Providencias de jueces colegiados o plurales"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo V|CAPÍTULO V - PROVIDENCIAS JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 164. PROVIDENCIAS DE JUECES COLEGIADOS O PLURALES
+## Artículo 164. Providencias de jueces colegiados o plurales
 
 La exposición de la decisión estará a cargo del juez que presida la audiencia o el que ellos designen.
 

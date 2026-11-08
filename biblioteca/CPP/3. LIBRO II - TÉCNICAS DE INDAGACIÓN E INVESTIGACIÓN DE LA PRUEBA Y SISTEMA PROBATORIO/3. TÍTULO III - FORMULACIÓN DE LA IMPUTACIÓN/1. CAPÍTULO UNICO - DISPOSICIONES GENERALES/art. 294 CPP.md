@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "294"
-epigrafe: "VENCIMIENTO DEL TÉRMINO"
+epigrafe: "Vencimiento del término"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título III|TÍTULO III - FORMULACIÓN DE LA IMPUTACIÓN]]"
 capitulo: "[[CPP - Libro II - Título III - Capítulo Unico|CAPÍTULO UNICO - DISPOSICIONES GENERALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título III|Título III]] › [[CPP - Libro II - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 294. VENCIMIENTO DEL TÉRMINO
+## Artículo 294. Vencimiento del término
 
 Vencido el término previsto en el artículo [[art. 175 CPP|175]] el fiscal deberá solicitar la preclusión o formular la acusación ante el juez de conocimiento.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "293"
-epigrafe: "PROCEDIMIENTO EN CASO DE ACEPTACIÓN DE LA IMPUTACIÓN"
+epigrafe: "Procedimiento en caso de aceptación de la imputación"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título III|TÍTULO III - FORMULACIÓN DE LA IMPUTACIÓN]]"
 capitulo: "[[CPP - Libro II - Título III - Capítulo Unico|CAPÍTULO UNICO - DISPOSICIONES GENERALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título III|Título III]] › [[CPP - Libro II - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 293. PROCEDIMIENTO EN CASO DE ACEPTACIÓN DE LA IMPUTACIÓN
+## Artículo 293. Procedimiento en caso de aceptación de la imputación
 
 Si el imputado, por iniciativa propia o por acuerdo con la Fiscalía acepta la imputación, se entenderá que lo actuado es suficiente como acusación. La Fiscalía adjuntará el escrito que contiene la imputación o acuerdo que será enviado al Juez de conocimiento. Examinado por el juez de conocimiento el acuerdo para determinar que es voluntario, libre y espontáneo, procederá a aceptarlo sin que a partir de entonces sea posible la retractación de alguno de los intervinientes, y convocará a audiencia para la individualización de la pena y sentencia.
 

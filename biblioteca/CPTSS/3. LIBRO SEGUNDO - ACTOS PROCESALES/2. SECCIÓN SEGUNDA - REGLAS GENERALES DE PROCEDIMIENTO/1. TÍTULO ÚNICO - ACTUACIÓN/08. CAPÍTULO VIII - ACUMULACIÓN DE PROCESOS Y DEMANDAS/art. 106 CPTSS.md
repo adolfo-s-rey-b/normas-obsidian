@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "106"
-epigrafe: "PROCEDENCIA DE LA ACUMULACIÓN EN LOS PROCESOS DECLARATIVOS"
+epigrafe: "Procedencia de la acumulación en los procesos declarativos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 106. PROCEDENCIA DE LA ACUMULACIÓN EN LOS PROCESOS DECLARATIVOS
+## Artículo 106. Procedencia de la acumulación en los procesos declarativos
 
 Para la acumulación de procesos y demandas se aplicarán las siguientes reglas:
 

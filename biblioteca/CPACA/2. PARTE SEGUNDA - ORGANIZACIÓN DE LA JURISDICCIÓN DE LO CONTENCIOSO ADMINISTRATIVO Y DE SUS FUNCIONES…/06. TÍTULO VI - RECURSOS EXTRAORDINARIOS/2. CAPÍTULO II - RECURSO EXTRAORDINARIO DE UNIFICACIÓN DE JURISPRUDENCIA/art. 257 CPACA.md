@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "257"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 257. PROCEDENCIA
+## Artículo 257. Procedencia
 
 El recurso extraordinario de unificación de jurisprudencia procede contra las sentencias dictadas en única y en segunda instancia por los tribunales administrativos, tanto para los procesos que se rigen por el Decreto 01 de 1984 como para aquellos que se tramitan por la Ley 1437 de 2011.
 

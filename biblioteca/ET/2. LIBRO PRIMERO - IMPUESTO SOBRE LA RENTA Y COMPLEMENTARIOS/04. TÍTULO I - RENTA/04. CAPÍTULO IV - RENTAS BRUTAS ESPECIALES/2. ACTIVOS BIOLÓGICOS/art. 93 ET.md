@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "93"
-epigrafe: "TRATAMIENTO DE LOS ACTIVOS BIOLÓGICOS PRODUCTORES"
+epigrafe: "Tratamiento de los activos biológicos productores"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo IV|CAPÍTULO IV - RENTAS BRUTAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo IV|Capítulo IV]] › [[ET - Libro Primero - Título I - Capítulo IV - Activos biológicos|Activos biológicos]]
 
-## Artículo 93. TRATAMIENTO DE LOS ACTIVOS BIOLÓGICOS PRODUCTORES
+## Artículo 93. Tratamiento de los activos biológicos productores
 
 Para efectos del impuesto sobre la renta y complementarios, los contribuyentes obligados a llevar contabilidad observarán las siguientes reglas:
 

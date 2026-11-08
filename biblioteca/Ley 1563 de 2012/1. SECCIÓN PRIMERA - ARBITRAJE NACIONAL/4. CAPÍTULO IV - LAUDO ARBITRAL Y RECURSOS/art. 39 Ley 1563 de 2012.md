@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "39"
-epigrafe: "ACLARACIÓN, CORRECCIÓN Y ADICIÓN DEL LAUDO"
+epigrafe: "Aclaración, corrección y adición del laudo"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 39. ACLARACIÓN, CORRECCIÓN Y ADICIÓN DEL LAUDO
+## Artículo 39. Aclaración, corrección y adición del laudo
 
 Dentro de los cinco (5) días siguientes a su notificación, el laudo podrá ser aclarado, corregido y complementado de oficio; asimismo, podrá serlo a solicitud de parte, formulada dentro del mismo término.
 

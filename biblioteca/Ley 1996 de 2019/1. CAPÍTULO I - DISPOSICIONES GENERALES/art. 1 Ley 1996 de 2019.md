@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "1"
-epigrafe: "OBJETO"
+epigrafe: "Objeto"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 siguiente: "[[art. 2 Ley 1996 de 2019]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 1. OBJETO
+## Artículo 1. Objeto
 
 La presente ley tiene por objeto establecer medidas específicas para la garantía del derecho a la capacidad legal plena de las personas con discapacidad, mayores de edad, y al acceso a los apoyos que puedan requerirse para el ejercicio de la misma.
 

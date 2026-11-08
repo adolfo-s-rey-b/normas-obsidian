@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "178"
-epigrafe: "TRÁMITE DEL RECURSO DE APELACIÓN CONTRA AUTOS"
+epigrafe: "Trámite del recurso de apelación contra autos"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo VIII|CAPÍTULO VIII - RECURSOS ORDINARIOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 178. TRÁMITE DEL RECURSO DE APELACIÓN CONTRA AUTOS
+## Artículo 178. Trámite del recurso de apelación contra autos
 
 Se interpondrá, sustentará y correrá traslado a los no impugnantes en la respectiva audiencia. Si el recurso fuere debidamente sustentado se concederá de inmediato ante el superior en el efecto previsto en el artículo anterior.
 

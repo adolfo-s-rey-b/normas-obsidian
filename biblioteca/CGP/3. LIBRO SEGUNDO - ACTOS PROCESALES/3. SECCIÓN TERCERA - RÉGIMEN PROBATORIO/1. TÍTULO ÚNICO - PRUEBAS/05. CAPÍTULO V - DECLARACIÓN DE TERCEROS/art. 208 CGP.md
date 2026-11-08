@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "208"
-epigrafe: "DEBER DE TESTIMONIAR"
+epigrafe: "Deber de testimoniar"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 208. DEBER DE TESTIMONIAR
+## Artículo 208. Deber de testimoniar
 
 Toda persona tiene el deber de rendir el testimonio que se le pida, excepto en los casos determinados por la ley.
 

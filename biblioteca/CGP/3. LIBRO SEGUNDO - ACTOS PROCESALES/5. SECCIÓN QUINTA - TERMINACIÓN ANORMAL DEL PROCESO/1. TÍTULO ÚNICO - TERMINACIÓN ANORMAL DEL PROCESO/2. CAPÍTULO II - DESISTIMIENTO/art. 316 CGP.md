@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "316"
-epigrafe: "DESISTIMIENTO DE CIERTOS ACTOS PROCESALES"
+epigrafe: "Desistimiento de ciertos actos procesales"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 316. DESISTIMIENTO DE CIERTOS ACTOS PROCESALES
+## Artículo 316. Desistimiento de ciertos actos procesales
 
 Las partes podrán desistir de los recursos interpuestos y de los incidentes, las excepciones y los demás actos procesales que hayan promovido. No podrán desistir de las pruebas practicadas.
 

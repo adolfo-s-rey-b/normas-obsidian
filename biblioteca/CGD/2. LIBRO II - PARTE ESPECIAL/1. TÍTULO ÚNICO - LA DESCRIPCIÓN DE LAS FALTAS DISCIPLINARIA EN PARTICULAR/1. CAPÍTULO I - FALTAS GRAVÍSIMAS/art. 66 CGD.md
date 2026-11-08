@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "66"
-epigrafe: "CAUSALES DE MALA CONDUCTA"
+epigrafe: "Causales de mala conducta"
 libro: "[[CGD - Libro II|LIBRO II - PARTE ESPECIAL]]"
 titulo: "[[CGD - Libro II - Título Único|TÍTULO ÚNICO - LA DESCRIPCIÓN DE LAS FALTAS DISCIPLINARIA EN PARTICULAR]]"
 capitulo: "[[CGD - Libro II - Título Único - Capítulo I|CAPÍTULO I - FALTAS GRAVÍSIMAS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro II|Libro II]] › [[CGD - Libro II - Título Único|Título Único]] › [[CGD - Libro II - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 66. CAUSALES DE MALA CONDUCTA
+## Artículo 66. Causales de mala conducta
 
 Las faltas anteriores constituyen causales de mala conducta para los efectos señalados en el numeral 2 del artículo [[art. 175 CGD|175]]; numeral 3 del artículo [[art. 178 CPol|178]] y el tercer inciso del artículo [[art. 178A CPol|178A]]* de la Constitución Política, cuando fueren realizadas por el Presidente de la República, los Magistrados de la Comisión de Aforados, Corte Suprema de Justicia, del Consejo de Estado, o de la Corte Constitucional, los miembros de la Comisión Nacional de Disciplina Judicial, ~~o quienes hagan sus veces~~, y del Fiscal General de la Nación.
 

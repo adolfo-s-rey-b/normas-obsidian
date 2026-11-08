@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "98"
-epigrafe: "ETAPAS DEL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL"
+epigrafe: "Etapas del procedimiento verbal de responsabilidad fiscal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]]
 
-## Artículo 98. ETAPAS DEL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL
+## Artículo 98. Etapas del procedimiento verbal de responsabilidad fiscal
 
 El proceso verbal comprende las siguientes etapas:
 

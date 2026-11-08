@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "596"
-epigrafe: "OPOSICIONES AL SECUESTRO"
+epigrafe: "Oposiciones al secuestro"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 596. OPOSICIONES AL SECUESTRO
+## Artículo 596. Oposiciones al secuestro
 
 A las oposiciones al secuestro se aplicarán las siguientes reglas:
 

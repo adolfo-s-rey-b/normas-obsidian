@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "278"
-epigrafe: "COSTO MINIMO DE LOS INMUEBLES ADQUIRIDOS CON PRESTAMOS"
+epigrafe: "COSTO MÍNIMO DE LOS INMUEBLES ADQUIRIDOS CON PRÉSTAMOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|Valor patrimonial de los activos]]
 
-## Artículo 278. COSTO MINIMO DE LOS INMUEBLES ADQUIRIDOS CON PRESTAMOS
+## Artículo 278. COSTO MÍNIMO DE LOS INMUEBLES ADQUIRIDOS CON PRÉSTAMOS
 
 Cuando se adquieran bienes raíces con préstamos de entidades sometidas a la vigilancia el Estado, el precio de compra fijado en la escritura no podrá ser inferior a na suma en la cual el préstamo represente el 70% del total.
 

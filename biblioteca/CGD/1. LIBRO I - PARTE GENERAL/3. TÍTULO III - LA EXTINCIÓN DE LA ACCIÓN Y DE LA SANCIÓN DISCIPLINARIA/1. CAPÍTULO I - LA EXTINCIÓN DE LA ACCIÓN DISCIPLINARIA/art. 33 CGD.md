@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "33"
-epigrafe: "PRESCRIPCIÓN E INTERRUPCIÓN DE LA ACCIÓN DISCIPLINARIA"
+epigrafe: "Prescripción e interrupción de la acción disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título III|TÍTULO III - LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN DISCIPLINARIA]]"
 capitulo: "[[CGD - Libro I - Título III - Capítulo I|CAPÍTULO I - LA EXTINCIÓN DE LA ACCIÓN DISCIPLINARIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título III|Título III]] › [[CGD - Libro I - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 33. PRESCRIPCIÓN E INTERRUPCIÓN DE LA ACCIÓN DISCIPLINARIA
+## Artículo 33. Prescripción e interrupción de la acción disciplinaria
 
 La acción disciplinaria prescribirá en cinco (5) años contados para las faltas instantáneas desde el día de su consumación, para las de carácter permanente o continuado, desde la realización del último hecho o acto y para las omisivas, cuando haya cesado el deber de actuar.
 

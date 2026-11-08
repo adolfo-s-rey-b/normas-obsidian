@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "268"
-epigrafe: "EXHIBICIÓN DE LIBROS Y PAPELES DE LOS COMERCIANTES"
+epigrafe: "Exhibición de libros y papeles de los comerciantes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 268. EXHIBICIÓN DE LIBROS Y PAPELES DE LOS COMERCIANTES
+## Artículo 268. Exhibición de libros y papeles de los comerciantes
 
 Podrá ordenarse, de oficio o a solicitud de parte, la exhibición parcial de los libros y papeles del comerciante. La diligencia se practicará ante el juez del lugar en que los libros se lleven y se limitará a los asientos y papeles que tengan relación necesaria con el objeto del proceso y la comprobación de que aquellos cumplen con las prescripciones legales.
 

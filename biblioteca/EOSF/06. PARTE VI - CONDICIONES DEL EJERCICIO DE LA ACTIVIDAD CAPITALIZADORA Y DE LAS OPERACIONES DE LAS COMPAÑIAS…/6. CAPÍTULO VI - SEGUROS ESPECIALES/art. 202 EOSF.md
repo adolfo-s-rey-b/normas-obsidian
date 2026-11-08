@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "202"
-epigrafe: "SEGURO DE VIDA PARA FUNCIONARIOS Y EMPLEADOS DE LA RAMA JURISDICCIONAL Y DEL MINISTERIO PUBLICO"
+epigrafe: "Seguro de Vida para Funcionarios y Empleados de la Rama Jurisdiccional y del Ministerio Público"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo VI|CAPÍTULO VI - SEGUROS ESPECIALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 202. SEGURO DE VIDA PARA FUNCIONARIOS Y EMPLEADOS DE LA RAMA JURISDICCIONAL Y DEL MINISTERIO PUBLICO
+## Artículo 202. Seguro de Vida para Funcionarios y Empleados de la Rama Jurisdiccional y del Ministerio Público
 
 1\. Naturaleza y destinatarios. Establécese el seguro de vida para los funcionarios y empleados de la Rama Jurisdiccional, del Ministerio Público y para las personas que transitoriamente desempeñen funciones jurisdiccionales, que por causa o con ocasión del ejercicio de sus funciones pierdan la vida en hechos violentos. El seguro de que trata el presente artículo comprende los gastos funerarios.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "115"
-epigrafe: "PLANTA GLOBAL Y GRUPOS INTERNOS DE TRABAJO"
+epigrafe: "Planta global y grupos internos de trabajo"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVII|CAPÍTULO XVII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 114 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVII|Capítulo XVII]]
 
-## Artículo 115. PLANTA GLOBAL Y GRUPOS INTERNOS DE TRABAJO
+## Artículo 115. Planta global y grupos internos de trabajo
 
 El Gobierno Nacional aprobará las plantas de personal de los organismos y entidades de que trata la presente ley de manera global. En todo caso el director del organismo distribuirá los cargos de acuerdo con la estructura, las necesidades de la organización y sus planes y programas.
 

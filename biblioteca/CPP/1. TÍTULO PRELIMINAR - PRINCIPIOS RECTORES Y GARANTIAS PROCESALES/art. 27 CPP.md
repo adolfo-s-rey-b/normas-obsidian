@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "27"
-epigrafe: "MODULADORES DE LA ACTIVIDAD PROCESAL"
+epigrafe: "Moduladores de la actividad procesal"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 26 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 27. MODULADORES DE LA ACTIVIDAD PROCESAL
+## Artículo 27. Moduladores de la actividad procesal
 
 En el desarrollo de la investigación y en el proceso penal los servidores públicos se ceñirán a criterios de necesidad, ponderación, legalidad y corrección en el comportamiento, para evitar excesos contrarios a la función pública, especialmente a la justicia.
 

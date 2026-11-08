@@ -13,7 +13,7 @@ articulo: "468"
 epigrafe: "TARIFA GENERAL DEL IMPUESTO SOBRE LAS VENTAS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título V|TÍTULO V - TARIFAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 184 Ley 1819 de 2016]]"
   - "[[art. 26 Ley 633 de 2000]]"
@@ -42,7 +42,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título V|Título V]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "201"
-epigrafe: "INTANGIBILIDAD DE LAS GARANTÍAS CONSTITUCIONALES"
+epigrafe: "Intangibilidad de las garantías constitucionales"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VII|TÍTULO VII - ATRIBUCIONES DE POLICÍA JUDICIAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VII|Título VII]]
 
-## Artículo 201. INTANGIBILIDAD DE LAS GARANTÍAS CONSTITUCIONALES
+## Artículo 201. Intangibilidad de las garantías constitucionales
 
 Las actuaciones que se realicen en ejercicio de las atribuciones de Policía Judicial lo serán con estricto respeto de las garantías constitucionales y legales.
 

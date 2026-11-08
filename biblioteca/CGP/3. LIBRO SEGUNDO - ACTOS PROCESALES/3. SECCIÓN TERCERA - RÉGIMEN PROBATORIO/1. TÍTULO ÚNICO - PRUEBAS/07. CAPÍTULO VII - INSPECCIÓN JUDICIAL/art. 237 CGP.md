@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "237"
-epigrafe: "SOLICITUD Y DECRETO DE LA INSPECCIÓN"
+epigrafe: "Solicitud y decreto de la inspección"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 237. SOLICITUD Y DECRETO DE LA INSPECCIÓN
+## Artículo 237. Solicitud y decreto de la inspección
 
 Quien pida la inspección expresará con claridad y precisión los hechos que pretende probar.
 

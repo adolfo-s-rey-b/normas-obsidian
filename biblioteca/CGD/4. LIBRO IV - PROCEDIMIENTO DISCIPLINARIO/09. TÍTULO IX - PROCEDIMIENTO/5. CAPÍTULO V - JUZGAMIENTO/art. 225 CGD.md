@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225"
-epigrafe: "NOTIFICACIÓN DEL PLIEGO DE CARGOS Y OPORTUNIDAD DE VARIACIÓN"
+epigrafe: "Notificación del pliego de cargos y oportunidad de variación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]]
 
-## Artículo 225. NOTIFICACIÓN DEL PLIEGO DE CARGOS Y OPORTUNIDAD DE VARIACIÓN
+## Artículo 225. Notificación del pliego de cargos y oportunidad de variación
 
 El pliego de cargos se notificará personalmente al procesado o a su defensor si lo tuviere. Para el efecto, inmediatamente se librará comunicación y se surtirá con el primero que se presente.
 

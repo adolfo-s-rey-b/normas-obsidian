@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "335"
-epigrafe: "RECHAZO DE LA SOLICITUD DE PRECLUSIÓN"
+epigrafe: "Rechazo de la solicitud de preclusión"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título VI|TÍTULO VI - DE LA PRECLUSIÓN]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título VI|Título VI]]
 
-## Artículo 335. RECHAZO DE LA SOLICITUD DE PRECLUSIÓN
+## Artículo 335. Rechazo de la solicitud de preclusión
 
 En firme el auto que rechaza la preclusión las diligencias volverán a la Fiscalía, restituyéndose el término que duró el trámite de la preclusión.
 

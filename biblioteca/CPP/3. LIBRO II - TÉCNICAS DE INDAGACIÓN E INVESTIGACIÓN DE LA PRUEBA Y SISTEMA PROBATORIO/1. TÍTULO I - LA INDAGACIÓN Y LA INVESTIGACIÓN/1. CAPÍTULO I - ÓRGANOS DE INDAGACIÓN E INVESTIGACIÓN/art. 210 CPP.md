@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "210"
-epigrafe: "INFORME DE INVESTIGADOR DE LABORATORIO"
+epigrafe: "Informe de investigador de laboratorio"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 210. INFORME DE INVESTIGADOR DE LABORATORIO
+## Artículo 210. Informe de investigador de laboratorio
 
 El informe del investigador de laboratorio tendrá las siguientes características:
 

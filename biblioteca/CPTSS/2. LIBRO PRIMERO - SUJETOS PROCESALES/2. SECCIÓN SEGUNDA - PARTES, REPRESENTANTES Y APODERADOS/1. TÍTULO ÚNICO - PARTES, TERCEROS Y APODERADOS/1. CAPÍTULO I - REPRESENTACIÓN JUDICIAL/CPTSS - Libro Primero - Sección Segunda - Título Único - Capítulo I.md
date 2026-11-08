@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 38 CPTSS|Artículo 38]] — CAPACIDAD PARA SER PARTE
-- [[art. 39 CPTSS|Artículo 39]] — COMPARECENCIA AL PROCESO
-- [[art. 40 CPTSS|Artículo 40]] — FUNCIONES Y FACULTADES DEL CURADOR AD LITEM
-- [[art. 41 CPTSS|Artículo 41]] — AGENCIA OFICIOSA PROCESAL
-- [[art. 42 CPTSS|Artículo 42]] — REPRESENTACIÓN DE PERSONAS JURÍDICAS EXTRANJERAS
-- [[art. 43 CPTSS|Artículo 43]] — REPRESENTACIÓN AGENCIAS Y SUCURSALES DE SOCIEDADES NACIONALES
+- [[art. 38 CPTSS|Artículo 38]] — Capacidad para ser parte
+- [[art. 39 CPTSS|Artículo 39]] — Comparecencia al proceso
+- [[art. 40 CPTSS|Artículo 40]] — Funciones y facultades del curador ad litem
+- [[art. 41 CPTSS|Artículo 41]] — Agencia oficiosa procesal
+- [[art. 42 CPTSS|Artículo 42]] — Representación de personas jurídicas extranjeras
+- [[art. 43 CPTSS|Artículo 43]] — Representación agencias y sucursales de sociedades nacionales
 
 ---
 ↑ [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]] →

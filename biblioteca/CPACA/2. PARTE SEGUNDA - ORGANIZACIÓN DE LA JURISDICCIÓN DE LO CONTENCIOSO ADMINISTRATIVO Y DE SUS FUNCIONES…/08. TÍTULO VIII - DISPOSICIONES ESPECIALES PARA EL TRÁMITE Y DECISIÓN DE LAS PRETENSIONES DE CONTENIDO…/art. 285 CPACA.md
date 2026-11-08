@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "285"
-epigrafe: "AUDIENCIA DE PRUEBAS"
+epigrafe: "Audiencia de pruebas"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 285. AUDIENCIA DE PRUEBAS
+## Artículo 285. Audiencia de pruebas
 
 La audiencia de pruebas se regirá por lo establecido en este Código para el proceso ordinario.
 

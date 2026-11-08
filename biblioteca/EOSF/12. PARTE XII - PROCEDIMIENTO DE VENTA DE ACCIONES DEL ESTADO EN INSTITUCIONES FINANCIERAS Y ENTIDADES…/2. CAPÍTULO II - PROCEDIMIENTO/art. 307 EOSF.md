@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "307"
-epigrafe: "DIVULGACION"
+epigrafe: "Divulgación"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]
 
-## Artículo 307. DIVULGACION
+## Artículo 307. Divulgación
 
 Sin perjuicio de la reserva bancaria, se establecerán mecanismos que otorguen amplia y completa divulgación de la condición financiera de la entidad cuyas acciones se encuentren en proceso de enajenación conforme al artículo [[art. 304 EOSF|304]] del presente Estatuto, información a la cual puedan acceder los interesados en igualdad de condiciones.
 

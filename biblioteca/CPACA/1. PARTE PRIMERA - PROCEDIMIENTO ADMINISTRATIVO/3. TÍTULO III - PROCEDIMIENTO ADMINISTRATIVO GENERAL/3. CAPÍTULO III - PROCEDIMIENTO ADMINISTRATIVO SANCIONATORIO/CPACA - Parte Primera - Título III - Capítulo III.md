@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 47 CPACA|Artículo 47]] — PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO
+- [[art. 47 CPACA|Artículo 47]] — Procedimiento administrativo sancionatorio
 - [[art. 47A CPACA|Artículo 47A]] — Suspensión provisional en el procedimiento administrativo sancionatorio fiscal
-- [[art. 48 CPACA|Artículo 48]] — PERÍODO PROBATORIO
-- [[art. 49 CPACA|Artículo 49]] — CONTENIDO DE LA DECISIÓN
-- [[art. 49A CPACA|Artículo 49A]] — RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO FISCAL
-- [[art. 50 CPACA|Artículo 50]] — GRADUACIÓN DE LAS SANCIONES
-- [[art. 51 CPACA|Artículo 51]] — DE LA RENUENCIA A SUMINISTRAR INFORMACIÓN
-- [[art. 52 CPACA|Artículo 52]] — CADUCIDAD DE LA FACULTAD SANCIONATORIA
+- [[art. 48 CPACA|Artículo 48]] — Período probatorio
+- [[art. 49 CPACA|Artículo 49]] — Contenido de la decisión
+- [[art. 49A CPACA|Artículo 49A]] — Recursos en el procedimiento administrativo sancionatorio fiscal
+- [[art. 50 CPACA|Artículo 50]] — Graduación de las sanciones
+- [[art. 51 CPACA|Artículo 51]] — De la renuencia a suministrar información
+- [[art. 52 CPACA|Artículo 52]] — Caducidad de la facultad sancionatoria
 
 ---
 ← [[CPACA - Parte Primera - Título III - Capítulo II|Capítulo II]] · ↑ [[CPACA - Parte Primera - Título III|Título III]] · [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]] →

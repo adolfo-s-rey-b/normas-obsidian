@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "287"
-epigrafe: "CONTENIDO DE LA DEMANDA"
+epigrafe: "Contenido de la demanda"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|TÍTULO SEGUNDO - PROCESO MONITORIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|Título Segundo]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo - Capítulo Único|Capítulo Único]]
 
-## Artículo 287. CONTENIDO DE LA DEMANDA
+## Artículo 287. Contenido de la demanda
 
 El proceso monitorio laboral y de la seguridad social se promoverá por medio de la respectiva demanda, que contendrá:
 

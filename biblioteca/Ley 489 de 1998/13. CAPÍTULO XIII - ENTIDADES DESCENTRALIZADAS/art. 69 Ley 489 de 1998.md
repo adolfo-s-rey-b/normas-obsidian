@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "69"
-epigrafe: "CREACION DE LAS ENTIDADES DESCENTRALIZADAS"
+epigrafe: "Creación de las entidades descentralizadas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 68 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 69. CREACION DE LAS ENTIDADES DESCENTRALIZADAS
+## Artículo 69. Creación de las entidades descentralizadas
 
 Las entidades descentralizadas, en el orden nacional, se crean por la ley, en el orden departamental, distrital y municipal, por la ordenanza o el acuerdo, o con su autorización, de conformidad con las disposiciones de la presente ley. El proyecto respectivo deberá acompañarse del estudio demostrativo que justifique la iniciativa, con la observancia de los principios señalados en el artículo [[art. 209 CPol|209]] de la Constitución Política.
 

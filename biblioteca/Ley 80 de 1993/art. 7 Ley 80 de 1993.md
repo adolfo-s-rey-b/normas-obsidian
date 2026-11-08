@@ -5,7 +5,7 @@ tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "7"
 epigrafe: "ENTIDADES A CONTRATAR"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 3 Ley 2160 de 2021]]"
   - "[[art. 354 Ley 2294 de 2023]]"
@@ -33,7 +33,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]]

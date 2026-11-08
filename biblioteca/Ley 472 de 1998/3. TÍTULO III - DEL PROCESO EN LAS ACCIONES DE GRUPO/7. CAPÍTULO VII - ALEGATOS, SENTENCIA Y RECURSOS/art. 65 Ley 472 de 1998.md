@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "65"
-epigrafe: "CONTENIDO DE LA SENTENCIA"
+epigrafe: "Contenido de la Sentencia"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo VII|CAPÍTULO VII - ALEGATOS, SENTENCIA Y RECURSOS]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 65. CONTENIDO DE LA SENTENCIA
+## Artículo 65. Contenido de la Sentencia
 
 La sentencia que ponga fin al proceso se sujetará a las disposiciones generales del Código de Procedimiento Civil y además, cuando acoja las pretensiones incoadas, dispondrá:
 

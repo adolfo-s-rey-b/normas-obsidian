@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "109"
-epigrafe: "PROCEDIMIENTO PARA EL RECURSO DE ANULACIÓN"
+epigrafe: "Procedimiento para el recurso de anulación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|CAPÍTULO VIII - IMPUGNACIÓN DEL LAUDO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 109. PROCEDIMIENTO PARA EL RECURSO DE ANULACIÓN
+## Artículo 109. Procedimiento para el recurso de anulación
 
 El recurso de anulación se tramitará mediante el siguiente procedimiento:
 

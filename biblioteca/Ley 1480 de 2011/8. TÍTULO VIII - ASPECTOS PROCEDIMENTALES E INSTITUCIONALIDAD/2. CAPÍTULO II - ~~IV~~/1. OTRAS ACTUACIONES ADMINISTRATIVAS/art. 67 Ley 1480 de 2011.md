@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "67"
-epigrafe: "CURADORES AD LÍTEM"
+epigrafe: "Curadores ad lítem"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo II|CAPÍTULO II - ~~IV~~]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|OTRAS ACTUACIONES ADMINISTRATIVAS]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|Otras actuaciones administrativas]]
 
-## Artículo 67. CURADORES AD LÍTEM
+## Artículo 67. Curadores ad lítem
 
 Facúltese a la autoridad competente para contratar egresados de las facultades de derecho en las condiciones y durante el término señalado en la ley, para que actúen como curadores ad lítem en los procesos de cobro coactivo, ejerciendo funciones jurisdiccionales. La actuación servirá para cumplir con el requisito de la judicatura, necesario para optar al título profesional de abogado.
 

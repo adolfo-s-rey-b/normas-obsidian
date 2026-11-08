@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "79"
-epigrafe: "TEMERIDAD O MALA FE"
+epigrafe: "Temeridad o mala fe"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 79. TEMERIDAD O MALA FE
+## Artículo 79. Temeridad o mala fe
 
 Se presume que ha existido temeridad o mala fe en los siguientes casos:
 

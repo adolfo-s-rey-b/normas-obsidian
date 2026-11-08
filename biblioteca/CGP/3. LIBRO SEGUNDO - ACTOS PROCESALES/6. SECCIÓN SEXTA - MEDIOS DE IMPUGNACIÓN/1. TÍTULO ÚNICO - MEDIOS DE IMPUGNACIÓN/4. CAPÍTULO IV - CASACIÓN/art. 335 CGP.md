@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "335"
-epigrafe: "CASACIÓN ADHESIVA"
+epigrafe: "Casación adhesiva"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 335. CASACIÓN ADHESIVA
+## Artículo 335. Casación adhesiva
 
 Cuando una parte con interés interponga el recurso de casación, se concederá también el que haya interpuesto oportunamente la otra parte, aunque el valor del interés de esta fuere insuficiente.
 

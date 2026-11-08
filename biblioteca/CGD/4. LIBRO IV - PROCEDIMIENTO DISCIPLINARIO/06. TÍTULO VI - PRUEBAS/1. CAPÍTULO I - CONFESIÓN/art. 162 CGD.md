@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "162"
-epigrafe: "OPORTUNIDAD Y BENEFICIOS DE LA CONFESIÓN Y DE LA ACEPTACIÓN DE CARGOS"
+epigrafe: "Oportunidad y beneficios de la confesión y de la aceptación de cargos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo I|CAPÍTULO I - CONFESIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 162. OPORTUNIDAD Y BENEFICIOS DE LA CONFESIÓN Y DE LA ACEPTACIÓN DE CARGOS
+## Artículo 162. Oportunidad y beneficios de la confesión y de la aceptación de cargos
 
 La confesión y la aceptación de cargos proceden, en la etapa de investigación, desde la apertura de esta hasta antes de la ejecutoria del auto de cierre. Al momento de la confesión o de la aceptación de cargos se dejará la respectiva constancia. Corresponderá a la autoridad disciplinaria evaluar la manifestación y, en el término improrrogable de diez (10) días, elaborará un acta que contenga los términos de la confesión o de la aceptación de cargos, los hechos, su encuadramiento típico, su calificación y la forma de culpabilidad. Dicho documento equivaldrá al pliego de cargos; el cual será remitido al funcionario de juzgamiento para que, dentro de los cuarenta y cinco (45) días siguientes a su recibo, profiera el respectivo fallo.
 

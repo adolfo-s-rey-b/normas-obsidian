@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "68"
-epigrafe: "FUNCIONES"
+epigrafe: "Funciones"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 67 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 68. FUNCIONES
+## Artículo 68. Funciones
 
 La Comisión Nacional Ciudadana para la Lucha contra la Corrupción ejercerá las siguientes funciones:
 

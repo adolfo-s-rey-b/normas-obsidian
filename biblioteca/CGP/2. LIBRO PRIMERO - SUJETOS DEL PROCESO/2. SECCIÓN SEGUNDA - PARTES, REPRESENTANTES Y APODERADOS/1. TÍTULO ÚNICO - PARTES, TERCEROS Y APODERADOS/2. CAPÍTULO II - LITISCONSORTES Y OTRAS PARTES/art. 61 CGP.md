@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "61"
-epigrafe: "LITISCONSORCIO NECESARIO E INTEGRACIÓN DEL CONTRADICTORIO"
+epigrafe: "Litisconsorcio necesario e integración del contradictorio"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 61. LITISCONSORCIO NECESARIO E INTEGRACIÓN DEL CONTRADICTORIO
+## Artículo 61. Litisconsorcio necesario e integración del contradictorio
 
 Cuando el proceso verse sobre relaciones o actos jurídicos respecto de los cuales, por su naturaleza o por disposición legal, haya de resolverse de manera uniforme y no sea posible decidir de mérito sin la comparecencia de las personas que sean sujetos de tales relaciones o que intervinieron en dichos actos, la demanda deberá formularse por todas o dirigirse contra todas; si no se hiciere así, el juez, en el auto que admite la demanda, ordenará notificar y dar traslado de esta a quienes falten para integrar el contradictorio, en la forma y con el término de comparecencia dispuestos para el demandado.
 

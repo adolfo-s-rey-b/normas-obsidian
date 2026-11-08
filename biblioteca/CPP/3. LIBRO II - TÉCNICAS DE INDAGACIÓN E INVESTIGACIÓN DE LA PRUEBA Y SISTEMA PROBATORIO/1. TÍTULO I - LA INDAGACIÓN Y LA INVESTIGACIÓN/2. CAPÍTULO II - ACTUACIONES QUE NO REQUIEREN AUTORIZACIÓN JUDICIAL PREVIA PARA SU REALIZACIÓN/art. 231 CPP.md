@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "231"
-epigrafe: "INTERÉS PARA RECLAMAR LA VIOLACIÓN DE LA EXPECTATIVA RAZONABLE DE INTIMIDAD EN RELACIÓN CON LOS REGISTROS Y ALLANAMIENTOS"
+epigrafe: "Interés para reclamar la violación de la expectativa razonable de intimidad en relación con los registros y allanamientos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 231. INTERÉS PARA RECLAMAR LA VIOLACIÓN DE LA EXPECTATIVA RAZONABLE DE INTIMIDAD EN RELACIÓN CON LOS REGISTROS Y ALLANAMIENTOS
+## Artículo 231. Interés para reclamar la violación de la expectativa razonable de intimidad en relación con los registros y allanamientos
 
 Unicamente podrá alegar la violación del debido proceso ante el juez de control de garantías o ante el juez de conocimiento, según sea el caso, con el fin de la exclusión de la evidencia ilegalmente obtenida durante el procedimiento de registro y allanamiento, quien haya sido considerado como indiciado o imputado o sea titular de un derecho de dominio, posesión o mera tenencia del bien objeto de la diligencia. Por excepción, se extenderá esta legitimación cuando se trate de un visitante que en su calidad de huésped pueda acreditar, como requisito de umbral, que tenía una expectativa razonable de intimidad al momento de la realización del registro.
 

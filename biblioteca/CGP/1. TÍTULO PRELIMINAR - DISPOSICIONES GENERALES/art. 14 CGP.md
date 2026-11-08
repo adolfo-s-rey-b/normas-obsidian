@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "14"
-epigrafe: "DEBIDO PROCESO"
+epigrafe: "Debido proceso"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 13 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 14. DEBIDO PROCESO
+## Artículo 14. Debido proceso
 
 El debido proceso se aplicará a todas las actuaciones previstas en este código. Es nula de pleno derecho la prueba obtenida con violación del debido proceso.
 

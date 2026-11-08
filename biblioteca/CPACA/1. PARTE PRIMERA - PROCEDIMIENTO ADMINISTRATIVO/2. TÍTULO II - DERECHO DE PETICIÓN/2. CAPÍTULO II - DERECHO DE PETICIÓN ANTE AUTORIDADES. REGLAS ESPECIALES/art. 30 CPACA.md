@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "30"
-epigrafe: "PETICIONES ENTRE AUTORIDADES"
+epigrafe: "Peticiones entre autoridades"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 30. PETICIONES ENTRE AUTORIDADES
+## Artículo 30. Peticiones entre autoridades
 
 Cuando una autoridad formule una petición de información o de documentos a otra, esta deberá resolverla en un término no mayor de diez (10) días. En los demás casos, resolverá las solicitudes dentro de los plazos previstos en el artículo [[art. 14 CPACA|14]].
 

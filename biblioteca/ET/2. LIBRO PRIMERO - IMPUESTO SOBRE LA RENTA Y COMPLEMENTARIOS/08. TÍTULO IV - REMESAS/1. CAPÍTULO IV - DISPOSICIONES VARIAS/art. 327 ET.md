@@ -10,11 +10,11 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "327"
-epigrafe: "FACULTAD DE ESTABLECER CONDICIONES PARA EL CAMBIO DE TITULAR DE INVERSION EXTRANJERA"
+epigrafe: "FACULTAD DE ESTABLECER CONDICIONES PARA EL CAMBIO DE TITULAR DE INVERSIÓN EXTRANJERA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título IV (2)|TÍTULO IV - REMESAS]]"
 capitulo: "[[ET - Libro Primero - Título IV - Capítulo IV|CAPÍTULO IV - DISPOSICIONES VARIAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 78 Ley 1111 de 2006]]"
   - "[[art. 318 ET]]"
@@ -39,12 +39,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título IV (2)|Título IV]] › [[ET - Libro Primero - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 327. FACULTAD DE ESTABLECER CONDICIONES PARA EL CAMBIO DE TITULAR DE INVERSION EXTRANJERA
+## Artículo 327. FACULTAD DE ESTABLECER CONDICIONES PARA EL CAMBIO DE TITULAR DE INVERSIÓN EXTRANJERA
 
 El Gobierno Nacional determinará las condiciones en que los titulares de inversiones extranjeras deben cumplir los requisitos previstos en el artículo anterior.
 

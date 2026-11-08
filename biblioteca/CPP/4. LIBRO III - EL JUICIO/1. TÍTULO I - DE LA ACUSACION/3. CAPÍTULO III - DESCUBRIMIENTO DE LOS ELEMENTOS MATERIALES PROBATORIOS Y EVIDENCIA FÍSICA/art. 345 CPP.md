@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "345"
-epigrafe: "RESTRICCIONES AL DESCUBRIMIENTO DE PRUEBA"
+epigrafe: "Restricciones al descubrimiento de prueba"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
 capitulo: "[[CPP - Libro III - Título I - Capítulo III|CAPÍTULO III - DESCUBRIMIENTO DE LOS ELEMENTOS MATERIALES PROBATORIOS Y EVIDENCIA FÍSICA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]] › [[CPP - Libro III - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 345. RESTRICCIONES AL DESCUBRIMIENTO DE PRUEBA
+## Artículo 345. Restricciones al descubrimiento de prueba
 
 Las partes no podrán ser obligadas a descubrir:
 

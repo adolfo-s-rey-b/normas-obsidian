@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "45"
-epigrafe: "DE LA FISCALÍA GENERAL DE LA NACIÓN"
+epigrafe: "De la Fiscalía General de la Nación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo III|CAPÍTULO III - COMPETENCIA TERRITORIAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 45. DE LA FISCALÍA GENERAL DE LA NACIÓN
+## Artículo 45. De la Fiscalía General de la Nación
 
 El Fiscal General de la Nación y sus delegados tienen competencia en todo el territorio nacional.
 

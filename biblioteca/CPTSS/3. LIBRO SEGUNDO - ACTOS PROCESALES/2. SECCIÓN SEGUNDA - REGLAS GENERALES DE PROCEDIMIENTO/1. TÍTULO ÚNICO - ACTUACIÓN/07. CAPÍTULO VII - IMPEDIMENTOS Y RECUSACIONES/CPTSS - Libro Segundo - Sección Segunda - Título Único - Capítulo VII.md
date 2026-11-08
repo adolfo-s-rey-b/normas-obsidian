@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 98 CPTSS|Artículo 98]] — DECLARACIÓN DE IMPEDIMENTOS
-- [[art. 99 CPTSS|Artículo 99]] — CAUSALES DE RECUSACIÓN
-- [[art. 100 CPTSS|Artículo 100]] — OPORTUNIDAD Y PROCEDENCIA DE LA RECUSACIÓN
-- [[art. 101 CPTSS|Artículo 101]] — FORMULACIÓN Y TRÁMITE DE LA RECUSACIÓN
-- [[art. 102 CPTSS|Artículo 102]] — JUEZ O MAGISTRADO QUE DEBE REEMPLAZAR AL IMPEDIDO O RECUSADO
-- [[art. 103 CPTSS|Artículo 103]] — SUSPENSIÓN DEL PROCESO POR IMPEDIMENTO O RECUSACIÓN
-- [[art. 104 CPTSS|Artículo 104]] — IMPEDIMENTOS Y RECUSACIONES DE LOS SECRETARIOS
-- [[art. 105 CPTSS|Artículo 105]] — SANCIONES AL RECUSANTE
+- [[art. 98 CPTSS|Artículo 98]] — Declaración de impedimentos
+- [[art. 99 CPTSS|Artículo 99]] — Causales de recusación
+- [[art. 100 CPTSS|Artículo 100]] — Oportunidad y procedencia de la recusación
+- [[art. 101 CPTSS|Artículo 101]] — Formulación y trámite de la recusación
+- [[art. 102 CPTSS|Artículo 102]] — Juez o magistrado que debe reemplazar al impedido o recusado
+- [[art. 103 CPTSS|Artículo 103]] — Suspensión del proceso por impedimento o recusación
+- [[art. 104 CPTSS|Artículo 104]] — Impedimentos y recusaciones de los secretarios
+- [[art. 105 CPTSS|Artículo 105]] — Sanciones al recusante
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VI|Capítulo VI]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VIII|Capítulo VIII]] →

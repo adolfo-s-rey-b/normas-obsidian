@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "38"
-epigrafe: "ADOPCIÓN DEL LAUDO ARBITRAL"
+epigrafe: "Adopción del laudo arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 38. ADOPCIÓN DEL LAUDO ARBITRAL
+## Artículo 38. Adopción del laudo arbitral
 
 El laudo se acordará por mayoría de votos y será firmado por todos los árbitros, incluso por quien hubiere salvado el voto.
 

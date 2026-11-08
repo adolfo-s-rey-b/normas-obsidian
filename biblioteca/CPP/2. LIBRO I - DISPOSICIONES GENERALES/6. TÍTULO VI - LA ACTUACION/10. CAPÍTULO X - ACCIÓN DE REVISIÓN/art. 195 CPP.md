@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "195"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo X|CAPÍTULO X - ACCIÓN DE REVISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo X|Capítulo X]]
 
-## Artículo 195. TRÁMITE
+## Artículo 195. Trámite
 
 Repartida la demanda, el magistrado ponente examinará si reúne los requisitos exigidos en el artículo anterior; en caso afirmativo la admitirá dentro de los cinco (5) días siguientes y se dispondrá solicitar el proceso objeto de la revisión. Este auto será notificado personalmente a los no demandantes; de no ser posible, se les notificará de la manera prevista en este código.
 

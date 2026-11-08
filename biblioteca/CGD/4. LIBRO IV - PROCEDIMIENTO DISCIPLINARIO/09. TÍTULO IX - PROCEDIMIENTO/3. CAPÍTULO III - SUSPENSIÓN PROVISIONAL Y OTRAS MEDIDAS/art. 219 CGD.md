@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "219"
-epigrafe: "MEDIDAS PREVENTIVAS"
+epigrafe: "Medidas preventivas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo III|CAPÍTULO III - SUSPENSIÓN PROVISIONAL Y OTRAS MEDIDAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo III|Capítulo III]]
 
-## Artículo 219. MEDIDAS PREVENTIVAS
+## Artículo 219. Medidas preventivas
 
 Cuando la Procuraduría General de la Nación o las Personerías adelanten diligencias disciplinarias podrán solicitar la suspensión del procedimiento administrativo, actos, contratos o su ejecución para que cesen los efectos y se eviten los perjuicios cuando se evidencien circunstancias que permitan inferir que se vulnera el ordenamiento jurídico o se defraudará al patrimonio público. Esta medida solo podrá ser adoptada por el Procurador General, por quien este delegue de manera especial, y el Personero.
 

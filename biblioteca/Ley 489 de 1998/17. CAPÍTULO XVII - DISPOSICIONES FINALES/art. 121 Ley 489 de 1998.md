@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "121"
-epigrafe: "VIGENCIA Y DEROGATORIAS"
+epigrafe: "Vigencia y derogatorias"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVII|CAPÍTULO XVII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 120 Ley 489 de 1998]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVII|Capítulo XVII]]
 
-## Artículo 121. VIGENCIA Y DEROGATORIAS
+## Artículo 121. Vigencia y derogatorias
 
 La presente ley rige a partir de su promulgación y deroga las disposiciones que le sean contrarias, en especial los Decretos-leyes 1050 de 1968, 3130 de 1968 y 130 de 1976.
 

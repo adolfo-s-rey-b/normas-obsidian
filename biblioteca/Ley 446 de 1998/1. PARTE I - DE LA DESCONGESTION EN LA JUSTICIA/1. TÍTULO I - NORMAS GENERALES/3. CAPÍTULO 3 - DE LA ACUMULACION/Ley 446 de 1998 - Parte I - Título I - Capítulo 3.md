@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 7 Ley 446 de 1998|Artículo 7]] — ACUMULACION DE PRETENSIONES Y DE PROCESOS EN MATERIA CONTENCIOSO ADMINISTRATIVA
-- [[art. 8 Ley 446 de 1998|Artículo 8]] — ACUMULACION DE PRETENSIONES Y DE PROCESOS EN MATERIA LABORAL
+- [[art. 7 Ley 446 de 1998|Artículo 7]] — Acumulación de pretensiones y de procesos en materia contencioso administrativa
+- [[art. 8 Ley 446 de 1998|Artículo 8]] — Acumulación de pretensiones y de procesos en materia laboral
 - [[art. 9 Ley 446 de 1998|Artículo 9]] — Acumulación de pretensiones y de procesos en materia de familia
 
 ---

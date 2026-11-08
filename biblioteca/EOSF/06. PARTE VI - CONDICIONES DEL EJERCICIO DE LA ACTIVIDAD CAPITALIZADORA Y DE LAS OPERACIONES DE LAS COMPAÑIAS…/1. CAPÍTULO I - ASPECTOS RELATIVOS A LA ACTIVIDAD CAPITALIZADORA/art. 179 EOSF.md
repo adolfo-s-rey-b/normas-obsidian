@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "179"
-epigrafe: "CONDICIONES RELATIVAS A LOS CONTRATOS"
+epigrafe: "Condiciones Relativas a los Contratos"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo I|CAPÍTULO I - ASPECTOS RELATIVOS A LA ACTIVIDAD CAPITALIZADORA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo I|Capítulo I]]
 
-## Artículo 179. CONDICIONES RELATIVAS A LOS CONTRATOS
+## Artículo 179. Condiciones Relativas a los Contratos
 
 1\. Requisitos básicos. Los contratos que celebren las sociedades de capitalización deberán ser de condiciones equitativas y redactados en forma clara y en idioma castellano.
 

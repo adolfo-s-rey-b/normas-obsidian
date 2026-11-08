@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 86 CPTSS|Artículo 86]] — TRÁMITE PARA LA RECONSTRUCCIÓN
-- [[art. 87 CPTSS|Artículo 87]] — FORMACIÓN Y ARCHIVO DE LOS EXPEDIENTES
-- [[art. 88 CPTSS|Artículo 88]] — EXAMEN DE LOS EXPEDIENTES
+- [[art. 86 CPTSS|Artículo 86]] — Trámite para la reconstrucción
+- [[art. 87 CPTSS|Artículo 87]] — Formación y archivo de los expedientes
+- [[art. 88 CPTSS|Artículo 88]] — Examen de los expedientes
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] →

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "67"
-epigrafe: "ALCANCE DE LA INTERVENCIÓN DE LA AUTORIDAD JUDICIAL"
+epigrafe: "Alcance de la intervención de la autoridad judicial"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]]
 
-## Artículo 67. ALCANCE DE LA INTERVENCIÓN DE LA AUTORIDAD JUDICIAL
+## Artículo 67. Alcance de la intervención de la autoridad judicial
 
 En los asuntos que se rijan por la presente sección, no podrá intervenir ninguna autoridad judicial, salvo en los casos y para los propósitos en que esta sección expresamente así lo disponga.
 

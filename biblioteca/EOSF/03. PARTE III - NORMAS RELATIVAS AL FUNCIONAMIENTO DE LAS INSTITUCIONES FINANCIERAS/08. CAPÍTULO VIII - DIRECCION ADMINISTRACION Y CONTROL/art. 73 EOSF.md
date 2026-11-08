@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "73"
-epigrafe: "JUNTA DIRECTIVA"
+epigrafe: "Junta Directiva"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "modificado"
@@ -41,7 +41,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 73. JUNTA DIRECTIVA
+## Artículo 73. Junta Directiva
 
 1\. Número de directores. Los establecimientos bancarios, las corporaciones financieras, las corporaciones de ahorro y vivienda, las compañías de financiamiento comercial, los almacenes generales de depósito, las sociedades fiduciarias y las sociedades de capitalización, tendrán un número de directores que no será menor de cinco (5) ni mayor de diez (10). Las juntas directivas del tipo de entidades de las que trata este numeral de economía mixta con participación mayoritaria del Estado estarán conformadas cuando menos en un treinta por ciento (30%) por mujeres. Las juntas o consejos directivos de las sociedades administradoras de fondos de pensiones y de cesantía estarán conformados por un número impar no menor de cinco miembros, de los cuales, cuando menos, uno corresponderá a los trabajadores y otro a los empleadores, con sus respectivos suplentes. El período de los representantes así designados será el mismo que el de los demás miembros de la junta directiva.
 

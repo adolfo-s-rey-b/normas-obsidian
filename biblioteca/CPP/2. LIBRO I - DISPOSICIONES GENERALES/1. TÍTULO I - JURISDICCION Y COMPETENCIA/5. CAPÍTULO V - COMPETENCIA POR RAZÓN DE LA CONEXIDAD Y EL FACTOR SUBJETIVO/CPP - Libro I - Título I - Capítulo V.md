@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 50 CPP|Artículo 50]] — UNIDAD PROCESAL
-- [[art. 51 CPP|Artículo 51]] — CONEXIDAD
-- [[art. 52 CPP|Artículo 52]] — COMPETENCIA POR CONEXIDAD
-- [[art. 53 CPP|Artículo 53]] — RUPTURA DE LA UNIDAD PROCESAL
+- [[art. 50 CPP|Artículo 50]] — Unidad procesal
+- [[art. 51 CPP|Artículo 51]] — Conexidad
+- [[art. 52 CPP|Artículo 52]] — Competencia por conexidad
+- [[art. 53 CPP|Artículo 53]] — Ruptura de la unidad procesal
 
 ---
 ← [[CPP - Libro I - Título I - Capítulo IV|Capítulo IV]] · ↑ [[CPP - Libro I - Título I|Título I]] · [[CPP - Libro I - Título I - Capítulo VI|Capítulo VI]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "133"
-epigrafe: "IMPEDIMENTOS Y RECUSACIONES DE LOS AGENTES DEL MINISTERIO PÚBLICO ANTE ESTA JURISDICCIÓN"
+epigrafe: "Impedimentos y recusaciones de los agentes del Ministerio Público ante esta jurisdicción"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES DE LOS AGENTES DEL MINISTERIO PÚBLICO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo VII|Capítulo VII]]
 
-## Artículo 133. IMPEDIMENTOS Y RECUSACIONES DE LOS AGENTES DEL MINISTERIO PÚBLICO ANTE ESTA JURISDICCIÓN
+## Artículo 133. Impedimentos y recusaciones de los agentes del Ministerio Público ante esta jurisdicción
 
 Las causales de recusación y de impedimento previstas en este Código para los Magistrados del Consejo de Estado, Magistrados de los Tribunales y jueces administrativos, también son aplicables a los agentes del Ministerio Público cuando actúen ante la Jurisdicción de lo Contencioso Administrativo.
 

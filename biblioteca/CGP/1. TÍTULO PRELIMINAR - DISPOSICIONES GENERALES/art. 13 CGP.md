@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "13"
-epigrafe: "OBSERVANCIA DE NORMAS PROCESALES"
+epigrafe: "Observancia de normas procesales"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 12 CGP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 13. OBSERVANCIA DE NORMAS PROCESALES
+## Artículo 13. Observancia de normas procesales
 
 Las normas procesales son de orden público y, por consiguiente, de obligatorio cumplimiento, y en ningún caso podrán ser derogadas, modificadas o sustituidas por los funcionarios o particulares, salvo autorización expresa de la ley.
 

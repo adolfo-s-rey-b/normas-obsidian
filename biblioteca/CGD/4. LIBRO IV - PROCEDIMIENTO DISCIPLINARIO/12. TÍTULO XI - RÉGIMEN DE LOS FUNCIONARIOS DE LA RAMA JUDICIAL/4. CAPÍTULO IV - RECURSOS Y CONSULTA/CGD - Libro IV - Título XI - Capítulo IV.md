@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 247 CGD|Artículo 247]] — CLASES DE RECURSOS
+- [[art. 247 CGD|Artículo 247]] — Clases de recursos
 - [[art. 248 CGD|Artículo 248]] — Consulta
 
 ---

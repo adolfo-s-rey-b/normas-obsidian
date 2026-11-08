@@ -43,7 +43,7 @@ DE PENSIONES DE JUBILACIÓN E INVALIDEZ.
 
 > [!warning] Notas de Vigencia: Artículo derogado a partir del 1 de enero de 2023 por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022, 'por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.247 de 13 de diciembre de 2022. - Frase tachada suprimida por el parágrafo 1o. del artículo [[art. 9 Ley 49 de 1990|9]] de la Ley 49 de 1990, publicada en el Diario Oficial 36.615 del 30 de diciembre de 1990.
 
-> [!note] Notas del Editor: En relación con las contribuciones a los fondos mutuos de inversión, debe tenerse en cuenta el artículo [[art. 1 Ley 863 de 2003|1]] de la Ley 863 de 2003 en cuanto establece que a partir del año 2004 los ingresos establecidos en el artículo [[art. 55 ET|55]] de este Estatuto quedan gravados en el ciento por ciento (100%) con el impuesto sobre la renta.
+> [!note] Notas del Editor: En relación con las contribuciones a los fondos mutuos de inversión, debe tenerse en cuenta el artículo [[art. 1 Ley 863 de 2003|1]] de la Ley 863 de 2003 en cuanto establece que a partir del año 2004 los ingresos establecidos en el artículo 55 de este Estatuto quedan gravados en el ciento por ciento (100%) con el impuesto sobre la renta.
 
 ---
 ← [[art. 125-5 ET]] · ↑ [[ET - Libro Primero - Título I - Capítulo V - Donaciones y contribuciones|Donaciones y contribuciones]] · [[art. 126-1 ET]] →

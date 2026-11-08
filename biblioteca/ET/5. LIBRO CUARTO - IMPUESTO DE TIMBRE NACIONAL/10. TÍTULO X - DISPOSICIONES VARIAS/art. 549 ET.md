@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "549"
-epigrafe: "QUE SON VALORES ABSOLUTOS"
+epigrafe: "QUÉ SON VALORES ABSOLUTOS"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título X|TÍTULO X - DISPOSICIONES VARIAS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título X|Título X]]
 
-## Artículo 549. QUE SON VALORES ABSOLUTOS
+## Artículo 549. QUÉ SON VALORES ABSOLUTOS
 
 (Fuente original compilada: L. 02/76 Art. [[art. 31 ET|31]] Incisos 3o. y 4o.) Son valores absolutos en pesos los siguientes :
 

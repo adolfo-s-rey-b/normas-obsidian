@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "93"
-epigrafe: "DEL RÉGIMEN CONTRACTUAL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO, LAS SOCIEDADES DE ECONOMÍA MIXTA, SUS FILIALES Y EMPRESAS CON PARTICIPACIÓN MAYORITARIA DEL ESTADO"
+epigrafe: "Del régimen contractual de las Empresas Industriales y Comerciales del Estado, las Sociedades de Economía Mixta, sus filiales y empresas con participación mayoritaria del Estado"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 92 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 93. DEL RÉGIMEN CONTRACTUAL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO, LAS SOCIEDADES DE ECONOMÍA MIXTA, SUS FILIALES Y EMPRESAS CON PARTICIPACIÓN MAYORITARIA DEL ESTADO
+## Artículo 93. Del régimen contractual de las Empresas Industriales y Comerciales del Estado, las Sociedades de Economía Mixta, sus filiales y empresas con participación mayoritaria del Estado
 
 Modifíquese el artículo [[art. 14 Ley 1150 de 2007|14]] de la Ley 1150 de 2007, el cual quedará así:
 

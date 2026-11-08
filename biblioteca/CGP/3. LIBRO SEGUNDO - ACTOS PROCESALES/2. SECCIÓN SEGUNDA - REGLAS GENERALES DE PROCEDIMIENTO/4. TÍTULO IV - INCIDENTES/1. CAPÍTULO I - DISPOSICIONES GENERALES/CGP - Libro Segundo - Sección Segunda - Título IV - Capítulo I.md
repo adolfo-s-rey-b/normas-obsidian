@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 127 CGP|Artículo 127]] — INCIDENTES Y OTRAS CUESTIONES ACCESORIAS
-- [[art. 128 CGP|Artículo 128]] — PRECLUSIÓN DE LOS INCIDENTES
-- [[art. 129 CGP|Artículo 129]] — PROPOSICIÓN, TRÁMITE Y EFECTO DE LOS INCIDENTES
-- [[art. 130 CGP|Artículo 130]] — RECHAZO DE INCIDENTES
-- [[art. 131 CGP|Artículo 131]] — CUESTIONES ACCESORIAS QUE SE SUSCITEN EN EL CURSO DE UN INCIDENTE
+- [[art. 127 CGP|Artículo 127]] — Incidentes y otras cuestiones accesorias
+- [[art. 128 CGP|Artículo 128]] — Preclusión de los incidentes
+- [[art. 129 CGP|Artículo 129]] — Proposición, trámite y efecto de los incidentes
+- [[art. 130 CGP|Artículo 130]] — Rechazo de incidentes
+- [[art. 131 CGP|Artículo 131]] — Cuestiones accesorias que se susciten en el curso de un incidente
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] · [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]] →

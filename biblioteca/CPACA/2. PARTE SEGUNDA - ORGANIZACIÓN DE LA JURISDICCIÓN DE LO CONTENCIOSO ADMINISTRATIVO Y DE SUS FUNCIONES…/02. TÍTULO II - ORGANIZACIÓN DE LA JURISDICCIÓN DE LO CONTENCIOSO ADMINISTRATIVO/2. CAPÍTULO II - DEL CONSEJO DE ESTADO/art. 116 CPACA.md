@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "116"
-epigrafe: "POSESIÓN Y DURACIÓN DEL CARGO DE CONJUEZ"
+epigrafe: "Posesión y duración del cargo de Conjuez"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 116. POSESIÓN Y DURACIÓN DEL CARGO DE CONJUEZ
+## Artículo 116. Posesión y duración del cargo de Conjuez
 
 Designado el conjuez, deberá tomar posesión del cargo ante el Presidente de la sala o sección respectiva, por una sola vez, y cuando fuere sorteado bastará la simple comunicación para que asuma sus funciones.
 

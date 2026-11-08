@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "91"
-epigrafe: "FACTORES QUE DETERMINAN LA COMPETENCIA"
+epigrafe: "Factores que determinan la competencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 91. FACTORES QUE DETERMINAN LA COMPETENCIA
+## Artículo 91. Factores que determinan la competencia
 
 La competencia se determinará teniendo en cuenta la calidad del sujeto disciplinable, la naturaleza del hecho, el territorio donde se cometió la falta, el factor funcional y el de conexidad.
 

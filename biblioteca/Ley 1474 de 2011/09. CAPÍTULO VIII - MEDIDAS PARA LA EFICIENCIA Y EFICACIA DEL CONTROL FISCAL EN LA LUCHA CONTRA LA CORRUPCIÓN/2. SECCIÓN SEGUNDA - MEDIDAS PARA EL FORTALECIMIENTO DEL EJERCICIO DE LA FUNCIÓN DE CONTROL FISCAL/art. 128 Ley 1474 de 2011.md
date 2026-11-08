@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "128"
-epigrafe: "FORTALECIMIENTO INSTITUCIONAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA"
+epigrafe: "Fortalecimiento institucional de la Contraloría General de la República"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|SECCIÓN SEGUNDA - MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL]]"
 vigencia: "parcialmente inexequible"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|Sección Segunda]]
 
-## Artículo 128. FORTALECIMIENTO INSTITUCIONAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
+## Artículo 128. Fortalecimiento institucional de la Contraloría General de la República
 
 Con el fin de fortalecer las acciones en contra de la corrupción, créanse dentro de la estructura de la Contraloría General de la República la Unidad de Investigaciones Especiales contra la Corrupción, la Unidad de Cooperación Nacional e Internacional de Prevención, Investigación e Incautación de Bienes, la Unidad de Apoyo Técnico al Congreso y la Unidad de Seguridad y Aseguramiento Tecnológico e Informático, las cuales estarán adscritas al Despacho del Contralor General y serán dirigidas por un Jefe de Unidad del mismo nivel de los jefes de las oficinas asesoras.
 

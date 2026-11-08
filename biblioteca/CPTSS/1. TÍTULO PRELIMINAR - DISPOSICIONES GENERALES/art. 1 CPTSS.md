@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "1"
-epigrafe: "APLICACIÓN DE ESTE CÓDIGO"
+epigrafe: "Aplicación de este código"
 titulo: "[[CPTSS - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 siguiente: "[[art. 2 CPTSS]]"
@@ -26,7 +26,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Título Preliminar|Título Preliminar]]
 
-## Artículo 1. APLICACIÓN DE ESTE CÓDIGO
+## Artículo 1. Aplicación de este código
 
 Los asuntos de que conoce la Jurisdicción Ordinaria en su especialidad laboral y de seguridad social se tramitarán de conformidad con lo dispuesto en el presente código y sus principios.
 

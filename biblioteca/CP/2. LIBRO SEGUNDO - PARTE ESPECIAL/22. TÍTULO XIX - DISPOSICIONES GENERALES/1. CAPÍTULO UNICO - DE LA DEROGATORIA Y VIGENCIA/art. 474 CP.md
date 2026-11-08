@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "474"
-epigrafe: "DEROGATORIA"
+epigrafe: "Derogatoria"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XIX|TÍTULO XIX - DISPOSICIONES GENERALES]]"
 capitulo: "[[CP - Libro Segundo - Título XIX - Capítulo Unico|CAPÍTULO UNICO - DE LA DEROGATORIA Y VIGENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XIX|Título XIX]] › [[CP - Libro Segundo - Título XIX - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 474. DEROGATORIA
+## Artículo 474. Derogatoria
 
 Deróganse el Decreto 100 de 1980 y demás normas que lo modifican y complementan, en lo que tiene que ver con la consagración de prohibiciones y mandatos penales.
 

@@ -11,7 +11,7 @@ articulo: "416"
 epigrafe: "LIMITACION DE LAS FUNCIONES"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo IX (2)|CAPÍTULO IX - TRABAJADORES OFICIALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 13 Ley 584 de 2000]]"
 derogado_por:
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo IX (2)|Capítulo IX]]

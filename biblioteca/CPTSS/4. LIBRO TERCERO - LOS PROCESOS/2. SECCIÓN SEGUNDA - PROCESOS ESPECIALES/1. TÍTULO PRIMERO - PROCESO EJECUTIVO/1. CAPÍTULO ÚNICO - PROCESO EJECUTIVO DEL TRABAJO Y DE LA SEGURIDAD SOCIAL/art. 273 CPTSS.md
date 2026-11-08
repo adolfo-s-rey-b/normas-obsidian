@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "273"
-epigrafe: "ORDEN DE EJECUCIÓN"
+epigrafe: "Orden de ejecución"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 273. ORDEN DE EJECUCIÓN
+## Artículo 273. Orden de ejecución
 
 Mediante providencia que no admite el recurso de apelación, el juez ordenará el pago de cantidades líquidas de dinero con sus intereses comerciales en el término de cinco (5) días, contados a partir de la ejecutoria de la decisión, plazo en el cual el demandado deberá cumplir la obligación o podrá formular las excepciones que considere pertinentes.
 

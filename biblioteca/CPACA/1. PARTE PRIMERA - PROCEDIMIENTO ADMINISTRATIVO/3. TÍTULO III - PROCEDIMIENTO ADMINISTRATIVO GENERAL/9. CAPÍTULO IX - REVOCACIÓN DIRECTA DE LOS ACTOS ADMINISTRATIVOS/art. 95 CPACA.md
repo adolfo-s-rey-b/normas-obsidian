@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "95"
-epigrafe: "OPORTUNIDAD"
+epigrafe: "Oportunidad"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IX|CAPÍTULO IX - REVOCACIÓN DIRECTA DE LOS ACTOS ADMINISTRATIVOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IX|Capítulo IX]]
 
-## Artículo 95. OPORTUNIDAD
+## Artículo 95. Oportunidad
 
 La revocación directa de los actos administrativos podrá cumplirse aun cuando se haya acudido ante la Jurisdicción de lo Contencioso Administrativo, siempre que no se haya notificado auto admisorio de la demanda.
 

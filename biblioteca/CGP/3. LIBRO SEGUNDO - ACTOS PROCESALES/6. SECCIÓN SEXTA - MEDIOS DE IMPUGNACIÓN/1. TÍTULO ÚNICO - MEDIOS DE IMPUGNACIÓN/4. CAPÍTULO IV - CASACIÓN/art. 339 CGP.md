@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "339"
-epigrafe: "JUSTIPRECIO DEL INTERÉS PARA RECURRIR Y CONCESIÓN DEL RECURSO"
+epigrafe: "Justiprecio del interés para recurrir y concesión del recurso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 339. JUSTIPRECIO DEL INTERÉS PARA RECURRIR Y CONCESIÓN DEL RECURSO
+## Artículo 339. Justiprecio del interés para recurrir y concesión del recurso
 
 Cuando para la procedencia del recurso sea necesario fijar el interés económico afectado con la sentencia, su cuantía deberá establecerse con los elementos de juicio que obren en el expediente. Con todo, el recurrente podrá aportar un dictamen pericial si lo considera necesario, y el magistrado decidirá de plano sobre la concesión.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "598"
-epigrafe: "MEDIDAS CAUTELARES EN PROCESOS DE FAMILIA"
+epigrafe: "Medidas cautelares en procesos de familia"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 598. MEDIDAS CAUTELARES EN PROCESOS DE FAMILIA
+## Artículo 598. Medidas cautelares en procesos de familia
 
 En los procesos de nulidad de matrimonio, divorcio, cesación de efectos civiles de matrimonio religioso, separación de cuerpos y de bienes, liquidación de sociedades conyugales, disolución y liquidación de sociedades patrimoniales entre compañeros permanentes, se aplicarán las siguientes reglas:
 

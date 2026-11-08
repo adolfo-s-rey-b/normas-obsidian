@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "193"
-epigrafe: "CONDENAS EN ABSTRACTO"
+epigrafe: "Condenas en abstracto"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - SENTENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 87 Ley 2080 de 2021]]"
 derogado_por:
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VI|Capítulo VI]]
 
-## Artículo 193. CONDENAS EN ABSTRACTO
+## Artículo 193. Condenas en abstracto
 
 Las condenas al pago de frutos, intereses, mejoras, perjuicios y otros semejantes, impuestas en auto o sentencia, cuando su cuantía no hubiere sido establecida en el proceso, se harán en forma genérica, señalando las bases con arreglo a las cuales se hará la liquidación incidental, en los términos previstos en este Código y en el Código de Procedimiento Civil.
 

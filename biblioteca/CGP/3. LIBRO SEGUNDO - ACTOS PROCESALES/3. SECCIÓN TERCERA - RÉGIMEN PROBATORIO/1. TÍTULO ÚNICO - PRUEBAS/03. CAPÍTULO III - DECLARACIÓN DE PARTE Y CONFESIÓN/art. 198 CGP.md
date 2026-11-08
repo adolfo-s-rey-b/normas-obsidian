@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "198"
-epigrafe: "INTERROGATORIO DE LAS PARTES"
+epigrafe: "Interrogatorio de las partes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 198. INTERROGATORIO DE LAS PARTES
+## Artículo 198. Interrogatorio de las partes
 
 El juez podrá, de oficio o a solicitud de parte, ordenar la citación de las partes a fin de interrogarlas sobre los hechos relacionados con el proceso.
 

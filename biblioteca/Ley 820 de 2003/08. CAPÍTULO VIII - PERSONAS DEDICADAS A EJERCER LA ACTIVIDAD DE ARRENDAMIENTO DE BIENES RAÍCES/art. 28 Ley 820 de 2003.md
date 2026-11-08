@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "28"
-epigrafe: "MATRÍCULA DE ARRENDADORES"
+epigrafe: "Matrícula de arrendadores"
 capitulo: "[[Ley 820 de 2003 - Capítulo VIII|CAPÍTULO VIII - PERSONAS DEDICADAS A EJERCER LA ACTIVIDAD DE ARRENDAMIENTO DE BIENES RAÍCES]]"
 vigencia: "vigente"
 anterior: "[[art. 27 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 28. MATRÍCULA DE ARRENDADORES
+## Artículo 28. Matrícula de arrendadores
 
 Toda persona natural o jurídica, entre cuyas actividades principales esté la de arrendar bienes raíces, destinados a vivienda urbana, de su propiedad o de la de terceros, o labores de intermediación comercial entre arrendadores y arrendatarios, en los municipios de más de quince mil (15.000) habitantes, deberá matricularse ante la autoridad administrativa competente.
 

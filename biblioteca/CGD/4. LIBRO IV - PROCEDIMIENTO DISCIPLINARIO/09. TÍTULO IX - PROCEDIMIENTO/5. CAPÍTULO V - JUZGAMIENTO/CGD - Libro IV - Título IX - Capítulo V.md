@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 225 CGD|Artículo 225]] — NOTIFICACIÓN DEL PLIEGO DE CARGOS Y OPORTUNIDAD DE VARIACIÓN
-- [[art. 225A CGD|Artículo 225A]] — FIJACIÓN DEL JUZGAMIENTO A SEGUIR
+- [[art. 225 CGD|Artículo 225]] — Notificación del pliego de cargos y oportunidad de variación
+- [[art. 225A CGD|Artículo 225A]] — Fijación del juzgamiento a seguir
 - [[CGD - Libro IV - Título IX - Capítulo V - -juicio ordinario-|<JUICIO ORDINARIO>]] (arts. 225B a 225G)
 - [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|<JUICIO VERBAL>]] (arts. 225H a 233)
 

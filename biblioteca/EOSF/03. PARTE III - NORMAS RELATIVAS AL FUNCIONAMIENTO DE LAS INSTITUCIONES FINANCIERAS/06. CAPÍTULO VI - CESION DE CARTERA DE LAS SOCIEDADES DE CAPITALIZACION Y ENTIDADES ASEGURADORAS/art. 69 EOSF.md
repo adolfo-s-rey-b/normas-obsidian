@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "69"
-epigrafe: "ASPECTOS GENERALES DE LA CESION DE CARTERA DE LAS SOCIEDADES DE CAPITALIZACION"
+epigrafe: "Aspectos Generales de la Cesión de Cartera de las Sociedades de Capitalización"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VI|CAPÍTULO VI - CESION DE CARTERA DE LAS SOCIEDADES DE CAPITALIZACION Y ENTIDADES ASEGURADORAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VI|Capítulo VI]]
 
-## Artículo 69. ASPECTOS GENERALES DE LA CESION DE CARTERA DE LAS SOCIEDADES DE CAPITALIZACION
+## Artículo 69. Aspectos Generales de la Cesión de Cartera de las Sociedades de Capitalización
 
 1\. Procedencia. Las sociedades de capitalización podrán transferir sus negocios mediante la cesión de su cartera, junto con la reserva matemática correspondiente, a otra sociedad autorizada conforme a este Estatuto.
 

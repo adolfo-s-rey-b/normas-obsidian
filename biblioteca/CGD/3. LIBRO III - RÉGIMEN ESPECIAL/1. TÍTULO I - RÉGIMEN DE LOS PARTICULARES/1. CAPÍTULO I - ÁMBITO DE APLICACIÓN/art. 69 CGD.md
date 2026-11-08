@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "69"
-epigrafe: "NORMAS APLICABLES"
+epigrafe: "Normas aplicables"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título I|TÍTULO I - RÉGIMEN DE LOS PARTICULARES]]"
 capitulo: "[[CGD - Libro III - Título I - Capítulo I|CAPÍTULO I - ÁMBITO DE APLICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título I|Título I]] › [[CGD - Libro III - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 69. NORMAS APLICABLES
+## Artículo 69. Normas aplicables
 
 El régimen disciplinario para los particulares comprende la determinación de los sujetos disciplinables, las inhabilidades, impedimentos, incompatibilidades y conflicto de intereses, y el catálogo especial de faltas imputables a los mismos.
 

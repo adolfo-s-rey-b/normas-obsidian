@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "22"
-epigrafe: "PREVALENCIA DE LOS PRINCIPIOS RECTORES E INTEGRACIÓN NORMATIVA"
+epigrafe: "Prevalencia de los principios rectores e integración normativa"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 22. PREVALENCIA DE LOS PRINCIPIOS RECTORES E INTEGRACIÓN NORMATIVA
+## Artículo 22. Prevalencia de los principios rectores e integración normativa
 
 En la interpretación y aplicación del régimen disciplinario prevalecerán los principios rectores contenidos en la Constitución Política y en esta ley, además de los tratados y convenios internacionales ratificados por Colombia. En lo no previsto en esta ley se aplicará lo dispuesto en los Códigos de Procedimiento Administrativo y de lo Contencioso Administrativo, General del Proceso, Penal y de Procedimiento Penal en lo que no contravengan a la naturaleza del derecho disciplinario.
 

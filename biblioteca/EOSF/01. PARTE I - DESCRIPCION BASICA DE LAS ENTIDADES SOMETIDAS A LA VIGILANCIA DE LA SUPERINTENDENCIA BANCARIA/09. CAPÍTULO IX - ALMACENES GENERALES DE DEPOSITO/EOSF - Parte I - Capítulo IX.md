@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 33 EOSF|Artículo 33]] — OBJETO Y FUNCIONES
-- [[art. 34 EOSF|Artículo 34]] — RESPONSABILIDAD POR SU GESTION
-- [[art. 35 EOSF|Artículo 35]] — INVERSIONES
+- [[art. 33 EOSF|Artículo 33]] — Objeto y Funciones
+- [[art. 34 EOSF|Artículo 34]] — Responsabilidad por su Gestión
+- [[art. 35 EOSF|Artículo 35]] — Inversiones
 
 ---
 ← [[EOSF - Parte I - Capítulo VIII|Capítulo VIII]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo X|Capítulo X]] →

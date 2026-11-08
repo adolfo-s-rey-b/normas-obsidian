@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "85"
-epigrafe: "PRUEBA DE LA EXISTENCIA, REPRESENTACIÓN LEGAL O CALIDAD EN QUE ACTÚAN LAS PARTES"
+epigrafe: "Prueba de la existencia, representación legal o calidad en que actúan las partes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 85. PRUEBA DE LA EXISTENCIA, REPRESENTACIÓN LEGAL O CALIDAD EN QUE ACTÚAN LAS PARTES
+## Artículo 85. Prueba de la existencia, representación legal o calidad en que actúan las partes
 
 La prueba de la existencia y representación de las personas jurídicas de derecho privado solo podrá exigirse cuando dicha información no conste en las bases de datos de las entidades públicas y privadas que tengan a su cargo el deber de certificarla. Cuando la información esté disponible por este medio, no será necesario certificado alguno.
 

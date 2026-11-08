@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "394"
-epigrafe: "PRESTACIÓN, MEJORA Y RELEVO DE CAUCIONES Y GARANTÍAS"
+epigrafe: "Prestación, mejora y relevo de cauciones y garantías"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 394. PRESTACIÓN, MEJORA Y RELEVO DE CAUCIONES Y GARANTÍAS
+## Artículo 394. Prestación, mejora y relevo de cauciones y garantías
 
 Cuando la sentencia ordene la prestación, el relevo o la mejora de una caución, personal o real, el juez prevendrá al demandado para que cumpla lo dispuesto dentro del término que señale. En caso de incumplimiento se condenará al demandado a pagar diez (10) salarios mínimos mensuales a favor del demandante y a indemnizarle los perjuicios por el incumplimiento de la obligación de hacer.
 

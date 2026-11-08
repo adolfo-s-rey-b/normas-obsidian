@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 40 CGD|Artículo 40]] — INCORPORACIÓN DE INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES
-- [[art. 41 CGD|Artículo 41]] — INHABILIDADES SOBREVINIENTES
-- [[art. 42 CGD|Artículo 42]] — OTRAS INHABILIDADES
-- [[art. 43 CGD|Artículo 43]] — OTRAS INCOMPATIBILIDADES
-- [[art. 44 CGD|Artículo 44]] — CONFLICTO DE INTERESES
-- [[art. 45 CGD|Artículo 45]] — EXTENSIÓN DE LAS INHABILIDADES, INCOMPATIBILIDADES E IMPEDIMENTOS
+- [[art. 40 CGD|Artículo 40]] — Incorporación de inhabilidades, impedimentos, incompatibilidades y conflicto de intereses
+- [[art. 41 CGD|Artículo 41]] — Inhabilidades sobrevinientes
+- [[art. 42 CGD|Artículo 42]] — Otras inhabilidades
+- [[art. 43 CGD|Artículo 43]] — Otras incompatibilidades
+- [[art. 44 CGD|Artículo 44]] — Conflicto de intereses
+- [[art. 45 CGD|Artículo 45]] — Extensión de las inhabilidades, incompatibilidades e impedimentos
 
 ---
 ← [[CGD - Libro I - Título IV - Capítulo III|Capítulo III]] · ↑ [[CGD - Libro I - Título IV|Título IV]]

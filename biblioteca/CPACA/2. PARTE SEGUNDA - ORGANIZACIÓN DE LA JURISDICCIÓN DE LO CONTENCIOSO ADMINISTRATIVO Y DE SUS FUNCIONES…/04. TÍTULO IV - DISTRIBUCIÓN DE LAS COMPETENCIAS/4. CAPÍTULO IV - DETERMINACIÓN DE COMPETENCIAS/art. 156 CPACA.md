@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "156"
-epigrafe: "COMPETENCIA POR RAZÓN DEL TERRITORIO"
+epigrafe: "Competencia por razón del territorio"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo IV|CAPÍTULO IV - DETERMINACIÓN DE COMPETENCIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 156. COMPETENCIA POR RAZÓN DEL TERRITORIO
+## Artículo 156. Competencia por razón del territorio
 
 Para la determinación de la competencia por razón del territorio se observarán las siguientes reglas:
 

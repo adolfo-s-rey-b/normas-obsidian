@@ -24,17 +24,17 @@ tags:
 
 ### Contenido
 
-- [[art. 158 CPTSS|Artículo 158]] — PROCEDENCIA
-- [[art. 159 CPTSS|Artículo 159]] — DICTAMEN APORTADO POR UNA DE LAS PARTES
-- [[art. 160 CPTSS|Artículo 160]] — CONTRADICCIÓN DEL DICTAMEN
-- [[art. 161 CPTSS|Artículo 161]] — DISPOSICIONES DEL JUEZ RESPECTO DE LA PRUEBA PERICIAL
-- [[art. 162 CPTSS|Artículo 162]] — DICTAMEN DECRETADO DE OFICIO
-- [[art. 163 CPTSS|Artículo 163]] — PRÁCTICA Y CONTRADICCIÓN DEL DICTAMEN DECRETADO DE OFICIO
-- [[art. 164 CPTSS|Artículo 164]] — SOLICITUD DEL DICTAMEN
-- [[art. 165 CPTSS|Artículo 165]] — APRECIACIÓN DEL DICTAMEN
-- [[art. 166 CPTSS|Artículo 166]] — DEBER DE COLABORACIÓN DE LAS PARTES
-- [[art. 167 CPTSS|Artículo 167]] — EL DICTAMEN PERICIAL DE ENTIDADES Y DEPENDENCIAS OFICIALES
-- [[art. 168 CPTSS|Artículo 168]] — IMPARCIALIDAD DEL PERITO
+- [[art. 158 CPTSS|Artículo 158]] — Procedencia
+- [[art. 159 CPTSS|Artículo 159]] — Dictamen aportado por una de las partes
+- [[art. 160 CPTSS|Artículo 160]] — Contradicción del dictamen
+- [[art. 161 CPTSS|Artículo 161]] — Disposiciones del juez respecto de la prueba pericial
+- [[art. 162 CPTSS|Artículo 162]] — Dictamen decretado de oficio
+- [[art. 163 CPTSS|Artículo 163]] — Práctica y contradicción del dictamen decretado de oficio
+- [[art. 164 CPTSS|Artículo 164]] — Solicitud del dictamen
+- [[art. 165 CPTSS|Artículo 165]] — Apreciación del dictamen
+- [[art. 166 CPTSS|Artículo 166]] — Deber de colaboración de las partes
+- [[art. 167 CPTSS|Artículo 167]] — El dictamen pericial de entidades y dependencias oficiales
+- [[art. 168 CPTSS|Artículo 168]] — Imparcialidad del perito
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]] →

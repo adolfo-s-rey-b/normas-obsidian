@@ -11,7 +11,7 @@ articulo: "2495"
 epigrafe: "CREDITOS DE PRIMERA CLASE"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XL|TÍTULO XL - DE LA PRELACIÓN DE CREDITOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 36 Ley 50 de 1990]]"
   - "[[art. 157 CST]]"
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XL|Título XL]]

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "22"
-epigrafe: "TERMINACIÓN POR PARTE DEL ARRENDADOR"
+epigrafe: "Terminación por parte del arrendador"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 21 Ley 820 de 2003]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 22. TERMINACIÓN POR PARTE DEL ARRENDADOR
+## Artículo 22. Terminación por parte del arrendador
 
 Son causales para que el arrendador pueda pedir unilateralmente la terminación del contrato, las siguientes:
 

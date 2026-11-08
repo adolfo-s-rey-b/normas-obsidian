@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "238"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 238. TRÁMITE
+## Artículo 238. Trámite
 
 El juez competente que reciba la demanda examinará si reúne los requisitos exigidos en los dos artículos precedentes, y si los encuentra cumplidos, se resolverá sobre su admisión.
 

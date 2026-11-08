@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "231"
-epigrafe: "FONDO AGROPECUARIO DE GARANTIAS"
+epigrafe: "Fondo Agropecuario de Garantías"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo I|CAPÍTULO I - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO FINAGRO]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo I|Capítulo I]]
 
-## Artículo 231. FONDO AGROPECUARIO DE GARANTIAS
+## Artículo 231. Fondo Agropecuario de Garantías
 
 1\. Naturaleza y administración. El Fondo Agropecuario de Garantías, creado por la Ley 21 de 1985, será administrado por FINAGRO y funcionará como una cuenta especial, sujeta a la vigilancia y control de la Superintendencia Bancaria.
 

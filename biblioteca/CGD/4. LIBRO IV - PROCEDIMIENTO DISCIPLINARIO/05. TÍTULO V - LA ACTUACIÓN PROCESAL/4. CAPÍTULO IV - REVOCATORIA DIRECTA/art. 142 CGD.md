@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "142"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo IV|CAPÍTULO IV - REVOCATORIA DIRECTA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 142. COMPETENCIA
+## Artículo 142. Competencia
 
 El Procurador General de la Nación será la única autoridad competente que podrá revocar los fallos sancionatorios, los autos de archivo y el fallo absolutorio.
 

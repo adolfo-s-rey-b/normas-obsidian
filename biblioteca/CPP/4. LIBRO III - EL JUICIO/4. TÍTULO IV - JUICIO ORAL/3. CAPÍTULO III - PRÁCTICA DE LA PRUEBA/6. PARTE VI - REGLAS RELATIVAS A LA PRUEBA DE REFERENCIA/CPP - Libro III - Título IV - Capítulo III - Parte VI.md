@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 437 CPP|Artículo 437]] — NOCIÓN
-- [[art. 438 CPP|Artículo 438]] — ADMISIÓN EXCEPCIONAL DE LA PRUEBA DE REFERENCIA
-- [[art. 439 CPP|Artículo 439]] — PRUEBA DE REFERENCIA MÚLTIPLE
-- [[art. 440 CPP|Artículo 440]] — UTILIZACIÓN DE LA PRUEBA DE REFERENCIA PARA FINES DE IMPUGNACIÓN
-- [[art. 441 CPP|Artículo 441]] — IMPUGNACIÓN DE LA CREDIBILIDAD DE LA PRUEBA DE REFERENCIA
+- [[art. 437 CPP|Artículo 437]] — Noción
+- [[art. 438 CPP|Artículo 438]] — Admisión excepcional de la prueba de referencia
+- [[art. 439 CPP|Artículo 439]] — Prueba de referencia múltiple
+- [[art. 440 CPP|Artículo 440]] — Utilización de la prueba de referencia para fines de impugnación
+- [[art. 441 CPP|Artículo 441]] — Impugnación de la credibilidad de la prueba de referencia
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo III - Parte V|Parte V]] · ↑ [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]]

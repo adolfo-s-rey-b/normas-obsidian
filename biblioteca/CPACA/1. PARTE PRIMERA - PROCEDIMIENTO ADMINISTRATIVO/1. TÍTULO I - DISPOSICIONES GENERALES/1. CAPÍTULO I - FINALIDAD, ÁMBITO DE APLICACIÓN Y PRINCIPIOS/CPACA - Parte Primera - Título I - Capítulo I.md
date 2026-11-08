@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 1 CPACA|Artículo 1]] — FINALIDAD DE LA PARTE PRIMERA
+- [[art. 1 CPACA|Artículo 1]] — Finalidad de la parte primera
 - [[art. 2 CPACA|Artículo 2]] — Ámbito de aplicación
-- [[art. 3 CPACA|Artículo 3]] — PRINCIPIOS
-- [[art. 4 CPACA|Artículo 4]] — FORMAS DE INICIAR LAS ACTUACIONES ADMINISTRATIVAS
+- [[art. 3 CPACA|Artículo 3]] — Principios
+- [[art. 4 CPACA|Artículo 4]] — Formas de iniciar las actuaciones administrativas
 
 ---
 ↑ [[CPACA - Parte Primera - Título I|Título I]] · [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]] →

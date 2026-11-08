@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "74"
-epigrafe: "REPRESENTACION LEGAL"
+epigrafe: "Representación Legal"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 74. REPRESENTACION LEGAL
+## Artículo 74. Representación Legal
 
 1\. Facultades. La persona que ejerza la gerencia de un establecimiento bancario, corporación financiera, corporación de ahorro y vivienda*, compañía de financiamiento comercial, sociedad de capitalización o sociedad de servicios financieros, sea como gerente o subgerente, tendrá la personería para todos los efectos legales y se presume, en el ejercicio de su cargo, que tiene autorización de la respectiva junta directiva para llevar la representación legal y obligar a la entidad frente a terceros, aunque no exhiba la constancia de tal autorización, sin perjuicio de la responsabilidad en que pueda incurrir para con dicha entidad, si hubiera procedido sin facultad suficiente cuando ha debido tenerla.
 

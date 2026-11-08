@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "23"
-epigrafe: "FRACCIONAMIENTO DEL VOTO"
+epigrafe: "Fraccionamiento del voto"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 22 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 23. FRACCIONAMIENTO DEL VOTO
+## Artículo 23. Fraccionamiento del voto
 
 Cuando se trate de la elección de juntas directivas o de otros cuerpos colegiados, los accionistas podrán fraccionar su voto.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "45"
-epigrafe: "RECURSO DE REVISIÓN"
+epigrafe: "Recurso de revisión"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 45. RECURSO DE REVISIÓN
+## Artículo 45. Recurso de revisión
 
 Tanto el laudo como la sentencia que resuelva sobre su anulación, son susceptibles del recurso extraordinario de revisión por las causales y mediante el trámite señalado en el Código de Procedimiento Civil. Sin embargo, quien tuvo oportunidad de interponer el recurso de anulación no podrá alegar indebida representación o falta de notificación. Cuando prospere el recurso de revisión, la autoridad judicial dictará la sentencia que en derecho corresponda.
 

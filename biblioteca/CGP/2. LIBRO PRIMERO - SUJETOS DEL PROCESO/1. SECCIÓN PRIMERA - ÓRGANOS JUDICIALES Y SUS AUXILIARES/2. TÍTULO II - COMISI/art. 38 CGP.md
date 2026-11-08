@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "38"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISI]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 1 Ley 2030 de 2020]]"
   - "[[art. 38 CGP]]"
@@ -32,12 +32,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título II|Título II]]
 
-## Artículo 38. COMPETENCIA
+## Artículo 38. Competencia
 
 La Corte podrá comisionar a las demás autoridades judiciales. Los tribunales superiores y los jueces podrán comisionar a las autoridades judiciales de igual o de inferior categoría.
 

@@ -22,28 +22,28 @@ tags:
 
 ### Contenido
 
-- [[art. 275 CPACA|Artículo 275]] — CAUSALES DE ANULACIÓN ELECTORAL
-- [[art. 276 CPACA|Artículo 276]] — TRÁMITE DE LA DEMANDA
-- [[art. 277 CPACA|Artículo 277]] — CONTENIDO DEL AUTO ADMISORIO DE LA DEMANDA Y FORMAS DE PRACTICAR SU NOTIFICACIÓN
-- [[art. 278 CPACA|Artículo 278]] — REFORMA DE LA DEMANDA
-- [[art. 279 CPACA|Artículo 279]] — CONTESTACIÓN DE LA DEMANDA
-- [[art. 280 CPACA|Artículo 280]] — PROHIBICIÓN DEL DESISTIMIENTO
-- [[art. 281 CPACA|Artículo 281]] — IMPROCEDENCIA DE ACUMULACIÓN DE CAUSALES DE NULIDAD OBJETIVAS Y SUBJETIVAS
+- [[art. 275 CPACA|Artículo 275]] — Causales de anulación electoral
+- [[art. 276 CPACA|Artículo 276]] — Trámite de la demanda
+- [[art. 277 CPACA|Artículo 277]] — Contenido del auto admisorio de la demanda y formas de practicar su notificación
+- [[art. 278 CPACA|Artículo 278]] — Reforma de la demanda
+- [[art. 279 CPACA|Artículo 279]] — Contestación de la demanda
+- [[art. 280 CPACA|Artículo 280]] — Prohibición del desistimiento
+- [[art. 281 CPACA|Artículo 281]] — Improcedencia de acumulación de causales de nulidad objetivas y subjetivas
 - [[art. 282 CPACA|Artículo 282]] — ACUMULACIÓN DE PROCESOS
-- [[art. 283 CPACA|Artículo 283]] — AUDIENCIA INICIAL
-- [[art. 284 CPACA|Artículo 284]] — NULIDADES
-- [[art. 285 CPACA|Artículo 285]] — AUDIENCIA DE PRUEBAS
-- [[art. 286 CPACA|Artículo 286]] — AUDIENCIA DE ALEGACIONES Y DE JUZGAMIENTO
-- [[art. 287 CPACA|Artículo 287]] — PRESUPUESTOS DE LA SENTENCIA ANULATORIA DEL ACTO DE ELECCIÓN POPULAR
-- [[art. 288 CPACA|Artículo 288]] — CONSECUENCIAS DE LA SENTENCIA DE ANULACIÓN
-- [[art. 289 CPACA|Artículo 289]] — NOTIFICACIÓN Y COMUNICACIÓN DE LA SENTENCIA
-- [[art. 290 CPACA|Artículo 290]] — ACLARACIÓN DE LA SENTENCIA
-- [[art. 291 CPACA|Artículo 291]] — ADICIÓN DE LA SENTENCIA
-- [[art. 292 CPACA|Artículo 292]] — APELACIÓN DE LA SENTENCIA
-- [[art. 293 CPACA|Artículo 293]] — TRÁMITE DE LA SEGUNDA INSTANCIA
-- [[art. 294 CPACA|Artículo 294]] — NULIDADES ORIGINADAS EN LA SENTENCIA
-- [[art. 295 CPACA|Artículo 295]] — PETICIONES IMPERTINENTES
-- [[art. 296 CPACA|Artículo 296]] — ASPECTOS NO REGULADOS
+- [[art. 283 CPACA|Artículo 283]] — Audiencia inicial
+- [[art. 284 CPACA|Artículo 284]] — Nulidades
+- [[art. 285 CPACA|Artículo 285]] — Audiencia de pruebas
+- [[art. 286 CPACA|Artículo 286]] — Audiencia de alegaciones y de juzgamiento
+- [[art. 287 CPACA|Artículo 287]] — Presupuestos de la sentencia anulatoria del acto de elección popular
+- [[art. 288 CPACA|Artículo 288]] — Consecuencias de la sentencia de anulación
+- [[art. 289 CPACA|Artículo 289]] — Notificación y comunicación de la sentencia
+- [[art. 290 CPACA|Artículo 290]] — Aclaración de la sentencia
+- [[art. 291 CPACA|Artículo 291]] — Adición de la sentencia
+- [[art. 292 CPACA|Artículo 292]] — Apelación de la sentencia
+- [[art. 293 CPACA|Artículo 293]] — Trámite de la segunda instancia
+- [[art. 294 CPACA|Artículo 294]] — Nulidades originadas en la sentencia
+- [[art. 295 CPACA|Artículo 295]] — Peticiones impertinentes
+- [[art. 296 CPACA|Artículo 296]] — Aspectos no regulados
 
 ---
 ← [[CPACA - Parte Segunda - Título VII|Título VII]] · ↑ [[CPACA - Parte Segunda|Parte Segunda]] · [[CPACA - Parte Segunda - Título IX|Título IX]] →

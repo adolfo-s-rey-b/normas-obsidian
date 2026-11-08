@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "421"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 421. TRÁMITE
+## Artículo 421. Trámite
 
 Si la demanda cumple los requisitos, el juez ordenará requerir al deudor para que en el plazo de diez (10) días pague o exponga en la contestación de la demanda las razones concretas que le sirven de sustento para negar total o parcialmente la deuda reclamada.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "281"
-epigrafe: "ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA REMITIDOS DEL EXTRANJERO"
+epigrafe: "Elemento material probatorio y evidencia física remitidos del extranjero"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo Unico|CAPÍTULO UNICO - ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 281. ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA REMITIDOS DEL EXTRANJERO
+## Artículo 281. Elemento material probatorio y evidencia física remitidos del extranjero
 
 El elemento material probatorio y evidencia física remitidos por autoridad extranjera, en desarrollo de petición de autoridad penal colombiana, basada en convenio bilateral o multilateral de cooperación judicial penal recíproca, será sometido a cadena de custodia y tendrá el mismo valor que se le otorga a cualquier otro elemento material probatorio y evidencia física.
 

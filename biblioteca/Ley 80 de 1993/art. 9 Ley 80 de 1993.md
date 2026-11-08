@@ -4,8 +4,8 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "9"
-epigrafe: "DE LAS INHABILIDADES E INCOMPATIBILIDADES SOBREVINIENTES"
-vigencia: "modificado"
+epigrafe: "De las Inhabilidades e Incompatibilidades Sobrevinientes"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 6 Ley 2014 de 2019]]"
 derogado_por:
@@ -22,12 +22,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 9. DE LAS INHABILIDADES E INCOMPATIBILIDADES SOBREVINIENTES
+## Artículo 9. De las Inhabilidades e Incompatibilidades Sobrevinientes
 
 Si llegare a sobrevenir inhabilidad o incompatibilidad en el contratista, este cederá el contrato previa autorización escrita de la entidad contratante o, si ello no fuere posible, renunciará a su ejecución.
 

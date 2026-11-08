@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "94"
-epigrafe: "INICIACIÓN DE LA ACTUACIÓN ARBITRAL"
+epigrafe: "Iniciación de la actuación arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 94. INICIACIÓN DE LA ACTUACIÓN ARBITRAL
+## Artículo 94. Iniciación de la actuación arbitral
 
 Salvo que las partes hayan convenido otra cosa, la actuación arbitral se entenderá iniciada en la fecha en que el demandado reciba la solicitud de someter la controversia a arbitraje.
 

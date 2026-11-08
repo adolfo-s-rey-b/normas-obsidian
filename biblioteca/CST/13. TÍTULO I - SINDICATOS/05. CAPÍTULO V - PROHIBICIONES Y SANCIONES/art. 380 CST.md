@@ -11,7 +11,7 @@ articulo: "380"
 epigrafe: "SANCIONES"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo V (2)|CAPÍTULO V - PROHIBICIONES Y SANCIONES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 52 Ley 50 de 1990]]"
   - "[[art. 17 Ley 11 de 1984]]"
@@ -33,7 +33,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo V (2)|Capítulo V]]

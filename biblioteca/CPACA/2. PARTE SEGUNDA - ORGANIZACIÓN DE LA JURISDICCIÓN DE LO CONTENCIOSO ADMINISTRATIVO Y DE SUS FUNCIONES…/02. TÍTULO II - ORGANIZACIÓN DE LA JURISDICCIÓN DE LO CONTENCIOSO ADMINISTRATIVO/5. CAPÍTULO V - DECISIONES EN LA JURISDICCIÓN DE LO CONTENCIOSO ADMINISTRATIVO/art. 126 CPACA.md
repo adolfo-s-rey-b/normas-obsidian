@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "126"
-epigrafe: "QUÓRUM DELIBERATORIO EN EL CONSEJO DE ESTADO"
+epigrafe: "Quórum deliberatorio en el Consejo de Estado"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo V|CAPÍTULO V - DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 126. QUÓRUM DELIBERATORIO EN EL CONSEJO DE ESTADO
+## Artículo 126. Quórum deliberatorio en el Consejo de Estado
 
 El Consejo de Estado en pleno o cualquiera de sus salas, secciones o subsecciones necesitará para deliberar válidamente la asistencia de la mayoría de sus miembros.
 

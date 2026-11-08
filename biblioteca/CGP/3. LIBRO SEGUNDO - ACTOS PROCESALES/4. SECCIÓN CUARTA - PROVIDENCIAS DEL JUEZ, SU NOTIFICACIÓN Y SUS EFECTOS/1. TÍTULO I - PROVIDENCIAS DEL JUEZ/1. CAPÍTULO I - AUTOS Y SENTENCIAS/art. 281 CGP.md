@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "281"
-epigrafe: "CONGRUENCIAS"
+epigrafe: "Congruencias"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título I|TÍTULO I - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] › [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 281. CONGRUENCIAS
+## Artículo 281. Congruencias
 
 La sentencia deberá estar en consonancia con los hechos y las pretensiones aducidos en la demanda y en las demás oportunidades que este código contempla y con las excepciones que aparezcan probadas y hubieren sido alegadas si así lo exige la ley.
 

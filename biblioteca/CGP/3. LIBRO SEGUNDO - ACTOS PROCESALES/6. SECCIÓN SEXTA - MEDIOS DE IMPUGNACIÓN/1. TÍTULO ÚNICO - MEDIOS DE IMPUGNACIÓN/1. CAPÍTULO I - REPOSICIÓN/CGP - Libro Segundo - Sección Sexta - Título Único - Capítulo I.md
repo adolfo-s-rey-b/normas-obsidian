@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 318 CGP|Artículo 318]] — PROCEDENCIA Y OPORTUNIDADES
-- [[art. 319 CGP|Artículo 319]] — TRÁMITE
+- [[art. 318 CGP|Artículo 318]] — Procedencia y oportunidades
+- [[art. 319 CGP|Artículo 319]] — Trámite
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]] →

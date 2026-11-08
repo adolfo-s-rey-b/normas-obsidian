@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "141"
-epigrafe: "CAUSALES DE RECUSACIÓN"
+epigrafe: "Causales de recusación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 141. CAUSALES DE RECUSACIÓN
+## Artículo 141. Causales de recusación
 
 Son causales de recusación las siguientes:
 

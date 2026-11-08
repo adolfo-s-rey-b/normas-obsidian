@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "48"
-epigrafe: "REPRESENTACIÓN DE LA PERSONA TITULAR DEL ACTO"
+epigrafe: "Representación de la persona titular del acto"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 47 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 48. REPRESENTACIÓN DE LA PERSONA TITULAR DEL ACTO
+## Artículo 48. Representación de la persona titular del acto
 
 La persona de apoyo representará a la persona titular del acto solo en aquellos casos en donde exista un mandato expreso de la persona titular para efectuar uno o varios actos jurídicos en su nombre y representación.
 

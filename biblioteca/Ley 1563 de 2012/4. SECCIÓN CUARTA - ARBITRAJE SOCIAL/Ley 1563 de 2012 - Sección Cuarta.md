@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 117 Ley 1563 de 2012|Artículo 117]] — ARBITRAJE SOCIAL
+- [[art. 117 Ley 1563 de 2012|Artículo 117]] — Arbitraje social
 
 ---
 ← [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · ↑ [[Ley 1563 de 2012|Ley 1563 de 2012]] · [[Ley 1563 de 2012 - Sección Quinta|Sección Quinta]] →

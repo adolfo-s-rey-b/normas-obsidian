@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "15"
-epigrafe: "VIOLACIÓN DE LAS RESTRICCIONES A LA NEGOCIACIÓN"
+epigrafe: "Violación de las restricciones a la negociación"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 14 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 15. VIOLACIÓN DE LAS RESTRICCIONES A LA NEGOCIACIÓN
+## Artículo 15. Violación de las restricciones a la negociación
 
 Toda negociación o transferencia de acciones efectuada en contravención a lo previsto en los estatutos será ineficaz de pleno derecho.
 

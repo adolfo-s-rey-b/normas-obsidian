@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "345"
-epigrafe: "EXTEMPORANEIDAD DE LA DEMANDA"
+epigrafe: "Extemporaneidad de la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 345. EXTEMPORANEIDAD DE LA DEMANDA
+## Artículo 345. Extemporaneidad de la demanda
 
 Cuando no se presente en tiempo la demanda, el magistrado declarará desierto el recurso y condenará en costas al recurrente.
 

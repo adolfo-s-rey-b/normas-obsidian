@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "6"
-epigrafe: "DEFINICIONES"
+epigrafe: "Definiciones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo II|CAPÍTULO II - ESTABLECIMIENTOS BANCARIOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo II|Capítulo II]]
 
-## Artículo 6. DEFINICIONES
+## Artículo 6. Definiciones
 
 1\. Banco comercial. Las palabras banco comercial significan un establecimiento que hace el negocio de recibir fondos de otros en depósito general y de usar éstos, junto con su propio capital, para prestarlo y comprar o descontar pagarés, giros o letras de cambio.
 

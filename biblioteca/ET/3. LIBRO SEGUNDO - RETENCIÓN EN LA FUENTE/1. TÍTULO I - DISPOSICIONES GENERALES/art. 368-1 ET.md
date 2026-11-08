@@ -13,7 +13,7 @@ articulo: "368-1"
 epigrafe: "RETENCIÓN SOBRE DISTRIBUCIÓN DE INGRESOS POR LOS FONDOS A QUE SE REFIERE EL ARTÍCULO 23-1 DEL ESTATUTO TRIBUTARIO"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 69 Ley 2010 de 2019]]"
 derogado_por:
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título I|Título I]]

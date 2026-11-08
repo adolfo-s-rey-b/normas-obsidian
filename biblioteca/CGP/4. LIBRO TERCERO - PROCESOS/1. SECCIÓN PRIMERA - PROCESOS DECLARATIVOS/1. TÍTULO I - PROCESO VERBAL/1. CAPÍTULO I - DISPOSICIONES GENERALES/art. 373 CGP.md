@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "373"
-epigrafe: "AUDIENCIA DE INSTRUCCIÓN Y JUZGAMIENTO"
+epigrafe: "Audiencia de instrucción y juzgamiento"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 373. AUDIENCIA DE INSTRUCCIÓN Y JUZGAMIENTO
+## Artículo 373. Audiencia de instrucción y juzgamiento
 
 Para la audiencia de instrucción y juzgamiento se observarán las siguientes reglas:
 

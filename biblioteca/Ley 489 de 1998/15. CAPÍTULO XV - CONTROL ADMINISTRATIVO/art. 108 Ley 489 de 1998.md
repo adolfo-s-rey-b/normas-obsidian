@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "108"
-epigrafe: "CONVENIOS DE DESEMPEÑO"
+epigrafe: "Convenios de desempeño"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 107 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 108. CONVENIOS DE DESEMPEÑO
+## Artículo 108. Convenios de desempeño
 
 La Nación y las entidades territoriales podrán condicionar la utilización y ejecución de recursos de sus respectivos presupuestos por parte de las entidades descentralizadas y sociedades de economía mixta, cuya situación financiera, de conformidad con la correspondiente evaluación por parte de los órganos de control interno, no permita cumplir de manera eficiente y eficaz su objeto propio.
 

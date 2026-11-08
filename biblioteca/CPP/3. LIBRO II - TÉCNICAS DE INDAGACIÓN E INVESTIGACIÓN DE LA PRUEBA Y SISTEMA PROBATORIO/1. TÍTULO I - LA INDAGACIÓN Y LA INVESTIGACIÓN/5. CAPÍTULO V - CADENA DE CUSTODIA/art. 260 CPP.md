@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "260"
-epigrafe: "ACTUACIÓN DEL PERITO"
+epigrafe: "Actuación del perito"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo V|CAPÍTULO V - CADENA DE CUSTODIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 260. ACTUACIÓN DEL PERITO
+## Artículo 260. Actuación del perito
 
 El perito que reciba el contenedor dejará constancia del estado en que se encuentra y procederá a las investigaciones y análisis del elemento material probatorio y evidencia física, a la menor brevedad posible, de modo que su informe pericial pueda ser oportunamente remitido al fiscal correspondiente.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "226"
-epigrafe: "ALLANAMIENTOS ESPECIALES"
+epigrafe: "Allanamientos especiales"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 226. ALLANAMIENTOS ESPECIALES
+## Artículo 226. Allanamientos especiales
 
 Para el allanamiento y registro de bienes inmuebles, naves, aeronaves o vehículos automotores que, conforme con el derecho internacional y los tratados en vigor gocen de inmunidad diplomática o consular, el fiscal solicitará venia al respectivo agente diplomático o consular, mediante oficio en el que se requerirá su contestación dentro de las veinticuatro (24) horas siguientes y será remitido por conducto del Ministerio de Relaciones Exteriores.
 

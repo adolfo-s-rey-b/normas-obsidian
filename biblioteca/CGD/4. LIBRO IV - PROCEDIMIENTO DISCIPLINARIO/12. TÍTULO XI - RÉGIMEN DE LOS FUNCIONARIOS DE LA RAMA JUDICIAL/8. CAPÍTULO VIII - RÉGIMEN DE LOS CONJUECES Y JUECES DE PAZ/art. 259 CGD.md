@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "259"
-epigrafe: "FALTAS GRAVES Y LEVES, SANCIONES Y CRITERIOS PARA GRADUARLAS"
+epigrafe: "Faltas graves y leves, sanciones y criterios para graduarlas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE LOS CONJUECES Y JUECES DE PAZ]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 259. FALTAS GRAVES Y LEVES, SANCIONES Y CRITERIOS PARA GRADUARLAS
+## Artículo 259. Faltas graves y leves, sanciones y criterios para graduarlas
 
 Para la determinación de la gravedad de la falta respecto de los conjueces ~~y jueces de paz~~ se aplicará esta ley, y las sanciones y criterios para graduarlas serán los establecidos en el presente código.
 

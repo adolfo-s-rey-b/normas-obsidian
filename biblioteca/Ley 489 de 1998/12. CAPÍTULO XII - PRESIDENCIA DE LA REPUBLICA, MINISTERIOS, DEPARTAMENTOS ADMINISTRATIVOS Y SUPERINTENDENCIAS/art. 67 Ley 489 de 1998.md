@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "67"
-epigrafe: "ORGANIZACION Y FUNCIONAMIENTO DE UNIDADES ADMINISTRATIVAS ESPECIALES"
+epigrafe: "Organización y funcionamiento de unidades administrativas especiales"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 66 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 67. ORGANIZACION Y FUNCIONAMIENTO DE UNIDADES ADMINISTRATIVAS ESPECIALES
+## Artículo 67. Organización y funcionamiento de unidades administrativas especiales
 
 Las Unidades Administrativas Especiales son organismos creados por la ley, con la autonomía administrativa y financiera que aquélla les señale, sin personería jurídica, que cumplen funciones administrativas para desarrollar o ejecutar programas propios de un ministerio o departamento administrativo.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "149"
-epigrafe: "PETICIÓN DE LA PRUEBA"
+epigrafe: "Petición de la prueba"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 149. PETICIÓN DE LA PRUEBA
+## Artículo 149. Petición de la prueba
 
 Cuando se pidan testimonios deberá expresarse el nombre, domicilio, residencia, correo electrónico o lugar donde pueden ser citados los testigos, y enunciarse concretamente los hechos objeto de la prueba.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "64"
-epigrafe: "DESAPARICIÓN DE LA CAUSAL"
+epigrafe: "Desaparición de la causal"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 64. DESAPARICIÓN DE LA CAUSAL
+## Artículo 64. Desaparición de la causal
 
 En ningún caso se recuperará la competencia por la desaparición de la causal de impedimento.
 

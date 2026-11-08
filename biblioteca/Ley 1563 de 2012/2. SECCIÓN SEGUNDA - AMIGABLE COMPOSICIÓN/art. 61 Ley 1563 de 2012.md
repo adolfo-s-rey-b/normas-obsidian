@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "61"
-epigrafe: "DESIGNACIÓN Y PROCEDIMIENTO"
+epigrafe: "Designación y Procedimiento"
 seccion: "[[Ley 1563 de 2012 - Sección Segunda|SECCIÓN SEGUNDA - AMIGABLE COMPOSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 60 Ley 1563 de 2012]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Segunda|Sección Segunda]]
 
-## Artículo 61. DESIGNACIÓN Y PROCEDIMIENTO
+## Artículo 61. Designación y Procedimiento
 
 Salvo convención en contrario, el amigable componedor no tendrá que ser abogado.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "121"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA POR LESIONES CULPOSAS"
+epigrafe: "Circunstancias de agravación punitiva por lesiones culposas"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Tercero|CAPÍTULO TERCERO - DE LAS LESIONES PERSONALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 121. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA POR LESIONES CULPOSAS
+## Artículo 121. Circunstancias de agravación punitiva por lesiones culposas
 
 Las circunstancias de agravación previstas en el Artículo [[art. 110 CP|110]], lo serán también de las lesiones culposas y las penas previstas para este delito se aumentarán en la proporción indicada en ese artículo.
 

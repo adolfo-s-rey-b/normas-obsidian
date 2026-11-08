@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "61"
-epigrafe: "RECEPCIÓN DE DOCUMENTOS ELECTRÓNICOS POR PARTE DE LAS AUTORIDADES"
+epigrafe: "Recepción de documentos electrónicos por parte de las autoridades"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 61. RECEPCIÓN DE DOCUMENTOS ELECTRÓNICOS POR PARTE DE LAS AUTORIDADES
+## Artículo 61. Recepción de documentos electrónicos por parte de las autoridades
 
 Para la recepción de documentos electrónicos dentro de una actuación administrativa, las autoridades deberán contar con un registro electrónico de documentos, además de:
 

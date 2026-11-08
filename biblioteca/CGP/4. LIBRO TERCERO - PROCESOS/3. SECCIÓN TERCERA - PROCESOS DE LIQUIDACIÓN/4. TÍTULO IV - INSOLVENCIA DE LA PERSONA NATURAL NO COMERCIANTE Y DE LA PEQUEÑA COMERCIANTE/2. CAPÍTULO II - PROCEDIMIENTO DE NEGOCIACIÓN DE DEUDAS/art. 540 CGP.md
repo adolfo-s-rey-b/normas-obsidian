@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "540"
-epigrafe: "DACIONES EN PAGO"
+epigrafe: "Daciones en pago"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 540. DACIONES EN PAGO
+## Artículo 540. Daciones en pago
 
 En la propuesta de negociación de deudas, el deudor podrá incluir daciones en pago con bienes propios para extinguir total o parcialmente una o varias de sus obligaciones.
 

@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "179"
 titulo: "[[CPol - Título VI|TÍTULO VI - De la rama legislativa]]"
 capitulo: "[[CPol - Título VI - Capítulo 6|CAPÍTULO 6 - De los congresistas]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 13 Acto Legislativo 1 de 2009]]"
   - "[[art. 179 CPol]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título VI|Título VI]] › [[CPol - Título VI - Capítulo 6|Capítulo 6]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "108"
-epigrafe: "CITACIÓN DEL ASEGURADOR"
+epigrafe: "Citación del asegurador"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo IV|CAPÍTULO IV - DEL EJERCICIO DEL INCIDENTE DE REPARACIÓN INTEGRAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 108. CITACIÓN DEL ASEGURADOR
+## Artículo 108. Citación del asegurador
 
 > [!warning] Apartes tachados INEXEQUIBLES
 

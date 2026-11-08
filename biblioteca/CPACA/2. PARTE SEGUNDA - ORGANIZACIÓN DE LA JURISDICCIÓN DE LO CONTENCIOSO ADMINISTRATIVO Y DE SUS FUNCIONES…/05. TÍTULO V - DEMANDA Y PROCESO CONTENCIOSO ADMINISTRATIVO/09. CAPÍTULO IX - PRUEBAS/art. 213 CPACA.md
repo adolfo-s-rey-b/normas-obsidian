@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "213"
-epigrafe: "PRUEBAS DE OFICIO"
+epigrafe: "Pruebas de oficio"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - PRUEBAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]]
 
-## Artículo 213. PRUEBAS DE OFICIO
+## Artículo 213. Pruebas de oficio
 
 En cualquiera de las instancias el Juez o Magistrado Ponente podrá decretar de oficio las pruebas que considere necesarias para el esclarecimiento de la verdad. Se deberán decretar y practicar conjuntamente con las pedidas por las partes.
 

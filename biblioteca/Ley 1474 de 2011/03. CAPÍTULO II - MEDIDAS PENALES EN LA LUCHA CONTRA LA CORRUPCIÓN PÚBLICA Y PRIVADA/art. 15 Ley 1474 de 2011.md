@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "15"
-epigrafe: "ESTAFA SOBRE RECURSOS PÚBLICOS Y EN EL SISTEMA DE SEGURIDAD SOCIAL INTEGRAL"
+epigrafe: "Estafa sobre recursos públicos y en el Sistema de Seguridad Social Integral"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 14 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 15. ESTAFA SOBRE RECURSOS PÚBLICOS Y EN EL SISTEMA DE SEGURIDAD SOCIAL INTEGRAL
+## Artículo 15. Estafa sobre recursos públicos y en el Sistema de Seguridad Social Integral
 
 El artículo [[art. 247 CP|247]] del Código Penal tendrá unos numerales 5 y 6 del siguiente tenor:
 

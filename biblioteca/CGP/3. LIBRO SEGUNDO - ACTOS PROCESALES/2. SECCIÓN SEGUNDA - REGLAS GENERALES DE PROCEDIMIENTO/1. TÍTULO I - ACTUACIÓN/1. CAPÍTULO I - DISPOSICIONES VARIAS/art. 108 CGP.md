@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "108"
-epigrafe: "EMPLAZAMIENTO"
+epigrafe: "Emplazamiento"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 108. EMPLAZAMIENTO
+## Artículo 108. Emplazamiento
 
 Cuando se ordene el emplazamiento a personas determinadas o indeterminadas, se procederá mediante la inclusión del nombre del sujeto emplazado, las partes, la clase del proceso y el juzgado que lo requiere, en un listado que se publicará por una sola vez en un medio escrito de amplia circulación nacional o local, o en cualquier otro medio masivo de comunicación, a criterio del juez, para lo cual indicará al menos dos (2) medios de comunicación.
 

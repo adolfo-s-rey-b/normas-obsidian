@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 92 EOSF|Artículo 92]] — REGIMEN DE OFICINAS DE ENTIDADES VIGILADAS
-- [[art. 93 EOSF|Artículo 93]] — RED DE OFICINAS
+- [[art. 92 EOSF|Artículo 92]] — Régimen de Oficinas de Entidades Vigiladas
+- [[art. 93 EOSF|Artículo 93]] — Red de Oficinas
 
 ---
 ← [[EOSF - Parte III - Capítulo X|Capítulo X]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XII|Capítulo XII]] →

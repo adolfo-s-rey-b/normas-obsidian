@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "21"
-epigrafe: "EVASIÓN FISCAL"
+epigrafe: "Evasión fiscal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 20 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 21. EVASIÓN FISCAL
+## Artículo 21. Evasión fiscal
 
 El artículo [[art. 313 CP|313]] de la Ley 599 de 2000, quedará así:
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "483"
-epigrafe: "DETERMINACIÓN DEL IMPUESTO PARA LOS RESPONSABLES DEL REGIMEN COMUN"
+epigrafe: "DETERMINACIÓN DEL IMPUESTO PARA LOS RESPONSABLES DEL RÉGIMEN COMÚN"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título VII|TÍTULO VII - DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título VII|Título VII]]
 
-## Artículo 483. DETERMINACIÓN DEL IMPUESTO PARA LOS RESPONSABLES DEL REGIMEN COMUN
+## Artículo 483. DETERMINACIÓN DEL IMPUESTO PARA LOS RESPONSABLES DEL RÉGIMEN COMÚN
 
 El impuesto se determinará:
 

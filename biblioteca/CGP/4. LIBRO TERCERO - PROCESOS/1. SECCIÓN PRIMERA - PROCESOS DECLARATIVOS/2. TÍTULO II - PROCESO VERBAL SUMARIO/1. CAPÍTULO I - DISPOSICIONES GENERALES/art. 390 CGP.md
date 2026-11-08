@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "390"
-epigrafe: "ASUNTOS QUE COMPRENDE"
+epigrafe: "Asuntos que comprende"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 390. ASUNTOS QUE COMPRENDE
+## Artículo 390. Asuntos que comprende
 
 Se tramitarán por el procedimiento verbal sumario los asuntos contenciosos de mínima cuantía, y los siguientes asuntos en consideración a su naturaleza:
 

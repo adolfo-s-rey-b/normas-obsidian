@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "135"
 titulo: "[[CPol - Título VI|TÍTULO VI - De la rama legislativa]]"
 capitulo: "[[CPol - Título VI - Capítulo 1|CAPÍTULO 1 - De la composición y las funciones]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Acto Legislativo 1 de 2007]]"
   - "[[art. 2 Acto Legislativo 1 de 2007]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título VI|Título VI]] › [[CPol - Título VI - Capítulo 1|Capítulo 1]]

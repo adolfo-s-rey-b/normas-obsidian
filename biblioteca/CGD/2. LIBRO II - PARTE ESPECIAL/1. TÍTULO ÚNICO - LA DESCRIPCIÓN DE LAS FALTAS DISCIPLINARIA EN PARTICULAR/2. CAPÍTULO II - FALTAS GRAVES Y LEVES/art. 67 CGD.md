@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "67"
-epigrafe: "FALTAS GRAVES Y LEVES"
+epigrafe: "Faltas graves y leves"
 libro: "[[CGD - Libro II|LIBRO II - PARTE ESPECIAL]]"
 titulo: "[[CGD - Libro II - Título Único|TÍTULO ÚNICO - LA DESCRIPCIÓN DE LAS FALTAS DISCIPLINARIA EN PARTICULAR]]"
 capitulo: "[[CGD - Libro II - Título Único - Capítulo II|CAPÍTULO II - FALTAS GRAVES Y LEVES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro II|Libro II]] › [[CGD - Libro II - Título Único|Título Único]] › [[CGD - Libro II - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 67. FALTAS GRAVES Y LEVES
+## Artículo 67. Faltas graves y leves
 
 Constituye falta disciplinaria grave o leve, el incumplimiento de los deberes, el abuso de los derechos, la extralimitación de las funciones, o la incursión en prohibiciones, salvo que la conducta esté prevista como falta gravísima.
 

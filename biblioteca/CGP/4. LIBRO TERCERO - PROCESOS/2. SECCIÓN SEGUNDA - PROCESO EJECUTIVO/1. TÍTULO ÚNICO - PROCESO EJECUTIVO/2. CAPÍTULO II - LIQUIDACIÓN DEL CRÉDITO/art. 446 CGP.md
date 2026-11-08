@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "446"
-epigrafe: "LIQUIDACIÓN DEL CRÉDITO Y LAS COSTAS"
+epigrafe: "Liquidación del crédito y las costas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 446. LIQUIDACIÓN DEL CRÉDITO Y LAS COSTAS
+## Artículo 446. Liquidación del crédito y las costas
 
 Para la liquidación del crédito y las costas, se observarán las siguientes reglas:
 

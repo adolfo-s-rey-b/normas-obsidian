@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "162"
-epigrafe: "RENTABILIDAD MINIMA"
+epigrafe: "Rentabilidad Mínima"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 162. RENTABILIDAD MINIMA
+## Artículo 162. Rentabilidad Mínima
 
 1\. Rentabilidad mínima. La rentabilidad del fondo no podrá ser inferior a la tasa efectiva promedio de captación de los bancos y corporaciones financieras para la expedición de certificados de depósito a término con un plazo de 90 días (DTF), la cual será certificada para cada período por el Banco de la República.
 

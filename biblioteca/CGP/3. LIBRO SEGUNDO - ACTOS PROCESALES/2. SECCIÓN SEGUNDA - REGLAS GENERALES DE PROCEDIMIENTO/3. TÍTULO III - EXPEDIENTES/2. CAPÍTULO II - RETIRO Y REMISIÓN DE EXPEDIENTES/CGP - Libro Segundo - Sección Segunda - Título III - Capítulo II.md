@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 124 CGP|Artículo 124]] — RETIRO DE EXPEDIENTE
-- [[art. 125 CGP|Artículo 125]] — REMISIÓN DE EXPEDIENTES, OFICIOS Y DESPACHOS
+- [[art. 124 CGP|Artículo 124]] — Retiro de expediente
+- [[art. 125 CGP|Artículo 125]] — Remisión de expedientes, oficios y despachos
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] · [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo III|Capítulo III]] →

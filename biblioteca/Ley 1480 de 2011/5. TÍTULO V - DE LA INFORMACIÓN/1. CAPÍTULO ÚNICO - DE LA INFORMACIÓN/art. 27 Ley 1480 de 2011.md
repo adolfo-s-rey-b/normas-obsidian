@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "27"
-epigrafe: "CONSTANCIA"
+epigrafe: "Constancia"
 titulo: "[[Ley 1480 de 2011 - Título V|TÍTULO V - DE LA INFORMACIÓN]]"
 capitulo: "[[Ley 1480 de 2011 - Título V - Capítulo Único|CAPÍTULO ÚNICO - DE LA INFORMACIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título V|Título V]] › [[Ley 1480 de 2011 - Título V - Capítulo Único|Capítulo Único]]
 
-## Artículo 27. CONSTANCIA
+## Artículo 27. Constancia
 
 El consumidor tiene derecho a exigir a costa del productor o proveedor constancia de toda operación de consumo que realice. La factura o su equivalente, expedida por cualquier medio físico, electrónico o similares podrá hacer las veces de constancia. Su presentación no será condición para hacer valer los derechos contenidos en esta ley.
 

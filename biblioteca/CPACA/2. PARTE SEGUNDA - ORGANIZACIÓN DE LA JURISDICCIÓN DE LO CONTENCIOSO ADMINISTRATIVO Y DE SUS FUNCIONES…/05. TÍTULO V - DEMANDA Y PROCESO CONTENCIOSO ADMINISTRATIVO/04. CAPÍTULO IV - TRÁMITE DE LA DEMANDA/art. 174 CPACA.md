@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "174"
-epigrafe: "RETIRO DE LA DEMANDA"
+epigrafe: "Retiro de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 174. RETIRO DE LA DEMANDA
+## Artículo 174. Retiro de la demanda
 
 El demandante podrá retirar la demanda siempre que no se hubiere notificado a ninguno de los demandados ni al Ministerio Público.
 

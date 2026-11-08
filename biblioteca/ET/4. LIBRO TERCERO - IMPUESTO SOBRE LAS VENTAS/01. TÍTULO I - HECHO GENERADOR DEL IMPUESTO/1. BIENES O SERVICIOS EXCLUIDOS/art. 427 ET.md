@@ -10,11 +10,11 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "427"
-epigrafe: "POLIZAS DE SEGUROS EXCLUIDAS"
+epigrafe: "PÓLIZAS DE SEGUROS EXCLUIDAS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título I|TÍTULO I - HECHO GENERADOR DEL IMPUESTO]]"
 rubro: "[[ET - Libro Tercero - Título I - Bienes o servicios excluidos|BIENES O SERVICIOS EXCLUIDOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 32 Ley 788 de 2002]]"
 derogado_por:
@@ -33,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título I|Título I]] › [[ET - Libro Tercero - Título I - Bienes o servicios excluidos|Bienes o servicios excluidos]]
 
-## Artículo 427. POLIZAS DE SEGUROS EXCLUIDAS
+## Artículo 427. PÓLIZAS DE SEGUROS EXCLUIDAS
 
 No son objeto del impuesto las pólizas de seguros de vida en los ramos de vida individual, colectivo, grupo, accidentes personales, de que trata la Sección II del Capítulo III del Título 5° del Libro 4° del Código de Comercio, las pólizas de seguros que cubran enfermedades catastróficas que corresponda contratar a las entidades promotoras de salud cuando ello sea necesario, las pólizas de seguros de educación, preescolar, primaria, media, o intermedia, superior y especial, nacionales o extranjeros. Tampoco lo son los contratos de reaseguro de que tratan los artículos [[art. 1134 CCo|1134]] a [[art. 1136 CCo|1136]] del Código de Comercio.
 

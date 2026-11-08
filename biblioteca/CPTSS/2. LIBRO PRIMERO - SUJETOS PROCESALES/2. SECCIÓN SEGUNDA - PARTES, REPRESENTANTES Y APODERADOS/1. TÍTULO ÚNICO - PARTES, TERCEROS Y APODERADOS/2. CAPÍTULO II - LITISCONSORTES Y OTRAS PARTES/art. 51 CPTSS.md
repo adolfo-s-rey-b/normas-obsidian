@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "51"
-epigrafe: "SUCESIÓN PROCESAL"
+epigrafe: "Sucesión procesal"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 51. SUCESIÓN PROCESAL
+## Artículo 51. Sucesión procesal
 
 Fallecido un litigante o declarado ausente, el proceso continuará con el cónyuge o compañero (a) permanente, el albacea con tenencia de bienes, los herederos o el correspondiente curador.
 

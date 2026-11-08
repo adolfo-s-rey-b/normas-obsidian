@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "9"
-epigrafe: "OTRAS INVERSIONES ADMISIBLES"
+epigrafe: "Otras Inversiones Admisibles"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo II|CAPÍTULO II - ESTABLECIMIENTOS BANCARIOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo II|Capítulo II]]
 
-## Artículo 9. OTRAS INVERSIONES ADMISIBLES
+## Artículo 9. Otras Inversiones Admisibles
 
 1\. Inversiones admisibles. Todo establecimiento bancario, con sujeción a las restricciones y limitaciones impuestas por las leyes, podrá efectuar las siguientes inversiones:
 

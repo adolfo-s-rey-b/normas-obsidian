@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "301"
-epigrafe: "CALIDADES"
+epigrafe: "Calidades"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título X|TÍTULO X - EL MINISTERIO PÚBLICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título X|Título X]]
 
-## Artículo 301. CALIDADES
+## Artículo 301. Calidades
 
 Los procuradores delegados y judiciales deberán reunir las mismas calidades que se requieren para ser miembros de la corporación ante la cual habrán de actuar.
 

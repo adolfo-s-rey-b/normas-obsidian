@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "473"
-epigrafe: "CONDICIÓN PARA LA REVOCATORIA"
+epigrafe: "Condición para la revocatoria"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo III|CAPÍTULO III - LIBERTAD CONDICIONAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 473. CONDICIÓN PARA LA REVOCATORIA
+## Artículo 473. Condición para la revocatoria
 
 La revocatoria se decretará por el juez de ejecución de penas y medidas de seguridad de oficio o a petición de los encargados de la vigilancia, cuando aparezca demostrado que se han violado las obligaciones contraídas.
 

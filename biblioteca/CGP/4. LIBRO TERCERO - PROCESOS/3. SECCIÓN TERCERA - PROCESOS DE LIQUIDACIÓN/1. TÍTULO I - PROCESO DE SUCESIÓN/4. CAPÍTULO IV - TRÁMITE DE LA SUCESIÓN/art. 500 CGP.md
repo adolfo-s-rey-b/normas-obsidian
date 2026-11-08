@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "500"
-epigrafe: "RESTITUCIÓN DE BIENES POR EL ALBACEA, RENDICIÓN DE CUENTAS Y HONORARIOS"
+epigrafe: "Restitución de bienes por el albacea, rendición de cuentas y honorarios"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 500. RESTITUCIÓN DE BIENES POR EL ALBACEA, RENDICIÓN DE CUENTAS Y HONORARIOS
+## Artículo 500. Restitución de bienes por el albacea, rendición de cuentas y honorarios
 
 El albacea con tenencia de bienes deberá hacer entrega a quien corresponda, de los que haya administrado. La diligencia se practicará con intervención del juez y no se admitirán oposiciones; sin embargo, podrá prescindirse de ella si los asignatarios manifiestan que han recibido los bienes.
 

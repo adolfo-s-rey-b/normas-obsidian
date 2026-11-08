@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "465"
-epigrafe: "ENTIDAD COMPETENTE"
+epigrafe: "Entidad competente"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo II|CAPÍTULO II - EJECUCIÓN DE MEDIDAS DE SEGURIDAD]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 465. ENTIDAD COMPETENTE
+## Artículo 465. Entidad competente
 
 El tratamiento de los inimputables por trastorno mental estará a cargo del Sistema General de Seguridad Social en Salud, a quien corresponderá la ejecución de las medidas de protección y seguridad.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "30"
-epigrafe: "PRIMERA AUDIENCIA DE TRÁMITE"
+epigrafe: "Primera audiencia de trámite"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 30. PRIMERA AUDIENCIA DE TRÁMITE
+## Artículo 30. Primera audiencia de trámite
 
 Una vez consignada la totalidad de los honorarios y gastos, el tribunal arbitral celebrará la primera audiencia de trámite con la asistencia de todos sus miembros, en la cual resolverá sobre su propia competencia para decidir de fondo la controversia mediante auto que solo es susceptible de recurso de reposición. Si decidiere que no es competente para conocer de ninguna de las pretensiones de la demanda y la reconvención, se extinguirán los efectos del pacto arbitral para el caso concreto, y se devolverá a las partes, tanto la porción de gastos no utilizada, como los honorarios recibidos. En este caso, para conservar los efectos derivados de la presentación de la demanda ante el centro de arbitraje, el demandante tendrá un término de veinte (20) días hábiles para instaurar la demanda ante el juez competente.
 

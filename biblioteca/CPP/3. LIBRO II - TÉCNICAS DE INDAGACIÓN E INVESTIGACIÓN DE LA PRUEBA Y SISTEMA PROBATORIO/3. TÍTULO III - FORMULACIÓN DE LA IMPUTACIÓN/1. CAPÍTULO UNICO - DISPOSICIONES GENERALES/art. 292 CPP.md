@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "292"
-epigrafe: "INTERRUPCIÓN DE LA PRESCRIPCIÓN"
+epigrafe: "Interrupción de la prescripción"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título III|TÍTULO III - FORMULACIÓN DE LA IMPUTACIÓN]]"
 capitulo: "[[CPP - Libro II - Título III - Capítulo Unico|CAPÍTULO UNICO - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título III|Título III]] › [[CPP - Libro II - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 292. INTERRUPCIÓN DE LA PRESCRIPCIÓN
+## Artículo 292. Interrupción de la prescripción
 
 La prescripción de la acción penal se interrumpe con la formulación de la imputación.
 

@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 32 CGD|Artículo 32]] — CAUSALES DE EXTINCIÓN DE LA ACCIÓN DISCIPLINARIA
-- [[art. 33 CGD|Artículo 33]] — PRESCRIPCIÓN E INTERRUPCIÓN DE LA ACCIÓN DISCIPLINARIA
-- [[art. 34 CGD|Artículo 34]] — RENUNCIA A LA PRESCRIPCIÓN
+- [[art. 32 CGD|Artículo 32]] — Causales de extinción de la acción disciplinaria
+- [[art. 33 CGD|Artículo 33]] — Prescripción e interrupción de la acción disciplinaria
+- [[art. 34 CGD|Artículo 34]] — Renuncia a la prescripción
 
 ---
 ↑ [[CGD - Libro I - Título III|Título III]] · [[CGD - Libro I - Título III - Capítulo II|Capítulo II]] →

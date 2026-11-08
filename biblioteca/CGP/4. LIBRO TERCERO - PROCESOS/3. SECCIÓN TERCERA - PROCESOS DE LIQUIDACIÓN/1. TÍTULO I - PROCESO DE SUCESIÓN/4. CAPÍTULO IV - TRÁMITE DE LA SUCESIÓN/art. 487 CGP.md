@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "487"
-epigrafe: "DISPOSICIONES PRELIMINARES"
+epigrafe: "Disposiciones preliminares"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 487. DISPOSICIONES PRELIMINARES
+## Artículo 487. Disposiciones preliminares
 
 Las sucesiones testadas, intestadas o mixtas se liquidarán por el procedimiento que señala este Capítulo, sin perjuicio del trámite notarial previsto en la ley.
 

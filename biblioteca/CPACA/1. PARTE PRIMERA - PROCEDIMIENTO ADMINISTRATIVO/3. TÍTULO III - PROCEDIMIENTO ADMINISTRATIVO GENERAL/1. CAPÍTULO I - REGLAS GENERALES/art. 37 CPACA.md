@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "37"
-epigrafe: "DEBER DE COMUNICAR LAS ACTUACIONES ADMINISTRATIVAS A TERCEROS"
+epigrafe: "Deber de comunicar las actuaciones administrativas a terceros"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 37. DEBER DE COMUNICAR LAS ACTUACIONES ADMINISTRATIVAS A TERCEROS
+## Artículo 37. Deber de comunicar las actuaciones administrativas a terceros
 
 Cuando en una actuación administrativa de contenido particular y concreto la autoridad advierta que terceras personas puedan resultar directamente afectadas por la decisión, les comunicará la existencia de la actuación, el objeto de la misma y el nombre del peticionario, si lo hubiere, para que puedan constituirse como parte y hacer valer sus derechos.
 

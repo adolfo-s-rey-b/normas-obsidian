@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "122"
-epigrafe: "LIMITACIONES A LAS OPERACIONES ACTIVAS DE CREDITO"
+epigrafe: "Limitaciones a las Operaciones Activas de Crédito"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo I|CAPÍTULO I - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo I|Capítulo I]]
 
-## Artículo 122. LIMITACIONES A LAS OPERACIONES ACTIVAS DE CREDITO
+## Artículo 122. Limitaciones a las Operaciones Activas de Crédito
 
 1\. Operaciones con socios o administradores y sus parientes. Las operaciones autorizadas que determine el Gobierno Nacional y que celebren las entidades vigiladas por la Superintendencia Bancaria, con sus accionistas titulares del cinco por ciento (5%) o más del capital suscrito, con sus administradores, así como las que celebren con los cónyuges y parientes de sus socios y administradores dentro del segundo grado de consanguinidad o de afinidad, o único civil, requerirán para su aprobación del voto unánime de los miembros de junta directiva asistentes a la respectiva reunión.
 

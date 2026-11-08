@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "210"
-epigrafe: "OPORTUNIDAD, TRÁMITE Y EFECTO DE LOS INCIDENTES Y DE OTRAS CUESTIONES ACCESORIAS"
+epigrafe: "Oportunidad, trámite y efecto de los incidentes y de otras cuestiones accesorias"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VIII|CAPÍTULO VIII - NULIDADES E INCIDENTES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 210. OPORTUNIDAD, TRÁMITE Y EFECTO DE LOS INCIDENTES Y DE OTRAS CUESTIONES ACCESORIAS
+## Artículo 210. Oportunidad, trámite y efecto de los incidentes y de otras cuestiones accesorias
 
 El incidente deberá proponerse verbalmente o por escrito durante las audiencias o una vez dictada la sentencia, según el caso, con base en todos los motivos existentes al tiempo de su iniciación, y no se admitirá luego incidente similar, a menos que se trate de hechos ocurridos con posterioridad.
 

@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "322"
-epigrafe: "PRERROGATIVAS Y LIMITACIONES"
+epigrafe: "Prerrogativas y Limitaciones"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 33 Ley 510 de 1999]]"
   - "[[art. 68 Ley 795 de 2003]]"
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 322. PRERROGATIVAS Y LIMITACIONES
+## Artículo 322. Prerrogativas y Limitaciones
 
 1\. Prerrogativas del Fondo. Para el conveniente y eficaz logro de sus objetivos, el Fondo de Garantías de Instituciones Financieras gozará de las siguientes prerrogativas:
 

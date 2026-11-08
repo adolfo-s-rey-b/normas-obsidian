@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "82"
-epigrafe: "TRASLADOS"
+epigrafe: "Traslados"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 82. TRASLADOS
+## Artículo 82. Traslados
 
 Cualquier traslado que deba surtirse en audiencia se cumplirá permitiéndole a la parte respectiva que haga uso de la palabra.
 

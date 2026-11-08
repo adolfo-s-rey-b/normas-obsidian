@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "95"
-epigrafe: "CUMPLIMIENTO DE LAS MEDIDAS"
+epigrafe: "Cumplimiento de las medidas"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 95. CUMPLIMIENTO DE LAS MEDIDAS
+## Artículo 95. Cumplimiento de las medidas
 
 Las medidas cautelares se cumplirán en forma inmediata después de haber sido decretadas, y se notificarán a la parte a quien afectan, una vez cumplidas.
 

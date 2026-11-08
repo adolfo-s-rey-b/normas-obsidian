@@ -13,7 +13,7 @@ articulo: "734"
 epigrafe: "SILENCIO ADMINISTRATIVO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 733 ET]]"
 siguiente: "[[art. 735 ET]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
@@ -25,7 +25,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]

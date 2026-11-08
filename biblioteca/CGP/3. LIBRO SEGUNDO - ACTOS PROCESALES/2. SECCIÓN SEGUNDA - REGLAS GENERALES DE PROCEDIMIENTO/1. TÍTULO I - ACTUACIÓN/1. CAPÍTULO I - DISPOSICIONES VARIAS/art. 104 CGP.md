@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "104"
-epigrafe: "IDIOMA"
+epigrafe: "Idioma"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 104. IDIOMA
+## Artículo 104. Idioma
 
 En el proceso deberá emplearse el idioma castellano.
 

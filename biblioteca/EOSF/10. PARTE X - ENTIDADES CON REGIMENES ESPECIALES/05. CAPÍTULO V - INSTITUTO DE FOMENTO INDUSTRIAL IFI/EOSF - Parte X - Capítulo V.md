@@ -24,12 +24,12 @@ tags:
 
 - [[art. 250 EOSF|Artículo 250]] — ORGANIZACION
 - [[art. 251 EOSF|Artículo 251]] — DIRECCION Y ADMINISTRACION
-- [[art. 252 EOSF|Artículo 252]] — REGIMEN PATRIMONIAL
+- [[art. 252 EOSF|Artículo 252]] — Régimen Patrimonial
 - [[art. 253 EOSF|Artículo 253]] — OPERACIONES
 - [[art. 254 EOSF|Artículo 254]] — RÉGIMEN JURÍDICO DE LOS ACTOS Y CONTRATOS
 - [[art. 255 EOSF|Artículo 255]] — ACTIVIDADES TRANSITORIAS
-- [[art. 256 EOSF|Artículo 256]] — VIGILANCIA Y CONTROL
-- [[art. 257 EOSF|Artículo 257]] — DISPOSICIONES FINALES
+- [[art. 256 EOSF|Artículo 256]] — Vigilancia y Control
+- [[art. 257 EOSF|Artículo 257]] — Disposiciones Finales
 
 ---
 ← [[EOSF - Parte X - Capítulo IV|Capítulo IV]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo VI|Capítulo VI]] →

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "531"
-epigrafe: "LAS OPERACIONES DE FOMENTO DE LA CAJA AGRARIA ESTAN EXENTAS DEL IMPUESTO DE TIMBRE"
+epigrafe: "LAS OPERACIONES DE FOMENTO DE LA CAJA AGRARIA ESTÁN EXENTAS DEL IMPUESTO DE TIMBRE"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título V|TÍTULO V - ACTUACIONES Y DOCUMENTOS EXENTOS DEL IMPUESTO DE TIMBRE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título V|Título V]]
 
-## Artículo 531. LAS OPERACIONES DE FOMENTO DE LA CAJA AGRARIA ESTAN EXENTAS DEL IMPUESTO DE TIMBRE
+## Artículo 531. LAS OPERACIONES DE FOMENTO DE LA CAJA AGRARIA ESTÁN EXENTAS DEL IMPUESTO DE TIMBRE
 
 Estarán exentos del impuesto de timbre nacional, los contratos celebrados por la Caja de Crédito Agrario Industrial y Minero en desarrollo de operaciones de fomento a la producción agropecuaria, industrial y minera hasta por la cantidad de doscientos mil pesos ($200.000). (Valor año base 1976).
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "35"
-epigrafe: "PRODUCTOS NO REQUERIDOS"
+epigrafe: "Productos no requeridos"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo I|CAPÍTULO I - PROTECCIÓN ESPECIAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo I|Capítulo I]]
 
-## Artículo 35. PRODUCTOS NO REQUERIDOS
+## Artículo 35. Productos no requeridos
 
 Cuando el consumidor no haya aceptado expresamente el ofrecimiento de un producto, queda prohibido establecer o renovar dicho ofrecimiento, si este le genera un costo al consumidor. Si con el ofrecimiento se incluye el envío del producto, el consumidor no estará obligado ni a la conservación, ni a gestionar, ni a pagar la devolución de lo recibido.
 

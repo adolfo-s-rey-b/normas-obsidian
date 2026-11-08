@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "10"
-epigrafe: "PROHIBICIONES Y LIMITACIONES"
+epigrafe: "Prohibiciones y Limitaciones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo II|CAPÍTULO II - ESTABLECIMIENTOS BANCARIOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo II|Capítulo II]]
 
-## Artículo 10. PROHIBICIONES Y LIMITACIONES
+## Artículo 10. Prohibiciones y Limitaciones
 
 Todos los establecimientos bancarios estarán sometidos a las siguientes disposiciones:
 

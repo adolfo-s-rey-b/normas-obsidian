@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 73 CGP|Artículo 73]] — DERECHO DE POSTULACIÓN
-- [[art. 74 CGP|Artículo 74]] — PODERES
-- [[art. 75 CGP|Artículo 75]] — DESIGNACIÓN Y SUSTITUCIÓN DE APODERADOS
-- [[art. 76 CGP|Artículo 76]] — TERMINACIÓN DEL PODER
+- [[art. 73 CGP|Artículo 73]] — Derecho de postulación
+- [[art. 74 CGP|Artículo 74]] — Poderes
+- [[art. 75 CGP|Artículo 75]] — Designación y sustitución de apoderados
+- [[art. 76 CGP|Artículo 76]] — Terminación del poder
 - [[art. 77 CGP|Artículo 77]] — FACULTADES DEL APODERADA
 
 ---

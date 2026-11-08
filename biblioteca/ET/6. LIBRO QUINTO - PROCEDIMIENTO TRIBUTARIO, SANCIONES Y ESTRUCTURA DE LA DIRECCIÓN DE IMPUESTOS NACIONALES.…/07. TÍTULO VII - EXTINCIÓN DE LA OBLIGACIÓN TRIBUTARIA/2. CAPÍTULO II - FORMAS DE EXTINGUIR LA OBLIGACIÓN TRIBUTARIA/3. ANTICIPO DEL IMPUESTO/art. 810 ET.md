@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "810"
-epigrafe: "TERMINO PARA DECIDIR SOBRE LA SOLICITUD DE REDUCCIÓN"
+epigrafe: "TÉRMINO PARA DECIDIR SOBRE LA SOLICITUD DE REDUCCIÓN"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Anticipo del impuesto|Anticipo del impuesto]]
 
-## Artículo 810. TERMINO PARA DECIDIR SOBRE LA SOLICITUD DE REDUCCIÓN
+## Artículo 810. TÉRMINO PARA DECIDIR SOBRE LA SOLICITUD DE REDUCCIÓN
 
 (Fuente original compilada: Parágrafo Art. [[art. 19 ET|19]] L.38/69) Las solicitudes presentadas de acuerdo con lo exigido en el artículo anterior, deberán ser resueltas dentro de los dos (2) meses siguientes a la fecha de presentación. Contra la providencia que resuelva la solicitud no cabe recurso alguno.
 

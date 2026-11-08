@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "296"
-epigrafe: "FINALIDAD DE LA RESTRICCIÓN DE LA LIBERTAD"
+epigrafe: "Finalidad de la restricción de la libertad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo I|CAPÍTULO I - DISPOSICIONES COMUNES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 296. FINALIDAD DE LA RESTRICCIÓN DE LA LIBERTAD
+## Artículo 296. Finalidad de la restricción de la libertad
 
 La libertad personal podrá ser afectada dentro de la actuación cuando sea necesaria para evitar la obstrucción de la justicia, o para asegurar la comparecencia del imputado al proceso, la protección de la comunidad y de las víctimas, o para el cumplimiento de la pena.
 

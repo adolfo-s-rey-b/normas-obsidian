@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "14"
-epigrafe: "REQUISITOS DE LA GARANTÍA SUPLEMENTARIA"
+epigrafe: "Requisitos de la garantía suplementaria"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 14. REQUISITOS DE LA GARANTÍA SUPLEMENTARIA
+## Artículo 14. Requisitos de la garantía suplementaria
 
 Las garantías suplementarias deberán constar por escrito, ser de fácil comprensión y con caracteres legibles a simple vista.
 

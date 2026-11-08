@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "243"
-epigrafe: "ENTREGA VIGILADA"
+epigrafe: "Entrega vigilada"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 243. ENTREGA VIGILADA
+## Artículo 243. Entrega vigilada
 
 El fiscal que tuviere motivos razonablemente fundados, de acuerdo con los medios cognoscitivos previstos en este código, para creer que el indiciado o el imputado dirige, o de cualquier forma interviene en el transporte de armas, explosivos, municiones, moneda falsificada, drogas que producen dependencia o también cuando sea informado por agente encubierto o de confianza de la existencia de una actividad criminal continua, previa autorización del Director Nacional o Seccional de Fiscalías, podrá ordenar la realización de entregas vigiladas de objetos cuya posesión, transporte, enajenación, compra, alquiler o simple tenencia se encuentre prohibida. A estos efectos se entiende como entrega vigilada el dejar que la mercancía se transporte en el territorio nacional o salga de él, bajo la vigilancia de una red de agentes de policía judicial especialmente entrenados y adiestrados.
 

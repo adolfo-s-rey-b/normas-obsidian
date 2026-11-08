@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "179"
-epigrafe: "COPIAS REGISTRADAS"
+epigrafe: "Copias registradas"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 179. COPIAS REGISTRADAS
+## Artículo 179. Copias registradas
 
 Cuando la ley exija la inscripción de un documento en un registro público, la copia que se aduzca como prueba deberá llevar la nota de haberse efectuado aquella o certificación anexa sobre la misma. Si no existiere dicha inscripción la copia solo producirá efectos probatorios entre los otorgantes y sus causahabientes.
 

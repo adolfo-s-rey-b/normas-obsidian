@@ -11,7 +11,7 @@ articulo: "1504"
 epigrafe: "INCAPACIDAD ABSOLUTA Y RELATIVA"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título II|TÍTULO II - DE LOS ACTOS Y DECLARACIONES DE VOLUNTAD]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 57 Ley 1996 de 2019]]"
   - "[[art. 2 Ley 1306 de 2009]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título II|Título II]]

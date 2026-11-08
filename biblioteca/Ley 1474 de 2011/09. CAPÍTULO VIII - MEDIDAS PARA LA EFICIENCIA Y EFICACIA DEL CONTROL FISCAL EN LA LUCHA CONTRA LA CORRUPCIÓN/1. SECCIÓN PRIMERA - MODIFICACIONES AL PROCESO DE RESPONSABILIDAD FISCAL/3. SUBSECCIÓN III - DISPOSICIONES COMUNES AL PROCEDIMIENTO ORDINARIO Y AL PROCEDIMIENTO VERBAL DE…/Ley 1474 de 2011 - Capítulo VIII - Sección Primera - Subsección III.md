@@ -22,17 +22,17 @@ tags:
 
 ### Contenido
 
-- [[art. 110 Ley 1474 de 2011|Artículo 110]] — INSTANCIAS
-- [[art. 111 Ley 1474 de 2011|Artículo 111]] — PROCEDENCIA DE LA CESACIÓN DE LA ACCIÓN FISCAL
-- [[art. 112 Ley 1474 de 2011|Artículo 112]] — CITACIONES Y NOTIFICACIONES
-- [[art. 113 Ley 1474 de 2011|Artículo 113]] — CAUSALES DE IMPEDIMENTO Y RECUSACIÓN
+- [[art. 110 Ley 1474 de 2011|Artículo 110]] — Instancias
+- [[art. 111 Ley 1474 de 2011|Artículo 111]] — Procedencia de la cesación de la acción fiscal
+- [[art. 112 Ley 1474 de 2011|Artículo 112]] — Citaciones y notificaciones
+- [[art. 113 Ley 1474 de 2011|Artículo 113]] — Causales de impedimento y recusación
 - [[art. 114 Ley 1474 de 2011|Artículo 114]] — FACULTADES DE INVESTIGACIÓN DE LOS ORGANISMOS DE CONTROL FISCAL
-- [[art. 115 Ley 1474 de 2011|Artículo 115]] — FACULTADES ESPECIALES
-- [[art. 116 Ley 1474 de 2011|Artículo 116]] — UTILIZACIÓN DE MEDIOS TECNOLÓGICOS
-- [[art. 117 Ley 1474 de 2011|Artículo 117]] — INFORME TÉCNICO
-- [[art. 118 Ley 1474 de 2011|Artículo 118]] — DETERMINACIÓN DE LA CULPABILIDAD EN LOS PROCESOS DE RESPONSABILIDAD FISCAL
-- [[art. 119 Ley 1474 de 2011|Artículo 119]] — SOLIDARIDAD
-- [[art. 120 Ley 1474 de 2011|Artículo 120]] — PÓLIZAS
+- [[art. 115 Ley 1474 de 2011|Artículo 115]] — Facultades especiales
+- [[art. 116 Ley 1474 de 2011|Artículo 116]] — Utilización de medios tecnológicos
+- [[art. 117 Ley 1474 de 2011|Artículo 117]] — Informe Técnico
+- [[art. 118 Ley 1474 de 2011|Artículo 118]] — Determinación de la culpabilidad en los procesos de responsabilidad fiscal
+- [[art. 119 Ley 1474 de 2011|Artículo 119]] — Solidaridad
+- [[art. 120 Ley 1474 de 2011|Artículo 120]] — Pólizas
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|Subsección II]] · ↑ [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]]

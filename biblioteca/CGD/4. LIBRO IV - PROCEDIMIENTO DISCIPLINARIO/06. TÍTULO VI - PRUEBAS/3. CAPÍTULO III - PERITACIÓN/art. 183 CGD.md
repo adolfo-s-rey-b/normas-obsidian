@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "183"
-epigrafe: "TRÁMITE DE LA OBJECIÓN DEL DICTAMEN"
+epigrafe: "Tramite de la objeción del dictamen"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 183. TRÁMITE DE LA OBJECIÓN DEL DICTAMEN
+## Artículo 183. Tramite de la objeción del dictamen
 
 El dictamen rendido como prueba de las objeciones no es objetable, pero dentro del término del traslado las partes podrán pedir que se aclare, se adicione o se amplíe.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "156"
-epigrafe: "REGLA GENERAL"
+epigrafe: "Regla general"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IV|CAPÍTULO IV - TÉRMINOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 156. REGLA GENERAL
+## Artículo 156. Regla general
 
 Las actuaciones se desarrollarán con estricto cumplimiento de los términos procesales. Su inobservancia injustificada será sancionada.
 

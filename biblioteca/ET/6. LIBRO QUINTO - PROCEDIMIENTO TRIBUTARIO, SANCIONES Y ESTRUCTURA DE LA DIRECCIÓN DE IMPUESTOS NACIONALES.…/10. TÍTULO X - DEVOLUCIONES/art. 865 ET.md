@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "865"
-epigrafe: "EL GOBIERNO EFECTUARA LAS APROPIACIONES PRESUPUESTALES PARA LAS DEVOLUCIONES"
+epigrafe: "EL GOBIERNO EFECTUARÁ LAS APROPIACIONES PRESUPUESTALES PARA LAS DEVOLUCIONES"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título X|TÍTULO X - DEVOLUCIONES]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título X|Título X]]
 
-## Artículo 865. EL GOBIERNO EFECTUARA LAS APROPIACIONES PRESUPUESTALES PARA LAS DEVOLUCIONES
+## Artículo 865. EL GOBIERNO EFECTUARÁ LAS APROPIACIONES PRESUPUESTALES PARA LAS DEVOLUCIONES
 
 El Gobierno efectuará las apropiaciones presupuestales que sean necesarias para garantizar la devolución de los saldos a favor a que tengan derecho los contribuyentes.
 

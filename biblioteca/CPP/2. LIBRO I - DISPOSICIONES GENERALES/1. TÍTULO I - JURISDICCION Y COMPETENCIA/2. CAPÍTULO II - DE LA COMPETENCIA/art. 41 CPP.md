@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "41"
-epigrafe: "COMPETENCIA PARA EJECUTAR"
+epigrafe: "Competencia para ejecutar"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 41. COMPETENCIA PARA EJECUTAR
+## Artículo 41. Competencia para ejecutar
 
 Ejecutoriado el fallo, el juez de ejecución de penas y medidas de seguridad será competente para los asuntos relacionados con la ejecución de sanción.
 

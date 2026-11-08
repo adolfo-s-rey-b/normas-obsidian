@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "15"
-epigrafe: "CONTRADICCIÓN"
+epigrafe: "Contradicción"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 14 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 15. CONTRADICCIÓN
+## Artículo 15. Contradicción
 
 Las partes tendrán derecho a conocer y controvertir las pruebas, así como a intervenir en su formación, tanto las que sean producidas o incorporadas en el juicio oral y en el incidente de reparación integral, como las que se practiquen en forma anticipada.
 

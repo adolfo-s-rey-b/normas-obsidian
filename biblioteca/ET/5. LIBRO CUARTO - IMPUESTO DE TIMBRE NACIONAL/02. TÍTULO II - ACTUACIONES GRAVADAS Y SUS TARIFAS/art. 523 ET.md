@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "523"
-epigrafe: "ACTUACIONES Y DOCUMENTOS SIN CUANTIA GRAVADOS CON EL IMPUESTO"
+epigrafe: "ACTUACIONES Y DOCUMENTOS SIN CUANTÍA GRAVADOS CON EL IMPUESTO"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título II|TÍTULO II - ACTUACIONES GRAVADAS Y SUS TARIFAS]]"
 vigencia: "modificado"
@@ -42,7 +42,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título II|Título II]]
 
-## Artículo 523. ACTUACIONES Y DOCUMENTOS SIN CUANTIA GRAVADOS CON EL IMPUESTO
+## Artículo 523. ACTUACIONES Y DOCUMENTOS SIN CUANTÍA GRAVADOS CON EL IMPUESTO
 
 Igualmente se encuentran gravadas:
 

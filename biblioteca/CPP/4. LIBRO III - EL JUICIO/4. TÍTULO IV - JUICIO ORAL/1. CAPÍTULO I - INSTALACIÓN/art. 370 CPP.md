@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "370"
-epigrafe: "DECISIÓN DEL JUEZ"
+epigrafe: "Decisión del juez"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo I|CAPÍTULO I - INSTALACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 370. DECISIÓN DEL JUEZ
+## Artículo 370. Decisión del juez
 
 Si el juez aceptare las manifestaciones preacordadas, no podrá imponer una pena superior a la que le ha solicitado la Fiscalía y dará aplicación a lo dispuesto en el artículo [[art. 447 CPP|447]] de este código.
 

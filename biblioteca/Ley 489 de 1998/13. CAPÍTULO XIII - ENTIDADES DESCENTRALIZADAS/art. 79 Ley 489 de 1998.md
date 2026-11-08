@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "79"
-epigrafe: "REGIMEN DISCIPLINARIO DE LOS MIEMBROS DE LOS CONSEJOS Y DE LOS REPRESENTANTES LEGALES DE LOS ESTABLECIMIENTOS PUBLICOS"
+epigrafe: "Régimen disciplinario de los miembros de los consejos y de los representantes legales de los establecimientos públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 78 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 79. REGIMEN DISCIPLINARIO DE LOS MIEMBROS DE LOS CONSEJOS Y DE LOS REPRESENTANTES LEGALES DE LOS ESTABLECIMIENTOS PUBLICOS
+## Artículo 79. Régimen disciplinario de los miembros de los consejos y de los representantes legales de los establecimientos públicos
 
 Además de lo dispuesto en la Constitución Política sobre inhabilidades de los congresistas, diputados y concejales, para ser miembro de los consejos directivos, director, gerente o presidente de los establecimientos públicos, se tendrán en cuenta las prohibiciones, incompatibilidades y sanciones previstas en el Decreto-ley 128 de 1976, la Ley 80 de 1993 y demás normas concordantes que las modifiquen o sustituyan.
 

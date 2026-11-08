@@ -11,7 +11,7 @@ articulo: "333"
 epigrafe: "ACTIVIDADES DISCONTINUAS, INTERMITENTES Y DE SIMPLE VIGILANCIA"
 titulo: "[[CST - Título IX|TÍTULO IX - PRESTACIONES PATRONALES ESPECIALES]]"
 capitulo: "[[CST - Título IX - Capítulo XI|CAPÍTULO XI - TRABAJADORES DE MINAS DE ORO, PLATA Y PLATINO]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 2349 CC]]"
 anterior: "[[art. 332 CST]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título IX|Título IX]] › [[CST - Título IX - Capítulo XI|Capítulo XI]]

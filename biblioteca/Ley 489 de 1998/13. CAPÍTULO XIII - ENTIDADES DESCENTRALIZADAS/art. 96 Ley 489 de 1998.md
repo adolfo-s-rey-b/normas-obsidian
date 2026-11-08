@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "96"
-epigrafe: "CONSTITUCION DE ASOCIACIONES Y FUNDACIONES PARA EL CUMPLIMIENTO DE LAS ACTIVIDADES PROPIAS DE LAS ENTIDADES PUBLICAS CON PARTICIPACION DE PARTICULARES"
+epigrafe: "Constitución de asociaciones y fundaciones para el cumplimiento de las actividades propias de las entidades públicas con participación de particulares"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 95 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 96. CONSTITUCION DE ASOCIACIONES Y FUNDACIONES PARA EL CUMPLIMIENTO DE LAS ACTIVIDADES PROPIAS DE LAS ENTIDADES PUBLICAS CON PARTICIPACION DE PARTICULARES
+## Artículo 96. Constitución de asociaciones y fundaciones para el cumplimiento de las actividades propias de las entidades públicas con participación de particulares
 
 Las entidades estatales, cualquiera sea su naturaleza y orden administrativo podrán, con la observancia de los principios señalados en el artículo [[art. 209 CPol|209]] de la Constitución, asociarse con personas jurídicas particulares, mediante la celebración de convenios de asociación o la creación de personas jurídicas, para el desarrollo conjunto de actividades en relación con los cometidos y funciones que les asigna a aquéllas la ley.
 

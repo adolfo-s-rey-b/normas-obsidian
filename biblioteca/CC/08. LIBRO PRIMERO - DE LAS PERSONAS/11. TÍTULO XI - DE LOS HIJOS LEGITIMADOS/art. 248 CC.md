@@ -11,7 +11,7 @@ articulo: "248"
 epigrafe: "CAUSALES DE IMPUGNACIÓN"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título XI|TÍTULO XI - DE LOS HIJOS LEGITIMADOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 11 Ley 1060 de 2006]]"
 anterior: "[[art. 247 CC]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Primero|Libro Primero]] › [[CC - Libro Primero - Título XI|Título XI]]

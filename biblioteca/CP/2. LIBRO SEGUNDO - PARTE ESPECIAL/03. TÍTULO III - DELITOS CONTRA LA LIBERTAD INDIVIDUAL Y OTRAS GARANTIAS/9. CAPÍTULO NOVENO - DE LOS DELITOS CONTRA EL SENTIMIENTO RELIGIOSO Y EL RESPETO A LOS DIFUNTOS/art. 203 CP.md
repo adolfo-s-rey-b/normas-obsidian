@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "203"
-epigrafe: "DAÑOS O AGRAVIOS A PERSONAS O A COSAS DESTINADAS AL CULTO"
+epigrafe: "Daños o agravios a personas o a cosas destinadas al culto"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título III|TÍTULO III - DELITOS CONTRA LA LIBERTAD INDIVIDUAL Y OTRAS GARANTIAS]]"
 capitulo: "[[CP - Libro Segundo - Título III - Capítulo Noveno|CAPÍTULO NOVENO - DE LOS DELITOS CONTRA EL SENTIMIENTO RELIGIOSO Y EL RESPETO A LOS DIFUNTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título III|Título III]] › [[CP - Libro Segundo - Título III - Capítulo Noveno|Capítulo Noveno]]
 
-## Artículo 203. DAÑOS O AGRAVIOS A PERSONAS O A COSAS DESTINADAS AL CULTO
+## Artículo 203. Daños o agravios a personas o a cosas destinadas al culto
 
 El que cause daño a los objetos destinados a un culto, o a los símbolos de cualquier religión legalmente permitida, o públicamente agravie a tales cultos o a sus miembros en razón de su investidura, incurrirá en multa.
 

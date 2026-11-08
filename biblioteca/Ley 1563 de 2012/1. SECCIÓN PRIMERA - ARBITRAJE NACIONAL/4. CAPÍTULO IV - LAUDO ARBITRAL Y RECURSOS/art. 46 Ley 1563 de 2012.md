@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "46"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 46. COMPETENCIA
+## Artículo 46. Competencia
 
 Para conocer del recurso extraordinario de anulación de laudos arbitrales, será competente la Sala Civil del Tribunal Superior de Distrito Judicial del lugar en donde hubiese funcionado el tribunal de arbitraje.
 

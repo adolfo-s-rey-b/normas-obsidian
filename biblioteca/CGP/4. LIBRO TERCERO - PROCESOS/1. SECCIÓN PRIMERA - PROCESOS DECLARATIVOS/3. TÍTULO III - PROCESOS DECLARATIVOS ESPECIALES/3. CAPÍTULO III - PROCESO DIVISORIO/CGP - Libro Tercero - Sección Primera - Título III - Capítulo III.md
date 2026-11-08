@@ -24,19 +24,19 @@ tags:
 
 ### Contenido
 
-- [[art. 406 CGP|Artículo 406]] — PARTES
-- [[art. 407 CGP|Artículo 407]] — PROCEDENCIA
-- [[art. 408 CGP|Artículo 408]] — LICENCIA PREVIA
-- [[art. 409 CGP|Artículo 409]] — TRASLADO Y EXCEPCIONES
-- [[art. 410 CGP|Artículo 410]] — TRÁMITE DE LA DIVISIÓN
-- [[art. 411 CGP|Artículo 411]] — TRÁMITE DE LA VENTA
-- [[art. 412 CGP|Artículo 412]] — MEJORAS
-- [[art. 413 CGP|Artículo 413]] — GASTOS DE LA DIVISIÓN
-- [[art. 414 CGP|Artículo 414]] — DERECHO DE COMPRA
-- [[art. 415 CGP|Artículo 415]] — DESIGNACIÓN DE ADMINISTRADOR EN EL PROCESO DIVISORIO
-- [[art. 416 CGP|Artículo 416]] — DEBERES DEL ADMINISTRADOR
-- [[art. 417 CGP|Artículo 417]] — DESIGNACIÓN DE ADMINISTRADOR FUERA DE PROCESO DIVISORIO
-- [[art. 418 CGP|Artículo 418]] — DIFERENCIAS ENTRE EL ADMINISTRADOR Y LOS COMUNEROS
+- [[art. 406 CGP|Artículo 406]] — Partes
+- [[art. 407 CGP|Artículo 407]] — Procedencia
+- [[art. 408 CGP|Artículo 408]] — Licencia previa
+- [[art. 409 CGP|Artículo 409]] — Traslado y excepciones
+- [[art. 410 CGP|Artículo 410]] — Trámite de la división
+- [[art. 411 CGP|Artículo 411]] — Trámite de la venta
+- [[art. 412 CGP|Artículo 412]] — Mejoras
+- [[art. 413 CGP|Artículo 413]] — Gastos de la división
+- [[art. 414 CGP|Artículo 414]] — Derecho de compra
+- [[art. 415 CGP|Artículo 415]] — Designación de administrador en el proceso divisorio
+- [[art. 416 CGP|Artículo 416]] — Deberes del administrador
+- [[art. 417 CGP|Artículo 417]] — Designación de administrador fuera de proceso divisorio
+- [[art. 418 CGP|Artículo 418]] — Diferencias entre el administrador y los comuneros
 
 ---
 ← [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] · [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo IV|Capítulo IV]] →

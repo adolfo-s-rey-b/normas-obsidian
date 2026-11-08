@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "101"
-epigrafe: "CONTROL JURISDICCIONAL"
+epigrafe: "Control jurisdiccional"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título IV|TÍTULO IV - PROCEDIMIENTO ADMINISTRATIVO DE COBRO COACTIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título IV|Título IV]]
 
-## Artículo 101. CONTROL JURISDICCIONAL
+## Artículo 101. Control jurisdiccional
 
 Sólo serán demandables ante la Jurisdicción de lo Contencioso Administrativo, en los términos de la Parte Segunda de este Código, los actos administrativos que deciden las excepciones a favor del deudor, los que ordenan llevar adelante la ejecución y los que liquiden el crédito.
 

@@ -11,7 +11,7 @@ articulo: "77"
 epigrafe: "ESTIPULACION"
 titulo: "[[CST - Título II|TÍTULO II - PERIODO DE PRUEBA Y APRENDIZAJE]]"
 capitulo: "[[CST - Título II - Capítulo I|CAPÍTULO I - PERIODO DE PRUEBA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 76 CST]]"
 siguiente: "[[art. 78 CST]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título II|Título II]] › [[CST - Título II - Capítulo I|Capítulo I]]
@@ -33,7 +33,7 @@ tags:
 
 1\. El período de prueba debe ser estipulado por escrito, y en caso contrario los servicios se entienden regulados por las normas generales del contrato de trabajo.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

@@ -11,7 +11,7 @@ articulo: "234"
 epigrafe: "OBJETO SOCIAL BANCO AGRARIO DE COLOMBIA S.A"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo II|CAPÍTULO II - CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO <BANCO AGRARIO DE COLOMBIA>]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 47 Ley 795 de 2003]]"
 derogado_por:
@@ -36,7 +36,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo II|Capítulo II]]

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "54"
-epigrafe: "PROCESO DE ADJUDICACIÓN JUDICIAL DE APOYOS TRANSITORIO"
+epigrafe: "Proceso de adjudicación judicial de apoyos transitorio"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE TRANSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 53 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 54. PROCESO DE ADJUDICACIÓN JUDICIAL DE APOYOS TRANSITORIO
+## Artículo 54. Proceso de adjudicación judicial de apoyos transitorio
 
 Hasta tanto entren en vigencia los artículos contenidos en el Capítulo V de la presente ley, el juez de familia del domicilio de la persona titular del acto jurídico puede determinar de manera excepcional los apoyos necesarios para una persona mayor de edad cuando se encuentre absolutamente imposibilitada para expresar su voluntad y preferencias por cualquier medio, siempre que sea necesario para garantizar el ejercicio y la protección de los derechos de la persona titular del acto.
 

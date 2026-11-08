@@ -22,30 +22,30 @@ tags:
 
 ### Contenido
 
-- [[art. 422 CGP|Artículo 422]] — TÍTULO EJECUTIVO
-- [[art. 423 CGP|Artículo 423]] — REQUERIMIENTO PARA CONSTITUIR EN MORA Y NOTIFICACIÓN DE LA CESIÓN DEL CRÉDITO
-- [[art. 424 CGP|Artículo 424]] — EJECUCIÓN POR SUMAS DE DINERO
-- [[art. 425 CGP|Artículo 425]] — REGULACIÓN O PÉRDIDA DE INTERESES; REDUCCIÓN DE LA PENA, HIPOTECA O PRENDA, Y FIJACIÓN DE LA TASA DE CAMBIO PARA EL PAGO EN PESOS DE OBLIGACIONES EN MONEDA EXTRANJERA
-- [[art. 426 CGP|Artículo 426]] — EJECUCIÓN POR OBLIGACIÓN DE DAR O HACER
-- [[art. 427 CGP|Artículo 427]] — EJECUCIÓN POR OBLIGACIÓN DE NO HACER Y POR OBLIGACIÓN CONDICIONAL
-- [[art. 428 CGP|Artículo 428]] — EJECUCIÓN POR PERJUICIOS
-- [[art. 429 CGP|Artículo 429]] — EJECUCIÓN POR OBLIGACIONES ALTERNATIVAS
-- [[art. 430 CGP|Artículo 430]] — MANDAMIENTO EJECUTIVO
-- [[art. 431 CGP|Artículo 431]] — PAGO DE SUMAS DE DINERO
-- [[art. 432 CGP|Artículo 432]] — OBLIGACIÓN DE DAR
-- [[art. 433 CGP|Artículo 433]] — OBLIGACIÓN DE HACER
-- [[art. 434 CGP|Artículo 434]] — OBLIGACIÓN DE SUSCRIBIR DOCUMENTOS
-- [[art. 435 CGP|Artículo 435]] — OBLIGACIÓN DE NO HACER
-- [[art. 436 CGP|Artículo 436]] — OPORTUNIDAD PARA EL CUMPLIMIENTO FORZADO
-- [[art. 437 CGP|Artículo 437]] — EJECUCIÓN SUBSIDIARIA POR PERJUICIOS
-- [[art. 438 CGP|Artículo 438]] — RECURSOS CONTRA EL MANDAMIENTO EJECUTIVO
-- [[art. 439 CGP|Artículo 439]] — REGULACIÓN DE PERJUICIOS
-- [[art. 440 CGP|Artículo 440]] — CUMPLIMIENTO DE LA OBLIGACIÓN, ORDEN DE EJECUCIÓN Y CONDENA EN COSTAS
-- [[art. 441 CGP|Artículo 441]] — EJECUCIÓN PARA EL COBRO DE CAUCIONES JUDICIALES
-- [[art. 442 CGP|Artículo 442]] — EXCEPCIONES
-- [[art. 443 CGP|Artículo 443]] — TRÁMITE DE LAS EXCEPCIONES
-- [[art. 444 CGP|Artículo 444]] — AVALÚO Y PAGO CON PRODUCTOS
-- [[art. 445 CGP|Artículo 445]] — BENEFICIO DE COMPETENCIA
+- [[art. 422 CGP|Artículo 422]] — Título ejecutivo
+- [[art. 423 CGP|Artículo 423]] — Requerimiento para constituir en mora y notificación de la cesión del crédito
+- [[art. 424 CGP|Artículo 424]] — Ejecución por sumas de dinero
+- [[art. 425 CGP|Artículo 425]] — Regulación o pérdida de intereses; reducción de la pena, hipoteca o prenda, y fijación de la tasa de cambio para el pago en pesos de obligaciones en moneda extranjera
+- [[art. 426 CGP|Artículo 426]] — Ejecución por obligación de dar o hacer
+- [[art. 427 CGP|Artículo 427]] — Ejecución por obligación de no hacer y por obligación condicional
+- [[art. 428 CGP|Artículo 428]] — Ejecución por perjuicios
+- [[art. 429 CGP|Artículo 429]] — Ejecución por obligaciones alternativas
+- [[art. 430 CGP|Artículo 430]] — Mandamiento ejecutivo
+- [[art. 431 CGP|Artículo 431]] — Pago de sumas de dinero
+- [[art. 432 CGP|Artículo 432]] — Obligación de dar
+- [[art. 433 CGP|Artículo 433]] — Obligación de hacer
+- [[art. 434 CGP|Artículo 434]] — Obligación de suscribir documentos
+- [[art. 435 CGP|Artículo 435]] — Obligación de no hacer
+- [[art. 436 CGP|Artículo 436]] — Oportunidad para el cumplimiento forzado
+- [[art. 437 CGP|Artículo 437]] — Ejecución subsidiaria por perjuicios
+- [[art. 438 CGP|Artículo 438]] — Recursos contra el mandamiento ejecutivo
+- [[art. 439 CGP|Artículo 439]] — Regulación de perjuicios
+- [[art. 440 CGP|Artículo 440]] — Cumplimiento de la obligación, orden de ejecución y condena en costas
+- [[art. 441 CGP|Artículo 441]] — Ejecución para el cobro de cauciones judiciales
+- [[art. 442 CGP|Artículo 442]] — Excepciones
+- [[art. 443 CGP|Artículo 443]] — Trámite de las excepciones
+- [[art. 444 CGP|Artículo 444]] — Avalúo y pago con productos
+- [[art. 445 CGP|Artículo 445]] — Beneficio de competencia
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo II|Capítulo II]] →

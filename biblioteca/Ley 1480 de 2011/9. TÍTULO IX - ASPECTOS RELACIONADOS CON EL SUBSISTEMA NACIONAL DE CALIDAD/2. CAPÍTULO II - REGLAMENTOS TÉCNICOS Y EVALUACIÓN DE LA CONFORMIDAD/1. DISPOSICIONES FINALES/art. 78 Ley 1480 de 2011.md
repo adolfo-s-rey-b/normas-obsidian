@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "78"
-epigrafe: "TASAS EN SERVICIOS DE INFORMACIÓN DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO"
+epigrafe: "Tasas en Servicios de Información de la Superintendencia de Industria y Comercio"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 rubro: "[[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 78. TASAS EN SERVICIOS DE INFORMACIÓN DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+## Artículo 78. Tasas en Servicios de Información de la Superintendencia de Industria y Comercio
 
 La Superintendencia de Industria y Comercio podrá cobrar a su favor, en los casos en los que considere conveniente, tasas por los servicios de instrucción, formación, enseñanza o divulgación que preste en los temas relacionados con consumidor, propiedad industrial y protección a la competencia. Para estos efectos, la Entidad podrá fijar la tarifa correspondiente a la recuperación de los costos de los servicios que preste a los usuarios interesados.
 

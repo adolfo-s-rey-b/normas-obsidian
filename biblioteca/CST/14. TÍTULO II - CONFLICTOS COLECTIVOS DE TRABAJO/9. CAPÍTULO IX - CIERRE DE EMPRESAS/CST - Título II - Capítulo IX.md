@@ -24,7 +24,7 @@ tags:
 
 - [[art. 464 CST|Artículo 464]] — EMPRESAS DE SERVICIOS PUBLICOS
 - [[art. 465 CST|Artículo 465]] — INTERVENCION DEL GOBIERNO
-- [[art. 466 CST|Artículo 466]] — EMPRESAS QUE NO SON DE SERVICIO PUBLICO
+- [[art. 466 CST|Artículo 466]] — EMPRESAS QUE NO SON DE SERVICIO PÚBLICO
 
 ---
 ← [[CST - Título II - Capítulo VIII|Capítulo VIII]] · ↑ [[CST - Título II (2)|Título II]]

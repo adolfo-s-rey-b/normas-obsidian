@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "89"
-epigrafe: "MOTIVOS PARA DENEGAR LA EJECUCIÓN DE MEDIDAS CAUTELARES DECRETADAS POR EL TRIBUNAL ARBITRAL"
+epigrafe: "Motivos para denegar la ejecución de medidas cautelares decretadas por el tribunal arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 89. MOTIVOS PARA DENEGAR LA EJECUCIÓN DE MEDIDAS CAUTELARES DECRETADAS POR EL TRIBUNAL ARBITRAL
+## Artículo 89. Motivos para denegar la ejecución de medidas cautelares decretadas por el tribunal arbitral
 
 Para la denegación de la ejecución de medidas cautelares decretadas por el tribunal, se aplicarán las siguientes reglas:
 

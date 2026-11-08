@@ -22,21 +22,21 @@ tags:
 
 ### Contenido
 
-- [[art. 135 CPACA|Artículo 135]] — NULIDAD POR INCONSTITUCIONALIDAD
-- [[art. 136 CPACA|Artículo 136]] — CONTROL INMEDIATO DE LEGALIDAD
+- [[art. 135 CPACA|Artículo 135]] — Nulidad por inconstitucionalidad
+- [[art. 136 CPACA|Artículo 136]] — Control inmediato de legalidad
 - [[art. 136A CPACA|Artículo 136A]] — Control automático de legalidad de fallos con responsabilidad fiscal
-- [[art. 137 CPACA|Artículo 137]] — NULIDAD
-- [[art. 138 CPACA|Artículo 138]] — NULIDAD Y RESTABLECIMIENTO DEL DERECHO
-- [[art. 139 CPACA|Artículo 139]] — NULIDAD ELECTORAL
-- [[art. 140 CPACA|Artículo 140]] — REPARACIÓN DIRECTA
-- [[art. 141 CPACA|Artículo 141]] — CONTROVERSIAS CONTRACTUALES
-- [[art. 142 CPACA|Artículo 142]] — REPETICIÓN
-- [[art. 143 CPACA|Artículo 143]] — PÉRDIDA DE INVESTIDURA
-- [[art. 144 CPACA|Artículo 144]] — PROTECCIÓN DE LOS DERECHOS E INTERESES COLECTIVOS
-- [[art. 145 CPACA|Artículo 145]] — REPARACIÓN DE LOS PERJUICIOS CAUSADOS A UN GRUPO
-- [[art. 146 CPACA|Artículo 146]] — CUMPLIMIENTO DE NORMAS CON FUERZA MATERIAL DE LEY O DE ACTOS ADMINISTRATIVOS
-- [[art. 147 CPACA|Artículo 147]] — NULIDAD DE LAS CARTAS DE NATURALEZA Y DE LAS RESOLUCIONES DE AUTORIZACIÓN DE INSCRIPCIÓN
-- [[art. 148 CPACA|Artículo 148]] — CONTROL POR VÍA DE EXCEPCIÓN
+- [[art. 137 CPACA|Artículo 137]] — Nulidad
+- [[art. 138 CPACA|Artículo 138]] — Nulidad y restablecimiento del derecho
+- [[art. 139 CPACA|Artículo 139]] — Nulidad electoral
+- [[art. 140 CPACA|Artículo 140]] — Reparación directa
+- [[art. 141 CPACA|Artículo 141]] — Controversias contractuales
+- [[art. 142 CPACA|Artículo 142]] — Repetición
+- [[art. 143 CPACA|Artículo 143]] — Pérdida de Investidura
+- [[art. 144 CPACA|Artículo 144]] — Protección de los derechos e intereses colectivos
+- [[art. 145 CPACA|Artículo 145]] — Reparación de los perjuicios causados a un grupo
+- [[art. 146 CPACA|Artículo 146]] — Cumplimiento de normas con fuerza material de ley o de actos administrativos
+- [[art. 147 CPACA|Artículo 147]] — Nulidad de las cartas de naturaleza y de las resoluciones de autorización de inscripción
+- [[art. 148 CPACA|Artículo 148]] — Control por vía de excepción
 - [[art. 148A CPACA|Artículo 148A]] — CONTROL JURISDICCIONAL DE LOS FALLOS DE RESPONSABILIDAD FISCAL
 
 ---

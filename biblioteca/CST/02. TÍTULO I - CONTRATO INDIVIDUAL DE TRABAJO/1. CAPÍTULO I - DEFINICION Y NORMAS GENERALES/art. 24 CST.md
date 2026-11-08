@@ -11,7 +11,7 @@ articulo: "24"
 epigrafe: "PRESUNCION"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo I|CAPÍTULO I - DEFINICION Y NORMAS GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 25 CST]]"
   - "[[art. 46 Decreto 3743 de 1950]]"
@@ -27,7 +27,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo I|Capítulo I]]

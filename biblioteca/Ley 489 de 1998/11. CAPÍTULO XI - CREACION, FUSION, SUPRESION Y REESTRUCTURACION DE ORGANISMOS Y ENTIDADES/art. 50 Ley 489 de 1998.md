@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "50"
-epigrafe: "CONTENIDO DE LOS ACTOS DE CREACION"
+epigrafe: "Contenido de los actos de creación"
 capitulo: "[[Ley 489 de 1998 - Capítulo XI|CAPÍTULO XI - CREACION, FUSION, SUPRESION Y REESTRUCTURACION DE ORGANISMOS Y ENTIDADES]]"
 vigencia: "vigente"
 anterior: "[[art. 49 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XI|Capítulo XI]]
 
-## Artículo 50. CONTENIDO DE LOS ACTOS DE CREACION
+## Artículo 50. Contenido de los actos de creación
 
 La ley que disponga la creación de un organismo o entidad administrativa deberá determinar sus objetivos y estructura orgánica, así mismo determinará el soporte presupuestal de conformidad con los lineamientos fiscales del Ministerio de Hacienda y Crédito Público.
 

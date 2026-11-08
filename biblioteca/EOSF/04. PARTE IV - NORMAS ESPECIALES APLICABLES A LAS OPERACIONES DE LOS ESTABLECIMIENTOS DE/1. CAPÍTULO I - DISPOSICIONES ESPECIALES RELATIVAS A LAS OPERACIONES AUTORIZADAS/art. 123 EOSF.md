@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "123"
-epigrafe: "REGIMEN DE ALGUNAS OPERACIONES PASIVAS"
+epigrafe: "Régimen de Algunas Operaciones Pasivas"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo I|CAPÍTULO I - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo I|Capítulo I]]
 
-## Artículo 123. REGIMEN DE ALGUNAS OPERACIONES PASIVAS
+## Artículo 123. Régimen de Algunas Operaciones Pasivas
 
 1\. Régimen de tasas de interés aplicable a algunas operaciones pasivas de los establecimientos de credito. Los establecimientos de crédito podrán convenir libremente las tasas de interés de las operaciones pasivas que se señalan a continuación:
 

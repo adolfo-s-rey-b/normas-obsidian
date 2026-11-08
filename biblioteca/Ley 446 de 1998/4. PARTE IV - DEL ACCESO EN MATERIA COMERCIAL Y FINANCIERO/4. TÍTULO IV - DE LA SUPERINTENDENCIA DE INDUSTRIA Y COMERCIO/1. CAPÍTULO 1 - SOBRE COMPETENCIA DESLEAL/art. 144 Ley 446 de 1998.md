@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "144"
-epigrafe: "FACULTADES SOBRE COMPETENCIA DESLEAL"
+epigrafe: "Facultades sobre competencia desleal"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título IV|TÍTULO IV - DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 1|CAPÍTULO 1 - SOBRE COMPETENCIA DESLEAL]]"
@@ -28,7 +28,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título IV|Título IV]] › [[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 1|Capítulo 1]]
 
-## Artículo 144. FACULTADES SOBRE COMPETENCIA DESLEAL
+## Artículo 144. Facultades sobre competencia desleal
 
 Los procesos jurisdiccionales que se adelanten ante la Superintendencia de Industria y Comercio en materia de competencia desleal, se seguirán conforme a las disposiciones del proceso abreviado previstas en el Capítulo I, Título XXII, Libro Tercero del Código de Procedimiento Civil. En caso de existir pretensiones indemnizatorias, estas se tramitarán dentro del mismo proceso.
 

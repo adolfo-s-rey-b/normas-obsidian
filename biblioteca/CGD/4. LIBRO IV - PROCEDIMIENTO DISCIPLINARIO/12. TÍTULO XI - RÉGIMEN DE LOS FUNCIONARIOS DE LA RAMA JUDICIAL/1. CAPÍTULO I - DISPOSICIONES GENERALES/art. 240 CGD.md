@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "240"
-epigrafe: "TITULARIDAD DE LA ACCIÓN DISCIPLINARIA"
+epigrafe: "Titularidad de la acción disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 240. TITULARIDAD DE LA ACCIÓN DISCIPLINARIA
+## Artículo 240. Titularidad de la acción disciplinaria
 
 La acción jurisdiccional disciplinaria corresponde al Estado y se ejerce por la Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial.
 

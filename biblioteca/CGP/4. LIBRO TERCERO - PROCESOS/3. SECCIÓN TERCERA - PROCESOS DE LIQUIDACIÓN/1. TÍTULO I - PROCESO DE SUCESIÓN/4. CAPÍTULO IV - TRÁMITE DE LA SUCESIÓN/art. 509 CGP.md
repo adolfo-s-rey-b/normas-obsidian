@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "509"
-epigrafe: "PRESENTACIÓN DE LA PARTICIÓN, OBJECIONES Y APROBACIÓN"
+epigrafe: "Presentación de la partición, objeciones y aprobación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 509. PRESENTACIÓN DE LA PARTICIÓN, OBJECIONES Y APROBACIÓN
+## Artículo 509. Presentación de la partición, objeciones y aprobación
 
 Una vez presentada la partición, se procederá así:
 

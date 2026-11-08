@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "139"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 139. TRÁMITE
+## Artículo 139. Trámite
 
 Siempre que el juez declare su incompetencia para conocer de un proceso ordenará remitirlo al que estime competente. Cuando el juez que reciba el expediente se declare a su vez incompetente solicitará que el conflicto se decida por el funcionario judicial que sea superior funcional común a ambos, al que enviará la actuación. Estas decisiones no admiten recurso.
 

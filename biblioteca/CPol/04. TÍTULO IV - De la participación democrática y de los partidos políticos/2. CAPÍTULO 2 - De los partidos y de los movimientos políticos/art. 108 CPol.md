@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "108"
 titulo: "[[CPol - Título IV|TÍTULO IV - De la participación democrática y de los partidos políticos]]"
 capitulo: "[[CPol - Título IV - Capítulo 2|CAPÍTULO 2 - De los partidos y de los movimientos políticos]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 2 Acto Legislativo 1 de 2009]]"
   - "[[art. 2 Acto Legislativo 1 de 2003]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título IV|Título IV]] › [[CPol - Título IV - Capítulo 2|Capítulo 2]]

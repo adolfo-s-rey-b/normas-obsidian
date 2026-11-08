@@ -22,28 +22,28 @@ tags:
 
 ### Contenido
 
-- [[art. 1 CGD|Artículo 1]] — RECONOCIMIENTO DE LA DIGNIDAD HUMANA
+- [[art. 1 CGD|Artículo 1]] — Reconocimiento de la dignidad humana
 - [[art. 2 CGD|Artículo 2]] — TITULARIDAD DE LA POTESTAD DISCIPLINARIA, FUNCIONES ~~JURISDICCIONALES~~ DE LA PROCURADURÍA GENERAL DE LA NACIÓN E INDEPENDENCIA DE LA ACCIÓN
-- [[art. 3 CGD|Artículo 3]] — PODER DISCIPLINARIO PREFERENTE
-- [[art. 4 CGD|Artículo 4]] — LEGALIDAD
-- [[art. 5 CGD|Artículo 5]] — FINES DE LA SANCIÓN DISCIPLINARIA
-- [[art. 6 CGD|Artículo 6]] — PROPORCIONALIDAD Y RAZONABILIDAD DE LA SANCIÓN DISCIPLINARIA
-- [[art. 7 CGD|Artículo 7]] — IGUALDAD
-- [[art. 8 CGD|Artículo 8]] — FAVORABILIDAD
-- [[art. 9 CGD|Artículo 9]] — ILICITUD SUSTANCIAL
-- [[art. 10 CGD|Artículo 10]] — CULPABILIDAD
-- [[art. 11 CGD|Artículo 11]] — FINES DEL PROCESO DISCIPLINARIO
-- [[art. 12 CGD|Artículo 12]] — DEBIDO PROCESO
-- [[art. 13 CGD|Artículo 13]] — INVESTIGACIÓN INTEGRAL
-- [[art. 14 CGD|Artículo 14]] — PRESUNCIÓN DE INOCENCIA
-- [[art. 15 CGD|Artículo 15]] — DERECHO A LA DEFENSA
-- [[art. 16 CGD|Artículo 16]] — COSA JUZGADA DISCIPLINARIA
-- [[art. 17 CGD|Artículo 17]] — GRATUIDAD DE LA ACTUACIÓN DISCIPLINARIA
-- [[art. 18 CGD|Artículo 18]] — CELERIDAD DE LA ACTUACIÓN DISCIPLINARIA
-- [[art. 19 CGD|Artículo 19]] — MOTIVACIÓN
-- [[art. 20 CGD|Artículo 20]] — CONGRUENCIA
-- [[art. 21 CGD|Artículo 21]] — CLÁUSULA DE EXCLUSIÓN
-- [[art. 22 CGD|Artículo 22]] — PREVALENCIA DE LOS PRINCIPIOS RECTORES E INTEGRACIÓN NORMATIVA
+- [[art. 3 CGD|Artículo 3]] — Poder disciplinario preferente
+- [[art. 4 CGD|Artículo 4]] — Legalidad
+- [[art. 5 CGD|Artículo 5]] — Fines de la sanción disciplinaria
+- [[art. 6 CGD|Artículo 6]] — Proporcionalidad y razonabilidad de la sanción disciplinaria
+- [[art. 7 CGD|Artículo 7]] — Igualdad
+- [[art. 8 CGD|Artículo 8]] — Favorabilidad
+- [[art. 9 CGD|Artículo 9]] — Ilicitud sustancial
+- [[art. 10 CGD|Artículo 10]] — Culpabilidad
+- [[art. 11 CGD|Artículo 11]] — Fines del proceso disciplinario
+- [[art. 12 CGD|Artículo 12]] — Debido proceso
+- [[art. 13 CGD|Artículo 13]] — Investigación integral
+- [[art. 14 CGD|Artículo 14]] — Presunción de inocencia
+- [[art. 15 CGD|Artículo 15]] — Derecho a la defensa
+- [[art. 16 CGD|Artículo 16]] — Cosa juzgada disciplinaria
+- [[art. 17 CGD|Artículo 17]] — Gratuidad de la actuación disciplinaria
+- [[art. 18 CGD|Artículo 18]] — Celeridad de la actuación disciplinaria
+- [[art. 19 CGD|Artículo 19]] — Motivación
+- [[art. 20 CGD|Artículo 20]] — Congruencia
+- [[art. 21 CGD|Artículo 21]] — Cláusula de exclusión
+- [[art. 22 CGD|Artículo 22]] — Prevalencia de los principios rectores e integración normativa
 
 ---
 ↑ [[CGD - Libro I|Libro I]] · [[CGD - Libro I - Título II|Título II]] →

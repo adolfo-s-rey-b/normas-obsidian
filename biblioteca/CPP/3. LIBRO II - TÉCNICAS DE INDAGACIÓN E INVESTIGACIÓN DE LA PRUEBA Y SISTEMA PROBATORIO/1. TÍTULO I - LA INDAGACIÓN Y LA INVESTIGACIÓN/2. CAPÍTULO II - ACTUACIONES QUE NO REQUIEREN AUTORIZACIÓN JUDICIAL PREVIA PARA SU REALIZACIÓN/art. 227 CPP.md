@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "227"
-epigrafe: "ACTA DE LA DILIGENCIA"
+epigrafe: "Acta de la diligencia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 227. ACTA DE LA DILIGENCIA
+## Artículo 227. Acta de la diligencia
 
 En el acta de la diligenciae allanamiento y registro deben identificarse y describirse todas las cosas que hayan sido examinadas o incautadas, el lugar donde fueron encontradas y se dejarán las constancias que soliciten las personas que en ella intervengan. Los propietarios, poseedores o tenedores tendrán derecho a que se les expida copia del acta, si la solicitan.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "86"
-epigrafe: "TRÁMITE PARA LA RECONSTRUCCIÓN"
+epigrafe: "Trámite para la reconstrucción"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 86. TRÁMITE PARA LA RECONSTRUCCIÓN
+## Artículo 86. Trámite para la reconstrucción
 
 En caso de pérdida total o parcial de un expediente se procederá así:
 

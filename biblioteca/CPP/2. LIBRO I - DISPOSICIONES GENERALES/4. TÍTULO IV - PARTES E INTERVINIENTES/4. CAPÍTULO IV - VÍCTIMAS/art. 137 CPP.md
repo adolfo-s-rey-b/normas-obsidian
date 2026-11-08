@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "137"
-epigrafe: "INTERVENCIÓN DE LAS VÍCTIMAS EN LA ACTUACIÓN PENAL"
+epigrafe: "Intervención de las víctimas en la actuación penal"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - VÍCTIMAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 136 CPP]]"
 siguiente: "[[art. 138 CPP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html"
@@ -25,12 +25,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 137. INTERVENCIÓN DE LAS VÍCTIMAS EN LA ACTUACIÓN PENAL
+## Artículo 137. Intervención de las víctimas en la actuación penal
 
 Las víctimas del injusto, en garantía de los derechos a la verdad, la justicia y la reparación, tienen el derecho de intervenir en todas las fases de la actuación penal, de acuerdo con las siguientes reglas:
 
@@ -40,7 +40,7 @@ Las víctimas del injusto, en garantía de los derechos a la verdad, la justicia
 
 3\. Para el ejercicio de sus derechos no es obligatorio que las víctimas estén representadas por un abogado; sin embargo, a partir de la audiencia preparatoria y para intervenir tendrán que ser asistidas por un profesional del derecho o estudiante de consultorio jurídico de facultad de derecho debidamente aprobada.
 
-4.
+4\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

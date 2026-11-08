@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "288"
-epigrafe: "REQUERIMIENTO DE PAGO"
+epigrafe: "Requerimiento de pago"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|TÍTULO SEGUNDO - PROCESO MONITORIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|Título Segundo]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo - Capítulo Único|Capítulo Único]]
 
-## Artículo 288. REQUERIMIENTO DE PAGO
+## Artículo 288. Requerimiento de pago
 
 Si la demanda cumple los requisitos del artículo anterior, el juez requerirá al deudor para que en el plazo de cinco (5) días cumpla la obligación o exponga en la contestación de la demanda las razones concretas que le sirven de sustento para negarla total o parcialmente.
 

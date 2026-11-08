@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "183"
-epigrafe: "OPERACIONES AUTORIZADAS"
+epigrafe: "Operaciones Autorizadas"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo II|CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS]]"
 vigencia: "parcialmente derogado"
@@ -38,7 +38,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo II|Capítulo II]]
 
-## Artículo 183. OPERACIONES AUTORIZADAS
+## Artículo 183. Operaciones Autorizadas
 
 1\. Financiación de primas. Las entidades aseguradoras podrán financiar el pago de las primas de los contratos de seguros que expidan, con sujeción a los términos y condiciones que disponga la Superintendencia Bancaria.
 

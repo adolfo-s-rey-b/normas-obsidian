@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "265"
-epigrafe: "BIENES POSEIDOS EN EL PAIS"
+epigrafe: "BIENES POSEÍDOS EN EL PAÍS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Bienes y derechos que lo integran|Bienes y derechos que lo integran]]
 
-## Artículo 265. BIENES POSEIDOS EN EL PAIS
+## Artículo 265. BIENES POSEÍDOS EN EL PAÍS
 
 (Fuente original compilada: D.2053/74 Art. [[art. 111 ET|111]]) Se entienden poseídos dentro del país:
 

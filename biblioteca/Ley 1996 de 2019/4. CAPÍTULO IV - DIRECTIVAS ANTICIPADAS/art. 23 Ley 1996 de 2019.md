@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "23"
-epigrafe: "CONTENIDO DE LAS DIRECTIVAS ANTICIPADAS"
+epigrafe: "Contenido de las directivas anticipadas"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 22 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 23. CONTENIDO DE LAS DIRECTIVAS ANTICIPADAS
+## Artículo 23. Contenido de las directivas anticipadas
 
 Las directivas anticipadas deberán constar por escrito y contener, como mínimo, los siguientes aspectos:
 

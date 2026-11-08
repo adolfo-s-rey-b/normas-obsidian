@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "81"
-epigrafe: "CONTINUACIÓN DE LA PERSECUCIÓN PENAL PARA LOS DEMÁS IMPUTADOS O PROCESADOS"
+epigrafe: "Continuación de la persecución penal para los demás imputados o procesados"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 81. CONTINUACIÓN DE LA PERSECUCIÓN PENAL PARA LOS DEMÁS IMPUTADOS O PROCESADOS
+## Artículo 81. Continuación de la persecución penal para los demás imputados o procesados
 
 La acción penal deberá continuarse en relación con los imputados o procesados en quienes no concurran las causales de extinción.
 

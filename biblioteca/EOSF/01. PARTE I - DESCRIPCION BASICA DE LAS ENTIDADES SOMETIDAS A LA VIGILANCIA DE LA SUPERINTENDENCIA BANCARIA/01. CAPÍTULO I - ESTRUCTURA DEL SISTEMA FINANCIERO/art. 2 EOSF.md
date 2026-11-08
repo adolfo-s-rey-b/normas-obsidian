@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "2"
-epigrafe: "ESTABLECIMIENTOS DE CREDITO"
+epigrafe: "Establecimientos de Crédito"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo I|CAPÍTULO I - ESTRUCTURA DEL SISTEMA FINANCIERO]]"
 vigencia: "modificado"
@@ -40,7 +40,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo I|Capítulo I]]
 
-## Artículo 2. ESTABLECIMIENTOS DE CREDITO
+## Artículo 2. Establecimientos de Crédito
 
 1\. Establecimientos de crédito. Los establecimientos de crédito comprenden las siguientes clases de instituciones financieras: establecimientos bancarios, corporaciones financieras, corporaciones de ahorro y vivienda* 1 , compañías de financiamiento comercial* 2 y cooperativas financieras.
 

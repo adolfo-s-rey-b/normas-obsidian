@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "7"
-epigrafe: "INTERPRETACION DE LOS DERECHOS PROTEGIDOS"
+epigrafe: "Interpretación de los Derechos Protegidos"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo III|CAPÍTULO III - PRINCIPIOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 7. INTERPRETACION DE LOS DERECHOS PROTEGIDOS
+## Artículo 7. Interpretación de los Derechos Protegidos
 
 Los derechos e intereses protegidos por las Acciones Populares y de Grupo, de conformidad con el artículo [[art. 4 Ley 472 de 1998|4]]o. de la presente ley se observarán y aplicarán de acuerdo a como están definidos y regulados en la Constitución, las leyes y los tratados internacionales que vinculen a Colombia.
 

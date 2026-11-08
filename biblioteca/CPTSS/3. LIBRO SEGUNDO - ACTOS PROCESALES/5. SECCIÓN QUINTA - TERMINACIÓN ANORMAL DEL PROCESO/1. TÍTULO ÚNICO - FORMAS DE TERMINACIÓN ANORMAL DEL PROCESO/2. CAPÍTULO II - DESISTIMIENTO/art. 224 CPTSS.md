@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "224"
-epigrafe: "QUIÉNES NO PUEDEN DESISTIR DE LAS PRETENSIONES"
+epigrafe: "Quiénes no pueden desistir de las pretensiones"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - FORMAS DE TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CPTSS - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 224. QUIÉNES NO PUEDEN DESISTIR DE LAS PRETENSIONES
+## Artículo 224. Quiénes no pueden desistir de las pretensiones
 
 1\. Los incapaces y sus representantes, a menos que previamente obtengan licencia judicial.
 

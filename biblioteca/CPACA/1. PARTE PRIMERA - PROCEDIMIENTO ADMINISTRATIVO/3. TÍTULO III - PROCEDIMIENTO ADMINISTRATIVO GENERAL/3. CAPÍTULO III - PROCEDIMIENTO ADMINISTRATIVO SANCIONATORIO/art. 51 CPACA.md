@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "51"
-epigrafe: "DE LA RENUENCIA A SUMINISTRAR INFORMACIÓN"
+epigrafe: "De la renuencia a suministrar información"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 51. DE LA RENUENCIA A SUMINISTRAR INFORMACIÓN
+## Artículo 51. De la renuencia a suministrar información
 
 Las personas particulares, sean estas naturales o jurídicas, que se rehúsen a presentar los informes o documentos requeridos en el curso de las investigaciones administrativas, los oculten, impidan o no autoricen el acceso a sus archivos a los funcionarios competentes, o remitan la información solicitada con errores significativos o en forma incompleta, serán sancionadas con multa a favor del Tesoro Nacional o de la respectiva entidad territorial, según corresponda, hasta de cien (100) salarios mínimos mensuales legales vigentes al momento de la ocurrencia de los hechos. La autoridad podrá imponer multas sucesivas al renuente, en los términos del artículo [[art. 90 CPACA|90]] de este Código.
 

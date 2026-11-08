@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "151"
-epigrafe: "NORMAS COMUNES A LOS FIDEICOMISOS DE INVERSION"
+epigrafe: "Normas Comunes a los Fideicomisos de Inversión"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo II|CAPÍTULO II - NORMAS SOBRE EL FIDEICOMISO DE INVERSION]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 111 Decreto 2175 de 2007]]"
   - "[[art. 12.2.1.1.4 Decreto 2555 de 2010]]"
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo II|Capítulo II]]
 
-## Artículo 151. NORMAS COMUNES A LOS FIDEICOMISOS DE INVERSION
+## Artículo 151. Normas Comunes a los Fideicomisos de Inversión
 
 1\. Remuneración del fiduciario.
 

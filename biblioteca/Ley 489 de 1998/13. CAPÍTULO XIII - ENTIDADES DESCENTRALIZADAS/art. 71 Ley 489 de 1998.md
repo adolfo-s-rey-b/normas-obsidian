@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "71"
-epigrafe: "AUTONOMIA ADMINISTRATIVA Y FINANCIERA"
+epigrafe: "Autonomía administrativa y financiera"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 70 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 71. AUTONOMIA ADMINISTRATIVA Y FINANCIERA
+## Artículo 71. Autonomía administrativa y financiera
 
 La autonomía administrativa y financiera de los establecimientos públicos se ejercerá conforme a los actos que los rigen y en el cumplimiento de sus funciones, se ceñirán a la ley o norma que los creó o autorizó y a sus estatutos internos; y no podrán desarrollar actividades o ejecutar actos distintos de los allí previstos ni destinar cualquier parte de sus bienes o recursos para fines diferentes de los contemplados en ellos.
 

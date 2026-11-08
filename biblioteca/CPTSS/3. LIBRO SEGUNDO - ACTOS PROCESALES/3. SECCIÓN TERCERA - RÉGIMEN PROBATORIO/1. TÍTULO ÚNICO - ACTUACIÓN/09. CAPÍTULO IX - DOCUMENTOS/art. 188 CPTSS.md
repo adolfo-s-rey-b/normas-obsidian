@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "188"
-epigrafe: "LIBROS Y PAPELES DE COMERCIO"
+epigrafe: "Libros y papeles de comercio"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 188. LIBROS Y PAPELES DE COMERCIO
+## Artículo 188. Libros y papeles de comercio
 
 Para los efectos de este código, los libros y papeles de comercio, empleados conforme a las normas que le sean aplicables, se tendrán como medio de prueba y harán fe contra quien los lleva de forma clara y completa.
 

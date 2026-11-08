@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "258"
-epigrafe: "TRASLADO DE CONTENEDOR"
+epigrafe: "Traslado de contenedor"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo V|CAPÍTULO V - CADENA DE CUSTODIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 258. TRASLADO DE CONTENEDOR
+## Artículo 258. Traslado de contenedor
 
 El funcionario de policía judicial o el servidor público que hubiere recogido, embalado y rotulado el elemento material probatorio y evidencia física, lo trasladará al laboratorio correspondiente, donde lo entregará en la oficina de correspondencia o la que haga sus veces, bajo el recibo que figura en el formato de cadena de custodia.
 

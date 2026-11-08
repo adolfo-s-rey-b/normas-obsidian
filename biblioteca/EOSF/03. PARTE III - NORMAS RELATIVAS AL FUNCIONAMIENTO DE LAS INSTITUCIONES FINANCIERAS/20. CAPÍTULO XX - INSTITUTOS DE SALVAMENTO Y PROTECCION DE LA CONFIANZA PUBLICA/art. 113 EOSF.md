@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "113"
-epigrafe: "MEDIDAS PREVENTIVAS DE LA TOMA DE POSESION"
+epigrafe: "Medidas Preventivas de la Toma de Posesión"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XX|CAPÍTULO XX - INSTITUTOS DE SALVAMENTO Y PROTECCION DE LA CONFIANZA PUBLICA]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XX|Capítulo XX]]
 
-## Artículo 113. MEDIDAS PREVENTIVAS DE LA TOMA DE POSESION
+## Artículo 113. Medidas Preventivas de la Toma de Posesión
 
 Sin perjuicio de las medidas que las entidades financieras deban adoptar en cumplimiento de las disposiciones que dicte el Gobierno Nacional en ejercicio de las facultades que le confiere el artículo [[art. 48 EOSF|48]] , literal i), de este Estatuto, la Superintendencia Bancaria podrá adoptar individualmente las medidas previstas en los numerales 1, 2, 3, 4, 5, 6 y 7 de este artículo.
 

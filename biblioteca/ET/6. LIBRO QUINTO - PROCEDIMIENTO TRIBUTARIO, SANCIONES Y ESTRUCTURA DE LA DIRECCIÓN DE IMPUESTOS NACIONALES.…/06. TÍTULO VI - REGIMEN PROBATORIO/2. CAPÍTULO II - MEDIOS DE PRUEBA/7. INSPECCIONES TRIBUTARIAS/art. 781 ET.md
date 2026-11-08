@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "781"
-epigrafe: "LA NO PRESENTACIÓN DE LOS LIBROS DE CONTABILIDAD SERA INDICIO EN CONTRA DEL CONTRIBUYENTE"
+epigrafe: "LA NO PRESENTACIÓN DE LOS LIBROS DE CONTABILIDAD SERÁ INDICIO EN CONTRA DEL CONTRIBUYENTE"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Inspecciones tributarias|Inspecciones tributarias]]
 
-## Artículo 781. LA NO PRESENTACIÓN DE LOS LIBROS DE CONTABILIDAD SERA INDICIO EN CONTRA DEL CONTRIBUYENTE
+## Artículo 781. LA NO PRESENTACIÓN DE LOS LIBROS DE CONTABILIDAD SERÁ INDICIO EN CONTRA DEL CONTRIBUYENTE
 
 El contribuyente que no presente sus libros, comprobantes y demás documentos de contabilidad cuando la administración lo exija, no podrá invocarlos posteriormente como prueba en su favor y tal hecho se tendrá como indicio en su contra. En tales casos se desconocerán los correspondientes costos, deducciones, descuentos y pasivos, salvo que el contribuyente los acredite plenamente. Unicamente se aceptará como causa justificativa de la no presentación, la comprobación plena de hechos constitutivos de fuerza mayor o caso fortuito.
 

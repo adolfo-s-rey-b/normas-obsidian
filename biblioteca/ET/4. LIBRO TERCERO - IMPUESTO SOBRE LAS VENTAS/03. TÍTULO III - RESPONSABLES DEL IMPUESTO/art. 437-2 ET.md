@@ -13,14 +13,13 @@ articulo: "437-2"
 epigrafe: "AGENTES DE RETENCIÓN EN EL IMPUESTO SOBRE LAS VENTAS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título III|TÍTULO III - RESPONSABLES DEL IMPUESTO]]"
-vigencia: "parcialmente inexequible"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 49 Ley 488 de 1998]]"
   - "[[art. 20 Ley 2010 de 2019]]"
   - "[[art. 180 Ley 1819 de 2016]]"
   - "[[art. 18 Ley 1943 de 2018]]"
   - "[[art. 25 Ley 633 de 2000]]"
-  - "[[art. 401-4 ET]]"
   - "[[art. 25 Ley 2277 de 2022]]"
   - "[[art. 93 Ley 788 de 2002]]"
   - "[[art. 13 Ley 1430 de 2010]]"
@@ -51,7 +50,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/parcialmente_inexequible
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título III|Título III]]
@@ -82,7 +81,7 @@ La Nación, los departamentos, el distrito capital, y los distritos especiales, 
 
 > [!info] Notas de Vigencia: * Las normas que se refieran al régimen común y al régimen simplificado, continúan referidas al régimen de responsabilidad del Impuesto sobre las Ventas (IVA), según lo dispuesto por el artículo [[art. 20 Ley 2010 de 2019|20]] de la Ley 2010 de 2019, -'por medio de la cual se adoptan normas para la promoción del crecimiento económico, el empleo, la inversión, el fortalecimiento de las finanzas públicas y la progresividad, equidad y eficiencia del sistema tributario, de acuerdo con los objetivos que sobre la materia impulsaron la Ley 1943 de 2018 y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.179 de 27 de diciembre 2019- . Continúan eliminadas todas las referencias al régimen simplificado del impuesto a las ventas. * Las normas que se refieran al régimen común y al régimen simplificado, se entenderán referidas al régimen de responsabilidad del Impuesto sobre las Ventas (IVA), según lo dispuesto por el artículo [[art. 18 Ley 1943 de 2018|18]] Ley 1943 de 2018 -'por la cual se expiden normas de financiamiento para el restablecimiento del equilibrio del presupuesto general y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.820 de 28 de diciembre de 2018-. - Numeral modificado por el artículo [[art. 180 Ley 1819 de 2016|180]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016.
 
-4.
+4\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 376 Ley 1819 de 2016|376]] de la Ley 1819 de 2016
 
@@ -94,7 +93,7 @@ La Nación, los departamentos, el distrito capital, y los distritos especiales, 
 
 Cuando los pagos o abonos en cuenta en favor de las personas o establecimientos afiliados a los sistemas de tarjetas de crédito o débito, se realicen por intermedio de las entidades adquirentes o pagadoras, la retención en la fuente deberá ser practicada por dichas entidades .
 
-> [!info] Notas del Editor: En criterio del editor, para la interpretación de este numeral, debe tenerse en cuenta lo dispuesto por el artículo [[art. 401-4 ET|401-4]] del presente Estatuto, adicionado por artículo [[art. 25 Ley 2277 de 2022|25]] de la Ley 2277 de 2022, 'por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.247 de 13 de diciembre de 2022. Cuyo texto original establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) ' Artículo 401-4 . Retención en la fuente en pagos de tarjetas débito y crédito . Los pagos o abonos en cuenta susceptibles de constituir ingreso tributario a favor de las personas naturales no responsables de IVA por actividades ordinarias provenientes de transferencias en o a través de proveedores de servicios de pago, agregadores, entidades adquirentes o pagadoras, no estarán sujetos a retención en la fuente por impuesto de renta. '.
+> [!info] Notas del Editor: En criterio del editor, para la interpretación de este numeral, debe tenerse en cuenta lo dispuesto por el artículo 401-4 del presente Estatuto, adicionado por artículo [[art. 25 Ley 2277 de 2022|25]] de la Ley 2277 de 2022, 'por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.247 de 13 de diciembre de 2022. Cuyo texto original establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) ' Artículo 401-4 . Retención en la fuente en pagos de tarjetas débito y crédito . Los pagos o abonos en cuenta susceptibles de constituir ingreso tributario a favor de las personas naturales no responsables de IVA por actividades ordinarias provenientes de transferencias en o a través de proveedores de servicios de pago, agregadores, entidades adquirentes o pagadoras, no estarán sujetos a retención en la fuente por impuesto de renta. '.
 
 > [!info] Notas de Vigencia: Numeral 5. adicionado por el artículo [[art. 25 Ley 633 de 2000|25]] de la Ley 633 de 2000, publicado en el Diario Oficial No. 44.275, del 29 de diciembre de 2000.
 

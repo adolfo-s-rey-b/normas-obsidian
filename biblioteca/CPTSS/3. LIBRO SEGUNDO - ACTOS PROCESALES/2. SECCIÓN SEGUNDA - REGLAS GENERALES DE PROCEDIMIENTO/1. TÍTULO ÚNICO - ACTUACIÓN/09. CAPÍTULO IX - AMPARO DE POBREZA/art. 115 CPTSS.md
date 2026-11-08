@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "115"
-epigrafe: "REMUNERACIÓN DE AUXILIARES DE LA JUSTICIA"
+epigrafe: "Remuneración de auxiliares de la justicia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 115. REMUNERACIÓN DE AUXILIARES DE LA JUSTICIA
+## Artículo 115. Remuneración de auxiliares de la justicia
 
 El juez fijará los honorarios de los auxiliares de la justicia conforme a las reglas generales, los que serán pagados por la parte contraria si fuere condenada en costas, una vez ejecutoriada la providencia que las imponga.
 

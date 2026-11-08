@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "29"
-epigrafe: "OBJETO DE LA JURISDICCIÓN PENAL ORDINARIA"
+epigrafe: "Objeto de la jurisdicción penal ordinaria"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 29. OBJETO DE LA JURISDICCIÓN PENAL ORDINARIA
+## Artículo 29. Objeto de la jurisdicción penal ordinaria
 
 Corresponde a la jurisdicción penal la persecución y el juzgamiento de los delitos cometidos en el territorio nacional, y los cometidos en el extranjero en los casos que determinen los Tratados Internacionales suscritos y ratificados por Colombia y la legislación interna.
 

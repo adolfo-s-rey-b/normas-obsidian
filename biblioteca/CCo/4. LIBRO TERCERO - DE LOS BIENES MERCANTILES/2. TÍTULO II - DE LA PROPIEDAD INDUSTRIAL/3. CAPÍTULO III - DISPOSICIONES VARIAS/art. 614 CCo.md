@@ -12,7 +12,7 @@ epigrafe: "JUEZ COMPETENTE PARA ASUNTOS DE LA PROPIEDAD INDUSTRIAL"
 libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
 titulo: "[[CCo - Libro Tercero - Título II|TÍTULO II - DE LA PROPIEDAD INDUSTRIAL]]"
 capitulo: "[[CCo - Libro Tercero - Título II - Capítulo III|CAPÍTULO III - DISPOSICIONES VARIAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 3 Decreto 2273 de 1989]]"
   - "[[art. 17 CPC]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título II|Título II]] › [[CCo - Libro Tercero - Título II - Capítulo III|Capítulo III]]

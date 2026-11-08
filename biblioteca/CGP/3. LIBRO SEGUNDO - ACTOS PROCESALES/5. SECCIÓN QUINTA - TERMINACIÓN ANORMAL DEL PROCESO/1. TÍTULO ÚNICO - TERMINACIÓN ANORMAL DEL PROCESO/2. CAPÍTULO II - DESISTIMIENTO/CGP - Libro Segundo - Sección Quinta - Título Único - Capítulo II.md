@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 314 CGP|Artículo 314]] — DESISTIMIENTO DE LAS PRETENSIONES
-- [[art. 315 CGP|Artículo 315]] — QUIÉNES NO PUEDEN DESISTIR DE LAS PRETENSIONES
-- [[art. 316 CGP|Artículo 316]] — DESISTIMIENTO DE CIERTOS ACTOS PROCESALES
-- [[art. 317 CGP|Artículo 317]] — DESISTIMIENTO TÁCITO
+- [[art. 314 CGP|Artículo 314]] — Desistimiento de las pretensiones
+- [[art. 315 CGP|Artículo 315]] — Quiénes no pueden desistir de las pretensiones
+- [[art. 316 CGP|Artículo 316]] — Desistimiento de ciertos actos procesales
+- [[art. 317 CGP|Artículo 317]] — Desistimiento tácito
 
 ---
 ← [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "7"
-epigrafe: "IGUALDAD"
+epigrafe: "Igualdad"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 7. IGUALDAD
+## Artículo 7. Igualdad
 
 Las autoridades disciplinarias deberán hacer efectiva la igualdad de los intervinientes en el desarrollo de la actuación procesal y proteger, especialmente, a aquellas personas que por su condición económica, física, mental, se encuentren en circunstancias de debilidad manifiesta. El sexo, la raza, color, la condición social, la profesión, el origen nacional o familiar o étnico, la lengua, el credo religioso, la orientación sexual, la identidad de género, la opinión política o filosófica, las creencias o prácticas culturales en ningún caso podrán ser utilizados dentro del proceso disciplinario como elementos de discriminación.
 

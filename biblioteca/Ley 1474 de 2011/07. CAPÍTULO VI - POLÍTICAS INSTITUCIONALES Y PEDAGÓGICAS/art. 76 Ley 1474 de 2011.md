@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "76"
-epigrafe: "OFICINA DE QUEJAS, SUGERENCIAS Y RECLAMOS"
+epigrafe: "Oficina de Quejas, Sugerencias y Reclamos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VI|CAPÍTULO VI - POLÍTICAS INSTITUCIONALES Y PEDAGÓGICAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 237 Decreto 19 de 2012]]"
 anterior: "[[art. 75 Ley 1474 de 2011]]"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]]
 
-## Artículo 76. OFICINA DE QUEJAS, SUGERENCIAS Y RECLAMOS
+## Artículo 76. Oficina de Quejas, Sugerencias y Reclamos
 
 En toda entidad pública, deberá existir por lo menos una dependencia encargada de recibir, tramitar y resolver las quejas, sugerencias y reclamos que los ciudadanos formulen, y que se relacionen con el cumplimiento de la misión de la entidad.
 

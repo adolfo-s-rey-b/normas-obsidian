@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 459 CPP|Artículo 459]] — EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
-- [[art. 460 CPP|Artículo 460]] — ACUMULACIÓN JURÍDICA
-- [[art. 461 CPP|Artículo 461]] — SUSTITUCIÓN DE LA EJECUCIÓN DE LA PENA
-- [[art. 462 CPP|Artículo 462]] — APLICACIÓN DE LAS PENAS ACCESORIAS
-- [[art. 463 CPP|Artículo 463]] — INFORMES
-- [[art. 464 CPP|Artículo 464]] — REMISIÓN
+- [[art. 459 CPP|Artículo 459]] — Ejecución de penas y medidas de seguridad
+- [[art. 460 CPP|Artículo 460]] — Acumulación jurídica
+- [[art. 461 CPP|Artículo 461]] — Sustitución de la ejecución de la pena
+- [[art. 462 CPP|Artículo 462]] — Aplicación de las penas accesorias
+- [[art. 463 CPP|Artículo 463]] — Informes
+- [[art. 464 CPP|Artículo 464]] — Remisión
 
 ---
 ↑ [[CPP - Libro IV - Título I|Título I]] · [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]] →

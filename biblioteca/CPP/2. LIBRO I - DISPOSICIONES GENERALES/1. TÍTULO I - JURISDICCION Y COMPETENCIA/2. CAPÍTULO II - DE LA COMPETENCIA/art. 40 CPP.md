@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "40"
-epigrafe: "COMPETENCIA PARA IMPONER LAS PENAS Y LAS MEDIDAS DE SEGURIDAD"
+epigrafe: "Competencia para imponer las penas y las medidas de seguridad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 40. COMPETENCIA PARA IMPONER LAS PENAS Y LAS MEDIDAS DE SEGURIDAD
+## Artículo 40. Competencia para imponer las penas y las medidas de seguridad
 
 Anunciado el sentido del fallo, salvo las excepciones establecidas en este código, el juez del conocimiento será competente para imponer las penas y las medidas de seguridad, dentro del término señalado en el capítulo correspondiente.
 

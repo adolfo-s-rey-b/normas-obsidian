@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "90"
-epigrafe: "MEDIDAS CAUTELARES DECRETADAS POR LA AUTORIDAD JUDICIAL"
+epigrafe: "Medidas cautelares decretadas por la autoridad judicial"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 90. MEDIDAS CAUTELARES DECRETADAS POR LA AUTORIDAD JUDICIAL
+## Artículo 90. Medidas cautelares decretadas por la autoridad judicial
 
 Con anterioridad a la iniciación del trámite arbitral o en el curso del mismo, e independientemente que el proceso se adelante en Colombia o en el exterior, cualquiera de las partes podrá acudir a la autoridad judicial para que decrete medidas cautelares. La autoridad judicial ejercerá dicha competencia de conformidad con su propia ley procesal y teniendo en cuenta los rasgos distintivos de un arbitraje internacional.
 

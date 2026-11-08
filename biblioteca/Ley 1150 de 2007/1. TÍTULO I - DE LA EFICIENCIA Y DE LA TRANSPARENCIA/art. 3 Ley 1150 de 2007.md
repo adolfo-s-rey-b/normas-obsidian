@@ -6,7 +6,7 @@ norma: "Ley 1150 de 2007"
 articulo: "3"
 epigrafe: "DE LA CONTRATACIÓN PÚBLICA ELECTRÓNICA"
 titulo: "[[Ley 1150 de 2007 - Título I|TÍTULO I - DE LA EFICIENCIA Y DE LA TRANSPARENCIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 65 Ley 1682 de 2013]]"
   - "[[art. 25 Ley 1508 de 2012]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1150_de_2007
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1150 de 2007|Ley 1150 de 2007]] › [[Ley 1150 de 2007 - Título I|Título I]]

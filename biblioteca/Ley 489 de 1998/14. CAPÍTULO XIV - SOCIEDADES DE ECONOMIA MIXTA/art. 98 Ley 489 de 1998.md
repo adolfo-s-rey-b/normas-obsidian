@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "98"
-epigrafe: "CONDICIONES DE PARTICIPACION DE LAS ENTIDADES PUBLICAS"
+epigrafe: "Condiciones de participación de las entidades públicas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIV|CAPÍTULO XIV - SOCIEDADES DE ECONOMIA MIXTA]]"
 vigencia: "vigente"
 anterior: "[[art. 97 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 98. CONDICIONES DE PARTICIPACION DE LAS ENTIDADES PUBLICAS
+## Artículo 98. Condiciones de participación de las entidades públicas
 
 En el acto de constitución de toda sociedad de economía mixta se señalarán las condiciones para la participación del Estado que contenga la disposición que autorice su creación, el carácter nacional, departamental, distrital o municipal de la sociedad; así como su vinculación a los distintos organismos para efectos del control que ha de ejercerse sobre ella.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "343"
-epigrafe: "FECHA DE LA AUDIENCIA PREPARATORIA"
+epigrafe: "Fecha de la audiencia preparatoria"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
 capitulo: "[[CPP - Libro III - Título I - Capítulo II|CAPÍTULO II - AUDIENCIA DE FORMULACIÓN DE ACUSACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]] › [[CPP - Libro III - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 343. FECHA DE LA AUDIENCIA PREPARATORIA
+## Artículo 343. Fecha de la audiencia preparatoria
 
 Antes de finalizar la audiencia de formulación de acusación el juez tomará las siguientes decisiones:
 

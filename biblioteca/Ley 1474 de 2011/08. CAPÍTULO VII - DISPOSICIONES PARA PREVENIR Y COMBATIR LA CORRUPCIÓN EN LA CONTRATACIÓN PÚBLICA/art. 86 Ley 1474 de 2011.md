@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "86"
-epigrafe: "IMPOSICIÓN DE MULTAS, SANCIONES Y DECLARATORIAS DE INCUMPLIMIENTO"
+epigrafe: "Imposición de multas, sanciones y declaratorias de incumplimiento"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 86. IMPOSICIÓN DE MULTAS, SANCIONES Y DECLARATORIAS DE INCUMPLIMIENTO
+## Artículo 86. Imposición de multas, sanciones y declaratorias de incumplimiento
 
 Las entidades sometidas al Estatuto General de Contratación de la Administración Pública podrán declarar el incumplimiento, cuantificando los perjuicios del mismo, imponer las multas y sanciones pactadas en el contrato, y hacer efectiva la cláusula penal. Para tal efecto observarán el siguiente procedimiento:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "170"
-epigrafe: "SOLICITUD Y DECRETO DE LA INSPECCIÓN"
+epigrafe: "Solicitud y decreto de la inspección"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 170. SOLICITUD Y DECRETO DE LA INSPECCIÓN
+## Artículo 170. Solicitud y decreto de la inspección
 
 Quien pida la inspección expresará con claridad y precisión los hechos que pretende probar.
 

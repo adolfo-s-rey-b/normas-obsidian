@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "105"
-epigrafe: "DECLARACIÓN DE IMPEDIMENTO"
+epigrafe: "Declaración de impedimento"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título III|TÍTULO III - IMPEDIMENTOS Y RECUSACIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título III|Título III]]
 
-## Artículo 105. DECLARACIÓN DE IMPEDIMENTO
+## Artículo 105. Declaración de impedimento
 
 El servidor público en quien concurra cualquiera de las anteriores causales debe declararse inmediatamente impedido, una vez la advierta, mediante escrito en el que exprese las razones, señale la causal y, si fuere posible, aporte las pruebas pertinentes.
 

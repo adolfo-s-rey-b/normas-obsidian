@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 176 EOSF|Artículo 176]] — REGLAS DE FUNCIONAMIENTO
-- [[art. 177 EOSF|Artículo 177]] — VIGILANCIA Y CONTROL
+- [[art. 176 EOSF|Artículo 176]] — Reglas de Funcionamiento
+- [[art. 177 EOSF|Artículo 177]] — Vigilancia y Control
 
 ---
 ↑ [[EOSF - Parte V - Capítulo VII|Capítulo VII]]

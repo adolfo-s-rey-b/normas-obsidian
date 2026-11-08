@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "323"
-epigrafe: "APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD"
+epigrafe: "Aplicación del principio de oportunidad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 323. APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD
+## Artículo 323. Aplicación del principio de oportunidad
 
 La Fiscalía General de la Nación, en la indagación, en la investigación o en el juicio hasta antes de la audiencia de juzgamiento, podrá suspender, interrumpir o renunciar a la persecución penal, en los casos que establece este código para la aplicación del principio de oportunidad.
 

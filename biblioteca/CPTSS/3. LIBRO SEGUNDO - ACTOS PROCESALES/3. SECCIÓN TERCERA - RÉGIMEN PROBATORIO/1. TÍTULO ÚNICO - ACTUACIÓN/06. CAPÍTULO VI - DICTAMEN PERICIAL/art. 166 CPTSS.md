@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "166"
-epigrafe: "DEBER DE COLABORACIÓN DE LAS PARTES"
+epigrafe: "Deber de colaboración de las partes"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 166. DEBER DE COLABORACIÓN DE LAS PARTES
+## Artículo 166. Deber de colaboración de las partes
 
 Las partes tienen el deber de colaborar con el perito, de facilitarle los datos, objetos y el acceso a los lugares necesarios para el desempeño de su cargo; si alguno no lo hiciere se hará constar así en el dictamen y el juez apreciará tal conducta como indicio en su contra.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "319"
-epigrafe: "DE LA CAUCIÓN"
+epigrafe: "De la caución"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 319. DE LA CAUCIÓN
+## Artículo 319. De la caución
 
 Fijada por el juez una caución, el obligado con la misma, si carece de recursos suficientes para prestarla, deberá demostrar suficientemente esa incapacidad así como la cuantía que podría atender dentro del plazo que se le señale.
 

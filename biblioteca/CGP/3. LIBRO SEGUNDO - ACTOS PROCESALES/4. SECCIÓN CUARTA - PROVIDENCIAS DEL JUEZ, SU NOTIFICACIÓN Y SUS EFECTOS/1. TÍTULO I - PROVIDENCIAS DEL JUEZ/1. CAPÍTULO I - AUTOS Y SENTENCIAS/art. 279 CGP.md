@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "279"
-epigrafe: "FORMALIDADES"
+epigrafe: "Formalidades"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título I|TÍTULO I - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] › [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 279. FORMALIDADES
+## Artículo 279. Formalidades
 
 Salvo los autos que se limiten a disponer un trámite, las providencias serán motivadas de manera breve y precisa. No se podrá hacer transcripciones o reproducciones de actas, decisiones o conceptos que obren en el expediente. Las citas jurisprudenciales y doctrinales se limitarán a las que sean estrictamente necesarias para la adecuada fundamentación de la providencia.
 

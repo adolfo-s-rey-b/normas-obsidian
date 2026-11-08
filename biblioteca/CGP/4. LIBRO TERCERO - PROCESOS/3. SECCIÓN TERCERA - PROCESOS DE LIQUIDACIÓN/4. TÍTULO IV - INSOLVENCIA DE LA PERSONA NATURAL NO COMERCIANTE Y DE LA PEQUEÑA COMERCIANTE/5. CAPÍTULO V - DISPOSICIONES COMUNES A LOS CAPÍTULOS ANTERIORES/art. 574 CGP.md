@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "574"
-epigrafe: "SOLICITUD DE UN NUEVO PROCEDIMIENTO DE INSOLVENCIA"
+epigrafe: "Solicitud de un nuevo procedimiento de insolvencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 574. SOLICITUD DE UN NUEVO PROCEDIMIENTO DE INSOLVENCIA
+## Artículo 574. Solicitud de un nuevo procedimiento de insolvencia
 
 El deudor que cumpla un acuerdo de pago, solo podrá solicitar un nuevo procedimiento de insolvencia una vez transcurridos cinco (5) años desde la fecha de cumplimiento total del acuerdo anterior, con base en la certificación expedida por el conciliador. Igual término aplicará para el deudor que desista del procedimiento de negociación de deudas, contado a partir de la fecha de la decisión en la que se aceptó el desistimiento. Las personas naturales que se beneficien de la regla prevista en el numeral 1 del artículo [[art. 571 CGP|571]] solo podrán presentar una nueva solicitud de liquidación judicial o patrimonial a los diez (10) años de iniciado el anterior proceso de liquidación, y las que hayan cubierto con sus bienes el total reconocido dentro del proceso podrán hacerlo transcurridos cinco (5) años.
 

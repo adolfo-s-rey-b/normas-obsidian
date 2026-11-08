@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "362"
-epigrafe: "COMITE DE CALIFICACIONES"
+epigrafe: "COMITÉ DE CALIFICACIONES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título VI|TÍTULO VI - REGIMEN TRIBUTARIO ESPECIAL]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título VI|Título VI]]
 
-## Artículo 362. COMITE DE CALIFICACIONES
+## Artículo 362. COMITÉ DE CALIFICACIONES
 
 El comité de entidades sin ánimo de lucro estará integrado por el Ministro de Hacienda y Crédito Público o su delegado, quien lo presidirá, el Director de Aduanas o su delegado y el Director de Impuestos o su delegado, quien actuará como secretario del mismo.
 

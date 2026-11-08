@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "746-2"
-epigrafe: "PRESENCIA DE TERCEROS EN LA PRACTICA DE PRUEBAS"
+epigrafe: "PRESENCIA DE TERCEROS EN LA PRÁCTICA DE PRUEBAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 746-2. PRESENCIA DE TERCEROS EN LA PRACTICA DE PRUEBAS
+## Artículo 746-2. PRESENCIA DE TERCEROS EN LA PRÁCTICA DE PRUEBAS
 
 Cuando en virtud del cumplimiento de un convenio de intercambio de información para efectos de control tributario y financiero, se requiera la obtención de pruebas por parte de la Administración Tributaria Colombiana, se podrá permitir en su práctica, la presencia de funcionarios del Estado solicitante, o de terceros, así como la formulación, a través de la Autoridad Tributaria Colombiana, de las preguntas que los mismos requieran.
 

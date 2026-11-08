@@ -35,10 +35,10 @@ tags:
 - [[art. 333 EOSF|Artículo 333]]
 - [[art. 334 EOSF|Artículo 334]] — ORGANOS DE ASESORIA Y COORDINACION
 - [[art. 335 EOSF|Artículo 335]]
-- [[art. 336 EOSF|Artículo 336]] — CAJA DE PREVISION SOCIAL DE LA SUPERINTENDENCIA BANCARIA
-- [[art. 337 EOSF|Artículo 337]] — DISPOSICIONES VARIAS
-- [[art. 338 EOSF|Artículo 338]] — INCORPORACION DE LAS NORMAS DICTADAS EN DESARROLLO DE LAS FACULTADES OTORGADAS POR LA LEY 35 DE 1993
-- [[art. 339 EOSF|Artículo 339]] — VIGENCIA Y DEROGATORIAS
+- [[art. 336 EOSF|Artículo 336]] — Caja de Previsión Social de la Superintendencia Bancaria
+- [[art. 337 EOSF|Artículo 337]] — Disposiciones Varias
+- [[art. 338 EOSF|Artículo 338]] — Incorporación de las Normas Dictadas en Desarrollo de las Facultades Otorgadas por la Ley 35 de 1993
+- [[art. 339 EOSF|Artículo 339]] — Vigencia y Derogatorias
 
 ---
 ← [[EOSF - Parte XIII - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte XIII|Parte XIII]]

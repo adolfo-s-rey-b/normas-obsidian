@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "71"
-epigrafe: "INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES"
+epigrafe: "Inhabilidades, impedimentos, incompatibilidades y conflicto de intereses"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título I|TÍTULO I - RÉGIMEN DE LOS PARTICULARES]]"
 capitulo: "[[CGD - Libro III - Título I - Capítulo II|CAPÍTULO II - INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título I|Título I]] › [[CGD - Libro III - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 71. INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES
+## Artículo 71. Inhabilidades, impedimentos, incompatibilidades y conflicto de intereses
 
 Constituyen inhabilidades, impedimentos, incompatibilidades y violación al régimen de conflicto de intereses, para los particulares que ejerzan funciones públicas, las siguientes:
 

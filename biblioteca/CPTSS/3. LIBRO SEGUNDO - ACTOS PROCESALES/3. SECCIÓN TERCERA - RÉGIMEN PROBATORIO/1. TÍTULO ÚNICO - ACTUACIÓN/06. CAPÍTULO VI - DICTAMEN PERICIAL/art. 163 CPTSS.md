@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "163"
-epigrafe: "PRÁCTICA Y CONTRADICCIÓN DEL DICTAMEN DECRETADO DE OFICIO"
+epigrafe: "Práctica y contradicción del dictamen decretado de oficio"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 163. PRÁCTICA Y CONTRADICCIÓN DEL DICTAMEN DECRETADO DE OFICIO
+## Artículo 163. Práctica y contradicción del dictamen decretado de oficio
 
 Rendido el dictamen permanecerá en secretaría a disposición de las partes hasta la fecha de la audiencia respectiva, la cual solo podrá realizarse cuando hayan pasado por lo menos diez (10) días desde la presentación del dictamen.
 

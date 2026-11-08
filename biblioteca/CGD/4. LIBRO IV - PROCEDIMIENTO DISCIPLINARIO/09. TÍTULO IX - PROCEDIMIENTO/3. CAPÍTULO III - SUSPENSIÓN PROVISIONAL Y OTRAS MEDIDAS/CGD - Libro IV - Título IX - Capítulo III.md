@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 217 CGD|Artículo 217]] — SUSPENSIÓN PROVISIONAL
-- [[art. 218 CGD|Artículo 218]] — REINTEGRO DEL SUSPENDIDO
-- [[art. 219 CGD|Artículo 219]] — MEDIDAS PREVENTIVAS
+- [[art. 217 CGD|Artículo 217]] — Suspensión provisional
+- [[art. 218 CGD|Artículo 218]] — Reintegro del suspendido
+- [[art. 219 CGD|Artículo 219]] — Medidas preventivas
 
 ---
 ← [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro IV - Título IX|Título IX]] · [[CGD - Libro IV - Título IX - Capítulo IV|Capítulo IV]] →

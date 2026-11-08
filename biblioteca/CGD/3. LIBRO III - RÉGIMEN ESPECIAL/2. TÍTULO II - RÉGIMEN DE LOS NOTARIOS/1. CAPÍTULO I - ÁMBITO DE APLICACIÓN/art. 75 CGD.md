@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "75"
-epigrafe: "NORMAS APLICABLES"
+epigrafe: "Normas aplicables"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo I|CAPÍTULO I - ÁMBITO DE APLICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 75. NORMAS APLICABLES
+## Artículo 75. Normas aplicables
 
 El Régimen Disciplinario Especial de los particulares también se aplicará a los notarios y comprende el catálogo de faltas imputables a ellos, contempladas en este título.
 

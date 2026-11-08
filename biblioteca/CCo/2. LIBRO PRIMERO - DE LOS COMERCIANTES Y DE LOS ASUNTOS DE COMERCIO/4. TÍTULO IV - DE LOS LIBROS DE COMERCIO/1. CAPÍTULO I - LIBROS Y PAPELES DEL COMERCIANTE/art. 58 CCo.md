@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "58"
-epigrafe: "SANCIONES POR VIOLACIONES A LAS PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO, A LAS OBLIGACIONES DEL COMERCIANTE Y OTRAS"
+epigrafe: "SANCIONES POR VIOLACIONES A LAS PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO, A LAS OBLIGACIONES DEL COMERCIANTE Y OTRAS. ("
 libro: "[[CCo - Libro Primero|LIBRO PRIMERO - DE LOS COMERCIANTES Y DE LOS ASUNTOS DE COMERCIO]]"
 titulo: "[[CCo - Libro Primero - Título IV|TÍTULO IV - DE LOS LIBROS DE COMERCIO]]"
 capitulo: "[[CCo - Libro Primero - Título IV - Capítulo I|CAPÍTULO I - LIBROS Y PAPELES DEL COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Primero|Libro Primero]] › [[CCo - Libro Primero - Título IV|Título IV]] › [[CCo - Libro Primero - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 58. SANCIONES POR VIOLACIONES A LAS PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO, A LAS OBLIGACIONES DEL COMERCIANTE Y OTRAS
+## Artículo 58. SANCIONES POR VIOLACIONES A LAS PROHIBICIONES SOBRE LOS LIBROS DE COMERCIO, A LAS OBLIGACIONES DEL COMERCIANTE Y OTRAS. (
 
 Sin perjuicio de las penas y sanciones establecidas en normas especiales, la violación a las obligaciones, y prohibiciones establecidas en el artículo [[art. 19 CCo|19]] y en el Capítulo I del Título IV del Libro I del Código de Comercio, o el no suministro de la información requerida por las autoridades de conformidad con las normas vigentes, o el incumplimiento de la prohibición de ejercer el comercio, profesión u oficio; proferida por autoridad judicial competente, será sancionada con una multa de hasta dos mil (2.000) salarios mínimos legales mensuales vigentes, si se tratare de personas naturales y de cien mil (100.000) salarios mínimos legales mensuales vigentes en el caso de personas Jurídicas, conforme con lo establecido en el artículo [[art. 50 CPACA|50]] de la Ley 1437 de 2011 o las normas que lo modifiquen o adicionen. La sanción será impuesta por la Superintendencia de Sociedades o el ente de inspección, vigilancia y control correspondiente, según el caso, de oficio o a petición de cualquier persona.
 

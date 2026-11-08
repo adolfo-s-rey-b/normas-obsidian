@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 446 CPP|Artículo 446]] — CONTENIDO
-- [[art. 447 CPP|Artículo 447]] — INDIVIDUALIZACIÓN DE LA PENA Y SENTENCIA
-- [[art. 448 CPP|Artículo 448]] — CONGRUENCIA
-- [[art. 449 CPP|Artículo 449]] — LIBERTAD INMEDIATA
-- [[art. 450 CPP|Artículo 450]] — ACUSADO NO PRIVADO DE LA LIBERTAD
-- [[art. 451 CPP|Artículo 451]] — ACUSADO PRIVADO DE LA LIBERTAD
-- [[art. 452 CPP|Artículo 452]] — SITUACIÓN DE LOS INIMPUTABLES
-- [[art. 453 CPP|Artículo 453]] — REQUERIMIENTO POR OTRA AUTORIDAD
+- [[art. 446 CPP|Artículo 446]] — Contenido
+- [[art. 447 CPP|Artículo 447]] — Individualización de la pena y sentencia
+- [[art. 448 CPP|Artículo 448]] — Congruencia
+- [[art. 449 CPP|Artículo 449]] — Libertad inmediata
+- [[art. 450 CPP|Artículo 450]] — Acusado no privado de la libertad
+- [[art. 451 CPP|Artículo 451]] — Acusado privado de la libertad
+- [[art. 452 CPP|Artículo 452]] — Situación de los inimputables
+- [[art. 453 CPP|Artículo 453]] — Requerimiento por otra autoridad
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo IV|Capítulo IV]] · ↑ [[CPP - Libro III - Título IV|Título IV]]

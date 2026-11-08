@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "28"
-epigrafe: "INVERSIONES"
+epigrafe: "Inversiones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo VI|CAPÍTULO VI - COOPERATIVAS FINANCIERAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo VI|Capítulo VI]]
 
-## Artículo 28. INVERSIONES
+## Artículo 28. Inversiones
 
 Los organismos cooperativos de grado superior de carácter financiero podrán efectuar inversiones en las siguientes instituciones:
 
@@ -73,7 +73,7 @@ ARTICULO 53. INTERVENCION DEL GOBIERNO. Las normas de intervención y regulació
 
 ARTICULO 56. ADECUACION DE LA ESTRUCTURA DE LA SUPERINTENDENCIA BANCARIA. El Gobierno Nacional, en desarrollo de sus facultades constitucionales, adecuará la estructura de la Superintendencia Bancaria para la asunción de las funciones que se derivan de la presente ley con respecto a la inspección, control y vigilancia de las cooperativas financieras y de las cooperativas de ahorro y crédito y multiactivas e integrales con sección de ahorro y crédito.
 
-> [!note] Notas de vigencia: Artículo incorporado por la Ley 454 de 1998, según lo dispuesto por su artículo [[art. 57 EOSF|57]] . Publicada en el Diario Oficial No. 43.357, del 6 de agosto de 1998 El artículo [[art. 57 Ley 454 de 1998|57]] de la Ley 454 de 1998, establece: 'Sustitúyase el título del Capítulo VI de la Parte Primera del Tomo I del Estatuto Orgánico del Sistema Financiero por 'Cooperativas Financieras'. Incorpórense el artículo [[art. 37 EOSF|37]] de la presente ley como numeral 6 del artículo [[art. 2 EOSF|2]] o del Estatuto Orgánico del Sistema Financiero; el actual numeral 6, incorpórese como numeral 7 de la misma disposición. Incorpórense las demás reglas del presente capítulo como capítulo VI de la Parte Primera del Tomo I, bajo el título de 'Cooperativas Financieras' y suprímase el capítulo VI de la Parte Cuarta.
+> [!note] Notas de vigencia: Artículo incorporado por la Ley 454 de 1998, según lo dispuesto por su artículo [[art. 57 EOSF|57]] . Publicada en el Diario Oficial No. 43.357, del 6 de agosto de 1998 El artículo [[art. 57 Ley 454 de 1998|57]] de la Ley 454 de 1998, establece: 'Sustitúyase el título del Capítulo VI de la Parte Primera del Tomo I del Estatuto Orgánico del Sistema Financiero por 'Cooperativas Financieras'. Incorpórense el artículo 37 de la presente ley como numeral 6 del artículo [[art. 2 EOSF|2]] o del Estatuto Orgánico del Sistema Financiero; el actual numeral 6, incorpórese como numeral 7 de la misma disposición. Incorpórense las demás reglas del presente capítulo como capítulo VI de la Parte Primera del Tomo I, bajo el título de 'Cooperativas Financieras' y suprímase el capítulo VI de la Parte Cuarta.
 
 (Notas del Editor: En criterio del editor para la interpretación de este artículo debe tenerse en cuenta lo dispuesto por el artículo [[art. 43 Ley 510 de 1999|43]] de la Ley 510 de 1999, publicada en el Diario Oficial No. 43.654 del 4 de agosto de 1999. El texto referido es el siguiente:
 

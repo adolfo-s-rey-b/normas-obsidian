@@ -14,7 +14,7 @@ epigrafe: "DETERMINACIÓN DE LA TASA DE INTERÉS MORATORIO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Intereses moratorios|INTERESES MORATORIOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 141 Ley 1607 de 2012]]"
   - "[[art. 279 Ley 1819 de 2016]]"
@@ -41,7 +41,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Intereses moratorios|Intereses moratorios]]

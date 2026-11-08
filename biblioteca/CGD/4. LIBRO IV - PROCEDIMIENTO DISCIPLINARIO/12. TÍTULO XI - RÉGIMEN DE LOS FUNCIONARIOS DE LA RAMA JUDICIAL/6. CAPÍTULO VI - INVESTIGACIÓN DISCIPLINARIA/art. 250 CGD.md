@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "250"
-epigrafe: "ARCHIVO DEFINITIVO"
+epigrafe: "Archivo definitivo"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VI|CAPÍTULO VI - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VI|Capítulo VI]]
 
-## Artículo 250. ARCHIVO DEFINITIVO
+## Artículo 250. Archivo definitivo
 
 El archivo definitivo de la actuación disciplinaria procederá en cualquier etapa, cuando se establezcan plenamente los presupuestos enunciados en el presente código.
 

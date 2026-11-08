@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "532"
-epigrafe: "ÁMBITO DE APLICACIÓN"
+epigrafe: "Ámbito de aplicación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 532. ÁMBITO DE APLICACIÓN
+## Artículo 532. Ámbito de aplicación
 
 > [!info] Artículo modificado por el artículo [[art. 4 Ley 2445 de 2025|4]] de la Ley 2445 de 2025. El nuevo texto es el siguiente:
 

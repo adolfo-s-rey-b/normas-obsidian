@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 40 EOSF|Artículo 40]] — SOCIEDADES CORREDORAS DE SEGUROS
-- [[art. 41 EOSF|Artículo 41]] — AGENTES Y AGENCIAS
-- [[art. 42 EOSF|Artículo 42]] — FACULTADES DE LA AGENCIA DE SEGUROS
-- [[art. 43 EOSF|Artículo 43]] — CONDICIONES DE FUNCIONAMIENTO
+- [[art. 40 EOSF|Artículo 40]] — Sociedades Corredoras de Seguros
+- [[art. 41 EOSF|Artículo 41]] — Agentes y Agencias
+- [[art. 42 EOSF|Artículo 42]] — Facultades de la Agencia de Seguros
+- [[art. 43 EOSF|Artículo 43]] — Condiciones de Funcionamiento
 
 ---
 ← [[EOSF - Parte I - Capítulo XI|Capítulo XI]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo XIII|Capítulo XIII]] →

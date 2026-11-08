@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "73"
-epigrafe: "AJUSTE DE BIENES RAICES, ACCIONES Y APORTES QUE SEAN ACTIVOS FIJOS DE PERSONAS NATURALES"
+epigrafe: "AJUSTE DE BIENES RAÍCES, ACCIONES Y APORTES QUE SEAN ACTIVOS FIJOS DE PERSONAS NATURALES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo II|CAPÍTULO II - COSTOS]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo II - Costo de los activos fijos|COSTO DE LOS ACTIVOS FIJOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 74 Ley 223 de 1995]]"
   - "[[art. 52 Ley 1819 de 2016]]"
@@ -34,12 +34,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo II|Capítulo II]] › [[ET - Libro Primero - Título I - Capítulo II - Costo de los activos fijos|Costo de los activos fijos]]
 
-## Artículo 73. AJUSTE DE BIENES RAICES, ACCIONES Y APORTES QUE SEAN ACTIVOS FIJOS DE PERSONAS NATURALES
+## Artículo 73. AJUSTE DE BIENES RAÍCES, ACCIONES Y APORTES QUE SEAN ACTIVOS FIJOS DE PERSONAS NATURALES
 
 (Fuente original compilada: L. 75/86 Art. [[art. 64 ET|64]]) Para efectos de determinar la renta o ganancia ocasional, según el caso, proveniente de la enajenación de bienes raíces y de acciones o aportes, que tengan el carácter de activos fijos, los contribuyentes que sean personas naturales podrán ajustar el costo de adquisición de tales activos, en el incremento porcentual del valor de la propiedad raíz, o en el incremento porcentual del índice de precios al consumidor para empleados, respectivamente, que se haya registrado en el período comprendido entre el 1o. de enero del año en el cual se haya adquirido el bien y el 1o. de enero del año en el cual se enajena. El costo así ajustado, se podrá incrementar con el valor de las mejoras y contribuciones por valorización que se hubieren pagado, cuando se trate de bienes raíces.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "77"
-epigrafe: "FALTAS GRAVÍSIMAS DE LOS NOTARIOS"
+epigrafe: "Faltas gravísimas de los notarios"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo II|CAPÍTULO II - FALTAS ESPECIALES DE LOS NOTARIOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 77. FALTAS GRAVÍSIMAS DE LOS NOTARIOS
+## Artículo 77. Faltas gravísimas de los notarios
 
 Constituyen faltas imputables a los notarios, además de las faltas gravísimas contempladas en este Código, las siguientes:
 

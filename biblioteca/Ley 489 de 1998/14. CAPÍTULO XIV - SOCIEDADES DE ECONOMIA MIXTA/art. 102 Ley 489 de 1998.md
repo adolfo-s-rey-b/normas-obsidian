@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "102"
-epigrafe: "INHABILIDADES E INCOMPATIBILIDADES"
+epigrafe: "Inhabilidades e incompatibilidades"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIV|CAPÍTULO XIV - SOCIEDADES DE ECONOMIA MIXTA]]"
 vigencia: "vigente"
 anterior: "[[art. 101 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 102. INHABILIDADES E INCOMPATIBILIDADES
+## Artículo 102. Inhabilidades e incompatibilidades
 
 Los representantes legales y los miembros de los consejos y juntas directivas de los establecimientos públicos, de las empresas industriales y comerciales del Estado y de las sociedades de economía mixta en las que la Nación o sus entidades posean el noventa por ciento (90%) o más de su capital social y de las empresas oficiales de servicios públicos domiciliarios, estarán sujetos al régimen de inhabilidades, incompatibilidades, y responsabilidades previstas en el Decreto 128 de 1976 y demás normas que lo modifiquen o adicionen.
 

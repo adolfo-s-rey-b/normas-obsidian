@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "15"
-epigrafe: "JURISDICCION"
+epigrafe: "Jurisdicción"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo III|CAPÍTULO III - DE LA JURISDICCION Y COMPETENCIA]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 15. JURISDICCION
+## Artículo 15. Jurisdicción
 
 La jurisdicción de lo Contencioso Administrativo conocerá de los procesos que se susciten con ocasión del ejercicio de las Acciones Populares originadas en actos, acciones u omisiones de las entidades públicas y de las personas privadas que desempeñen funciones administrativas, de conformidad con lo dispuesto en las disposiciones vigentes sobre la materia.
 

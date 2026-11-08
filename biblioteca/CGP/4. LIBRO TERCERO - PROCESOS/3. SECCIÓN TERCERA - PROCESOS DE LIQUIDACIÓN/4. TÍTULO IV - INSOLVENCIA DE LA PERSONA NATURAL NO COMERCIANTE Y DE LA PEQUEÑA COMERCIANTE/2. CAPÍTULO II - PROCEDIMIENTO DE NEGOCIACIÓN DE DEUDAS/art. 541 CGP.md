@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "541"
-epigrafe: "DESIGNACIÓN DEL CONCILIADOR Y ACEPTACIÓN DEL CARGO"
+epigrafe: "Designación del conciliador y aceptación del cargo"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 541. DESIGNACIÓN DEL CONCILIADOR Y ACEPTACIÓN DEL CARGO
+## Artículo 541. Designación del conciliador y aceptación del cargo
 
 Al día siguiente a la presentación de la solicitud, el centro de conciliación designará al conciliador. Esté manifestará su aceptación dentro de los dos (2) días siguientes a la notificación del encargo, so pena de ser excluido de la lista.
 

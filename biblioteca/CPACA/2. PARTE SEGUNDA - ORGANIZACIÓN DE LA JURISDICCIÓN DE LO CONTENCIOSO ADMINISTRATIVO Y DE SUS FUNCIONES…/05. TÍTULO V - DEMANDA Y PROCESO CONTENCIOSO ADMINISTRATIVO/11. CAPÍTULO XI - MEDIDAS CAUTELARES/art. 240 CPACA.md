@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "240"
-epigrafe: "RESPONSABILIDAD"
+epigrafe: "Responsabilidad"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 87 Ley 2080 de 2021]]"
 anterior: "[[art. 239 CPACA]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 240. RESPONSABILIDAD
+## Artículo 240. Responsabilidad
 
 Salvo los casos de suspensión provisional de actos administrativos de carácter general, cuando la medida cautelar sea revocada en el curso del proceso por considerar que su decreto era improcedente o cuando la sentencia sea desestimatoria, el solicitante responderá patrimonialmente por los perjuicios que se hayan causado, los cuales se liquidarán mediante incidente promovido dentro de los treinta (30) días siguientes a la ejecutoria de la providencia.
 

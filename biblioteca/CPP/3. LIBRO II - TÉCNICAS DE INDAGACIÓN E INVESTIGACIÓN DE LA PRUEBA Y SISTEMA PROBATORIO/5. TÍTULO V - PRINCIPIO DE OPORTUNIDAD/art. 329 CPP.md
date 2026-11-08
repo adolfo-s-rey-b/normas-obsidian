@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "329"
-epigrafe: "EFECTOS DE LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD"
+epigrafe: "Efectos de la aplicación del principio de oportunidad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 329. EFECTOS DE LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD
+## Artículo 329. Efectos de la aplicación del principio de oportunidad
 
 La decisión que prescinda de la persecución extinguirá la acción penal respecto del autor o partícipe en cuyo favor se decide, salvo que la causal que la fundamente se base en la falta de interés del Estado en la persecución del hecho, evento en el cual las consecuencias de la aplicación del principio se extenderán a los demás autores o partícipes en la conducta punible, a menos que la ley exija la reparación integral a las víctimas.
 

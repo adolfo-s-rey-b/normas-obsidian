@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 134 Ley 446 de 1998|Artículo 134]] — DESIGNACION, POSESION Y RECUSACION
-- [[art. 135 Ley 446 de 1998|Artículo 135]] — DICTAMEN PERICIAL
-- [[art. 136 Ley 446 de 1998|Artículo 136]] — DISCREPANCIA SOBRE PRECIO DE ALICUOTAS
+- [[art. 134 Ley 446 de 1998|Artículo 134]] — Designación, posesión y recusación
+- [[art. 135 Ley 446 de 1998|Artículo 135]] — Dictamen pericial
+- [[art. 136 Ley 446 de 1998|Artículo 136]] — Discrepancia sobre precio de alícuotas
 
 ---
 ← [[Ley 446 de 1998 - Parte IV - Título I - Capítulo 1|Capítulo 1]] · ↑ [[Ley 446 de 1998 - Parte IV - Título I|Título I]]

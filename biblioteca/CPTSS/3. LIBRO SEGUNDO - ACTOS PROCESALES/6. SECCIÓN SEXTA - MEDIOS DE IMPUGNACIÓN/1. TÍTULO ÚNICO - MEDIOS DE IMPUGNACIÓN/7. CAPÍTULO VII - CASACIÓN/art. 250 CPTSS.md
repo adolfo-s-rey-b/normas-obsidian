@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "250"
-epigrafe: "ACUMULACIÓN DE FALLOS"
+epigrafe: "Acumulación de fallos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 250. ACUMULACIÓN DE FALLOS
+## Artículo 250. Acumulación de fallos
 
 A juicio de la Sala de Casación, podrán acumularse y ser decididos en una misma sentencia varios asuntos. De ello se dejará constancia en la respectiva sentencia, cuyo texto será incorporado en cada uno de los procesos. Para efectos de la estadística judicial, la sentencia así proferida contará como el número plural de fallos acumulados.
 

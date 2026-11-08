@@ -19,8 +19,8 @@ tags:
 
 ### Contenido
 
-- [[art. 48 Ley 472 de 1998|Artículo 48]] — TITULARES DE LAS ACCIONES
-- [[art. 49 Ley 472 de 1998|Artículo 49]] — EJERCICIO DE LA ACCION
+- [[art. 48 Ley 472 de 1998|Artículo 48]] — Titulares de las Acciones
+- [[art. 49 Ley 472 de 1998|Artículo 49]] — Ejercicio de la Acción
 
 ---
 ← [[Ley 472 de 1998 - Título III - Capítulo I|Capítulo I]] · ↑ [[Ley 472 de 1998 - Título III|Título III]] · [[Ley 472 de 1998 - Título III - Capítulo III|Capítulo III]] →

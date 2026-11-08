@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "294"
-epigrafe: "TRASLADO Y AUDIENCIAS"
+epigrafe: "Traslado y audiencias"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|TÍTULO TERCERO - PROCESOS DE FUERO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|Capítulo I]]
 
-## Artículo 294. TRASLADO Y AUDIENCIAS
+## Artículo 294. Traslado y audiencias
 
 Admitida la demanda, el juez, en providencia que se notificará personalmente, ordenará que se dé traslado de ella por un término común de cinco (5) días para que la contesten por escrito. La demanda podrá ser reformada por una sola vez desde su presentación y hasta dentro de los tres (3) días siguientes al vencimiento del traslado de la demanda inicial, de acuerdo con las reglas establecidas sobre la materia en este código; igual término tendrá la parte demandada para contestarla. El traslado se surtirá entregando copia del libelo a los demandados que deberá remitirse a través de medios electrónicos o, excepcionalmente, de forma impresa. El auto admisorio de la demanda también deberá notificarse personalmente a la organización sindical de la cual haga parte el aforado.
 

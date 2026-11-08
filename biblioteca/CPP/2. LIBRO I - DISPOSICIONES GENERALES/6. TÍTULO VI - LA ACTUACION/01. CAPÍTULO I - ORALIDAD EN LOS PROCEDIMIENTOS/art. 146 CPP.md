@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "146"
-epigrafe: "REGISTRO DE LA ACTUACIÓN"
+epigrafe: "Registro de la actuación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo I|CAPÍTULO I - ORALIDAD EN LOS PROCEDIMIENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 146. REGISTRO DE LA ACTUACIÓN
+## Artículo 146. Registro de la actuación
 
 Se dispondrá el empleo de los medios técnicos idóneos para el registro y reproducción fidedignos de lo actuado, de conformidad con las siguientes reglas, y se prohíben las reproducciones escritas, salvo los actos y providencias que este código expresamente autorice:
 

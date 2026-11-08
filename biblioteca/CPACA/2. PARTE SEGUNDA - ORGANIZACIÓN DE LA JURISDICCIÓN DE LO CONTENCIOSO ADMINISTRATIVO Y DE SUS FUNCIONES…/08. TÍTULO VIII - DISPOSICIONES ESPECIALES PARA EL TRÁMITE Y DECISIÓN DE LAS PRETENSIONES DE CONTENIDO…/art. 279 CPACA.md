@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "279"
-epigrafe: "CONTESTACIÓN DE LA DEMANDA"
+epigrafe: "Contestación de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 279. CONTESTACIÓN DE LA DEMANDA
+## Artículo 279. Contestación de la demanda
 
 La demanda podrá ser contestada dentro de los quince (15) días siguientes al día de la notificación personal del auto admisorio de la demanda al demandado o al día de la publicación del aviso, según el caso.
 

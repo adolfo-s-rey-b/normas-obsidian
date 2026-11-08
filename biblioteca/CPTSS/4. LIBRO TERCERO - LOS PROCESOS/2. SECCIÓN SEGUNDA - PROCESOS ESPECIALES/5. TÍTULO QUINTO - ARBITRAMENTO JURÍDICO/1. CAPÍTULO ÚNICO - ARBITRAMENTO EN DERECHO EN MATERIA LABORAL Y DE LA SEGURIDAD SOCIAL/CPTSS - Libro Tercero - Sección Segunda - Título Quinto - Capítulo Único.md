@@ -24,17 +24,17 @@ tags:
 
 ### Contenido
 
-- [[art. 302 CPTSS|Artículo 302]] — PROCEDENCIA
-- [[art. 303 CPTSS|Artículo 303]] — CLÁUSULA COMPROMISORIA Y COMPROMISO
-- [[art. 304 CPTSS|Artículo 304]] — APLICACIÓN SUPLETORIA
-- [[art. 305 CPTSS|Artículo 305]] — TRÁMITE Y AUDIENCIA
-- [[art. 306 CPTSS|Artículo 306]] — TÉRMINO PARA FALLAR
-- [[art. 307 CPTSS|Artículo 307]] — CONTENIDO DEL LAUDO DE CARÁCTER JURÍDICO
-- [[art. 308 CPTSS|Artículo 308]] — NOTIFICACIÓN
-- [[art. 309 CPTSS|Artículo 309]] — MÉRITO DEL LAUDO
-- [[art. 310 CPTSS|Artículo 310]] — EXISTENCIA DE LITIGIO
-- [[art. 311 CPTSS|Artículo 311]] — HONORARIOS Y GASTOS
-- [[art. 312 CPTSS|Artículo 312]] — PROCEDIMIENTO ESTABLECIDO EN CONVENCIONES COLECTIVAS
+- [[art. 302 CPTSS|Artículo 302]] — Procedencia
+- [[art. 303 CPTSS|Artículo 303]] — Cláusula compromisoria y compromiso
+- [[art. 304 CPTSS|Artículo 304]] — Aplicación supletoria
+- [[art. 305 CPTSS|Artículo 305]] — Trámite y audiencia
+- [[art. 306 CPTSS|Artículo 306]] — Término para fallar
+- [[art. 307 CPTSS|Artículo 307]] — Contenido del laudo de carácter jurídico
+- [[art. 308 CPTSS|Artículo 308]] — Notificación
+- [[art. 309 CPTSS|Artículo 309]] — Mérito del laudo
+- [[art. 310 CPTSS|Artículo 310]] — Existencia de litigio
+- [[art. 311 CPTSS|Artículo 311]] — Honorarios y gastos
+- [[art. 312 CPTSS|Artículo 312]] — Procedimiento establecido en convenciones colectivas
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]]

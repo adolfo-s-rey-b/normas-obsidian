@@ -12,7 +12,7 @@ epigrafe: "ACCIONES DE LOS HEREDEROS"
 libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
 titulo: "[[CCo - Libro Cuarto - Título IV|TÍTULO IV - DEL CONTRATO DE TRANSPORTE]]"
 capitulo: "[[CCo - Libro Cuarto - Título IV - Capítulo II|CAPÍTULO II - TRANSPORTE DE PERSONAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 1005 CCo]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título IV|Título IV]] › [[CCo - Libro Cuarto - Título IV - Capítulo II|Capítulo II]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "245"
-epigrafe: "PLANTEAMIENTO DE LA CASACIÓN"
+epigrafe: "Planteamiento de la casación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 245. PLANTEAMIENTO DE LA CASACIÓN
+## Artículo 245. Planteamiento de la casación
 
 El recurrente deberá plantear sucintamente su demanda, sin extenderse en consideraciones propias de los alegatos de instancia.
 

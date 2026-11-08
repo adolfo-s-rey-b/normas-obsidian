@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 192 CPP|Artículo 192]] — PROCEDENCIA
-- [[art. 193 CPP|Artículo 193]] — LEGITIMACIÓN
-- [[art. 194 CPP|Artículo 194]] — INSTAURACIÓN
-- [[art. 195 CPP|Artículo 195]] — TRÁMITE
-- [[art. 196 CPP|Artículo 196]] — REVISIÓN DE LA SENTENCIA
-- [[art. 197 CPP|Artículo 197]] — IMPEDIMENTO ESPECIAL
-- [[art. 198 CPP|Artículo 198]] — CONSECUENCIAS DEL FALLO RESCINDENTE
+- [[art. 192 CPP|Artículo 192]] — Procedencia
+- [[art. 193 CPP|Artículo 193]] — Legitimación
+- [[art. 194 CPP|Artículo 194]] — Instauración
+- [[art. 195 CPP|Artículo 195]] — Trámite
+- [[art. 196 CPP|Artículo 196]] — Revisión de la sentencia
+- [[art. 197 CPP|Artículo 197]] — Impedimento especial
+- [[art. 198 CPP|Artículo 198]] — Consecuencias del fallo rescindente
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo XI|Capítulo XI]] →

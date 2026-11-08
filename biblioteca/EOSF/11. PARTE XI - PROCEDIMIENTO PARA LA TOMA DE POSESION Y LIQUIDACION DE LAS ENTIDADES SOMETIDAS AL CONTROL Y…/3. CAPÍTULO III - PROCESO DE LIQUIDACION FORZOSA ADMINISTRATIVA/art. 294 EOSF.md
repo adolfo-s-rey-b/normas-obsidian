@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "294"
-epigrafe: "COMPETENCIA PARA LA LIQUIDACION"
+epigrafe: "Competencia para la liquidación"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 294. COMPETENCIA PARA LA LIQUIDACION
+## Artículo 294. Competencia para la liquidación
 
 De acuerdo con lo dispuesto por el artículo [[art. 19 Ley 35 de 1993|19]] de la Ley 35 de 1993, a partir de la vigencia de dicha Ley es competencia de los liquidadores adelantar bajo su inmediata dirección y responsabilidad los procesos de liquidación forzosa administrativa de entidades vigiladas por la Superintendencia Bancaria.
 

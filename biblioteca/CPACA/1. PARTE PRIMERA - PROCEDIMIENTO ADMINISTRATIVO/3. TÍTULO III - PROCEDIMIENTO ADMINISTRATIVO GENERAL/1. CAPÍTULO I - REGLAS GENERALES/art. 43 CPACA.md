@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "43"
-epigrafe: "ACTOS DEFINITIVOS"
+epigrafe: "Actos definitivos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 43. ACTOS DEFINITIVOS
+## Artículo 43. Actos definitivos
 
 Son actos definitivos los que decidan directa o indirectamente el fondo del asunto o hagan imposible continuar la actuación.
 

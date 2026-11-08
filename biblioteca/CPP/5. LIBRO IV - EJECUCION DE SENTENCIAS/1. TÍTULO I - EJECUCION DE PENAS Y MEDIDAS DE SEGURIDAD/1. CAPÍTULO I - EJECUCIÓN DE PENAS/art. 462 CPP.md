@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "462"
-epigrafe: "APLICACIÓN DE LAS PENAS ACCESORIAS"
+epigrafe: "Aplicación de las penas accesorias"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo I|CAPÍTULO I - EJECUCIÓN DE PENAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 462. APLICACIÓN DE LAS PENAS ACCESORIAS
+## Artículo 462. Aplicación de las penas accesorias
 
 Cuando se trate de las penas accesorias establecidas en el Código Penal, se procederá de acuerdo con las siguientes normas:
 

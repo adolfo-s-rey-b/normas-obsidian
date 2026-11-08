@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "82"
-epigrafe: "PETICIÓN DE UNA ORDEN PRELIMINAR Y CONDICIONES PARA SU DECRETO"
+epigrafe: "Petición de una orden preliminar y condiciones para su decreto"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 82. PETICIÓN DE UNA ORDEN PRELIMINAR Y CONDICIONES PARA SU DECRETO
+## Artículo 82. Petición de una orden preliminar y condiciones para su decreto
 
 Salvo acuerdo en contrario, cualquiera de las partes, sin dar aviso a ninguna otra, podrá solicitar una medida cautelar y pedir una orden preliminar del tribunal arbitral por la que se ordene a alguna parte que no frustre la finalidad de la medida cautelar solicitada.
 

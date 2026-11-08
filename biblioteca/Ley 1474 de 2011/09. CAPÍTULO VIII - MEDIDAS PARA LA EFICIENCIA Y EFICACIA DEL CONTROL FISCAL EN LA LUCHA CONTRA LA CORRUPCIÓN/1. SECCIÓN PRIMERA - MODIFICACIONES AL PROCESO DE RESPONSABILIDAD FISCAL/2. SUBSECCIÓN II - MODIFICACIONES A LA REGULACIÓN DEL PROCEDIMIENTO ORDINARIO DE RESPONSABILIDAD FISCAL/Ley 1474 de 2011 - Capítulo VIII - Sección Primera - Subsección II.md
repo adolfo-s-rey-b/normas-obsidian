@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 106 Ley 1474 de 2011|Artículo 106]] — NOTIFICACIONES
-- [[art. 107 Ley 1474 de 2011|Artículo 107]] — PRECLUSIVIDAD DE LOS PLAZOS EN EL TRÁMITE DE LOS PROCESOS DE RESPONSABILIDAD FISCAL
-- [[art. 108 Ley 1474 de 2011|Artículo 108]] — PERENTORIEDAD PARA EL DECRETO DE PRUEBAS EN LA ETAPA DE DESCARGOS
-- [[art. 109 Ley 1474 de 2011|Artículo 109]] — OPORTUNIDAD Y REQUISITOS DE LA SOLICITUD DE NULIDAD
+- [[art. 106 Ley 1474 de 2011|Artículo 106]] — Notificaciones
+- [[art. 107 Ley 1474 de 2011|Artículo 107]] — Preclusividad de los plazos en el trámite de los procesos de responsabilidad fiscal
+- [[art. 108 Ley 1474 de 2011|Artículo 108]] — Perentoriedad para el decreto de pruebas en la etapa de descargos
+- [[art. 109 Ley 1474 de 2011|Artículo 109]] — Oportunidad y requisitos de la solicitud de nulidad
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]] · ↑ [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] · [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]] →

@@ -11,7 +11,7 @@ articulo: "500"
 epigrafe: "SOCIEDADES IRREGULARES - DEFINICIÓN"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título IX|TÍTULO IX - DE LA SOCIEDAD MERCANTIL DE HECHO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 515 CCo]]"
   - "[[art. 3 CCo]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título IX|Título IX]]

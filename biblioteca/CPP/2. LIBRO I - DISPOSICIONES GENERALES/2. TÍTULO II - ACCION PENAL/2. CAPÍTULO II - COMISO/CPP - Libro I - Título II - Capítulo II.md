@@ -23,18 +23,18 @@ tags:
 
 ### Contenido
 
-- [[art. 82 CPP|Artículo 82]] — PROCEDENCIA
-- [[art. 83 CPP|Artículo 83]] — MEDIDAS CAUTELARES SOBRE BIENES SUSCEPTIBLES DE COMISO
+- [[art. 82 CPP|Artículo 82]] — Procedencia
+- [[art. 83 CPP|Artículo 83]] — Medidas cautelares sobre bienes susceptibles de comiso
 - [[art. 83A CPP|Artículo 83A]]
-- [[art. 84 CPP|Artículo 84]] — TRÁMITE EN LA INCAUTACIÓN U OCUPACIÓN DE BIENES CON FINES DE COMISO
-- [[art. 85 CPP|Artículo 85]] — SUSPENSIÓN DEL PODER DISPOSITIVO
-- [[art. 86 CPP|Artículo 86]] — ADMINISTRACIÓN DE LOS BIENES
-- [[art. 87 CPP|Artículo 87]] — DESTRUCCIÓN DEL OBJETO MATERIAL DEL DELITO
-- [[art. 88 CPP|Artículo 88]] — DEVOLUCIÓN DE BIENES
-- [[art. 89 CPP|Artículo 89]] — BIENES O RECURSOS NO RECLAMADOS
+- [[art. 84 CPP|Artículo 84]] — Trámite en la incautación u ocupación de bienes con fines de comiso
+- [[art. 85 CPP|Artículo 85]] — Suspensión del poder dispositivo
+- [[art. 86 CPP|Artículo 86]] — Administración de los bienes
+- [[art. 87 CPP|Artículo 87]] — Destrucción del objeto material del delito
+- [[art. 88 CPP|Artículo 88]] — Devolución de bienes
+- [[art. 89 CPP|Artículo 89]] — Bienes o recursos no reclamados
 - [[art. 89A CPP|Artículo 89A]] — PRESCRIPCIÓN ESPECIAL
-- [[art. 90 CPP|Artículo 90]] — OMISIÓN DE PRONUNCIAMIENTO SOBRE LOS BIENES
-- [[art. 91 CPP|Artículo 91]] — SUSPENSIÓN Y CANCELACIÓN DE LA PERSONERÍA JURÍDICA
+- [[art. 90 CPP|Artículo 90]] — Omisión de pronunciamiento sobre los bienes
+- [[art. 91 CPP|Artículo 91]] — Suspensión y cancelación de la personería jurídica
 
 ---
 ← [[CPP - Libro I - Título II - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro I - Título II|Título II]] · [[CPP - Libro I - Título II - Capítulo III|Capítulo III]] →

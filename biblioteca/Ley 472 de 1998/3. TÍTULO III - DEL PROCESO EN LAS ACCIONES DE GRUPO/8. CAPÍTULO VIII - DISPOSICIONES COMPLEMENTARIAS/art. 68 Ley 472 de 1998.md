@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "68"
-epigrafe: "ASPECTOS NO REGULADOS"
+epigrafe: "Aspectos no Regulados"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo VIII|CAPÍTULO VIII - DISPOSICIONES COMPLEMENTARIAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 68. ASPECTOS NO REGULADOS
+## Artículo 68. Aspectos no Regulados
 
 En lo que no contraríe lo dispuesto en las normas del presente título, se aplicarán a las Acciones de Grupo las normas del Código de Procedimiento Civil.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "839-1"
-epigrafe: "TRAMITE PARA ALGUNOS EMBARGOS"
+epigrafe: "TRÁMITE PARA ALGUNOS EMBARGOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VIII|TÍTULO VIII - COBRO COACTIVO]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VIII|Título VIII]]
 
-## Artículo 839-1. TRAMITE PARA ALGUNOS EMBARGOS
+## Artículo 839-1. TRÁMITE PARA ALGUNOS EMBARGOS
 
 El embargo de bienes sujetos a registro se comunicará a la oficina encargada del mismo, por oficio que contendrá los datos necesarios para el registro; si aquellos pertenecieren al ejecutado lo inscribirá y remitirá el certificado donde figure la inscripción, al funcionario de la Administración de Impuestos que ordenó el embargo.
 

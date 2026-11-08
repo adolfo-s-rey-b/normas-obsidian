@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "28"
-epigrafe: "DE LA INTERPRETACIÓN DE LAS REGLAS CONTRACTUALES"
+epigrafe: "De la Interpretación de las Reglas Contractuales"
 rubro: "[[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|II. DE LOS PRINCIPIOS DE LA CONTRATACIÓN ESTATAL]]"
 vigencia: "vigente"
 anterior: "[[art. 27 Ley 80 de 1993]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|Ii. de los principios de la contratación estatal]]
 
-## Artículo 28. DE LA INTERPRETACIÓN DE LAS REGLAS CONTRACTUALES
+## Artículo 28. De la Interpretación de las Reglas Contractuales
 
 En la interpretación de las normas sobre contratos estatales, relativas a procedimientos de selección y escogencia de contratistas y en la de las cláusulas y estipulaciones de los contratos, se tendrá en consideración los fines y los principios de que trata esta ley, los mandatos de la buena fe y la igualdad y equilibrio entre prestaciones y derechos que caracteriza a los contratos conmutativos.
 

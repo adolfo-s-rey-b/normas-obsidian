@@ -12,7 +12,7 @@ epigrafe: "LEGITIMACIÓN Y OPORTUNIDAD PARA PRESENTAR LA DEMANDA"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título VII|TÍTULO VII - DEL DIVORCIO Y LA SEPARACIÓN DE CUERPOS, SUS CAUSAS Y EFECTOS]]"
 rubro: "[[CC - Libro Primero - Título VII - Causas del divorcio|CAUSAS DEL DIVORCIO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 3 Ley 2442 de 2024]]"
   - "[[art. 10 Ley 25 de 1992]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Primero|Libro Primero]] › [[CC - Libro Primero - Título VII|Título VII]] › [[CC - Libro Primero - Título VII - Causas del divorcio|Causas del divorcio]]

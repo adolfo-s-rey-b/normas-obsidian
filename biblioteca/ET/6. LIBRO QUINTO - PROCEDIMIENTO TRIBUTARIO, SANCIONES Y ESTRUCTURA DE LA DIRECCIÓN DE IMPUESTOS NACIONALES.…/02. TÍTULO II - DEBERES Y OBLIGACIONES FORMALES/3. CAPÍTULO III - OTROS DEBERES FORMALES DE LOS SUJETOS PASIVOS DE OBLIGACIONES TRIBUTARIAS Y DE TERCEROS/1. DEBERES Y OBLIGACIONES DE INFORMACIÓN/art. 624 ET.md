@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "624"
-epigrafe: "INFORMACIÓN DE LAS CAMARAS DE COMERCIO"
+epigrafe: "INFORMACIÓN DE LAS CÁMARAS DE COMERCIO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo III|CAPÍTULO III - OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo III|Capítulo III]] › [[ET - Libro Quinto - Título II - Capítulo III - Deberes y obligaciones de información|Deberes y obligaciones de información]]
 
-## Artículo 624. INFORMACIÓN DE LAS CAMARAS DE COMERCIO
+## Artículo 624. INFORMACIÓN DE LAS CÁMARAS DE COMERCIO
 
 A partir del año 1989, las cámaras de comercio deberán informar anualmente, dentro de los plazos que indique el Gobierno, la razón social de cada una de las sociedades cuya creación o liquidación se haya registrado durante el año inmediatamente anterior en la respectiva cámara, con indicación de la identificación de los socios o accionistas, así como del capital aportado por cada uno de ellos cuando se trate de creación de sociedades.
 

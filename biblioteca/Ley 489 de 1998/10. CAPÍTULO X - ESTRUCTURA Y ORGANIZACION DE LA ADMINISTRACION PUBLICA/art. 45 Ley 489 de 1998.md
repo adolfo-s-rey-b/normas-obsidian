@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "45"
-epigrafe: "COMISIONES INTERSECTORIALES"
+epigrafe: "Comisiones intersectoriales"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 44 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 45. COMISIONES INTERSECTORIALES
+## Artículo 45. Comisiones intersectoriales
 
 El Gobierno Nacional podrá crear comisiones intersectoriales para la coordinación y orientación superior de la ejecución de ciertas funciones y servicios públicos, cuando por mandato legal o en razón de sus características, estén a cargo de dos o más ministerios, departamentos administrativos o entidades descentralizadas, sin perjuicio de las competencias específicas de cada uno de ellos.
 

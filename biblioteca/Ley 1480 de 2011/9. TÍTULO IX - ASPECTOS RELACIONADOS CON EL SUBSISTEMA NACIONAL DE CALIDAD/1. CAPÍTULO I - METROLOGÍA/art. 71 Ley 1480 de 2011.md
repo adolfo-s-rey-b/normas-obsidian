@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "71"
-epigrafe: "RESPONSABLES EN MATERIA DE METROLOGÍA LEGAL"
+epigrafe: "Responsables en Materia de Metrología Legal"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo I|CAPÍTULO I - METROLOGÍA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo I|Capítulo I]]
 
-## Artículo 71. RESPONSABLES EN MATERIA DE METROLOGÍA LEGAL
+## Artículo 71. Responsables en Materia de Metrología Legal
 
 Toda persona que use o mantenga un equipo patrón de medición sujeto a reglamento técnico o norma metrológica de carácter imperativo es responsable de realizar o permitir que se realicen los respectivos controles periódicos o aleatorios sobre los equipos que usa o mantiene, tal como lo disponga la norma. Los productores, expendedores o quienes arrienden o reparen equipos y patrones de medición deben cumplir con las normas de control inicial y realizar o permitir que se realicen los controles metrológicos antes indicados sobre sus equipos e instalaciones.
 

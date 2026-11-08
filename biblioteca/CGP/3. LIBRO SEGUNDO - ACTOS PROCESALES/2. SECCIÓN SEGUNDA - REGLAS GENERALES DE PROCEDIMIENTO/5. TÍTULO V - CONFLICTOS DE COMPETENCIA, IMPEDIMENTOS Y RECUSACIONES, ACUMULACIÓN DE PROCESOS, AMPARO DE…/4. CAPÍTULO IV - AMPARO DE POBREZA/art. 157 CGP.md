@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "157"
-epigrafe: "REMUNERACIÓN DE AUXILIARES DE LA JUSTICIA"
+epigrafe: "Remuneración de auxiliares de la justicia"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 157. REMUNERACIÓN DE AUXILIARES DE LA JUSTICIA
+## Artículo 157. Remuneración de auxiliares de la justicia
 
 El juez fijará los honorarios de los auxiliares de la justicia conforme a las reglas generales, los que serán pagados por la parte contraria si fuere condenada en costas, una vez ejecutoriada la providencia que las imponga.
 

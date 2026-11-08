@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "13"
-epigrafe: "REGLAMENTACIÓN DE LA PRESTACIÓN DEL SERVICIO DE VALORACIÓN DE APOYOS"
+epigrafe: "Reglamentación de la prestación del servicio de valoración de apoyos"
 capitulo: "[[Ley 1996 de 2019 - Capítulo II|CAPÍTULO II - MECANISMOS PARA EL EJERCICIO DE LA CAPACIDAD LEGAL Y PARA LA REALIZACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 12 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo II|Capítulo II]]
 
-## Artículo 13. REGLAMENTACIÓN DE LA PRESTACIÓN DEL SERVICIO DE VALORACIÓN DE APOYOS
+## Artículo 13. Reglamentación de la prestación del servicio de valoración de apoyos
 
 El ente rector del Sistema Nacional de Discapacidad, en un plazo no superior a dieciocho (18) meses contados a partir de la promulgación de la presente ley, y previo concepto del Consejo Nacional de Discapacidad, reglamentará la prestación de servicios de valoración de apoyos que realicen las entidades públicas y privadas.
 

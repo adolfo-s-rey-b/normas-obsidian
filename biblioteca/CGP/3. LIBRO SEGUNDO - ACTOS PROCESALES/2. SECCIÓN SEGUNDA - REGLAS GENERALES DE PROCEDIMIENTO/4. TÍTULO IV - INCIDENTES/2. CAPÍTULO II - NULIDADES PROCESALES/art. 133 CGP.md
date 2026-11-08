@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "133"
-epigrafe: "CAUSALES DE NULIDAD"
+epigrafe: "Causales de nulidad"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 133. CAUSALES DE NULIDAD
+## Artículo 133. Causales de nulidad
 
 El proceso es nulo, en todo o en parte, solamente en los siguientes casos:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "19"
-epigrafe: "CONCILIACIÓN"
+epigrafe: "Conciliación"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo III|Capítulo III]]
 
-## Artículo 19. CONCILIACIÓN
+## Artículo 19. Conciliación
 
 La conciliación podrá intentarse antes o después de presentada la demanda, o en cualquiera de las instancias, cuando las partes de común acuerdo lo soliciten.
 

@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 32 Ley 820 de 2003|Artículo 32]] — INSPECCIÓN, CONTROL Y VIGILANCIA DE ARRENDAMIENTO
-- [[art. 33 Ley 820 de 2003|Artículo 33]] — FUNCIONES
+- [[art. 32 Ley 820 de 2003|Artículo 32]] — Inspección, control y vigilancia de arrendamiento
+- [[art. 33 Ley 820 de 2003|Artículo 33]] — Funciones
 
 ---
 ← [[Ley 820 de 2003 - Capítulo VIII|Capítulo VIII]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo X|Capítulo X]] →

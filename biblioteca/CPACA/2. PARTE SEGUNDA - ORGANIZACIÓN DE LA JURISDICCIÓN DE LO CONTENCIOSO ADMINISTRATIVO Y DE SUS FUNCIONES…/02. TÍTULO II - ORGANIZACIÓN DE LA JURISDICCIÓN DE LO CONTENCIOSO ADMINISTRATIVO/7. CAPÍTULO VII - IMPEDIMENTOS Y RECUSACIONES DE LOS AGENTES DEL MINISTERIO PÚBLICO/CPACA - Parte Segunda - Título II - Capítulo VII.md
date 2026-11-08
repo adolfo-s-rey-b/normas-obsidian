@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 133 CPACA|Artículo 133]] — IMPEDIMENTOS Y RECUSACIONES DE LOS AGENTES DEL MINISTERIO PÚBLICO ANTE ESTA JURISDICCIÓN
-- [[art. 134 CPACA|Artículo 134]] — OPORTUNIDAD Y TRÁMITE
+- [[art. 133 CPACA|Artículo 133]] — Impedimentos y recusaciones de los agentes del Ministerio Público ante esta jurisdicción
+- [[art. 134 CPACA|Artículo 134]] — Oportunidad y Trámite
 
 ---
 ← [[CPACA - Parte Segunda - Título II - Capítulo VI|Capítulo VI]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]]

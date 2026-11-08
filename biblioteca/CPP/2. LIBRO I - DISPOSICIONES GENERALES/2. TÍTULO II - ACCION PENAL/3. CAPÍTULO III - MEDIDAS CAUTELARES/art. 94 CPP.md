@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "94"
-epigrafe: "PROPORCIONALIDAD"
+epigrafe: "Proporcionalidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 94. PROPORCIONALIDAD
+## Artículo 94. Proporcionalidad
 
 No se podrán ordenar medidas cautelares sobre bienes del imputado o acusado cuando aparezcan desproporcionadas en relación con la gravedad del daño y la probable sentencia sobre la pretensión de reparación integral o tasación de perjuicios.
 

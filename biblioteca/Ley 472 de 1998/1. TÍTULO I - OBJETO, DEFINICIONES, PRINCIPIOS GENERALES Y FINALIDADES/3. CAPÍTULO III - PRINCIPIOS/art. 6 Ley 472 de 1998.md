@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "6"
-epigrafe: "TRAMITE PREFERENCIAL"
+epigrafe: "Trámite Preferencial"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo III|CAPÍTULO III - PRINCIPIOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 6. TRAMITE PREFERENCIAL
+## Artículo 6. Trámite Preferencial
 
 Las acciones populares preventivas se tramitarán con preferencia a las demás que conozca el juez competente, excepto el recurso de Habeas Corpus, la Acción de Tutela y la Acción de cumplimiento.
 

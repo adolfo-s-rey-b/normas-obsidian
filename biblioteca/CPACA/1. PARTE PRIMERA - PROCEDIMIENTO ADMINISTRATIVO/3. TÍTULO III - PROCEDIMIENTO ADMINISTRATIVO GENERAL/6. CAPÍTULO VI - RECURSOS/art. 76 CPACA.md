@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "76"
-epigrafe: "OPORTUNIDAD Y PRESENTACIÓN"
+epigrafe: "Oportunidad y presentación"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VI|CAPÍTULO VI - RECURSOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VI|Capítulo VI]]
 
-## Artículo 76. OPORTUNIDAD Y PRESENTACIÓN
+## Artículo 76. Oportunidad y presentación
 
 Los recursos de reposición y apelación deberán interponerse por escrito en la diligencia de notificación personal, o dentro de los diez (10) días siguientes a ella, o a la notificación por aviso, o al vencimiento del término de publicación, según el caso. Los recursos contra los actos presuntos podrán interponerse en cualquier tiempo, salvo en el evento en que se haya acudido ante el juez.
 

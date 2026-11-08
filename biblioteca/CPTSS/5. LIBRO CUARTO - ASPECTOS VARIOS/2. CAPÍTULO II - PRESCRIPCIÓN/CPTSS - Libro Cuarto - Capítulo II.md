@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 317 CPTSS|Artículo 317]] — PRESCRIPCIÓN
-- [[art. 318 CPTSS|Artículo 318]] — INTERRUPCIÓN JUDICIAL
-- [[art. 319 CPTSS|Artículo 319]] — INTERRUPCIÓN DEL ACREEDOR
-- [[art. 320 CPTSS|Artículo 320]] — INTERRUPCIÓN DEL DEUDOR
-- [[art. 321 CPTSS|Artículo 321]] — SUSPENSIÓN DE LA PRESCRIPCIÓN
-- [[art. 322 CPTSS|Artículo 322]] — EFECTOS DE LA SUSPENSIÓN DE LA PRESCRIPCIÓN
-- [[art. 323 CPTSS|Artículo 323]] — RENUNCIA A LA PRESCRIPCIÓN
+- [[art. 317 CPTSS|Artículo 317]] — Prescripción
+- [[art. 318 CPTSS|Artículo 318]] — Interrupción judicial
+- [[art. 319 CPTSS|Artículo 319]] — Interrupción del acreedor
+- [[art. 320 CPTSS|Artículo 320]] — Interrupción del deudor
+- [[art. 321 CPTSS|Artículo 321]] — Suspensión de la prescripción
+- [[art. 322 CPTSS|Artículo 322]] — Efectos de la suspensión de la prescripción
+- [[art. 323 CPTSS|Artículo 323]] — Renuncia a la prescripción
 
 ---
 ← [[CPTSS - Libro Cuarto - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]] · [[CPTSS - Libro Cuarto - Capítulo III|Capítulo III]] →

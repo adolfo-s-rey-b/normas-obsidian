@@ -6,7 +6,7 @@ norma: "Ley 1474 de 2011"
 articulo: "1"
 epigrafe: "Inhabilidad para contratar de quienes incurran en actos de corrupción. El literal j) del numeral 1 del artículo 8 de la Ley 80 de 1993"
 capitulo: "[[Ley 1474 de 2011 - Capítulo I|CAPÍTULO I - MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 31 Ley 1778 de 2016]]"
 siguiente: "[[art. 2 Ley 1474 de 2011]]"
@@ -20,7 +20,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo I|Capítulo I]]

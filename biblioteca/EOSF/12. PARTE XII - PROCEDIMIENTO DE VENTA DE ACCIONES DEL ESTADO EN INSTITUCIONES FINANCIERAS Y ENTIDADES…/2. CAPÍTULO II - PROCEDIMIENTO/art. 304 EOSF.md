@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "304"
-epigrafe: "APROBACION DEL PROGRAMA"
+epigrafe: "Aprobación del Programa"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 303 EOSF]]"
 siguiente: "[[art. 305 EOSF]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_organico_sistema_financiero.html"
@@ -24,12 +24,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]
 
-## Artículo 304. APROBACION DEL PROGRAMA
+## Artículo 304. Aprobación del Programa
 
 > [!warning] Inciso 1o. declarado INEXEQUIBLE
 

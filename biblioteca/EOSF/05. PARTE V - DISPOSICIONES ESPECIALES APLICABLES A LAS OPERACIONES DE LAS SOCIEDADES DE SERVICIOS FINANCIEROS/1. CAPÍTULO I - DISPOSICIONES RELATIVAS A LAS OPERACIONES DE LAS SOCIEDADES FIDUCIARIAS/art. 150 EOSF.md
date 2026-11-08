@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "150"
-epigrafe: "REPRESENTACION DE TENEDORES DE BONOS"
+epigrafe: "Representación de Tenedores de Bonos"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo I|CAPÍTULO I - DISPOSICIONES RELATIVAS A LAS OPERACIONES DE LAS SOCIEDADES FIDUCIARIAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo I|Capítulo I]]
 
-## Artículo 150. REPRESENTACION DE TENEDORES DE BONOS
+## Artículo 150. Representación de Tenedores de Bonos
 
 1\. Capacidad para la representación de los tenedores de bonos. Según lo dispuesto en el artículo [[art. 28 Decreto 1026 de 1990|28]] del Decreto 1026 de 1990, podrán ser representantes de los tenedores de bonos las sociedades fiduciarias que sean autorizadas para el efecto por la Superintendencia Bancaria.
 

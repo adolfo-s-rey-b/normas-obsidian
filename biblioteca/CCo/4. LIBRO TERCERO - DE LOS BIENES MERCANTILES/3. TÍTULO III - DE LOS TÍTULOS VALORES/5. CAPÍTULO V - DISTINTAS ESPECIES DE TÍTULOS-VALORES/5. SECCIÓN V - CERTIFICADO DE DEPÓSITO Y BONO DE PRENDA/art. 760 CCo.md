@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "760"
-epigrafe: "REQUISITOS ADICIONALES A LOS BONOS DE PRENDA*"
+epigrafe: "REQUISITOS ADICIONALES A LOS BONOS DE PRENDA"
 libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
 titulo: "[[CCo - Libro Tercero - Título III|TÍTULO III - DE LOS TÍTULOS VALORES]]"
 capitulo: "[[CCo - Libro Tercero - Título III - Capítulo V|CAPÍTULO V - DISTINTAS ESPECIES DE TÍTULOS-VALORES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título III|Título III]] › [[CCo - Libro Tercero - Título III - Capítulo V|Capítulo V]] › [[CCo - Libro Tercero - Título III - Capítulo V - Sección V|Sección V]]
 
-## Artículo 760. REQUISITOS ADICIONALES A LOS BONOS DE PRENDA*
+## Artículo 760. REQUISITOS ADICIONALES A LOS BONOS DE PRENDA
 
 El bono de prenda contendrá, además:
 

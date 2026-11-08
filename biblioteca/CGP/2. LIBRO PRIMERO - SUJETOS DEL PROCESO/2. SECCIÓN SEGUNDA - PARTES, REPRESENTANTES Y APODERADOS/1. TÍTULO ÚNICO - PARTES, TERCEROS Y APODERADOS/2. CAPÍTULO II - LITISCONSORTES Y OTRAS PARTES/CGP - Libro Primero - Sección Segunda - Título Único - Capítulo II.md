@@ -24,17 +24,17 @@ tags:
 
 ### Contenido
 
-- [[art. 60 CGP|Artículo 60]] — LITISCONSORTES FACULTATIVOS
-- [[art. 61 CGP|Artículo 61]] — LITISCONSORCIO NECESARIO E INTEGRACIÓN DEL CONTRADICTORIO
-- [[art. 62 CGP|Artículo 62]] — LITISCONSORTES CUASINECESARIOS
-- [[art. 63 CGP|Artículo 63]] — INTERVENCIÓN EXCLUYENTE
-- [[art. 64 CGP|Artículo 64]] — LLAMAMIENTO EN GARANTÍA
-- [[art. 65 CGP|Artículo 65]] — REQUISITOS DEL LLAMAMIENTO
-- [[art. 66 CGP|Artículo 66]] — TRÁMITE
-- [[art. 67 CGP|Artículo 67]] — LLAMAMIENTO AL POSEEDOR O TENEDOR
-- [[art. 68 CGP|Artículo 68]] — SUCESIÓN PROCESAL
-- [[art. 69 CGP|Artículo 69]] — INTERVENCIÓN EN INCIDENTES O PARA TRÁMITES ESPECIALES
-- [[art. 70 CGP|Artículo 70]] — IRREVERSIBILIDAD DEL PROCESO
+- [[art. 60 CGP|Artículo 60]] — Litisconsortes facultativos
+- [[art. 61 CGP|Artículo 61]] — Litisconsorcio necesario e integración del contradictorio
+- [[art. 62 CGP|Artículo 62]] — Litisconsortes cuasinecesarios
+- [[art. 63 CGP|Artículo 63]] — Intervención excluyente
+- [[art. 64 CGP|Artículo 64]] — Llamamiento en garantía
+- [[art. 65 CGP|Artículo 65]] — Requisitos del llamamiento
+- [[art. 66 CGP|Artículo 66]] — Trámite
+- [[art. 67 CGP|Artículo 67]] — Llamamiento al poseedor o tenedor
+- [[art. 68 CGP|Artículo 68]] — Sucesión procesal
+- [[art. 69 CGP|Artículo 69]] — Intervención en incidentes o para trámites especiales
+- [[art. 70 CGP|Artículo 70]] — Irreversibilidad del proceso
 
 ---
 ← [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "150"
-epigrafe: "TESTIMONIO EN EL DESPACHO DEL TESTIGO"
+epigrafe: "Testimonio en el despacho del testigo"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 150. TESTIMONIO EN EL DESPACHO DEL TESTIGO
+## Artículo 150. Testimonio en el despacho del testigo
 
 Al Presidente o al Vicepresidente de la República se les recibirá testimonio en su despacho.
 

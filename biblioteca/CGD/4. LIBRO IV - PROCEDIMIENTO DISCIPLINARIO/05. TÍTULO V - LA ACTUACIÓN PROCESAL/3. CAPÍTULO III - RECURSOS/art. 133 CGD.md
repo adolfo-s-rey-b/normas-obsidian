@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "133"
-epigrafe: "RECURSO DE REPOSICIÓN"
+epigrafe: "Recurso de reposición"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 133. RECURSO DE REPOSICIÓN
+## Artículo 133. Recurso de reposición
 
 El recurso de reposición procederá únicamente contra las siguientes decisiones: la que decide sobre la solicitud de nulidad, la que niega la solicitud de copias, la que niega las pruebas en la etapa de investigación, la que declara la no procedencia de la objeción al dictamen pericial, la que niega la acumulación, y la decisión que finalice el procedimiento para el testigo renuente y el quejoso temerario.
 

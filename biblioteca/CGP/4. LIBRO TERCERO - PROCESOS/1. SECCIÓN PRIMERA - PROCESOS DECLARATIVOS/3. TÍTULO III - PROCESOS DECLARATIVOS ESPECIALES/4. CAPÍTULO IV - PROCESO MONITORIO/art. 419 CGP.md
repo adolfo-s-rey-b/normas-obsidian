@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "419"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 419. PROCEDENCIA
+## Artículo 419. Procedencia
 
 Quien pretenda el pago de una obligación en dinero, de naturaleza contractual, determinada y exigible que sea de mínima cuantía, podrá promover proceso monitorio con sujeción a las disposiciones de este Capítulo.
 

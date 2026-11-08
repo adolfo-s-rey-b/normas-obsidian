@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "307"
-epigrafe: "EJECUCIÓN CONTRA ENTIDADES DE DERECHO PÚBLICO"
+epigrafe: "Ejecución contra entidades de derecho público"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título III|TÍTULO III - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] › [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 307. EJECUCIÓN CONTRA ENTIDADES DE DERECHO PÚBLICO
+## Artículo 307. Ejecución contra entidades de derecho público
 
 Cuando la Nación o una entidad territorial sea condenada al pago de una suma de dinero, podrá ser ejecutada pasados diez (10) meses desde la ejecutoria de la respectiva providencia o de la que resuelva sobre su complementación o aclaración.
 

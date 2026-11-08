@@ -12,13 +12,12 @@ epigrafe: "DE LA PRESTACIÓN, ACCESO O USO ILEGALES DE LOS SERVICIOS DE TELECOMU
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VII|TÍTULO VII - DELITOS CONTRA EL PATRIMONIO ECONOMICO]]"
 capitulo: "[[CP - Libro Segundo - Título VII - Capítulo Sexto|CAPÍTULO SEXTO - DE LAS DEFRAUDACIONES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Ley 1032 de 2006]]"
   - "[[art. 257 CP]]"
   - "[[art. 6 Ley 422 de 1998]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 derogado_por:
   - "[[art. 6 Ley 422 de 1998]]"
 anterior: "[[art. 256 CP]]"
@@ -32,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VII|Título VII]] › [[CP - Libro Segundo - Título VII - Capítulo Sexto|Capítulo Sexto]]
@@ -55,7 +54,7 @@ Iguales penas se impondrán a quien, sin la correspondiente autorización, acced
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 1 Ley 1032 de 2006|1]] de la Ley 1032 de 2006, publicada en el Diario Oficial No. 46.307 de 22 de junio de 2006.
 
-> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Mediante Sentencia C-311-02 de 30 de abril, Magistrado Ponente Dr. Manuel José Cepeda Espinosa, la Corte Constitucional declaró estese a lo resuelto en la Sentencia C-739-00 y en concecuencia declarar INEXEQUIBLES los apartes tachados y los incisos 2o. y 3o. Así como EXEQUIBLE la expresión subrayada 'o uso de líneas de telefonía pública básica conmutada local, local extendida o de larga distancia no autorizadas'. - La Corte Constitucional mediante Sentencia C-739-00 del 22 de junio de 2000, Magistrado Ponente Dr. Fabio Morón Díaz declarado EXEQUIBLE el artículo [[art. 6 Ley 422 de 1998|6]] de la Ley 422 de 1998, salvo los apartes tachados y los incisos 2o. y 3o. que declaró INEXEQUIBLES.
 

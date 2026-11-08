@@ -13,7 +13,7 @@ articulo: "442"
 epigrafe: "RESPONSABILIDAD EN EL SERVICIO DE TRANSPORTE GRAVADO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título III|TÍTULO III - RESPONSABLES DEL IMPUESTO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 476 ET]]"
   - "[[art. 25 Ley 6 de 1992]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título III|Título III]]

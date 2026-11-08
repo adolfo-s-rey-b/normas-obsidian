@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "86"
-epigrafe: "DEBER DE INFORMACIÓN"
+epigrafe: "Deber de información"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 86. DEBER DE INFORMACIÓN
+## Artículo 86. Deber de información
 
 El peticionario de una orden preliminar deberá revelar al tribunal arbitral toda circunstancia que pueda ser relevante para la decisión que el tribunal arbitral vaya a adoptar sobre si debe otorgar o mantener la orden, y seguirá estando obligado a hacerlo en tanto que la parte contra la que la orden haya sido pedida no haya tenido la oportunidad de hacer valer sus derechos. A partir de dicho momento, será aplicable el inciso segundo del presente artículo.
 

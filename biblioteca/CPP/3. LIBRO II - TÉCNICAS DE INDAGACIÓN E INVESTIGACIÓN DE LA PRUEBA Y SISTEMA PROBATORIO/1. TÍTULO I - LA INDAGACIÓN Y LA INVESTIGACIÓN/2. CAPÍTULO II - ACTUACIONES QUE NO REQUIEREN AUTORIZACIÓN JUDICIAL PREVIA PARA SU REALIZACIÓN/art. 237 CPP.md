@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "237"
-epigrafe: "AUDIENCIA DE CONTROL DE LEGALIDAD POSTERIOR"
+epigrafe: "Audiencia de control de legalidad posterior"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 68 Ley 1453 de 2011]]"
   - "[[art. 16 Ley 1142 de 2007]]"
@@ -28,12 +28,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 237. AUDIENCIA DE CONTROL DE LEGALIDAD POSTERIOR
+## Artículo 237. Audiencia de control de legalidad posterior
 
 Dentro de las veinticuatro (24) horas siguientes al recibimiento del informe de Policía Judicial sobre las diligencias de las órdenes de registro y allanamiento, retención de correspondencia, interceptación de comunicaciones o recuperación de información producto de la transmisión de datos a través de las redes de comunicaciones, el fiscal comparecerá ante el Juez de Control de Garantías, para que realice la audiencia de revisión de legalidad sobre lo actuado.
 

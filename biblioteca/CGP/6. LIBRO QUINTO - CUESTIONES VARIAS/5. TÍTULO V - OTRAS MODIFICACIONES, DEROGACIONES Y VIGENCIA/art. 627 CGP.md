@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "627"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título V|TÍTULO V - OTRAS MODIFICACIONES, DEROGACIONES Y VIGENCIA]]"
 vigencia: "parcialmente derogado"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título V|Título V]]
 
-## Artículo 627. VIGENCIA
+## Artículo 627. Vigencia
 
 La vigencia de las disposiciones establecidas en esta ley se regirá por las siguientes reglas:
 

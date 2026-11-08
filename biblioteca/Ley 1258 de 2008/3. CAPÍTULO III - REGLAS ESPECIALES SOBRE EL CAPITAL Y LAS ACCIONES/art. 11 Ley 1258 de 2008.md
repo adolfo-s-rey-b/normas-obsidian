@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "11"
-epigrafe: "VOTO SINGULAR O MÚLTIPLE"
+epigrafe: "Voto singular o múltiple"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 10 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 11. VOTO SINGULAR O MÚLTIPLE
+## Artículo 11. Voto singular o múltiple
 
 En los estatutos se expresarán los derechos de votación que le correspondan a cada clase de acciones, con indicación expresa sobre la atribución de voto singular o múltiple, si a ello hubiere lugar.
 

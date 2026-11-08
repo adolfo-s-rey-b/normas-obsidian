@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "22"
-epigrafe: "EXONERACIÓN DE RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO"
+epigrafe: "Exoneración de responsabilidad por daños por producto defectuoso"
 titulo: "[[Ley 1480 de 2011 - Título IV|TÍTULO IV - RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO]]"
 capitulo: "[[Ley 1480 de 2011 - Título IV - Capítulo Único|CAPÍTULO ÚNICO - DE LA RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IV|Título IV]] › [[Ley 1480 de 2011 - Título IV - Capítulo Único|Capítulo Único]]
 
-## Artículo 22. EXONERACIÓN DE RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO
+## Artículo 22. Exoneración de responsabilidad por daños por producto defectuoso
 
 Solo son admisibles como causales de exoneración de la responsabilidad por daños por producto defectuoso las siguientes:
 

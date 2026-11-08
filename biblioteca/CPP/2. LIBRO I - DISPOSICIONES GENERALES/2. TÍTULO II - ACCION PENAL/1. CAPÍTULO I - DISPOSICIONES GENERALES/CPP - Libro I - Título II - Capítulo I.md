@@ -21,23 +21,23 @@ tags:
 
 ### Contenido
 
-- [[art. 66 CPP|Artículo 66]] — TITULARIDAD Y OBLIGATORIEDAD
-- [[art. 67 CPP|Artículo 67]] — DEBER DE DENUNCIAR
-- [[art. 68 CPP|Artículo 68]] — EXONERACIÓN DEL DEBER DE DENUNCIAR
-- [[art. 69 CPP|Artículo 69]] — REQUISITOS DE LA DENUNCIA, DE LA QUERELLA O DE LA PETICIÓN
-- [[art. 70 CPP|Artículo 70]] — CONDICIONES DE PROCESABILIDAD
-- [[art. 71 CPP|Artículo 71]] — QUERELLANTE LEGÍTIMO
-- [[art. 72 CPP|Artículo 72]] — EXTENSIÓN DE LA QUERELLA
-- [[art. 73 CPP|Artículo 73]] — CADUCIDAD DE LA QUERELLA
-- [[art. 74 CPP|Artículo 74]] — CONDUCTAS PUNIBLES QUE REQUIEREN QUERELLA
-- [[art. 75 CPP|Artículo 75]] — DELITOS QUE REQUIEREN PETICIÓN ESPECIAL
-- [[art. 76 CPP|Artículo 76]] — DESISTIMIENTO DE LA QUERELLA
-- [[art. 77 CPP|Artículo 77]] — EXTINCIÓN
-- [[art. 78 CPP|Artículo 78]] — TRÁMITE DE LA EXTINCIÓN
-- [[art. 78A CPP|Artículo 78A]] — REPARACIÓN INTEGRAL
-- [[art. 79 CPP|Artículo 79]] — ARCHIVO DE LAS DILIGENCIAS
-- [[art. 80 CPP|Artículo 80]] — EFECTOS DE LA EXTINCIÓN
-- [[art. 81 CPP|Artículo 81]] — CONTINUACIÓN DE LA PERSECUCIÓN PENAL PARA LOS DEMÁS IMPUTADOS O PROCESADOS
+- [[art. 66 CPP|Artículo 66]] — Titularidad y obligatoriedad
+- [[art. 67 CPP|Artículo 67]] — Deber de denunciar
+- [[art. 68 CPP|Artículo 68]] — Exoneración del deber de denunciar
+- [[art. 69 CPP|Artículo 69]] — Requisitos de la denuncia, de la querella o de la petición
+- [[art. 70 CPP|Artículo 70]] — Condiciones de procesabilidad
+- [[art. 71 CPP|Artículo 71]] — Querellante legítimo
+- [[art. 72 CPP|Artículo 72]] — Extensión de la querella
+- [[art. 73 CPP|Artículo 73]] — Caducidad de la querella
+- [[art. 74 CPP|Artículo 74]] — Conductas punibles que requieren querella
+- [[art. 75 CPP|Artículo 75]] — Delitos que requieren petición especial
+- [[art. 76 CPP|Artículo 76]] — Desistimiento de la querella
+- [[art. 77 CPP|Artículo 77]] — Extinción
+- [[art. 78 CPP|Artículo 78]] — Trámite de la extinción
+- [[art. 78A CPP|Artículo 78A]] — Reparación integral
+- [[art. 79 CPP|Artículo 79]] — Archivo de las diligencias
+- [[art. 80 CPP|Artículo 80]] — Efectos de la extinción
+- [[art. 81 CPP|Artículo 81]] — Continuación de la persecución penal para los demás imputados o procesados
 
 ---
 ↑ [[CPP - Libro I - Título II|Título II]] · [[CPP - Libro I - Título II - Capítulo II|Capítulo II]] →

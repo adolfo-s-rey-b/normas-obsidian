@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "297"
-epigrafe: "RENDICION DE CUENTAS"
+epigrafe: "Rendición de Cuentas"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "parcialmente inexequible"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 297. RENDICION DE CUENTAS
+## Artículo 297. Rendición de Cuentas
 
 1\. Deber y oportunidad de la rendición de cuentas. El liquidador deberá rendir cuentas comprobadas de su gestión mediante una exposición razonada y detallada de los actos de gestión de los negocios, bienes y haberes de la entidad intervenida, y del pago de las acreencias y la restitución de bienes y sumas excluídas de la masa de la liquidación.
 

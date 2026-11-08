@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "22"
-epigrafe: "QUÓRUM Y MAYORÍAS EN LA ASAMBLEA DE ACCIONISTAS"
+epigrafe: "Quórum y mayorías en la asamblea de accionistas"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 21 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 22. QUÓRUM Y MAYORÍAS EN LA ASAMBLEA DE ACCIONISTAS
+## Artículo 22. Quórum y mayorías en la asamblea de accionistas
 
 Salvo estipulación en contrario, la asamblea deliberará con uno o varios accionistas que representen cuando menos la mitad más una de las acciones suscritas.
 

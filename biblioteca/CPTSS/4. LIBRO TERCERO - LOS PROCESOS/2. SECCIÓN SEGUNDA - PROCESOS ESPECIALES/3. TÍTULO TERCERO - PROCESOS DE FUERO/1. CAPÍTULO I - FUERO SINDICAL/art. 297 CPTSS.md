@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "297"
-epigrafe: "APELACIÓN"
+epigrafe: "Apelación"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|TÍTULO TERCERO - PROCESOS DE FUERO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|Capítulo I]]
 
-## Artículo 297. APELACIÓN
+## Artículo 297. Apelación
 
 La sentencia será apelable en el efecto suspensivo. El tribunal decidirá de plano dentro de los cinco (5) días siguientes al recibido del expediente.
 

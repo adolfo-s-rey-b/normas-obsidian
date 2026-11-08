@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "492"
-epigrafe: "REQUERIMIENTO A HEREDEROS PARA EJERCER EL DERECHO DE OPCIÓN, Y AL CÓNYUGE O COMPAÑERO SOBREVIVIENTE"
+epigrafe: "Requerimiento a herederos para ejercer el derecho de opción, y al cónyuge o compañero sobreviviente"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 492. REQUERIMIENTO A HEREDEROS PARA EJERCER EL DERECHO DE OPCIÓN, Y AL CÓNYUGE O COMPAÑERO SOBREVIVIENTE
+## Artículo 492. Requerimiento a herederos para ejercer el derecho de opción, y al cónyuge o compañero sobreviviente
 
 Para los fines previstos en el artículo [[art. 1289 CC|1289]] del Código Civil, el juez requerirá a cualquier asignatario para que en el término de veinte (20) días, prorrogable por otro igual, declare si acepta o repudia la asignación que se le hubiere deferido, y el juez ordenará el requerimiento si la calidad de asignatario aparece en el expediente, o el peticionario presenta la prueba respectiva.
 

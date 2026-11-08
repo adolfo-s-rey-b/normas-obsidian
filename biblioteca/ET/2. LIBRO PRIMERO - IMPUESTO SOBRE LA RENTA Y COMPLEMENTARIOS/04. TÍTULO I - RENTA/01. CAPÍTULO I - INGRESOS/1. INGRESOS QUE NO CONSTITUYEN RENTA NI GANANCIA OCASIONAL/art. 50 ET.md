@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "50"
-epigrafe: "UTILIDADES EN AJUSTES POR INFLACIÓN* O POR COMPONENTE INFLACIONARIO"
+epigrafe: "UTILIDADES EN AJUSTES POR INFLACIÓN O POR COMPONENTE INFLACIONARIO"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -56,7 +56,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]
 
-## Artículo 50. UTILIDADES EN AJUSTES POR INFLACIÓN* O POR COMPONENTE INFLACIONARIO
+## Artículo 50. UTILIDADES EN AJUSTES POR INFLACIÓN O POR COMPONENTE INFLACIONARIO
 
 La parte de las utilidades generadas por las sociedades nacionales en exceso de las que se pueden distribuir con el carácter de no gravables, conforme a lo previsto en los artículos [[art. 48 ET|48]] y [[art. 49 ET|49]], se podrá distribuir en acciones o cuotas de interés social o llevar directamente a la cuenta de capital, sin que constituya renta ni ganancia ocasional, en cuanto provenga de ajustes por inflación* efectuados a los activos, o de utilidades provenientes del componente inflacionario no gravable de los rendimientos financieros percibidos.
 

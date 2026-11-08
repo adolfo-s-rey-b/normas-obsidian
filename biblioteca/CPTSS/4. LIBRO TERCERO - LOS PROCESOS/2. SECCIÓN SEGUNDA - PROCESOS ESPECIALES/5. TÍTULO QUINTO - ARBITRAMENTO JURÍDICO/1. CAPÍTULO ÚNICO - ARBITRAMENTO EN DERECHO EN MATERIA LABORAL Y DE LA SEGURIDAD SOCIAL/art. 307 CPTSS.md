@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "307"
-epigrafe: "CONTENIDO DEL LAUDO DE CARÁCTER JURÍDICO"
+epigrafe: "Contenido del laudo de carácter jurídico"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|TÍTULO QUINTO - ARBITRAMENTO JURÍDICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|Capítulo Único]]
 
-## Artículo 307. CONTENIDO DEL LAUDO DE CARÁCTER JURÍDICO
+## Artículo 307. Contenido del laudo de carácter jurídico
 
 El laudo será en derecho, se expedirá por escrito debiendo ser firmado por todos los árbitros, se anunciarán los hechos que estime probados, las razones de derecho y los razonamientos necesarios para fundamentar las conclusiones. Finalmente expondrán suficientemente la sustentación del fallo, ajustándose en lo posible a la forma y contenido de las sentencias que profieran los jueces del trabajo.
 

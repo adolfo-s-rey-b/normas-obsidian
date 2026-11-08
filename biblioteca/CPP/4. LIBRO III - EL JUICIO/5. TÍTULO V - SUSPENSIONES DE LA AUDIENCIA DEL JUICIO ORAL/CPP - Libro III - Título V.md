@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 454 CPP|Artículo 454]] — PRINCIPIO DE CONCENTRACIÓN
+- [[art. 454 CPP|Artículo 454]] — Principio de concentración
 
 ---
 ← [[CPP - Libro III - Título IV|Título IV]] · ↑ [[CPP - Libro III|Libro III]] · [[CPP - Libro III - Título VI|Título VI]] →

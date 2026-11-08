@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "46"
-epigrafe: "PARTICIPACION DE LAS ENTIDADES DESCENTRALIZADAS EN LA POLITICA GUBERNAMENTAL"
+epigrafe: "Participación de las entidades descentralizadas en la política gubernamental"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 45 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 46. PARTICIPACION DE LAS ENTIDADES DESCENTRALIZADAS EN LA POLITICA GUBERNAMENTAL
+## Artículo 46. Participación de las entidades descentralizadas en la política gubernamental
 
 Los organismos y entidades descentralizados participarán en la formulación de la política, en la elaboración de los programas sectoriales y en la ejecución de los mismos, bajo la orientación de los ministerios y departamentos administrativos respectivos.
 

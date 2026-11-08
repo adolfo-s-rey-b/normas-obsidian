@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "143"
-epigrafe: "PÉRDIDA DE INVESTIDURA"
+epigrafe: "Pérdida de Investidura"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 143. PÉRDIDA DE INVESTIDURA
+## Artículo 143. Pérdida de Investidura
 
 A solicitud de la Mesa Directiva de la Cámara correspondiente o de cualquier ciudadano y por las causas establecidas en la Constitución, se podrá demandar la pérdida de investidura de congresistas.
 

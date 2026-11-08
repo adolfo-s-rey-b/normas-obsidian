@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "243"
-epigrafe: "DECISIÓN SOBRE IMPEDIMENTOS Y RECUSACIONES"
+epigrafe: "Decisión sobre impedimentos y recusaciones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo II|CAPÍTULO II - FALTAS DISCIPLINARIAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo II|Capítulo II]]
 
-## Artículo 243. DECISIÓN SOBRE IMPEDIMENTOS Y RECUSACIONES
+## Artículo 243. Decisión sobre impedimentos y recusaciones
 
 En la Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial, ~~o quienes hagan sus veces~~, los impedimentos y recusaciones serán resueltos de plano por los demás integrantes de la Sala y si fuere necesario se sortearán con jueces. En las Salas disciplinarias duales de las Comisiones Seccionales de Disciplina Judicial, o quienes hagan sus veces, los impedimentos y recusaciones de uno de sus miembros serán resueltos por el otro magistrado, junto con el conjuez o conjueces a que hubiere lugar.
 

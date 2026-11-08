@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "18"
-epigrafe: "DURACIÓN DE LOS ACUERDOS DE APOYO"
+epigrafe: "Duración de los acuerdos de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo III|CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 17 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo III|Capítulo III]]
 
-## Artículo 18. DURACIÓN DE LOS ACUERDOS DE APOYO
+## Artículo 18. Duración de los acuerdos de apoyo
 
 Ningún acuerdo de apoyo puede extenderse por un período superior a cinco (5) años, pasados los cuales se deberá agotar de nuevo alguno de los procedimientos previstos en la presente ley.
 

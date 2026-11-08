@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "909"
-epigrafe: "INSCRIPCIÓN AL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE"
+epigrafe: "INSCRIPCIÓN AL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE"
 libro: "[[ET - Libro Octavo|LIBRO OCTAVO - IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN (SIMPLE) PARA LA FORMALIZACIÓN Y LA GENERACIÓN DE EMPLEO]]"
 vigencia: "derogado"
 modificado_por:
@@ -38,7 +38,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Octavo|Libro Octavo]]
 
-## Artículo 909. INSCRIPCIÓN AL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
+## Artículo 909. INSCRIPCIÓN AL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE
 
 > [!info] Artículo modificado por el artículo [[art. 74 Ley 2010 de 2019|74]] de la Ley 2010 de 2019. El nuevo texto es el siguiente:
 

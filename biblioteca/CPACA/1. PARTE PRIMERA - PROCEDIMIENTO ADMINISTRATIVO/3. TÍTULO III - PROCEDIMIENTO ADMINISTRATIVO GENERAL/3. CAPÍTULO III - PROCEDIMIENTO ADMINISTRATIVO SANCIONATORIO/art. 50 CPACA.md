@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "50"
-epigrafe: "GRADUACIÓN DE LAS SANCIONES"
+epigrafe: "Graduación de las sanciones"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 50. GRADUACIÓN DE LAS SANCIONES
+## Artículo 50. Graduación de las sanciones
 
 Salvo lo dispuesto en leyes especiales, la gravedad de las faltas y el rigor de las sanciones por infracciones administrativas se graduarán atendiendo a los siguientes criterios, en cuanto resultaren aplicables:
 

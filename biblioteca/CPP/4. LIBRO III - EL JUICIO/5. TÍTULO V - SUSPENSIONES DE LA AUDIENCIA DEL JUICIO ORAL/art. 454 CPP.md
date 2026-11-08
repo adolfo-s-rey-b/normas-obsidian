@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "454"
-epigrafe: "PRINCIPIO DE CONCENTRACIÓN"
+epigrafe: "Principio de concentración"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título V|TÍTULO V - SUSPENSIONES DE LA AUDIENCIA DEL JUICIO ORAL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título V|Título V]]
 
-## Artículo 454. PRINCIPIO DE CONCENTRACIÓN
+## Artículo 454. Principio de concentración
 
 La audiencia del juicio oral deberá ser continua salvo que se trate de situaciones sobrevinientes de manifiesta gravedad, y sin existir otra alternativa viable, en cuyo caso podrá suspenderse por el tiempo que dure el fenómeno que ha motivado la suspensión.
 

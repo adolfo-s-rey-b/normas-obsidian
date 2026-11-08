@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "171"
-epigrafe: "ADMISIÓN DE LA DEMANDA"
+epigrafe: "Admisión de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 171. ADMISIÓN DE LA DEMANDA
+## Artículo 171. Admisión de la demanda
 
 El juez admitirá la demanda que reúna los requisitos legales y le dará el trámite que le corresponda aunque el demandante haya indicado una vía procesal inadecuada, mediante auto en el que dispondrá:
 

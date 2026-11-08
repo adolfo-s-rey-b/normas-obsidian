@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "3"
-epigrafe: "DE LOS FINES DE LA CONTRATACIÓN ESTATAL"
+epigrafe: "De los Fines de la Contratación Estatal"
 vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 32 Ley 1150 de 2007]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 3. DE LOS FINES DE LA CONTRATACIÓN ESTATAL
+## Artículo 3. De los Fines de la Contratación Estatal
 
 Los servidores públicos tendrán en consideración que al celebrar contratos y con la ejecución de los mismos, las entidades buscan el cumplimiento de los fines estatales, la continua y eficiente prestación de los servicios públicos y la efectividad de los derechos e intereses de los administrados que colaboran con ellas en la consecución de dichos fines.
 

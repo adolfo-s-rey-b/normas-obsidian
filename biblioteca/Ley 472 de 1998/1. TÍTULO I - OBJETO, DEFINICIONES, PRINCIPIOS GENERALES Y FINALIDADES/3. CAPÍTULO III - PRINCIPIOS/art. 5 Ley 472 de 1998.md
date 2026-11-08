@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "5"
-epigrafe: "TRAMITE"
+epigrafe: "Trámite"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo III|CAPÍTULO III - PRINCIPIOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 5. TRAMITE
+## Artículo 5. Trámite
 
 El trámite de las acciones reguladas en esta ley se desarrollará con fundamento en los principios constitucionales y especialmente en los de prevalencia del derecho sustancial, publicidad, economía, celeridad y eficacia. Se aplicarán también los principios generales del Código de Procedimiento Civil, cuando éstos no se contrapongan a la naturaleza de dichas acciones.
 

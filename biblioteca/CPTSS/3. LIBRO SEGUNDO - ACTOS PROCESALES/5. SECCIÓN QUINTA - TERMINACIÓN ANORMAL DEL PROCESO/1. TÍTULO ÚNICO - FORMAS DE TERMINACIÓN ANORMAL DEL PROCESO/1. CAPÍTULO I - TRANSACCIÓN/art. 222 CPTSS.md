@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "222"
-epigrafe: "TRANSACCIÓN POR ENTIDADES PÚBLICAS"
+epigrafe: "Transacción por entidades públicas"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - FORMAS DE TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CPTSS - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 222. TRANSACCIÓN POR ENTIDADES PÚBLICAS
+## Artículo 222. Transacción por entidades públicas
 
 Los representantes de La Nación, departamentos y municipios no podrán transigir sin autorización del Gobierno nacional, del gobernador o alcalde, según fuere el caso, conforme al comité de conciliación de la entidad.
 

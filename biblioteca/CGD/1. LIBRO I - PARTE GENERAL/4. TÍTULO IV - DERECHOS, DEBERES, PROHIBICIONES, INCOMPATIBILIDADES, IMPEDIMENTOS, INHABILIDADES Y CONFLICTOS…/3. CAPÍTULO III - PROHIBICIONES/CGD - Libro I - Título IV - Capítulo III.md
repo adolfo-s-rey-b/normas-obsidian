@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 39 CGD|Artículo 39]] — PROHIBICIONES
+- [[art. 39 CGD|Artículo 39]] — Prohibiciones
 
 ---
 ← [[CGD - Libro I - Título IV - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro I - Título IV|Título IV]] · [[CGD - Libro I - Título IV - Capítulo IV|Capítulo IV]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "157"
-epigrafe: "RATIFICACIÓN DE LAS DECLARACIONES RECIBIDAS FUERA DEL PROCESO"
+epigrafe: "Ratificación de las declaraciones recibidas fuera del proceso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 157. RATIFICACIÓN DE LAS DECLARACIONES RECIBIDAS FUERA DEL PROCESO
+## Artículo 157. Ratificación de las declaraciones recibidas fuera del proceso
 
 Solo podrán ratificarse en un proceso las declaraciones de testigos cuando se hayan rendido en otro o en forma anticipada y extraprocesal sin citación o intervención de la persona contra quien se aduzcan, siempre que esta lo solicite.
 

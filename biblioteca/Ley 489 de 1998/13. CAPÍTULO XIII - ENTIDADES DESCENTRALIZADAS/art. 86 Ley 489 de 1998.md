@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "86"
-epigrafe: "AUTONOMIA ADMINISTRATIVA Y FINANCIERA"
+epigrafe: "Autonomía administrativa y financiera"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 85 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 86. AUTONOMIA ADMINISTRATIVA Y FINANCIERA
+## Artículo 86. Autonomía administrativa y financiera
 
 La autonomía administrativa y financiera de las empresas industriales y comerciales del Estado se ejercerá conforme a los actos que las rigen; en el cumplimiento de sus actividades, se ceñirán a la ley o norma que las creó o autorizó y a sus estatutos internos; no podrán destinar cualquier parte de sus bienes o recursos para fines diferentes de los contemplados en la ley o en sus estatutos internos; además de las actividades o actos allí previstos, podrán desarrollar y ejecutar todos aquellos que sean necesarios para el cumplimiento del objeto asignado.
 

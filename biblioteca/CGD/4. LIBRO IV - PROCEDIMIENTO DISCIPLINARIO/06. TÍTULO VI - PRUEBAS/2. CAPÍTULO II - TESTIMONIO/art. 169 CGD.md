@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "169"
-epigrafe: "TESTIGO IMPEDIDO PARA CONCURRIR"
+epigrafe: "Testigo impedido para concurrir"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 169. TESTIGO IMPEDIDO PARA CONCURRIR
+## Artículo 169. Testigo impedido para concurrir
 
 Si el testigo estuviere físicamente impedido para concurrir al despacho del funcionario competente, será interrogado en el lugar en que se encuentre a través de cualquier medio técnico que facilite su recepción.
 

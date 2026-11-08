@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "38"
-epigrafe: "SUPRESIÓN DE PROHIBICIONES"
+epigrafe: "Supresión de prohibiciones"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 38. SUPRESIÓN DE PROHIBICIONES
+## Artículo 38. Supresión de prohibiciones
 
 Las prohibiciones contenidas en los artículos [[art. 155 CCo|155]], [[art. 185 CCo|185]], [[art. 202 CCo|202]], [[art. 404 CCo|404]], [[art. 435 CCo|435]] y [[art. 454 CCo|454]] del Código de Comercio no se les aplicarán a las sociedades por acciones simplificadas, a menos que en los estatutos se disponga lo contrario.
 

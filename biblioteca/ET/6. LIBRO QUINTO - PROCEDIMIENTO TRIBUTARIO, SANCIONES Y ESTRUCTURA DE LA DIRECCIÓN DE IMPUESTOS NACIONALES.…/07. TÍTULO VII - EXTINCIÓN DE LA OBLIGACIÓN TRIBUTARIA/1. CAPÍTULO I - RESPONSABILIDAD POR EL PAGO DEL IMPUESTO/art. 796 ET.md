@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "796"
-epigrafe: "SOLIDARIDAD DE LAS ENTIDADES PUBLICAS POR EL IMPUESTO SOBRE LAS VENTAS"
+epigrafe: "SOLIDARIDAD DE LAS ENTIDADES PÚBLICAS POR EL IMPUESTO SOBRE LAS VENTAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo I|CAPÍTULO I - RESPONSABILIDAD POR EL PAGO DEL IMPUESTO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo I|Capítulo I]]
 
-## Artículo 796. SOLIDARIDAD DE LAS ENTIDADES PUBLICAS POR EL IMPUESTO SOBRE LAS VENTAS
+## Artículo 796. SOLIDARIDAD DE LAS ENTIDADES PÚBLICAS POR EL IMPUESTO SOBRE LAS VENTAS
 
 Los representantes legales de las entidades del sector público, responden solidariamente con la entidad por el impuesto sobre las ventas no consignado oportunamente que se cause a partir de diciembre 24 de 1986, y por sus correspondientes sanciones.
 

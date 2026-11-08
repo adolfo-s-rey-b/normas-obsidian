@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "145"
-epigrafe: "REQUISITOS PARA SOLICITAR LA REVOCATORIA DE LOS FALLOS"
+epigrafe: "Requisitos para solicitar la revocatoria de los fallos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo IV|CAPÍTULO IV - REVOCATORIA DIRECTA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 145. REQUISITOS PARA SOLICITAR LA REVOCATORIA DE LOS FALLOS
+## Artículo 145. Requisitos para solicitar la revocatoria de los fallos
 
 La solicitud de revocatoria se formulará dentro de los cinco años siguientes a la fecha de ejecutoria del fallo, mediante escrito que debe contener:
 

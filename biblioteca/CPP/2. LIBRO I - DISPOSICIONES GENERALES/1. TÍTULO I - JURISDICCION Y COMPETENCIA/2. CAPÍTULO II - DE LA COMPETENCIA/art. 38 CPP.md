@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "38"
-epigrafe: "DE LOS JUECES DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD"
+epigrafe: "De los jueces de ejecución de penas y medidas de seguridad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 38. DE LOS JUECES DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
+## Artículo 38. De los jueces de ejecución de penas y medidas de seguridad
 
 Los jueces de ejecución de penas y medidas de seguridad conocen:
 

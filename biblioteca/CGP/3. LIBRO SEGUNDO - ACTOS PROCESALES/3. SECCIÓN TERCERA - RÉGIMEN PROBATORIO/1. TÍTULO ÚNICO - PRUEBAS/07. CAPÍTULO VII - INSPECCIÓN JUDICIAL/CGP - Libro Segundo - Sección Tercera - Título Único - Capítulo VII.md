@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 236 CGP|Artículo 236]] — PROCEDENCIA DE LA INSPECCIÓN
-- [[art. 237 CGP|Artículo 237]] — SOLICITUD Y DECRETO DE LA INSPECCIÓN
-- [[art. 238 CGP|Artículo 238]] — PRÁCTICA DE LA INSPECCIÓN
-- [[art. 239 CGP|Artículo 239]] — INSPECCIÓN DE COSAS MUEBLES O DOCUMENTOS
+- [[art. 236 CGP|Artículo 236]] — Procedencia de la inspección
+- [[art. 237 CGP|Artículo 237]] — Solicitud y decreto de la inspección
+- [[art. 238 CGP|Artículo 238]] — Práctica de la inspección
+- [[art. 239 CGP|Artículo 239]] — Inspección de cosas muebles o documentos
 
 ---
 ← [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VIII|Capítulo VIII]] →

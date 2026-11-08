@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "410"
-epigrafe: "OBLIGATORIEDAD DEL CARGO DE PERITO"
+epigrafe: "Obligatoriedad del cargo de perito"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]]
 
-## Artículo 410. OBLIGATORIEDAD DEL CARGO DE PERITO
+## Artículo 410. Obligatoriedad del cargo de perito
 
 El nombramiento de perito, tratándose de servidor público, es de forzosa aceptación y ejercicio. Para el particular solo lo será ante falta absoluta de aquellos.
 

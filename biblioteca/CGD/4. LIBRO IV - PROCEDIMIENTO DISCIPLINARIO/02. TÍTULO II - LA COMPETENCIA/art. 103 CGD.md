@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "103"
-epigrafe: "TRÁMITE PROCESAL"
+epigrafe: "Trámite Procesal"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 103. TRÁMITE PROCESAL
+## Artículo 103. Trámite Procesal
 
 La competencia disciplinaria especial establecida en los artículos anteriores será ejercida de conformidad con el procedimiento previsto en esta ley.
 

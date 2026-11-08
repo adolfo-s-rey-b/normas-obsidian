@@ -21,14 +21,14 @@ tags:
 ### Contenido
 
 - [[art. 73 Ley 1474 de 2011|Artículo 73]] — PROGRAMAS DE TRANSPARENCIA Y ÉTICA EN EL SECTOR PÚBLICO
-- [[art. 74 Ley 1474 de 2011|Artículo 74]] — PLAN DE ACCIÓN DE LAS ENTIDADES PÚBLICAS
+- [[art. 74 Ley 1474 de 2011|Artículo 74]] — Plan de acción de las entidades públicas
 - [[art. 75 Ley 1474 de 2011|Artículo 75]] — Política antitrámites
-- [[art. 76 Ley 1474 de 2011|Artículo 76]] — OFICINA DE QUEJAS, SUGERENCIAS Y RECLAMOS
-- [[art. 77 Ley 1474 de 2011|Artículo 77]] — PUBLICACIÓN PROYECTOS DE INVERSIÓN
-- [[art. 78 Ley 1474 de 2011|Artículo 78]] — DEMOCRATIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA
-- [[art. 79 Ley 1474 de 2011|Artículo 79]] — PEDAGOGÍA DE LAS COMPETENCIAS CIUDADANAS
-- [[art. 80 Ley 1474 de 2011|Artículo 80]] — DIVULGACIÓN DE CAMPAÑAS INSTITUCIONALES DE PREVENCIÓN DE LA CORRUPCIÓN
-- [[art. 81 Ley 1474 de 2011|Artículo 81]] — SANCIONES POR INCUMPLIMIENTO DE POLÍTICAS INSTITUCIONALES
+- [[art. 76 Ley 1474 de 2011|Artículo 76]] — Oficina de Quejas, Sugerencias y Reclamos
+- [[art. 77 Ley 1474 de 2011|Artículo 77]] — Publicación proyectos de inversión
+- [[art. 78 Ley 1474 de 2011|Artículo 78]] — Democratización de la Administración Pública
+- [[art. 79 Ley 1474 de 2011|Artículo 79]] — Pedagogía de las competencias ciudadanas
+- [[art. 80 Ley 1474 de 2011|Artículo 80]] — Divulgación de campañas institucionales de prevención de la corrupción
+- [[art. 81 Ley 1474 de 2011|Artículo 81]] — Sanciones por incumplimiento de políticas institucionales
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo V|Capítulo V]] · ↑ [[Ley 1474 de 2011|Ley 1474 de 2011]] · [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "154"
-epigrafe: "REQUISITOS DE LA DECLARACIÓN DE TERCEROS"
+epigrafe: "Requisitos de la declaración de terceros"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 154. REQUISITOS DE LA DECLARACIÓN DE TERCEROS
+## Artículo 154. Requisitos de la declaración de terceros
 
 Las preguntas se formularán oralmente en la audiencia. Sin embargo, excepcionalmente y cuando los medios tecnológicos no lo permitan si la prueba se practica por comisionado las partes podrán entregar cuestionario escrito antes del inicio de la audiencia.
 

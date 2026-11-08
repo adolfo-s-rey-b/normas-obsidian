@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "275"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo X|Capítulo X]]
 
-## Artículo 275. PROCEDENCIA
+## Artículo 275. Procedencia
 
 A petición de parte o de oficio el juez podrá solicitar informes a entidades públicas o privadas, o a sus representantes, o a cualquier persona sobre hechos, actuaciones, cifras o demás datos que resulten de los archivos o registros de quien rinde el informe, salvo los casos de reserva legal. Tales informes se entenderán rendidos bajo la gravedad del juramento por el representante, funcionario o persona responsable del mismo.
 

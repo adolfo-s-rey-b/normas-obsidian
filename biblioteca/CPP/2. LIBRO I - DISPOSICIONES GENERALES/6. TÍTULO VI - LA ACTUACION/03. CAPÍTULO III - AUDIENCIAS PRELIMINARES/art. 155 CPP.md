@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "155"
-epigrafe: "PUBLICIDAD"
+epigrafe: "Publicidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo III|CAPÍTULO III - AUDIENCIAS PRELIMINARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 155. PUBLICIDAD
+## Artículo 155. Publicidad
 
 Las audiencias preliminares deben realizarse con la presencia del imputado o de su defensor. La asistencia del Ministerio Público no es obligatoria.
 

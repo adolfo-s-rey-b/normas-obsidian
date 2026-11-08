@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "252"
-epigrafe: "REGIMEN PATRIMONIAL"
+epigrafe: "Régimen Patrimonial"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo V|CAPÍTULO V - INSTITUTO DE FOMENTO INDUSTRIAL IFI]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo V|Capítulo V]]
 
-## Artículo 252. REGIMEN PATRIMONIAL
+## Artículo 252. Régimen Patrimonial
 
 1\. Capital. El capital del Instituto de Fomento Industrial, IFI, podrá aumentar mediante la suscripción de acciones por los bancos comerciales y por individuos o entidades, oficiales o particulares.
 

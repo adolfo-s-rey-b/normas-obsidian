@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "185"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo IV|CAPÍTULO IV - INSPECCIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 185. PROCEDENCIA
+## Artículo 185. Procedencia
 
 Para la individualización de autores y su posterior vinculación o la verificación o el esclarecimiento de los hechos materia de investigación, podrá ordenarse, de oficio o a petición de parte, inspección disciplinaria que podrá recaer sobre cosas, lugares, bienes y otros efectos materiales, de la cual se extenderá acta en la que se describirán los elementos relevantes encontrados y se consignarán las manifestaciones que hagan las personas que intervengan en la diligencia.
 

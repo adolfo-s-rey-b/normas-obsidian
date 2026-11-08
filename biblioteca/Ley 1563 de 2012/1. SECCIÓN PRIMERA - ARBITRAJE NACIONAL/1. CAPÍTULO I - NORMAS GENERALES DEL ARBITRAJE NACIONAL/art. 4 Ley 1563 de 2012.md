@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "4"
-epigrafe: "CLÁUSULA COMPROMISORIA"
+epigrafe: "Cláusula compromisoria"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 4. CLÁUSULA COMPROMISORIA
+## Artículo 4. Cláusula compromisoria
 
 La cláusula compromisoria, podrá formar parte de un contrato o constar en documento separado inequívocamente referido a él.
 

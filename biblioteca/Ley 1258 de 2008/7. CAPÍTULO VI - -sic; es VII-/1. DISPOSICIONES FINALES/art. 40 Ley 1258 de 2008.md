@@ -4,10 +4,10 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "40"
-epigrafe: "RESOLUCIÓN DE CONFLICTOS SOCIETARIOS"
+epigrafe: "Resolución de conflictos societarios"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 39 Ley 1258 de 2008]]"
@@ -22,12 +22,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1258_de_2008
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 40. RESOLUCIÓN DE CONFLICTOS SOCIETARIOS
+## Artículo 40. Resolución de conflictos societarios
 
 Las diferencias que ocurran a los accionistas entre sí, o con la sociedad o sus administradores, en desarrollo del contrato social o del acto unilateral, incluida la impugnación de determinaciones de asamblea o junta directiva con fundamento en cualquiera de las causas legales, podrán someterse a decisión arbitral o de amigables componedores, si así se pacta en los estatutos.
 

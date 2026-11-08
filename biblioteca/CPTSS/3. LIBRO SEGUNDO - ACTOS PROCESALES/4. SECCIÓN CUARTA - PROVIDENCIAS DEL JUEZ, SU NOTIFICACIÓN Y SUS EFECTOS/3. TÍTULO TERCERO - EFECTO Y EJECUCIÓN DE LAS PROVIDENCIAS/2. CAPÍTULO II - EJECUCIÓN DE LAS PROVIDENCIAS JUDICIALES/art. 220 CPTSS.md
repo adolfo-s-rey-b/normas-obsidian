@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "220"
-epigrafe: "OPOSICIONES A LA ENTREGA"
+epigrafe: "Oposiciones a la entrega"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|TÍTULO TERCERO - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo II|Capítulo II]]
 
-## Artículo 220. OPOSICIONES A LA ENTREGA
+## Artículo 220. Oposiciones a la entrega
 
 Las oposiciones a la entrega se someterán a las siguientes reglas:
 

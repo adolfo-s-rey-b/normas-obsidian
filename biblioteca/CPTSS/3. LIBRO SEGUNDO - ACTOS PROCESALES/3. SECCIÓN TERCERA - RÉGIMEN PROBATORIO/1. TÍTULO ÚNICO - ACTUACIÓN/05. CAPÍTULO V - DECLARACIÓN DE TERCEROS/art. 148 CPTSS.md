@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "148"
-epigrafe: "IMPARCIALIDAD DEL TESTIGO"
+epigrafe: "Imparcialidad del testigo"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 148. IMPARCIALIDAD DEL TESTIGO
+## Artículo 148. Imparcialidad del testigo
 
 Cualquiera de las partes podrá tachar el testimonio de las personas que se encuentren en circunstancias que afecten su credibilidad o imparcialidad, en razón de parentesco, dependencias, sentimientos o interés en relación con las partes o sus apoderados, antecedentes personales u otras causas.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "227"
-epigrafe: "TRÁMITE Y ALCANCES DE LA INTERVENCIÓN DE TERCEROS"
+epigrafe: "Trámite y alcances de la intervención de terceros"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]]
 
-## Artículo 227. TRÁMITE Y ALCANCES DE LA INTERVENCIÓN DE TERCEROS
+## Artículo 227. Trámite y alcances de la intervención de terceros
 
 En lo no regulado en este Código sobre la intervención de terceros se aplicarán las normas del Código General del Proceso.
 

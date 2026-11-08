@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "18"
-epigrafe: "ORDEN PARA PROFERIR SENTENCIAS"
+epigrafe: "Orden para proferir sentencias"
 parte: "[[Ley 446 de 1998 - Parte II|PARTE II - DE LA EFICIENCIA EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte II - Título I|TÍTULO I - NORMAS GENERALES]]"
 vigencia: "modificado"
@@ -37,7 +37,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte II|Parte II]] › [[Ley 446 de 1998 - Parte II - Título I|Título I]]
 
-## Artículo 18. ORDEN PARA PROFERIR SENTENCIAS
+## Artículo 18. Orden para proferir sentencias
 
 Es obligatorio para los Jueces dictar las sentencias exactamente en el mismo orden en que hayan pasado los expedientes al despacho para tal fin sin que dicho orden pueda alterarse, salvo en los casos de sentencia anticipada o de prelación legal. Con todo, en los procesos de conocimiento de la jurisdicción de lo Contencioso Administrativo tal orden también podrá modificarse en atención a la naturaleza de los asuntos o a solicitud del agente del Ministerio Público en atención a su importancia jurídica y trascendencia social.
 

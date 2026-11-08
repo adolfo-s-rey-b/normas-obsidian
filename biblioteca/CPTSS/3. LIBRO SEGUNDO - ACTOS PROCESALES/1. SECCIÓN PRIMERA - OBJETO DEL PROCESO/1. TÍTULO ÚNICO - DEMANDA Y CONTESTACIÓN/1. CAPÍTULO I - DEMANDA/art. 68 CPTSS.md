@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "68"
-epigrafe: "REFORMA DE LA DEMANDA"
+epigrafe: "Reforma de la demanda"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 68. REFORMA DE LA DEMANDA
+## Artículo 68. Reforma de la demanda
 
 La demanda podrá ser reformada, desde su presentación y hasta dentro de los cinco (5) días siguientes al vencimiento del término del traslado de la inicial o de la de reconvención, si fuere el caso.
 

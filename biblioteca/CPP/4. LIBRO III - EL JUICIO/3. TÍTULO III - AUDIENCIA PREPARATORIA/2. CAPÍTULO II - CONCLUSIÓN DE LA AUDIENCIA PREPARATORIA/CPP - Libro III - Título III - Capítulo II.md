@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 363 CPP|Artículo 363]] — SUSPENSIÓN
-- [[art. 364 CPP|Artículo 364]] — REANUDACIÓN DE LA AUDIENCIA
-- [[art. 365 CPP|Artículo 365]] — FIJACIÓN DE LA FECHA DE INICIO DEL JUICIO ORAL
+- [[art. 363 CPP|Artículo 363]] — Suspensión
+- [[art. 364 CPP|Artículo 364]] — Reanudación de la audiencia
+- [[art. 365 CPP|Artículo 365]] — Fijación de la fecha de inicio del juicio oral
 
 ---
 ← [[CPP - Libro III - Título III - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro III - Título III|Título III]]

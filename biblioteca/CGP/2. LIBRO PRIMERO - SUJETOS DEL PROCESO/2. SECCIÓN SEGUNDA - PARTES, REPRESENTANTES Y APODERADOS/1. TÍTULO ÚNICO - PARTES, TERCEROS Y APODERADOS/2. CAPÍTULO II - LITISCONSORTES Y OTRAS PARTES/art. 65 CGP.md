@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "65"
-epigrafe: "REQUISITOS DEL LLAMAMIENTO"
+epigrafe: "Requisitos del llamamiento"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 65. REQUISITOS DEL LLAMAMIENTO
+## Artículo 65. Requisitos del llamamiento
 
 La demanda por medio de la cual se llame en garantía deberá cumplir con los mismos requisitos exigidos en el artículo [[art. 82 CGP|82]] y demás normas aplicables.
 

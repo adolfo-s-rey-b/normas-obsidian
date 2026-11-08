@@ -14,7 +14,7 @@ epigrafe: "TARIFA"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo I|CAPÍTULO I - INGRESOS LABORALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 42 Ley 2010 de 2019]]"
   - "[[art. 34 Ley 1943 de 2018]]"
@@ -49,7 +49,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo I|Capítulo I]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "46"
-epigrafe: "FUNCIONES DEL MINISTERIO PÚBLICO"
+epigrafe: "Funciones del Ministerio Público"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título IV|TÍTULO IV - MINISTERIO PÚBLICO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título IV|Título IV]]
 
-## Artículo 46. FUNCIONES DEL MINISTERIO PÚBLICO
+## Artículo 46. Funciones del Ministerio Público
 
 Sin perjuicio de lo dispuesto en leyes especiales, el Ministerio Público ejercerá las siguientes funciones:
 

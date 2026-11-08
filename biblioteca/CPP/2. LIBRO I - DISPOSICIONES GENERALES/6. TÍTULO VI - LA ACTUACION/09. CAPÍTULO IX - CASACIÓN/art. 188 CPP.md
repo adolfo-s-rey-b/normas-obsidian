@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "188"
-epigrafe: "PRINCIPIO DE NO AGRAVACIÓN"
+epigrafe: "Principio de no agravación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 188. PRINCIPIO DE NO AGRAVACIÓN
+## Artículo 188. Principio de no agravación
 
 Cuando se trate de sentencia condenatoria no se podrá agravar la pena impuesta, salvo que el fiscal, el Ministerio Público, la víctima o su representante, cuando tuviere interés, la hubieren demandado.
 

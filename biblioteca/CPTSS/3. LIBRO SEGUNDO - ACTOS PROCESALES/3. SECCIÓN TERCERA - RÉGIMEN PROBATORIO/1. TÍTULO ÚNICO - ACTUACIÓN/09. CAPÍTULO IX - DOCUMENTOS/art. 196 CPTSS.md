@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "196"
-epigrafe: "COTEJO DE LETRAS O FIRMAS"
+epigrafe: "Cotejo de letras o firmas"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 196. COTEJO DE LETRAS O FIRMAS
+## Artículo 196. Cotejo de letras o firmas
 
 Para demostrar la autenticidad o la falsedad podrá solicitarse un cotejo con las letras o firmas de cualquier documento en el que conste la firma, la letra, manuscritos, la voz o la imagen de la persona a quien se atribuye el documento. A falta de estos medios, o adicionalmente, el juez podrá ordenar que la persona a quien se le atribuye el escrito o firma materia del cotejo, escriba lo que le dicte y ponga su firma al pie, para los fines probatorios a que haya lugar.
 

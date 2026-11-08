@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 205 CPTSS|Artículo 205]] — ACLARACIÓN DE PROVIDENCIAS
-- [[art. 206 CPTSS|Artículo 206]] — CORRECCIÓN DE ERRORES ARITMÉTICOS Y OTROS
-- [[art. 207 CPTSS|Artículo 207]] — ADICIÓN DE PROVIDENCIAS
+- [[art. 205 CPTSS|Artículo 205]] — Aclaración de providencias
+- [[art. 206 CPTSS|Artículo 206]] — Corrección de errores aritméticos y otros
+- [[art. 207 CPTSS|Artículo 207]] — Adición de providencias
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]]

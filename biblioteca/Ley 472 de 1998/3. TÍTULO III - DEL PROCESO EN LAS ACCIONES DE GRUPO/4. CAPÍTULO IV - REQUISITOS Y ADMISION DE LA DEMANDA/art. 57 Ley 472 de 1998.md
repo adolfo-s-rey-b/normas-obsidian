@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "57"
-epigrafe: "CONTESTACION, EXCEPCIONES PREVIAS"
+epigrafe: "Contestación, Excepciones Previas"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 57. CONTESTACION, EXCEPCIONES PREVIAS
+## Artículo 57. Contestación, Excepciones Previas
 
 La parte demandada podrá interponer excepciones de mérito con la contestación de la demanda, así como las excepciones previas señaladas en el Código de Procedimiento Civil. Las excepciones de acuerdo con su naturaleza, se resolverán de conformidad con las reglas previstas en el Código de Procedimiento Civil.
 

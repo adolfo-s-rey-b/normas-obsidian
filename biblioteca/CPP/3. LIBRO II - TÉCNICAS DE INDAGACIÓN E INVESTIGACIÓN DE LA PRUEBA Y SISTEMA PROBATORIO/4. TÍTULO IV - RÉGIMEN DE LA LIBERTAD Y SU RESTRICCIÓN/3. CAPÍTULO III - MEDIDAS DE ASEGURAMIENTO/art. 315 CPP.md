@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "315"
-epigrafe: "MEDIDAS DE ASEGURAMIENTO NO PRIVATIVAS DE LA LIBERTAD"
+epigrafe: "Medidas de aseguramiento no privativas de la libertad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 315. MEDIDAS DE ASEGURAMIENTO NO PRIVATIVAS DE LA LIBERTAD
+## Artículo 315. Medidas de aseguramiento no privativas de la libertad
 
 Cuando se proceda por delitos cuya pena principal no sea privativa de la libertad, o por delitos querellables, o cuando el mínimo de la pena señalada en la ley sea inferior a cuatro (4) años, satisfechos los requisitos del artículo [[art. 308 CPP|308]], se podrá imponer una o varias de las medidas señaladas en el artículo [[art. 307 CPP|307]] literal b), siempre que sean razonables y proporcionadas para el cumplimiento de las finalidades previstas.
 

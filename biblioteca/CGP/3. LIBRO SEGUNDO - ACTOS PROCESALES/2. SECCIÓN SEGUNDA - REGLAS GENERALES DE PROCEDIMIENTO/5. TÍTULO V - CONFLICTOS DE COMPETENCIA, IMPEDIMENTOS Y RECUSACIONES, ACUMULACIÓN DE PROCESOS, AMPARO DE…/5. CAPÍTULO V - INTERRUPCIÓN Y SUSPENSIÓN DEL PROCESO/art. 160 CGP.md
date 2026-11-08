@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "160"
-epigrafe: "CITACIONES"
+epigrafe: "Citaciones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo V|Capítulo V]]
 
-## Artículo 160. CITACIONES
+## Artículo 160. Citaciones
 
 El juez, inmediatamente tenga conocimiento del hecho que origina la interrupción, ordenará notificar por aviso al cónyuge o compañero permanente, a los herederos, al albacea con tenencia de bienes, al curador de la herencia yacente o a la parte cuyo apoderado falleció o fue excluido o suspendido del ejercicio de la profesión, privado de la libertad o inhabilitado, según fuere el caso.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "223"
-epigrafe: "CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA"
+epigrafe: "Circunstancias especiales de graduación de la pena"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título V|TÍTULO V - DELITOS CONTRA LA INTEGRIDAD MORAL]]"
 capitulo: "[[CP - Libro Segundo - Título V - Capítulo Unico|CAPÍTULO UNICO - DE LA INJURIA Y LA CALUMNIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título V|Título V]] › [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 223. CIRCUNSTANCIAS ESPECIALES DE GRADUACIÓN DE LA PENA
+## Artículo 223. Circunstancias especiales de graduación de la pena
 
 Cuando alguna de las conductas previstas en este título se cometiere utilizando cualquier medio de comunicación social u otro de divulgación colectiva o en reunión pública, las penas respectivas se aumentarán de una sexta parte a la mitad.
 

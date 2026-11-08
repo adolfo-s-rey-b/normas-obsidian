@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 113 EOSF|Artículo 113]] — MEDIDAS PREVENTIVAS DE LA TOMA DE POSESION
+- [[art. 113 EOSF|Artículo 113]] — Medidas Preventivas de la Toma de Posesión
 
 ---
 ← [[EOSF - Parte III - Capítulo XIX|Capítulo XIX]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XXI|Capítulo XXI]] →

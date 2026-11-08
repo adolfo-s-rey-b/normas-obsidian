@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "91"
-epigrafe: "DESIGNACION DEL GERENTE O PRESIDENTE DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO"
+epigrafe: "Designación del Gerente o Presidente de las empresas industriales y comerciales del Estado"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 90 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 91. DESIGNACION DEL GERENTE O PRESIDENTE DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO
+## Artículo 91. Designación del Gerente o Presidente de las empresas industriales y comerciales del Estado
 
 El Gerente o Presidente de las empresas industriales y comerciales del Estado es agente del Presidente de la República, de su libre nombramiento y remoción.
 

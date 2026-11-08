@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "389"
-epigrafe: "CUALES ESTAN SOMETIDOS A RETENCIÓN"
+epigrafe: "CUÁLES ESTÁN SOMETIDOS A RETENCIÓN"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo II|CAPÍTULO II - DIVIDENDOS Y PARTICIPACIONES]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 389. CUALES ESTAN SOMETIDOS A RETENCIÓN
+## Artículo 389. CUÁLES ESTÁN SOMETIDOS A RETENCIÓN
 
 (Fuente original compilada: L. 75/86 Art. [[art. 1 ET|1]]o.) Los dividendos y participaciones percibidos por sociedades u otras entidades extranjeras, por personas naturales extranjeras sin residencia en Colombia y por sucesiones ilíquidas de causantes extranjeros que no eran residentes en Colombia, están sometidos a la retención en la fuente.
 

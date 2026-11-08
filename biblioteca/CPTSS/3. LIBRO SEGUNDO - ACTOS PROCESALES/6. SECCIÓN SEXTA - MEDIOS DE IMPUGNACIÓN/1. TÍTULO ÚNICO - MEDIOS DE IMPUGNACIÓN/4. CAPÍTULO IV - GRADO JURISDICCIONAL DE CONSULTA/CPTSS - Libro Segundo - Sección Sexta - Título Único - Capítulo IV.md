@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 231 CPTSS|Artículo 231]] — PROCEDENCIA DE LA CONSULTA
+- [[art. 231 CPTSS|Artículo 231]] — Procedencia de la consulta
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo III|Capítulo III]] · ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo V|Capítulo V]] →

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "4"
-epigrafe: "CLASIFICACIÓN"
+epigrafe: "Clasificación"
 capitulo: "[[Ley 820 de 2003 - Capítulo II|CAPÍTULO II - FORMALIDADES DEL CONTRATO DE ARRENDAMIENTO DE VIVIENDA URBANA]]"
 vigencia: "vigente"
 anterior: "[[art. 3 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo II|Capítulo II]]
 
-## Artículo 4. CLASIFICACIÓN
+## Artículo 4. Clasificación
 
 Los contratos de arrendamiento de vivienda urbana se clasifican de la siguiente forma, cualquiera que sea la estipulación al respecto:
 

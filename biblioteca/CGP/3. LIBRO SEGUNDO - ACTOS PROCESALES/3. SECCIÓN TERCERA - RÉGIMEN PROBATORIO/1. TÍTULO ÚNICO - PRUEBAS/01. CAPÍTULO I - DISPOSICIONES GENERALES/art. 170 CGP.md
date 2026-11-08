@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "170"
-epigrafe: "DECRETO Y PRÁCTICA DE PRUEBA DE OFICIO"
+epigrafe: "Decreto y práctica de prueba de oficio"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 170. DECRETO Y PRÁCTICA DE PRUEBA DE OFICIO
+## Artículo 170. Decreto y práctica de prueba de oficio
 
 El juez deberá decretar pruebas de oficio, en las oportunidades probatorias del proceso y de los incidentes y antes de fallar, cuando sean necesarias para esclarecer los hechos objeto de la controversia.
 

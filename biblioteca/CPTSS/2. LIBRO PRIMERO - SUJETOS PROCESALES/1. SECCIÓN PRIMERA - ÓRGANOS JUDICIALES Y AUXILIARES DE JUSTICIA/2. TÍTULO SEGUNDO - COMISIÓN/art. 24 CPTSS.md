@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "24"
-epigrafe: "OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN"
+epigrafe: "Otorgamiento y práctica de la comisión"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 24. OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN
+## Artículo 24. Otorgamiento y práctica de la comisión
 
 La providencia que confiera una comisión indicará su objeto con precisión y claridad. El despacho que se libre llevará una reproducción del contenido de aquella, de las piezas que haya ordenado el comitente y de las demás que soliciten las partes, siempre que suministren las expensas en el momento de la solicitud. En ningún caso se remitirá al comisionado el expediente original.
 

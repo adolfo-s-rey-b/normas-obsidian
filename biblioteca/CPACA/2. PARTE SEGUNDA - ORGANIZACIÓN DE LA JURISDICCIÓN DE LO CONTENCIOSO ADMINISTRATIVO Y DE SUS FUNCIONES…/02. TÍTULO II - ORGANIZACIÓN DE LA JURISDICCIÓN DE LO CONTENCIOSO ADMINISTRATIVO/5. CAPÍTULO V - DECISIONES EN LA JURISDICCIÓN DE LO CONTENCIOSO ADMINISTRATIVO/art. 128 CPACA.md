@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "128"
-epigrafe: "QUÓRUM PARA OTRAS DECISIONES EN EL CONSEJO DE ESTADO"
+epigrafe: "Quórum para otras decisiones en el Consejo de Estado"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo V|CAPÍTULO V - DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 128. QUÓRUM PARA OTRAS DECISIONES EN EL CONSEJO DE ESTADO
+## Artículo 128. Quórum para otras decisiones en el Consejo de Estado
 
 Toda decisión de carácter jurisdiccional o no, diferente de la indicada en el artículo anterior, que tomen el Consejo de Estado en Pleno o cualquiera de sus salas, secciones, o subsecciones o los Tribunales Administrativos, o cualquiera de sus secciones, requerirá para su deliberación y decisión, de la asistencia y voto favorable de la mayoría de sus miembros.
 

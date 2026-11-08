@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "172"
-epigrafe: "FORMA"
+epigrafe: "Forma"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo VI|CAPÍTULO VI - NOTIFICACIÓN DE LAS PROVIDENCIAS, CITACIONES, Y COMUNICACIONES ENTRE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 172. FORMA
+## Artículo 172. Forma
 
 Las citaciones se harán por orden del juez en la providencia que así lo disponga, y serán tramitadas por secretaría. A este efecto podrán utilizarse los medios técnicos más expeditos posibles y se guardará especial cuidado de que los intervinientes sean oportuna y verazmente informados de la existencia de la citación.
 

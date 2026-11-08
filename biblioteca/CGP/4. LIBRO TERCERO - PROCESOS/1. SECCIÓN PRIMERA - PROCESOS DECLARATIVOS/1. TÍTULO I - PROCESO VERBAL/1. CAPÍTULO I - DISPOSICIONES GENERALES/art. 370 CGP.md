@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "370"
-epigrafe: "PRUEBAS ADICIONALES DEL DEMANDANTE"
+epigrafe: "Pruebas adicionales del demandante"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 370. PRUEBAS ADICIONALES DEL DEMANDANTE
+## Artículo 370. Pruebas adicionales del demandante
 
 Si el demandado propone excepciones de mérito, de ellas se correrá traslado al demandante por cinco (5) días en la forma prevista en el artículo [[art. 110 CGP|110]], para que este pida pruebas sobre los hechos en que ellas se fundan.
 

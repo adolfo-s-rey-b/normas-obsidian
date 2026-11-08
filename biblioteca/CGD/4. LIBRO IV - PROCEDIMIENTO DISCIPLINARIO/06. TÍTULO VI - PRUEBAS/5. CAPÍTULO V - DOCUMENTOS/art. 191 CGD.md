@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "191"
-epigrafe: "PRESUNCIÓN DE AUTENTICIDAD"
+epigrafe: "Presunción de autenticidad"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo V|CAPÍTULO V - DOCUMENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 191. PRESUNCIÓN DE AUTENTICIDAD
+## Artículo 191. Presunción de autenticidad
 
 Los documentos allegados al proceso se presumen auténticos, así como los informes rendidos por las entidades públicas o privadas requeridas por la autoridad disciplinaria. En caso de duda deberán ser sometidos a examen técnico, para lo cual se atenderá lo señalado en lo referido a la prueba pericial.
 

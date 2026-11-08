@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "46"
-epigrafe: "LA INHABILITACIÓN PARA EL EJERCICIO DE PROFESIÓN, ARTE, OFICIO, INDUSTRIA O COMERCIO"
+epigrafe: "La inhabilitación para el ejercicio de profesion, arte, oficio, industria o comercio"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 46. LA INHABILITACIÓN PARA EL EJERCICIO DE PROFESIÓN, ARTE, OFICIO, INDUSTRIA O COMERCIO
+## Artículo 46. La inhabilitación para el ejercicio de profesion, arte, oficio, industria o comercio
 
 La pena de inhabilitación para el ejercicio de profesión, arte, oficio, industria o comercio, se impondrá por el mismo tiempo de la pena de prisión impuesta, sin exceder los límites que alude el artículo [[art. 51 CP|51]] de este Código, siempre que la infracción se cometa con abuso del ejercicio de cualquiera de las mencionadas actividades, medie relación de causalidad entre el delito y la profesión o contravenga las obligaciones que de su ejercicio se deriven.
 

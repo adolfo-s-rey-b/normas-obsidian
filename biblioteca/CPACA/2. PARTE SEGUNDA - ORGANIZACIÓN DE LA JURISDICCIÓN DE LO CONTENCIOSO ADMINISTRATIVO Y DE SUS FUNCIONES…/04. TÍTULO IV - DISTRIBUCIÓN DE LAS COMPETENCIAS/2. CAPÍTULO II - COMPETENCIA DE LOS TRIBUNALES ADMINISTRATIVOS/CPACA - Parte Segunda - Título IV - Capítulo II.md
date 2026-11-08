@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 151 CPACA|Artículo 151]] — COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN ÚNICA INSTANCIA
-- [[art. 152 CPACA|Artículo 152]] — COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN PRIMERA INSTANCIA
-- [[art. 153 CPACA|Artículo 153]] — COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN SEGUNDA INSTANCIA
+- [[art. 151 CPACA|Artículo 151]] — Competencia de los tribunales administrativos en única instancia
+- [[art. 152 CPACA|Artículo 152]] — Competencia de los tribunales administrativos en primera instancia
+- [[art. 153 CPACA|Artículo 153]] — Competencia de los tribunales administrativos en segunda instancia
 
 ---
 ← [[CPACA - Parte Segunda - Título IV - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Segunda - Título IV|Título IV]] · [[CPACA - Parte Segunda - Título IV - Capítulo III|Capítulo III]] →

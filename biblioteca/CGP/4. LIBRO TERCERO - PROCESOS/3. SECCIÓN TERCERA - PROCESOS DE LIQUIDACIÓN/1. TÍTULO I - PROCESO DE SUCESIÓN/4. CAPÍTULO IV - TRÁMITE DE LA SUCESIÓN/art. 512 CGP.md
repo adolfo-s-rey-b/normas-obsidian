@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "512"
-epigrafe: "ENTREGA DE BIENES A LOS ADJUDICATARIOS"
+epigrafe: "Entrega de bienes a los adjudicatarios"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 512. ENTREGA DE BIENES A LOS ADJUDICATARIOS
+## Artículo 512. Entrega de bienes a los adjudicatarios
 
 La entrega de bienes a los adjudicatarios se sujetará a las reglas del artículo [[art. 308 CGP|308]] de este código, y se verificará una vez registrada la partición.
 

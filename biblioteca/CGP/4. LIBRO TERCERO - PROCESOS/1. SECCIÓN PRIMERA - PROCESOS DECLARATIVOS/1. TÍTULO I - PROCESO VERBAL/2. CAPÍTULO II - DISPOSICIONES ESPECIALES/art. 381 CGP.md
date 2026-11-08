@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "381"
-epigrafe: "PAGO POR CONSIGNACIÓN"
+epigrafe: "Pago por consignación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 381. PAGO POR CONSIGNACIÓN
+## Artículo 381. Pago por consignación
 
 En el proceso de pago por consignación se observarán las siguientes reglas:
 

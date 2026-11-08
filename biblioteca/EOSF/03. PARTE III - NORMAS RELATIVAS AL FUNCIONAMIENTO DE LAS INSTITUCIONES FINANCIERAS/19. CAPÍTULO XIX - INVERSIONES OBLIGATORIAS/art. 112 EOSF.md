@@ -11,7 +11,7 @@ articulo: "112"
 epigrafe: "INVERSIÓN EN TÍTULOS DE DESARROLLO AGROPECUARIO"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIX|CAPÍTULO XIX - INVERSIONES OBLIGATORIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 221 Ley 2294 de 2023]]"
 derogado_por:
@@ -39,7 +39,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIX|Capítulo XIX]]

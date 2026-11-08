@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "116"
-epigrafe: "RESPONSABILIDAD DE LOS MIEMBROS DE LAS COMISIONES, COMITES O CONSEJOS"
+epigrafe: "Responsabilidad de los miembros de las comisiones, comités o consejos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVII|CAPÍTULO XVII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 115 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVII|Capítulo XVII]]
 
-## Artículo 116. RESPONSABILIDAD DE LOS MIEMBROS DE LAS COMISIONES, COMITES O CONSEJOS
+## Artículo 116. Responsabilidad de los miembros de las comisiones, comités o consejos
 
 Quienes participen a cualquier título, de manera permanente o transitoria, en las comisiones, comités o consejos a que se refiere la presente ley, sin perjuicio de lo dispuesto sobre los miembros de las juntas o consejos de las entidades descentralizadas, responderán por su actuación en los mismos términos que la ley señala para los servidores públicos.
 

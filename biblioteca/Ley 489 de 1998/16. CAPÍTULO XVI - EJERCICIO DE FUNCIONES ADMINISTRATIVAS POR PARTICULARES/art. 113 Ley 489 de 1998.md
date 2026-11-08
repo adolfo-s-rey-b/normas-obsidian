@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "113"
-epigrafe: "INHABILIDADES E INCOMPATIBILIDADES"
+epigrafe: "Inhabilidades e incompatibilidades"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVI|CAPÍTULO XVI - EJERCICIO DE FUNCIONES ADMINISTRATIVAS POR PARTICULARES]]"
 vigencia: "vigente"
 anterior: "[[art. 112 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 113. INHABILIDADES E INCOMPATIBILIDADES
+## Artículo 113. Inhabilidades e incompatibilidades
 
 Los representantes legales de las entidades privadas o de quienes hagan sus veces, encargadas del ejercicio de funciones administrativas están sometidos a las prohibiciones e incompatibilidades aplicables a los servidores públicos, en relación con la función conferida.
 

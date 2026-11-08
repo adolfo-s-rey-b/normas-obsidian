@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "136"
-epigrafe: "SANEAMIENTO DE LA NULIDAD"
+epigrafe: "Saneamiento de la nulidad"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 136. SANEAMIENTO DE LA NULIDAD
+## Artículo 136. Saneamiento de la nulidad
 
 La nulidad se considerará saneada en los siguientes casos:
 

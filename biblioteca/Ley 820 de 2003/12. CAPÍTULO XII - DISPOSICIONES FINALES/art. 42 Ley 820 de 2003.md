@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "42"
-epigrafe: "RÉGIMEN APLICABLE A LOS CONTRATOS EN EJECUCIÓN"
+epigrafe: "Régimen aplicable a los contratos en ejecución"
 capitulo: "[[Ley 820 de 2003 - Capítulo XII|CAPÍTULO XII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 41 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo XII|Capítulo XII]]
 
-## Artículo 42. RÉGIMEN APLICABLE A LOS CONTRATOS EN EJECUCIÓN
+## Artículo 42. Régimen aplicable a los contratos en ejecución
 
 Los contratos que se encuentren en ejecución con anterioridad a la vigencia de la presente ley, se regirán por las disposiciones sustanciales vigentes al momento de su celebración.
 

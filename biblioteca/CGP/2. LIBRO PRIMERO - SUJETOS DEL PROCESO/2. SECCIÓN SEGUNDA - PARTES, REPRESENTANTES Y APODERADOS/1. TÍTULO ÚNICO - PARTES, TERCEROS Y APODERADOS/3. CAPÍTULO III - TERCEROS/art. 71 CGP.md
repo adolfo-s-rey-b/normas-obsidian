@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "71"
-epigrafe: "COADYUVANCIA"
+epigrafe: "Coadyuvancia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 71. COADYUVANCIA
+## Artículo 71. Coadyuvancia
 
 Quien tenga con una de las partes determinada relación sustancial a la cual no se extiendan los efectos jurídicos de la sentencia, pero que pueda afectarse si dicha parte es vencida, podrá intervenir en el proceso como coadyuvante de ella, mientras no se haya dictado sentencia de única o de segunda instancia.
 

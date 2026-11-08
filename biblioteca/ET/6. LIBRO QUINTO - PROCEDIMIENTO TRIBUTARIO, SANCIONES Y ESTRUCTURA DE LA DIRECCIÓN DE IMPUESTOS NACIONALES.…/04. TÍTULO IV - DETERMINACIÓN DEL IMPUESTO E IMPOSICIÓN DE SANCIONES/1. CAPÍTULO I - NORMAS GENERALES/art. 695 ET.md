@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "695"
-epigrafe: "PERIODOS DE FISCALIZACIÓN EN EL IMPUESTO SOBRE LAS VENTAS Y EN RETENCIÓN EN LA FUENTE"
+epigrafe: "PERÍODOS DE FISCALIZACIÓN EN EL IMPUESTO SOBRE LAS VENTAS Y EN RETENCIÓN EN LA FUENTE"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 695. PERIODOS DE FISCALIZACIÓN EN EL IMPUESTO SOBRE LAS VENTAS Y EN RETENCIÓN EN LA FUENTE
+## Artículo 695. PERÍODOS DE FISCALIZACIÓN EN EL IMPUESTO SOBRE LAS VENTAS Y EN RETENCIÓN EN LA FUENTE
 
 Los emplazamientos, requerimientos, liquidaciones oficiales y demás actos administrativos proferidos por la Administración de Impuestos, podrán referirse a más de un período gravable, en el caso de las declaraciones del impuesto sobre las ventas y retenciones en la fuente.
 

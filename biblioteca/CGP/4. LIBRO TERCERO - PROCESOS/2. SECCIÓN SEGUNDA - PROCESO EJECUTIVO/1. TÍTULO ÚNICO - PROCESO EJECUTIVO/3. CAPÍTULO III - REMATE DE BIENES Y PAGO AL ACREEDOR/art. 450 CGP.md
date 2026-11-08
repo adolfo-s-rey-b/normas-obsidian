@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "450"
-epigrafe: "PUBLICACIÓN DEL REMATE"
+epigrafe: "Publicación del remate"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 450. PUBLICACIÓN DEL REMATE
+## Artículo 450. Publicación del remate
 
 El remate se anunciará al público mediante la inclusión en un listado que se publicará por una sola vez en un periódico de amplia circulación en la localidad o, en su defecto, en otro medio masivo de comunicación que señale el juez. El listado se publicará el día domingo con antelación no inferior a diez (10) días a la fecha señalada para el remate, y en él se deberá indicar:
 

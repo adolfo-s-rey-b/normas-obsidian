@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "362"
-epigrafe: "ARANCEL"
+epigrafe: "Arancel"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título I|TÍTULO I - COSTAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] › [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 362. ARANCEL
+## Artículo 362. Arancel
 
 Cada dos (2) años el Consejo Superior de la Judicatura regulará el arancel judicial relacionado con copias, desgloses, certificaciones, autenticaciones, notificaciones y similares. El magistrado o juez que autorice o tolere el cobro de derechos por servicios no remunerables o en cuantía mayor a la autorizada en el arancel, y el empleado que lo cobre o reciba, incurrirán en causal de mala conducta.
 

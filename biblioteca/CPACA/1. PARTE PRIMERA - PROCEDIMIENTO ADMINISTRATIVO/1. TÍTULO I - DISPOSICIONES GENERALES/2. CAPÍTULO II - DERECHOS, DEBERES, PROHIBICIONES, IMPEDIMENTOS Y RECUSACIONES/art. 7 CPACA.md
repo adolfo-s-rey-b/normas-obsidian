@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "7"
-epigrafe: "DEBERES DE LAS AUTORIDADES EN LA ATENCIÓN AL PÚBLICO"
+epigrafe: "Deberes de las autoridades en la atención al público"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 7. DEBERES DE LAS AUTORIDADES EN LA ATENCIÓN AL PÚBLICO
+## Artículo 7. Deberes de las autoridades en la atención al público
 
 Las autoridades tendrán, frente a las personas que ante ellas acudan y en relación con los asuntos que tramiten, los siguientes deberes:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "70"
-epigrafe: "TASAS EN MATERIA METROLÓGICA"
+epigrafe: "Tasas en Materia Metrológica"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo I|CAPÍTULO I - METROLOGÍA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo I|Capítulo I]]
 
-## Artículo 70. TASAS EN MATERIA METROLÓGICA
+## Artículo 70. Tasas en Materia Metrológica
 
 La Superintendencia de Industria y Comercio o la entidad del orden nacional que haga sus veces, fijará las tasas para los servicios de metrología que preste, incluidas las calibraciones, las verificaciones iniciales y subsiguientes, los programas de capacitación y los servicios de asistencia técnica.
 

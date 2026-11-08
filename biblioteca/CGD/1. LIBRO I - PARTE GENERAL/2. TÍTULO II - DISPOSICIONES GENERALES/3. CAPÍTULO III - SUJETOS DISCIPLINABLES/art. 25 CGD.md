@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "25"
-epigrafe: "DESTINATARIOS DE LA LEY DISCIPLINARIA"
+epigrafe: "Destinatarios de la ley disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título II|TÍTULO II - DISPOSICIONES GENERALES]]"
 capitulo: "[[CGD - Libro I - Título II - Capítulo III|CAPÍTULO III - SUJETOS DISCIPLINABLES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título II|Título II]] › [[CGD - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 25. DESTINATARIOS DE LA LEY DISCIPLINARIA
+## Artículo 25. Destinatarios de la ley disciplinaria
 
 Son destinatarios de la ley disciplinaria los servidores públicos aunque se encuentren retirados del servicio y los particulares contemplados en esta ley.
 

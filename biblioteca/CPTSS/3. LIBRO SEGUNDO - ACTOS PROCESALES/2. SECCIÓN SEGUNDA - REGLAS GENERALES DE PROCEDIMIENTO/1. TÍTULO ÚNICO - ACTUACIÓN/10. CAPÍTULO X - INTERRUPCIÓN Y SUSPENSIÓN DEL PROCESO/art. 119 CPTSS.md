@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "119"
-epigrafe: "SUSPENSIÓN DEL PROCESO"
+epigrafe: "Suspensión del proceso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo X|Capítulo X]]
 
-## Artículo 119. SUSPENSIÓN DEL PROCESO
+## Artículo 119. Suspensión del proceso
 
 El juez, a solicitud de parte, formulada antes de la sentencia, decretará la suspensión del proceso, cuando la sentencia que deba dictarse dependa necesariamente de lo que se decida en otro proceso judicial que verse sobre cuestión que sea imposible de ventilar en aquel como excepción o mediante demanda de reconvención. Igualmente, dentro de la misma oportunidad, cuando las partes la pidan de común acuerdo, por tiempo determinado. La presentación verbal o escrita de la solicitud suspende inmediatamente el proceso, salvo que las partes hayan convenido otra cosa.
 

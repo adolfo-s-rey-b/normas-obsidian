@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "32"
-epigrafe: "CAUSALES DE EXTINCIÓN DE LA ACCIÓN DISCIPLINARIA"
+epigrafe: "Causales de extinción de la acción disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título III|TÍTULO III - LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN DISCIPLINARIA]]"
 capitulo: "[[CGD - Libro I - Título III - Capítulo I|CAPÍTULO I - LA EXTINCIÓN DE LA ACCIÓN DISCIPLINARIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título III|Título III]] › [[CGD - Libro I - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 32. CAUSALES DE EXTINCIÓN DE LA ACCIÓN DISCIPLINARIA
+## Artículo 32. Causales de extinción de la acción disciplinaria
 
 Son causales de extinción de la acción disciplinaria las siguientes:
 

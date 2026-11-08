@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 54 CPTSS|Artículo 54]] — REQUISITOS DEL PODER Y FACULTADES DEL APODERADO
-- [[art. 55 CPTSS|Artículo 55]] — DESIGNACIÓN Y SUSTITUCIÓN DE APODERADOS
-- [[art. 56 CPTSS|Artículo 56]] — TERMINACIÓN DEL PODER
+- [[art. 54 CPTSS|Artículo 54]] — Requisitos del poder y facultades del apoderado
+- [[art. 55 CPTSS|Artículo 55]] — Designación y sustitución de apoderados
+- [[art. 56 CPTSS|Artículo 56]] — Terminación del poder
 
 ---
 ← [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]] · ↑ [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo V|Capítulo V]] →

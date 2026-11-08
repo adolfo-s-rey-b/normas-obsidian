@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "361"
-epigrafe: "COMPOSICIÓN"
+epigrafe: "Composición"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título I|TÍTULO I - COSTAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] › [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 361. COMPOSICIÓN
+## Artículo 361. Composición
 
 Las costas están integradas por la totalidad de las expensas y gastos sufragados durante el curso del proceso y por las agencias en derecho.
 

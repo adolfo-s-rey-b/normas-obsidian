@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "224"
-epigrafe: "COADYUVANCIA, LITISCONSORTE FACULTATIVO E INTERVENCIÓN AD EXCLUDENDUM EN LOS PROCESOS QUE SE TRAMITAN CON OCASIÓN DE PRETENSIONES DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO, CONTRACTUALES Y DE REPARACIÓN DIRECTA"
+epigrafe: "Coadyuvancia, litisconsorte facultativo e intervención ad excludendum en los procesos que se tramitan con ocasión de pretensiones de nulidad y restablecimiento del derecho, contractuales y de reparación directa"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]]
 
-## Artículo 224. COADYUVANCIA, LITISCONSORTE FACULTATIVO E INTERVENCIÓN AD EXCLUDENDUM EN LOS PROCESOS QUE SE TRAMITAN CON OCASIÓN DE PRETENSIONES DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO, CONTRACTUALES Y DE REPARACIÓN DIRECTA
+## Artículo 224. Coadyuvancia, litisconsorte facultativo e intervención ad excludendum en los procesos que se tramitan con ocasión de pretensiones de nulidad y restablecimiento del derecho, contractuales y de reparación directa
 
 Desde la admisión de la demanda y hasta antes de que se profiera el auto que fija fecha para la realización de la audiencia inicial, en los procesos con ocasión de pretensiones de nulidad y restablecimiento del derecho, contractuales y de reparación directa, cualquier persona que tenga interés directo, podrá pedir que se la tenga como coadyuvancia o impugnadora, litisconsorte o como interviniente ad excludendum.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "463"
-epigrafe: "ACUMULACIÓN DE DEMANDAS"
+epigrafe: "Acumulación de demandas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 463. ACUMULACIÓN DE DEMANDAS
+## Artículo 463. Acumulación de demandas
 
 Aun antes de haber sido notificado el mandamiento de pago al ejecutado y hasta antes del auto que fije la primera fecha para remate o la terminación del proceso por cualquier causa, podrán formularse nuevas demandas ejecutivas por el mismo ejecutante o por terceros contra cualquiera de los ejecutados, para que sean acumuladas a la demanda inicial, caso en el cual se observarán las siguientes reglas:
 

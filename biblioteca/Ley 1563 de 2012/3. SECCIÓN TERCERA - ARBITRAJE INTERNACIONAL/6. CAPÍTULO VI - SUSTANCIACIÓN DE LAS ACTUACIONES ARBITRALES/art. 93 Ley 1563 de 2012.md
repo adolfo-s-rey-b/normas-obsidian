@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "93"
-epigrafe: "SEDE DEL ARBITRAJE"
+epigrafe: "Sede del arbitraje"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 93. SEDE DEL ARBITRAJE
+## Artículo 93. Sede del arbitraje
 
 Las partes podrán determinar libremente la sede del arbitraje. A falta de acuerdo, el tribunal arbitral la determinará, atendidas las circunstancias del caso, y las conveniencias de aquellas.
 

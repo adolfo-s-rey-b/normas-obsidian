@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 106 CPACA|Artículo 106]] — INTEGRACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
+- [[art. 106 CPACA|Artículo 106]] — Integración de la Jurisdicción de lo Contencioso Administrativo
 
 ---
 ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]] →

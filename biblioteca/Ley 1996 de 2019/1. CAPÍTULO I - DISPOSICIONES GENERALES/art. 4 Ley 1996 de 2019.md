@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "4"
-epigrafe: "PRINCIPIOS"
+epigrafe: "Principios"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 3 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 4. PRINCIPIOS
+## Artículo 4. Principios
 
 Los siguientes principios guiarán la aplicación y la interpretación de la presente ley, en concordancia con los demás principios establecidos en la Convención sobre los Derechos de las Personas con Discapacidad, con el fin de garantizar la efectiva realización del derecho a la capacidad legal de las personas con discapacidad.
 

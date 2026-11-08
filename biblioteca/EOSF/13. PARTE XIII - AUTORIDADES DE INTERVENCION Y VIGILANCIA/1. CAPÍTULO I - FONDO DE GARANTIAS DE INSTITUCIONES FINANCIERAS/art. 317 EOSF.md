@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "317"
-epigrafe: "INSTITUCIONES AFILIADAS"
+epigrafe: "Instituciones Afiliadas"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 42 Ley 1328 de 2009]]"
   - "[[art. 5 Ley 546 de 1999]]"
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 317. INSTITUCIONES AFILIADAS
+## Artículo 317. Instituciones Afiliadas
 
 1\. Instituciones que deben inscribirse. Deberán inscribirse obligatoriamente en el Fondo de Garantías de Instituciones Financieras, previa calificación hecha por este, los bancos, las corporaciones financieras, las compañías de financiamiento, las sociedades administradoras de Fondos de Pensiones, las sociedades administradoras de Fondos de Cesantías, las compañías de seguros de vida que operan los ramos de pensiones previstas en la Ley 100 de 1993, seguros previsionales de invalidez y sobrevivencia, riesgos profesionales y planes alternativos de pensiones y las demás entidades cuya constitución sea autorizada por la Superintendencia Financiera de Colombia y respecto de las cuales la ley establezca la existencia de una garantía por parte del Fondo de Garantías de Instituciones Financieras.
 

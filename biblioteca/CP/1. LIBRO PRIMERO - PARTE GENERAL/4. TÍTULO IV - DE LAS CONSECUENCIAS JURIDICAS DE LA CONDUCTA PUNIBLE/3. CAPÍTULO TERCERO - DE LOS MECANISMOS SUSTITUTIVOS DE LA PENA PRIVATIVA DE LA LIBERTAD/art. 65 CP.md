@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "65"
-epigrafe: "OBLIGACIONES"
+epigrafe: "Obligaciones"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Tercero|CAPÍTULO TERCERO - DE LOS MECANISMOS SUSTITUTIVOS DE LA PENA PRIVATIVA DE LA LIBERTAD]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 65. OBLIGACIONES
+## Artículo 65. Obligaciones
 
 El reconocimiento de la suspensión condicional de la ejecución de la pena y de la libertad condicional comporta las siguientes obligaciones para el beneficiario:
 

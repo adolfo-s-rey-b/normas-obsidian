@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "64"
-epigrafe: "CARÁCTER INTERNACIONAL Y REGLAS DE INTERPRETACIÓN"
+epigrafe: "Carácter internacional y reglas de interpretación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]]
 
-## Artículo 64. CARÁCTER INTERNACIONAL Y REGLAS DE INTERPRETACIÓN
+## Artículo 64. Carácter internacional y reglas de interpretación
 
 En la interpretación del arbitraje internacional habrán de tenerse en cuenta su carácter internacional y la necesidad de promover la uniformidad de su aplicación y la observancia de la buena fe.
 

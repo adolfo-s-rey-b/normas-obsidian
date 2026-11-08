@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 331 CPP|Artículo 331]] — PRECLUSIÓN
-- [[art. 332 CPP|Artículo 332]] — CAUSALES
-- [[art. 333 CPP|Artículo 333]] — TRÁMITE
-- [[art. 334 CPP|Artículo 334]] — EFECTOS DE LA DECISIÓN DE PRECLUSIÓN
-- [[art. 335 CPP|Artículo 335]] — RECHAZO DE LA SOLICITUD DE PRECLUSIÓN
+- [[art. 331 CPP|Artículo 331]] — Preclusión
+- [[art. 332 CPP|Artículo 332]] — Causales
+- [[art. 333 CPP|Artículo 333]] — Trámite
+- [[art. 334 CPP|Artículo 334]] — Efectos de la decisión de preclusión
+- [[art. 335 CPP|Artículo 335]] — Rechazo de la solicitud de preclusión
 
 ---
 ← [[CPP - Libro II - Título V|Título V]] · ↑ [[CPP - Libro II|Libro II]]

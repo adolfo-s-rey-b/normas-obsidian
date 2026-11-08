@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 149 CPACA|Artículo 149]] — COMPETENCIA DEL CONSEJO DE ESTADO EN ÚNICA INSTANCIA
+- [[art. 149 CPACA|Artículo 149]] — Competencia del Consejo de Estado en única instancia
 - [[art. 149A CPACA|Artículo 149A]] — Competencia del Consejo de Estado con garantía de doble conformidad
-- [[art. 150 CPACA|Artículo 150]] — COMPETENCIA DEL CONSEJO DE ESTADO EN SEGUNDA INSTANCIA Y CAMBIO DE RADICACIÓN
+- [[art. 150 CPACA|Artículo 150]] — Competencia del Consejo de Estado en segunda instancia y cambio de radicación
 
 ---
 ↑ [[CPACA - Parte Segunda - Título IV|Título IV]] · [[CPACA - Parte Segunda - Título IV - Capítulo II|Capítulo II]] →

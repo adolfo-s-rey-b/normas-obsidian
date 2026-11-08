@@ -14,7 +14,7 @@ epigrafe: "RENTA LÍQUIDA GRAVABLE DE LA CÉDULA GENERAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título V|TÍTULO V - <TÍTULO ADICIONADO POR LA LEY 1819 DE 2016>]]"
 capitulo: "[[ET - Libro Primero - Título V - Capítulo II|CAPÍTULO II - RENTAS DE TRABAJO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 7 Ley 2277 de 2022]]"
   - "[[art. 41 Ley 2010 de 2019]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título V|Título V]] › [[ET - Libro Primero - Título V - Capítulo II|Capítulo II]]

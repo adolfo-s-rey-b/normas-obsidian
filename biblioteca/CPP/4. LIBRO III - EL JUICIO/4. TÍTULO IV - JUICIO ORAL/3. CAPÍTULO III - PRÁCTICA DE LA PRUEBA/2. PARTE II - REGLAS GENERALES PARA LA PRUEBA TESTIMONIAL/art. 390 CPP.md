@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "390"
-epigrafe: "EXAMEN DE LOS TESTIGOS"
+epigrafe: "Examen de los testigos"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 390. EXAMEN DE LOS TESTIGOS
+## Artículo 390. Examen de los testigos
 
 Los testigos serán interrogados uno después del otro, en el orden establecido por la parte que los haya solicitado. Primero serán interrogados los testigos de la acusación y luego los de la defensa. Antes de iniciar el interrogatorio a un testigo, el juez le informará de los derechos previstos en la Constitución y la ley, y le exigirá el juramento en la forma señalada en el artículo anterior. Después pedirá que se identifique con sus nombres y apellidos y demás generales de ley.
 

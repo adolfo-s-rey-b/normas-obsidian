@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 69 CGD|Artículo 69]] — NORMAS APLICABLES
-- [[art. 70 CGD|Artículo 70]] — SUJETOS DISCIPLINABLES
+- [[art. 69 CGD|Artículo 69]] — Normas aplicables
+- [[art. 70 CGD|Artículo 70]] — Sujetos disciplinables
 
 ---
 ↑ [[CGD - Libro III - Título I|Título I]] · [[CGD - Libro III - Título I - Capítulo II|Capítulo II]] →

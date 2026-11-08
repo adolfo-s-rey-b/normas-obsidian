@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "239"
-epigrafe: "FINALIDAD DE LAS DISPOSICIONES"
+epigrafe: "Finalidad de las Disposiciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo II|CAPÍTULO II - CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO <BANCO AGRARIO DE COLOMBIA>]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo II|Capítulo II]]
 
-## Artículo 239. FINALIDAD DE LAS DISPOSICIONES
+## Artículo 239. Finalidad de las Disposiciones
 
 Las disposiciones contenidas en el numeral 2. e inciso final del numeral 3. del artículo [[art. 234 EOSF|234]]., artículo [[art. 235 EOSF|235]]. y numerales 1., 3. y 4 del artículo [[art. 236 EOSF|236]] del presente Estatuto tienen por finalidad procurar la viabilidad financiera y operativa de la Caja de Crédito Agrario, Industrial y Minero, como entidad de apoyo al sector agropecuario y al desarrollo económico del país.
 

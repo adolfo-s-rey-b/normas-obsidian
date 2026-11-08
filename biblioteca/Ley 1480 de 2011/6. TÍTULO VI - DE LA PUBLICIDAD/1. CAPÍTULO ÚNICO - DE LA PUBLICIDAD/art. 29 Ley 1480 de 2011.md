@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "29"
-epigrafe: "FUERZA VINCULANTE"
+epigrafe: "Fuerza vinculante"
 titulo: "[[Ley 1480 de 2011 - Título VI|TÍTULO VI - DE LA PUBLICIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VI - Capítulo Único|CAPÍTULO ÚNICO - DE LA PUBLICIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VI|Título VI]] › [[Ley 1480 de 2011 - Título VI - Capítulo Único|Capítulo Único]]
 
-## Artículo 29. FUERZA VINCULANTE
+## Artículo 29. Fuerza vinculante
 
 Las condiciones objetivas y específicas anunciadas en la publicidad obligan al anunciante, en los términos de dicha publicidad.
 

@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 46 CPACA|Artículo 46]] — CONSULTA OBLIGATORIA
+- [[art. 46 CPACA|Artículo 46]] — Consulta obligatoria
 
 ---
 ← [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Primera - Título III|Título III]] · [[CPACA - Parte Primera - Título III - Capítulo III|Capítulo III]] →

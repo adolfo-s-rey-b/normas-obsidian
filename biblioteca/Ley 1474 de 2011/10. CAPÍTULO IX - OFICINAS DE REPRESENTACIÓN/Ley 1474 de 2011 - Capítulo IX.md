@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 131 Ley 1474 de 2011|Artículo 131]] — OFICINAS DE REPRESENTACIÓN
+- [[art. 131 Ley 1474 de 2011|Artículo 131]] — Oficinas de representación
 - [[art. 132 Ley 1474 de 2011|Artículo 132]] — Caducidad y prescripción de la acción disciplinaria
 - [[art. 133 Ley 1474 de 2011|Artículo 133]] — El artículo 106 de la Ley 1438 de 2011, quedará así
 - [[art. 134 Ley 1474 de 2011|Artículo 134]] — El artículo 411 del Código Penal quedará con parágrafo que dirá

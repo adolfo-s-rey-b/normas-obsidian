@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "160"
-epigrafe: "TÉRMINO PARA ADOPTAR DECISIONES"
+epigrafe: "Término para adoptar decisiones"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IV|CAPÍTULO IV - TÉRMINOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 160. TÉRMINO PARA ADOPTAR DECISIONES
+## Artículo 160. Término para adoptar decisiones
 
 Salvo disposición en contrario, las decisiones deberán adoptarse en el acto mismo de la audiencia. Para este efecto el juez podrá ordenar un receso en los términos de este código.
 

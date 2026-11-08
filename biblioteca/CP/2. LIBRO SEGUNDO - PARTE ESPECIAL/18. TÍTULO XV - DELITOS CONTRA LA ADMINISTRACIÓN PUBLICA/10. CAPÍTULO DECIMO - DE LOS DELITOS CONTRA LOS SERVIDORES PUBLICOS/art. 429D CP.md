@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "429D"
-epigrafe: "OBSTRUCCIÓN A LA FUNCIÓN PÚBLICA"
+epigrafe: "Obstrucción a la función pública"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XV|TÍTULO XV - DELITOS CONTRA LA ADMINISTRACIÓN PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XV - Capítulo Decimo|CAPÍTULO DECIMO - DE LOS DELITOS CONTRA LOS SERVIDORES PUBLICOS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XV|Título XV]] › [[CP - Libro Segundo - Título XV - Capítulo Decimo|Capítulo Decimo]]
 
-## Artículo 429D. OBSTRUCCIÓN A LA FUNCIÓN PÚBLICA
+## Artículo 429D. Obstrucción a la función pública
 
 El que mediante violencia o amenaza, en los términos del presente código promueva o instigue a otro a obstruir, impedir o dificultar la realización de cualquier función pública, incurrirá en prisión de treinta y seis (36) meses a sesenta (60) meses.
 

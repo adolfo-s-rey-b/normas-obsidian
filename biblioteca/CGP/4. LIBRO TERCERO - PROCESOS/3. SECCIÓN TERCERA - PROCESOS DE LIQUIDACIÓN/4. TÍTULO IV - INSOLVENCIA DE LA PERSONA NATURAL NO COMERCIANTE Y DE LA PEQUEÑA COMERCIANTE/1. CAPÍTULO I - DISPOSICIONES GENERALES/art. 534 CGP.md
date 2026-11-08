@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "534"
-epigrafe: "COMPETENCIA DE LA JURISDICCIÓN ORDINARIA CIVIL"
+epigrafe: "Competencia de la jurisdicción ordinaria civil"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 534. COMPETENCIA DE LA JURISDICCIÓN ORDINARIA CIVIL
+## Artículo 534. Competencia de la jurisdicción ordinaria civil
 
 > [!info] Artículo modificado por el artículo [[art. 6 Ley 2445 de 2025|6]] de la Ley 2445 de 2025. El nuevo texto es el siguiente:
 

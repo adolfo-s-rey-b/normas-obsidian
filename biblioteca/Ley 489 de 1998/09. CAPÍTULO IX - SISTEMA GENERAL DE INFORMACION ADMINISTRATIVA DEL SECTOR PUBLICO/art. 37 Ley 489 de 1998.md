@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "37"
-epigrafe: "SISTEMA DE INFORMACION DE LAS ENTIDADES Y ORGANISMOS"
+epigrafe: "Sistema de información de las entidades y organismos"
 capitulo: "[[Ley 489 de 1998 - Capítulo IX|CAPÍTULO IX - SISTEMA GENERAL DE INFORMACION ADMINISTRATIVA DEL SECTOR PUBLICO]]"
 vigencia: "vigente"
 anterior: "[[art. 36 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo IX|Capítulo IX]]
 
-## Artículo 37. SISTEMA DE INFORMACION DE LAS ENTIDADES Y ORGANISMOS
+## Artículo 37. Sistema de información de las entidades y organismos
 
 Los sistemas de información de los organismos y entidades de la Administración Pública servirán de soporte al cumplimiento de su misión, objetivos y funciones, darán cuenta del desempeño institucional y facilitarán la evaluación de la gestión pública a su interior así como, a la ciudadanía en general.
 

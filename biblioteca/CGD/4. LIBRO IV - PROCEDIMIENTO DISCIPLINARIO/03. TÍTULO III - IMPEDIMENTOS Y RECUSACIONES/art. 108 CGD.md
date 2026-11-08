@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "108"
-epigrafe: "IMPEDIMENTO Y RECUSACIÓN DEL PROCURADOR GENERAL DE LA NACIÓN"
+epigrafe: "Impedimento y recusación del Procurador General de la Nación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título III|TÍTULO III - IMPEDIMENTOS Y RECUSACIONES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título III|Título III]]
 
-## Artículo 108. IMPEDIMENTO Y RECUSACIÓN DEL PROCURADOR GENERAL DE LA NACIÓN
+## Artículo 108. Impedimento y recusación del Procurador General de la Nación
 
 Si el Procurador General de la Nación se declara impedido o es recusado y acepta la causal, el Viceprocurador General de la Nación asumirá el conocimiento de la actuación disciplinaria. Si el Procurador General no acepta la causal de recusación, enviará de manera inmediata la actuación disciplinaria a la Sala de Consulta y Servicio Civil del Consejo de Estado en un término de cinco días hábiles, para que decida. Si declara infundada la causal, devolverá la actuación al Despacho del señor Procurador General. En caso contrario la enviará al despacho del señor Viceprocurador General.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "26"
-epigrafe: "ESTIMULOS A LOS SERVIDORES PUBLICOS"
+epigrafe: "Estímulos a los servidores públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo V|CAPÍTULO V - INCENTIVOS A LA GESTION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 25 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo V|Capítulo V]]
 
-## Artículo 26. ESTIMULOS A LOS SERVIDORES PUBLICOS
+## Artículo 26. Estímulos a los servidores públicos
 
 El Gobierno Nacional otorgará anualmente estímulos a los servidores públicos que se distingan por su eficiencia, creatividad y mérito en el ejercicio de sus funciones, de conformidad con la reglamentación que para tal efecto expida, con fundamento en la recomendación del Departamento Administrativo de la Función Pública y sin perjuicio de los estímulos previstos en otras disposiciones.
 

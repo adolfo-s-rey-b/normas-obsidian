@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "135"
-epigrafe: "GARANTÍA DE COMUNICACIÓN A LAS VÍCTIMAS"
+epigrafe: "Garantía de comunicación a las víctimas"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - VÍCTIMAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 135. GARANTÍA DE COMUNICACIÓN A LAS VÍCTIMAS
+## Artículo 135. Garantía de comunicación a las víctimas
 
 > [!note] Artículo CONDICIONALMENTE EXEQUIBLE
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "196"
-epigrafe: "RENTA LIQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS"
+epigrafe: "RENTA LÍQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VI|CAPÍTULO VI - RENTA LIQUIDA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]] › [[ET - Libro Primero - Título I - Capítulo VI - Recuperación de deducciones|Recuperación de deducciones]]
 
-## Artículo 196. RENTA LIQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS
+## Artículo 196. RENTA LÍQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS
 
 La utilidad que resulte al momento de la enajenación de un activo fijo depreciable deberá imputarse, en primer término, a la renta líquida por recuperación de deducciones.
 

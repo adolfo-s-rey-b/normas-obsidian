@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "19"
-epigrafe: "AMPARO DE POBREZA"
+epigrafe: "Amparo de Pobreza"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo IV|CAPÍTULO IV - PRESENTACION DE LA DEMANDA O PETICION]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 19. AMPARO DE POBREZA
+## Artículo 19. Amparo de Pobreza
 
 El juez podrá conceder el amparo de pobreza cuando fuere pertinente, de acuerdo con lo establecido en el Código de Procedimiento Civil, o cuando el Defensor del Pueblo o sus delegados lo soliciten expresamente.
 

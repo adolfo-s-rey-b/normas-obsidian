@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 169 CPTSS|Artículo 169]] — PROCEDENCIA DE LA INSPECCIÓN
-- [[art. 170 CPTSS|Artículo 170]] — SOLICITUD Y DECRETO DE LA INSPECCIÓN
-- [[art. 171 CPTSS|Artículo 171]] — PRÁCTICA DE LA INSPECCIÓN
-- [[art. 172 CPTSS|Artículo 172]] — INSPECCIÓN DE BIENES MUEBLES O DOCUMENTOS
+- [[art. 169 CPTSS|Artículo 169]] — Procedencia de la inspección
+- [[art. 170 CPTSS|Artículo 170]] — Solicitud y decreto de la inspección
+- [[art. 171 CPTSS|Artículo 171]] — Práctica de la inspección
+- [[art. 172 CPTSS|Artículo 172]] — Inspección de bienes muebles o documentos
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VIII|Capítulo VIII]] →

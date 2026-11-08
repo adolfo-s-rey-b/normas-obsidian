@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "26"
-epigrafe: "PREVALENCIA"
+epigrafe: "Prevalencia"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 25 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 26. PREVALENCIA
+## Artículo 26. Prevalencia
 
 Las normas rectoras son obligatorias y prevalecen sobre cualquier otra disposición de este código. Serán utilizadas como fundamento de interpretación.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "62"
-epigrafe: "LITISCONSORTES CUASINECESARIOS"
+epigrafe: "Litisconsortes cuasinecesarios"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 62. LITISCONSORTES CUASINECESARIOS
+## Artículo 62. Litisconsortes cuasinecesarios
 
 Podrán intervenir en un proceso como litisconsortes de una parte y con las mismas facultades de esta, quienes sean titulares de una determinada relación sustancial a la cual se extiendan los efectos jurídicos de la sentencia, y que por ello estaban legitimados para demandar o ser demandados en el proceso.
 

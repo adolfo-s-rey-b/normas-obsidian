@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "20"
-epigrafe: "CONGRUENCIA"
+epigrafe: "Congruencia"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "parcialmente derogado"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 20. CONGRUENCIA
+## Artículo 20. Congruencia
 
 El disciplinado no podrá ser declarado responsable por hechos ni faltas disciplinarias que no consten en el ~~auto de citación a audiencia y formulación de cargos~~ , sin perjuicio de la posibilidad de su variación.
 

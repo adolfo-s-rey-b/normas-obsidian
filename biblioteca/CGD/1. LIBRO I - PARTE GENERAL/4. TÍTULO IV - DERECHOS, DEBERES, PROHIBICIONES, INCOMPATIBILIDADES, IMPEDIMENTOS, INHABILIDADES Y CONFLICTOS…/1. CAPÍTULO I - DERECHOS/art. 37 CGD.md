@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "37"
-epigrafe: "DERECHOS"
+epigrafe: "Derechos"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título IV|TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO]]"
 capitulo: "[[CGD - Libro I - Título IV - Capítulo I|CAPÍTULO I - DERECHOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título IV|Título IV]] › [[CGD - Libro I - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 37. DERECHOS
+## Artículo 37. Derechos
 
 Además de los contemplados en la Constitución, la ley y los reglamentos, son derechos de todo servidor público:
 

@@ -21,17 +21,17 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 1563 de 2012|Artículo 1]] — DEFINICIÓN, MODALIDADES Y PRINCIPIOS
-- [[art. 2 Ley 1563 de 2012|Artículo 2]] — CLASES DE ARBITRAJE
-- [[art. 3 Ley 1563 de 2012|Artículo 3]] — PACTO ARBITRAL
-- [[art. 4 Ley 1563 de 2012|Artículo 4]] — CLÁUSULA COMPROMISORIA
-- [[art. 5 Ley 1563 de 2012|Artículo 5]] — AUTONOMÍA DE LA CLÁUSULA COMPROMISORIA
-- [[art. 6 Ley 1563 de 2012|Artículo 6]] — COMPROMISO
-- [[art. 7 Ley 1563 de 2012|Artículo 7]] — ÁRBITROS
-- [[art. 8 Ley 1563 de 2012|Artículo 8]] — DESIGNACIÓN DE LOS ÁRBITROS
-- [[art. 9 Ley 1563 de 2012|Artículo 9]] — SECRETARIOS
-- [[art. 10 Ley 1563 de 2012|Artículo 10]] — TÉRMINO
-- [[art. 11 Ley 1563 de 2012|Artículo 11]] — SUSPENSIÓN
+- [[art. 1 Ley 1563 de 2012|Artículo 1]] — Definición, modalidades y principios
+- [[art. 2 Ley 1563 de 2012|Artículo 2]] — Clases de arbitraje
+- [[art. 3 Ley 1563 de 2012|Artículo 3]] — Pacto arbitral
+- [[art. 4 Ley 1563 de 2012|Artículo 4]] — Cláusula compromisoria
+- [[art. 5 Ley 1563 de 2012|Artículo 5]] — Autonomía de la cláusula compromisoria
+- [[art. 6 Ley 1563 de 2012|Artículo 6]] — Compromiso
+- [[art. 7 Ley 1563 de 2012|Artículo 7]] — Árbitros
+- [[art. 8 Ley 1563 de 2012|Artículo 8]] — Designación de los árbitros
+- [[art. 9 Ley 1563 de 2012|Artículo 9]] — Secretarios
+- [[art. 10 Ley 1563 de 2012|Artículo 10]] — Término
+- [[art. 11 Ley 1563 de 2012|Artículo 11]] — Suspensión
 
 ---
 ↑ [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] · [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]] →

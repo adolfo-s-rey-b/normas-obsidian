@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "75"
-epigrafe: "INOPONIBILIDAD POSTERIOR DE LOS MISMOS HECHOS"
+epigrafe: "Inoponibilidad posterior de los mismos hechos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 75. INOPONIBILIDAD POSTERIOR DE LOS MISMOS HECHOS
+## Artículo 75. Inoponibilidad posterior de los mismos hechos
 
 Los hechos que configuren excepciones previas no podrán ser alegados como causal de nulidad por el demandante, ni por el demandado que tuvo oportunidad de proponer dichas excepciones.
 

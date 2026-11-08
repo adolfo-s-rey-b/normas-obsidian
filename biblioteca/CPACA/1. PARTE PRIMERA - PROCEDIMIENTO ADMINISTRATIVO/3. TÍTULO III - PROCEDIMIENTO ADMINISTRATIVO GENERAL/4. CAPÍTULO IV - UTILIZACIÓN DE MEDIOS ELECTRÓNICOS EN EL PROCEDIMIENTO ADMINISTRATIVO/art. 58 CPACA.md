@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "58"
-epigrafe: "ARCHIVO ELECTRÓNICO DE DOCUMENTOS"
+epigrafe: "Archivo electrónico de documentos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 58. ARCHIVO ELECTRÓNICO DE DOCUMENTOS
+## Artículo 58. Archivo electrónico de documentos
 
 Cuando el procedimiento administrativo se adelante utilizando medios electrónicos, los documentos deberán ser archivados en este mismo medio. Podrán almacenarse por medios electrónicos, todos los documentos utilizados en las actuaciones administrativas.
 

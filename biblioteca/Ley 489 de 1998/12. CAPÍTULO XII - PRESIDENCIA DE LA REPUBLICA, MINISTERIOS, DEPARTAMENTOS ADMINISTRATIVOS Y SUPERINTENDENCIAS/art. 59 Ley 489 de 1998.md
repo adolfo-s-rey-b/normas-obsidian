@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "59"
-epigrafe: "FUNCIONES"
+epigrafe: "Funciones"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 58 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 59. FUNCIONES
+## Artículo 59. Funciones
 
 Corresponde a los ministerios y departamentos administrativos, sin perjuicio de lo dispuesto en sus actos de creación o en leyes especiales:
 

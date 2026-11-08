@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "231"
-epigrafe: "CONTENIDO DEL FALLO"
+epigrafe: "Contenido del fallo"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 231. CONTENIDO DEL FALLO
+## Artículo 231. Contenido del fallo
 
 El fallo debe constar por escrito y contener:
 

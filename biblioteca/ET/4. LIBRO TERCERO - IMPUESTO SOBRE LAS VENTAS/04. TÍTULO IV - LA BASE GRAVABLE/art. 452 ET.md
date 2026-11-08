@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "452"
-epigrafe: "CUANDO SUBSISTE LA VINCULACIÓN ECONOMICA"
+epigrafe: "CUANDO SUBSISTE LA VINCULACIÓN ECONÓMICA"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 452. CUANDO SUBSISTE LA VINCULACIÓN ECONOMICA
+## Artículo 452. CUANDO SUBSISTE LA VINCULACIÓN ECONÓMICA
 
 La vinculación económica subsiste, cuando la enajenación se produce entre vinculados económicamente por medio de terceros no vinculados.
 

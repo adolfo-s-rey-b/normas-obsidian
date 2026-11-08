@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "112"
-epigrafe: "REGIMEN JURIDICO DE LOS ACTOS Y CONTRATOS"
+epigrafe: "Régimen jurídico de los actos y contratos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVI|CAPÍTULO XVI - EJERCICIO DE FUNCIONES ADMINISTRATIVAS POR PARTICULARES]]"
 vigencia: "vigente"
 anterior: "[[art. 111 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 112. REGIMEN JURIDICO DE LOS ACTOS Y CONTRATOS
+## Artículo 112. Régimen jurídico de los actos y contratos
 
 La celebración del convenio y el consiguiente ejercicio de funciones administrativas no modifica la naturaleza ni el régimen aplicable a la entidad o persona privada que recibe el encargo de ejercer funciones administrativas. No obstante, los actos unilaterales están sujetos en cuanto a su expedición, y requisitos externos e internos, a los procedimientos de comunicación e impugnación a las disposiciones propias de los actos administrativos. Igualmente si se celebran contratos por cuenta de las entidades privadas, los mismos se sujetarán a las normas de contratación de las entidades estatales.
 

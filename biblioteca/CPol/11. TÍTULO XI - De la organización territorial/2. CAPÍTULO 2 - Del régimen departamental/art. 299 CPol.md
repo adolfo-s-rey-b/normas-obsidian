@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "299"
 titulo: "[[CPol - Título XI|TÍTULO XI - De la organización territorial]]"
 capitulo: "[[CPol - Título XI - Capítulo 2|CAPÍTULO 2 - Del régimen departamental]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 3 Acto Legislativo 1 de 2007]]"
 derogado_por:
@@ -33,7 +33,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título XI|Título XI]] › [[CPol - Título XI - Capítulo 2|Capítulo 2]]

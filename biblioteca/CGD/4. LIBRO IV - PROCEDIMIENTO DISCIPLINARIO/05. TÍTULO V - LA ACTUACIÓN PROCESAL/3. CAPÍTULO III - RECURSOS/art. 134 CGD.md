@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "134"
-epigrafe: "RECURSO DE APELACIÓN"
+epigrafe: "Recurso de apelación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 134. RECURSO DE APELACIÓN
+## Artículo 134. Recurso de apelación
 
 El recurso de apelación procede únicamente contra las siguientes decisiones: la decisión que niega pruebas en etapa de juicio, la decisión de archivo, la decisión que finalice el procedimiento para el testigo renuente y el quejoso temerario, y el fallo de primera instancia.
 

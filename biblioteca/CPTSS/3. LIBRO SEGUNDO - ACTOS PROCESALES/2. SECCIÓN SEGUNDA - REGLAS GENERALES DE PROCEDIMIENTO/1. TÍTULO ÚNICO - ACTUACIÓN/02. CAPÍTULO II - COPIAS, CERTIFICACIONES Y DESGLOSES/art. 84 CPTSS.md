@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "84"
-epigrafe: "CERTIFICACIONES"
+epigrafe: "Certificaciones"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 84. CERTIFICACIONES
+## Artículo 84. Certificaciones
 
 El secretario, por solicitud verbal o escrita, puede expedir certificaciones sobre la existencia de procesos, el estado de los mismos y la ejecutoria de providencias judiciales, sin necesidad de auto que las ordene. El juez expedirá certificaciones sobre hechos ocurridos en su presencia y en ejercicio de sus funciones de que no haya constancia en el expediente, y en los demás casos autorizados por la ley.
 

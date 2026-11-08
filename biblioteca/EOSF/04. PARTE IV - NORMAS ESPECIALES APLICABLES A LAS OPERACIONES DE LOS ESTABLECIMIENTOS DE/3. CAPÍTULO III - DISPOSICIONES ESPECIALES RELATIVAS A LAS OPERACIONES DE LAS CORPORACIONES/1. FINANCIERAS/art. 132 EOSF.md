@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "132"
-epigrafe: "ASPECTOS GENERALES"
+epigrafe: "Aspectos Generales"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo III|CAPÍTULO III - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LAS CORPORACIONES]]"
 rubro: "[[EOSF - Parte IV - Capítulo III - Financieras|FINANCIERAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo III|Capítulo III]] › [[EOSF - Parte IV - Capítulo III - Financieras|Financieras]]
 
-## Artículo 132. ASPECTOS GENERALES
+## Artículo 132. Aspectos Generales
 
 1\. Definiciones. Para los efectos del capítulo III de la Parte I del presente Estatuto se entiende que:
 

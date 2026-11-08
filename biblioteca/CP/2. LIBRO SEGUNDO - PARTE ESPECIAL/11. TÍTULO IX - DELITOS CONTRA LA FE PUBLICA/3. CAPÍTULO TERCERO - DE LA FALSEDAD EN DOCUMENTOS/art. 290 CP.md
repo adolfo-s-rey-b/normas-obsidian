@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "290"
-epigrafe: "CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancia de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IX|TÍTULO IX - DELITOS CONTRA LA FE PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título IX - Capítulo Tercero|CAPÍTULO TERCERO - DE LA FALSEDAD EN DOCUMENTOS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IX|Título IX]] › [[CP - Libro Segundo - Título IX - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 290. CIRCUNSTANCIA DE AGRAVACIÓN PUNITIVA
+## Artículo 290. Circunstancia de agravación punitiva
 
 La pena se aumentará hasta en la mitad para el copartícipe en la realización de cualesquiera de las conductas descritas en los artículos anteriores que usare el documento, salvo en el evento del artículo [[art. 289 CP|289]] de este Código.
 

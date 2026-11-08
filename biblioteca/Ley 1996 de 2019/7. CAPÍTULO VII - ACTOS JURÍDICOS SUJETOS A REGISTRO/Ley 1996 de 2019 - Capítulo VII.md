@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 51 Ley 1996 de 2019|Artículo 51]] — ACTOS JURÍDICOS QUE INVOLUCREN BIENES SUJETOS A REGISTRO
+- [[art. 51 Ley 1996 de 2019|Artículo 51]] — Actos jurídicos que involucren bienes sujetos a registro
 
 ---
 ← [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]] · ↑ [[Ley 1996 de 2019|Ley 1996 de 2019]] · [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]] →

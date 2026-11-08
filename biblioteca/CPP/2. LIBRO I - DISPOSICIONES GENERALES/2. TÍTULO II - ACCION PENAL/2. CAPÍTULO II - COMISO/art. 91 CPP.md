@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "91"
-epigrafe: "SUSPENSIÓN Y CANCELACIÓN DE LA PERSONERÍA JURÍDICA"
+epigrafe: "Suspensión y cancelación de la personería jurídica"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 91. SUSPENSIÓN Y CANCELACIÓN DE LA PERSONERÍA JURÍDICA
+## Artículo 91. Suspensión y cancelación de la personería jurídica
 
 > [!note] Aparte subrayado CONDICIONALMENTE exequible
 

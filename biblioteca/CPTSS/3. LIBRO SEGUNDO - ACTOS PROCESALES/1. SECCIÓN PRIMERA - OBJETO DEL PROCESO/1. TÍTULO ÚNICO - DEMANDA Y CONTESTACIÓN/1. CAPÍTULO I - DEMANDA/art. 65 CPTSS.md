@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "65"
-epigrafe: "DEMANDA CONTRA HEREDEROS DETERMINADOS E INDETERMINADOS, DEMÁS ADMINISTRADORES DE LA HERENCIA Y EL CÓNYUGE"
+epigrafe: "Demanda contra herederos determinados e indeterminados, demás administradores de la herencia y el cónyuge"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 65. DEMANDA CONTRA HEREDEROS DETERMINADOS E INDETERMINADOS, DEMÁS ADMINISTRADORES DE LA HERENCIA Y EL CÓNYUGE
+## Artículo 65. Demanda contra herederos determinados e indeterminados, demás administradores de la herencia y el cónyuge
 
 Cuando se pretenda demandar en proceso declarativo o de ejecución a los herederos de una persona cuyo proceso de sucesión no se haya iniciado y cuyos nombres se ignoren, la demanda deberá dirigirse indeterminadamente contra todos los que tengan dicha calidad, y el auto admisorio ordenará emplazarlos en la forma y para los fines previstos en este código. Si se conoce a alguno de los herederos, la demanda se dirigirá contra estos y los indeterminados.
 

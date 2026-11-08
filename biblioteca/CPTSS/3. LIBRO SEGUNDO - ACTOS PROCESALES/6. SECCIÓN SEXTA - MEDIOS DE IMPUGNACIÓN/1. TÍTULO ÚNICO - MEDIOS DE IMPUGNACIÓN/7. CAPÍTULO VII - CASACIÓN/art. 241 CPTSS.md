@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "241"
-epigrafe: "CAUSALES O MOTIVOS DEL RECURSO"
+epigrafe: "Causales o motivos del recurso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 241. CAUSALES O MOTIVOS DEL RECURSO
+## Artículo 241. Causales o motivos del recurso
 
 Son causales del recurso extraordinario de casación en materia laboral:
 

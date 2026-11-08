@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "383"
-epigrafe: "DECLARACIÓN DE BIENES VACANTES O MOSTRENCOS"
+epigrafe: "Declaración de bienes vacantes o mostrencos"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 383. DECLARACIÓN DE BIENES VACANTES O MOSTRENCOS
+## Artículo 383. Declaración de bienes vacantes o mostrencos
 
 La demanda para que se declaren vacantes o mostrencos determinados bienes solo podrá instaurarse por la entidad a la cual deban adjudicarse conforme a la ley.
 

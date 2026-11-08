@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 324 CPTSS|Artículo 324]] — CÓMPUTO DE TÉRMINOS
+- [[art. 324 CPTSS|Artículo 324]] — Cómputo de términos
 
 ---
 ← [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]] · [[CPTSS - Libro Cuarto - Capítulo IV|Capítulo IV]] →

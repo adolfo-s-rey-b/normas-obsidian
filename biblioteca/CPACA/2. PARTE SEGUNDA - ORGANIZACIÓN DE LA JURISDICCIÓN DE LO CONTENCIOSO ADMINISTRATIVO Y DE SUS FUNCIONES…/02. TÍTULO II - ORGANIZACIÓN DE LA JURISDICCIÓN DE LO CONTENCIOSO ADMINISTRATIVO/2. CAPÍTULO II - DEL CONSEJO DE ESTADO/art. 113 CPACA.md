@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "113"
-epigrafe: "CONCEPTO PREVIO DE LA SALA DE CONSULTA Y SERVICIO CIVIL"
+epigrafe: "Concepto Previo de la Sala de Consulta y Servicio Civil"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 113. CONCEPTO PREVIO DE LA SALA DE CONSULTA Y SERVICIO CIVIL
+## Artículo 113. Concepto Previo de la Sala de Consulta y Servicio Civil
 
 La Sala de Consulta y Servicio Civil deberá ser previamente oída en los siguientes asuntos:
 

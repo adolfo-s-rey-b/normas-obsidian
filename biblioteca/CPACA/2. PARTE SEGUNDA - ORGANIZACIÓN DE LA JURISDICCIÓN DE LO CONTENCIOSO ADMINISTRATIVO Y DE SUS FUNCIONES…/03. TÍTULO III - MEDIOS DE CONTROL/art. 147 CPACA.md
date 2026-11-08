@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "147"
-epigrafe: "NULIDAD DE LAS CARTAS DE NATURALEZA Y DE LAS RESOLUCIONES DE AUTORIZACIÓN DE INSCRIPCIÓN"
+epigrafe: "Nulidad de las cartas de naturaleza y de las resoluciones de autorización de inscripción"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 147. NULIDAD DE LAS CARTAS DE NATURALEZA Y DE LAS RESOLUCIONES DE AUTORIZACIÓN DE INSCRIPCIÓN
+## Artículo 147. Nulidad de las cartas de naturaleza y de las resoluciones de autorización de inscripción
 
 Cualquier persona podrá pedir que se declare la nulidad de cartas de naturaleza y de resoluciones de autorización de inscripción dentro de la oportunidad y por las causales prescritas en los artículos [[art. 20 Ley 43 de 1993|20]] y [[art. 21 Ley 43 de 1993|21]] de la Ley 43 de 1993.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "82"
-epigrafe: "UNIDADES ADMINISTRATIVAS ESPECIALES Y SUPERINTENDENCIAS CON PERSONERIA JURIDICA"
+epigrafe: "Unidades administrativas especiales y superintendencias con personería jurídica"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 81 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 82. UNIDADES ADMINISTRATIVAS ESPECIALES Y SUPERINTENDENCIAS CON PERSONERIA JURIDICA
+## Artículo 82. Unidades administrativas especiales y superintendencias con personería jurídica
 
 Las unidades administrativas especiales y las superintendencias con personería jurídica, son entidades descentralizadas, con autonomía administrativa y patrimonial, las cuales se sujetan al régimen jurídico contenido en la ley que las crea y en lo no previsto por ella, al de los establecimientos públicos.
 

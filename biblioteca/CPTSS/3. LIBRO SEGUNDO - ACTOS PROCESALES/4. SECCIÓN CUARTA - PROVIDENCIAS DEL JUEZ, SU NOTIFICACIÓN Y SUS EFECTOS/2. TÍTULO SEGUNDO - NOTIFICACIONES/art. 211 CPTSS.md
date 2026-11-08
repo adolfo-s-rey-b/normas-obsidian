@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "211"
-epigrafe: "PRÁCTICA DE LA NOTIFICACIÓN PERSONAL POR MEDIOS FÍSICOS"
+epigrafe: "Práctica de la notificación personal por medios físicos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|TÍTULO SEGUNDO - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]]
 
-## Artículo 211. PRÁCTICA DE LA NOTIFICACIÓN PERSONAL POR MEDIOS FÍSICOS
+## Artículo 211. Práctica de la notificación personal por medios físicos
 
 Cuando se desconozca la dirección electrónica del demandado, la parte interesada remitirá una comunicación a quien deba ser notificado, a su representante o apoderado, por medio de servicio postal autorizado por el Ministerio de Tecnologías de la Información y las Comunicaciones, en la que le informará sobre la existencia del proceso, su naturaleza y la fecha de la providencia que debe ser notificada, previniéndolo para que comparezca al juzgado a recibir notificación dentro de los cinco (5) días siguientes a la fecha de su entrega en el lugar de destino. Cuando la comunicación deba ser entregada en municipio distinto al de la sede del juzgado, el término para comparecer será de diez (10) días; y si fuere en el exterior el término será de treinta (30) días.
 

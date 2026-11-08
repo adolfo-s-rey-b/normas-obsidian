@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "84"
-epigrafe: "EMPRESAS OFICIALES DE SERVICIOS PUBLICOS"
+epigrafe: "Empresas oficiales de servicios públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 83 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 84. EMPRESAS OFICIALES DE SERVICIOS PUBLICOS
+## Artículo 84. Empresas oficiales de servicios públicos
 
 Las empresas oficiales de servicios públicos domiciliarios y las entidades públicas que tienen por objeto la prestación de los mismos se sujetarán a la Ley 142 de 1994, a lo previsto en la presente ley en los aspectos no regulados por aquélla y a las normas que las complementen, sustituyan o adicionen.
 

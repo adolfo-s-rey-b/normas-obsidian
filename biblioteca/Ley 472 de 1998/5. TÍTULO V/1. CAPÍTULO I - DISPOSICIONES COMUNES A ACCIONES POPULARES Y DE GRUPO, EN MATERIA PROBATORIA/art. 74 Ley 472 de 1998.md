@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "74"
-epigrafe: "REGISTRO PUBLICO DE PERITOS PARA ACCIONES POPULARES Y DE GRUPO"
+epigrafe: "Registro Público de Peritos para Acciones Populares y de Grupo"
 titulo: "[[Ley 472 de 1998 - Título V|TÍTULO V]]"
 capitulo: "[[Ley 472 de 1998 - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título V|Título V]] › [[Ley 472 de 1998 - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 74. REGISTRO PUBLICO DE PERITOS PARA ACCIONES POPULARES Y DE GRUPO
+## Artículo 74. Registro Público de Peritos para Acciones Populares y de Grupo
 
 El Registro Público de Peritos para Acciones Populares y de Grupo se organizará con base en los siguientes criterios:
 

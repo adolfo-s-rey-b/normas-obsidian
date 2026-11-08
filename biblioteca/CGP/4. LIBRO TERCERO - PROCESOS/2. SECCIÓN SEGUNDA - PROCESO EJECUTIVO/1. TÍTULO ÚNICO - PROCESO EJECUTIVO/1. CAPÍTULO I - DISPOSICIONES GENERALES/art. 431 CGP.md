@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "431"
-epigrafe: "PAGO DE SUMAS DE DINERO"
+epigrafe: "Pago de sumas de dinero"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 431. PAGO DE SUMAS DE DINERO
+## Artículo 431. Pago de sumas de dinero
 
 Si la obligación versa sobre una cantidad líquida de dinero, se ordenará su pago en el término de cinco (5) días, con los intereses desde que se hicieron exigibles hasta la cancelación de la deuda. Cuando se trate de obligaciones pactadas en moneda extranjera, cuyo pago deba realizarse en moneda legal colombiana a la tasa vigente al momento del pago, el juez dictará el mandamiento ejecutivo en la divisa acordada.
 

@@ -23,11 +23,11 @@ tags:
 ### Contenido
 
 - [[art. 244 EOSF|Artículo 244]] — NATURALEZA JURÍDICA
-- [[art. 245 EOSF|Artículo 245]] — DIRECCION Y ADMINISTRACION
-- [[art. 246 EOSF|Artículo 246]] — REGIMEN PATRIMONIAL
-- [[art. 247 EOSF|Artículo 247]] — OPERACIONES AUTORIZADAS
-- [[art. 248 EOSF|Artículo 248]] — INVERSIONES Y ENCAJE
-- [[art. 249 EOSF|Artículo 249]] — SECCION DE AHORRO Y VIVIENDA
+- [[art. 245 EOSF|Artículo 245]] — Dirección y Administración
+- [[art. 246 EOSF|Artículo 246]] — Régimen Patrimonial
+- [[art. 247 EOSF|Artículo 247]] — Operaciones Autorizadas
+- [[art. 248 EOSF|Artículo 248]] — Inversiones y Encaje
+- [[art. 249 EOSF|Artículo 249]] — Sección de Ahorro y Vivienda
 
 ---
 ← [[EOSF - Parte X - Capítulo III|Capítulo III]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo V|Capítulo V]] →

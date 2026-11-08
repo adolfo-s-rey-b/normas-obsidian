@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "607"
-epigrafe: "TRÁMITE DEL EXEQUÁTUR"
+epigrafe: "Trámite del exequátur"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título I|TÍTULO I - SENTENCIAS Y LAUDOS PROFERIDOS EN EL EXTERIOR Y COMISIONES DE JUECES EXTRANJEROS]]"
 capitulo: "[[CGP - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - SENTENCIAS Y LAUDOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título I|Título I]] › [[CGP - Libro Quinto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 607. TRÁMITE DEL EXEQUÁTUR
+## Artículo 607. Trámite del exequátur
 
 La demanda sobre exequátur de una sentencia extranjera, con el fin de que produzca efectos en Colombia, se presentará por el interesado a la Sala de Casación Civil de la Corte Suprema de Justicia, salvo que conforme a los tratados internacionales corresponda a otro juez, y ante ella deberá citarse a la parte afectada por la sentencia, si hubiere sido dictado en proceso contencioso.
 

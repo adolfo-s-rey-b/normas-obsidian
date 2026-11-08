@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "180"
-epigrafe: "DOCUMENTOS EN IDIOMA EXTRANJERO Y OTORGADOS EN EL EXTRANJERO"
+epigrafe: "Documentos en idioma extranjero y otorgados en el extranjero"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 180. DOCUMENTOS EN IDIOMA EXTRANJERO Y OTORGADOS EN EL EXTRANJERO
+## Artículo 180. Documentos en idioma extranjero y otorgados en el extranjero
 
 Para que el documento extendido en idioma distinto del castellano pueda ser apreciado como medio de prueba, por parte del juzgador, se requiere que obre en el expediente con su correspondiente traducción efectuada por el Ministerio de Relaciones Exteriores, por un intérprete oficial o por traductor designado por el juez. En los dos primeros casos, la traducción y su original podrán ser presentados directamente. En caso de presentarse controversia sobre el contenido de la traducción, el juez designará un traductor.
 

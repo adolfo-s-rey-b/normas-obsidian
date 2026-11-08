@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "304"
-epigrafe: "FORMALIZACIÓN DE LA RECLUSIÓN"
+epigrafe: "Formalización de la reclusión"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 304. FORMALIZACIÓN DE LA RECLUSIÓN
+## Artículo 304. Formalización de la reclusión
 
 Cuando el capturado deba privarse de la libertad, una vez se imponga la medida de aseguramiento o la sentencia condenatoria, el funcionario judicial a cuyas órdenes se encuentre lo entregará inmediatamente en custodia al INPEC o a la autoridad del establecimiento de reclusión que corresponda, para efectuar el ingreso y registro al Sistema Penitenciario y Carcelario. Antes de los momentos procesales indicados el capturado estará bajo la responsabilidad del organismo que efectuó la aprehensión.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "123"
-epigrafe: "SUSTITUCIÓN DEL DEFENSOR"
+epigrafe: "Sustitución del defensor"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEFENSA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 123. SUSTITUCIÓN DEL DEFENSOR
+## Artículo 123. Sustitución del defensor
 
 Unicamente el defensor principal podrá sustituir la designación en otro abogado, pudiéndose reservar el derecho de reasumir la defensa en la oportunidad que estime conveniente.
 

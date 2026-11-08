@@ -23,7 +23,7 @@ tags:
 ### Contenido
 
 - [[art. 527 ET|Artículo 527]] — MOMENTOS DE REALIZACIÓN DE ALGUNOS HECHOS GRAVADOS
-- [[art. 528 ET|Artículo 528]] — LA NO EXPRESION DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO
+- [[art. 528 ET|Artículo 528]] — LA NO EXPRESIÓN DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO
 
 ---
 ← [[ET - Libro Cuarto - Título II|Título II]] · ↑ [[ET - Libro Cuarto|Libro Cuarto]] · [[ET - Libro Cuarto - Título IV|Título IV]] →

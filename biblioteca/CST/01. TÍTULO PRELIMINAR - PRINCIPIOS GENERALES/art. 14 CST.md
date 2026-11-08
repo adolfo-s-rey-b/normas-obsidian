@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "14"
-epigrafe: "CARACTER DE ORDEN PUBLICO. IRRENUNCIABILIDAD"
+epigrafe: "CARACTER DE ORDEN PÚBLICO. IRRENUNCIABILIDAD"
 titulo: "[[CST - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 13 CST]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título Preliminar|Título Preliminar]]
 
-## Artículo 14. CARACTER DE ORDEN PUBLICO. IRRENUNCIABILIDAD
+## Artículo 14. CARACTER DE ORDEN PÚBLICO. IRRENUNCIABILIDAD
 
 Las disposiciones legales que regulan el trabajo humano son de orden público y, por consiguiente, los derechos y prerrogativas que ellas conceden son irrenunciables, salvo los casos expresamente exceptuados por la ley.
 

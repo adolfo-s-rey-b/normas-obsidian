@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 302 CGP|Artículo 302]] — EJECUTORIA
-- [[art. 303 CGP|Artículo 303]] — COSA JUZGADA
-- [[art. 304 CGP|Artículo 304]] — SENTENCIAS QUE NO CONSTITUYEN COSA JUZGADA
+- [[art. 302 CGP|Artículo 302]] — Ejecutoria
+- [[art. 303 CGP|Artículo 303]] — Cosa juzgada
+- [[art. 304 CGP|Artículo 304]] — Sentencias que no constituyen cosa juzgada
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] · [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|Capítulo II]] →

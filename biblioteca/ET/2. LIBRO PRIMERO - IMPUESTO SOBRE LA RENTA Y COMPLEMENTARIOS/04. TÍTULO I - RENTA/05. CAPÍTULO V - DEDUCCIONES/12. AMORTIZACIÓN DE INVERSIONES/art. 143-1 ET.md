@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "143-1"
-epigrafe: "AMORTIZACIÓN DE LAS INVERSIONES EN LA EXPLORACIÓN, DESARROLLO Y CONSTRUCCIÓN DE MINAS, Y YACIMIENTOS DE PETRÓLEO Y GAS"
+epigrafe: "AMORTIZACIÓN DE LAS INVERSIONES EN LA EXPLORACIÓN, DESARROLLO Y CONSTRUCCIÓN DE MINAS; Y YACIMIENTOS DE PETRÓLEO Y GAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo V - Amortización de inversiones|AMORTIZACIÓN DE INVERSIONES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 86 Ley 1819 de 2016]]"
   - "[[art. 110 Ley 1607 de 2012]]"
@@ -33,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Amortización de inversiones|Amortización de inversiones]]
 
-## Artículo 143-1. AMORTIZACIÓN DE LAS INVERSIONES EN LA EXPLORACIÓN, DESARROLLO Y CONSTRUCCIÓN DE MINAS, Y YACIMIENTOS DE PETRÓLEO Y GAS
+## Artículo 143-1. AMORTIZACIÓN DE LAS INVERSIONES EN LA EXPLORACIÓN, DESARROLLO Y CONSTRUCCIÓN DE MINAS; Y YACIMIENTOS DE PETRÓLEO Y GAS
 
 Los gastos preliminares de instalación u organización o de desarrollo o los costos de adquisición o exploración de minas, de yacimientos petrolíferos o de gas y otros recursos naturales no renovables para efectos del impuesto sobre la renta y complementarios seguirán las siguientes reglas para su amortización y su respectiva deducción:
 

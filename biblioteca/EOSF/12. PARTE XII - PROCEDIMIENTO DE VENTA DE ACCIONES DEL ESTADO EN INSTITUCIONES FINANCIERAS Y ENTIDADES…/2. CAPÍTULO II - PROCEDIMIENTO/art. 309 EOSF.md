@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "309"
-epigrafe: "PROCEDIMIENTOS ALTERNATIVOS"
+epigrafe: "Procedimientos Alternativos"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]
 
-## Artículo 309. PROCEDIMIENTOS ALTERNATIVOS
+## Artículo 309. Procedimientos Alternativos
 
 Cuando se emplee el martillo para la enajenación de las acciones y la totalidad o parte de éstas no logren colocarse en el mercado, se utilizará cualquier otro procedimiento que asegure suficiente publicidad y libre concurrencia, previa aprobación del Consejo de Ministros.
 

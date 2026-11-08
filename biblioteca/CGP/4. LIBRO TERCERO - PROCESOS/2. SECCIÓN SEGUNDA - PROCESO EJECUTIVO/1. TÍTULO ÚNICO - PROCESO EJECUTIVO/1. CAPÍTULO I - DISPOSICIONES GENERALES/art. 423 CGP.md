@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "423"
-epigrafe: "REQUERIMIENTO PARA CONSTITUIR EN MORA Y NOTIFICACIÓN DE LA CESIÓN DEL CRÉDITO"
+epigrafe: "Requerimiento para constituir en mora y notificación de la cesión del crédito"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 423. REQUERIMIENTO PARA CONSTITUIR EN MORA Y NOTIFICACIÓN DE LA CESIÓN DEL CRÉDITO
+## Artículo 423. Requerimiento para constituir en mora y notificación de la cesión del crédito
 
 La notificación del mandamiento ejecutivo hará las veces de requerimiento para constituir en mora al deudor, y de la notificación de la cesión del crédito cuando quien demande sea un cesionario. Los efectos de la mora sólo se producirán a partir de la notificación.
 

@@ -20,9 +20,9 @@ tags:
 
 ### Contenido
 
-- [[art. 41 Ley 820 de 2003|Artículo 41]] — FOMENTO A LA INVERSIÓN
-- [[art. 42 Ley 820 de 2003|Artículo 42]] — RÉGIMEN APLICABLE A LOS CONTRATOS EN EJECUCIÓN
-- [[art. 43 Ley 820 de 2003|Artículo 43]] — TRÁNSITO DE LEGISLACIÓN, VIGENCIA Y DEROGATORIA
+- [[art. 41 Ley 820 de 2003|Artículo 41]] — Fomento a la inversión
+- [[art. 42 Ley 820 de 2003|Artículo 42]] — Régimen aplicable a los contratos en ejecución
+- [[art. 43 Ley 820 de 2003|Artículo 43]] — Tránsito de legislación, vigencia y derogatoria
 
 ---
 ← [[Ley 820 de 2003 - Capítulo XI|Capítulo XI]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]]

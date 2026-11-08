@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "262"
-epigrafe: "REMISIÓN AL PROCEDIMIENTO ORDINARIO"
+epigrafe: "Remisión al procedimiento ordinario"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo IX|CAPÍTULO IX - EJECUCIÓN Y REGISTRO DE LAS SANCIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo IX|Capítulo IX]]
 
-## Artículo 262. REMISIÓN AL PROCEDIMIENTO ORDINARIO
+## Artículo 262. Remisión al procedimiento ordinario
 
 Los aspectos no regulados en este título se regirán por lo dispuesto para el procedimiento consagrado en este código.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "61"
-epigrafe: "FORMA Y REQUISITOS DE LA DEMANDA"
+epigrafe: "Forma y requisitos de la demanda"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 61. FORMA Y REQUISITOS DE LA DEMANDA
+## Artículo 61. Forma y requisitos de la demanda
 
 La demanda deberá contener:
 

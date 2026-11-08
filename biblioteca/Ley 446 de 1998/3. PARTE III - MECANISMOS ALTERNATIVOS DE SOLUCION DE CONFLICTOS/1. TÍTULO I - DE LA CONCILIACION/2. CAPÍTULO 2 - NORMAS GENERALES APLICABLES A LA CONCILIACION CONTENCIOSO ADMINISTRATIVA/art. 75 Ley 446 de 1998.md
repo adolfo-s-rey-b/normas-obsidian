@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "75"
-epigrafe: "COMITE DE CONCILIACION"
+epigrafe: "Comité de conciliación"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 2|CAPÍTULO 2 - NORMAS GENERALES APLICABLES A LA CONCILIACION CONTENCIOSO ADMINISTRATIVA]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 75. COMITE DE CONCILIACION
+## Artículo 75. Comité de conciliación
 
 La Ley 23 de 1991 tendrá un nuevo artículo, así:
 

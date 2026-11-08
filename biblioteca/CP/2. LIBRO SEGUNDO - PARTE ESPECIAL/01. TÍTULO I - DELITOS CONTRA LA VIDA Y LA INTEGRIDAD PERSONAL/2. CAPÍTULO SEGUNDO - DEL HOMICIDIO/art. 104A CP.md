@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "104A"
-epigrafe: "FEMINICIDIO"
+epigrafe: "Feminicidio"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Segundo|CAPÍTULO SEGUNDO - DEL HOMICIDIO]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 104A. FEMINICIDIO
+## Artículo 104A. Feminicidio
 
 Quien causare la muerte a una mujer, por su condición de ser mujer o por motivos de su identidad de género o en donde haya concurrido o antecedido cualquiera de las siguientes circunstancias, incurrirá en prisión de doscientos cincuenta (250) meses a quinientos (500) meses.
 

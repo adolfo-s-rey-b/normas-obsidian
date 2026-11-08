@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "133"
-epigrafe: "ATENCIÓN Y PROTECCIÓN INMEDIATA A LAS VÍCTIMAS"
+epigrafe: "Atención y protección inmediata a las víctimas"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - VÍCTIMAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 133. ATENCIÓN Y PROTECCIÓN INMEDIATA A LAS VÍCTIMAS
+## Artículo 133. Atención y protección inmediata a las víctimas
 
 La Fiscalía General de la Nación adoptará las medidas necesarias para la atención de las víctimas, la garantía de su seguridad personal y familiar, y la protección frente a toda publicidad que implique un ataque indebido a su vida privada o dignidad.
 

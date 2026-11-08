@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "424"
-epigrafe: "EJECUCIÓN POR SUMAS DE DINERO"
+epigrafe: "Ejecución por sumas de dinero"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 424. EJECUCIÓN POR SUMAS DE DINERO
+## Artículo 424. Ejecución por sumas de dinero
 
 Si la obligación es de pagar una cantidad líquida de dinero e intereses, la demanda podrá versar sobre aquella y estos, desde que se hicieron exigibles hasta que el pago se efectúe.
 

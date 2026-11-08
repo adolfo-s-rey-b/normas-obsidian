@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "135"
-epigrafe: "PROHIBICIÓN DE LA REFORMATIO IN PEJUS"
+epigrafe: "Prohibición de la reformatio in pejus"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 135. PROHIBICIÓN DE LA REFORMATIO IN PEJUS
+## Artículo 135. Prohibición de la reformatio in pejus
 
 El superior, en la providencia que resuelva el recurso de apelación interpuesto contra el fallo sancionatorio, no podrá agravar la sanción impuesta, cuando el investigado sea apelante único.
 

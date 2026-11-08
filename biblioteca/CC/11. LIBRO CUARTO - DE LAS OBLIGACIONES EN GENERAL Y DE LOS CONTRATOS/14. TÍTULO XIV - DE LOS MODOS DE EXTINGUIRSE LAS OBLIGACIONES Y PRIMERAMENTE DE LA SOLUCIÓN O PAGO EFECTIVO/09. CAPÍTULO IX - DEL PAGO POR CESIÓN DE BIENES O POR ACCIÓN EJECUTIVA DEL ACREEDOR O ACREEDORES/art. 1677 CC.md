@@ -12,7 +12,7 @@ epigrafe: "BIENES INCLUIDOS EN LA CESIÓN"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XIV|TÍTULO XIV - DE LOS MODOS DE EXTINGUIRSE LAS OBLIGACIONES Y PRIMERAMENTE DE LA SOLUCIÓN O PAGO EFECTIVO]]"
 capitulo: "[[CC - Libro Cuarto - Título XIV - Capítulo IX|CAPÍTULO IX - DEL PAGO POR CESIÓN DE BIENES O POR ACCIÓN EJECUTIVA DEL ACREEDOR O ACREEDORES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 3 Ley 11 de 1984]]"
   - "[[art. 13 Ley 34 de 1936]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XIV|Título XIV]] › [[CC - Libro Cuarto - Título XIV - Capítulo IX|Capítulo IX]]

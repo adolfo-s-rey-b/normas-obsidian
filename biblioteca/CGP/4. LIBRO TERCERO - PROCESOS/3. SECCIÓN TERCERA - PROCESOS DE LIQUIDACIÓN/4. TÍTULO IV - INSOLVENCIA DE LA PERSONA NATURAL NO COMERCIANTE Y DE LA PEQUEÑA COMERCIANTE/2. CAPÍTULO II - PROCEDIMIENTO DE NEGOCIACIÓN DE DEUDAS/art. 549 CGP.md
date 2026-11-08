@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "549"
-epigrafe: "GASTOS DE ADMINISTRACIÓN"
+epigrafe: "Gastos de administración"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 549. GASTOS DE ADMINISTRACIÓN
+## Artículo 549. Gastos de administración
 
 Los gastos necesarios para la subsistencia del deudor y de las personas a su cargo, así como las obligaciones que este debe continuar sufragando durante el procedimiento de insolvencia desde la aceptación de la solicitud de negociación de deudas hasta que el acuerdo sea aprobado deberán estar al día al momento de la aprobación del mismo y no estarán sujetos al sistema que en el acuerdo de pago se establezca para las demás acreencias.
 

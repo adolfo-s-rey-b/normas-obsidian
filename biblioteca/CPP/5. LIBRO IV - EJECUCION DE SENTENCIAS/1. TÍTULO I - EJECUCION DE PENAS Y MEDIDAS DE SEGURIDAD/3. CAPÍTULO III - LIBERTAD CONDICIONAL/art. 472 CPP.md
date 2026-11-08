@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "472"
-epigrafe: "DECISIÓN"
+epigrafe: "Decisión"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo III|CAPÍTULO III - LIBERTAD CONDICIONAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 472. DECISIÓN
+## Artículo 472. Decisión
 
 Recibida la solicitud, el juez de ejecución de penas y medidas de seguridad resolverá dentro de los ocho (8) días siguientes, mediante providencia motivada en la cual se impondrán las obligaciones a que se refiere el Código Penal, cuyo cumplimiento se garantizará mediante caución.
 

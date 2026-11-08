@@ -11,7 +11,7 @@ articulo: "1025"
 libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
 titulo: "[[CC - Libro Tercero - Título I|TÍTULO I - DEFINICIONES Y REGLAS GENERALES]]"
 rubro: "[[CC - Libro Tercero - Título I - Reglas generales sobre capacidad y dignidad para…|REGLAS GENERALES SOBRE CAPACIDAD Y DIGNIDAD PARA SUCEDER]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Ley 1893 de 2018]]"
   - "[[art. 1025 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título I|Título I]] › [[CC - Libro Tercero - Título I - Reglas generales sobre capacidad y dignidad para…|Reglas generales sobre capacidad y dignidad para…]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "182"
-epigrafe: "LEGITIMACIÓN"
+epigrafe: "Legitimación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 182. LEGITIMACIÓN
+## Artículo 182. Legitimación
 
 Están legitimados para recurrir en casación los intervinientes que tengan interés, quienes podrán hacerlo directamente si fueren abogados en ejercicio.
 

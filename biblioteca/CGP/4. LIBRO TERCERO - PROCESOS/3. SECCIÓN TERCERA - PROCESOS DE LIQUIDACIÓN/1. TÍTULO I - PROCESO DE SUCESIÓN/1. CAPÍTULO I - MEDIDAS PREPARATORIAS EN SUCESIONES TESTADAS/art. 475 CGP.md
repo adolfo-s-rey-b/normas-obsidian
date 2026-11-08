@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "475"
-epigrafe: "REDUCCIÓN A ESCRITO DEL TESTAMENTO VERBAL"
+epigrafe: "Reducción a escrito del testamento verbal"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 475. REDUCCIÓN A ESCRITO DEL TESTAMENTO VERBAL
+## Artículo 475. Reducción a escrito del testamento verbal
 
 La petición para reducir a escrito el testamento verbal deberá presentarse al juez del lugar donde se otorgó, dentro de los treinta (30) días siguientes a la defunción del testador, y se sujetará a las siguientes reglas:
 

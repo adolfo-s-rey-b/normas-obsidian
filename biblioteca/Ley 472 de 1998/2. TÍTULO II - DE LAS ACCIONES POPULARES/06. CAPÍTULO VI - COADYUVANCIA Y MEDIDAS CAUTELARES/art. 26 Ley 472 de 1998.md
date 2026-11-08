@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "26"
-epigrafe: "OPOSICION A LAS MEDIDAS CAUTELARES"
+epigrafe: "Oposición a las Medidas Cautelares"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VI|CAPÍTULO VI - COADYUVANCIA Y MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VI|Capítulo VI]]
 
-## Artículo 26. OPOSICION A LAS MEDIDAS CAUTELARES
+## Artículo 26. Oposición a las Medidas Cautelares
 
 El auto que decrete las medidas previas será notificado al demandado simultáneamente con la admisión de la demanda y podrá ser objeto de los recursos de reposición y de apelación; los recursos se concederán en el efecto devolutivo y deberán ser resueltos en el término de cinco días. La oposición a las medidas previas sólo podrá fundamentarse en los siguientes casos:
 

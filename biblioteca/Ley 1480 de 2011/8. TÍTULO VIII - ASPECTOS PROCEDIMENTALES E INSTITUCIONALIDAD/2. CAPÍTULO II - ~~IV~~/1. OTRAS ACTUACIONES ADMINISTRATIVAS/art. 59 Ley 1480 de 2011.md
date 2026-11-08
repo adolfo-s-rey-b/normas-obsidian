@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "59"
-epigrafe: "FACULTADES ADMINISTRATIVAS DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO"
+epigrafe: "Facultades administrativas de la Superintendencia de Industria y Comercio"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo II|CAPÍTULO II - ~~IV~~]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|OTRAS ACTUACIONES ADMINISTRATIVAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|Otras actuaciones administrativas]]
 
-## Artículo 59. FACULTADES ADMINISTRATIVAS DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
+## Artículo 59. Facultades administrativas de la Superintendencia de Industria y Comercio
 
 Además de la prevista en el capítulo anterior, la Superintendencia de Industria y Comercio tendrá las siguientes facultades administrativas en materia de protección al consumidor, las cuales ejercerá siempre y cuando no hayan sido asignadas de manera expresa a otra autoridad:
 

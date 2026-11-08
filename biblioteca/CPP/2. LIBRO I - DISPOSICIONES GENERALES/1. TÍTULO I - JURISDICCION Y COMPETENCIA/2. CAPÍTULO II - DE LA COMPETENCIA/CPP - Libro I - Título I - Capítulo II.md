@@ -23,16 +23,16 @@ tags:
 
 ### Contenido
 
-- [[art. 32 CPP|Artículo 32]] — DE LA CORTE SUPREMA DE JUSTICIA
-- [[art. 33 CPP|Artículo 33]] — DE LOS TRIBUNALES SUPERIORES DE DISTRITO RESPECTO DE LOS JUECES PENALES DE CIRCUITO ESPECIALIZADOS
-- [[art. 34 CPP|Artículo 34]] — DE LOS TRIBUNALES SUPERIORES DE DISTRITO
-- [[art. 35 CPP|Artículo 35]] — DE LOS JUECES PENALES DE CIRCUITO ESPECIALIZADOS
-- [[art. 36 CPP|Artículo 36]] — DE LOS JUECES PENALES DEL CIRCUITO
-- [[art. 37 CPP|Artículo 37]] — DE LOS JUECES PENALES MUNICIPALES
-- [[art. 38 CPP|Artículo 38]] — DE LOS JUECES DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
-- [[art. 39 CPP|Artículo 39]] — DE LA FUNCIÓN DE CONTROL DE GARANTÍAS
-- [[art. 40 CPP|Artículo 40]] — COMPETENCIA PARA IMPONER LAS PENAS Y LAS MEDIDAS DE SEGURIDAD
-- [[art. 41 CPP|Artículo 41]] — COMPETENCIA PARA EJECUTAR
+- [[art. 32 CPP|Artículo 32]] — De la Corte Suprema de Justicia
+- [[art. 33 CPP|Artículo 33]] — De los tribunales superiores de distrito respecto de los jueces penales de circuito especializados
+- [[art. 34 CPP|Artículo 34]] — De los tribunales superiores de distrito
+- [[art. 35 CPP|Artículo 35]] — De los jueces penales de circuito especializados
+- [[art. 36 CPP|Artículo 36]] — De los jueces penales del circuito
+- [[art. 37 CPP|Artículo 37]] — De los jueces penales municipales
+- [[art. 38 CPP|Artículo 38]] — De los jueces de ejecución de penas y medidas de seguridad
+- [[art. 39 CPP|Artículo 39]] — De la función de control de garantías
+- [[art. 40 CPP|Artículo 40]] — Competencia para imponer las penas y las medidas de seguridad
+- [[art. 41 CPP|Artículo 41]] — Competencia para ejecutar
 
 ---
 ← [[CPP - Libro I - Título I - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro I - Título I|Título I]] · [[CPP - Libro I - Título I - Capítulo III|Capítulo III]] →

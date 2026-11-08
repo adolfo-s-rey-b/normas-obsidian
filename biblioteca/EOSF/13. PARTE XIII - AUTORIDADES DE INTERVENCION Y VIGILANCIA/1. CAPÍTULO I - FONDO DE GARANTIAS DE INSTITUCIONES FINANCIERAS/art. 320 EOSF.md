@@ -8,13 +8,12 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "320"
-epigrafe: "OPERACIONES"
+epigrafe: "Operaciones"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
 vigencia: "modificado"
 modificado_por:
   - "[[art. 44 Ley 1328 de 2009]]"
-  - "[[art. 303 EOSF]]"
   - "[[art. 32 Ley 510 de 1999]]"
   - "[[art. 28 Decreto 2331 de 1998]]"
   - "[[art. 64 Ley 795 de 2003]]"
@@ -39,7 +38,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 320. OPERACIONES
+## Artículo 320. Operaciones
 
 1\. Operaciones autorizadas. Con el único propósito dedesarrollar el objeto previsto en el capítulo primero de esta parte del presente Estatuto, el Fondo de Garantías de Instituciones Financieras podrá realizar las siguientes actividades:
 
@@ -51,7 +50,7 @@ Adicionalmente, las mencionadas autoridades públicas deberán compartir con el 
 
 > [!info] Notas de Vigencia: Inciso adicionado por el artículo [[art. 44 Ley 1328 de 2009|44]] de la Ley 1328 de 2009, publicada en el Diario Oficial No. 47.411 de 15 de julio de 2009.
 
-> [!info] Notas de vigencia: Ordinal a) corregido por el artículo 8 o. del Decreto 867 de 1993, 'en el sentido de que debe remitirse de 1993 se corrige en el sentido de que debe remitirse en su tenor literal a 'los numerales 1. del artículo [[art. 303 EOSF|303]] del presente Estatuto y 4 del presente artículo;'.
+> [!info] Notas de vigencia: Ordinal a) corregido por el artículo 8 o. del Decreto 867 de 1993, 'en el sentido de que debe remitirse de 1993 se corrige en el sentido de que debe remitirse en su tenor literal a 'los numerales 1. del artículo 303 del presente Estatuto y 4 del presente artículo;'.
 
 b. Realizar actos y negocios jurídicos para una ágil y eficaz recuperación de activos financieros, propios o de las instituciones inscritas;
 

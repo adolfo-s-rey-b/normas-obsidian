@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "6"
-epigrafe: "LEGALIDAD"
+epigrafe: "Legalidad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 5 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 6. LEGALIDAD
+## Artículo 6. Legalidad
 
 Nadie podrá ser investigado ni juzgado sino conforme a la ley procesal vigente al momento de los hechos, con observancia de las formas propias de cada juicio.
 

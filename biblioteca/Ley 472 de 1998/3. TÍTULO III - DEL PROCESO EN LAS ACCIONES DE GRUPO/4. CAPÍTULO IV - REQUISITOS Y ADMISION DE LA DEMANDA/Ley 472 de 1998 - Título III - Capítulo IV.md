@@ -21,12 +21,12 @@ tags:
 
 ### Contenido
 
-- [[art. 52 Ley 472 de 1998|Artículo 52]] — REQUISITOS DE LA DEMANDA
-- [[art. 53 Ley 472 de 1998|Artículo 53]] — ADMISION, NOTIFICACION Y TRASLADO
-- [[art. 54 Ley 472 de 1998|Artículo 54]] — NOTIFICACION DEL AUTO ADMISORIO DE LA DEMANDA A ENTIDADES PUBLICAS Y SOCIEDADES
-- [[art. 55 Ley 472 de 1998|Artículo 55]] — INTEGRACION AL GRUPO
-- [[art. 56 Ley 472 de 1998|Artículo 56]] — EXCLUSION DEL GRUPO
-- [[art. 57 Ley 472 de 1998|Artículo 57]] — CONTESTACION, EXCEPCIONES PREVIAS
+- [[art. 52 Ley 472 de 1998|Artículo 52]] — Requisitos de la Demanda
+- [[art. 53 Ley 472 de 1998|Artículo 53]] — Admisión, Notificación y Traslado
+- [[art. 54 Ley 472 de 1998|Artículo 54]] — Notificación del Auto Admisorio de la Demanda a Entidades Públicas y Sociedades
+- [[art. 55 Ley 472 de 1998|Artículo 55]] — Integración al Grupo
+- [[art. 56 Ley 472 de 1998|Artículo 56]] — Exclusión del Grupo
+- [[art. 57 Ley 472 de 1998|Artículo 57]] — Contestación, Excepciones Previas
 
 ---
 ← [[Ley 472 de 1998 - Título III - Capítulo III|Capítulo III]] · ↑ [[Ley 472 de 1998 - Título III|Título III]] · [[Ley 472 de 1998 - Título III - Capítulo V|Capítulo V]] →

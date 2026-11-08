@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "179"
-epigrafe: "TRÁMITE DEL RECURSO DE APELACIÓN CONTRA SENTENCIAS"
+epigrafe: "Trámite del recurso de apelación contra sentencias"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo VIII|CAPÍTULO VIII - RECURSOS ORDINARIOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 179. TRÁMITE DEL RECURSO DE APELACIÓN CONTRA SENTENCIAS
+## Artículo 179. Trámite del recurso de apelación contra sentencias
 
 El recurso se interpondrá en la audiencia de lectura de fallo, se sustentará oralmente y correrá traslado a los no recurrentes dentro de la misma o por escrito en los cinco (5) días siguientes, precluido este término se correrá traslado común a los no recurrentes por el término de cinco (5) días.
 

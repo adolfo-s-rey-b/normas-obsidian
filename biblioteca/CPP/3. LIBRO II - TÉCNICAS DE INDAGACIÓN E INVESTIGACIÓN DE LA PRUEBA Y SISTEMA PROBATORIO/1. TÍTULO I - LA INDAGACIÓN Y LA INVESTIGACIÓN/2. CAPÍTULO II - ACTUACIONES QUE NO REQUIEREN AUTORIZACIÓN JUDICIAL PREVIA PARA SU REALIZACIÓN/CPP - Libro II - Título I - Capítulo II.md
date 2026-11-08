@@ -23,42 +23,42 @@ tags:
 
 ### Contenido
 
-- [[art. 213 CPP|Artículo 213]] — INSPECCIÓN DEL LUGAR DEL HECHO
-- [[art. 214 CPP|Artículo 214]] — INSPECCIÓN DE CADÁVER
-- [[art. 215 CPP|Artículo 215]] — INSPECCIONES EN LUGARES DISTINTOS AL DEL HECHO
-- [[art. 216 CPP|Artículo 216]] — ASEGURAMIENTO Y CUSTODIA
-- [[art. 217 CPP|Artículo 217]] — EXHUMACIÓN
-- [[art. 218 CPP|Artículo 218]] — AVISO DE INGRESO DE PRESUNTAS VÍCTIMAS
-- [[art. 219 CPP|Artículo 219]] — PROCEDENCIA DE LOS REGISTROS Y ALLANAMIENTOS
-- [[art. 220 CPP|Artículo 220]] — FUNDAMENTO PARA LA ORDEN DE REGISTRO Y ALLANAMIENTO
-- [[art. 221 CPP|Artículo 221]] — RESPALDO PROBATORIO PARA LOS MOTIVOS FUNDADOS
-- [[art. 222 CPP|Artículo 222]] — ALCANCE DE LA ORDEN DE REGISTRO Y ALLANAMIENTO
-- [[art. 223 CPP|Artículo 223]] — OBJETOS NO SUSCEPTIBLES DE REGISTRO
-- [[art. 224 CPP|Artículo 224]] — PLAZO DE DILIGENCIAMIENTO DE LA ORDEN DE REGISTRO Y ALLANAMIENTO
+- [[art. 213 CPP|Artículo 213]] — Inspección del lugar del hecho
+- [[art. 214 CPP|Artículo 214]] — Inspección de cadáver
+- [[art. 215 CPP|Artículo 215]] — Inspecciones en lugares distintos al del hecho
+- [[art. 216 CPP|Artículo 216]] — Aseguramiento y custodia
+- [[art. 217 CPP|Artículo 217]] — Exhumación
+- [[art. 218 CPP|Artículo 218]] — Aviso de ingreso de presuntas víctimas
+- [[art. 219 CPP|Artículo 219]] — Procedencia de los registros y allanamientos
+- [[art. 220 CPP|Artículo 220]] — Fundamento para la orden de registro y allanamiento
+- [[art. 221 CPP|Artículo 221]] — Respaldo probatorio para los motivos fundados
+- [[art. 222 CPP|Artículo 222]] — Alcance de la orden de registro y allanamiento
+- [[art. 223 CPP|Artículo 223]] — Objetos no susceptibles de registro
+- [[art. 224 CPP|Artículo 224]] — Plazo de diligenciamiento de la orden de registro y allanamiento
 - [[art. 224A CPP|Artículo 224A]] — TÉRMINO PARA LA REALIZACIÓN DE ACTIVIDADES INVESTIGATIVAS DE GRUPOS DELICTIVOS ORGANIZADOS Y GRUPOS ARMADOS ORGANIZADOS
-- [[art. 225 CPP|Artículo 225]] — REGLAS PARTICULARES PARA EL DILIGENCIAMIENTO DE LA ORDEN DE REGISTRO Y ALLANAMIENTO
-- [[art. 226 CPP|Artículo 226]] — ALLANAMIENTOS ESPECIALES
-- [[art. 227 CPP|Artículo 227]] — ACTA DE LA DILIGENCIA
-- [[art. 228 CPP|Artículo 228]] — DEVOLUCIÓN DE LA ORDEN Y CADENA DE CUSTODIA
-- [[art. 229 CPP|Artículo 229]] — PROCEDIMIENTO EN CASO DE FLAGRANCIA
-- [[art. 230 CPP|Artículo 230]] — EXCEPCIONES AL REQUISITO DE LA ORDEN ESCRITA DE LA FISCALÍA GENERAL DE LA NACIÓN PARA PROCEDER AL REGISTRO Y ALLANAMIENTO
-- [[art. 231 CPP|Artículo 231]] — INTERÉS PARA RECLAMAR LA VIOLACIÓN DE LA EXPECTATIVA RAZONABLE DE INTIMIDAD EN RELACIÓN CON LOS REGISTROS Y ALLANAMIENTOS
-- [[art. 232 CPP|Artículo 232]] — CLÁUSULA DE EXCLUSIÓN EN MATERIA DE REGISTROS Y ALLANAMIENTOS
-- [[art. 233 CPP|Artículo 233]] — RETENCIÓN DE CORRESPONDENCIA
-- [[art. 234 CPP|Artículo 234]] — EXAMEN Y DEVOLUCIÓN DE LA CORRESPONDENCIA
+- [[art. 225 CPP|Artículo 225]] — Reglas particulares para el diligenciamiento de la orden de registro y allanamiento
+- [[art. 226 CPP|Artículo 226]] — Allanamientos especiales
+- [[art. 227 CPP|Artículo 227]] — Acta de la diligencia
+- [[art. 228 CPP|Artículo 228]] — Devolución de la orden y cadena de custodia
+- [[art. 229 CPP|Artículo 229]] — Procedimiento en caso de flagrancia
+- [[art. 230 CPP|Artículo 230]] — Excepciones al requisito de la orden escrita de la Fiscalía General de la Nación para proceder al registro y allanamiento
+- [[art. 231 CPP|Artículo 231]] — Interés para reclamar la violación de la expectativa razonable de intimidad en relación con los registros y allanamientos
+- [[art. 232 CPP|Artículo 232]] — Cláusula de exclusión en materia de registros y allanamientos
+- [[art. 233 CPP|Artículo 233]] — Retención de correspondencia
+- [[art. 234 CPP|Artículo 234]] — Examen y devolución de la correspondencia
 - [[art. 235 CPP|Artículo 235]] — INTERCEPTACIÓN DE COMUNICACIONES
 - [[art. 236 CPP|Artículo 236]] — RECUPERACIÓN DE INFORMACIÓN PRODUCTO DE LA TRANSMISIÓN DE DATOS A TRAVÉS DE LAS REDES DE COMUNICACIONES
-- [[art. 237 CPP|Artículo 237]] — AUDIENCIA DE CONTROL DE LEGALIDAD POSTERIOR
-- [[art. 238 CPP|Artículo 238]] — INIMPUGNABILIDAD DE LA DECISIÓN
-- [[art. 239 CPP|Artículo 239]] — VIGILANCIA Y SEGUIMIENTO DE PERSONAS
-- [[art. 240 CPP|Artículo 240]] — VIGILANCIA DE COSAS
-- [[art. 241 CPP|Artículo 241]] — ANÁLISIS E INFILTRACIÓN DE ORGANIZACIÓN CRIMINAL
-- [[art. 242 CPP|Artículo 242]] — ACTUACIÓN DE AGENTES ENCUBIERTOS
+- [[art. 237 CPP|Artículo 237]] — Audiencia de control de legalidad posterior
+- [[art. 238 CPP|Artículo 238]] — Inimpugnabilidad de la decisión
+- [[art. 239 CPP|Artículo 239]] — Vigilancia y seguimiento de personas
+- [[art. 240 CPP|Artículo 240]] — Vigilancia de cosas
+- [[art. 241 CPP|Artículo 241]] — Análisis e infiltración de organización criminal
+- [[art. 242 CPP|Artículo 242]] — Actuación de agentes encubiertos
 - [[art. 242A CPP|Artículo 242A]] — OPERACIONES ENCUBIERTAS CONTRA LA CORRUPCIÓN
 - [[art. 242B CPP|Artículo 242B]] — OPERACIONES ENCUBIERTAS EN MEDIOS DE COMUNICACIÓN VIRTUAL
-- [[art. 243 CPP|Artículo 243]] — ENTREGA VIGILADA
-- [[art. 244 CPP|Artículo 244]] — BÚSQUEDA SELECTIVA EN BASES DE DATOS
-- [[art. 245 CPP|Artículo 245]] — EXÁMENES DE ADN QUE INVOLUCREN AL INDICIADO O AL IMPUTADO
+- [[art. 243 CPP|Artículo 243]] — Entrega vigilada
+- [[art. 244 CPP|Artículo 244]] — Búsqueda selectiva en bases de datos
+- [[art. 245 CPP|Artículo 245]] — Exámenes de ADN que involucren al indiciado o al imputado
 
 ---
 ← [[CPP - Libro II - Título I - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro II - Título I|Título I]] · [[CPP - Libro II - Título I - Capítulo III|Capítulo III]] →

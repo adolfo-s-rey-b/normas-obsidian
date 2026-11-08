@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "14"
-epigrafe: "DE LOS MEDIOS QUE PUEDEN UTILIZAR LAS ENTIDADES ESTATALES PARA EL CUMPLIMIENTO DEL OBJETO CONTRACTUAL"
+epigrafe: "De los Medios que pueden utilizar las Entidades Estatales para el Cumplimiento del Objeto Contractual"
 vigencia: "modificado"
 modificado_por:
   - "[[art. 52 Ley 2195 de 2022]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 14. DE LOS MEDIOS QUE PUEDEN UTILIZAR LAS ENTIDADES ESTATALES PARA EL CUMPLIMIENTO DEL OBJETO CONTRACTUAL
+## Artículo 14. De los Medios que pueden utilizar las Entidades Estatales para el Cumplimiento del Objeto Contractual
 
 Para el cumplimiento de los fines de la contratación, las entidades estatales al celebrar un contrato:
 

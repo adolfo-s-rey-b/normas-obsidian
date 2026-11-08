@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "260"
-epigrafe: "ALCANCE PROBATORIO DE LOS DOCUMENTOS PRIVADOS"
+epigrafe: "Alcance probatorio de los documentos privados"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 260. ALCANCE PROBATORIO DE LOS DOCUMENTOS PRIVADOS
+## Artículo 260. Alcance probatorio de los documentos privados
 
 Los documentos privados tienen el mismo valor que los públicos, tanto entre quienes los suscribieron o crearon y sus
 

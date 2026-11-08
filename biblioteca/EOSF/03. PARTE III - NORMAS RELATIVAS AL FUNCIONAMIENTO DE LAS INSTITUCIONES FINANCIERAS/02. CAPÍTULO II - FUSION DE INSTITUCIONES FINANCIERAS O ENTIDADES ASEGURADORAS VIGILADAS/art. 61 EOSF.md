@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "61"
-epigrafe: "FUSION DE ENTIDADES DE PROPIEDAD GUBERNAMENTAL"
+epigrafe: "Fusión de Entidades de Propiedad Gubernamental"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 61. FUSION DE ENTIDADES DE PROPIEDAD GUBERNAMENTAL
+## Artículo 61. Fusión de Entidades de Propiedad Gubernamental
 
 Cuando el Estado posea directa o indirectamente más del noventa y cinco por ciento (95%) de la propiedad de todas las entidades participantes en un proceso de fusión, no se aplicará lo dispuesto en el artículo [[art. 58 EOSF|58]] de este Estatuto.
 

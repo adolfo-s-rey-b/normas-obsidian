@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "81"
-epigrafe: "RESPONSABILIDAD PATRIMONIAL DE APODERADOS Y PODERDANTES"
+epigrafe: "Responsabilidad patrimonial de apoderados y poderdantes"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 81. RESPONSABILIDAD PATRIMONIAL DE APODERADOS Y PODERDANTES
+## Artículo 81. Responsabilidad patrimonial de apoderados y poderdantes
 
 Al apoderado que actúe con temeridad o mala fe se le impondrá la condena de que trata el artículo anterior, la de pagar las costas del proceso, incidente o recurso y multa de diez (10) a cincuenta (50) salarios mínimos mensuales. Dicha condena será solidaria si el poderdante también obró con temeridad o mala fe.
 

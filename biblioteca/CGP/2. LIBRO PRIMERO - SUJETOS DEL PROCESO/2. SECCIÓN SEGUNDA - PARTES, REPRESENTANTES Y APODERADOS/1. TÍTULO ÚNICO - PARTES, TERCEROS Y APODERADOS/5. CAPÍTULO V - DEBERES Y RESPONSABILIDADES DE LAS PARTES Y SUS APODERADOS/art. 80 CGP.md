@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "80"
-epigrafe: "RESPONSABILIDAD PATRIMONIAL DE LAS PARTES"
+epigrafe: "Responsabilidad patrimonial de las partes"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 80. RESPONSABILIDAD PATRIMONIAL DE LAS PARTES
+## Artículo 80. Responsabilidad patrimonial de las partes
 
 Cada una de las partes responderá por los perjuicios que con sus actuaciones procesales temerarias o de mala fe cause a la otra o a terceros intervinientes. Cuando en el proceso o incidente aparezca la prueba de tal conducta, el juez, sin perjuicio de las costas a que haya lugar, impondrá la correspondiente condena en la sentencia o en el auto que los decida. Si no le fuere posible fijar allí su monto, ordenará que se liquide por incidente.
 

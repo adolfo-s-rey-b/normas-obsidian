@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "230"
-epigrafe: "CONTENIDO Y ALCANCE DE LAS MEDIDAS CAUTELARES"
+epigrafe: "Contenido y alcance de las medidas cautelares"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 230. CONTENIDO Y ALCANCE DE LAS MEDIDAS CAUTELARES
+## Artículo 230. Contenido y alcance de las medidas cautelares
 
 Las medidas cautelares podrán ser preventivas, conservativas, anticipativas o de suspensión, y deberán tener relación directa y necesaria con las pretensiones de la demanda. Para el efecto, el Juez o Magistrado Ponente podrá decretar una o varias de las siguientes medidas:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "84"
-epigrafe: "FACULTADES Y DEBERES DE LOS SUPERVISORES Y LOS INTERVENTORES"
+epigrafe: "Facultades y deberes de los supervisores y los interventores"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 83 Ley 1474 de 2011]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 84. FACULTADES Y DEBERES DE LOS SUPERVISORES Y LOS INTERVENTORES
+## Artículo 84. Facultades y deberes de los supervisores y los interventores
 
 La supervisión e interventoría contractual implica el seguimiento al ejercicio del cumplimiento obligacional por la entidad contratante sobre las obligaciones a cargo del contratista.
 

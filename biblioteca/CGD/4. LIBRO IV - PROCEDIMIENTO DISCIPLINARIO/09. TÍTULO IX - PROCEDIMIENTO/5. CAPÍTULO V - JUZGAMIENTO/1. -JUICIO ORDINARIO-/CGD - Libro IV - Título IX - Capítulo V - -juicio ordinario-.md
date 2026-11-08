@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 225B CGD|Artículo 225B]] — SOLICITUD DE PRUEBAS Y DESCARGOS
-- [[art. 225C CGD|Artículo 225C]] — TÉRMINO PROBATORIO
-- [[art. 225D CGD|Artículo 225D]] — VARIACIÓN DE LOS CARGOS
-- [[art. 225E CGD|Artículo 225E]] — TRASLADO PARA ALEGATOS DE CONCLUSIÓN
-- [[art. 225F CGD|Artículo 225F]] — TÉRMINO PARA FALLAR Y CONTENIDO DEL FALLO
-- [[art. 225G CGD|Artículo 225G]] — NOTIFICACIÓN Y APELACIÓN DEL FALLO
+- [[art. 225B CGD|Artículo 225B]] — Solicitud de pruebas y descargos
+- [[art. 225C CGD|Artículo 225C]] — Termino probatorio
+- [[art. 225D CGD|Artículo 225D]] — Variación de los cargos
+- [[art. 225E CGD|Artículo 225E]] — Traslado para alegatos de conclusión
+- [[art. 225F CGD|Artículo 225F]] — Termino para fallar y contenido del fallo
+- [[art. 225G CGD|Artículo 225G]] — Notificación y apelación del fallo
 
 ---
 ↑ [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] · [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]] →

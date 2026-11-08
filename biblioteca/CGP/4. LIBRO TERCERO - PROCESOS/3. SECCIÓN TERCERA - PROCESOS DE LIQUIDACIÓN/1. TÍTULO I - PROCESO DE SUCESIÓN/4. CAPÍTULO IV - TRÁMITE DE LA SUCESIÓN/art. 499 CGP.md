@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "499"
-epigrafe: "ATRIBUCIONES, DEBERES Y REMOCIÓN DEL ALBACEA"
+epigrafe: "Atribuciones, deberes y remoción del albacea"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 499. ATRIBUCIONES, DEBERES Y REMOCIÓN DEL ALBACEA
+## Artículo 499. Atribuciones, deberes y remoción del albacea
 
 El albacea con tenencia de bienes, además de las atribuciones y deberes que le señala el Código Civil, tendrá los propios de un secuestre.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "480"
-epigrafe: "EMBARGO Y SECUESTRO"
+epigrafe: "Embargo y secuestro"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 480. EMBARGO Y SECUESTRO
+## Artículo 480. Embargo y secuestro
 
 Aun antes de la apertura del proceso de sucesión cualquier persona de las que trata el artículo [[art. 1312 CC|1312]] del Código Civil, el compañero permanente del causante, que acredite siquiera sumariamente interés podrá pedir el embargo y secuestro de los bienes del causante, sean propios o sociales, y de los que formen parte del haber de la sociedad conyugal o patrimonial que estén en cabeza del cónyuge o compañero permanente.
 

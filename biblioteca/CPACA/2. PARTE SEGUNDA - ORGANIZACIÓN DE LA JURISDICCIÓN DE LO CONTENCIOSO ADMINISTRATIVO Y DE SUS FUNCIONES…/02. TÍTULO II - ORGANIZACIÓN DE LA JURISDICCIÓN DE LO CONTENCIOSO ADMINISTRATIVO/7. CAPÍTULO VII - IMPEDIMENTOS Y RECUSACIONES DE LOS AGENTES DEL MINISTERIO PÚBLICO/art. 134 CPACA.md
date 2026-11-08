@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "134"
-epigrafe: "OPORTUNIDAD Y TRÁMITE"
+epigrafe: "Oportunidad y Trámite"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES DE LOS AGENTES DEL MINISTERIO PÚBLICO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo VII|Capítulo VII]]
 
-## Artículo 134. OPORTUNIDAD Y TRÁMITE
+## Artículo 134. Oportunidad y Trámite
 
 El agente del Ministerio Público, en quien concurra algún motivo de impedimento, deberá declararse impedido expresando la causal y los hechos en que se fundamente, mediante escrito dirigido al juez, sala, sección o subsección que esté conociendo del asunto para que decida si se acepta o no el impedimento. En caso positivo, se dispondrá su reemplazo por quien le siga en orden numérico atendiendo a su especialidad. Si se tratare de agente único se solicitará a la Procuraduría General de la Nación, la designación del funcionario que lo reemplace.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "214"
-epigrafe: "EJECUTORIA"
+epigrafe: "Ejecutoria"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|TÍTULO TERCERO - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo I|Capítulo I]]
 
-## Artículo 214. EJECUTORIA
+## Artículo 214. Ejecutoria
 
 Las providencias proferidas en audiencia adquieren ejecutoria una vez notificadas, cuando no sean impugnadas o no admitan recursos.
 

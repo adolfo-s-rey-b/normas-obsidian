@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "312"
-epigrafe: "NO COMPARECENCIA"
+epigrafe: "No comparecencia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 312. NO COMPARECENCIA
+## Artículo 312. No comparecencia
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

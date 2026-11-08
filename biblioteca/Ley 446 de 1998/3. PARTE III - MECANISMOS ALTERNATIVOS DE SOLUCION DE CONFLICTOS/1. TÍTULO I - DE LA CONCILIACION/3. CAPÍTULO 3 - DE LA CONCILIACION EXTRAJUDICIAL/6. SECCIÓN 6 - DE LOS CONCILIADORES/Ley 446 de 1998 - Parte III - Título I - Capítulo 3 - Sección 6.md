@@ -25,8 +25,8 @@ tags:
 
 - [[art. 97 Ley 446 de 1998|Artículo 97]] — INHABILIDAD ESPECIAL
 - [[art. 98 Ley 446 de 1998|Artículo 98]] — CONCILIADORES EN MATERIAS LABORAL Y DE FAMILIA
-- [[art. 99 Ley 446 de 1998|Artículo 99]] — CALIDADES DEL CONCILIADOR
-- [[art. 100 Ley 446 de 1998|Artículo 100]] — IMPEDIMENTOS Y RECUSACIONES
+- [[art. 99 Ley 446 de 1998|Artículo 99]] — Calidades del conciliador
+- [[art. 100 Ley 446 de 1998|Artículo 100]] — Impedimentos y recusaciones
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 5|Sección 5]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]]

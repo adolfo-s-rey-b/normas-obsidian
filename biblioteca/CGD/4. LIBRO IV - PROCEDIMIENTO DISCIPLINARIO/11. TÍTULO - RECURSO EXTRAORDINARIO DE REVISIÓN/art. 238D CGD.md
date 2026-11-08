@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238D"
-epigrafe: "TÉRMINO PARA INTERPONER EL RECURSO EXTRAORDINARIO DE REVISIÓN"
+epigrafe: "Termino para interponer el recurso extraordinario de revisión"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título|TÍTULO - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título|Título]]
 
-## Artículo 238D. TÉRMINO PARA INTERPONER EL RECURSO EXTRAORDINARIO DE REVISIÓN
+## Artículo 238D. Termino para interponer el recurso extraordinario de revisión
 
 El recurso extraordinario de revisión podrá interponerse dentro de los treinta (30). días siguientes a la ejecutoria de la respectiva decisión disciplinaria por el disciplinado en el caso de las decisiones sancionatorias o por el quejoso, víctima o perjudicado en el caso de las decisiones absolutorias o de archivo cuando se trate de conductas contrarias a los derechos humanos o el derecho internacional humanitario.
 

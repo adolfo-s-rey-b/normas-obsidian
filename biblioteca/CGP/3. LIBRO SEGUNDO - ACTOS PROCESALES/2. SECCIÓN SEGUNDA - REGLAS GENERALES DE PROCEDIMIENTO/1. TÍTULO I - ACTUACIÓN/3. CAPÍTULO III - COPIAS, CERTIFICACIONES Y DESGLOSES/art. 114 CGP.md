@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "114"
-epigrafe: "COPIAS DE ACTUACIONES JUDICIALES"
+epigrafe: "Copias de actuaciones judiciales"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 114. COPIAS DE ACTUACIONES JUDICIALES
+## Artículo 114. Copias de actuaciones judiciales
 
 Salvo que exista reserva, del expediente se podrá solicitar y obtener la expedición y entrega de copias, con observancia de las reglas siguientes:
 

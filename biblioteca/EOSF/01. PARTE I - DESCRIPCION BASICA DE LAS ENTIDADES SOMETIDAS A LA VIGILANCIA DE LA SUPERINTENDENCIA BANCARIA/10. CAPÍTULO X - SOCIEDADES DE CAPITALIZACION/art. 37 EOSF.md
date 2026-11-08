@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "37"
-epigrafe: "PROHIBICIONES"
+epigrafe: "Prohibiciones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo X|CAPÍTULO X - SOCIEDADES DE CAPITALIZACION]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo X|Capítulo X]]
 
-## Artículo 37. PROHIBICIONES
+## Artículo 37. Prohibiciones
 
 Prohíbese a las sociedades de capitalización ofrecer al público, directamente o mediante publicaciones, o en cualquier otra forma, ventajas o condiciones que no estén incluidas en los respectivos títulos de contrato. Tales títulos deberán contener todas las estipulaciones del contrato, y sus modelos deberán ser sometidos previamente a la aprobación de la Superintendencia Bancaria.
 

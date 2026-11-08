@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "44"
-epigrafe: "PODERES CORRECCIONALES DEL JUEZ"
+epigrafe: "Poderes correccionales del juez"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título III|TÍTULO III - DEBERES Y PODERES DE LOS JUECES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título III|Título III]]
 
-## Artículo 44. PODERES CORRECCIONALES DEL JUEZ
+## Artículo 44. Poderes correccionales del juez
 
 Sin perjuicio de la acción disciplinaria a que haya lugar, el juez tendrá los siguientes poderes correccionales:
 

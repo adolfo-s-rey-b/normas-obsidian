@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 151 CGP|Artículo 151]] — PROCEDENCIA
-- [[art. 152 CGP|Artículo 152]] — OPORTUNIDAD, COMPETENCIA Y REQUISITOS
-- [[art. 153 CGP|Artículo 153]] — TRÁMITE
-- [[art. 154 CGP|Artículo 154]] — EFECTOS
-- [[art. 155 CGP|Artículo 155]] — REMUNERACIÓN DEL APODERADO
-- [[art. 156 CGP|Artículo 156]] — FACULTADES Y RESPONSABILIDAD DEL APODERADO
-- [[art. 157 CGP|Artículo 157]] — REMUNERACIÓN DE AUXILIARES DE LA JUSTICIA
-- [[art. 158 CGP|Artículo 158]] — TERMINACIÓN DEL AMPARO
+- [[art. 151 CGP|Artículo 151]] — Procedencia
+- [[art. 152 CGP|Artículo 152]] — Oportunidad, competencia y requisitos
+- [[art. 153 CGP|Artículo 153]] — Trámite
+- [[art. 154 CGP|Artículo 154]] — Efectos
+- [[art. 155 CGP|Artículo 155]] — Remuneración del apoderado
+- [[art. 156 CGP|Artículo 156]] — Facultades y responsabilidad del apoderado
+- [[art. 157 CGP|Artículo 157]] — Remuneración de auxiliares de la justicia
+- [[art. 158 CGP|Artículo 158]] — Terminación del amparo
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo III|Capítulo III]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] · [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo V|Capítulo V]] →

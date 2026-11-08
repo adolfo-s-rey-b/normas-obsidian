@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "165"
-epigrafe: "RELACIONES DE LA SOCIEDAD ADMINISTRADORA CON EL EMPLEADOR"
+epigrafe: "Relaciones de la Sociedad Administradora con el Empleador"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 165. RELACIONES DE LA SOCIEDAD ADMINISTRADORA CON EL EMPLEADOR
+## Artículo 165. Relaciones de la Sociedad Administradora con el Empleador
 
 1\. Cobro de auxilios atrasados. Sin perjuicio de la sanción a que se refiere el numeral 4. del artículo anterior,las administradoras podrán adelantar ante las autoridades competentes las acciones de cobro respectivas derivadas del incumplimiento a la obligación de entrega del auxilio de cesantía liquidado anualmente, cuando así lo solicite el trabajador.
 

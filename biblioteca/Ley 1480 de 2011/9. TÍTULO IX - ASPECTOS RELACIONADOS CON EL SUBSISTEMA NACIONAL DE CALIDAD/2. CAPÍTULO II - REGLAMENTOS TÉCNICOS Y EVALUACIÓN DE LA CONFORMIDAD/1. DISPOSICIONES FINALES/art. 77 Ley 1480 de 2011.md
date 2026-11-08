@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "77"
-epigrafe: "CONTROL DISCIPLINARIO"
+epigrafe: "Control Disciplinario"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 rubro: "[[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 77. CONTROL DISCIPLINARIO
+## Artículo 77. Control Disciplinario
 
 En desarrollo de lo previsto en el artículo [[art. 277 CPol|277]] de la Constitución Política, los Agentes del Ministerio Público deberán iniciar de oficio o a petición de parte investigaciones disciplinarias por incumplimiento de las funciones que en materia de protección al consumidor les han sido legalmente asignadas a los Alcaldes y Gobernadores. Dentro de cada distrito o municipio corresponderá al Personero velar por el adecuado cumplimiento de dichas funciones y adelantar, de acuerdo con sus competencias, las investigaciones correspondientes.
 

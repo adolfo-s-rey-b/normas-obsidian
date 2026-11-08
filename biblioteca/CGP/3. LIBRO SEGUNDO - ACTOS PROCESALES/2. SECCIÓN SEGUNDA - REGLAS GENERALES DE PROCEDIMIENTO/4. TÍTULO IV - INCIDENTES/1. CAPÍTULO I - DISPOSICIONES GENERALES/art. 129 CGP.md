@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "129"
-epigrafe: "PROPOSICIÓN, TRÁMITE Y EFECTO DE LOS INCIDENTES"
+epigrafe: "Proposición, trámite y efecto de los incidentes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 129. PROPOSICIÓN, TRÁMITE Y EFECTO DE LOS INCIDENTES
+## Artículo 129. Proposición, trámite y efecto de los incidentes
 
 Quien promueva un incidente deberá expresar lo que pide, los hechos en que se funda y las pruebas que pretenda hacer valer.
 

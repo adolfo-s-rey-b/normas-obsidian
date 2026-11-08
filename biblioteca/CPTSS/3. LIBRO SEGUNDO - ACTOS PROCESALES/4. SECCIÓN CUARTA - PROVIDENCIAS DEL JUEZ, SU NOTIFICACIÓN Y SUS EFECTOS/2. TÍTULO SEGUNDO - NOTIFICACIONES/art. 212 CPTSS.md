@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "212"
-epigrafe: "NOTIFICACIÓN POR CONDUCTA CONCLUYENTE"
+epigrafe: "Notificación por conducta concluyente"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|TÍTULO SEGUNDO - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]]
 
-## Artículo 212. NOTIFICACIÓN POR CONDUCTA CONCLUYENTE
+## Artículo 212. Notificación por conducta concluyente
 
 La notificación por conducta concluyente surte los mismos efectos de la notificación personal.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "17"
-epigrafe: "LOS FONDOS PUBLICOS Y TELECOM SON CONTRIBUYENTES"
+epigrafe: "LOS FONDOS PÚBLICOS Y TELECOM SON CONTRIBUYENTES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 17. LOS FONDOS PUBLICOS Y TELECOM SON CONTRIBUYENTES
+## Artículo 17. LOS FONDOS PÚBLICOS Y TELECOM SON CONTRIBUYENTES
 
 Son contribuyentes del impuesto sobre la renta y complementarios los fondos públicos, tengan o no personería jurídica, cuando sus recursos provengan de impuestos nacionales destinados a ellos por disposiciones legales o cuando no sean administrados directamente por el Estado. Para tales efectos, se asimilan a sociedades anónimas.
 

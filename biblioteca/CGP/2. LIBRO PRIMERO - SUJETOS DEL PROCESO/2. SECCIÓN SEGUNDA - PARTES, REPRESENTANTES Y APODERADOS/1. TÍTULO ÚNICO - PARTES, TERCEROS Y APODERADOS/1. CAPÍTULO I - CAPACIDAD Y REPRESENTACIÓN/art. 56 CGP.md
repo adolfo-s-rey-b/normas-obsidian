@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "56"
-epigrafe: "FUNCIONES Y FACULTADES DEL CURADOR AD LÍTEM"
+epigrafe: "Funciones y facultades del curador ad lítem"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 56. FUNCIONES Y FACULTADES DEL CURADOR AD LÍTEM
+## Artículo 56. Funciones y facultades del curador ad lítem
 
 El curador ad lítem actuará en el proceso hasta cuando concurra la persona a quien representa, o un representante de esta. Dicho curador está facultado para realizar todos los actos procesales que no estén reservados a la parte misma, pero no puede recibir ni disponer del derecho en litigio.
 

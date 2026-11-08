@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "66"
-epigrafe: "ADMISIÓN, INADMISIÓN Y RECHAZO DE LA DEMANDA"
+epigrafe: "Admisión, inadmisión y rechazo de la demanda"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 66. ADMISIÓN, INADMISIÓN Y RECHAZO DE LA DEMANDA
+## Artículo 66. Admisión, inadmisión y rechazo de la demanda
 
 Si la demanda reúne las exigencias legales, el juez la admitirá, ordenará la notificación personal al demandado y el respectivo traslado, así como el reconocimiento de personería al apoderado que se ha constituido, o la autorización para actuar en causa propia si así se hace, y se dispondrá a imprimirle el trámite que legalmente le corresponde, aunque el demandante haya indicado una vía procesal inadecuada. Así mismo, le ordenará al demandado que aporte, durante el traslado de la demanda, los documentos que estén en su poder y que hayan sido solicitados por el actor, cuando el juez los considere pertinentes y conducentes.
 

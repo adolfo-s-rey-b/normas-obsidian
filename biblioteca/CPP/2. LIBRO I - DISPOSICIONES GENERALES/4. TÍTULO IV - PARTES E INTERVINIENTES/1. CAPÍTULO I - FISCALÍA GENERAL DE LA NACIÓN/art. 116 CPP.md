@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "116"
-epigrafe: "ATRIBUCIONES ESPECIALES DEL FISCAL GENERAL DE LA NACIÓN"
+epigrafe: "Atribuciones especiales del Fiscal General de la Nación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo I|CAPÍTULO I - FISCALÍA GENERAL DE LA NACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 116. ATRIBUCIONES ESPECIALES DEL FISCAL GENERAL DE LA NACIÓN
+## Artículo 116. Atribuciones especiales del Fiscal General de la Nación
 
 Corresponde al Fiscal General de la Nación en relación con el ejercicio de la acción penal:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "51"
-epigrafe: "CUSTODIA DE BIENES Y DINEROS"
+epigrafe: "Custodia de bienes y dineros"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 51. CUSTODIA DE BIENES Y DINEROS
+## Artículo 51. Custodia de bienes y dineros
 
 Los auxiliares de la justicia que como depositarios, secuestres o administradores de bienes perciban sus productos en dinero, o reciban en dinero el resultado de la enajenación de los bienes o de sus frutos, constituirán inmediatamente certificado de depósito a órdenes del juzgado.
 

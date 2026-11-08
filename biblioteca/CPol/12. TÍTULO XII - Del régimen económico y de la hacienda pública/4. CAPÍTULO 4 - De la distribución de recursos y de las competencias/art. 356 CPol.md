@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "356"
 titulo: "[[CPol - Título XII|TÍTULO XII - Del régimen económico y de la hacienda pública]]"
 capitulo: "[[CPol - Título XII - Capítulo 4|CAPÍTULO 4 - De la distribución de recursos y de las competencias]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Acto Legislativo 3 de 2024]]"
   - "[[art. 356 CPol]]"
@@ -36,7 +36,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título XII|Título XII]] › [[CPol - Título XII - Capítulo 4|Capítulo 4]]

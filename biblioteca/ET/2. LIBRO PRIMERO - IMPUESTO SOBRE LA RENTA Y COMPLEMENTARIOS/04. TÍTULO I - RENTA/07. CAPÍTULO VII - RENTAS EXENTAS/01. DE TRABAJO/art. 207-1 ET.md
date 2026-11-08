@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "207-1"
-epigrafe: "EXENCIÓN DE CESANTIAS PAGADAS POR FONDOS DE CESANTIAS"
+epigrafe: "EXENCIÓN DE CESANTÍAS PAGADAS POR FONDOS DE CESANTÍAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VII|CAPÍTULO VII - RENTAS EXENTAS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VII|Capítulo VII]] › [[ET - Libro Primero - Título I - Capítulo VII - De trabajo|De trabajo]]
 
-## Artículo 207-1. EXENCIÓN DE CESANTIAS PAGADAS POR FONDOS DE CESANTIAS
+## Artículo 207-1. EXENCIÓN DE CESANTÍAS PAGADAS POR FONDOS DE CESANTÍAS
 
 Cuando el fondo pague las cesantías, estas serán exentas de acuerdo a lo previsto en el numeral 4o. del artículo [[art. 206 ET|206]] .
 

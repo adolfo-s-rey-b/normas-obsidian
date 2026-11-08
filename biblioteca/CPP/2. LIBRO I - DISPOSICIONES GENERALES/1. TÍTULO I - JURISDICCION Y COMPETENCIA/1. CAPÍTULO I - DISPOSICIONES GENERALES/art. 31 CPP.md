@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "31"
-epigrafe: "ÓRGANOS DE LA JURISDICCIÓN"
+epigrafe: "Órganos de la jurisdicción"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 31. ÓRGANOS DE LA JURISDICCIÓN
+## Artículo 31. Órganos de la jurisdicción
 
 La administración de justicia en lo penal está conformada por los siguientes órganos:
 

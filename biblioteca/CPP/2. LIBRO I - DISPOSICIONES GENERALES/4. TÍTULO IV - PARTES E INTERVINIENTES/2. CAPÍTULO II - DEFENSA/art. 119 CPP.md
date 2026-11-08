@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "119"
-epigrafe: "OPORTUNIDAD"
+epigrafe: "Oportunidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEFENSA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 119. OPORTUNIDAD
+## Artículo 119. Oportunidad
 
 La designación del defensor del imputado deberá hacerse desde la captura, si hubiere lugar a ella, o desde la formulación de la imputación. En todo caso deberá contar con este desde la primera audiencia a la que fuere citado.
 

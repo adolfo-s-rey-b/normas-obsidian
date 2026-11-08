@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 37 CGP|Artículo 37]] — REGLAS GENERALES
-- [[art. 38 CGP|Artículo 38]] — COMPETENCIA
-- [[art. 39 CGP|Artículo 39]] — OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN
-- [[art. 40 CGP|Artículo 40]] — PODERES DEL COMISIONADO
-- [[art. 41 CGP|Artículo 41]] — COMISIÓN EN EL EXTERIOR
+- [[art. 37 CGP|Artículo 37]] — Reglas generales
+- [[art. 38 CGP|Artículo 38]] — Competencia
+- [[art. 39 CGP|Artículo 39]] — Otorgamiento y práctica de la comisión
+- [[art. 40 CGP|Artículo 40]] — Poderes del comisionado
+- [[art. 41 CGP|Artículo 41]] — Comisión en el exterior
 
 ---
 ← [[CGP - Libro Primero - Sección Primera - Título I|Título I]] · ↑ [[CGP - Libro Primero - Sección Primera|Sección Primera]] · [[CGP - Libro Primero - Sección Primera - Título III|Título III]] →

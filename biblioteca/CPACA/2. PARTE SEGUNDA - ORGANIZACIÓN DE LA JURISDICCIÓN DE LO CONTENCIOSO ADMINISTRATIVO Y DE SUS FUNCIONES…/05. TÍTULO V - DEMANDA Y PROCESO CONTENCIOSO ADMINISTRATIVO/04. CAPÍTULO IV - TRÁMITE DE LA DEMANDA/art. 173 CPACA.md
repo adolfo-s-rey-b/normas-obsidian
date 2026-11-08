@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "173"
-epigrafe: "REFORMA DE LA DEMANDA"
+epigrafe: "Reforma de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 173. REFORMA DE LA DEMANDA
+## Artículo 173. Reforma de la demanda
 
 El demandante podrá adicionar, aclarar o modificar la demanda, por una sola vez, conforme a las siguientes reglas:
 

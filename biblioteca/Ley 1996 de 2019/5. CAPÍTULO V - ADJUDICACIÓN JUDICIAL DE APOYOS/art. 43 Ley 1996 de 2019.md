@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "43"
-epigrafe: "UNIDAD DE ACTUACIONES Y EXPEDIENTES"
+epigrafe: "Unidad de actuaciones y expedientes"
 capitulo: "[[Ley 1996 de 2019 - Capítulo V|CAPÍTULO V - ADJUDICACIÓN JUDICIAL DE APOYOS]]"
 vigencia: "vigente"
 anterior: "[[art. 42 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo V|Capítulo V]]
 
-## Artículo 43. UNIDAD DE ACTUACIONES Y EXPEDIENTES
+## Artículo 43. Unidad de actuaciones y expedientes
 
 Cualquier actuación judicial relacionada con personas a quienes se les haya adjudicado apoyos será de competencia del Juez que haya conocido del proceso de adjudicación de apoyos.
 
@@ -34,7 +34,7 @@ Cada despacho contará con un archivo de expedientes inactivos sobre las persona
 
 También será causa de archivo general la muerte de la persona.
 
-> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo [[art. 52 Ley 1996 de 2019|52]] , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
+> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo 52 , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-022-21 , mediante Sentencia C-118-21 de 29 de abril de 2021, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado. - Ley declarada EXEQUIBLE, por el cargo de reserva de ley estatutaria sobre la integralidad de la Ley, por la Corte Constitucional mediante Sentencia C-022-21 de 4 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 

@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 599 CGP|Artículo 599]] — EMBARGO Y SECUESTRO
-- [[art. 600 CGP|Artículo 600]] — REDUCCIÓN DE EMBARGOS
-- [[art. 601 CGP|Artículo 601]] — SECUESTRO DE BIENES SUJETOS A REGISTRO
-- [[art. 602 CGP|Artículo 602]] — CONSIGNACIÓN PARA IMPEDIR O LEVANTAR EMBARGOS Y SECUESTROS
+- [[art. 599 CGP|Artículo 599]] — Embargo y secuestro
+- [[art. 600 CGP|Artículo 600]] — Reducción de embargos
+- [[art. 601 CGP|Artículo 601]] — Secuestro de bienes sujetos a registro
+- [[art. 602 CGP|Artículo 602]] — Consignación para impedir o levantar embargos y secuestros
 
 ---
 ← [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Cuarto - Título I|Título I]]

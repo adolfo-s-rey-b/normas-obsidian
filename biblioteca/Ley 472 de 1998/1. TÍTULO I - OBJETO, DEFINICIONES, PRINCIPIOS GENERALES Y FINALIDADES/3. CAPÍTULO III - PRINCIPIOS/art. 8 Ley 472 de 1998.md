@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "8"
-epigrafe: "ESTADOS DE EXCEPCION"
+epigrafe: "Estados de Excepción"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo III|CAPÍTULO III - PRINCIPIOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 8. ESTADOS DE EXCEPCION
+## Artículo 8. Estados de Excepción
 
 Las acciones populares podrán incoarse y tramitarse en todo tiempo.
 

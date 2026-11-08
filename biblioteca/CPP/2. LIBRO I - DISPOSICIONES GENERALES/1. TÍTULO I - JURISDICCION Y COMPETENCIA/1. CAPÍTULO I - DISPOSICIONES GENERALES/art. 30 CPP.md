@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "30"
-epigrafe: "EXCEPCIONES A LA JURISDICCIÓN PENAL ORDINARIA"
+epigrafe: "Excepciones a la jurisdicción penal ordinaria"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 30. EXCEPCIONES A LA JURISDICCIÓN PENAL ORDINARIA
+## Artículo 30. Excepciones a la jurisdicción penal ordinaria
 
 Se exceptúan los delitos cometidos por miembros de la Fuerza Pública en servicio activo y en relación con el mismo servicio, y los asuntos de los cuales conozca la jurisdicción indígena.
 

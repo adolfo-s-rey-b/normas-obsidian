@@ -13,9 +13,8 @@ articulo: "722"
 epigrafe: "REQUISITOS DEL RECURSO DE RECONSIDERACIÓN Y REPOSICIÓN"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
-  - "[[art. 720 ET]]"
   - "[[art. 720 Ley 6 de 1992]]"
   - "[[art. 67 Ley 6 de 1992]]"
 anterior: "[[art. 721 ET]]"
@@ -30,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
@@ -39,7 +38,7 @@ tags:
 
 El recurso de reconsideración o reposición* deberá cumplir los siguientes requisitos:
 
-> [!warning] Notas del Editor: * El editor destaca que el texto original del artículo [[art. 720 ET|720]] de este Estatuto establecía los recursos sobre la administración tributaria, en el hacía referencia al recurso de reposición y al recurso de reconsideración. La modificación al artículo [[art. 720 Ley 6 de 1992|720]] introducida por el artículo [[art. 67 Ley 6 de 1992|67]] de la Ley 6 de 1992, publicada en el Diario Oficial No. 40.490, de 30 de junio de 1992 estableció únicamente como recurso, el recurso de reconsideración. Según lo establece la DIAN en la publicación CODEX 'Estatuto Tributario Edición Especial '97', de enero de 1997, lo subrayado fue derogado tácitamente por la Ley 6 de 1992, artículo [[art. 67 Ley 6 de 1992|67]] .
+> [!warning] Notas del Editor: * El editor destaca que el texto original del artículo 720 de este Estatuto establecía los recursos sobre la administración tributaria, en el hacía referencia al recurso de reposición y al recurso de reconsideración. La modificación al artículo [[art. 720 Ley 6 de 1992|720]] introducida por el artículo [[art. 67 Ley 6 de 1992|67]] de la Ley 6 de 1992, publicada en el Diario Oficial No. 40.490, de 30 de junio de 1992 estableció únicamente como recurso, el recurso de reconsideración. Según lo establece la DIAN en la publicación CODEX 'Estatuto Tributario Edición Especial '97', de enero de 1997, lo subrayado fue derogado tácitamente por la Ley 6 de 1992, artículo [[art. 67 Ley 6 de 1992|67]] .
 
 a. Que se formule por escrito, con expresión concreta de los motivos de inconformidad.
 

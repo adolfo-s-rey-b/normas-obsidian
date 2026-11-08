@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "209"
-epigrafe: "EXCEPCIONES AL DEBER DE TESTIMONIAR"
+epigrafe: "Excepciones al deber de testimoniar"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 209. EXCEPCIONES AL DEBER DE TESTIMONIAR
+## Artículo 209. Excepciones al deber de testimoniar
 
 No están obligados a declarar sobre aquello que se les ha confiado o ha llegado a su conocimiento por razón de su ministerio, oficio o profesión:
 

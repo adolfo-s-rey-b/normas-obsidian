@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "433"
-epigrafe: "EN SEGUROS SE CAUSA AL CONOCIMIENTO DE LA EMISION DE LA POLIZA"
+epigrafe: "EN SEGUROS SE CAUSA AL CONOCIMIENTO DE LA EMISIÓN DE LA PÓLIZA"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título II|TÍTULO II - CAUSACIÓN DEL IMPUESTO]]"
 vigencia: "vigente"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título II|Título II]]
 
-## Artículo 433. EN SEGUROS SE CAUSA AL CONOCIMIENTO DE LA EMISION DE LA POLIZA
+## Artículo 433. EN SEGUROS SE CAUSA AL CONOCIMIENTO DE LA EMISIÓN DE LA PÓLIZA
 
 En el caso del servicio de seguros de que trata el artículo [[art. 476 ET|476]] numeral 12, el impuesto se causa en su integridad en el momento en que la compañía conozca en su sede principal la emisión de la póliza, el anexo correspondiente que otorgue el amparo o su renovación.
 

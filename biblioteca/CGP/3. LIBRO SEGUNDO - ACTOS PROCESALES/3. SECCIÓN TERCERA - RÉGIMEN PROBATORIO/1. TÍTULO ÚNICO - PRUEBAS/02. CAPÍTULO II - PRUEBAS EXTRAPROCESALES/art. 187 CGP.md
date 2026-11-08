@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "187"
-epigrafe: "TESTIMONIO PARA FINES JUDICIALES"
+epigrafe: "Testimonio para fines judiciales"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 187. TESTIMONIO PARA FINES JUDICIALES
+## Artículo 187. Testimonio para fines judiciales
 
 Quien pretenda aducir en un proceso el testimonio de una persona podrá pedir que se le reciba declaración anticipada con o sin citación de la contraparte.
 

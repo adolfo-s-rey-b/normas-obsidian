@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "903"
-epigrafe: "CREACIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN (SIMPLE)"
+epigrafe: "CREACIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE"
 libro: "[[ET - Libro Octavo|LIBRO OCTAVO - IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN (SIMPLE) PARA LA FORMALIZACIÓN Y LA GENERACIÓN DE EMPLEO]]"
 vigencia: "derogado"
 modificado_por:
@@ -37,7 +37,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Octavo|Libro Octavo]]
 
-## Artículo 903. CREACIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN (SIMPLE)
+## Artículo 903. CREACIÓN DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE
 
 Créese a partir del 1 de enero de 2020 el impuesto unificado que se pagará bajo el Régimen Simple de Tributación - Simple, con el fin de reducir las cargas formales y sustanciales, impulsar la formalidad y, en general, simplificar y facilitar el cumplimiento de la obligación tributaria de los contribuyentes que voluntariamente se acojan al régimen previsto en el presente Libro.
 

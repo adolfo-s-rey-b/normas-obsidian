@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "469"
-epigrafe: "REVOCATORIA DE LA SUSPENSIÓN CONDICIONAL"
+epigrafe: "Revocatoria de la suspensión condicional"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo II|CAPÍTULO II - EJECUCIÓN DE MEDIDAS DE SEGURIDAD]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 469. REVOCATORIA DE LA SUSPENSIÓN CONDICIONAL
+## Artículo 469. Revocatoria de la suspensión condicional
 
 En cualquier momento podrá el juez de ejecución de penas y medidas de seguridad revocar la suspensión con dicional de la medida de seguridad o de la medida sustitutiva, cuando se incumplan las obligaciones fijadas en la diligencia de compromiso, o cuando los peritos conceptúen que es necesario la continuación de la medida originaria.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "69"
-epigrafe: "INTERVENCIÓN EN INCIDENTES O PARA TRÁMITES ESPECIALES"
+epigrafe: "Intervención en incidentes o para trámites especiales"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 69. INTERVENCIÓN EN INCIDENTES O PARA TRÁMITES ESPECIALES
+## Artículo 69. Intervención en incidentes o para trámites especiales
 
 Cuando la intervención se concrete a un incidente o trámite, el interviniente solo será parte en ellos.
 

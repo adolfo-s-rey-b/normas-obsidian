@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "204"
-epigrafe: "INASISTENCIA DEL CITADO A INTERROGATORIO"
+epigrafe: "Inasistencia del citado a interrogatorio"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 204. INASISTENCIA DEL CITADO A INTERROGATORIO
+## Artículo 204. Inasistencia del citado a interrogatorio
 
 La inasistencia del citado a interrogatorio solo podrá justificarse mediante prueba siquiera sumada de una justa causa que el juez podrá verificar por el medio más expedito, silo considera necesario.
 

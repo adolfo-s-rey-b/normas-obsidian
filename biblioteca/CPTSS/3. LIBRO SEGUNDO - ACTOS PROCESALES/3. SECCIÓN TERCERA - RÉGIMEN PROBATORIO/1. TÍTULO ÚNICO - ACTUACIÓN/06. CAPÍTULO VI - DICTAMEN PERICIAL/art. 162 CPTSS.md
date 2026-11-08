@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "162"
-epigrafe: "DICTAMEN DECRETADO DE OFICIO"
+epigrafe: "Dictamen decretado de oficio"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 162. DICTAMEN DECRETADO DE OFICIO
+## Artículo 162. Dictamen decretado de oficio
 
 Cuando el juez lo decrete de oficio, determinará el cuestionario que el perito debe absolver, fijará término para que rinda el dictamen y le señalará provisionalmente los honorarios y gastos que deberán ser consignados a órdenes del juzgado dentro de los tres (3) días siguientes, conforme a lo establecido en el artículo [[art. 132 CPTSS|132]] de este estatuto. Si no se hiciere la consignación, el juez podrá ordenar al perito que rinda el dictamen si lo estima indispensable.
 

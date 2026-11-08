@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 232 CP|Artículo 232]] — ADOPCIÓN IRREGULAR
+- [[art. 232 CP|Artículo 232]] — Adopción irregular
 
 ---
 ← [[CP - Libro Segundo - Título VI - Capítulo Segundo|Capítulo Segundo]] · ↑ [[CP - Libro Segundo - Título VI|Título VI]] · [[CP - Libro Segundo - Título VI - Capítulo Cuarto|Capítulo Cuarto]] →

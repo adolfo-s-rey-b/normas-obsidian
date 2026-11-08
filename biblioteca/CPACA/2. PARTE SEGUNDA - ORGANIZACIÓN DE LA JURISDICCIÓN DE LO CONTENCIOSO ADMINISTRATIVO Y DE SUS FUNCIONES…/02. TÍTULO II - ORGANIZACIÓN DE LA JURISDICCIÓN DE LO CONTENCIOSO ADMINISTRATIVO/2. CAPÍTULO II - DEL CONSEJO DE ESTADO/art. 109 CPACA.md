@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "109"
-epigrafe: "ATRIBUCIONES DE LA SALA PLENA"
+epigrafe: "Atribuciones de la Sala Plena"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 22 Acto Legislativo 2 de 2015]]"
   - "[[art. 267 CPol]]"
@@ -31,12 +31,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 109. ATRIBUCIONES DE LA SALA PLENA
+## Artículo 109. Atribuciones de la Sala Plena
 
 La Sala Plena del Consejo de Estado tendrá las siguientes atribuciones:
 
@@ -48,7 +48,7 @@ La Sala Plena del Consejo de Estado tendrá las siguientes atribuciones:
 
 4\. Elegir los demás empleados de la corporación, con excepción de los de las salas, de las secciones y de los despachos, los cuales serán designados por cada una de aquellas o por los respectivos Magistrados. Esta atribución podrá delegarse en la Sala de Gobierno.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral derogado tácitamente por el artículo [[art. 22 Acto Legislativo 2 de 2015|22]] del Acto Legislativo 2 de 2015, modificatorio del inciso 6 del artículo [[art. 267 CPol|267]] de la Constitución Política
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "21"
-epigrafe: "TRASLADO Y CONTESTACIÓN DE LA DEMANDA"
+epigrafe: "Traslado y contestación de la demanda"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 21. TRASLADO Y CONTESTACIÓN DE LA DEMANDA
+## Artículo 21. Traslado y contestación de la demanda
 
 De la demanda se correrá traslado por el término de veinte (20) días. Vencido este, se correrá traslado al demandante por el término de cinco (5) días, dentro de los cuales podrá solicitar pruebas adicionales relacionadas con los hechos en que se funden las excepciones de mérito.
 

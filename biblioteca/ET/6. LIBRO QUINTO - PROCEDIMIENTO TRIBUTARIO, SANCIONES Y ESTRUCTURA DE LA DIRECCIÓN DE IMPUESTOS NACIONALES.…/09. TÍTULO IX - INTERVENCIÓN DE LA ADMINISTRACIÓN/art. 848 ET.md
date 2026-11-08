@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "848"
-epigrafe: "PERSONERIA DEL FUNCIONARIO DE COBRANZAS"
+epigrafe: "PERSONERÍA DEL FUNCIONARIO DE COBRANZAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IX|TÍTULO IX - INTERVENCIÓN DE LA ADMINISTRACIÓN]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IX|Título IX]]
 
-## Artículo 848. PERSONERIA DEL FUNCIONARIO DE COBRANZAS
+## Artículo 848. PERSONERÍA DEL FUNCIONARIO DE COBRANZAS
 
 Para la intervención de la Administración en los casos señalados en los artículos anteriores, será suficiente que los funcionarios acrediten su personería mediante la exhibición del Auto Comisorio proferido por el superior respectivo.
 

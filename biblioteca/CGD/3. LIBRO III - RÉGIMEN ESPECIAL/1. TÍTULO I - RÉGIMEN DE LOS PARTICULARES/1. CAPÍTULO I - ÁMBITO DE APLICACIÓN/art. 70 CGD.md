@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "70"
-epigrafe: "SUJETOS DISCIPLINABLES"
+epigrafe: "Sujetos disciplinables"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título I|TÍTULO I - RÉGIMEN DE LOS PARTICULARES]]"
 capitulo: "[[CGD - Libro III - Título I - Capítulo I|CAPÍTULO I - ÁMBITO DE APLICACIÓN]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título I|Título I]] › [[CGD - Libro III - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 70. SUJETOS DISCIPLINABLES
+## Artículo 70. Sujetos disciplinables
 
 El presente régimen se aplica a los particulares que ejerzan funciones públicas de manera permanente o transitoria; que administren recursos públicos; que cumplan labores de interventoría o supervisión en los contratos estatales y a los auxiliares de la justicia.
 

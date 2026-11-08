@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "103"
-epigrafe: "TITULARIDAD DEL CONTROL"
+epigrafe: "Titularidad del control"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 102 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 103. TITULARIDAD DEL CONTROL
+## Artículo 103. Titularidad del control
 
 El Presidente de la República como suprema autoridad administrativa y los ministros y directores de Departamento Administrativo, ejercerán control administrativo sobre los organismos o entidades que conforman la Administración Pública.
 

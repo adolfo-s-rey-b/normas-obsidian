@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "47"
-epigrafe: "DE LA NULIDAD PARCIAL"
+epigrafe: "De la Nulidad Parcial"
 rubro: "[[Ley 80 de 1993 - Iv. de la nulidad de los contratos|IV. DE LA NULIDAD DE LOS CONTRATOS]]"
 vigencia: "vigente"
 anterior: "[[art. 46 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iv. de la nulidad de los contratos|Iv. de la nulidad de los contratos]]
 
-## Artículo 47. DE LA NULIDAD PARCIAL
+## Artículo 47. De la Nulidad Parcial
 
 La nulidad de alguna o algunas cláusulas de un contrato no invalidará la totalidad del acto, salvo cuando este no pudiese existir sin la parte viciada.
 

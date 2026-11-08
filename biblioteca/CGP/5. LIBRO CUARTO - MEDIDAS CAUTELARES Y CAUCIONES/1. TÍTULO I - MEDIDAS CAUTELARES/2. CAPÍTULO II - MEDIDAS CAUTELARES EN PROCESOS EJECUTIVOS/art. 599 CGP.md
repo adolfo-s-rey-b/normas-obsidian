@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "599"
-epigrafe: "EMBARGO Y SECUESTRO"
+epigrafe: "Embargo y secuestro"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo II|CAPÍTULO II - MEDIDAS CAUTELARES EN PROCESOS EJECUTIVOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 599. EMBARGO Y SECUESTRO
+## Artículo 599. Embargo y secuestro
 
 Desde la presentación de la demanda el ejecutante podrá solicitar el embargo y secuestro de bienes del ejecutado.
 

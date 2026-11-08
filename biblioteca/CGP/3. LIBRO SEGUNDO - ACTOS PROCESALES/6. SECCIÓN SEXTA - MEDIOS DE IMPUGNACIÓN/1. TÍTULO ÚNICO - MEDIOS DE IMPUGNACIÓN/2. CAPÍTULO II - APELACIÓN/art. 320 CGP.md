@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "320"
-epigrafe: "FINES DE LA APELACIÓN"
+epigrafe: "Fines de la apelación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 320. FINES DE LA APELACIÓN
+## Artículo 320. Fines de la apelación
 
 El recurso de apelación tiene por objeto que el superior examine la cuestión decidida, únicamente en relación con los reparos concretos formulados por el apelante, para que el superior revoque o reforme la decisión.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "104"
-epigrafe: "FORMA Y CONTENIDO DEL LAUDO"
+epigrafe: "Forma y contenido del laudo"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|CAPÍTULO VII - PRONUNCIAMIENTO DEL LAUDO Y TERMINACIÓN DE LAS ACTUACIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|Capítulo VII]]
 
-## Artículo 104. FORMA Y CONTENIDO DEL LAUDO
+## Artículo 104. Forma y contenido del laudo
 
 El laudo arbitral consultará la siguiente forma y contenido:
 

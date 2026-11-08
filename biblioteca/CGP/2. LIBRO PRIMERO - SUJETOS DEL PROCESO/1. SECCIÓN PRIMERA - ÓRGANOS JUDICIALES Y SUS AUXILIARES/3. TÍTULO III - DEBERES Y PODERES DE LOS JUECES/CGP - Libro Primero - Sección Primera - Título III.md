@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 42 CGP|Artículo 42]] — DEBERES DEL JUEZ
-- [[art. 43 CGP|Artículo 43]] — PODERES DE ORDENACIÓN E INSTRUCCIÓN
-- [[art. 44 CGP|Artículo 44]] — PODERES CORRECCIONALES DEL JUEZ
+- [[art. 42 CGP|Artículo 42]] — Deberes del juez
+- [[art. 43 CGP|Artículo 43]] — Poderes de ordenación e instrucción
+- [[art. 44 CGP|Artículo 44]] — Poderes correccionales del juez
 
 ---
 ← [[CGP - Libro Primero - Sección Primera - Título II|Título II]] · ↑ [[CGP - Libro Primero - Sección Primera|Sección Primera]] · [[CGP - Libro Primero - Sección Primera - Título IV|Título IV]] →

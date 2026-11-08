@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "45"
-epigrafe: "ESTIPULACIONES ESPECIALES"
+epigrafe: "Estipulaciones especiales"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo IV|CAPÍTULO IV - DE LAS OPERACIONES MEDIANTE SISTEMAS DE FINANCIACIÓN]]"
 vigencia: "modificado"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo IV|Capítulo IV]]
 
-## Artículo 45. ESTIPULACIONES ESPECIALES
+## Artículo 45. Estipulaciones especiales
 
 En las operaciones de crédito otorgadas por personas naturales o jurídicas cuyo control y vigilancia sobre su actividad crediticia no haya sido asignada a alguna autoridad administrativa en particular, y en los contratos de adquisición de bienes o prestación de servicios en que el productor o proveedor otorgue de forma directa financiación, se deberá:
 

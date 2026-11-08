@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "192"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo X|CAPÍTULO X - ACCIÓN DE REVISIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo X|Capítulo X]]
 
-## Artículo 192. PROCEDENCIA
+## Artículo 192. Procedencia
 
 La acción de revisión procede contra sentencias ejecutoriadas, en los siguientes casos:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "147"
-epigrafe: "CELERIDAD Y ORALIDAD"
+epigrafe: "Celeridad y oralidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo I|CAPÍTULO I - ORALIDAD EN LOS PROCEDIMIENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 147. CELERIDAD Y ORALIDAD
+## Artículo 147. Celeridad y oralidad
 
 En las audiencias que tengan lugar con ocasión de la persecución penal, las cuestiones que se debatan serán resueltas en la misma audiencia. Las personas allí presentes se considerarán notificadas por el solo proferimiento oral de una decisión o providencia.
 

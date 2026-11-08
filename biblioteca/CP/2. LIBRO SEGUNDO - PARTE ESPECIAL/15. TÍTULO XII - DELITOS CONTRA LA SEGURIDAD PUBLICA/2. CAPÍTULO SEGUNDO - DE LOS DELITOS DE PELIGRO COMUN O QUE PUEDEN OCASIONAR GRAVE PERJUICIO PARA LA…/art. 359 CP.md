@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "359"
-epigrafe: "EMPLEO O LANZAMIENTO DE SUSTANCIAS U OBJETOS PELIGROSOS"
+epigrafe: "Empleo o lanzamiento de sustancias u objetos peligrosos"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XII|TÍTULO XII - DELITOS CONTRA LA SEGURIDAD PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XII - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LOS DELITOS DE PELIGRO COMUN O QUE PUEDEN OCASIONAR GRAVE PERJUICIO PARA LA COMUNIDAD Y OTRAS INFRACCIONES]]"
@@ -19,7 +19,6 @@ modificado_por:
   - "[[art. 7 Ley 1453 de 2011]]"
   - "[[art. 16 Ley 1445 de 2011]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 anterior: "[[art. 358 CP]]"
 siguiente: "[[art. 360 CP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
@@ -36,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XII|Título XII]] › [[CP - Libro Segundo - Título XII - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 359. EMPLEO O LANZAMIENTO DE SUSTANCIAS U OBJETOS PELIGROSOS
+## Artículo 359. Empleo o lanzamiento de sustancias u objetos peligrosos
 
 El que emplee, envíe, remita o lance contra persona, edificio o medio de locomoción, o en lugar público o abierto al público, sustancia u objeto de los mencionados en el artículo precedente, incurrirá en prisión de dieciséis (16) a noventa (90) meses, siempre que la conducta no constituya otro delito.
 
@@ -56,7 +55,7 @@ El que porte o ingrese armas blancas u objetos peligrosos al interior de un esce
 
 (sic,10)
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 10 Ley 1453 de 2011|10]] de la Ley 1453 de 2011, publicada en el Diario Oficial No. 48.110 de 24 de junio de 2011. - Artículo modificado por el artículo [[art. 16 Ley 1445 de 2011|16]] de la Ley 1445 de 2011, publicada en el Diario Oficial No. 48.067 de 12 de mayo de 2011. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 10 Ley 1453 de 2011|10]] de la Ley 1453 de 2011, publicada en el Diario Oficial No. 48.110 de 24 de junio de 2011. - Artículo modificado por el artículo [[art. 16 Ley 1445 de 2011|16]] de la Ley 1445 de 2011, publicada en el Diario Oficial No. 48.067 de 12 de mayo de 2011. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 ---
 ← [[art. 358 CP]] · ↑ [[CP - Libro Segundo - Título XII - Capítulo Segundo|Capítulo Segundo]] · [[art. 360 CP]] →

@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 6 EOSF|Artículo 6]] — DEFINICIONES
-- [[art. 7 EOSF|Artículo 7]] — OPERACIONES
-- [[art. 8 EOSF|Artículo 8]] — INVERSIONES AUTORIZADAS
-- [[art. 9 EOSF|Artículo 9]] — OTRAS INVERSIONES ADMISIBLES
-- [[art. 10 EOSF|Artículo 10]] — PROHIBICIONES Y LIMITACIONES
+- [[art. 6 EOSF|Artículo 6]] — Definiciones
+- [[art. 7 EOSF|Artículo 7]] — Operaciones
+- [[art. 8 EOSF|Artículo 8]] — Inversiones Autorizadas
+- [[art. 9 EOSF|Artículo 9]] — Otras Inversiones Admisibles
+- [[art. 10 EOSF|Artículo 10]] — Prohibiciones y Limitaciones
 
 ---
 ← [[EOSF - Parte I - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo III|Capítulo III]] →

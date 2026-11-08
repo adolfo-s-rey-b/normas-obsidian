@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "280"
-epigrafe: "REMATE"
+epigrafe: "Remate"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 280. REMATE
+## Artículo 280. Remate
 
 Son susceptibles de remate los bienes que se hayan embargado, secuestrado y avaluado, aun cuando no esté en firme la liquidación del crédito. Previa orden de remate, el juez realizará el control de legalidad para sanear las irregularidades que puedan acarrear nulidad. En lo que respecta al remate, se deberán observar las siguientes reglas:
 

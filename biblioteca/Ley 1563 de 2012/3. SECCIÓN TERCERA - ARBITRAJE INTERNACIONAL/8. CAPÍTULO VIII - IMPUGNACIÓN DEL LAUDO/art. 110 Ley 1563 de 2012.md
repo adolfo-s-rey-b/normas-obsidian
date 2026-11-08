@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "110"
-epigrafe: "EFECTOS DEL RECURSO DE ANULACIÓN"
+epigrafe: "Efectos del recurso de anulación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|CAPÍTULO VIII - IMPUGNACIÓN DEL LAUDO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 110. EFECTOS DEL RECURSO DE ANULACIÓN
+## Artículo 110. Efectos del recurso de anulación
 
 Cuando prospere alguna de las causales señaladas en el numeral 1 literal a), del artículo [[art. 108 Ley 1563 de 2012|108]] se declarará la nulidad del laudo y las partes podrán acudir ante la autoridad judicial competente.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "142"
-epigrafe: "DEBERES ESPECÍFICOS DE LA FISCALÍA GENERAL DE LA NACIÓN"
+epigrafe: "Deberes específicos de la Fiscalía General de la Nación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título V|TÍTULO V - DEBERES Y PODERES DE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
 capitulo: "[[CPP - Libro I - Título V - Capítulo III|CAPÍTULO III - DEBERES DE LA FISCALÍA GENERAL DE LA NACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título V|Título V]] › [[CPP - Libro I - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 142. DEBERES ESPECÍFICOS DE LA FISCALÍA GENERAL DE LA NACIÓN
+## Artículo 142. Deberes específicos de la Fiscalía General de la Nación
 
 Sin perjuicio de lo dispuesto en los artículos anteriores, constituyen deberes esenciales de la Fiscalía General de la Nación los siguientes:
 

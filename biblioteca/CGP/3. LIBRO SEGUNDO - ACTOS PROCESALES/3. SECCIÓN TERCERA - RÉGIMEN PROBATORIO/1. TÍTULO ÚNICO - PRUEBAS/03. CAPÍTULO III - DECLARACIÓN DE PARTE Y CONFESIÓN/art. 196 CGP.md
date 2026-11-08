@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "196"
-epigrafe: "INDIVISIBILIDAD DE LA CONFESIÓN Y DIVISIBILIDAD DE LA DECLARACIÓN DE PARTE"
+epigrafe: "Indivisibilidad de la confesión y divisibilidad de la declaración de parte"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 196. INDIVISIBILIDAD DE LA CONFESIÓN Y DIVISIBILIDAD DE LA DECLARACIÓN DE PARTE
+## Artículo 196. Indivisibilidad de la confesión y divisibilidad de la declaración de parte
 
 La confesión deberá aceptarse con las modificaciones, aclaraciones y explicaciones concernientes al hecho confesado, excepto cuando exista prueba que las desvirtúe.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "5"
-epigrafe: "CONCENTRACIÓN"
+epigrafe: "Concentración"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 4 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 5. CONCENTRACIÓN
+## Artículo 5. Concentración
 
 El juez deberá programar las audiencias y diligencias de manera que el objeto de cada una de ellas se cumpla sin solución de continuidad. No podrá aplazar una audiencia o diligencia, ni suspenderla, salvo por las razones que expresamente autoriza este código.
 

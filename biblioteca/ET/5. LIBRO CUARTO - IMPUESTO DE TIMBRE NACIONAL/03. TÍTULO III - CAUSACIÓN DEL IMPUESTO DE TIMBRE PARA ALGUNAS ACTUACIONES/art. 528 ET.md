@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "528"
-epigrafe: "LA NO EXPRESION DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO"
+epigrafe: "LA NO EXPRESIÓN DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título III|TÍTULO III - CAUSACIÓN DEL IMPUESTO DE TIMBRE PARA ALGUNAS ACTUACIONES]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título III|Título III]]
 
-## Artículo 528. LA NO EXPRESION DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO
+## Artículo 528. LA NO EXPRESIÓN DE LA FECHA HACE PRESUMIR EL PLAZO VENCIDO
 
 (Fuente original compilada: L. 02/76 Art. [[art. 17 ET|17]].) Los instrumentos, actuaciones o diligencias gravados con impuesto de timbre nacional, en que no se exprese la fecha se tendrán como de plazo vencido para el pago del impuesto y las correspondientes sanciones.
 

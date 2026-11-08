@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "27"
-epigrafe: "DE LA ECUACIÓN CONTRACTUAL"
+epigrafe: "De la Ecuación Contractual"
 rubro: "[[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|II. DE LOS PRINCIPIOS DE LA CONTRATACIÓN ESTATAL]]"
 vigencia: "vigente"
 anterior: "[[art. 26 Ley 80 de 1993]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|Ii. de los principios de la contratación estatal]]
 
-## Artículo 27. DE LA ECUACIÓN CONTRACTUAL
+## Artículo 27. De la Ecuación Contractual
 
 En los contratos estatales se mantendrá la igualdad o equivalencia entre derechos y obligaciones surgidos al momento de proponer o de contratar, según el caso. Si dicha igualdad o equivalencia se rompe por causas no imputables a quien resulte afectado, las partes adoptarán en el menor tiempo posible las medidas necesarias para su restablecimiento.
 

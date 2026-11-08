@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "286"
-epigrafe: "ORGANIZACION"
+epigrafe: "Organización"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XII|CAPÍTULO XII - FONDO FINANCIERO DE PROYECTOS DE DESARROLLO FONADE]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XII|Capítulo XII]]
 
-## Artículo 286. ORGANIZACION
+## Artículo 286. Organización
 
 1\. Nombre y naturaleza. Reestructúrase el Fondo Nacional de Proyectos de Desarrollo, establecimiento público del orden nacional, creado por Decreto 3068 de 1968, en una empresa industrial y comercial del estado, de carácter financiero denominada Fondo Financiero de Proyectos de Desarrollo FONADE dotada de personería jurídica, patrimonio propio, autonomía administrativa y vinculada al Departamento Nacional de Planeación.
 

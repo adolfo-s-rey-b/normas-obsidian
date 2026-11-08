@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "71"
-epigrafe: "AUTORIZACIÓN PARA RECIBIR LA NOTIFICACIÓN"
+epigrafe: "Autorización para recibir la notificación"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - PUBLICACIONES, CITACIONES, COMUNICACIONES Y NOTIFICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 71. AUTORIZACIÓN PARA RECIBIR LA NOTIFICACIÓN
+## Artículo 71. Autorización para recibir la notificación
 
 Cualquier persona que deba notificarse de un acto administrativo podrá autorizar a otra para que se notifique en su nombre, mediante escrito ~~que requerirá presentación personal~~. El autorizado solo estará facultado para recibir la notificación y, por tanto, cualquier manifestación que haga en relación con el acto administrativo se tendrá, de pleno derecho, por no realizada.
 

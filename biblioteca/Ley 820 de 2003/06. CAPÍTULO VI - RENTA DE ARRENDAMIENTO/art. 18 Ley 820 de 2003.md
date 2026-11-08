@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "18"
-epigrafe: "RENTA DE ARRENDAMIENTO"
+epigrafe: "Renta de arrendamiento"
 capitulo: "[[Ley 820 de 2003 - Capítulo VI|CAPÍTULO VI - RENTA DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 17 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VI|Capítulo VI]]
 
-## Artículo 18. RENTA DE ARRENDAMIENTO
+## Artículo 18. Renta de arrendamiento
 
 El precio mensual del arrendamiento será fijado por las partes en moneda legal pero no podrá exceder el uno por ciento (1%) del valor comercial del inmueble o de la parte de él que se dé en arriendo.
 

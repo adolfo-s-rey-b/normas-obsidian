@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "431"
-epigrafe: "EMPLEO DE LOS DOCUMENTOS EN EL JUICIO"
+epigrafe: "Empleo de los documentos en el juicio"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
 
-## Artículo 431. EMPLEO DE LOS DOCUMENTOS EN EL JUICIO
+## Artículo 431. Empleo de los documentos en el juicio
 
 Los documentos escritos serán leídos y exhibidos de modo que todos los intervinientes en la audiencia del juicio oral y público puedan conocer su forma y contenido.
 

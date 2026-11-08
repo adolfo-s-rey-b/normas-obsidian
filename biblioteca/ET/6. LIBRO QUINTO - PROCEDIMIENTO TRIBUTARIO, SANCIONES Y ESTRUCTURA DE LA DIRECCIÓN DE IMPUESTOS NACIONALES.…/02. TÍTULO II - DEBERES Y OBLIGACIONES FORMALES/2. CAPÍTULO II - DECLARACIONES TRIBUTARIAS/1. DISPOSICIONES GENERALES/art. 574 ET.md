@@ -76,7 +76,7 @@ tags:
 
 > [!note] Notas del Editor: El editor destaca que la DIAN en la publicación CODEX 'Estatuto Tributario Edición Especial '97', de enero de 1997 establece que 'la declaración de Timbre fue reemplazada por la declaración de retención del impuesto de timbre, en los términos del artículo [[art. 539-3 Ley 6 de 1992|539-3]] de esta obra, incluido por el artículo [[art. 42 Ley 6 de 1992|42]] de la Ley 6 de 1992.
 
-4.
+4\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 376 Ley 1819 de 2016|376]] de la Ley 1819 de 2016
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "10"
-epigrafe: "TÉRMINO"
+epigrafe: "Término"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 10. TÉRMINO
+## Artículo 10. Término
 
 Si en el pacto arbitral no se señalare término para la duración del proceso, este será de seis (6) meses, contados a partir de la finalización de la primera audiencia de trámite. Dentro del término de duración del proceso, deberá proferirse y notificarse, incluso, la providencia que resuelve la solicitud de aclaración, corrección o adición.
 

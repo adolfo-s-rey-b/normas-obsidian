@@ -24,17 +24,17 @@ tags:
 
 ### Contenido
 
-- [[art. 563 CGP|Artículo 563]] — APERTURA DE LA LIQUIDACIÓN PATRIMONIAL
+- [[art. 563 CGP|Artículo 563]] — Apertura de la liquidación patrimonial
 - [[art. 564 CGP|Artículo 564]] — PROVIDENCIA DE APERTURA
-- [[art. 565 CGP|Artículo 565]] — EFECTOS DE LA PROVIDENCIA DE APERTURA
-- [[art. 566 CGP|Artículo 566]] — TÉRMINO PARA HACERSE PARTE Y PRESENTACIÓN DE OBJECIONES
+- [[art. 565 CGP|Artículo 565]] — Efectos de la providencia de apertura
+- [[art. 566 CGP|Artículo 566]] — Término para hacerse parte y presentación de objeciones
 - [[art. 567 CGP|Artículo 567]] — INVENTARIO VALORADO DE LOS BIENES DEL DEUDOR
-- [[art. 568 CGP|Artículo 568]] — PROVIDENCIA DE RESOLUCIÓN DE OBJECIONES, APROBACIÓN DE INVENTARIOS Y AVALÚOS Y CITACIÓN A AUDIENCIA
+- [[art. 568 CGP|Artículo 568]] — Providencia de resolución de objeciones, aprobación de inventarios y avalúos y citación a audiencia
 - [[art. 569 CGP|Artículo 569]] — ACUERDO DE NEGOCIACIÓN DE DEUDAS DENTRO DE LA LIQUIDACIÓN PATRIMONIAL
 - [[art. 569A CGP|Artículo 569A]] — ACUERDO DE ADJUDICACIÓN
-- [[art. 570 CGP|Artículo 570]] — AUDIENCIA DE ADJUDICACIÓN
+- [[art. 570 CGP|Artículo 570]] — Audiencia de adjudicación
 - [[art. 570A CGP|Artículo 570A]] — VENTA DE BIENES DEL DEUDOR
-- [[art. 571 CGP|Artículo 571]] — EFECTOS DE LA ADJUDICACIÓN
+- [[art. 571 CGP|Artículo 571]] — Efectos de la adjudicación
 - [[art. 571A CGP|Artículo 571A]] — ENTREGA DE LOS BIENES A LOS ADJUDICATARIOS
 - [[art. 572 CGP|Artículo 572]] — Acciones Revocatorias y de simulación
 - [[art. 572A CGP|Artículo 572A]] — CRÉDITOS LEGALMENTE POSTERGADOS

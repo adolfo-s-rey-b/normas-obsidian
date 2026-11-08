@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "304"
-epigrafe: "PLAN ESPECIAL DE DESCONGESTIÓN"
+epigrafe: "Plan Especial de Descongestión"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título XI|TÍTULO XI - PLAN ESPECIAL DE DESCONGESTIÓN, RÉGIMEN DE TRANSICIÓN, VIGENCIA Y DEROGATORIAS]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título XI|Título XI]]
 
-## Artículo 304. PLAN ESPECIAL DE DESCONGESTIÓN
+## Artículo 304. Plan Especial de Descongestión
 
 Dentro del año siguiente contado a partir de la promulgación de la ley, el Consejo Superior de la Judicatura con la participación del Consejo de Estado, preparará y adoptará, entre otras medidas transitorias, un Plan Especial de Descongestión de la Jurisdicción de lo Contencioso Administrativo*, cuyo objetivo es el de llevar hasta su terminación todos los procesos judiciales promovidos antes de la entrada en vigencia de la presente ley y que se encuentren acumulados en los juzgados y tribunales administrativos y en el Consejo de Estado.
 

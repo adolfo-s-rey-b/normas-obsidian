@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "522"
-epigrafe: "SUCESIÓN TRAMITADA ANTE DISTINTOS JUECES"
+epigrafe: "Sucesión tramitada ante distintos jueces"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 522. SUCESIÓN TRAMITADA ANTE DISTINTOS JUECES
+## Artículo 522. Sucesión tramitada ante distintos jueces
 
 Cuando se adelanten dos o más procesos de sucesión de un mismo causante, cualquiera de los interesados podrá solicitar que se decrete la nulidad del proceso inscrito con posterioridad en el Registro Nacional de Apertura de Procesos de Sucesión.
 

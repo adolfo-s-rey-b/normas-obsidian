@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "110"
-epigrafe: "INSTANCIAS"
+epigrafe: "Instancias"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]]
 
-## Artículo 110. INSTANCIAS
+## Artículo 110. Instancias
 
 El proceso de responsabilidad fiscal será de única instancia cuando la cuantía del presunto daño patrimonial estimado en el auto de apertura e imputación o de imputación de responsabilidad fiscal, según el caso, sea igual o inferior a la menor cuantía para contratación de la respectiva entidad afectada con los hechos y será de doble instancia cuando supere la suma señalada.
 

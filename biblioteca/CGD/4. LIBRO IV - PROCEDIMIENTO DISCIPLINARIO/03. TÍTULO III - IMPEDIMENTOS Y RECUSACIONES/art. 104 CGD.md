@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "104"
-epigrafe: "CAUSALES DE IMPEDIMENTO Y RECUSACIÓN"
+epigrafe: "Causales de impedimento y recusación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título III|TÍTULO III - IMPEDIMENTOS Y RECUSACIONES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título III|Título III]]
 
-## Artículo 104. CAUSALES DE IMPEDIMENTO Y RECUSACIÓN
+## Artículo 104. Causales de impedimento y recusación
 
 Son causales de impedimento y recusación, para los servidores públicos que ejerzan la acción disciplinaria, las siguientes:
 

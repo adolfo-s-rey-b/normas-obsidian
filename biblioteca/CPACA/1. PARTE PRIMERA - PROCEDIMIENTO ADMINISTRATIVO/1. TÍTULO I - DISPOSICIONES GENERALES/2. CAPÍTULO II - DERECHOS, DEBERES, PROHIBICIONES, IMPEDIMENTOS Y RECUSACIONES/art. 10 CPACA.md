@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "10"
-epigrafe: "DEBER DE APLICACIÓN UNIFORME DE LAS NORMAS Y LA JURISPRUDENCIA"
+epigrafe: "Deber de aplicación uniforme de las normas y la jurisprudencia"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 10. DEBER DE APLICACIÓN UNIFORME DE LAS NORMAS Y LA JURISPRUDENCIA
+## Artículo 10. Deber de aplicación uniforme de las normas y la jurisprudencia
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

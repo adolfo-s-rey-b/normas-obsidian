@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "336A"
-epigrafe: "FINANCIACIÓN DE INVASIÓN A ÁREAS DE ESPECIAL IMPORTANCIA ECOLÓGICA"
+epigrafe: "Financiación de invasión a areas de especial importancia ecologica"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo IV|CAPÍTULO IV - DE LA INVASION DE AREAS DE ESPECIAL IMPORTANCIA ECOLOGICA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo IV|Capítulo IV]]
 
-## Artículo 336A. FINANCIACIÓN DE INVASIÓN A ÁREAS DE ESPECIAL IMPORTANCIA ECOLÓGICA
+## Artículo 336A. Financiación de invasión a areas de especial importancia ecologica
 
 El que promueva, financie, dirija, facilite, suministre medios, se aproveche económicamente u obtenga cualquier otro beneficio de las conductas descritas en el artículo anterior, incurrirá en prisión de noventa y seis (96) a ciento ochenta (180) meses y multa de trescientos (300) a cincuenta mil (50.000) salarios mínimos legales mensuales vigentes.
 

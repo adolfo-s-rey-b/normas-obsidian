@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "49"
-epigrafe: "REQUISITOS DEL LLAMAMIENTO"
+epigrafe: "Requisitos del llamamiento"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 49. REQUISITOS DEL LLAMAMIENTO
+## Artículo 49. Requisitos del llamamiento
 
 El llamamiento en garantía deberá cumplir con los mismos requisitos exigidos en este código para la demanda.
 

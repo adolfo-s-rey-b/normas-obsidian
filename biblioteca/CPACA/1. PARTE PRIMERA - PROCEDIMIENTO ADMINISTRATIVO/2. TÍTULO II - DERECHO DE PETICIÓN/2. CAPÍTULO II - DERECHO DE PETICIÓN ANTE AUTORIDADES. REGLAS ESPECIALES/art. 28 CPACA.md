@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "28"
-epigrafe: "ALCANCE DE LOS CONCEPTOS"
+epigrafe: "Alcance de los conceptos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 28. ALCANCE DE LOS CONCEPTOS
+## Artículo 28. Alcance de los conceptos
 
 Salvo disposición legal en contrario, los conceptos emitidos por las autoridades como respuestas a peticiones realizadas en ejercicio del derecho a formular consultas no serán de obligatorio cumplimiento o ejecución.
 

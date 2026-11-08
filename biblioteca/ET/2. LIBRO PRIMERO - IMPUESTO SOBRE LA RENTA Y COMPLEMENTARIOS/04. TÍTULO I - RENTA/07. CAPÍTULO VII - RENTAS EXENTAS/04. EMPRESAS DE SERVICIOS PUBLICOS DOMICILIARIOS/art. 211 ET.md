@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "211"
-epigrafe: "EXENCIÓN PARA EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS"
+epigrafe: "Exención para Empresas de Servicios Públicos Domiciliarios"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VII|CAPÍTULO VII - RENTAS EXENTAS]]"
@@ -51,7 +51,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VII|Capítulo VII]] › [[ET - Libro Primero - Título I - Capítulo VII - Empresas de servicios publicos domiciliarios|Empresas de servicios publicos domiciliarios]]
 
-## Artículo 211. EXENCIÓN PARA EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS
+## Artículo 211. Exención para Empresas de Servicios Públicos Domiciliarios
 
 Todas las entidades prestadoras de servicios públicos son contribuyentes de los impuestos nacionales, en los términos definidos por el Estatuto Tributario, con las excepciones que se establecen a continúación.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "251"
-epigrafe: "TÉRMINO"
+epigrafe: "Termino"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VI|CAPÍTULO VI - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VI|Capítulo VI]]
 
-## Artículo 251. TÉRMINO
+## Artículo 251. Termino
 
 La investigación disciplinaria contra funcionarios de la Rama Judicial se adelantará dentro de los términos establecidos en el artículo [[art. 213 CGD|213]] del presente código.
 

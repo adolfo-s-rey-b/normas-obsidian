@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "146"
-epigrafe: "EFECTO DE LA SOLICITUD Y DEL ACTO QUE LA RESUELVE"
+epigrafe: "Efecto de la solicitud y del acto que la resuelve"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo IV|CAPÍTULO IV - REVOCATORIA DIRECTA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 146. EFECTO DE LA SOLICITUD Y DEL ACTO QUE LA RESUELVE
+## Artículo 146. Efecto de la solicitud y del acto que la resuelve
 
 Ni la petición de revocatoria de un fallo ni la decisión que la resuelve revivirán los términos legales para el ejercicio de los medios de control en materia contenciosoadministrativa.
 

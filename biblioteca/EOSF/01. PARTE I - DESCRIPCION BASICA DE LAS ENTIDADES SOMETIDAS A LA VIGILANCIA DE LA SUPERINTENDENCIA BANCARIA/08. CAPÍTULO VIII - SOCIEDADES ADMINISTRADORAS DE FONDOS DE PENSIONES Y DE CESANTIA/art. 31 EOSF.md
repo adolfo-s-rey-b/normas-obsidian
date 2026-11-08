@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "31"
-epigrafe: "OBLIGACIONES DE LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE CESANTIA"
+epigrafe: "Obligaciones de las Sociedades Administradoras de Fondos de Cesantía"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo VIII|CAPÍTULO VIII - SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 31. OBLIGACIONES DE LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE CESANTIA
+## Artículo 31. Obligaciones de las Sociedades Administradoras de Fondos de Cesantía
 
 Las sociedades administradoras de fondos de cesantía tendrán, entre otras, las siguientes obligaciones:
 

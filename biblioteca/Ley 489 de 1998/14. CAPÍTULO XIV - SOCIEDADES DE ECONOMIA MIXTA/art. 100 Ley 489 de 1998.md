@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "100"
-epigrafe: "NATURALEZA DE LOS APORTES ESTATALES"
+epigrafe: "Naturaleza de los aportes estatales"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIV|CAPÍTULO XIV - SOCIEDADES DE ECONOMIA MIXTA]]"
 vigencia: "vigente"
 anterior: "[[art. 99 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 100. NATURALEZA DE LOS APORTES ESTATALES
+## Artículo 100. Naturaleza de los aportes estatales
 
 En las sociedades de economía mixta los aportes estatales podrán consistir, entre otros, en ventajas financieras o fiscales, garantía de las obligaciones de la sociedad o suscripción de los bonos que la misma emita. El Estado también podrá aportar títulos mineros y aportes para la explotación de recursos naturales de propiedad del Estado.
 

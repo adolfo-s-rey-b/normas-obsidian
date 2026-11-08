@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "18"
-epigrafe: "INTERVENCIÓN DEL MINISTERIO PÚBLICO Y LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO"
+epigrafe: "Intervención del Ministerio Público y la Agencia Nacional de Defensa Jurídica del Estado"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo II|Capítulo II]]
 
-## Artículo 18. INTERVENCIÓN DEL MINISTERIO PÚBLICO Y LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+## Artículo 18. Intervención del Ministerio Público y la Agencia Nacional de Defensa Jurídica del Estado
 
 A) El Ministerio Público podrá intervenir en los procesos que se adelanten ante la jurisdicción del trabajo y de la seguridad social, en defensa del orden jurídico, el patrimonio público, las garantías y derechos fundamentales, individuales o colectivos, de los trabajadores o pensionados y de los sujetos de especial protección constitucional.
 

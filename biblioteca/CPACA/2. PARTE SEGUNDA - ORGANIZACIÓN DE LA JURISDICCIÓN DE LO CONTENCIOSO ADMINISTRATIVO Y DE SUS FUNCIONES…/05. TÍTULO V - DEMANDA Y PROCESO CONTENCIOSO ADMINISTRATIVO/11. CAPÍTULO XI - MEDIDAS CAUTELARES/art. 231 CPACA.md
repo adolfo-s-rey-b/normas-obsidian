@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "231"
-epigrafe: "REQUISITOS PARA DECRETAR LAS MEDIDAS CAUTELARES"
+epigrafe: "Requisitos para decretar las medidas cautelares"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 231. REQUISITOS PARA DECRETAR LAS MEDIDAS CAUTELARES
+## Artículo 231. Requisitos para decretar las medidas cautelares
 
 Cuando se pretenda la nulidad de un acto administrativo, la suspensión provisional de sus efectos procederá por violación de las disposiciones invocadas en la demanda o en la solicitud que se realice en escrito separado, cuando tal violación surja del análisis del acto demandado y su confrontación con las normas superiores invocadas como violadas o del estudio de las pruebas allegadas con la solicitud. Cuando adicionalmente se pretenda el restablecimiento del derecho y la indemnización de perjuicios deberá probarse al menos sumariamente la existencia de los mismos.
 

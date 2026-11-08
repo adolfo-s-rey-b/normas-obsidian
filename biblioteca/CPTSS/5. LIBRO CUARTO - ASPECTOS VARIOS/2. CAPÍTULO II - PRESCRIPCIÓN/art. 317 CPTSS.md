@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "317"
-epigrafe: "PRESCRIPCIÓN"
+epigrafe: "Prescripción"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 317. PRESCRIPCIÓN
+## Artículo 317. Prescripción
 
 Las acciones que emanen de las leyes sociales prescribirán en tres (3) años, que se contarán desde que la respectiva obligación se haya hecho exigible, salvo en los casos de prescripciones especiales establecidos en el código.
 

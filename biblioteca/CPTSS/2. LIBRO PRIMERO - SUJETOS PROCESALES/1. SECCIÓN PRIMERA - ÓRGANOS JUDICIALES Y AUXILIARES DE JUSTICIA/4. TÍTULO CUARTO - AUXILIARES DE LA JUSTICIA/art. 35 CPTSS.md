@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "35"
-epigrafe: "CUSTODIA DE BIENES Y DINEROS"
+epigrafe: "Custodia de bienes y dineros"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Cuarto|TÍTULO CUARTO - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Cuarto|Título Cuarto]]
 
-## Artículo 35. CUSTODIA DE BIENES Y DINEROS
+## Artículo 35. Custodia de bienes y dineros
 
 Los auxiliares de la justicia que como depositarios, secuestres o administradores de bienes perciban sus productos en dinero, o reciban en dinero el resultado de la enajenación de los bienes o de sus frutos, constituirán inmediatamente certificado de depósito a órdenes del juzgado.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "257"
-epigrafe: "FORMA Y CONTENIDO DE LA DEMANDA DE RECONVENCIÓN"
+epigrafe: "Forma y contenido de la demanda de reconvención"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 257. FORMA Y CONTENIDO DE LA DEMANDA DE RECONVENCIÓN
+## Artículo 257. Forma y contenido de la demanda de reconvención
 
 La demanda de reconvención se formulará en escrito separado del de la contestación. Deberá contener los mismos requisitos de la demanda principal y remitirse copia, con todos sus anexos, a las partes e intervinientes a través del juzgado, una vez esta fuere admitida.
 

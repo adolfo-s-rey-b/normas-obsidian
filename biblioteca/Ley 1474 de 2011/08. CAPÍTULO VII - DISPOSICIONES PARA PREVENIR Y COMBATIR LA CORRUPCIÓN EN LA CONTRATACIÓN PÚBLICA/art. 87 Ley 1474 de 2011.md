@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "87"
-epigrafe: "MADURACIÓN DE PROYECTOS"
+epigrafe: "Maduración de proyectos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 73 Ley 1682 de 2013]]"
 anterior: "[[art. 86 Ley 1474 de 2011]]"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 87. MADURACIÓN DE PROYECTOS
+## Artículo 87. Maduración de proyectos
 
 El numeral 12 del artículo [[art. 25 Ley 80 de 1993|25]] de la Ley 80 de 1993 quedará así:
 

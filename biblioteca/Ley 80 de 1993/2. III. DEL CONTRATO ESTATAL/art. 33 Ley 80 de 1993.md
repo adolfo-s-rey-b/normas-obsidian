@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "33"
-epigrafe: "DE LA CONCESIÓN DE LOS SERVICIOS Y DE LAS ACTIVIDADES DE TELECOMUNICACIONES"
+epigrafe: "De la Concesión de los Servicios y de las Actividades de Telecomunicaciones"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 73 Ley 1341 de 2009]]"
 anterior: "[[art. 32 Ley 80 de 1993]]"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 33. DE LA CONCESIÓN DE LOS SERVICIOS Y DE LAS ACTIVIDADES DE TELECOMUNICACIONES
+## Artículo 33. De la Concesión de los Servicios y de las Actividades de Telecomunicaciones
 
 Se entiende por actividad de telecomunicaciones el establecimiento de una red de telecomunicaciones, para uso particular y exclusivo, a fin de satisfacer necesidades privadas de telecomunicaciones, y sin conexión a las redes conmutadas del Estado o a otras redes privadas de telecomunicaciones. Para todos los efectos legales las actividades de telecomunicaciones se asimilan a servicios privados.
 

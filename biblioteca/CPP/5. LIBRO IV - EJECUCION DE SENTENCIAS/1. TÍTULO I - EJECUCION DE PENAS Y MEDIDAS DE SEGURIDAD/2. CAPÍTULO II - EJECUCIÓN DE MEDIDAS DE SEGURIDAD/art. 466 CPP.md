@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "466"
-epigrafe: "INTERNACIÓN DE INIMPUTABLES"
+epigrafe: "Internación de inimputables"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo II|CAPÍTULO II - EJECUCIÓN DE MEDIDAS DE SEGURIDAD]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 466. INTERNACIÓN DE INIMPUTABLES
+## Artículo 466. Internación de inimputables
 
 El juez de Ejecución de Penas y Medidas de Seguridad ordenará la internación del inimputable comunicando su decisión a la entidad competente del Sistema General de Seguridad Social en Salud, con el fin de que se asigne el centro de Rehabilitación. El Instituto Nacional Penitenciario y Carcelario, Inpec, pondrá a disposición del Centro de Rehabilitación el inimputable.
 

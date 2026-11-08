@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "45"
-epigrafe: "CONDICION PARA EL EJERCICIO DE LA ACTIVIDAD"
+epigrafe: "Condición para el Ejercicio de la Actividad"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XIII|CAPÍTULO XIII - INTERMEDIARIOS DE REASEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 45. CONDICION PARA EL EJERCICIO DE LA ACTIVIDAD
+## Artículo 45. Condición para el Ejercicio de la Actividad
 
 Ninguna sociedad corredora de reaseguros podrá iniciar las actividades propias de su objeto social antes de la expedición del certificado de inscripción por parte de la Superintendencia Bancaria.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "56"
-epigrafe: "PROCESO DE REVISIÓN DE INTERDICCIÓN O INHABILITACIÓN"
+epigrafe: "Proceso de revisión de interdicción o inhabilitación"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE TRANSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 55 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 56. PROCESO DE REVISIÓN DE INTERDICCIÓN O INHABILITACIÓN
+## Artículo 56. Proceso de revisión de interdicción o inhabilitación
 
 En un plazo no superior a treinta y seis (36) meses contados a partir de la entrada en vigencia del Capítulo V de la presente ley, los jueces de familia que hayan adelantado procesos de interdicción o inhabilitación deberán citar de oficio a las personas que cuenten con sentencia de interdicción o inhabilitación anterior a la promulgación de la presente ley, al igual que a las personas designadas como curadores o consejeros, a que comparezcan ante el juzgado para determinar si requieren de la adjudicación judicial de apoyos.
 

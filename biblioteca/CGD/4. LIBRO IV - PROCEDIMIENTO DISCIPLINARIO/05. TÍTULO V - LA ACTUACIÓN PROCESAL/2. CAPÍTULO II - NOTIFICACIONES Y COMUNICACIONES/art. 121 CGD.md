@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "121"
-epigrafe: "NOTIFICACIÓN PERSONAL"
+epigrafe: "Notificación personal"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 121. NOTIFICACIÓN PERSONAL
+## Artículo 121. Notificación personal
 
 Se notificarán personalmente los autos de apertura de investigación disciplinaria, el de vinculación, el pliego de cargos y su variación, los fallos de instancia.
 

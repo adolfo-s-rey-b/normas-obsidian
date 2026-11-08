@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "501"
-epigrafe: "INVENTARIO Y AVALÚOS"
+epigrafe: "Inventario y avalúos"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 501. INVENTARIO Y AVALÚOS
+## Artículo 501. Inventario y avalúos
 
 Realizadas las citaciones y comunicaciones previstas en el artículo [[art. 490 CGP|490]], se señalará fecha y hora para la diligencia de inventarios y avalúos, en la cual se aplicarán las siguientes reglas:
 

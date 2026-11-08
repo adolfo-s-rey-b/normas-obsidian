@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "220"
-epigrafe: "DESTINACION DE LOS RECURSOS DEL CREDITO AGROPECUARIO"
+epigrafe: "Destinación de los Recursos del Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 4 Ley 1731 de 2014]]"
 derogado_por:
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 220. DESTINACION DE LOS RECURSOS DEL CREDITO AGROPECUARIO
+## Artículo 220. Destinación de los Recursos del Crédito Agropecuario
 
 (Fuente Ley 16/90; Art. [[art. 26 EOSF|26]]) La Comisión Nacional de Crédito Agropecuario definirá las líneas de crédito que otorgarán las entidades que integran el Sistema Nacional de Crédito Agropecuario, y las instituciones bancarias y financieras debidamente autorizadas por la Superintendencia Bancaria, para conceder créditos con destino al sector agropecuario, afines y similares, tales como:
 

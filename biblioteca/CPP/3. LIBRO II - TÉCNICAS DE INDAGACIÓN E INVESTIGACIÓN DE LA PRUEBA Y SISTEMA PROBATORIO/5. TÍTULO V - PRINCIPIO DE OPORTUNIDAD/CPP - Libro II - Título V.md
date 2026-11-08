@@ -22,16 +22,16 @@ tags:
 
 ### Contenido
 
-- [[art. 321 CPP|Artículo 321]] — PRINCIPIO DE OPORTUNIDAD Y POLÍTICA CRIMINAL
-- [[art. 322 CPP|Artículo 322]] — LEGALIDAD
-- [[art. 323 CPP|Artículo 323]] — APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD
-- [[art. 324 CPP|Artículo 324]] — CAUSALES
-- [[art. 325 CPP|Artículo 325]] — SUSPENSIÓN DEL PROCEDIMIENTO A PRUEBA
-- [[art. 326 CPP|Artículo 326]] — CONDICIONES A CUMPLIR DURANTE EL PERÍODO DE PRUEBA
-- [[art. 327 CPP|Artículo 327]] — CONTROL JUDICIAL EN LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD
-- [[art. 328 CPP|Artículo 328]] — LA PARTICIPACIÓN DE LAS VÍCTIMAS
-- [[art. 329 CPP|Artículo 329]] — EFECTOS DE LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD
-- [[art. 330 CPP|Artículo 330]] — REGLAMENTACIÓN
+- [[art. 321 CPP|Artículo 321]] — Principio de oportunidad y política criminal
+- [[art. 322 CPP|Artículo 322]] — Legalidad
+- [[art. 323 CPP|Artículo 323]] — Aplicación del principio de oportunidad
+- [[art. 324 CPP|Artículo 324]] — Causales
+- [[art. 325 CPP|Artículo 325]] — Suspensión del procedimiento a prueba
+- [[art. 326 CPP|Artículo 326]] — Condiciones a cumplir durante el período de prueba
+- [[art. 327 CPP|Artículo 327]] — Control judicial en la aplicación del principio de oportunidad
+- [[art. 328 CPP|Artículo 328]] — La participación de las víctimas
+- [[art. 329 CPP|Artículo 329]] — Efectos de la aplicación del principio de oportunidad
+- [[art. 330 CPP|Artículo 330]] — Reglamentación
 
 ---
 ← [[CPP - Libro II - Título IV|Título IV]] · ↑ [[CPP - Libro II|Libro II]] · [[CPP - Libro II - Título VI|Título VI]] →

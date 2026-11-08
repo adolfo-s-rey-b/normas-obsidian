@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "41"
-epigrafe: "ORIENTACION Y CONTROL"
+epigrafe: "Orientación y control"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 40 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 41. ORIENTACION Y CONTROL
+## Artículo 41. Orientación y control
 
 La orientación, control y evaluación general de las actividades de los organismos y entidades administrativas corresponde al Presidente de la República y en su respectivo nivel, a los ministros, los directores de departamento administrativo, los superintendentes, los gobernadores, los alcaldes y los representantes legales de las entidades descentralizadas y sociedades de economía mixta de cualquier nivel administrativo.
 

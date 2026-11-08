@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "283"
-epigrafe: "CONSIGNACIÓN DE SALDOS"
+epigrafe: "Consignación de saldos"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 283. CONSIGNACIÓN DE SALDOS
+## Artículo 283. Consignación de saldos
 
 El rematante deberá consignar el saldo del precio dentro de los cinco (5) días siguientes a la diligencia a órdenes del juzgado de conocimiento, descontada la suma que depositó para hacer postura, y presentar el recibo de pago del impuesto de remate, si existiere el impuesto.
 

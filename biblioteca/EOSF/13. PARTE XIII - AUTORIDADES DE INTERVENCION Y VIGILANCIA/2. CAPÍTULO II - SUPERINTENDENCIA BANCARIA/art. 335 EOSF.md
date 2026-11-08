@@ -10,7 +10,7 @@ sigla: "EOSF"
 articulo: "335"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo II|CAPÍTULO II - SUPERINTENDENCIA BANCARIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 87 Ley 795 de 2003]]"
 anterior: "[[art. 334 EOSF]]"
@@ -25,7 +25,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo II|Capítulo II]]

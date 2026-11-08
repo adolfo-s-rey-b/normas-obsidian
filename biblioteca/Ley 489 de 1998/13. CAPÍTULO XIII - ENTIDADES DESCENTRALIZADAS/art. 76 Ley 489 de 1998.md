@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "76"
-epigrafe: "FUNCIONES DE LOS CONSEJOS DIRECTIVOS DE LOS ESTABLECIMIENTOS PUBLICOS"
+epigrafe: "Funciones de los consejos directivos de los establecimientos públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 75 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 76. FUNCIONES DE LOS CONSEJOS DIRECTIVOS DE LOS ESTABLECIMIENTOS PUBLICOS
+## Artículo 76. Funciones de los consejos directivos de los establecimientos públicos
 
 Corresponde a los consejos directivos de los establecimientos públicos:
 

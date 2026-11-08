@@ -14,7 +14,7 @@ epigrafe: "TARIFA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo V|CAPÍTULO V - IMPUESTO AL PATRIMONIO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 38 Ley 2277 de 2022]]"
   - "[[art. 3 Decreto 173 de 2026]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo V|Capítulo V]]

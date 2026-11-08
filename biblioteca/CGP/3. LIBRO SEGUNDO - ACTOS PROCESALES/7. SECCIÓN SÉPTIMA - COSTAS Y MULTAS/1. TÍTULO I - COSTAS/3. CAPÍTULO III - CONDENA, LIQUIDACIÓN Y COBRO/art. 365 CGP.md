@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "365"
-epigrafe: "CONDENA EN COSTAS"
+epigrafe: "Condena en costas"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título I|TÍTULO I - COSTAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] › [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 365. CONDENA EN COSTAS
+## Artículo 365. Condena en costas
 
 En los procesos y en las actuaciones posteriores a aquellos en que haya controversia la condena en costas se sujetará a las siguientes reglas:
 

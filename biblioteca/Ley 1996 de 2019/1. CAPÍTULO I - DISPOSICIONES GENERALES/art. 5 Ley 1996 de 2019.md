@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "5"
-epigrafe: "CRITERIOS PARA ESTABLECER SALVAGUARDIAS"
+epigrafe: "Criterios para establecer salvaguardias"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 4 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 5. CRITERIOS PARA ESTABLECER SALVAGUARDIAS
+## Artículo 5. Criterios para establecer salvaguardias
 
 Las salvaguardias son todas aquellas medidas adecuadas y efectivas relativas al ejercicio de la capacidad legal, usadas para impedir abusos y garantizar la primacía de la voluntad y preferencias de la persona titular del acto jurídico, de conformidad con el derecho internacional en materia de derechos humanos. Todas estas deberán regirse por los siguientes criterios:
 

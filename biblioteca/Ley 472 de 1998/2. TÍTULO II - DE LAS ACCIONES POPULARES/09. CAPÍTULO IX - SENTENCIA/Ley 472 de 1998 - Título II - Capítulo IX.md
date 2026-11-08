@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 33 Ley 472 de 1998|Artículo 33]] — ALEGATOS
+- [[art. 33 Ley 472 de 1998|Artículo 33]] — Alegatos
 - [[art. 34 Ley 472 de 1998|Artículo 34]] — SENTENCIA
 - [[art. 34A Ley 472 de 1998|Artículo 34A]] — Sentencia en los casos de corrupción
-- [[art. 35 Ley 472 de 1998|Artículo 35]] — EFECTOS DE LA SENTENCIA
+- [[art. 35 Ley 472 de 1998|Artículo 35]] — Efectos de la Sentencia
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo VIII|Capítulo VIII]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo X|Capítulo X]] →

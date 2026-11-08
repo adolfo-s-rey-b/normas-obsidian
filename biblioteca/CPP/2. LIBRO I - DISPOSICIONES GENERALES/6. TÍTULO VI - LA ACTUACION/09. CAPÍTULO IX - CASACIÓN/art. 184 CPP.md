@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "184"
-epigrafe: "ADMISIÓN"
+epigrafe: "Admisión"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 184. ADMISIÓN
+## Artículo 184. Admisión
 
 Vencido el término para interponer el recurso, la demanda se remitirá junto con los antecedentes necesarios a la Sala de Casación Penal de la Corte Suprema de Justicia para que decida dentro de los treinta (30) días siguientes sobre la admisión de la demanda.
 

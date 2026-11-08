@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 57 Ley 1480 de 2011|Artículo 57]] — ATRIBUCIÓN DE FACULTADES JURISDICCIONALES A LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA
-- [[art. 58 Ley 1480 de 2011|Artículo 58]] — PROCEDIMIENTO
+- [[art. 57 Ley 1480 de 2011|Artículo 57]] — Atribución de facultades jurisdiccionales a la Superintendencia Financiera de Colombia
+- [[art. 58 Ley 1480 de 2011|Artículo 58]] — Procedimiento
 
 ---
 ↑ [[Ley 1480 de 2011 - Título VIII - Capítulo I|Capítulo I]]

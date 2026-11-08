@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "163"
-epigrafe: "REANUDACIÓN DEL PROCESO"
+epigrafe: "Reanudación del proceso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo V|Capítulo V]]
 
-## Artículo 163. REANUDACIÓN DEL PROCESO
+## Artículo 163. Reanudación del proceso
 
 La suspensión del proceso por prejudicialidad durará hasta que el juez decrete su reanudación, para lo cual deberá presentarse copia de la providencia ejecutoriada que puso fin al proceso que le dio origen; con todo, si dicha prueba no se aduce dentro de dos (2) años siguientes a la fecha en que empezó la suspensión, el juez de oficio o a petición de parte, decretará la reanudación del proceso, por auto que se notificará por aviso.
 

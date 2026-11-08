@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "130"
-epigrafe: "RECHAZO DE INCIDENTES"
+epigrafe: "Rechazo de incidentes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 130. RECHAZO DE INCIDENTES
+## Artículo 130. Rechazo de incidentes
 
 El juez rechazará de plano los incidentes que no estén expresamente autorizados por este código y los que se promuevan fuera de término o en contravención a lo dispuesto en el artículo [[art. 128 CGP|128]]. También rechazará el incidente cuando no reúna los requisitos formales.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "221"
-epigrafe: "RESPALDO PROBATORIO PARA LOS MOTIVOS FUNDADOS"
+epigrafe: "Respaldo probatorio para los motivos fundados"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 221. RESPALDO PROBATORIO PARA LOS MOTIVOS FUNDADOS
+## Artículo 221. Respaldo probatorio para los motivos fundados
 
 Los motivos fundados de que trata el artículo anterior deberán ser respaldados, al menos, en informe de policía judicial, declaración jurada de testigo o informante, o en elementos materiales probatorios y evidencia física que establezcan con verosimilitud la vinculación del bien por registrar con el delito investigado.
 

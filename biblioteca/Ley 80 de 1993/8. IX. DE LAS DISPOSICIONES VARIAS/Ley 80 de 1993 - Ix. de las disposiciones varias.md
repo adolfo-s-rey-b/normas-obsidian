@@ -20,12 +20,12 @@ tags:
 
 ### Contenido
 
-- [[art. 76 Ley 80 de 1993|Artículo 76]] — DE LOS CONTRATOS DE EXPLORACIÓN Y EXPLOTACIÓN DE LOS RECURSOS NATURALES
-- [[art. 77 Ley 80 de 1993|Artículo 77]] — DE LA NORMATIVIDAD APLICABLE EN LAS ACTUACIONES ADMINISTRATIVAS
-- [[art. 78 Ley 80 de 1993|Artículo 78]] — DE LOS CONTRATOS, PROCEDIMIENTOS Y PROCESOS EN CURSO
-- [[art. 79 Ley 80 de 1993|Artículo 79]] — DE LA REGLAMENTACIÓN DEL REGISTRO DE PROPONENTES
-- [[art. 80 Ley 80 de 1993|Artículo 80]] — DE LA ADECUACIÓN DE ESTATUTOS
-- [[art. 81 Ley 80 de 1993|Artículo 81]] — DE LA DEROGATORIA Y DE LA VIGENCIA
+- [[art. 76 Ley 80 de 1993|Artículo 76]] — De los Contratos de Exploración y Explotación de los Recursos Naturales
+- [[art. 77 Ley 80 de 1993|Artículo 77]] — De la Normatividad aplicable en las actuaciones administrativas
+- [[art. 78 Ley 80 de 1993|Artículo 78]] — De los Contratos Procedimientos y Procesos en curso
+- [[art. 79 Ley 80 de 1993|Artículo 79]] — De la Reglamentación del Registro de Proponentes
+- [[art. 80 Ley 80 de 1993|Artículo 80]] — De la Adecuación de Estatutos
+- [[art. 81 Ley 80 de 1993|Artículo 81]] — De la Derogatoria y de la Vigencia
 
 ---
 ← [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]] · ↑ [[Ley 80 de 1993|Ley 80 de 1993]]

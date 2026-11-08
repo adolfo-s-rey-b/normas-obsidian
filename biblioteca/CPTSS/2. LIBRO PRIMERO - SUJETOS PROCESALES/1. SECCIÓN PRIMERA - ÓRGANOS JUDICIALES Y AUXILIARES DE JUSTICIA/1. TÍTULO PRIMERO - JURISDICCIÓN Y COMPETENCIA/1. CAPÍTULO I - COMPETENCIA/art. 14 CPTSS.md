@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "14"
-epigrafe: "COMPETENCIA EN ASUNTOS SIN CUANTÍA Y EN RAZÓN DE LA NATURALEZA DE LA PRETENSIÓN"
+epigrafe: "Competencia en asuntos sin cuantía y en razón de la naturaleza de la pretensión"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 14. COMPETENCIA EN ASUNTOS SIN CUANTÍA Y EN RAZÓN DE LA NATURALEZA DE LA PRETENSIÓN
+## Artículo 14. Competencia en asuntos sin cuantía y en razón de la naturaleza de la pretensión
 
 De los asuntos que no sean susceptibles de fijación de cuantía, conocerán en primera instancia los jueces laborales del circuito salvo disposición expresa en contrario.
 

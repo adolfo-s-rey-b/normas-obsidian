@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "36"
-epigrafe: "PROHIBICIÓN DE VENTAS ATADAS"
+epigrafe: "Prohibición de ventas atadas"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo I|CAPÍTULO I - PROTECCIÓN ESPECIAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo I|Capítulo I]]
 
-## Artículo 36. PROHIBICIÓN DE VENTAS ATADAS
+## Artículo 36. Prohibición de ventas atadas
 
 Sin perjuicio de las demás normas sobre la materia, para efectos de la presente ley no se podrá condicionar la adquisición de un producto a la adquisición de otros. Tampoco se podrá, condicionar el recibo de un incentivo o premio a la aceptación de un término contractual.
 

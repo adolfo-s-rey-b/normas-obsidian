@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "27"
-epigrafe: "OPORTUNIDAD PARA LA CONSIGNACIÓN"
+epigrafe: "Oportunidad para la consignación"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 27. OPORTUNIDAD PARA LA CONSIGNACIÓN
+## Artículo 27. Oportunidad para la consignación
 
 En firme la regulación de honorarios y gastos, cada parte consignará, dentro de los diez (10) días siguientes, lo que a ella corresponda. El depósito se hará a nombre del presidente del tribunal, quien abrirá para su manejo una cuenta especial en una entidad sujeta a la vigilancia de la Superintendencia Financiera. Dicha cuenta deberá contener la indicación del tribunal arbitral y en ella solo podrán administrarse los recursos de este.
 

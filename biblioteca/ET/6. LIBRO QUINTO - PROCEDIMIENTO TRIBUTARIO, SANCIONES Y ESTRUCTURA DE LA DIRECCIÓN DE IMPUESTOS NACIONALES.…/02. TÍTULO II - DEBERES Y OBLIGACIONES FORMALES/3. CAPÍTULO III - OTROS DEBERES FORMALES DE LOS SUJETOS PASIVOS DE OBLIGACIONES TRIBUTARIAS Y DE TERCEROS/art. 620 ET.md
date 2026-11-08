@@ -14,7 +14,7 @@ epigrafe: "OBLIGACIÓN DE FUNDAMENTARSE EN LA DECLARACIÓN DE RENTA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo III|CAPÍTULO III - OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 2 Ley 1555 de 2012]]"
 anterior: "[[art. 619 ET]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo III|Capítulo III]]

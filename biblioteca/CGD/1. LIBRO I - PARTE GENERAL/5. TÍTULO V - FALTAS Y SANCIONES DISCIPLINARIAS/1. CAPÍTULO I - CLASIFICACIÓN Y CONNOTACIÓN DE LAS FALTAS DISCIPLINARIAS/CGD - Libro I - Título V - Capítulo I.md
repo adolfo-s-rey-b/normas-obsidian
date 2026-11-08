@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 46 CGD|Artículo 46]] — CLASIFICACIÓN DE LAS FALTAS DISCIPLINARIAS
-- [[art. 47 CGD|Artículo 47]] — CRITERIOS PARA DETERMINAR LA GRAVEDAD O LEVEDAD DE LA FALTA DISCIPLINARIA
+- [[art. 46 CGD|Artículo 46]] — Clasificación de las faltas disciplinarias
+- [[art. 47 CGD|Artículo 47]] — Criterios para determinar la gravedad o levedad de la falta disciplinaria
 
 ---
 ↑ [[CGD - Libro I - Título V|Título V]] · [[CGD - Libro I - Título V - Capítulo II|Capítulo II]] →

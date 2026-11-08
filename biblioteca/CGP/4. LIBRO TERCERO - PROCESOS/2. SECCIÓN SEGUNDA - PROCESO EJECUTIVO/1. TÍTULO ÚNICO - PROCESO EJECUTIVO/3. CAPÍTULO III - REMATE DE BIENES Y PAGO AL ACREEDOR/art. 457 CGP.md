@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "457"
-epigrafe: "REPETICIÓN DEL REMATE Y REMATE DESIERTO"
+epigrafe: "Repetición del remate y remate desierto"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 457. REPETICIÓN DEL REMATE Y REMATE DESIERTO
+## Artículo 457. Repetición del remate y remate desierto
 
 Siempre que se impruebe o se declare sin valor el remate se procederá a repetirlo y será postura admisible la misma que rigió para el anterior.
 

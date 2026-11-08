@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "482"
-epigrafe: "LAS PERSONAS EXENTAS POR LEY DE OTROS IMPUESTOS NO LO ESTAN DEL IMPUESTO SOBRE LAS VENTAS"
+epigrafe: "LAS PERSONAS EXENTAS POR LEY DE OTROS IMPUESTOS NO LO ESTÁN DEL IMPUESTO SOBRE LAS VENTAS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título VI|TÍTULO VI - BIENES EXENTOS]]"
 rubro: "[[ET - Libro Tercero - Título VI - Bienes exentos por su destinación o uso|BIENES EXENTOS POR SU DESTINACIÓN O USO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título VI|Título VI]] › [[ET - Libro Tercero - Título VI - Bienes exentos por su destinación o uso|Bienes exentos por su destinación o uso]]
 
-## Artículo 482. LAS PERSONAS EXENTAS POR LEY DE OTROS IMPUESTOS NO LO ESTAN DEL IMPUESTO SOBRE LAS VENTAS
+## Artículo 482. LAS PERSONAS EXENTAS POR LEY DE OTROS IMPUESTOS NO LO ESTÁN DEL IMPUESTO SOBRE LAS VENTAS
 
 (Fuente original compilada: D.1988/74 Art. [[art. 9 ET|9]]o.) Las personas declaradas por ley exentas de pagar impuestos nacionales, departamentales o municipales, no están exentas del impuesto sobre las ventas.
 

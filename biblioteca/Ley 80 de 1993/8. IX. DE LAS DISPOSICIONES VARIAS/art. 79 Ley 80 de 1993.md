@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "79"
-epigrafe: "DE LA REGLAMENTACIÓN DEL REGISTRO DE PROPONENTES"
+epigrafe: "De la Reglamentación del Registro de Proponentes"
 rubro: "[[Ley 80 de 1993 - Ix. de las disposiciones varias|IX. DE LAS DISPOSICIONES VARIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 78 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ix. de las disposiciones varias|Ix. de las disposiciones varias]]
 
-## Artículo 79. DE LA REGLAMENTACIÓN DEL REGISTRO DE PROPONENTES
+## Artículo 79. De la Reglamentación del Registro de Proponentes
 
 El funcionamiento del registro de proponentes en las cámaras de comercio, será reglamentado por el Gobierno Nacional dentro de los seis (6) meses siguientes a la promulgación de la presente ley.
 

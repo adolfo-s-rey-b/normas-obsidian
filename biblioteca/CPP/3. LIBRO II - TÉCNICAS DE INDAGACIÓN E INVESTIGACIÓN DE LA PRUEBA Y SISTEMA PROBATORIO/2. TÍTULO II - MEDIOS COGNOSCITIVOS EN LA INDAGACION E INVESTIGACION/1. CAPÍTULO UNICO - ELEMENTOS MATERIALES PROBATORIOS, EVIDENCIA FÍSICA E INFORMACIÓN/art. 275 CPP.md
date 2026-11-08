@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "275"
-epigrafe: "ELEMENTOS MATERIALES PROBATORIOS Y EVIDENCIA FÍSICA"
+epigrafe: "Elementos materiales probatorios y evidencia física"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo Unico|CAPÍTULO UNICO - ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 275. ELEMENTOS MATERIALES PROBATORIOS Y EVIDENCIA FÍSICA
+## Artículo 275. Elementos materiales probatorios y evidencia física
 
 Para efectos de este código se entiende por elementos materiales probatorios y evidencia física, los siguientes:
 

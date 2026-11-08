@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "77"
-epigrafe: "PUBLICACIÓN PROYECTOS DE INVERSIÓN"
+epigrafe: "Publicación proyectos de inversión"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VI|CAPÍTULO VI - POLÍTICAS INSTITUCIONALES Y PEDAGÓGICAS]]"
 vigencia: "vigente"
 anterior: "[[art. 76 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]]
 
-## Artículo 77. PUBLICACIÓN PROYECTOS DE INVERSIÓN
+## Artículo 77. Publicación proyectos de inversión
 
 Sin perjuicio de lo ordenado en los artículos [[art. 27 Ley 152 de 1994|27]] y [[art. 49 Ley 152 de 1994|49]] de la Ley 152 de 1994 y como mecanismo de mayor transparencia en la contratación pública, todas las entidades del orden nacional, departamental, municipal y distrital deberán publicar en sus respectivas páginas web cada proyecto de inversión, ordenado según la fecha de inscripción en el Banco de Programas y Proyectos de Inversión nacional, departamental, municipal o distrital, según el caso.
 

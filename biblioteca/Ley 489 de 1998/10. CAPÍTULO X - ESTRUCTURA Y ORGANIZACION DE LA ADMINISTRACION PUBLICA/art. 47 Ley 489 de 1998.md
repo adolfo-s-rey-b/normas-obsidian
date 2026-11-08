@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "47"
-epigrafe: "CONSEJO DE MINISTROS"
+epigrafe: "Consejo de Ministros"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 46 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 47. CONSEJO DE MINISTROS
+## Artículo 47. Consejo de Ministros
 
 El Consejo de Ministros estará conformado por todos los Ministros convocados por el Presidente de la República. Mediante convocatoria expresa podrán concurrir también los directores de departamento administrativo, así como los demás funcionarios o particulares que considere pertinente el Presidente de la República.
 

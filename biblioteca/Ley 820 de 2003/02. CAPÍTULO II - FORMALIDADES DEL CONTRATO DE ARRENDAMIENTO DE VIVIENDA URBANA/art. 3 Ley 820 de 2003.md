@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "3"
-epigrafe: "FORMA DEL CONTRATO"
+epigrafe: "Forma del contrato"
 capitulo: "[[Ley 820 de 2003 - Capítulo II|CAPÍTULO II - FORMALIDADES DEL CONTRATO DE ARRENDAMIENTO DE VIVIENDA URBANA]]"
 vigencia: "vigente"
 anterior: "[[art. 2 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo II|Capítulo II]]
 
-## Artículo 3. FORMA DEL CONTRATO
+## Artículo 3. Forma del contrato
 
 El contrato de arrendamiento para vivienda urbana puede ser verbal o escrito. En uno u otro caso, las partes deben ponerse de acuerdo al menos acerca de los siguientes puntos:
 

@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "314"
-epigrafe: "SUSTITUCIÓN DE LA DETENCIÓN PREVENTIVA"
+epigrafe: "Sustitución de la detención preventiva"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 27 Ley 1142 de 2007]]"
   - "[[art. 22 CP]]"
@@ -36,12 +36,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 314. SUSTITUCIÓN DE LA DETENCIÓN PREVENTIVA
+## Artículo 314. Sustitución de la detención preventiva
 
 La detención preventiva en establecimiento carcelario podrá sustituirse por la del lugar de la residencia en los siguientes eventos:
 

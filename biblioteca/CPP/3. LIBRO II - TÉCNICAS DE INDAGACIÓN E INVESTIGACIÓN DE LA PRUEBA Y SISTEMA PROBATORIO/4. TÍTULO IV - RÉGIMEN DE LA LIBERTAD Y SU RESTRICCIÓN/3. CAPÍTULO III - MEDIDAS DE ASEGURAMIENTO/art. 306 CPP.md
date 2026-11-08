@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "306"
-epigrafe: "SOLICITUD DE IMPOSICIÓN DE MEDIDA DE ASEGURAMIENTO"
+epigrafe: "Solicitud de imposición de medida de aseguramiento"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 306. SOLICITUD DE IMPOSICIÓN DE MEDIDA DE ASEGURAMIENTO
+## Artículo 306. Solicitud de imposición de medida de aseguramiento
 
 El fiscal solicitará al Juez de Control de Garantías imponer medida de aseguramiento, indicando la persona, el delito, los elementos de conocimiento necesarios para sustentar la medida y su urgencia, los cuales se evaluarán en audiencia permitiendo a la defensa la controversia pertinente.
 

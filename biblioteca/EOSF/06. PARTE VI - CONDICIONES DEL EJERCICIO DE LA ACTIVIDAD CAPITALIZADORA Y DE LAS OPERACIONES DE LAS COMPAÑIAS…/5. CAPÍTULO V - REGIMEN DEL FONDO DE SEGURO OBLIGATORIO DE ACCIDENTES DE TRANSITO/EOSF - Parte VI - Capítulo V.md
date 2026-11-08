@@ -24,7 +24,7 @@ tags:
 
 - [[art. 198 EOSF|Artículo 198]] — CREACIÓN
 - [[art. 199 EOSF|Artículo 199]] — ASPECTOS GENERALES
-- [[art. 200 EOSF|Artículo 200]] — ORGANOS DE DIRECCION Y CONTROL
+- [[art. 200 EOSF|Artículo 200]] — Órganos de Dirección y Control
 
 ---
 ← [[EOSF - Parte VI - Capítulo IV|Capítulo IV]] · ↑ [[EOSF - Parte VI|Parte VI]] · [[EOSF - Parte VI - Capítulo VI|Capítulo VI]] →

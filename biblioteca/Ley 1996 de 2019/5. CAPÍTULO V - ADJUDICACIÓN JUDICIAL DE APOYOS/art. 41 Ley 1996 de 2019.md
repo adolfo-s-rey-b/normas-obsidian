@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "41"
-epigrafe: "EVALUACIÓN DE DESEMPEÑO DE LOS APOYOS ADJUDICADOS JUDICIALMENTE"
+epigrafe: "Evaluación de desempeño de los apoyos adjudicados judicialmente"
 capitulo: "[[Ley 1996 de 2019 - Capítulo V|CAPÍTULO V - ADJUDICACIÓN JUDICIAL DE APOYOS]]"
 vigencia: "vigente"
 anterior: "[[art. 40 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo V|Capítulo V]]
 
-## Artículo 41. EVALUACIÓN DE DESEMPEÑO DE LOS APOYOS ADJUDICADOS JUDICIALMENTE
+## Artículo 41. Evaluación de desempeño de los apoyos adjudicados judicialmente
 
 Al término de cada año desde la ejecutoria de la sentencia de adjudicación de apoyos, la persona o personas de apoyo deberán realizar un balance en el cual se exhibirá a la persona titular de los actos ejecutados y al Juez:
 
@@ -36,7 +36,7 @@ Al término de cada año desde la ejecutoria de la sentencia de adjudicación de
 
 **PARÁGRAFO.** Quienes estén interesados en ser citados a participar de la gestión de apoyos deberán informar al Juez a más tardar diez (10) días hábiles antes del cierre del año del que trata el inciso anterior, a efectos de que el Juez les comunique la fecha de la audiencia. El no solicitar oportunamente la convocatoria, releva al Juez de la carga de citar al o a las personas interesadas, lo que no impide su participación en la audiencia.
 
-> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo [[art. 52 Ley 1996 de 2019|52]] , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
+> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo 52 , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-022-21 , mediante Sentencia C-118-21 de 29 de abril de 2021, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado. - Ley declarada EXEQUIBLE, por el cargo de reserva de ley estatutaria sobre la integralidad de la Ley, por la Corte Constitucional mediante Sentencia C-022-21 de 4 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 

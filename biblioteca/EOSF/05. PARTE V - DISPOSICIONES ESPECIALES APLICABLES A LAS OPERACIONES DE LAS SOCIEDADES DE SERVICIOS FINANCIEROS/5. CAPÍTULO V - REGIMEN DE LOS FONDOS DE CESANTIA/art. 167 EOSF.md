@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "167"
-epigrafe: "DISPOSICIONES RELATIVAS A LA CESION DE FONDOS ADMINISTRADOS"
+epigrafe: "Disposiciones Relativas a la Cesión de Fondos Administrados"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 167. DISPOSICIONES RELATIVAS A LA CESION DE FONDOS ADMINISTRADOS
+## Artículo 167. Disposiciones Relativas a la Cesión de Fondos Administrados
 
 1\. Cesión de fondos administrados. Las Sociedades Administradoras de Fondos de Pensiones y de Cesantía, por decisión de su Junta Directiva, podrán ceder los fondos por ellas administrados a otra entidad de igual naturaleza, en los términos señalados en los numerales siguientes.
 

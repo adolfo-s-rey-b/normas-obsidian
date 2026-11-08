@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "61"
-epigrafe: "IMPROCEDENCIA DEL IMPEDIMENTO Y DE LA RECUSACIÓN"
+epigrafe: "Improcedencia del impedimento y de la recusación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 61. IMPROCEDENCIA DEL IMPEDIMENTO Y DE LA RECUSACIÓN
+## Artículo 61. Improcedencia del impedimento y de la recusación
 
 No son recusables los funcionarios judiciales a quienes corresponda decidir el incidente. No habrá lugar a recusación cuando el motivo de impedimento surja del cambio de defensor de una de las partes, a menos que la formule la parte contraria o el Ministerio Público.
 

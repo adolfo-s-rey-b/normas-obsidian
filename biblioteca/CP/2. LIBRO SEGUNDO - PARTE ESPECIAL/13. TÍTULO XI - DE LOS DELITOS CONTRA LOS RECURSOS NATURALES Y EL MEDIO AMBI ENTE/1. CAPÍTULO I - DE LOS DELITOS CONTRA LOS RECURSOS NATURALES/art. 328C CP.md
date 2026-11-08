@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "328C"
-epigrafe: "PESCA ILEGAL"
+epigrafe: "Pesca ilegal"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 328C. PESCA ILEGAL
+## Artículo 328C. Pesca ilegal
 
 El que sin permiso de autoridad competente o con incumplimiento de la normatividad existente, realice actividad de pesca, comercialice, transporte, procese o almacene ejemplares o productos de especies vedadas, protegidas, en cualquier categoría de amenaza, o en áreas de reserva, o en épocas vedadas, o en zona prohibida, incurrirá, sin perjuicio de las sanciones administrativas a las que hubiere lugar, en prisión de cuarenta y ocho (48) a ciento ocho (108) meses y multa de ciento treinta y cuatro (134) a cincuenta mil (50.000) salarios mínimos legales mensuales vigentes.
 

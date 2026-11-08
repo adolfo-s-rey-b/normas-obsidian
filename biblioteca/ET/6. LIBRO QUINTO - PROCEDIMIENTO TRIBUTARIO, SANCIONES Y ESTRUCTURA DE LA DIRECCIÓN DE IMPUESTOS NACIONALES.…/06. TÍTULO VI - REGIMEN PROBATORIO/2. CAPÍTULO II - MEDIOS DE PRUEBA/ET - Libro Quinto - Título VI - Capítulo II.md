@@ -24,7 +24,7 @@ tags:
 ### Contenido
 
 - [[art. 747 ET|Artículo 747]] — HECHOS QUE SE CONSIDERAN CONFESADOS
-- [[art. 748 ET|Artículo 748]] — CONFESION FICTA O PRESUNTA
+- [[art. 748 ET|Artículo 748]] — CONFESIÓN FICTA O PRESUNTA
 - [[art. 749 ET|Artículo 749]] — INDIVISIBILIDAD DE LA CONFESIÓN
 - [[ET - Libro Quinto - Título VI - Capítulo II - Testimonio|TESTIMONIO]] (arts. 750 a 753)
 - [[ET - Libro Quinto - Título VI - Capítulo II - Indicios y presunciones|INDICIOS Y PRESUNCIONES]] (arts. 754 a 755-3)

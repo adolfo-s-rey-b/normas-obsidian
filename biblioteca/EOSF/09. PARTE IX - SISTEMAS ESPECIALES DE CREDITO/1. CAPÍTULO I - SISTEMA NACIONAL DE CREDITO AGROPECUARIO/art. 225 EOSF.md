@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "225"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 225. VIGILANCIA Y CONTROL
+## Artículo 225. Vigilancia y Control
 
 (Fuente Ley 16/90; Art. [[art. 38 EOSF|38]]) Sin perjuicio de las funciones que para fines de vigilancia de las entidades financieras le han sido asignadas, la Superintendencia Bancaria controlará el cumplimiento de las obligaciones especiales de las entidades que integran el Sistema Nacional de Crédito Agropecuario e impondrá las sanciones a que hubiere lugar en caso de incumplimiento de tales obligaciones.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "31"
-epigrafe: "NATURALEZA DE LOS CARGOS"
+epigrafe: "Naturaleza de los cargos"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Cuarto|TÍTULO CUARTO - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Cuarto|Título Cuarto]]
 
-## Artículo 31. NATURALEZA DE LOS CARGOS
+## Artículo 31. Naturaleza de los cargos
 
 Los cargos de auxiliares de la justicia son oficios públicos ocasionales que deben ser desempeñados por personas idóneas e imparciales. Para cada oficio se requerirá idoneidad y experiencia en la respectiva materia y, cuando fuere el caso, garantía de su responsabilidad y cumplimiento.
 

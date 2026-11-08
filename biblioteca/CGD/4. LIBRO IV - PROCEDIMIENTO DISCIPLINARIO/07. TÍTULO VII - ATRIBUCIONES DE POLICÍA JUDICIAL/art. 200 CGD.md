@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "200"
-epigrafe: "ATRIBUCIONES DE POLICÍA JUDICIAL"
+epigrafe: "Atribuciones de policía judicial"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VII|TÍTULO VII - ATRIBUCIONES DE POLICÍA JUDICIAL]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VII|Título VII]]
 
-## Artículo 200. ATRIBUCIONES DE POLICÍA JUDICIAL
+## Artículo 200. Atribuciones de policía judicial
 
 En desarrollo de las atribuciones de policía judicial, en los términos del artículo [[art. 277 CPol|277]] de la Constitución Política, solo el Procurador General de la Nación podrá de oficio o a solicitud de la autoridad disciplinaria, debidamente motivada, ejercer estas funciones.
 

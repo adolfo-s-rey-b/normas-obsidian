@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 162 CPACA|Artículo 162]] — CONTENIDO DE LA DEMANDA
-- [[art. 163 CPACA|Artículo 163]] — INDIVIDUALIZACIÓN DE LAS PRETENSIONES
-- [[art. 164 CPACA|Artículo 164]] — OPORTUNIDAD PARA PRESENTAR LA DEMANDA
-- [[art. 165 CPACA|Artículo 165]] — ACUMULACIÓN DE PRETENSIONES
-- [[art. 166 CPACA|Artículo 166]] — ANEXOS DE LA DEMANDA
-- [[art. 167 CPACA|Artículo 167]] — NORMAS JURÍDICAS DE ALCANCE NO NACIONAL
+- [[art. 162 CPACA|Artículo 162]] — Contenido de la demanda
+- [[art. 163 CPACA|Artículo 163]] — Individualización de las pretensiones
+- [[art. 164 CPACA|Artículo 164]] — Oportunidad para presentar la demanda
+- [[art. 165 CPACA|Artículo 165]] — Acumulación de pretensiones
+- [[art. 166 CPACA|Artículo 166]] — Anexos de la demanda
+- [[art. 167 CPACA|Artículo 167]] — Normas jurídicas de alcance no nacional
 
 ---
 ← [[CPACA - Parte Segunda - Título V - Capítulo II|Capítulo II]] · ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "10"
-epigrafe: "GRATUIDAD"
+epigrafe: "Gratuidad"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 9 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 10. GRATUIDAD
+## Artículo 10. Gratuidad
 
 El servicio de justicia que presta el Estado será gratuito, sin perjuicio del arancel judicial y de las costas procesales.
 

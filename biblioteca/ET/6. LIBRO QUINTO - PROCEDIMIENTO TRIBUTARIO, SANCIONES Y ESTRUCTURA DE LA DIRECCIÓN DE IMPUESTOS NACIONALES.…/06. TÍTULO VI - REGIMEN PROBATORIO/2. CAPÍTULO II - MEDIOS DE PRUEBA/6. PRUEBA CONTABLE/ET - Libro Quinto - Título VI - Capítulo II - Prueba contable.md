@@ -30,7 +30,7 @@ tags:
 - [[art. 774 ET|Artículo 774]] — REQUISITOS PARA QUE LA CONTABILIDAD CONSTITUYA PRUEBA
 - [[art. 775 ET|Artículo 775]] — PREVALENCIA DE LOS LIBROS DE CONTABILIDAD FRENTE A LA DECLARACIÓN
 - [[art. 776 ET|Artículo 776]] — PREVALENCIA DE LOS COMPROBANTES SOBRE LOS ASIENTOS DE CONTABILIDAD
-- [[art. 777 ET|Artículo 777]] — LA CERTIFICACIÓN DE CONTADOR PUBLICO Y REVISOR FISCAL ES PRUEBA CONTABLE
+- [[art. 777 ET|Artículo 777]] — LA CERTIFICACIÓN DE CONTADOR PÚBLICO Y REVISOR FISCAL ES PRUEBA CONTABLE
 
 ---
 ← [[ET - Libro Quinto - Título VI - Capítulo II - Prueba documental|Prueba documental]] · ↑ [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] · [[ET - Libro Quinto - Título VI - Capítulo II - Inspecciones tributarias|Inspecciones tributarias]] →

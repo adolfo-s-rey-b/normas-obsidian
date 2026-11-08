@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "101"
-epigrafe: "TRANSFORMACION DE LAS SOCIEDADES EN EMPRESAS"
+epigrafe: "Transformación de las sociedades en empresas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIV|CAPÍTULO XIV - SOCIEDADES DE ECONOMIA MIXTA]]"
 vigencia: "vigente"
 anterior: "[[art. 100 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 101. TRANSFORMACION DE LAS SOCIEDADES EN EMPRESAS
+## Artículo 101. Transformación de las sociedades en empresas
 
 Cuando las acciones o cuotas sociales en poder de particulares sean transferidas a una o varias entidades públicas, la sociedad se convertirá, sin necesidad de liquidación previa, en empresa industrial y comercial o en Sociedad entre entidades públicas. Los correspondientes órganos directivos de la entidad procederán a modificar los estatutos internos en la forma a que hubiere lugar.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "363"
-epigrafe: "HONORARIOS DE AUXILIARES DE LA JUSTICIA Y SU COBRO EJECUTIVO"
+epigrafe: "Honorarios de auxiliares de la justicia y su cobro ejecutivo"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título I|TÍTULO I - COSTAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] › [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 363. HONORARIOS DE AUXILIARES DE LA JUSTICIA Y SU COBRO EJECUTIVO
+## Artículo 363. Honorarios de auxiliares de la justicia y su cobro ejecutivo
 
 El juez, de conformidad con los parámetros que fije el Consejo Superior de la Judicatura y las tarifas establecidas por las entidades especializadas, señalará los honorarios de los auxiliares de la justicia, cuando hayan finalizado su cometido, o una vez aprobadas las cuentas mediante el trámite correspondiente si quien desempeña el cargo estuviere obligado a rendirlas. En el auto que señale los honorarios se determinará a quién corresponde pagarlos.
 

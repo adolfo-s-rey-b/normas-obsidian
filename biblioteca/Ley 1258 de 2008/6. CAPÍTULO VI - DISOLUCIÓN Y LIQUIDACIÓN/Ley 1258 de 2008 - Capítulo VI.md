@@ -20,9 +20,9 @@ tags:
 
 ### Contenido
 
-- [[art. 34 Ley 1258 de 2008|Artículo 34]] — DISOLUCIÓN Y LIQUIDACIÓN
-- [[art. 35 Ley 1258 de 2008|Artículo 35]] — ENERVAMIENTO DE CAUSALES DE DISOLUCIÓN
-- [[art. 36 Ley 1258 de 2008|Artículo 36]] — LIQUIDACIÓN
+- [[art. 34 Ley 1258 de 2008|Artículo 34]] — Disolución y liquidación
+- [[art. 35 Ley 1258 de 2008|Artículo 35]] — Enervamiento de causales de disolución
+- [[art. 36 Ley 1258 de 2008|Artículo 36]] — Liquidación
 
 ---
 ← [[Ley 1258 de 2008 - Capítulo V|Capítulo V]] · ↑ [[Ley 1258 de 2008|Ley 1258 de 2008]] · [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] →

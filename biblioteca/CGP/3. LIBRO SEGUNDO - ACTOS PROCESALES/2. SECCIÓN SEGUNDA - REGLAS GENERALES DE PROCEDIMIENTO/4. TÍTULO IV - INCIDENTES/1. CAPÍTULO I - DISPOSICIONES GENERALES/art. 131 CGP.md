@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "131"
-epigrafe: "CUESTIONES ACCESORIAS QUE SE SUSCITEN EN EL CURSO DE UN INCIDENTE"
+epigrafe: "Cuestiones accesorias que se susciten en el curso de un incidente"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 131. CUESTIONES ACCESORIAS QUE SE SUSCITEN EN EL CURSO DE UN INCIDENTE
+## Artículo 131. Cuestiones accesorias que se susciten en el curso de un incidente
 
 Cualquier cuestión accesoria que se suscite en el trámite de un incidente se resolverá dentro del mismo, para lo cual el juez podrá ordenar la práctica de pruebas.
 

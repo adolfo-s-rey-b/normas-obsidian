@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "358"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 358. TRÁMITE
+## Artículo 358. Trámite
 
 La Corte o el tribunal que reciba la demanda examinará si reúne los requisitos exigidos en los dos artículos precedentes, y si los encuentra cumplidos solicitará el expediente a la oficina en que se halle. Pero si estuviere pendiente la ejecución de la sentencia, aquel sólo se remitirá previa expedición, a costa del recurrente, de copia de lo necesario para su cumplimiento. Con tal fin, este suministrará en el término de diez (10) días, contados desde el siguiente a la notificación del auto que ordene remitir el expediente, lo necesario para que se compulse dicha copia, so pena de que se declare desierto el recurso. Recibido el expediente se resolverá sobre la admisión de la demanda y las medidas cautelares que en ella se soliciten.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "202"
-epigrafe: "CAUSALES DE NULIDAD"
+epigrafe: "Causales de nulidad"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VIII|TÍTULO VIII - NULIDADES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VIII|Título VIII]]
 
-## Artículo 202. CAUSALES DE NULIDAD
+## Artículo 202. Causales de nulidad
 
 Son causales de nulidad las siguientes:
 

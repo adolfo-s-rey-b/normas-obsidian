@@ -11,7 +11,7 @@ articulo: "162"
 epigrafe: "EXCEPCIONES EN DETERMINADAS ACTIVIDADES"
 titulo: "[[CST - Título VI|TÍTULO VI - JORNADA DE TRABAJO]]"
 capitulo: "[[CST - Título VI - Capítulo II|CAPÍTULO II - JORNADA MAXIMA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 12 Ley 2466 de 2025]]"
   - "[[art. 1 Ley 73 de 1966]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título VI|Título VI]] › [[CST - Título VI - Capítulo II|Capítulo II]]

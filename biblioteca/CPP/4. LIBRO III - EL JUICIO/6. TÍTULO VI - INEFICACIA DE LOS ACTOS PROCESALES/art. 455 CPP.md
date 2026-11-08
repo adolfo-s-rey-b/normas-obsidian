@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "455"
-epigrafe: "NULIDAD DERIVADA DE LA PRUEBA ILÍCITA"
+epigrafe: "Nulidad derivada de la prueba ilícita"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título VI|TÍTULO VI - INEFICACIA DE LOS ACTOS PROCESALES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título VI|Título VI]]
 
-## Artículo 455. NULIDAD DERIVADA DE LA PRUEBA ILÍCITA
+## Artículo 455. Nulidad derivada de la prueba ilícita
 
 Para los efectos del artículo [[art. 23 CPP|23]] se deben considerar, al respecto, los siguientes criterios: el vínculo atenuado, la fuente independiente, el descubrimiento inevitable y los demás que establezca la ley.
 

@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 256 CGD|Artículo 256]] — COMPETENCIA
-- [[art. 257 CGD|Artículo 257]] — DEBERES, PROHIBICIONES, INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES
-- [[art. 258 CGD|Artículo 258]] — FALTAS GRAVÍSIMAS
-- [[art. 259 CGD|Artículo 259]] — FALTAS GRAVES Y LEVES, SANCIONES Y CRITERIOS PARA GRADUARLAS
+- [[art. 256 CGD|Artículo 256]] — Competencia
+- [[art. 257 CGD|Artículo 257]] — Deberes, prohibiciones, inhabilidades, impedimentos, incompatibilidades y conflicto de intereses
+- [[art. 258 CGD|Artículo 258]] — Faltas gravísimas
+- [[art. 259 CGD|Artículo 259]] — Faltas graves y leves, sanciones y criterios para graduarlas
 
 ---
 ← [[CGD - Libro IV - Título XI - Capítulo VII|Capítulo VII]] · ↑ [[CGD - Libro IV - Título XI|Título XI]] · [[CGD - Libro IV - Título XI - Capítulo IX|Capítulo IX]] →

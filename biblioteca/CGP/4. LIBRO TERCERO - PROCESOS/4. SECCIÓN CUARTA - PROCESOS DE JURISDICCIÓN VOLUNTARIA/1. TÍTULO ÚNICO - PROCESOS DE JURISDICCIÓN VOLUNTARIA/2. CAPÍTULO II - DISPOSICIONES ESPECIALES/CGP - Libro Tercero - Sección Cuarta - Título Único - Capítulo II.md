@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 581 CGP|Artículo 581]] — LICENCIAS O AUTORIZACIONES
-- [[art. 582 CGP|Artículo 582]] — RECONOCIMIENTO DEL GUARDADOR TESTAMENTARIO Y POSESIÓN DEL CARGO
-- [[art. 583 CGP|Artículo 583]] — DECLARACIÓN DE AUSENCIA
-- [[art. 584 CGP|Artículo 584]] — PRESUNCIÓN DE MUERTE POR DESAPARECIMIENTO
-- [[art. 585 CGP|Artículo 585]] — DEMANDA PARA TRÁMITE SIMULTÁNEO DE DECLARACIÓN DE AUSENCIA Y DE MUERTE POR DESAPARECIMIENTO
-- [[art. 586 CGP|Artículo 586]] — ADJUDICACIÓN DE APOYOS EN LA TOMA DE DECISIONES PROMOVIDO POR LA PERSONA TITULAR DEL ACTO JURÍDICO
-- [[art. 587 CGP|Artículo 587]] — MODIFICACIÓN Y TERMINACIÓN DE LA ADJUDICACIÓN DE APOYOS
+- [[art. 581 CGP|Artículo 581]] — Licencias o autorizaciones
+- [[art. 582 CGP|Artículo 582]] — Reconocimiento del guardador testamentario y posesión del cargo
+- [[art. 583 CGP|Artículo 583]] — Declaración de ausencia
+- [[art. 584 CGP|Artículo 584]] — Presunción de muerte por desaparecimiento
+- [[art. 585 CGP|Artículo 585]] — Demanda para trámite simultáneo de declaración de ausencia y de muerte por desaparecimiento
+- [[art. 586 CGP|Artículo 586]] — Adjudicación de apoyos en la toma de decisiones promovido por la persona titular del acto jurídico
+- [[art. 587 CGP|Artículo 587]] — Modificación y terminación de la adjudicación de apoyos
 
 ---
 ← [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]]

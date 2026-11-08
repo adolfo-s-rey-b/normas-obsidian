@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 69 CPTSS|Artículo 69]] — FORMA Y REQUISITOS DE LA CONTESTACIÓN DE LA DEMANDA
-- [[art. 70 CPTSS|Artículo 70]] — ALLANAMIENTO A LA DEMANDA
-- [[art. 71 CPTSS|Artículo 71]] — INEFICACIA DEL ALLANAMIENTO
-- [[art. 72 CPTSS|Artículo 72]] — PROCEDIMIENTO EN CASO DE CONTUMACIA
+- [[art. 69 CPTSS|Artículo 69]] — Forma y requisitos de la contestación de la demanda
+- [[art. 70 CPTSS|Artículo 70]] — Allanamiento a la demanda
+- [[art. 71 CPTSS|Artículo 71]] — Ineficacia del allanamiento
+- [[art. 72 CPTSS|Artículo 72]] — Procedimiento en caso de contumacia
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo III|Capítulo III]] →

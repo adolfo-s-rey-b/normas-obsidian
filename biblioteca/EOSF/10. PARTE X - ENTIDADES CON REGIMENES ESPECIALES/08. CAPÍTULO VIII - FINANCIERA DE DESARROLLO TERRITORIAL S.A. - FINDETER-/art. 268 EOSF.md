@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "268"
-epigrafe: "ORGANIZACION"
+epigrafe: "Organización"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VIII|CAPÍTULO VIII - FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER-]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 16 EOSF]]"
 derogado_por:
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 268. ORGANIZACION
+## Artículo 268. Organización
 
 1\. Naturaleza jurídica. La Financiera de Desarrollo Territorial S.A., Findeter, creada por la Ley 57 de 1989, es una sociedad por acciones, con domicilio principal en la ciudad de Santa Fé de Bogotá, organizada de conformidad con lo dispuesto en el artículo [[art. 4 EOSF|4]]o. del Decreto Extraordinario 130 de 1976 y vinculada al Ministerio de Hacienda y Crédito Público.
 

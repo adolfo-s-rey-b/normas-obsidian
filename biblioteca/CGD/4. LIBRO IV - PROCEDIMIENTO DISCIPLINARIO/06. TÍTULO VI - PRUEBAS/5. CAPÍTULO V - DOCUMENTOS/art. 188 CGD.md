@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "188"
-epigrafe: "APORTE"
+epigrafe: "Aporte"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo V|CAPÍTULO V - DOCUMENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 188. APORTE
+## Artículo 188. Aporte
 
 Los documentos se aportarán en original o copia y, solo de ser necesario, se adelantarán las diligencias tendientes a verificar su autenticidad.
 

@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 109 CPP|Artículo 109]] — EL MINISTERIO PÚBLICO
-- [[art. 110 CPP|Artículo 110]] — DE LA AGENCIA ESPECIAL
-- [[art. 111 CPP|Artículo 111]] — FUNCIONES DEL MINISTERIO PÚBLICO
-- [[art. 112 CPP|Artículo 112]] — ACTIVIDAD PROBATORIA
+- [[art. 109 CPP|Artículo 109]] — El Ministerio Público
+- [[art. 110 CPP|Artículo 110]] — De la agencia especial
+- [[art. 111 CPP|Artículo 111]] — Funciones del Ministerio Público
+- [[art. 112 CPP|Artículo 112]] — Actividad probatoria
 
 ---
 ← [[CPP - Libro I - Título II|Título II]] · ↑ [[CPP - Libro I|Libro I]] · [[CPP - Libro I - Título IV|Título IV]] →

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "83"
-epigrafe: "BIENES MUEBLES PARA USO DOMÉSTICO"
+epigrafe: "Bienes muebles para uso doméstico"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 rubro: "[[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 83. BIENES MUEBLES PARA USO DOMÉSTICO
+## Artículo 83. Bienes muebles para uso doméstico
 
 Se considerarán bienes muebles para uso doméstico todos los electrodomésticos, gasodomésticos, artefactos que funcionan con combustible, equipos de computación, y muebles en general, destinados para el hogar. En las operaciones de compra y venta de los mencionados bienes el precio por pago de contado deberá ser igual al precio por pago a crédito. En este último caso adicionando el valor del costo de la financiación pactada.
 

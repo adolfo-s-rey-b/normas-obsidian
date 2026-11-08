@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "318"
-epigrafe: "DIRECCION Y ADMINISTRACION"
+epigrafe: "Dirección y Administración"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 318. DIRECCION Y ADMINISTRACION
+## Artículo 318. Dirección y Administración
 
 1\. Junta directiva. La junta directiva del Fondo de garantías de Instituciones Financieras estará compuesta así:
 

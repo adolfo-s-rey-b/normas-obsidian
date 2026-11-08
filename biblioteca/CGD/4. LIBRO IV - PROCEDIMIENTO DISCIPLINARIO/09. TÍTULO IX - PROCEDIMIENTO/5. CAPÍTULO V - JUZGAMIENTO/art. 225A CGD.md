@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225A"
-epigrafe: "FIJACIÓN DEL JUZGAMIENTO A SEGUIR"
+epigrafe: "Fijación del juzgamiento a seguir"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]]
 
-## Artículo 225A. FIJACIÓN DEL JUZGAMIENTO A SEGUIR
+## Artículo 225A. Fijación del juzgamiento a seguir
 
 Recibido el expediente por el funcionario a quien corresponda el juzgamiento, por auto de sustanciación motivado, decidirá, de conformidad con los requisitos establecidos en este artículo, si el juzgamiento se adelanta por el juicio ordinario o por el verbal. Contra esta decisión no procede recurso alguno.
 

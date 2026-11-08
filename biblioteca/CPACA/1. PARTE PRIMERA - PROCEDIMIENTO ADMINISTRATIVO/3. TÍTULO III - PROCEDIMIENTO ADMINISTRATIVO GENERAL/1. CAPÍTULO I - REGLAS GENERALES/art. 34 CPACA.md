@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "34"
-epigrafe: "PROCEDIMIENTO ADMINISTRATIVO COMÚN Y PRINCIPAL"
+epigrafe: "Procedimiento administrativo común y principal"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 34. PROCEDIMIENTO ADMINISTRATIVO COMÚN Y PRINCIPAL
+## Artículo 34. Procedimiento administrativo común y principal
 
 Las actuaciones administrativas se sujetarán al procedimiento administrativo común y principal que se establece en este Código, sin perjuicio de los procedimientos administrativos regulados por leyes especiales. En lo no previsto en dichas leyes se aplicarán las disposiciones de esta Parte Primera del Código.
 

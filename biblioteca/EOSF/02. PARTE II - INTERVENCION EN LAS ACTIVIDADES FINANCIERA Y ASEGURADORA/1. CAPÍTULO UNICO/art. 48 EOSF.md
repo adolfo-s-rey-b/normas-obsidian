@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "48"
-epigrafe: "INSTRUMENTOS DE LA INTERVENCION"
+epigrafe: "Instrumentos de la Intervención"
 parte: "[[EOSF - Parte II|PARTE II - INTERVENCION EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 capitulo: "[[EOSF - Parte II - Capítulo Unico|CAPÍTULO UNICO]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte II|Parte II]] › [[EOSF - Parte II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 48. INSTRUMENTOS DE LA INTERVENCION
+## Artículo 48. Instrumentos de la Intervención
 
 1\. Facultades del Gobierno Nacional. En desarrollo de lo previsto en el artículo [[art. 46 EOSF|46]] del presente Estatuto, el Gobierno Nacional tendrá las siguientes funciones de intervención en relación con las entidades financieras y aseguradoras sujetas al control y vigilancia de la Superintendencia Bancaria y, en general, respecto de las entidades cuyas actividades consistan en el manejo, aprovechamiento y la inversión de recursos captados del público:
 

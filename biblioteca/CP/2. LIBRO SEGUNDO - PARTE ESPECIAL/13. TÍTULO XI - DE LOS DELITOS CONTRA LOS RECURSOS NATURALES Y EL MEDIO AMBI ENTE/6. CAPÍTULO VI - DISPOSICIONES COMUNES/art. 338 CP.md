@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "338"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo VI|CAPÍTULO VI - DISPOSICIONES COMUNES]]"
@@ -16,7 +16,6 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 1 Ley 2111 de 2021]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 anterior: "[[art. 337A CP]]"
 siguiente: "[[art. 339 CP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
@@ -33,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo VI|Capítulo VI]]
 
-## Artículo 338. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 338. Circunstancias de agravación punitiva
 
 Las penas para los delitos descritos en este título se aumentarán de una tercera parte a la mitad, cuando:
 
@@ -59,7 +58,7 @@ i) Cuando se promueva, financie, dirija, facilite o suministre medios para la re
 
 j) Cuando con la conducta se produce enfermedad, plaga o erosión genética de las especies.
 
-> [!info] Notas de Vigencia: Título sustituido por el artículo [[art. 1 Ley 2111 de 2021|1]] de la Ley 2111 de 2021, 'por medio del cual se sustituye el Título XI 'De los delitos contra los recursos naturales y el medio ambiente' de la Ley 599 de 2000, se modifica la Ley 906 de 2004 y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.750 de 29 de julio de 2021. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Título sustituido por el artículo [[art. 1 Ley 2111 de 2021|1]] de la Ley 2111 de 2021, 'por medio del cual se sustituye el Título XI 'De los delitos contra los recursos naturales y el medio ambiente' de la Ley 599 de 2000, se modifica la Ley 906 de 2004 y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.750 de 29 de julio de 2021. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 ---
 ← [[art. 337A CP]] · ↑ [[CP - Libro Segundo - Título XI - Capítulo VI|Capítulo VI]] · [[art. 339 CP]] →

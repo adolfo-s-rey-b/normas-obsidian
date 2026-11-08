@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 101 EOSF|Artículo 101]] — REGLAS ESPECIALES
+- [[art. 101 EOSF|Artículo 101]] — Reglas Especiales
 
 ---
 ← [[EOSF - Parte III - Capítulo XIV|Capítulo XIV]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XVI|Capítulo XVI]] →

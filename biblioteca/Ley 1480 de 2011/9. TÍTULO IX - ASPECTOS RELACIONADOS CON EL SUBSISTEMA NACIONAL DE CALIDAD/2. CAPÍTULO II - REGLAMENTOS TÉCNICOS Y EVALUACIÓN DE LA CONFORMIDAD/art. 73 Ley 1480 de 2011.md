@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "73"
-epigrafe: "RESPONSABILIDAD DE LOS ORGANISMOS DE EVALUACIÓN DE LA CONFORMIDAD"
+epigrafe: "Responsabilidad de los Organismos de evaluación de la Conformidad"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 73. RESPONSABILIDAD DE LOS ORGANISMOS DE EVALUACIÓN DE LA CONFORMIDAD
+## Artículo 73. Responsabilidad de los Organismos de evaluación de la Conformidad
 
 Los organismos de evaluación de la conformidad serán responsables por los servicios de evaluación que presten dentro del marco del certificado o del documento de evaluación de la conformidad que hayan expedido. El evaluador de la conformidad no será responsable cuando el evaluado haya modificado los elementos, procesos, sistemas o demás condiciones evaluadas y exista nexo causal entre dichas variaciones y el daño ocasionado. Sin perjuicio de las multas a que haya lugar, el evaluador de la conformidad será responsable frente al consumidor por el servicio de evaluación de la conformidad efectuado respecto de un producto sujeto a reglamento técnico o medida sanitaria cuando haya obrado con dolo o culpa grave.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "32"
-epigrafe: "PRUEBA PERICIAL"
+epigrafe: "Prueba Pericial"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VIII|CAPÍTULO VIII - PERIODO PROBATORIO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 32. PRUEBA PERICIAL
+## Artículo 32. Prueba Pericial
 
 En el auto en que se decrete el peritazgo se fijará la fecha de entrega del informe al juzgado y a partir de esta fecha estará a disposición de las partes durante cinco (5) días hábiles. El informe del perito deberá rendirse en original y tres copias.
 

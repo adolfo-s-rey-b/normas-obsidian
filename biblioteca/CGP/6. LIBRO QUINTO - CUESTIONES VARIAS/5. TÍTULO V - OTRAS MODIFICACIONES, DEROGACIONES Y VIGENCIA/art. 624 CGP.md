@@ -37,7 +37,7 @@ Sin embargo, los recursos interpuestos, la práctica de pruebas decretadas, las 
 
 La competencia para tramitar el proceso se regirá por la legislación vigente en el momento de formulación de la demanda con que se promueva, salvo que la ley elimine dicha autoridad".
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 623 CGP]] · ↑ [[CGP - Libro Quinto - Título V|Título V]] · [[art. 625 CGP]] →

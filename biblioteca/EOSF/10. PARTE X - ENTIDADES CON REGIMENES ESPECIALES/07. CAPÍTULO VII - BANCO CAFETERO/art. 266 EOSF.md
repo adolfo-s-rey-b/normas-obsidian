@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "266"
-epigrafe: "REGIMEN PATRIMONIAL"
+epigrafe: "Régimen Patrimonial"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VII|CAPÍTULO VII - BANCO CAFETERO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VII|Capítulo VII]]
 
-## Artículo 266. REGIMEN PATRIMONIAL
+## Artículo 266. Régimen Patrimonial
 
 1\. Estructura del capital. En el capital del Banco podrán participar, la Federación Nacional de Cafeteros, como Administradora del Fondo Nacional del Café y con recursos tomados de éste; la Federación Nacional de Cafeteros de Colombia, con recursos propios y como persona jurídica de derecho privado, los productores de café, las Cooperativas de Caficultores y demás empresas de carácter gremial vinculadas al sector cafetero, los exportadores y comercializadores nacionales de café, quienes les sucedan en sus derechos a cualquier título y el público en general.
 

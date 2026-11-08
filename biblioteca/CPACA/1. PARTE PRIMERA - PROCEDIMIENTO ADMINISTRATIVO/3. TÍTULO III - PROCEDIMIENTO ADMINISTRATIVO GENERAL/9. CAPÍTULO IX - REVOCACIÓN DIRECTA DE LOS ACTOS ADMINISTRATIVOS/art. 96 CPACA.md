@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "96"
-epigrafe: "EFECTOS"
+epigrafe: "Efectos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IX|CAPÍTULO IX - REVOCACIÓN DIRECTA DE LOS ACTOS ADMINISTRATIVOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IX|Capítulo IX]]
 
-## Artículo 96. EFECTOS
+## Artículo 96. Efectos
 
 Ni la petición de revocación de un acto, ni la decisión que sobre ella recaiga revivirán los términos legales para demandar el acto ante la Jurisdicción de lo Contencioso Administrativo, ni darán lugar a la aplicación del silencio administrativo.
 

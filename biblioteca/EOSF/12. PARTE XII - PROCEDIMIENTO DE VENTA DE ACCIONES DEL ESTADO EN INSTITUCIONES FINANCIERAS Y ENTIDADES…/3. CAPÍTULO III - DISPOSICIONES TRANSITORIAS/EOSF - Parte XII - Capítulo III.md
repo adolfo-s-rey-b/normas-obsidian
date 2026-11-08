@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 313 EOSF|Artículo 313]] — EFECTOS DE LA RESOLUCION QUE DECRETA LA NACIONALIZACION
-- [[art. 314 EOSF|Artículo 314]] — RELACIONES LABORALES DE LA ENTIDAD NACIONALIZADA
-- [[art. 315 EOSF|Artículo 315]] — ADMINISTRACION
+- [[art. 313 EOSF|Artículo 313]] — Efectos de la Resolución que decreta la Nacionalización
+- [[art. 314 EOSF|Artículo 314]] — Relaciones Laborales de la Entidad Nacionalizada
+- [[art. 315 EOSF|Artículo 315]] — Administración
 
 ---
 ← [[EOSF - Parte XII - Capítulo II|Capítulo II]] · ↑ [[EOSF - Parte XII|Parte XII]]

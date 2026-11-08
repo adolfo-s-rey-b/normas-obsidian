@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "547"
-epigrafe: "TERCEROS GARANTES Y CODEUDORES"
+epigrafe: "Terceros garantes y codeudores"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 547. TERCEROS GARANTES Y CODEUDORES
+## Artículo 547. Terceros garantes y codeudores
 
 Cuando una obligación del deudor esté respaldada por terceros que hayan constituido garantías reales sobre sus bienes, o que se hayan obligado en calidad de codeudores, fiadores, avalistas, aseguradores, emisores de cartas de crédito, o en general a través de cualquier figura que tenga como finalidad asegurar su pago se seguirán las siguientes reglas:
 

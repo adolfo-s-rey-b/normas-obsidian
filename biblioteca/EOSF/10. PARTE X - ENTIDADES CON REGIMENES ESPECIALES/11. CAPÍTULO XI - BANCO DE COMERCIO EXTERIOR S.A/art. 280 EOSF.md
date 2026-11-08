@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "280"
-epigrafe: "PROCESO DE ORGANIZACION"
+epigrafe: "Proceso de Organización"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 189 CPol]]"
   - "[[art. 121 CPol]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 280. PROCESO DE ORGANIZACION
+## Artículo 280. Proceso de Organización
 
 1\. Asunción de los derechos y obligaciones del Fondo de Promoción de Exportaciones. A partir del momento en el que inicie actividades, el Banco de Comercio Exterior asumirá todos los derechos y obligaciones del Fondo de Promoción de Exportaciones, respecto de toda clase de bienes, de pleno derecho, sin que sea necesario cambio de registro o pago de impuesto alguno en relación con aquellos bienes que los habrían requerido de acuerdo con otras normas. En consecuencia, los actos y contratos comerciales, civiles o administrativos, emanados del Fondo de Promoción de Exportaciones, continuarán en vigor en los términos que ellos establecen, o hasta que sean revocados o modificados por las autoridades del Banco, cuando estas tengan la facultad de hacerlo.
 

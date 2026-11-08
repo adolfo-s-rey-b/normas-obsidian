@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "556"
-epigrafe: "REFORMA DEL ACUERDO"
+epigrafe: "Reforma del acuerdo"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 556. REFORMA DEL ACUERDO
+## Artículo 556. Reforma del acuerdo
 
 El acuerdo podrá ser objeto de reformas posteriores a solicitud del deudor o de un grupo de acreedores que represente por lo menos una cuarta parte de los créditos insolutos, conforme a la certificación que para el efecto expida el conciliador producida con el reporte de pagos que para el efecto le presente el deudor.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "26"
-epigrafe: "DEL PRINCIPIO DE RESPONSABILIDAD"
+epigrafe: "Del Principio de Responsabilidad"
 rubro: "[[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|II. DE LOS PRINCIPIOS DE LA CONTRATACIÓN ESTATAL]]"
 vigencia: "parcialmente derogado"
 derogado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|Ii. de los principios de la contratación estatal]]
 
-## Artículo 26. DEL PRINCIPIO DE RESPONSABILIDAD
+## Artículo 26. Del Principio de Responsabilidad
 
 En virtud de este principio:
 

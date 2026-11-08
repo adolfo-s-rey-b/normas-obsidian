@@ -26,7 +26,7 @@ tags:
 - [[art. 62 Ley 222 de 1995|Artículo 62]] — APROBACION DEL REGLAMENTO DE SUSCRIPCION
 - [[art. 63 Ley 222 de 1995|Artículo 63]] — DERECHOS
 - [[art. 64 Ley 222 de 1995|Artículo 64]] — NO PAGO DEL DIVIDENDO
-- [[art. 65 Ley 222 de 1995|Artículo 65]] — TITULOS
+- [[art. 65 Ley 222 de 1995|Artículo 65]] — TÍTULOS
 - [[art. 66 Ley 222 de 1995|Artículo 66]] — REGLAMENTACION
 
 ---

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "26"
-epigrafe: "DERECHO DE RETENCIÓN"
+epigrafe: "Derecho de retención"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 25 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 26. DERECHO DE RETENCIÓN
+## Artículo 26. Derecho de retención
 
 En todos los casos en los cuales el arrendador deba indemnizar al arrendatario, éste no podrá ser privado del inmueble arrendado sin haber recibido el pago previo de la indemnización correspondiente o sin que se le hubiere asegurado debidamente el importe de ella por parte del arrendador.
 

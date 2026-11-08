@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "130"
-epigrafe: "CAUSALES"
+epigrafe: "Causales"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo VI|CAPÍTULO VI - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo VI|Capítulo VI]]
 
-## Artículo 130. CAUSALES
+## Artículo 130. Causales
 
 Los magistrados y jueces deberán declararse impedidos, o serán recusables, en los casos señalados en el artículo [[art. 150 CPC|150]] del Código de Procedimiento Civil y, además, en los siguientes eventos:
 

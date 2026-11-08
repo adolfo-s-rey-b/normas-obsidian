@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "45"
-epigrafe: "REMISIÓN"
+epigrafe: "Remisión"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 45. REMISIÓN
+## Artículo 45. Remisión
 
 En lo no previsto en la presente ley, la sociedad por acciones simplificada se regirá por las disposiciones contenidas en los estatutos sociales, por las normas legales que rigen a la sociedad anónima y, en su defecto, en cuanto no resulten contradictorias, por las disposiciones generales que rigen a las sociedades previstas en el Código de Comercio. Así mismo, las sociedades por acciones simplificadas estarán sujetas a la inspección, vigilancia o control de la Superintendencia de Sociedades, según las normas legales pertinentes.
 

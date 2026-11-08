@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 328 CP|Artículo 328]] — APROVECHAMIENTO ILÍCITO DE LOS RECURSOS NATURALES RENOVABLES
-- [[art. 328A CP|Artículo 328A]] — TRÁFICO DE FAUNA
-- [[art. 328B CP|Artículo 328B]] — CAZA ILEGAL
-- [[art. 328C CP|Artículo 328C]] — PESCA ILEGAL
-- [[art. 329 CP|Artículo 329]] — MANEJO ILÍCITO DE ESPECIES EXÓTICAS
-- [[art. 330 CP|Artículo 330]] — DEFORESTACIÓN
-- [[art. 330A CP|Artículo 330A]] — PROMOCIÓN Y FINANCIACIÓN DE LA DEFORESTACIÓN
-- [[art. 331 CP|Artículo 331]] — MANEJO Y USO ILÍCITO DE ORGANISMOS GENÉTICAMENTE MODIFICADOS, MICROORGANISMOS Y SUSTANCIAS O ELEMENTOS PELIGROSOS
-- [[art. 332 CP|Artículo 332]] — EXPLOTACIÓN ILÍCITA DE YACIMIENTO MINERO Y OTROS MATERIALES
+- [[art. 328 CP|Artículo 328]] — Aprovechamiento ilícito de los recursos naturales renovables
+- [[art. 328A CP|Artículo 328A]] — Trafico de Fauna
+- [[art. 328B CP|Artículo 328B]] — Caza Ilegal
+- [[art. 328C CP|Artículo 328C]] — Pesca ilegal
+- [[art. 329 CP|Artículo 329]] — Manejo ilícito de especies exoticas
+- [[art. 330 CP|Artículo 330]] — Deforestación
+- [[art. 330A CP|Artículo 330A]] — Promoción y financiación de la Deforestación
+- [[art. 331 CP|Artículo 331]] — Manejo y uso ilícito de organismos geneticamente modificados, microorganismos y sustancias o elementos peligrosos
+- [[art. 332 CP|Artículo 332]] — Explotación ilícita de yacimiento minero y otros materiales
 - [[art. 332A CP|Artículo 332A]] — CONTAMINACIÓN AMBIENTAL POR RESIDUOS SÓLIDOS PELIGROSOS
 
 ---

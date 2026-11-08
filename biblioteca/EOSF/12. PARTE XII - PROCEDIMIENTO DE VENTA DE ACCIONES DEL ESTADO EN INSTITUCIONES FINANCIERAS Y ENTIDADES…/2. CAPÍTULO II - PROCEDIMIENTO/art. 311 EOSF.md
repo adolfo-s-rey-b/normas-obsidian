@@ -11,7 +11,7 @@ articulo: "311"
 epigrafe: "ACCIONES DE INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS DEL ESTADO"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 26 Ley 226 de 1995]]"
 anterior: "[[art. 310 EOSF]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]

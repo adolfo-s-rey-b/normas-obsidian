@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 109 ET|Artículo 109]] — DEDUCCIÓN DE CESANTIAS PAGADAS
-- [[art. 110 ET|Artículo 110]] — DEDUCCIÓN DE CESANTIAS CONSOLIDADAS
+- [[art. 109 ET|Artículo 109]] — DEDUCCIÓN DE CESANTÍAS PAGADAS
+- [[art. 110 ET|Artículo 110]] — DEDUCCIÓN DE CESANTÍAS CONSOLIDADAS
 - [[art. 111 ET|Artículo 111]] — DEDUCCIÓN DE PENSIONES DE JUBILACIÓN E INVALIDEZ
-- [[art. 112 ET|Artículo 112]] — DEDUCCIÓN DE LA PROVISION PARA EL PAGO DE FUTURAS PENSIONES
-- [[art. 113 ET|Artículo 113]] — COMO SE DETERMINA LA CUOTA ANUAL DEDUCIBLE DE LA PROVISIÓN
+- [[art. 112 ET|Artículo 112]] — DEDUCCIÓN DE LA PROVISIÓN PARA EL PAGO DE FUTURAS PENSIONES
+- [[art. 113 ET|Artículo 113]] — CÓMO SE DETERMINA LA CUOTA ANUAL DEDUCIBLE DE LA PROVISIÓN
 
 ---
 ← [[ET - Libro Primero - Título I - Capítulo V - Salarios|Salarios]] · ↑ [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] · [[ET - Libro Primero - Título I - Capítulo V - Aportes|Aportes]] →

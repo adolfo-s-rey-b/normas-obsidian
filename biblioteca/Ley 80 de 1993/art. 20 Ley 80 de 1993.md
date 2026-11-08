@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "20"
-epigrafe: "DE LA RECIPROCIDAD"
+epigrafe: "De la Reciprocidad"
 vigencia: "vigente"
 anterior: "[[art. 19 Ley 80 de 1993]]"
 siguiente: "[[art. 21 Ley 80 de 1993]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 20. DE LA RECIPROCIDAD
+## Artículo 20. De la Reciprocidad
 
 En los procesos de contratación estatal se concederá al proponente de bienes y servicios de origen extranjero, el mismo tratamiento y en las mismas condiciones, requisitos, procedimientos y criterios de adjudicación que el tratamiento concedido al nacional, exclusivamente bajo el principio de reciprocidad.
 

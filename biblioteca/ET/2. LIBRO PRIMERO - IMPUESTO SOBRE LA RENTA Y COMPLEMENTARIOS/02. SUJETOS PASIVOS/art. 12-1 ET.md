@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "12-1"
-epigrafe: "CONCEPTO DE SOCIEDADES Y ENTIDADES NACIONALES PARA EFECTOS TRIBUTARIOS"
+epigrafe: "Concepto de sociedades y entidades nacionales para efectos tributarios"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "modificado"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 12-1. CONCEPTO DE SOCIEDADES Y ENTIDADES NACIONALES PARA EFECTOS TRIBUTARIOS
+## Artículo 12-1. Concepto de sociedades y entidades nacionales para efectos tributarios
 
 Se consideran nacionales para efectos tributarios las sociedades y entidades que durante el respectivo año o periodo gravable tengan su sede efectiva de administración en el territorio colombiano.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "55"
-epigrafe: "INTEGRACION AL GRUPO"
+epigrafe: "Integración al Grupo"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
 vigencia: "parcialmente inexequible"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 55. INTEGRACION AL GRUPO
+## Artículo 55. Integración al Grupo
 
 > [!warning] Aparte tachado INEXEQUIBLE. Aparte subrayado CONDICIONALMENTE EXEQUIBLE
 

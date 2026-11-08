@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 28 CPP|Artículo 28]] — LA JURISDICCIÓN PENAL ORDINARIA
-- [[art. 29 CPP|Artículo 29]] — OBJETO DE LA JURISDICCIÓN PENAL ORDINARIA
-- [[art. 30 CPP|Artículo 30]] — EXCEPCIONES A LA JURISDICCIÓN PENAL ORDINARIA
-- [[art. 31 CPP|Artículo 31]] — ÓRGANOS DE LA JURISDICCIÓN
+- [[art. 28 CPP|Artículo 28]] — La jurisdicción penal ordinaria
+- [[art. 29 CPP|Artículo 29]] — Objeto de la jurisdicción penal ordinaria
+- [[art. 30 CPP|Artículo 30]] — Excepciones a la jurisdicción penal ordinaria
+- [[art. 31 CPP|Artículo 31]] — Órganos de la jurisdicción
 
 ---
 ↑ [[CPP - Libro I - Título I|Título I]] · [[CPP - Libro I - Título I - Capítulo II|Capítulo II]] →

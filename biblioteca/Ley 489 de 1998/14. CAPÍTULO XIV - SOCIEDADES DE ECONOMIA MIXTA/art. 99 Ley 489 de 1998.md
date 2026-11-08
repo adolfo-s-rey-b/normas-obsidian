@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "99"
-epigrafe: "REPRESENTACION DE LAS ACCIONES DE LA NACION Y DE LAS ENTIDADES PUBLICAS"
+epigrafe: "Representación de las acciones de la Nación y de las entidades públicas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIV|CAPÍTULO XIV - SOCIEDADES DE ECONOMIA MIXTA]]"
 vigencia: "vigente"
 anterior: "[[art. 98 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 99. REPRESENTACION DE LAS ACCIONES DE LA NACION Y DE LAS ENTIDADES PUBLICAS
+## Artículo 99. Representación de las acciones de la Nación y de las entidades públicas
 
 La representación de las acciones que posean las entidades públicas o la Nación en una Sociedad de Economía Mixta corresponde al Ministro o Jefe de Departamento Administrativo a cuyo despacho se halle vinculada dicha Sociedad.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "42"
-epigrafe: "TRÁMITE DEL RECURSO DE ANULACIÓN"
+epigrafe: "Trámite del recurso de anulación"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 42. TRÁMITE DEL RECURSO DE ANULACIÓN
+## Artículo 42. Trámite del recurso de anulación
 
 La autoridad judicial competente rechazará de plano el recurso de anulación cuando su interposición fuere extemporánea, no se hubiere sustentando o las causales invocadas no correspondan a ninguna de las señaladas en esta ley.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "59"
-epigrafe: "PROCEDENCIA DEL AVISO DE APROBACION DEL COMPROMISO"
+epigrafe: "Procedencia del Aviso de Aprobación del Compromiso"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 59. PROCEDENCIA DEL AVISO DE APROBACION DEL COMPROMISO
+## Artículo 59. Procedencia del Aviso de Aprobación del Compromiso
 
 El aviso al público del cual trata el artículo [[art. 174 CCo|174]] del Código de Comercio se efectuará antes de la formalización del acuerdo de fusión, para los fines del artículo 175 del mismo código, cuando haya expirado el término para objetar sin que el Superintendente Bancario hubiere formulado objeción.
 

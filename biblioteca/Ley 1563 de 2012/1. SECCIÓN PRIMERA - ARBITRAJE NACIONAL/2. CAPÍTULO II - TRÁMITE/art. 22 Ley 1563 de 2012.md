@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "22"
-epigrafe: "REFORMA DE LA DEMANDA"
+epigrafe: "Reforma de la demanda"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 22. REFORMA DE LA DEMANDA
+## Artículo 22. Reforma de la demanda
 
 Notificado el demandado del auto admisorio de la demanda, esta podrá reformarse por una sola vez antes de la iniciación de la audiencia de conciliación prevista en esta ley.
 

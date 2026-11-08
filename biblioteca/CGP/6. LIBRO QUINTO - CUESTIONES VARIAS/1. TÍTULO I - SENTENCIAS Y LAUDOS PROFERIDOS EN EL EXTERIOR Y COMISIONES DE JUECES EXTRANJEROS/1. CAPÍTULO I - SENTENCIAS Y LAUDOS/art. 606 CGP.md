@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "606"
-epigrafe: "REQUISITOS"
+epigrafe: "Requisitos"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título I|TÍTULO I - SENTENCIAS Y LAUDOS PROFERIDOS EN EL EXTERIOR Y COMISIONES DE JUECES EXTRANJEROS]]"
 capitulo: "[[CGP - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - SENTENCIAS Y LAUDOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título I|Título I]] › [[CGP - Libro Quinto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 606. REQUISITOS
+## Artículo 606. Requisitos
 
 Para que la sentencia extranjera surta efectos en el país, deberá reunir los siguientes requisitos:
 

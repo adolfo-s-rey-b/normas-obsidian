@@ -13,7 +13,7 @@ articulo: "485-2"
 epigrafe: "DESCUENTO ESPECIAL DEL IMPUESTO SOBRE LAS VENTAS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título VII|TÍTULO VII - DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 190 Ley 1819 de 2016]]"
 derogado_por:
@@ -37,7 +37,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título VII|Título VII]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "48"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo IV|CAPÍTULO IV - CAMBIO DE RADICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 48. TRÁMITE
+## Artículo 48. Trámite
 
 La solicitud debe ser debidamente sustentada y a ella se acompañarán los elementos cognoscitivos pertinentes. El superior tendrá tres (3) días para decidir mediante auto contra el cual no pro cede recurso alguno. El juicio oral no podrá iniciarse hasta tanto el superior no la decida. El juez que conozca de la solicitud rechazará de plano la que no cumpla con los requisitos exigidos en esta disposición.
 

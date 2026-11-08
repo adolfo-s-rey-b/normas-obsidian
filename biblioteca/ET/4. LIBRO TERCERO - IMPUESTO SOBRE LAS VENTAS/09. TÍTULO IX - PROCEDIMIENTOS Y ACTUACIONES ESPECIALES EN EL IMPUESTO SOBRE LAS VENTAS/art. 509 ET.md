@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "509"
-epigrafe: "OBLIGACIÓN DE LLEVAR REGISTRO AUXILIAR Y CUENTA CORRIENTE PARA RESPONSABLES DEL REGIMEN COMUN"
+epigrafe: "OBLIGACIÓN DE LLEVAR REGISTRO AUXILIAR Y CUENTA CORRIENTE PARA RESPONSABLES DEL RÉGIMEN COMÚN"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IX|TÍTULO IX - PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IX|Título IX]]
 
-## Artículo 509. OBLIGACIÓN DE LLEVAR REGISTRO AUXILIAR Y CUENTA CORRIENTE PARA RESPONSABLES DEL REGIMEN COMUN
+## Artículo 509. OBLIGACIÓN DE LLEVAR REGISTRO AUXILIAR Y CUENTA CORRIENTE PARA RESPONSABLES DEL RÉGIMEN COMÚN
 
 Los responsables del impuesto sobre las ventas sometidos al régimen común, incluidos los exportadores, deberán llevar un registro auxiliar de ventas y compras, y una cuenta mayor o de balance cuya denominación será "impuesto a las ventas por pagar", en la cual se harán los siguientes registros:
 

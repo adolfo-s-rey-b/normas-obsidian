@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "80"
-epigrafe: "DECISIÓN DE LOS RECURSOS"
+epigrafe: "Decisión de los recursos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VI|CAPÍTULO VI - RECURSOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VI|Capítulo VI]]
 
-## Artículo 80. DECISIÓN DE LOS RECURSOS
+## Artículo 80. Decisión de los recursos
 
 Vencido el período probatorio, si a ello hubiere lugar, y sin necesidad de acto que así lo declare, deberá proferirse la decisión motivada que resuelva el recurso.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "25"
-epigrafe: "LIQUIDACION DE CREDITOS"
+epigrafe: "Liquidación de créditos"
 parte: "[[Ley 446 de 1998 - Parte II|PARTE II - DE LA EFICIENCIA EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte II - Título I|TÍTULO I - NORMAS GENERALES]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte II|Parte II]] › [[Ley 446 de 1998 - Parte II - Título I|Título I]]
 
-## Artículo 25. LIQUIDACION DE CREDITOS
+## Artículo 25. Liquidación de créditos
 
 Adiciónase el artículo [[art. 521 CPC|521]] del Código de Procedimiento Civil con un parágrafo del siguiente tenor:
 

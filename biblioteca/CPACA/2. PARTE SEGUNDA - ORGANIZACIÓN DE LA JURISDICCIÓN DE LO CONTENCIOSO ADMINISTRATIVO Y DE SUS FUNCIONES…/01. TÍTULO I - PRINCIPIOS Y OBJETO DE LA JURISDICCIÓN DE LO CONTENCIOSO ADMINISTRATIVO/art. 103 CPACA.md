@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "103"
-epigrafe: "OBJETO Y PRINCIPIOS"
+epigrafe: "Objeto y principios"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título I|TÍTULO I - PRINCIPIOS Y OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título I|Título I]]
 
-## Artículo 103. OBJETO Y PRINCIPIOS
+## Artículo 103. Objeto y principios
 
 Los procesos que se adelanten ante la jurisdicción de lo Contencioso Administrativo tienen por objeto la efectividad de los derechos reconocidos en la Constitución Política y la ley y la preservación del orden jurídico.
 

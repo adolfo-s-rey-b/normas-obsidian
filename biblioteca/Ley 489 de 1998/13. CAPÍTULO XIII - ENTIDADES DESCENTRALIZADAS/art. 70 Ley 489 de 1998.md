@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "70"
-epigrafe: "ESTABLECIMIENTOS PUBLICOS"
+epigrafe: "Establecimientos públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 69 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 70. ESTABLECIMIENTOS PUBLICOS
+## Artículo 70. Establecimientos públicos
 
 Los establecimientos públicos son organismos encargados principalmente de atender funciones administrativas y de prestar servicios públicos conforme a las reglas del Derecho Público, que reúnen las siguientes características:
 

@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 72 CGD|Artículo 72]] — SUJETOS Y FALTAS GRAVÍSIMAS
-- [[art. 73 CGD|Artículo 73]] — SANCIÓN
-- [[art. 74 CGD|Artículo 74]] — CRITERIOS PARA LA GRADUACIÓN DE LA SANCIÓN
+- [[art. 72 CGD|Artículo 72]] — Sujetos y faltas gravísimas
+- [[art. 73 CGD|Artículo 73]] — Sanción
+- [[art. 74 CGD|Artículo 74]] — Criterios para la graduación de la sanción
 
 ---
 ← [[CGD - Libro III - Título I - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro III - Título I|Título I]]

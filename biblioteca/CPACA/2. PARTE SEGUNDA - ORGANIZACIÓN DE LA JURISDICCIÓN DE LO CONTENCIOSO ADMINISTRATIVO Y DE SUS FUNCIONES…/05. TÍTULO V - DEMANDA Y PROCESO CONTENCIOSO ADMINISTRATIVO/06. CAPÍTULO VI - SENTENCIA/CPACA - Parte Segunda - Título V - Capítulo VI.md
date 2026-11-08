@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 187 CPACA|Artículo 187]] — CONTENIDO DE LA SENTENCIA
-- [[art. 188 CPACA|Artículo 188]] — CONDENA EN COSTAS
-- [[art. 189 CPACA|Artículo 189]] — EFECTOS DE LA SENTENCIA
-- [[art. 190 CPACA|Artículo 190]] — DEDUCCIÓN POR VALORIZACIÓN
-- [[art. 191 CPACA|Artículo 191]] — TRANSMISIÓN DE LA PROPIEDAD
-- [[art. 192 CPACA|Artículo 192]] — CUMPLIMIENTO DE SENTENCIAS O CONCILIACIONES POR PARTE DE LAS ENTIDADES PÚBLICAS
-- [[art. 193 CPACA|Artículo 193]] — CONDENAS EN ABSTRACTO
-- [[art. 194 CPACA|Artículo 194]] — APORTES AL FONDO DE CONTINGENCIAS
-- [[art. 195 CPACA|Artículo 195]] — TRÁMITE PARA EL PAGO DE CONDENAS O CONCILIACIONES
+- [[art. 187 CPACA|Artículo 187]] — Contenido de la sentencia
+- [[art. 188 CPACA|Artículo 188]] — Condena en costas
+- [[art. 189 CPACA|Artículo 189]] — Efectos de la sentencia
+- [[art. 190 CPACA|Artículo 190]] — Deducción por valorización
+- [[art. 191 CPACA|Artículo 191]] — Transmisión de la propiedad
+- [[art. 192 CPACA|Artículo 192]] — Cumplimiento de sentencias o conciliaciones por parte de las entidades públicas
+- [[art. 193 CPACA|Artículo 193]] — Condenas en abstracto
+- [[art. 194 CPACA|Artículo 194]] — Aportes al Fondo de Contingencias
+- [[art. 195 CPACA|Artículo 195]] — Trámite para el pago de condenas o conciliaciones
 
 ---
 ← [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]] · ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]] →

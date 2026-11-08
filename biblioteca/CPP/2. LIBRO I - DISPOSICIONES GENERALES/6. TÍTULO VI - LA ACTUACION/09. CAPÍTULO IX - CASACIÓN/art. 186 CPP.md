@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "186"
-epigrafe: "ACUMULACIÓN DE FALLOS"
+epigrafe: "Acumulación de fallos"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 186. ACUMULACIÓN DE FALLOS
+## Artículo 186. Acumulación de fallos
 
 A juicio de la Sala, por razones de unificación de la jurisprudencia, podrán acumularse para ser decididas en un mismo fallo, varias demandas presentadas contra diversas sentencias.
 

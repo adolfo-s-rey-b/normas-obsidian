@@ -20,10 +20,10 @@ tags:
 
 ### Contenido
 
-- [[art. 5 Ley 1258 de 2008|Artículo 5]] — CONTENIDO DEL DOCUMENTO DE CONSTITUCIÓN
-- [[art. 6 Ley 1258 de 2008|Artículo 6]] — CONTROL AL ACTO CONSTITUTIVO Y A SUS REFORMAS
-- [[art. 7 Ley 1258 de 2008|Artículo 7]] — SOCIEDAD DE HECHO
-- [[art. 8 Ley 1258 de 2008|Artículo 8]] — PRUEBA DE EXISTENCIA DE LA SOCIEDAD
+- [[art. 5 Ley 1258 de 2008|Artículo 5]] — Contenido del documento de constitución
+- [[art. 6 Ley 1258 de 2008|Artículo 6]] — Control al acto constitutivo y a sus reformas
+- [[art. 7 Ley 1258 de 2008|Artículo 7]] — Sociedad de hecho
+- [[art. 8 Ley 1258 de 2008|Artículo 8]] — Prueba de existencia de la sociedad
 
 ---
 ← [[Ley 1258 de 2008 - Capítulo I|Capítulo I]] · ↑ [[Ley 1258 de 2008|Ley 1258 de 2008]] · [[Ley 1258 de 2008 - Capítulo III|Capítulo III]] →

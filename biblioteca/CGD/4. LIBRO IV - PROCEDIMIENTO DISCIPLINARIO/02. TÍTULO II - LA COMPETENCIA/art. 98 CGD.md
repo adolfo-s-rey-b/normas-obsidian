@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "98"
-epigrafe: "COMPETENCIA POR RAZÓN DE LA CONEXIDAD"
+epigrafe: "Competencia por razón de la conexidad"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 98. COMPETENCIA POR RAZÓN DE LA CONEXIDAD
+## Artículo 98. Competencia por razón de la conexidad
 
 Se tramitarán bajo una misma cuerda procesal las actuaciones que satisfagan los siguientes presupuestos:
 

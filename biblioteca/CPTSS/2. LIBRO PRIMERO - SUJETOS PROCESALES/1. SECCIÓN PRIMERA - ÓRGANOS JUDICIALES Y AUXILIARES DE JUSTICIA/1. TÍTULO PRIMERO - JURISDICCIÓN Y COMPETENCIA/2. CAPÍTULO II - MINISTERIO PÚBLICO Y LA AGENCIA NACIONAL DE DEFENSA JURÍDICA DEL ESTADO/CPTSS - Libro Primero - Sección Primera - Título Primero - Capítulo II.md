@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 18 CPTSS|Artículo 18]] — INTERVENCIÓN DEL MINISTERIO PÚBLICO Y LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO
+- [[art. 18 CPTSS|Artículo 18]] — Intervención del Ministerio Público y la Agencia Nacional de Defensa Jurídica del Estado
 
 ---
 ← [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] · [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo III|Capítulo III]] →

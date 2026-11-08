@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "57"
-epigrafe: "ORGANIZACION Y FUNCIONAMIENTO DE LOS MINISTERIOS Y DEPARTAMENTOS ADMINISTRATIVOS"
+epigrafe: "Organización y funcionamiento de los ministerios y departamentos administrativos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 56 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 57. ORGANIZACION Y FUNCIONAMIENTO DE LOS MINISTERIOS Y DEPARTAMENTOS ADMINISTRATIVOS
+## Artículo 57. Organización y funcionamiento de los ministerios y departamentos administrativos
 
 De conformidad con el artículo [[art. 206 CPol|206]] de la Constitución Política, el número, denominación y orden de precedencia de los ministerios y departamentos administrativos serán determinados por la ley. Compete al Presidente de la República distribuir entre ellos los negocios según su naturaleza.
 

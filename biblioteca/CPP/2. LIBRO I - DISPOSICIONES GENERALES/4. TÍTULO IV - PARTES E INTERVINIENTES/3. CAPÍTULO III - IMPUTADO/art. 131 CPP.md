@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "131"
-epigrafe: "RENUNCIA"
+epigrafe: "Renuncia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo III|CAPÍTULO III - IMPUTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 131. RENUNCIA
+## Artículo 131. Renuncia
 
 Si el imputado o procesado hiciere uso del derecho que le asiste de renunciar a las garantías de guardar silencio y al juicio oral, deberá el juez de control de garantías o el juez de conocimiento verificar que se trata de una decisión libre, consciente, voluntaria, debidamente informada, asesorada por la defensa, para lo cual será imprescindible el interrogatorio personal del imputado o procesado.
 

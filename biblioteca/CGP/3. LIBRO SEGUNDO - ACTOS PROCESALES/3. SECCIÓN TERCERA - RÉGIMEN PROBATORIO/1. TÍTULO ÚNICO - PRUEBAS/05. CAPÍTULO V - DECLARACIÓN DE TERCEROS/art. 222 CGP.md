@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "222"
-epigrafe: "RATIFICACIÓN DE TESTIMONIOS RECIBIDOS FUERA DEL PROCESO"
+epigrafe: "Ratificación de testimonios recibidos fuera del proceso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 222. RATIFICACIÓN DE TESTIMONIOS RECIBIDOS FUERA DEL PROCESO
+## Artículo 222. Ratificación de testimonios recibidos fuera del proceso
 
 Solo podrán ratificarse en un proceso las declaraciones de testigos cuando se hayan rendido en otro o en forma anticipada sin citación o intervención de la persona contra quien se aduzcan, siempre que esta lo solicite.
 

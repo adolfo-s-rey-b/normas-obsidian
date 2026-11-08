@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "180"
-epigrafe: "FINALIDAD"
+epigrafe: "Finalidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 180. FINALIDAD
+## Artículo 180. Finalidad
 
 El recurso pretende la efectividad del derecho material, el respeto de las garantías de los intervinientes, la reparación de los agravios inferidos a estos, y la unificación de la jurisprudencia.
 

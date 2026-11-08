@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "23"
-epigrafe: "UTILIZACIÓN DE MEDIOS ELECTRÓNICOS"
+epigrafe: "Utilización de medios electrónicos"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 23. UTILIZACIÓN DE MEDIOS ELECTRÓNICOS
+## Artículo 23. Utilización de medios electrónicos
 
 En el proceso arbitral podrán utilizarse medios electrónicos en todas las actuaciones y, en particular, para llevar a cabo todas las comunicaciones, tanto del tribunal con las partes como con terceros, para la notificación de las providencias, la presentación de memoriales y la realización de audiencias, así como para la guarda de la versión de las mismas y su posterior consulta.
 

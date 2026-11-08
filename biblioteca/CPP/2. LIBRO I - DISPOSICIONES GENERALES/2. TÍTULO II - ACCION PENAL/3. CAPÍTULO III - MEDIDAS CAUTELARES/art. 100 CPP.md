@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "100"
-epigrafe: "AFECTACIÓN DE BIENES EN DELITOS CULPOSOS"
+epigrafe: "Afectación de bienes en delitos culposos"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 100. AFECTACIÓN DE BIENES EN DELITOS CULPOSOS
+## Artículo 100. Afectación de bienes en delitos culposos
 
 En los delitos culposos, los vehículos automotores, naves o aeronaves o cualquier unidad montada sobre ruedas y los demás objetos que tengan libre comercio, una vez cumplidas dentro de los diez (10) días siguientes las previsiones de este código para la cadena de custodia, se entregarán provisionalmente al propietario, poseedor o tenedor legítimo, salvo que se haya solicitado y decretado su embargo y secuestro.
 

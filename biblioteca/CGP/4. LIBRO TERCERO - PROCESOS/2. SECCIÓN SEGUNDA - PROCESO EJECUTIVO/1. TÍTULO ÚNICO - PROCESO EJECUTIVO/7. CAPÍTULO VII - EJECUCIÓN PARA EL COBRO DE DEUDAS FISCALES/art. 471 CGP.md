@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "471"
-epigrafe: "ACUMULACIÓN DE DEMANDAS Y PROCESOS, Y CITACIÓN DE ACREEDORES HIPOTECARIOS"
+epigrafe: "Acumulación de demandas y procesos, y citación de acreedores hipotecarios"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 471. ACUMULACIÓN DE DEMANDAS Y PROCESOS, Y CITACIÓN DE ACREEDORES HIPOTECARIOS
+## Artículo 471. Acumulación de demandas y procesos, y citación de acreedores hipotecarios
 
 En los procesos de jurisdicción coactiva no es admisible acumulación de demandas ni de procesos con títulos distintos a los determinados en el artículo [[art. 469 CGP|469]].
 

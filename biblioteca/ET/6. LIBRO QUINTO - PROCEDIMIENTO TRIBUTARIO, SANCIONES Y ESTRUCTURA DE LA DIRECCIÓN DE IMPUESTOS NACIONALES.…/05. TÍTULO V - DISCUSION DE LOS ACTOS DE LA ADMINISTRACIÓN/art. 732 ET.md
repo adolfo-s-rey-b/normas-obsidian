@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "732"
-epigrafe: "TERMINO PARA RESOLVER LOS RECURSOS"
+epigrafe: "TÉRMINO PARA RESOLVER LOS RECURSOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
 
-## Artículo 732. TERMINO PARA RESOLVER LOS RECURSOS
+## Artículo 732. TÉRMINO PARA RESOLVER LOS RECURSOS
 
 La Administración de Impuestos tendrá un (1) año para resolver los recursos de reconsideración o reposición, contado a partir de su interposición en debida forma.
 

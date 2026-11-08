@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "2"
-epigrafe: "ACEPTACION DEL CARGO"
+epigrafe: "Aceptación del cargo"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|CAPÍTULO 2 - DE LOS AUXILIARES Y COLABORADORES DE LA JUSTICIA]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 2. ACEPTACION DEL CARGO
+## Artículo 2. Aceptación del cargo
 
 El numeral 8 del artículo [[art. 9 Ley 446 de 1998|9]]o. del Código de Procedimiento Civil, quedará así:
 

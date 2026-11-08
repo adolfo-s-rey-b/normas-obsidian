@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "243"
-epigrafe: "INTERPOSICIÓN, CONCESIÓN Y SUSTENTACIÓN DEL RECURSO"
+epigrafe: "Interposición, concesión y sustentación del recurso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 243. INTERPOSICIÓN, CONCESIÓN Y SUSTENTACIÓN DEL RECURSO
+## Artículo 243. Interposición, concesión y sustentación del recurso
 
 El recurso de casación deberá interponerse dentro de los cinco (5) días siguientes a la notificación de la sentencia de segunda instancia.
 

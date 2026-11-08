@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "44"
-epigrafe: "DE LAS CAUSALES DE NULIDAD ABSOLUTA"
+epigrafe: "De las Causales de Nulidad Absoluta"
 rubro: "[[Ley 80 de 1993 - Iv. de la nulidad de los contratos|IV. DE LA NULIDAD DE LOS CONTRATOS]]"
 vigencia: "vigente"
 anterior: "[[art. 43 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iv. de la nulidad de los contratos|Iv. de la nulidad de los contratos]]
 
-## Artículo 44. DE LAS CAUSALES DE NULIDAD ABSOLUTA
+## Artículo 44. De las Causales de Nulidad Absoluta
 
 Los contratos del Estado son absolutamente nulos en los casos previstos en el derecho común y además cuando:
 

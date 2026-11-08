@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 118 Ley 1563 de 2012|Artículo 118]] — DEROGACIONES
-- [[art. 119 Ley 1563 de 2012|Artículo 119]] — VIGENCIA
+- [[art. 118 Ley 1563 de 2012|Artículo 118]] — Derogaciones
+- [[art. 119 Ley 1563 de 2012|Artículo 119]] — Vigencia
 
 ---
 ↑ [[Ley 1563 de 2012 - Sección Quinta|Sección Quinta]]

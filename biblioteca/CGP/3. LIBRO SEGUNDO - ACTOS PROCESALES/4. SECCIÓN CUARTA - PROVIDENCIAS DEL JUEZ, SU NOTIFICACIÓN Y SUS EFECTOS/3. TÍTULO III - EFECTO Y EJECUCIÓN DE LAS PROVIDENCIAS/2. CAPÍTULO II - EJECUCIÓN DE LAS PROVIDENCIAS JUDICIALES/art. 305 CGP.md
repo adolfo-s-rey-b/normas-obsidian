@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "305"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título III|TÍTULO III - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] › [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 305. PROCEDENCIA
+## Artículo 305. Procedencia
 
 Podrá exigirse la ejecución de las providencias una vez ejecutoriadas o a partir del día siguiente al de la notificación del auto de obedecimiento a lo resuelto por el superior, según fuere el caso, y cuando contra ellas se haya concedido apelación en el efecto devolutivo.
 

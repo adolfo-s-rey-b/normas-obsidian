@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 22 ET|Artículo 22]] — ENTIDADES QUE NO SON CONTRIBUYENTES
+- [[art. 22 ET|Artículo 22]] — Entidades que no son contribuyentes
 - [[art. 23 ET|Artículo 23]] — ENTIDADES NO CONTRIBUYENTES DECLARANTES
 - [[art. 23-1 ET|Artículo 23-1]] — NO SON CONTRIBUYENTES LOS FONDOS DE CAPITAL PRIVADO, LOS FONDOS DE INVERSIÓN COLECTIVA Y OTROS
 - [[art. 23-2 ET|Artículo 23-2]]

@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 118 EOSF|Artículo 118]] — OPERACIONES ESPECIALES
-- [[art. 119 EOSF|Artículo 119]] — REGIMEN DE FILIALES DE SERVICIOS FINANCIEROS Y COMISIONISTAS DE BOLSA
-- [[art. 120 EOSF|Artículo 120]] — NORMAS APLICABLES A LAS OPERACIONES ACTIVAS DE CREDITO
-- [[art. 121 EOSF|Artículo 121]] — SISTEMAS DE PAGO E INTERESES
-- [[art. 122 EOSF|Artículo 122]] — LIMITACIONES A LAS OPERACIONES ACTIVAS DE CREDITO
-- [[art. 123 EOSF|Artículo 123]] — REGIMEN DE ALGUNAS OPERACIONES PASIVAS
+- [[art. 118 EOSF|Artículo 118]] — Operaciones Especiales
+- [[art. 119 EOSF|Artículo 119]] — Régimen de Filiales de Servicios Financieros y Comisionistas de Bolsa
+- [[art. 120 EOSF|Artículo 120]] — Normas Aplicables a las Operaciones Activas de Crédito
+- [[art. 121 EOSF|Artículo 121]] — Sistemas de Pago e Intereses
+- [[art. 122 EOSF|Artículo 122]] — Limitaciones a las Operaciones Activas de Crédito
+- [[art. 123 EOSF|Artículo 123]] — Régimen de Algunas Operaciones Pasivas
 
 ---
 ↑ [[EOSF - Parte IV|Parte IV]] · [[EOSF - Parte IV - Capítulo II|Capítulo II]] →

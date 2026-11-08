@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "32"
-epigrafe: "ENAJENACIÓN GLOBAL DE ACTIVOS"
+epigrafe: "Enajenación global de activos"
 capitulo: "[[Ley 1258 de 2008 - Capítulo V|CAPÍTULO V - REFORMAS ESTATUTARIAS Y REORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 31 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo V|Capítulo V]]
 
-## Artículo 32. ENAJENACIÓN GLOBAL DE ACTIVOS
+## Artículo 32. Enajenación global de activos
 
 Se entenderá que existe enajenación global de activos cuando la sociedad por acciones simplificada se proponga enajenar activos y pasivos que representen el cincuenta (50%) o más del patrimonio líquido de la compañía en la fecha de enajenación.
 

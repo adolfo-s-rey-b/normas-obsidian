@@ -21,12 +21,12 @@ tags:
 
 ### Contenido
 
-- [[art. 101 Ley 1563 de 2012|Artículo 101]] — NORMAS APLICABLES AL FONDO DEL LITIGIO
-- [[art. 102 Ley 1563 de 2012|Artículo 102]] — ADOPCIÓN DE DECISIONES CUANDO HAYA MÁS DE UN ÁRBITRO
-- [[art. 103 Ley 1563 de 2012|Artículo 103]] — TRANSACCIÓN
-- [[art. 104 Ley 1563 de 2012|Artículo 104]] — FORMA Y CONTENIDO DEL LAUDO
-- [[art. 105 Ley 1563 de 2012|Artículo 105]] — TERMINACIÓN DE LAS ACTUACIONES
-- [[art. 106 Ley 1563 de 2012|Artículo 106]] — CORRECCIÓN Y ACLARACIÓN DEL LAUDO Y LAUDO ADICIONAL
+- [[art. 101 Ley 1563 de 2012|Artículo 101]] — Normas aplicables al fondo del litigio
+- [[art. 102 Ley 1563 de 2012|Artículo 102]] — Adopción de decisiones cuando haya más de un árbitro
+- [[art. 103 Ley 1563 de 2012|Artículo 103]] — Transacción
+- [[art. 104 Ley 1563 de 2012|Artículo 104]] — Forma y contenido del laudo
+- [[art. 105 Ley 1563 de 2012|Artículo 105]] — Terminación de las actuaciones
+- [[art. 106 Ley 1563 de 2012|Artículo 106]] — Corrección y aclaración del laudo y laudo adicional
 
 ---
 ← [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]] · ↑ [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · [[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|Capítulo VIII]] →

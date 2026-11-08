@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "706"
-epigrafe: "SUSPENSION DEL TERMINO"
+epigrafe: "SUSPENSIÓN DEL TÉRMINO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo II|CAPÍTULO II - LIQUIDACIONES OFICIALES]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título IV - Capítulo II - Liquidación de revision|Liquidación de revision]]
 
-## Artículo 706. SUSPENSION DEL TERMINO
+## Artículo 706. SUSPENSIÓN DEL TÉRMINO
 
 El término para notificar el requerimiento especial se suspenderá:
 

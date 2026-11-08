@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "1"
-epigrafe: "PRINCIPIOS GENERALES"
+epigrafe: "Principios generales"
 titulo: "[[Ley 1480 de 2011 - Título I|TÍTULO I - <No incluido en documento oficial>]]"
 capitulo: "[[Ley 1480 de 2011 - Título I - Capítulo I|CAPÍTULO I - <No incluido en documento oficial>]]"
 vigencia: "vigente"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título I|Título I]] › [[Ley 1480 de 2011 - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 1. PRINCIPIOS GENERALES
+## Artículo 1. Principios generales
 
 Esta ley tiene como objetivos proteger, promover y garantizar la efectividad y el libre ejercicio de los derechos de los consumidores, así como amparar el respeto a su dignidad y a sus intereses económicos, en especial, lo referente a:
 

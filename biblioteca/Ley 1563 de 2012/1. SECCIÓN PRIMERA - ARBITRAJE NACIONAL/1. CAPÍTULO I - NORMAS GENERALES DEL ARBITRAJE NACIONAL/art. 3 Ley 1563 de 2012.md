@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "3"
-epigrafe: "PACTO ARBITRAL"
+epigrafe: "Pacto arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 3. PACTO ARBITRAL
+## Artículo 3. Pacto arbitral
 
 El pacto arbitral es un negocio jurídico por virtud del cual las partes someten o se obligan a someter a arbitraje controversias que hayan surgido o puedan surgir entre ellas.
 

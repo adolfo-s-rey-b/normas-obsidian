@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "49"
-epigrafe: "INTERVENCIÓN DEL MINISTERIO PÚBLICO"
+epigrafe: "Intervención del Ministerio Público"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo V|CAPÍTULO V - PÉRDIDA Y REEMBOLSO DE HONORARIOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo V|Capítulo V]]
 
-## Artículo 49. INTERVENCIÓN DEL MINISTERIO PÚBLICO
+## Artículo 49. Intervención del Ministerio Público
 
 El Ministerio Público está facultado para actuar en los procesos arbitrales y en los trámites de amigable composición en los que intervenga una entidad pública o quien desempeñe funciones administrativas, en defensa del orden jurídico, del patrimonio público y los derechos y garantías fundamentales. A dicho propósito, el centro de arbitraje o los amigables componedores informarán a la Procuraduría General de la Nación sobre la fecha en la que se realizará la instalación del respectivo tribunal de arbitraje o la diligencia de apertura, según corresponda.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "76"
-epigrafe: "USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES"
+epigrafe: "Uso de las tecnologías de la información y de las comunicaciones"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 76. USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES
+## Artículo 76. Uso de las tecnologías de la información y de las comunicaciones
 
 En el trámite y actuaciones de que conoce la jurisdicción ordinaria en su especialidad laboral y de la seguridad social, se usará la tecnología disponible para la automatización de procesos con el fin de facilitar y agilizar el acceso a la justicia y ampliar su cobertura. En todo caso, se permitirá el uso de medios físicos, cuando no sea posible hacerlo por los canales digitales.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "368"
-epigrafe: "CONDICIONES DE VALIDEZ DE LA MANIFESTACIÓN"
+epigrafe: "Condiciones de validez de la manifestación"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo I|CAPÍTULO I - INSTALACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 368. CONDICIONES DE VALIDEZ DE LA MANIFESTACIÓN
+## Artículo 368. Condiciones de validez de la manifestación
 
 De reconocer el acusado su culpabilidad, el juez deberá verificar que actúa de manera libre, voluntaria, debidamente informado de las consecuencias de su decisión y asesorado por su defensor. Igualmente, preguntará al acusado o a su defensor si su aceptación de los cargos corresponde a un acuerdo celebrado con la Fiscalía.
 

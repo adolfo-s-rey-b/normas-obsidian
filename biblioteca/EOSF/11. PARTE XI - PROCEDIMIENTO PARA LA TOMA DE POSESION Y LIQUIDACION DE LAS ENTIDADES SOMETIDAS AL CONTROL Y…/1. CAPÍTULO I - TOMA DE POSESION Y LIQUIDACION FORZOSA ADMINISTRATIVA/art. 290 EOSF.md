@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "290"
-epigrafe: "AMBITO DE APLICACION"
+epigrafe: "Ámbito de Aplicación"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo I|CAPÍTULO I - TOMA DE POSESION Y LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo I|Capítulo I]]
 
-## Artículo 290. AMBITO DE APLICACION
+## Artículo 290. Ámbito de Aplicación
 
 Por las disposiciones de esta parte se regirá el procedimiento administrativo de toma de posesión de los bienes, haberes y negocios de una institución vigilada por la Superintendencia Bancaria y el adelantamiento de los respectivos procesos liquidatorios.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "112"
-epigrafe: "MOTIVOS PARA DENEGAR EL RECONOCIMIENTO"
+epigrafe: "Motivos para denegar el reconocimiento"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|CAPÍTULO IX - RECONOCIMIENTO Y EJECUCIÓN DE LOS LAUDOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|Capítulo IX]]
 
-## Artículo 112. MOTIVOS PARA DENEGAR EL RECONOCIMIENTO
+## Artículo 112. Motivos para denegar el reconocimiento
 
 Solo se podrá denegar el reconocimiento de un laudo arbitral, cualquiera que sea el país en que se haya dictado, en los casos y por las causales que taxativamente se indican a continuación:
 

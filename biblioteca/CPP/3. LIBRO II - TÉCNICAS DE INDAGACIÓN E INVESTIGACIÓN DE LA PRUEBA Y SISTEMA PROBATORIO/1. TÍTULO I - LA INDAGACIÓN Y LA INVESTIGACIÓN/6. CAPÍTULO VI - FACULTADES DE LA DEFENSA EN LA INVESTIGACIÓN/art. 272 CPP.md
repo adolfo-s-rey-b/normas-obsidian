@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "272"
-epigrafe: "OBTENCIÓN DE DECLARACIÓN JURADA"
+epigrafe: "Obtención de declaración jurada"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 272. OBTENCIÓN DE DECLARACIÓN JURADA
+## Artículo 272. Obtención de declaración jurada
 
 El imputado o su defensor podrán solicitar a un alcalde municipal, inspector de policía o notario público, que le reciba declaración jurada a la persona, cuya exposición pueda resultar de especial utilidad para la investigación. Esta podrá recogerse por escrito, grabación magnetofónica, en video o en cualquier otro medio técnico idóneo.
 

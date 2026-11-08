@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "43"
-epigrafe: "ABUSO DEL DERECHO"
+epigrafe: "Abuso del derecho"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 43. ABUSO DEL DERECHO
+## Artículo 43. Abuso del derecho
 
 Los accionistas deberán ejercer el derecho de voto en el interés de la compañía. Se considerará abusivo el voto ejercido con el propósito de causar daño a la compañía o a otros accionistas o de obtener para sí o para una tercera ventaja injustificada, así como aquel voto del que pueda resultar un perjuicio para la compañía o para los otros accionistas. Quien abuse de sus derechos de accionista en las determinaciones adoptadas en la asamblea, responderá por los daños que ocasione, sin perjuicio que la Superintendencia de Sociedades pueda declarar la nulidad absoluta de la determinación adoptada, por la ilicitud del objeto.
 

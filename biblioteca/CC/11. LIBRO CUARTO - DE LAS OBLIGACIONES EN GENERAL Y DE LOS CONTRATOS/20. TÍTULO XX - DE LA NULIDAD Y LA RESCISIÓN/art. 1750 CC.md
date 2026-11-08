@@ -11,7 +11,7 @@ articulo: "1750"
 epigrafe: "PLAZOS PARA INTERPONER LA ACCIÓN RESCISIÓN"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XX|TÍTULO XX - DE LA NULIDAD Y LA RESCISIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 60 Decreto 2820 de 1974]]"
 anterior: "[[art. 1749 CC]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XX|Título XX]]

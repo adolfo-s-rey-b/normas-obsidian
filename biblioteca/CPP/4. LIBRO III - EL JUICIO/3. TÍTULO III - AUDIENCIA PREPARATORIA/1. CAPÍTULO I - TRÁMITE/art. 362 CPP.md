@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "362"
-epigrafe: "DECISIÓN SOBRE EL ORDEN DE LA PRESENTACIÓN DE LA PRUEBA"
+epigrafe: "Decisión sobre el orden de la presentación de la prueba"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título III|TÍTULO III - AUDIENCIA PREPARATORIA]]"
 capitulo: "[[CPP - Libro III - Título III - Capítulo I|CAPÍTULO I - TRÁMITE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título III|Título III]] › [[CPP - Libro III - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 362. DECISIÓN SOBRE EL ORDEN DE LA PRESENTACIÓN DE LA PRUEBA
+## Artículo 362. Decisión sobre el orden de la presentación de la prueba
 
 El juez decidirá el orden en que debe presentarse la prueba. En todo caso, la prueba de la Fiscalía tendrá lugar antes que la de la defensa, sin perjuicio de la presentación de las respectivas pruebas de refutación en cuyo caso serán primero las ofrecidas por la defensa y luego las de la Fiscalía.
 

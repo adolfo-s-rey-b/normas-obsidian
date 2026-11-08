@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "54"
-epigrafe: "NOTIFICACION DEL AUTO ADMISORIO DE LA DEMANDA A ENTIDADES PUBLICAS Y SOCIEDADES"
+epigrafe: "Notificación del Auto Admisorio de la Demanda a Entidades Públicas y Sociedades"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 54. NOTIFICACION DEL AUTO ADMISORIO DE LA DEMANDA A ENTIDADES PUBLICAS Y SOCIEDADES
+## Artículo 54. Notificación del Auto Admisorio de la Demanda a Entidades Públicas y Sociedades
 
 Cuando se trate de entidades públicas, el auto admisorio de la demanda deberá notificarse personalmente a su representante legal o a quien éste haya delegado la facultad de recibir notificaciones. Sin embargo, si la persona a quien deba hacerse la notificación, o su delegado, no se encontrare o no pudiere, por cualquier motivo, recibir la notificación, esta se practicará mediante entrega que el notificador haga al empleado que lo reciba de copia auténtica de la demanda y del auto admisorio al notificado.
 

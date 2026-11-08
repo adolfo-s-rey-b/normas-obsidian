@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "96"
-epigrafe: "DEMANDA Y CONTESTACIÓN"
+epigrafe: "Demanda y contestación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 96. DEMANDA Y CONTESTACIÓN
+## Artículo 96. Demanda y contestación
 
 Dentro del plazo convenido por las partes o determinado por el tribunal arbitral, el demandante deberá presentar su demanda, indicando los hechos en que se funda, los puntos controvertidos y el objeto de ella. El demandado, al responderla, deberá referirse a los distintos elementos de aquella, a menos que las partes hayan acordado otra cosa.
 

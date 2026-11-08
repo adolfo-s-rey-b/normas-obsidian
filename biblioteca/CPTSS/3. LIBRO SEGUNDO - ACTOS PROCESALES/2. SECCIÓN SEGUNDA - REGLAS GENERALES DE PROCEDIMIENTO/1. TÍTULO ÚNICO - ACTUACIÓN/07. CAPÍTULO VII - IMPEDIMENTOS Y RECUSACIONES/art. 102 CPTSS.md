@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "102"
-epigrafe: "JUEZ O MAGISTRADO QUE DEBE REEMPLAZAR AL IMPEDIDO O RECUSADO"
+epigrafe: "Juez o magistrado que debe reemplazar al impedido o recusado"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 102. JUEZ O MAGISTRADO QUE DEBE REEMPLAZAR AL IMPEDIDO O RECUSADO
+## Artículo 102. Juez o magistrado que debe reemplazar al impedido o recusado
 
 El juez que deba separarse del conocimiento por impedimento o recusación será reemplazado por el del mismo ramo y categoría que le siga en turno atendiendo el orden numérico, y a falta de este por el juez de igual categoría, promiscuo o de otra especialidad que determine la corporación respectiva.
 

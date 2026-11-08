@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "207"
-epigrafe: "TÉRMINO PARA RESOLVER"
+epigrafe: "Termino para resolver"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VIII|TÍTULO VIII - NULIDADES]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VIII|Título VIII]]
 
-## Artículo 207. TÉRMINO PARA RESOLVER
+## Artículo 207. Termino para resolver
 
 El funcionario competente resolverá la solicitud de nulidad dentro de los cinco (5) días siguientes a la fecha de su recibo. Si la misma se presenta en el marco de una audiencia, se resolverá en esta.
 

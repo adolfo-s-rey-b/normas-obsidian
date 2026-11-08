@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 222 de 1995"
 articulo: "234"
-epigrafe: "TITULO EJECUTIVO"
+epigrafe: "TÍTULO EJECUTIVO"
 titulo: "[[Ley 222 de 1995 - Título III|TÍTULO III - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 233 Ley 222 de 1995]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título III|Título III]]
 
-## Artículo 234. TITULO EJECUTIVO
+## Artículo 234. TÍTULO EJECUTIVO
 
 Los documentos de oferta de colocación, adquisición o venta de aportes de capital, los de su aceptación o rechazo y los dictámenes de los peritos prestarán mérito ejecutivo para el ejercicio de los derechos u obligaciones que en ellos consten. Tales documentos se presumen auténticos.
 

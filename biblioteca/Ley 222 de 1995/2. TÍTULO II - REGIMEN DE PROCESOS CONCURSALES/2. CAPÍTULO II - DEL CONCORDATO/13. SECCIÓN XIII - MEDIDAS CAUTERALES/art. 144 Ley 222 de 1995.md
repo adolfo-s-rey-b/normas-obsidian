@@ -4,11 +4,11 @@ aliases:
 tipo: articulo
 norma: "Ley 222 de 1995"
 articulo: "144"
-epigrafe: "DECRETO, PRACTICA Y OPOSICION"
+epigrafe: "DECRETO, PRÁCTICA Y OPOSICION"
 titulo: "[[Ley 222 de 1995 - Título II|TÍTULO II - REGIMEN DE PROCESOS CONCURSALES]]"
 capitulo: "[[Ley 222 de 1995 - Título II - Capítulo II|CAPÍTULO II - DEL CONCORDATO]]"
 seccion: "[[Ley 222 de 1995 - Título II - Capítulo II - Sección XIII|SECCIÓN XIII - MEDIDAS CAUTERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 126 Ley 1116 de 2006]]"
   - "[[art. 143 Ley 222 de 1995]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título II|Título II]] › [[Ley 222 de 1995 - Título II - Capítulo II|Capítulo II]] › [[Ley 222 de 1995 - Título II - Capítulo II - Sección XIII|Sección XIII]]
 
-## Artículo 144. DECRETO, PRACTICA Y OPOSICION
+## Artículo 144. DECRETO, PRÁCTICA Y OPOSICION
 
 En cualquier estado del trámite del concordato, la Superintendencia de Sociedades, de oficio o a petición de cualquier acreedor, además del embargo y secuestro de bienes, podrá decretar otras medidas cautelares que estime necesarias.
 

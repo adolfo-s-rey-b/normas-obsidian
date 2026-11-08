@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "342"
-epigrafe: "MEDIDAS DE PROTECCIÓN"
+epigrafe: "Medidas de protección"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
 capitulo: "[[CPP - Libro III - Título I - Capítulo II|CAPÍTULO II - AUDIENCIA DE FORMULACIÓN DE ACUSACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]] › [[CPP - Libro III - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 342. MEDIDAS DE PROTECCIÓN
+## Artículo 342. Medidas de protección
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 208 CPTSS|Artículo 208]] — NOTIFICACIÓN DE LAS PROVIDENCIAS
-- [[art. 209 CPTSS|Artículo 209]] — PRÁCTICA DE LA NOTIFICACIÓN PERSONAL ELECTRÓNICA
-- [[art. 210 CPTSS|Artículo 210]] — AVISO
-- [[art. 211 CPTSS|Artículo 211]] — PRÁCTICA DE LA NOTIFICACIÓN PERSONAL POR MEDIOS FÍSICOS
-- [[art. 212 CPTSS|Artículo 212]] — NOTIFICACIÓN POR CONDUCTA CONCLUYENTE
-- [[art. 213 CPTSS|Artículo 213]] — EMPLAZAMIENTO DEL DEMANDADO Y DESIGNACIÓN DE CURADOR AD LITEM
+- [[art. 208 CPTSS|Artículo 208]] — Notificación de las providencias
+- [[art. 209 CPTSS|Artículo 209]] — Práctica de la notificación personal electrónica
+- [[art. 210 CPTSS|Artículo 210]] — Aviso
+- [[art. 211 CPTSS|Artículo 211]] — Práctica de la notificación personal por medios físicos
+- [[art. 212 CPTSS|Artículo 212]] — Notificación por conducta concluyente
+- [[art. 213 CPTSS|Artículo 213]] — Emplazamiento del demandado y designación de curador ad litem
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] · ↑ [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] · [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] →

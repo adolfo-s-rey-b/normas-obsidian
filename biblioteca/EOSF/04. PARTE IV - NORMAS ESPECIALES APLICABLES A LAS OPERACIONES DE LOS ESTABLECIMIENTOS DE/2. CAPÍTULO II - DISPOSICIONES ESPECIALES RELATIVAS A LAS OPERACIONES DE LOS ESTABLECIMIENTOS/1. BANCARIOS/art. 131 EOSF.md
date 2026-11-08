@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "131"
-epigrafe: "INVERSIONES DE LOS BANCOS COOPERATIVOS"
+epigrafe: "Inversiones de los Bancos Cooperativos"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 131. INVERSIONES DE LOS BANCOS COOPERATIVOS
+## Artículo 131. Inversiones de los Bancos Cooperativos
 
 En materia de inversiones a los bancos cooperativos les será aplicable la disposición consagrada en la letra b) del artículo [[art. 28 EOSF|28]] del presente Estatuto y las normas generales dictadas para establecimientos bancarios, en cuanto estas últimas resulten compatibles con su naturaleza.
 

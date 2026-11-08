@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 272 CPACA|Artículo 272]] — FINALIDAD DE LA REVISIÓN EVENTUAL EN LAS ACCIONES POPULARES Y DE GRUPO
-- [[art. 273 CPACA|Artículo 273]] — PROCEDENCIA
-- [[art. 274 CPACA|Artículo 274]] — COMPETENCIA Y TRÁMITE
+- [[art. 272 CPACA|Artículo 272]] — Finalidad de la revisión eventual en las acciones populares y de grupo
+- [[art. 273 CPACA|Artículo 273]] — Procedencia
+- [[art. 274 CPACA|Artículo 274]] — Competencia y trámite
 
 ---
 ← [[CPACA - Parte Segunda - Título VII - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Segunda - Título VII|Título VII]]

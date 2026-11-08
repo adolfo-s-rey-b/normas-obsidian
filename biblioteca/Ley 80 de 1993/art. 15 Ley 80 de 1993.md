@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "15"
-epigrafe: "DE LA INTERPRETACIÓN UNILATERAL"
+epigrafe: "De la Interpretación Unilateral"
 vigencia: "vigente"
 anterior: "[[art. 14 Ley 80 de 1993]]"
 siguiente: "[[art. 16 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 15. DE LA INTERPRETACIÓN UNILATERAL
+## Artículo 15. De la Interpretación Unilateral
 
 Si durante la ejecución del contrato surgen discrepancias entre las partes sobre la interpretación de algunas de sus estipulaciones que puedan conducir a la paralización o a la afectación grave del servicio público que se pretende satisfacer con el objeto contratado, la entidad estatal, si no se logra acuerdo, interpretará en acto administrativo debidamente motivado, las estipulaciones o cláusulas objeto de la diferencia.
 

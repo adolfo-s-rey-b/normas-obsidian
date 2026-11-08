@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "239"
-epigrafe: "VIGILANCIA Y SEGUIMIENTO DE PERSONAS"
+epigrafe: "Vigilancia y seguimiento de personas"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 239. VIGILANCIA Y SEGUIMIENTO DE PERSONAS
+## Artículo 239. Vigilancia y seguimiento de personas
 
 Sin perjuicio de los procedimientos preventivos que adelanta la fuerza pública, en cumplimiento de su deber constitucional, el fiscal que tuviere motivos razonablemente fundados, de acuerdo con los medios cognoscitivos previstos en este código, para inferir que el indiciado o el imputado pudiere conducirlo a conseguir información útil para la investigación que se adelanta, podrá disponer que se someta a seguimiento pasivo, por tiempo determinado, por parte de la Policía Judicial. Si en el lapso de un (1) año no se obtuviere resultado alguno, se cancelará la orden de vigilancia, sin perjuicio de que vuelva a expedirse, si surgieren nuevos motivos.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "48"
-epigrafe: "PÉRDIDA Y REEMBOLSO DE HONORARIOS"
+epigrafe: "Pérdida y reembolso de honorarios"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo V|CAPÍTULO V - PÉRDIDA Y REEMBOLSO DE HONORARIOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo V|Capítulo V]]
 
-## Artículo 48. PÉRDIDA Y REEMBOLSO DE HONORARIOS
+## Artículo 48. Pérdida y reembolso de honorarios
 
 Los árbitros perderán la totalidad de los honorarios y quedarán obligados a reembolsar al presidente los ya recibidos, en los casos de renuncia, remoción por inasistencia, prosperidad de la recusación y falta a los deberes de información.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "22"
-epigrafe: "ENTIDADES QUE NO SON CONTRIBUYENTES"
+epigrafe: "Entidades que no son contribuyentes"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - No contribuyentes|NO CONTRIBUYENTES]]"
 vigencia: "modificado"
@@ -39,7 +39,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - No contribuyentes|No contribuyentes]]
 
-## Artículo 22. ENTIDADES QUE NO SON CONTRIBUYENTES
+## Artículo 22. Entidades que no son contribuyentes
 
 No son contribuyentes del impuesto sobre la renta y complementarios y no deberán cumplir el deber formal de presentar declaración de ingresos y patrimonio, de acuerdo con el artículo [[art. 598 ET|598]] del presente Estatuto, la Nación, las entidades territoriales, las Corporaciones Autónomas Regionales y de Desarrollo Sostenible, las áreas metropolitanas, la Sociedad Nacional de la Cruz Roja Colombiana y su sistema federado, las superintendencias y las unidades administrativas especiales, siempre y cuando no se señalen en la ley como contribuyentes.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "2"
-epigrafe: "ACCIONES POPULARES"
+epigrafe: "Acciones Populares"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo II|CAPÍTULO II - DEFINICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 2. ACCIONES POPULARES
+## Artículo 2. Acciones Populares
 
 Son los medios procesales para la protección de los derechos e intereses colectivos.
 

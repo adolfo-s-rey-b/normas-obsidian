@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "726"
-epigrafe: "INADMISION DEL RECURSO"
+epigrafe: "INADMISIÓN DEL RECURSO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
 
-## Artículo 726. INADMISION DEL RECURSO
+## Artículo 726. INADMISIÓN DEL RECURSO
 
 En el caso de no cumplirse los requisitos previstos en el artículo [[art. 722 ET|722]], deberá dictarse auto de inadmisión dentro del mes siguiente a la interposición del recurso. Dicho auto se notificará personalmente o por edicto si pasados diez días el interesado no se presentare a notificarse personalmente, y contra el mismo procederá únicamente el recurso de reposición ante el mismo funcionario, el cual podrá interponerse dentro de los diez días siguientes y deberá resolverse dentro de los cinco días siguientes a su interposición.
 

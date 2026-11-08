@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "436"
-epigrafe: "OPORTUNIDAD PARA EL CUMPLIMIENTO FORZADO"
+epigrafe: "Oportunidad para el cumplimiento forzado"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 436. OPORTUNIDAD PARA EL CUMPLIMIENTO FORZADO
+## Artículo 436. Oportunidad para el cumplimiento forzado
 
 El cumplimiento forzado de las obligaciones de hacer, suscribir documentos y destruir lo hecho, no podrá llevarse a efecto sino una vez ejecutoriada la providencia que ordene seguir adelante la ejecución.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "74"
-epigrafe: "OPORTUNIDAD Y TRÁMITE DE LAS MEDIDAS DE DEPURACIÓN O SANEAMIENTO"
+epigrafe: "Oportunidad y trámite de las medidas de depuración o saneamiento"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 74. OPORTUNIDAD Y TRÁMITE DE LAS MEDIDAS DE DEPURACIÓN O SANEAMIENTO
+## Artículo 74. Oportunidad y trámite de las medidas de depuración o saneamiento
 
 Las excepciones previas se formularán en el término del traslado de la demanda, en el mismo escrito de la contestación, que deberá expresar las razones y hechos en que se fundamentan. De igual manera, deberá acompañarse de todas las pruebas que se pretenda hacer valer.
 

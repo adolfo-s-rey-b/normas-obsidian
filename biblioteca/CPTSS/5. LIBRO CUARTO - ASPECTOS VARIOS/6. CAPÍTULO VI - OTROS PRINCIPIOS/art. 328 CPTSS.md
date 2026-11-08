@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "328"
-epigrafe: "PRINCIPIO DE TUTELA JUDICIAL EFECTIVA"
+epigrafe: "Principio de tutela judicial efectiva"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo VI|CAPÍTULO VI - OTROS PRINCIPIOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo VI|Capítulo VI]]
 
-## Artículo 328. PRINCIPIO DE TUTELA JUDICIAL EFECTIVA
+## Artículo 328. Principio de tutela judicial efectiva
 
 Las partes del proceso tendrán derecho a un proceso judicial desarrollado con las garantías propias del debido proceso, juez natural, imparcial e independiente y a que se profiera decisión en un término razonable, debidamente motivada y fundamentada.
 

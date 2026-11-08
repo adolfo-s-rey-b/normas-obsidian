@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 303 EOSF|Artículo 303]] — PRIVATIZACION DE ENTIDADES CON PARTICIPACION ESTATAL
+- [[art. 303 EOSF|Artículo 303]] — Privatización de Entidades con Participación Estatal
 
 ---
 ↑ [[EOSF - Parte XII|Parte XII]] · [[EOSF - Parte XII - Capítulo II|Capítulo II]] →

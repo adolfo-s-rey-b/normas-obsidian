@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "5"
-epigrafe: "DE LOS DERECHOS Y DEBERES DE LOS CONTRATISTAS"
+epigrafe: "De los Derechos y Deberes de los Contratistas"
 vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 32 Ley 1150 de 2007]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 5. DE LOS DERECHOS Y DEBERES DE LOS CONTRATISTAS
+## Artículo 5. De los Derechos y Deberes de los Contratistas
 
 Para la realización de los fines de que trata el artículo [[art. 3 Ley 80 de 1993|3]]o. de esta ley, los contratistas:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "228"
-epigrafe: "PROCEDENCIA DEL RECURSO DE APELACIÓN"
+epigrafe: "Procedencia del recurso de apelación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 228. PROCEDENCIA DEL RECURSO DE APELACIÓN
+## Artículo 228. Procedencia del recurso de apelación
 
 El recurso de apelación tiene por objeto que el superior revise la providencia impugnada, para que sea revocada o reformada. La decisión de segunda instancia se referirá única y exclusivamente sobre los puntos concretos planteados por el recurrente, a menos que se trate de derechos mínimos irrenunciables del trabajador, pensionado, afiliado, beneficiario o usuario del Sistema de Seguridad Social.
 

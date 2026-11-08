@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "36"
-epigrafe: "TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN DISCIPLINARIA"
+epigrafe: "Termino de prescripción de la sanción disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título III|TÍTULO III - LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN DISCIPLINARIA]]"
 capitulo: "[[CGD - Libro I - Título III - Capítulo II|CAPÍTULO II - LA EXTINCIÓN DE LA SANCIÓN DISCIPLINARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título III|Título III]] › [[CGD - Libro I - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 36. TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN DISCIPLINARIA
+## Artículo 36. Termino de prescripción de la sanción disciplinaria
 
 La sanción disciplinaria prescribe en un término de cinco (5) años, contados a partir de la ejecutoria del fallo.
 

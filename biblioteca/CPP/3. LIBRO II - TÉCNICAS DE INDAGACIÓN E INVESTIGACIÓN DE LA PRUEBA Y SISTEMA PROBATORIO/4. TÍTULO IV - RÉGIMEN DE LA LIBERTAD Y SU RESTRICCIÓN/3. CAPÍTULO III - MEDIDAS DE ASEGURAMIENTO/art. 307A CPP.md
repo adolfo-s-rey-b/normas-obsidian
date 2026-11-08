@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "307A"
-epigrafe: "TÉRMINO DE LA DETENCIÓN PREVENTIVA"
+epigrafe: "Término de la detención preventiva"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 307A. TÉRMINO DE LA DETENCIÓN PREVENTIVA
+## Artículo 307A. Término de la detención preventiva
 
 Cuando se trate de delitos cometidos por miembros de Grupos Delictivos Organizados el término de la medida de aseguramiento privativa de la libertad no podrá exceder de tres (3) años. Cuando se trate de Grupos Armados Organizados, el término de la medida de aseguramiento privativa de la libertad no podrá exceder de cuatro (4) años. Vencido el término anterior sin que se haya emitido sentido del fallo, se sustituirá la medida de aseguramiento por una no privativa de la libertad que permita cumplir con los fines constitucionales de la medida en relación con los derechos de las víctimas, la seguridad de la comunidad, la efectiva administración de justicia y el debido proceso.
 

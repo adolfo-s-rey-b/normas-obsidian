@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "222"
-epigrafe: "INJURIA Y CALUMNIA INDIRECTAS"
+epigrafe: "Injuria y calumnia indirectas"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título V|TÍTULO V - DELITOS CONTRA LA INTEGRIDAD MORAL]]"
 capitulo: "[[CP - Libro Segundo - Título V - Capítulo Unico|CAPÍTULO UNICO - DE LA INJURIA Y LA CALUMNIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título V|Título V]] › [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 222. INJURIA Y CALUMNIA INDIRECTAS
+## Artículo 222. Injuria y calumnia indirectas
 
 A las penas previstas en los artículos anteriores quedará sometido quien publicare, reprodujere, repitiere injuria o calumnia imputada por otro, o quien haga la imputación de modo impersonal o con las expresiones se dice, se asegura u otra semejante.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "76"
-epigrafe: "DESISTIMIENTO DE LA QUERELLA"
+epigrafe: "Desistimiento de la querella"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 76. DESISTIMIENTO DE LA QUERELLA
+## Artículo 76. Desistimiento de la querella
 
 Artículo modificado por el artículo [[art. 6 Ley 1826 de 2017|6]] de la Ley 1826 de 2017. El nuevo texto es el siguiente:> En cualquier momento de la actuación y antes del inicio de la audiencia de juicio oral, el querellante podrá manifestar verbalmente o por escrito su deseo de desistir de la acción penal.
 

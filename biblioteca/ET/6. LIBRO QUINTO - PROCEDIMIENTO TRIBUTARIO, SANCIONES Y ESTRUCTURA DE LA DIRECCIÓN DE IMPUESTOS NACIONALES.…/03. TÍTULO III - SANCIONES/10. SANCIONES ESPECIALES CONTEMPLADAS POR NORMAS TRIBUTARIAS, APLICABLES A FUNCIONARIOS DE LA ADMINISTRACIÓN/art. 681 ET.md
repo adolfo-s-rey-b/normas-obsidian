@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "681"
-epigrafe: "PRETERMISION DE TERMINOS"
+epigrafe: "PRETERMISIÓN DE TÉRMINOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones especiales contempladas por normas…|SANCIONES ESPECIALES CONTEMPLADAS POR NORMAS TRIBUTARIAS, APLICABLES A FUNCIONARIOS DE LA ADMINISTRACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones especiales contempladas por normas…|Sanciones especiales contempladas por normas…]]
 
-## Artículo 681. PRETERMISION DE TERMINOS
+## Artículo 681. PRETERMISIÓN DE TÉRMINOS
 
 La pretermisión de los términos establecidos en la ley o los reglamentos, por parte de los funcionarios de la Administración Tributaria, se sancionará con la destitución, conforme a la ley.
 

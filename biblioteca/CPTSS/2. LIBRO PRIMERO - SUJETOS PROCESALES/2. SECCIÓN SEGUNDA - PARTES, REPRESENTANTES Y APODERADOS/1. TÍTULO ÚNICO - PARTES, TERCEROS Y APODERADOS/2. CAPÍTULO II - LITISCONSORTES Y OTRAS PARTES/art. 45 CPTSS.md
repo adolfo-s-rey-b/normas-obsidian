@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "45"
-epigrafe: "LITISCONSORCIO NECESARIO E INTEGRACIÓN DEL CONTRADICTORIO"
+epigrafe: "Litisconsorcio necesario e integración del contradictorio"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 45. LITISCONSORCIO NECESARIO E INTEGRACIÓN DEL CONTRADICTORIO
+## Artículo 45. Litisconsorcio necesario e integración del contradictorio
 
 Cuando el proceso verse sobre relaciones o actos jurídicos respecto de los cuales, por su naturaleza o por disposición legal, haya de resolverse de manera uniforme y no sea posible decidir de mérito sin la comparecencia de las personas que sean sujetos de tales relaciones o que intervinieron en dichos actos, la demanda deberá formularse por todas o dirigirse contra todas; si no se hiciere así, el juez, en el auto que admite la demanda, ordenará notificar y dar traslado de esta a quienes falten para integrar el contradictorio, en la forma y con el término de comparecencia dispuestos para el demandado.
 

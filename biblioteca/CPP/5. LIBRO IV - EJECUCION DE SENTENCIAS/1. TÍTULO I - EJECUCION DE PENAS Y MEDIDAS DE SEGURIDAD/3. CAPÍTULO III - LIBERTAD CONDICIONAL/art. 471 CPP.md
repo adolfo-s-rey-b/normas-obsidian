@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "471"
-epigrafe: "SOLICITUD"
+epigrafe: "Solicitud"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo III|CAPÍTULO III - LIBERTAD CONDICIONAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 471. SOLICITUD
+## Artículo 471. Solicitud
 
 El condenado que se hallare en las circunstancias previstas en el Código Penal podrá solicitar al juez de ejecución de penas y medidas de seguridad la libertad condicional, acompañando la resolución favorable del consejo de disciplina, o en su defecto del director del respectivo establecimiento carcelario, copia de la cartilla biográfica y los demás documentos que prueben los requisitos exigidos en el Código Penal, los que deberán ser entregados a más tardar dentro de los tres (3) días siguientes.
 

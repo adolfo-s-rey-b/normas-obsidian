@@ -12,7 +12,7 @@ epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VII|TÍTULO VII - DELITOS CONTRA EL PATRIMONIO ECONOMICO]]"
 capitulo: "[[CP - Libro Segundo - Título VII - Capítulo Primero|CAPÍTULO PRIMERO - DEL HURTO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 51 Ley 1142 de 2007]]"
   - "[[art. 4 Ley 1944 de 2018]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VII|Título VII]] › [[CP - Libro Segundo - Título VII - Capítulo Primero|Capítulo Primero]]

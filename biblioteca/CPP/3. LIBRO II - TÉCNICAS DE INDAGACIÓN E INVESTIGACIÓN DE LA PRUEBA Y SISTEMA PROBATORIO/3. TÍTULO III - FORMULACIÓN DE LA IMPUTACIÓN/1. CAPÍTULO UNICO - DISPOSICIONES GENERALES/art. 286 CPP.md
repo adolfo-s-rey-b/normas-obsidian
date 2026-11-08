@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "286"
-epigrafe: "CONCEPTO"
+epigrafe: "Concepto"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título III|TÍTULO III - FORMULACIÓN DE LA IMPUTACIÓN]]"
 capitulo: "[[CPP - Libro II - Título III - Capítulo Unico|CAPÍTULO UNICO - DISPOSICIONES GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título III|Título III]] › [[CPP - Libro II - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 286. CONCEPTO
+## Artículo 286. Concepto
 
 La formulación de la imputación es el acto a través del cual la Fiscalía General de la Nación comunica a una persona su calidad de imputado, en audiencia que se lleva a cabo ante el juez de control de garantías.
 

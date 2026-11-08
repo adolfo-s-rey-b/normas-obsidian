@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "397-1"
-epigrafe: "RENDIMIENTO DE TITULOS DE AHORRO A LARGO PLAZO"
+epigrafe: "RENDIMIENTO DE TÍTULOS DE AHORRO A LARGO PLAZO"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IV|CAPÍTULO IV - RENDIMIENTOS FINANCIEROS]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 397-1. RENDIMIENTO DE TITULOS DE AHORRO A LARGO PLAZO
+## Artículo 397-1. RENDIMIENTO DE TÍTULOS DE AHORRO A LARGO PLAZO
 
 La tarifa de retención en la fuente aplicable a los rendimientos financieros provenientes de títulos emitidos por entidades vigiladas por la Superintendencia Bancaria* o de títulos emitidos en desarrollo de operaciones de deuda pública, cuyo período de redención no sea inferior a cinco (5) años, será del cuatro por ciento (4%).
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "157"
-epigrafe: "OPORTUNIDAD PARA CONTROVERTIR LA PRUEBA"
+epigrafe: "Oportunidad para controvertir la prueba"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 157. OPORTUNIDAD PARA CONTROVERTIR LA PRUEBA
+## Artículo 157. Oportunidad para controvertir la prueba
 
 Los sujetos procesales podrán controvertir las pruebas a partir del momento en que sean notificados del auto de apertura de investigación disciplinaria o de la orden de vinculación.
 

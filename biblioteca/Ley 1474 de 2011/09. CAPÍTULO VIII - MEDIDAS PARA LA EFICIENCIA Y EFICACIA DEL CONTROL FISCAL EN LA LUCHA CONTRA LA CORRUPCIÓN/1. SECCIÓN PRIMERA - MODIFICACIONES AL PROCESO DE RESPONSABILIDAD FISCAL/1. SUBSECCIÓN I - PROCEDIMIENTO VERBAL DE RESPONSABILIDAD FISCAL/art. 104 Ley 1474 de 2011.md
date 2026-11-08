@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "104"
-epigrafe: "NOTIFICACIÓN DE LAS DECISIONES"
+epigrafe: "Notificación de las decisiones"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]]
 
-## Artículo 104. NOTIFICACIÓN DE LAS DECISIONES
+## Artículo 104. Notificación de las decisiones
 
 Las decisiones que se profieran en el curso del proceso verbal de responsabilidad fiscal, se notificarán en forma personal, por aviso, por estrados o por conducta concluyente, con los siguientes procedimientos:
 

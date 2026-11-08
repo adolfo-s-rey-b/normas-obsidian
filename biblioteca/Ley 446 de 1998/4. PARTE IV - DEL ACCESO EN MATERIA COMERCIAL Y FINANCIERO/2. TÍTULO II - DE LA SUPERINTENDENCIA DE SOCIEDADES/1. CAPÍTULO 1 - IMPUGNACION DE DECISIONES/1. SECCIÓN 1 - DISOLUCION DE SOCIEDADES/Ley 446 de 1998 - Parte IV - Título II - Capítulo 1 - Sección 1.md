@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 138 Ley 446 de 1998|Artículo 138]] — DISCREPANCIAS SOBRE LAS CAUSALES
-- [[art. 139 Ley 446 de 1998|Artículo 139]] — TRAMITE
-- [[art. 140 Ley 446 de 1998|Artículo 140]] — DECLARACION DE DISOLUCION
+- [[art. 138 Ley 446 de 1998|Artículo 138]] — Discrepancias sobre las causales
+- [[art. 139 Ley 446 de 1998|Artículo 139]] — Trámite
+- [[art. 140 Ley 446 de 1998|Artículo 140]] — Declaración de disolución
 
 ---
 ↑ [[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1|Capítulo 1]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "8"
-epigrafe: "INICIACIÓN E IMPULSO DE LOS PROCESOS"
+epigrafe: "Iniciación e impulso de los procesos"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 7 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 8. INICIACIÓN E IMPULSO DE LOS PROCESOS
+## Artículo 8. Iniciación e impulso de los procesos
 
 Los procesos solo podrán iniciarse a petición de parte, salvo los que la ley autoriza promover de oficio.
 

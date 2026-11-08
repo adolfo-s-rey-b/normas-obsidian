@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "28"
-epigrafe: "UTILIDADES Y PERDIDAS"
+epigrafe: "UTILIDADES Y PÉRDIDAS"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo I|CAPÍTULO I - DEFINICION Y NORMAS GENERALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 28. UTILIDADES Y PERDIDAS
+## Artículo 28. UTILIDADES Y PÉRDIDAS
 
 El trabajador puede participar de las utilidades o beneficios de su {empleador}, pero nunca asumir sus riesgos o pérdidas.
 

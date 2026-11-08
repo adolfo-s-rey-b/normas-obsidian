@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "313"
-epigrafe: "TRANSACCIÓN POR ENTIDADES PÚBLICAS"
+epigrafe: "Transacción por entidades públicas"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 313. TRANSACCIÓN POR ENTIDADES PÚBLICAS
+## Artículo 313. Transacción por entidades públicas
 
 Los representantes de la nación, departamentos y municipios no podrán transigir sin autorización del Gobierno Nacional, del gobernador o alcalde, según fuere el caso.
 

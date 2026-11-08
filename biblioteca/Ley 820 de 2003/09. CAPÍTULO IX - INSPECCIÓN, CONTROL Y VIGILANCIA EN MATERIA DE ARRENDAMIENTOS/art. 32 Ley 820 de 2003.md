@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "32"
-epigrafe: "INSPECCIÓN, CONTROL Y VIGILANCIA DE ARRENDAMIENTO"
+epigrafe: "Inspección, control y vigilancia de arrendamiento"
 capitulo: "[[Ley 820 de 2003 - Capítulo IX|CAPÍTULO IX - INSPECCIÓN, CONTROL Y VIGILANCIA EN MATERIA DE ARRENDAMIENTOS]]"
 vigencia: "vigente"
 anterior: "[[art. 31 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo IX|Capítulo IX]]
 
-## Artículo 32. INSPECCIÓN, CONTROL Y VIGILANCIA DE ARRENDAMIENTO
+## Artículo 32. Inspección, control y vigilancia de arrendamiento
 
 La inspección, control y vigilancia, estarán a cargo de la Alcaldía Mayor de Bogotá, D. C., la Gobernación de San Andrés, Providencia y Santa Catalina y las alcaldías municipales de los municipios del país.
 

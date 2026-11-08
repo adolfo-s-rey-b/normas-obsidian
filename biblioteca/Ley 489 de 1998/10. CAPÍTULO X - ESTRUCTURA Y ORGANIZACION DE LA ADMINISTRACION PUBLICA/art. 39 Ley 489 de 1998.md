@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "39"
-epigrafe: "INTEGRACION DE LA ADMINISTRACION PUBLICA"
+epigrafe: "Integración de la administración pública"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 38 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 39. INTEGRACION DE LA ADMINISTRACION PUBLICA
+## Artículo 39. Integración de la administración pública
 
 La Administración Pública se integra por los organismos que conforman la Rama Ejecutiva del Poder Público y por todos los demás organismos y entidades de naturaleza pública que de manera permanente tienen a su cargo el ejercicio de las actividades y funciones administrativas o la prestación de servicios públicos del Estado colombiano.
 

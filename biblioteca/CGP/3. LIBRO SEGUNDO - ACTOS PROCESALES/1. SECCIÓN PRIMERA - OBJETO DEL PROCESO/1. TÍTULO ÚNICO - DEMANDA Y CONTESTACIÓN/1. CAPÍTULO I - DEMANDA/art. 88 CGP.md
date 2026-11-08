@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "88"
-epigrafe: "ACUMULACIÓN DE PRETENSIONES"
+epigrafe: "Acumulación de pretensiones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 88. ACUMULACIÓN DE PRETENSIONES
+## Artículo 88. Acumulación de pretensiones
 
 El demandante podrá acumular en una misma demanda varias pretensiones contra el demandado, aunque no sean conexas, siempre que concurran los siguientes requisitos:
 

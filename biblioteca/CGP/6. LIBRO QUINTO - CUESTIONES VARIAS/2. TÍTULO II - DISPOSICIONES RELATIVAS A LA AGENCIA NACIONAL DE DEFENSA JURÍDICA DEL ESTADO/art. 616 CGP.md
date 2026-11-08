@@ -38,7 +38,7 @@ Modifíquese el inciso 2o del artículo [[art. 269 CPACA|269]] de la Ley 1437 de
 
 "Del escrito se dará traslado a la administración demandada y a la Agencia Nacional de Defensa Jurídica del Estado por el término común de treinta (30) días para que aporten las pruebas que consideren. La administración y la Agencia Nacional de Defensa Jurídica del Estado podrán oponerse por las mismas razones a las que se refiere el artículo [[art. 102 CPACA|102]] de este código".
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 615 CGP]] · ↑ [[CGP - Libro Quinto - Título II|Título II]] · [[art. 617 CGP]] →

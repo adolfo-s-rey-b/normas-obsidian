@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "272"
-epigrafe: "DERECHO DE TERCEROS"
+epigrafe: "Derecho de terceros"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 272. DERECHO DE TERCEROS
+## Artículo 272. Derecho de terceros
 
 Queda a salvo el derecho de terceras personas, si prestan caución de indemnizar a las partes los perjuicios que de su acción se les sigan, para pedir en cualquier tiempo, antes del remate, que se levante el secuestro de bienes, alegando que tenían la posesión de ellos al tiempo en que aquel se hizo.
 

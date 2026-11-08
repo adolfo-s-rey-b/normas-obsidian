@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "592"
-epigrafe: "INSCRIPCIÓN DE LA DEMANDA EN OTROS PROCESOS"
+epigrafe: "Inscripción de la demanda en otros procesos"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 592. INSCRIPCIÓN DE LA DEMANDA EN OTROS PROCESOS
+## Artículo 592. Inscripción de la demanda en otros procesos
 
 En los procesos de pertenencia, deslinde y amojonamiento, servidumbres, expropiaciones y división de bienes comunes, el juez ordenará de oficio la inscripción de la demanda antes de la notificación del auto admisorio al demandado. Una vez inscrita, el oficio se remitirá por el registrador al juez, junto con un certificado sobre la situación jurídica del bien.
 

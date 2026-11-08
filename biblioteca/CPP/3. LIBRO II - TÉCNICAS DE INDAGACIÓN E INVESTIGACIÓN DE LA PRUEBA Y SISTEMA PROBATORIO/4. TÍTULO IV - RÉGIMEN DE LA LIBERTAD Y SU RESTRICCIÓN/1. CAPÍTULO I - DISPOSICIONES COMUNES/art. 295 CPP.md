@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "295"
-epigrafe: "AFIRMACIÓN DE LA LIBERTAD"
+epigrafe: "Afirmación de la libertad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo I|CAPÍTULO I - DISPOSICIONES COMUNES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 295. AFIRMACIÓN DE LA LIBERTAD
+## Artículo 295. Afirmación de la libertad
 
 Las disposiciones de este código que autorizan preventivamente la privación o restricción de la libertad del imputado tienen carácter excepcional; solo podrán ser interpretadas restrictivamente y su aplicación debe ser necesaria, adecuada, proporcional y razonable frente a los contenidos constitucionales.
 

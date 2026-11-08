@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "235"
-epigrafe: "PRUEBAS EN SEGUNDA INSTANCIA O EN ETAPA DE DOBLE CONFORMIDAD"
+epigrafe: "Pruebas en segunda instancia o en etapa de doble conformidad"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo VI|CAPÍTULO VI - SEGUNDA INSTANCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo VI|Capítulo VI]]
 
-## Artículo 235. PRUEBAS EN SEGUNDA INSTANCIA O EN ETAPA DE DOBLE CONFORMIDAD
+## Artículo 235. Pruebas en segunda instancia o en etapa de doble conformidad
 
 En segunda instancia, o en procesos de doble conformidad, excepcionalmente se podrán decretar pruebas de oficio.
 

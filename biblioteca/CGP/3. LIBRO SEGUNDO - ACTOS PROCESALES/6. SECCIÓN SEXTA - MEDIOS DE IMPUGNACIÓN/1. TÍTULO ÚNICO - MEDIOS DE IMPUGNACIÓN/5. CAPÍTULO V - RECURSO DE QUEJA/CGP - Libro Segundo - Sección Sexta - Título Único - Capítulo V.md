@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 352 CGP|Artículo 352]] — PROCEDENCIA
-- [[art. 353 CGP|Artículo 353]] — INTERPOSICIÓN Y TRÁMITE
+- [[art. 352 CGP|Artículo 352]] — Procedencia
+- [[art. 353 CGP|Artículo 353]] — Interposición y trámite
 
 ---
 ← [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]] →

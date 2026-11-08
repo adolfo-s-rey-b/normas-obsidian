@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "70"
-epigrafe: "ASPECTOS GENERALES DE LA CESION DE CARTERA DE LAS ENTIDADES ASEGURADORAS"
+epigrafe: "Aspectos generales de la cesión de cartera de las entidades aseguradoras"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VI|CAPÍTULO VI - CESION DE CARTERA DE LAS SOCIEDADES DE CAPITALIZACION Y ENTIDADES ASEGURADORAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VI|Capítulo VI]]
 
-## Artículo 70. ASPECTOS GENERALES DE LA CESION DE CARTERA DE LAS ENTIDADES ASEGURADORAS
+## Artículo 70. Aspectos generales de la cesión de cartera de las entidades aseguradoras
 
 Las entidades aseguradoras podrán transferir sus contratos de seguro, total o parcialmente, a otra que explote el ramo correspondiente. Cuando la cesión se efectúe sobre el veinticinco por ciento (25%) o más de la cartera de un mismo ramo se requerirá de la aprobación previa de la Superintendencia Bancaria. Para impartir la autorización la Superintendencia verificará el pago de las reclamaciones presentadas por los asegurados o beneficiarios ante la compañía cedente.
 

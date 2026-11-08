@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 102 EOSF|Artículo 102]] — REGIMEN GENERAL
-- [[art. 103 EOSF|Artículo 103]] — CONTROL DE LAS TRANSACCIONES EN EFECTIVO
-- [[art. 104 EOSF|Artículo 104]] — INFORMACION PERIODICA
+- [[art. 102 EOSF|Artículo 102]] — Régimen General
+- [[art. 103 EOSF|Artículo 103]] — Control de las Transacciones en Efectivo
+- [[art. 104 EOSF|Artículo 104]] — Información Periódica
 - [[art. 105 EOSF|Artículo 105]] — Reserva sobre la Información Reportada
-- [[art. 106 EOSF|Artículo 106]] — MODIFICACION DE NORMAS SOBRE CONTROL
-- [[art. 107 EOSF|Artículo 107]] — SANCIONES
+- [[art. 106 EOSF|Artículo 106]] — Modificación de Normas sobre Control
+- [[art. 107 EOSF|Artículo 107]] — Sanciones
 
 ---
 ← [[EOSF - Parte III - Capítulo XV|Capítulo XV]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XVII|Capítulo XVII]] →

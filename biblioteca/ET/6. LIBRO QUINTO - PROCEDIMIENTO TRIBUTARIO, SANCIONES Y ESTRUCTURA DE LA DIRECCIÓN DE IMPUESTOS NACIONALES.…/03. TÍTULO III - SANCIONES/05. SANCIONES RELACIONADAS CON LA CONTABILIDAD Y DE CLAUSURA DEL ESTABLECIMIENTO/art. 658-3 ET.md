@@ -14,7 +14,7 @@ epigrafe: "SANCIONES RELATIVAS AL INCUMPLIMIENTO EN LA OBLIGACIÓN DE INSCRIBIRS
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones relacionadas con la contabilidad y de…|SANCIONES RELACIONADAS CON LA CONTABILIDAD Y DE CLAUSURA DEL ESTABLECIMIENTO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 49 Ley 1111 de 2006]]"
   - "[[art. 20 Ley 2010 de 2019]]"
@@ -38,7 +38,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones relacionadas con la contabilidad y de…|Sanciones relacionadas con la contabilidad y de…]]

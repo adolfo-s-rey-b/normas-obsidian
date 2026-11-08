@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "5"
-epigrafe: "ENTIDADES ASEGURADORAS E INTERMEDIARIOS"
+epigrafe: "Entidades Aseguradoras e Intermediarios"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo I|CAPÍTULO I - ESTRUCTURA DEL SISTEMA FINANCIERO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo I|Capítulo I]]
 
-## Artículo 5. ENTIDADES ASEGURADORAS E INTERMEDIARIOS
+## Artículo 5. Entidades Aseguradoras e Intermediarios
 
 1\. Entidades aseguradoras. Son entidades aseguradoras las compañías y cooperativas de seguros y las de reaseguros.
 

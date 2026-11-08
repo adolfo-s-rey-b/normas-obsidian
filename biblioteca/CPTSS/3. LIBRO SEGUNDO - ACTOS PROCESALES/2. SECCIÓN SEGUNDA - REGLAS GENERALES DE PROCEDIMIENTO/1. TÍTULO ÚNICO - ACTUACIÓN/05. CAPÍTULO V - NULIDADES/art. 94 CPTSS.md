@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "94"
-epigrafe: "REQUISITOS PARA ALEGAR LA NULIDAD"
+epigrafe: "Requisitos para alegar la nulidad"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 94. REQUISITOS PARA ALEGAR LA NULIDAD
+## Artículo 94. Requisitos para alegar la nulidad
 
 La parte que alegue una nulidad deberá tener legitimación para proponerla, expresar la causal invocada, los hechos en que se fundamenta, y aportar o solicitar las pruebas que pretenda hacer valer.
 

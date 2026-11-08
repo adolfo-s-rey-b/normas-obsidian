@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "113"
-epigrafe: "ESTUDIANTES DE CONSULTORIOS JURÍDICOS Y FACULTADES DEL DEFENSOR"
+epigrafe: "Estudiantes de consultorios jurídicos y facultades del defensor"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IV|TÍTULO IV - SUJETOS PROCESALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IV|Título IV]]
 
-## Artículo 113. ESTUDIANTES DE CONSULTORIOS JURÍDICOS Y FACULTADES DEL DEFENSOR
+## Artículo 113. Estudiantes de consultorios jurídicos y facultades del defensor
 
 Los estudiantes de los consultorios jurídicos podrán actuar como defensores de oficio en los procesos disciplinarios según los términos previstos en la ley.
 

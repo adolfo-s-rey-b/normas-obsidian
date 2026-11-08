@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "30"
-epigrafe: "PROHIBICIONES Y RESPONSABILIDAD"
+epigrafe: "Prohibiciones y responsabilidad"
 titulo: "[[Ley 1480 de 2011 - Título VI|TÍTULO VI - DE LA PUBLICIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VI - Capítulo Único|CAPÍTULO ÚNICO - DE LA PUBLICIDAD]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VI|Título VI]] › [[Ley 1480 de 2011 - Título VI - Capítulo Único|Capítulo Único]]
 
-## Artículo 30. PROHIBICIONES Y RESPONSABILIDAD
+## Artículo 30. Prohibiciones y responsabilidad
 
 Está prohibida la publicidad engañosa.
 

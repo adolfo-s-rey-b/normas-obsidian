@@ -26,7 +26,7 @@ tags:
 - [[art. 239 CP|Artículo 239]] — Hurto
 - [[art. 240 CP|Artículo 240]] — HURTO CALIFICADO
 - [[art. 241 CP|Artículo 241]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
-- [[art. 242 CP|Artículo 242]] — CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA
+- [[art. 242 CP|Artículo 242]] — Circunstancias de atenuación punitiva
 - [[art. 243 CP|Artículo 243]] — ABIGEATO
 - [[art. 243A CP|Artículo 243A]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
 - [[art. 243B CP|Artículo 243B]] — CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA

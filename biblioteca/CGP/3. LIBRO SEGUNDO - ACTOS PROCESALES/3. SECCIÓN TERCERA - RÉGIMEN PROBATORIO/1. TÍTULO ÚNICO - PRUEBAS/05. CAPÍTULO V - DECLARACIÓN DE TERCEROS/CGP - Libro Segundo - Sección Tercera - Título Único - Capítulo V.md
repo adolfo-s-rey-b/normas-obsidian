@@ -24,24 +24,24 @@ tags:
 
 ### Contenido
 
-- [[art. 208 CGP|Artículo 208]] — DEBER DE TESTIMONIAR
-- [[art. 209 CGP|Artículo 209]] — EXCEPCIONES AL DEBER DE TESTIMONIAR
-- [[art. 210 CGP|Artículo 210]] — INHABILIDADES PARA TESTIMONIAR
-- [[art. 211 CGP|Artículo 211]] — IMPARCIALIDAD DEL TESTIGO
-- [[art. 212 CGP|Artículo 212]] — PETICIÓN DE LA PRUEBA Y LIMITACIÓN DE TESTIMONIOS
-- [[art. 213 CGP|Artículo 213]] — DECRETO DE LA PRUEBA
-- [[art. 214 CGP|Artículo 214]] — GASTOS DEL TESTIGO
-- [[art. 215 CGP|Artículo 215]] — TESTIMONIO EN EL DESPACHO DEL TESTIGO
-- [[art. 216 CGP|Artículo 216]] — TESTIMONIO DE AGENTES DIPLOMÁTICOS Y DE SUS DEPENDIENTES
-- [[art. 217 CGP|Artículo 217]] — CITACIÓN DE LOS TESTIGOS
-- [[art. 218 CGP|Artículo 218]] — EFECTOS DE LA INASISTENCIA DEL TESTIGO
-- [[art. 219 CGP|Artículo 219]] — REQUISITOS DEL INTERROGATORIO
-- [[art. 220 CGP|Artículo 220]] — FORMALIDADES DEL INTERROGATORIO
-- [[art. 221 CGP|Artículo 221]] — PRÁCTICA DEL INTERROGATORIO
-- [[art. 222 CGP|Artículo 222]] — RATIFICACIÓN DE TESTIMONIOS RECIBIDOS FUERA DEL PROCESO
-- [[art. 223 CGP|Artículo 223]] — CAREOS
-- [[art. 224 CGP|Artículo 224]] — DECLARACIÓN DE TESTIGOS RESIDENTES FUERA DE LA SEDE DEL JUZGADO
-- [[art. 225 CGP|Artículo 225]] — LIMITACIÓN DE LA EFICACIA DEL TESTIMONIO
+- [[art. 208 CGP|Artículo 208]] — Deber de testimoniar
+- [[art. 209 CGP|Artículo 209]] — Excepciones al deber de testimoniar
+- [[art. 210 CGP|Artículo 210]] — Inhabilidades para testimoniar
+- [[art. 211 CGP|Artículo 211]] — Imparcialidad del testigo
+- [[art. 212 CGP|Artículo 212]] — Petición de la prueba y limitación de testimonios
+- [[art. 213 CGP|Artículo 213]] — Decreto de la prueba
+- [[art. 214 CGP|Artículo 214]] — Gastos del testigo
+- [[art. 215 CGP|Artículo 215]] — Testimonio en el despacho del testigo
+- [[art. 216 CGP|Artículo 216]] — Testimonio de agentes diplomáticos y de sus dependientes
+- [[art. 217 CGP|Artículo 217]] — Citación de los testigos
+- [[art. 218 CGP|Artículo 218]] — Efectos de la inasistencia del testigo
+- [[art. 219 CGP|Artículo 219]] — Requisitos del interrogatorio
+- [[art. 220 CGP|Artículo 220]] — Formalidades del interrogatorio
+- [[art. 221 CGP|Artículo 221]] — Práctica del interrogatorio
+- [[art. 222 CGP|Artículo 222]] — Ratificación de testimonios recibidos fuera del proceso
+- [[art. 223 CGP|Artículo 223]] — Careos
+- [[art. 224 CGP|Artículo 224]] — Declaración de testigos residentes fuera de la sede del juzgado
+- [[art. 225 CGP|Artículo 225]] — Limitación de la eficacia del testimonio
 
 ---
 ← [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]] →

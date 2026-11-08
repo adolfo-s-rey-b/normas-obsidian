@@ -12,7 +12,7 @@ epigrafe: "SUSPENSION"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo IV|CAPÍTULO IV - MODALIDADES DEL CONTRATO]]"
 rubro: "[[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(FORMA, CONTENIDO, DURACIÓN, REVISIÓN, SUSPENSIÓN Y PRUEBA DEL CONTRATO)]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 52 CST]]"
   - "[[art. 46 Decreto 3743 de 1950]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo IV|Capítulo IV]] › [[CST - Título I - Capítulo IV - (forma, contenido, duración, revisión, suspensión…|(forma, contenido, duración, revisión, suspensión…]]

@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 35 CGP|Artículo 35]] — ATRIBUCIONES DE LAS SALAS DE DECISIÓN Y DEL MAGISTRADO SUSTANCIADOR
-- [[art. 36 CGP|Artículo 36]] — AUDIENCIAS Y DILIGENCIAS
+- [[art. 35 CGP|Artículo 35]] — Atribuciones de las salas de decisión y del magistrado sustanciador
+- [[art. 36 CGP|Artículo 36]] — Audiencias y diligencias
 
 ---
 ← [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Primero - Sección Primera - Título I|Título I]]

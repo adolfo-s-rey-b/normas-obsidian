@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "66"
-epigrafe: "ASPECTOS GENERALES DE LA CONVERSION"
+epigrafe: "Aspectos Generales de la Conversión"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IV|CAPÍTULO IV - CONVERSION Y ESCISION DE INSTITUCIONES FINANCIERAS Y ENTIDADES]]"
 rubro: "[[EOSF - Parte III - Capítulo IV - Aseguradoras|ASEGURADORAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IV|Capítulo IV]] › [[EOSF - Parte III - Capítulo IV - Aseguradoras|Aseguradoras]]
 
-## Artículo 66. ASPECTOS GENERALES DE LA CONVERSION
+## Artículo 66. Aspectos Generales de la Conversión
 
 1\. Presupuestos para la procedencia de la conversión. Todo establecimiento de crédito podrá convertirse en cualquiera otra de las especies de establecimientos de crédito. Para autorizar la conversión el Superintendente Bancario deberá verificar que la institución cumpla los requisitos legales propios de la nueva clase de entidad, además de las otras condiciones que se preven en el presente Estatuto.
 

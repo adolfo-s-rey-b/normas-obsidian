@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "64"
-epigrafe: "FUNCIONES DE LOS JEFES O DIRECTORES DE LAS UNIDADES MINISTERIALES"
+epigrafe: "Funciones de los jefes o directores de las unidades ministeriales"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 63 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 64. FUNCIONES DE LOS JEFES O DIRECTORES DE LAS UNIDADES MINISTERIALES
+## Artículo 64. Funciones de los jefes o directores de las unidades ministeriales
 
 Son funciones de los jefes o directores de las distintas unidades ministeriales, además de las que les señalan la Constitución Política, el acto de creación y las disposiciones legales especiales, las siguientes:
 

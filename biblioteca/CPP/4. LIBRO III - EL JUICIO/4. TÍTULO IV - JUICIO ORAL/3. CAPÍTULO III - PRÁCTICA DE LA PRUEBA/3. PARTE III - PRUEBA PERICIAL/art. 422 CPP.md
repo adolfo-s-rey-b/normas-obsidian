@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "422"
-epigrafe: "ADMISIBILIDAD DE PUBLICACIONES CIENTÍFICAS Y DE PRUEBA NOVEL"
+epigrafe: "Admisibilidad de publicaciones científicas y de prueba novel"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]]
 
-## Artículo 422. ADMISIBILIDAD DE PUBLICACIONES CIENTÍFICAS Y DE PRUEBA NOVEL
+## Artículo 422. Admisibilidad de publicaciones científicas y de prueba novel
 
 Para que una opinión pericial referida a aspectos noveles del conocimiento sea admisible en el juicio, se exigirá como requisito que la base científica o técnica satisfaga al menos uno de los siguientes criterios:
 

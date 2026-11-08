@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 196 CGD|Artículo 196]] — ELEMENTOS
-- [[art. 197 CGD|Artículo 197]] — UNIDAD DE INDICIO
-- [[art. 198 CGD|Artículo 198]] — PRUEBA DEL HECHO INDICADOR
-- [[art. 199 CGD|Artículo 199]] — APRECIACIÓN
+- [[art. 196 CGD|Artículo 196]] — Elementos
+- [[art. 197 CGD|Artículo 197]] — Unidad de indicio
+- [[art. 198 CGD|Artículo 198]] — Prueba del hecho indicador
+- [[art. 199 CGD|Artículo 199]] — Apreciación
 
 ---
 ← [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]] · ↑ [[CGD - Libro IV - Título VI|Título VI]]

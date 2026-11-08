@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 141 Ley 446 de 1998|Artículo 141]] — PROTECCION DE LOS ACCIONISTAS MINORITARIOS
-- [[art. 142 Ley 446 de 1998|Artículo 142]] — FACULTADES DE LA SUPERINTENDENCIA DE VALORES
+- [[art. 141 Ley 446 de 1998|Artículo 141]] — Protección de los accionistas minoritarios
+- [[art. 142 Ley 446 de 1998|Artículo 142]] — Facultades de la Superintendencia de Valores
 
 ---
 ↑ [[Ley 446 de 1998 - Parte IV - Título III|Título III]]

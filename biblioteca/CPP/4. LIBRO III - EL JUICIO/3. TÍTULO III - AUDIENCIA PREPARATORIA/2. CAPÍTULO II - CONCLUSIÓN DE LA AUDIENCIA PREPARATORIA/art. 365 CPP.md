@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "365"
-epigrafe: "FIJACIÓN DE LA FECHA DE INICIO DEL JUICIO ORAL"
+epigrafe: "Fijación de la fecha de inicio del juicio oral"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título III|TÍTULO III - AUDIENCIA PREPARATORIA]]"
 capitulo: "[[CPP - Libro III - Título III - Capítulo II|CAPÍTULO II - CONCLUSIÓN DE LA AUDIENCIA PREPARATORIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título III|Título III]] › [[CPP - Libro III - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 365. FIJACIÓN DE LA FECHA DE INICIO DEL JUICIO ORAL
+## Artículo 365. Fijación de la fecha de inicio del juicio oral
 
 Concluida la audiencia preparatoria, el juez fijará fecha, hora y sala para el inicio del juicio que deberá realizarse dentro de los treinta (30) días siguientes a la terminación de la audiencia preparatoria.
 

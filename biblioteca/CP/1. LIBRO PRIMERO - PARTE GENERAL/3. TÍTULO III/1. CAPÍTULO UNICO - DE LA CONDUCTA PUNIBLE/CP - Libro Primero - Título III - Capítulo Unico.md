@@ -34,10 +34,10 @@ tags:
 - [[art. 27 CP|Artículo 27]] — Tentativa
 - [[art. 28 CP|Artículo 28]] — Concurso de personas en la conducta punible
 - [[art. 29 CP|Artículo 29]] — Autores
-- [[art. 30 CP|Artículo 30]] — PARTICIPES
-- [[art. 31 CP|Artículo 31]] — CONCURSO DE CONDUCTAS PUNIBLES
+- [[art. 30 CP|Artículo 30]] — Participes
+- [[art. 31 CP|Artículo 31]] — Concurso de conductas punibles
 - [[art. 32 CP|Artículo 32]] — Ausencia de responsabilidad
-- [[art. 33 CP|Artículo 33]] — INIMPUTABILIDAD
+- [[art. 33 CP|Artículo 33]] — Inimputabilidad
 - [[art. 33A CP|Artículo 33A]] — MEDIDAS EN CASO DE DECLARATORIA DE INIMPUTABILIDAD
 
 ---

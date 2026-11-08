@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "437"
-epigrafe: "NOCIÓN"
+epigrafe: "Noción"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte VI|Parte VI]]
 
-## Artículo 437. NOCIÓN
+## Artículo 437. Noción
 
 Se considera como prueba de referencia toda declaración realizada fuera del juicio oral y que es utilizada para probar o excluir uno o varios elementos del delito, el grado de intervención en el mismo, las circunstancias de atenuación o de agravación punitivas, la naturaleza y extensión del daño irrogado, y cualquier otro aspecto sustancial objeto del debate, cuando no sea posible practicarla en el juicio.
 

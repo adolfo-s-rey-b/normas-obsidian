@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "72"
-epigrafe: "LLAMAMIENTO DE OFICIO"
+epigrafe: "Llamamiento de oficio"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 72. LLAMAMIENTO DE OFICIO
+## Artículo 72. Llamamiento de oficio
 
 En cualquiera de las instancias, siempre que el juez advierta colusión, fraude o cualquier otra situación similar en el proceso, ordenará la citación de las personas que puedan resultar perjudicadas, para que hagan valer sus derechos.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "19"
-epigrafe: "MOTIVACIÓN"
+epigrafe: "Motivación"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 19. MOTIVACIÓN
+## Artículo 19. Motivación
 
 Toda decisión de fondo deberá motivarse.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "102"
-epigrafe: "INOPONIBILIDAD POSTERIOR DE LOS MISMOS HECHOS"
+epigrafe: "Inoponibilidad posterior de los mismos hechos"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 102. INOPONIBILIDAD POSTERIOR DE LOS MISMOS HECHOS
+## Artículo 102. Inoponibilidad posterior de los mismos hechos
 
 Los hechos que configuran excepciones previas no podrán ser alegados como causal de nulidad por el demandante, ni por el demandado que tuvo oportunidad de proponer dichas excepciones.
 

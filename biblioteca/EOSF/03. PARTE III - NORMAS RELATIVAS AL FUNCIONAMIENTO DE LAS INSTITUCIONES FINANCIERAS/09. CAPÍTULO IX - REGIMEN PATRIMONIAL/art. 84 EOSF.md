@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "84"
-epigrafe: "VARIACION DE CAPITAL POR ACTO DE AUTORIDAD"
+epigrafe: "Variación de Capital por Acto de Autoridad"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "parcialmente derogado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 84. VARIACION DE CAPITAL POR ACTO DE AUTORIDAD
+## Artículo 84. Variación de Capital por Acto de Autoridad
 
 1\. Orden de capitalización. Cuando el Superintendente Bancario juzgue que el capital de un establecimiento bancario, corporación financiera, corporación de ahorro y vivienda*, compañía de financiamiento comercial, sociedad de capitalización o sociedad de servicios financieros ha caído por debajo de los límites mínimos establecidos en las disposiciones legales correspondientes o en sus estatutos, podrá pedir las explicaciones del caso y expedir una orden a dicha entidad para que cubra la deficiencia dentro del término prudencial que se le señale en la misma.
 

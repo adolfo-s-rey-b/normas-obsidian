@@ -13,7 +13,7 @@ articulo: "527"
 epigrafe: "MOMENTOS DE REALIZACIÓN DE ALGUNOS HECHOS GRAVADOS"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título III|TÍTULO III - CAUSACIÓN DEL IMPUESTO DE TIMBRE PARA ALGUNAS ACTUACIONES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 40 Ley 6 de 1992]]"
   - "[[art. 530 ET]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título III|Título III]]

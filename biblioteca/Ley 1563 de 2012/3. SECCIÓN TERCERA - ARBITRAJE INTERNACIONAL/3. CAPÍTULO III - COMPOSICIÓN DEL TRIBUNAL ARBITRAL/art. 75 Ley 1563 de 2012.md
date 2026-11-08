@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "75"
-epigrafe: "MOTIVOS DE RECUSACIÓN"
+epigrafe: "Motivos de recusación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo III|CAPÍTULO III - COMPOSICIÓN DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]]
 
-## Artículo 75. MOTIVOS DE RECUSACIÓN
+## Artículo 75. Motivos de recusación
 
 La persona a quien se comunique su posible nombramiento como árbitro deberá revelar todas las circunstancias que puedan dar lugar a dudas justificadas acerca de su imparcialidad o independencia. El árbitro, desde el momento de su nombramiento y durante todas las actuaciones arbitrales, revelará oportunamente tales circunstancias a las partes.
 

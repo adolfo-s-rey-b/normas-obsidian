@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "399"
-epigrafe: "EXPROPIACIÓN"
+epigrafe: "Expropiación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 399. EXPROPIACIÓN
+## Artículo 399. Expropiación
 
 El proceso de expropiación se sujetará a las siguientes reglas:
 

@@ -24,13 +24,13 @@ tags:
 
 ### Contenido
 
-- [[art. 305 CGP|Artículo 305]] — PROCEDENCIA
-- [[art. 306 CGP|Artículo 306]] — EJECUCIÓN
-- [[art. 307 CGP|Artículo 307]] — EJECUCIÓN CONTRA ENTIDADES DE DERECHO PÚBLICO
-- [[art. 308 CGP|Artículo 308]] — ENTREGA DE BIENES
-- [[art. 309 CGP|Artículo 309]] — OPOSICIONES A LA ENTREGA
-- [[art. 310 CGP|Artículo 310]] — DERECHO DE RETENCIÓN
-- [[art. 311 CGP|Artículo 311]] — ENTREGA DE PERSONAS
+- [[art. 305 CGP|Artículo 305]] — Procedencia
+- [[art. 306 CGP|Artículo 306]] — Ejecución
+- [[art. 307 CGP|Artículo 307]] — Ejecución contra entidades de derecho público
+- [[art. 308 CGP|Artículo 308]] — Entrega de bienes
+- [[art. 309 CGP|Artículo 309]] — Oposiciones a la entrega
+- [[art. 310 CGP|Artículo 310]] — Derecho de retención
+- [[art. 311 CGP|Artículo 311]] — Entrega de personas
 
 ---
 ← [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]]

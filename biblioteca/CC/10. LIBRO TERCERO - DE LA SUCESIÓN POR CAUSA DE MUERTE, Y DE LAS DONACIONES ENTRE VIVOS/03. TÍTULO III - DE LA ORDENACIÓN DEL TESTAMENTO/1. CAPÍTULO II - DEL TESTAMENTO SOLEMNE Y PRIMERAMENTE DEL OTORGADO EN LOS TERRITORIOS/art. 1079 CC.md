@@ -12,7 +12,7 @@ epigrafe: "OTORGAMIENTO DE TESTAMENTO CERRADO POR QUIEN NO SABE LEER Y ESCRIBIR"
 libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
 titulo: "[[CC - Libro Tercero - Título III|TÍTULO III - DE LA ORDENACIÓN DEL TESTAMENTO]]"
 capitulo: "[[CC - Libro Tercero - Título III - Capítulo II|CAPÍTULO II - DEL TESTAMENTO SOLEMNE Y PRIMERAMENTE DEL OTORGADO EN LOS TERRITORIOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 11 Decreto 2723 de 2014]]"
 anterior: "[[art. 1078 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título III|Título III]] › [[CC - Libro Tercero - Título III - Capítulo II|Capítulo II]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "132"
-epigrafe: "PRUEBAS DE OFICIO"
+epigrafe: "Pruebas de oficio"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 132. PRUEBAS DE OFICIO
+## Artículo 132. Pruebas de oficio
 
 Además de las pruebas solicitadas por los sujetos procesales, el juez en cualquier estado del proceso y antes de proferir sentencia, deberá ordenar a costa de una de las partes o de ambas, la práctica de todas aquellas que a su juicio sean útiles y necesarias para el completo esclarecimiento de los hechos controvertidos, en consideración a su disponibilidad y facilidad.
 

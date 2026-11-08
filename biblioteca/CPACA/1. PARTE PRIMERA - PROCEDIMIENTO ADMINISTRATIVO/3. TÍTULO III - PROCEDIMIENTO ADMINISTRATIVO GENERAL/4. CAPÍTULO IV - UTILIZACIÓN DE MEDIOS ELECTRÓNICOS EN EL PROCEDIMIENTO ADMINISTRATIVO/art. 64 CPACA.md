@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "64"
-epigrafe: "ESTÁNDARES Y PROTOCOLOS"
+epigrafe: "Estándares y protocolos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 64. ESTÁNDARES Y PROTOCOLOS
+## Artículo 64. Estándares y protocolos
 
 Sin perjuicio de la vigencia dispuesta en este Código en relación con las anteriores disposiciones, el Gobierno Nacional establecerá los estándares y protocolos que deberán cumplir las autoridades para incorporar en forma gradual la aplicación de medios electrónicos en los procedimientos administrativos.
 

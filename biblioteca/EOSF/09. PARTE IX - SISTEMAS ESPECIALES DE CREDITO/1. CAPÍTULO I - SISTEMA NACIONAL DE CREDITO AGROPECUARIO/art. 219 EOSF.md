@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "219"
-epigrafe: "CREDITO DE FOMENTO AGROPECUARIO Y CRITERIOS PARA SU PROGRAMACION"
+epigrafe: "Crédito de Fomento Agropecuario y Criterios para su Programación"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 219. CREDITO DE FOMENTO AGROPECUARIO Y CRITERIOS PARA SU PROGRAMACION
+## Artículo 219. Crédito de Fomento Agropecuario y Criterios para su Programación
 
 (Fuente Ley 16/90; Art. [[art. 2 EOSF|2]]o.) (incorporada en este Estatuto) De conformidad con lo dispuesto por la Ley 16 de 1990 , entiéndese por crédito de fomento agropecuario el que se otorga a favor de personas naturales o jurídicas, para ser utilizado en las distintas fases del proceso de producción y/o comercialización de bienes originados directamente o en forma conexa o complementaria, en la explotación de actividades agropecuarias, piscícolas, apícolas, avícolas, forestales, afines o similares, y en la acuicultura. El crédito agropecuario se otorgará para la financiación de capital de trabajo, la inversión nueva o los ensanches requeridos en las actividades indicadas.
 

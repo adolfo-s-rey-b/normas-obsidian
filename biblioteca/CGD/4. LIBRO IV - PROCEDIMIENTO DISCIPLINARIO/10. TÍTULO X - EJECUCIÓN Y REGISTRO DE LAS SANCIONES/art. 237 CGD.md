@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "237"
-epigrafe: "PAGO Y PLAZO DE LA MULTA"
+epigrafe: "Pago y plazo de la multa"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título X|TÍTULO X - EJECUCIÓN Y REGISTRO DE LAS SANCIONES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título X|Título X]]
 
-## Artículo 237. PAGO Y PLAZO DE LA MULTA
+## Artículo 237. Pago y plazo de la multa
 
 Cuando la sanción sea de multa y el sancionado continúe vinculado a la misma entidad, el descuento podrá hacerse en forma proporcional durante los doce meses siguientes a su imposición; si se encuentra vinculado a otra entidad oficial, se oficiará para que el cobro se efectúe por descuento. Cuando la suspensión en el cargo haya sido convertida en días de salario, el cobro se efectuará por jurisdicción coactiva.
 

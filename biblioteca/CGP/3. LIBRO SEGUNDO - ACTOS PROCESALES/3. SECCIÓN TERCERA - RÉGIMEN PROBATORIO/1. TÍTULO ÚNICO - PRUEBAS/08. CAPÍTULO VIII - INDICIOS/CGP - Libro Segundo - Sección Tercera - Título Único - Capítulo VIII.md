@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 240 CGP|Artículo 240]] — REQUISITOS DE LOS INDICIOS
-- [[art. 241 CGP|Artículo 241]] — LA CONDUCTA DE LAS PARTES COMO INDICIO
-- [[art. 242 CGP|Artículo 242]] — APRECIACIÓN DE LOS INDICIOS
+- [[art. 240 CGP|Artículo 240]] — Requisitos de los indicios
+- [[art. 241 CGP|Artículo 241]] — La conducta de las partes como indicio
+- [[art. 242 CGP|Artículo 242]] — Apreciación de los indicios
 
 ---
 ← [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]] →

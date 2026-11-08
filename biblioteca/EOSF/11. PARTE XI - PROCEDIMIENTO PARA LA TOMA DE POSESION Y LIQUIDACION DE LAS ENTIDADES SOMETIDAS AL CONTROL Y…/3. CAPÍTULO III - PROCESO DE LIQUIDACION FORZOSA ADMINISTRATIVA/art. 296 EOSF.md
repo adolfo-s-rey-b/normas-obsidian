@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "296"
-epigrafe: "INTERVENCION DEL FONDO DE GARANTIAS EN EL PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA"
+epigrafe: "Intervención del Fondo de Garantías en el Proceso de Liquidación Forzosa Administrativa"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 296. INTERVENCION DEL FONDO DE GARANTIAS EN EL PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA
+## Artículo 296. Intervención del Fondo de Garantías en el Proceso de Liquidación Forzosa Administrativa
 
 1\. Atribuciones generales. En los procesos de liquidación forzosa administrativa de entidades vigiladas por la Superintendencia Bancaria, corresponderá al Fondo de Garantías de Instituciones Financieras:
 

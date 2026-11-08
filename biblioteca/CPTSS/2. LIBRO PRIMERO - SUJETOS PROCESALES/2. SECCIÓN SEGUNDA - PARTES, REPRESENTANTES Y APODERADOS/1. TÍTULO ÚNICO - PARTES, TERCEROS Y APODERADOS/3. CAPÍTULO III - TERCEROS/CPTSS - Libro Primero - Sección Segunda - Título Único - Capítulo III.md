@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 52 CPTSS|Artículo 52]] — COADYUVANCIA
-- [[art. 53 CPTSS|Artículo 53]] — LLAMAMIENTO DE OFICIO
+- [[art. 52 CPTSS|Artículo 52]] — Coadyuvancia
+- [[art. 53 CPTSS|Artículo 53]] — Llamamiento de oficio
 
 ---
 ← [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] →

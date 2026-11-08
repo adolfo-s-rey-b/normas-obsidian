@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "183"
 titulo: "[[CPol - Título VI|TÍTULO VI - De la rama legislativa]]"
 capitulo: "[[CPol - Título VI - Capítulo 6|CAPÍTULO 6 - De los congresistas]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 182 CPol]]"
 siguiente: "[[art. 184 CPol]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título VI|Título VI]] › [[CPol - Título VI - Capítulo 6|Capítulo 6]]

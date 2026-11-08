@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "50"
-epigrafe: "CREACIÓN"
+epigrafe: "Creación"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VI|CAPÍTULO VI - CENTROS DE ARBITRAJE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VI|Capítulo VI]]
 
-## Artículo 50. CREACIÓN
+## Artículo 50. Creación
 
 Las entidades públicas y las personas jurídicas sin ánimo de lucro podrán crear centros de arbitraje con autorización del Ministerio de Justicia y del Derecho, previo cumplimiento de los siguientes requisitos:
 

@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "295"
-epigrafe: "REGIMEN APLICABLE AL LIQUIDADOR Y AL CONTRALOR"
+epigrafe: "Régimen Aplicable al Liquidador y al Contralor"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 28 Ley 510 de 1999]]"
   - "[[art. 59 Ley 795 de 2003]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 295. REGIMEN APLICABLE AL LIQUIDADOR Y AL CONTRALOR
+## Artículo 295. Régimen Aplicable al Liquidador y al Contralor
 
 1\. Naturaleza de las funciones del liquidador. El liquidador designado por el Fondo de Garantías de Instituciones Financieras o por los acreedores reconocidos, ejercerá funciones públicas administrativas transitorias, sin perjuicio de la aplicabilidad de las reglas del derecho privado a los actos de gestión que deba ejecutar durante el proceso de liquidación.
 

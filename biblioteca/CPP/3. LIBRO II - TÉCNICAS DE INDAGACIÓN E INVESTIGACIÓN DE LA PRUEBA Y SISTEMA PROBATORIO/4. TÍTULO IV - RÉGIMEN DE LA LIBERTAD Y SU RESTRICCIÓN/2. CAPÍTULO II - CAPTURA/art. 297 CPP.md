@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "297"
-epigrafe: "REQUISITOS GENERALES"
+epigrafe: "Requisitos generales"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 19 Ley 1142 de 2007]]"
   - "[[art. 297 CPP]]"
@@ -33,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 297. REQUISITOS GENERALES
+## Artículo 297. Requisitos generales
 
 Para la captura se requerirá orden escrita proferida por un juez de control de garantías con las formalidades legales y por motivos razonablemente fundados, de acuerdo con el artículo [[art. 221 CPP|221]], para inferir que aquel contra quien se pide librarla es autor o partícipe del delito que se investiga, según petición hecha por el respectivo fiscal.
 

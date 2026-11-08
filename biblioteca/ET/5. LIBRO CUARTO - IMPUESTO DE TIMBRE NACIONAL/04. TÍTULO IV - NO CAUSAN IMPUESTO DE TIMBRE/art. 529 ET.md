@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "529"
-epigrafe: "LAS OBLIGACIONES RELACIONADAS CON EL CREDITO EXTERNO"
+epigrafe: "LAS OBLIGACIONES RELACIONADAS CON EL CRÉDITO EXTERNO"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título IV|TÍTULO IV - NO CAUSAN IMPUESTO DE TIMBRE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título IV|Título IV]]
 
-## Artículo 529. LAS OBLIGACIONES RELACIONADAS CON EL CREDITO EXTERNO
+## Artículo 529. LAS OBLIGACIONES RELACIONADAS CON EL CRÉDITO EXTERNO
 
 No están sometidos al impuesto de timbre los instrumentos en que se haga constar la constitución, existencia, modificación o extinción de obligaciones relacionadas con crédito externo.
 

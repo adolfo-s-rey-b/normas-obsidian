@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 269 CPACA|Artículo 269]] — PROCEDIMIENTO PARA LA EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A TERCEROS
-- [[art. 270 CPACA|Artículo 270]] — SENTENCIAS DE UNIFICACIÓN JURISPRUDENCIAL
+- [[art. 269 CPACA|Artículo 269]] — Procedimiento para la extensión de la jurisprudencia del Consejo de Estado a terceros
+- [[art. 270 CPACA|Artículo 270]] — Sentencias de unificación jurisprudencial
 - [[art. 271 CPACA|Artículo 271]] — Decisiones por importancia jurídica, trascendencia económica o social o necesidad de sentar jurisprudencia o precisar su alcance o resolver las divergencias en su interpretación y aplicación
 
 ---

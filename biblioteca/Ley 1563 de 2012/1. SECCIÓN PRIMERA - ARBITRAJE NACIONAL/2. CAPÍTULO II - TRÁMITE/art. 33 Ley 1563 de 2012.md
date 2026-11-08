@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "33"
-epigrafe: "AUDIENCIAS DE ALEGATOS Y DE LAUDO"
+epigrafe: "Audiencias de alegatos y de laudo"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 33. AUDIENCIAS DE ALEGATOS Y DE LAUDO
+## Artículo 33. Audiencias de alegatos y de laudo
 
 Concluida la instrucción del proceso, el tribunal oirá en audiencia las alegaciones de las partes por un espacio máximo de una hora cada cual, sin que interese el número de sus integrantes. En el curso de la audiencia, las partes podrán entregar sus alegaciones por escrito. A continuación el tribunal señalará día y hora para audiencia de laudo, en la que se dará lectura a la parte resolutiva de este.
 

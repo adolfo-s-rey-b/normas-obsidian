@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "246"
-epigrafe: "REGLA GENERAL"
+epigrafe: "Regla general"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo III|CAPÍTULO III - ACTUACIONES QUE REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 246. REGLA GENERAL
+## Artículo 246. Regla general
 
 Las actividades que adelante la policía judicial, en desarro llo del programa metodológico de la investigación, diferentes a las previstas en el capítulo anterior y que impliquen afectación de derechos y garantías fundamentales, únicamente se podrán realizar con autorización previa proferida por el juez de control de garantías, a petición del fiscal correspondiente. La policía judicial podrá requerir autorización previa directamente al juez, cuando se presenten circunstancias excepcionales que ameriten extrema urgencia, en cuyo caso el fiscal deberá ser informado de ello inmediatamente.
 

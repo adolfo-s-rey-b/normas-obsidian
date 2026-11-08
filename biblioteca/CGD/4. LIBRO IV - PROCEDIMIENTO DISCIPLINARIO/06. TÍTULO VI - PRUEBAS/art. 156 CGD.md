@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "156"
-epigrafe: "APOYO TÉCNICO"
+epigrafe: "Apoyo técnico"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 156. APOYO TÉCNICO
+## Artículo 156. Apoyo técnico
 
 El servidor público que conozca de la actuación disciplinaria podrá solicitar, gratuitamente, a todos los organismos del Estado la colaboración técnica que considere necesaria para al éxito de las investigaciones.
 

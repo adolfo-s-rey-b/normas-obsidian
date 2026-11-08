@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "581"
-epigrafe: "LICENCIAS O AUTORIZACIONES"
+epigrafe: "Licencias o autorizaciones"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Cuarta|SECCIÓN CUARTA - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
 titulo: "[[CGP - Libro Tercero - Sección Cuarta - Título Único|TÍTULO ÚNICO - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 581. LICENCIAS O AUTORIZACIONES
+## Artículo 581. Licencias o autorizaciones
 
 En la solicitud de licencia para levantamiento de patrimonio de familia inembargable o para enajenación de bienes de incapaces, deberá justificarse la necesidad y expresarse la destinación del producto, en su caso.
 

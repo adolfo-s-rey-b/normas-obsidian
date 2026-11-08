@@ -49,7 +49,7 @@ d). En el caso de la jornada de treinta y seis (36) horas semanales del artícul
 
 (161)
 
-> [!note] Notas del Editor: Entiéndase literal d) del artículo [[art. 161 CST|161]] de este código por la reforma introducida por la Ley 2466 de 2025.
+> [!note] Notas del Editor: Entiéndase literal d) del artículo 161 de este código por la reforma introducida por la Ley 2466 de 2025.
 
 2\. El gobierno nacional especificará las labores a que se refieren los ordinales a) y b) del ordinal 1. de este artículo.
 

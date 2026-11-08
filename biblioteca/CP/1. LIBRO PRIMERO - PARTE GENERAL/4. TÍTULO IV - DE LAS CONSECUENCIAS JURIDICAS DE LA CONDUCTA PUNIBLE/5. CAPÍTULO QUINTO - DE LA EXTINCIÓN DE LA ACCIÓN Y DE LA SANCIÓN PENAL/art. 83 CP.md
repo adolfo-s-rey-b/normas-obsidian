@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "83"
-epigrafe: "TÉRMINO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL"
+epigrafe: "Termino de prescripción de la acción penal"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Quinto|CAPÍTULO QUINTO - DE LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN PENAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 8 Ley 2098 de 2021]]"
   - "[[art. 70 Ley 2277 de 2022]]"
@@ -38,12 +38,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Quinto|Capítulo Quinto]]
 
-## Artículo 83. TÉRMINO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL
+## Artículo 83. Termino de prescripción de la acción penal
 
 La acción penal prescribirá en un tiempo igual al máximo de la pena fijada en la ley, si fuere privativa de la libertad, pero en ningún caso será inferior a cinco (5) años, ni excederá de veinte (20), salvo lo dispuesto en el inciso siguiente de este artículo.
 

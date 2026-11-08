@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "35"
-epigrafe: "LAS DEUDAS POR PRÉSTAMOS EN DINERO ENTRE LAS SOCIEDADES Y LOS SOCIOS GENERAN INTERESES PRESUNTIVOS"
+epigrafe: "Las deudas por préstamos en dinero entre las sociedades y los socios generan intereses presuntivos"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 35. LAS DEUDAS POR PRÉSTAMOS EN DINERO ENTRE LAS SOCIEDADES Y LOS SOCIOS GENERAN INTERESES PRESUNTIVOS
+## Artículo 35. Las deudas por préstamos en dinero entre las sociedades y los socios generan intereses presuntivos
 
 Para efectos del impuesto sobre la renta, se presume de derecho que todo préstamo en dinero, cualquiera que sea su naturaleza o denominación, que otorguen las sociedades a sus socios o accionistas o estos a la sociedad, genera un rendimiento mínimo anual y proporcional al tiempo de posesión, equivalente a la tasa para DTF vigente a 31 de diciembre del año inmediatamente anterior al gravable.
 

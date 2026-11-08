@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "65"
-epigrafe: "DEBER DE PUBLICACIÓN DE LOS ACTOS ADMINISTRATIVOS DE CARÁCTER GENERAL"
+epigrafe: "Deber de publicación de los actos administrativos de carácter general"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - PUBLICACIONES, CITACIONES, COMUNICACIONES Y NOTIFICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 65. DEBER DE PUBLICACIÓN DE LOS ACTOS ADMINISTRATIVOS DE CARÁCTER GENERAL
+## Artículo 65. Deber de publicación de los actos administrativos de carácter general
 
 Los actos administrativos de carácter general no serán obligatorios mientras no hayan sido publicados en el Diario Oficial o en las gacetas territoriales, según el caso.
 

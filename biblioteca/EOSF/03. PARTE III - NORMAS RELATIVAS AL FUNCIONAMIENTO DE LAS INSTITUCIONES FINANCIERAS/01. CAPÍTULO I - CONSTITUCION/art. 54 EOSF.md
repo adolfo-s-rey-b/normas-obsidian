@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "54"
-epigrafe: "NORMAS ESPECIALES SOBRE LA CONSTITUCION DE INTERMEDIARIOS DE SEGUROS"
+epigrafe: "Normas Especiales sobre la Constitución de Intermediarios de Seguros"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo I|CAPÍTULO I - CONSTITUCION]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo I|Capítulo I]]
 
-## Artículo 54. NORMAS ESPECIALES SOBRE LA CONSTITUCION DE INTERMEDIARIOS DE SEGUROS
+## Artículo 54. Normas Especiales sobre la Constitución de Intermediarios de Seguros
 
 1\. Intermediarios de seguros. Lo dispuesto en el presente capítulo no se aplica a los intermediarios de seguros, cuya constitución se somete a las normas generales del Código de Comercio.
 

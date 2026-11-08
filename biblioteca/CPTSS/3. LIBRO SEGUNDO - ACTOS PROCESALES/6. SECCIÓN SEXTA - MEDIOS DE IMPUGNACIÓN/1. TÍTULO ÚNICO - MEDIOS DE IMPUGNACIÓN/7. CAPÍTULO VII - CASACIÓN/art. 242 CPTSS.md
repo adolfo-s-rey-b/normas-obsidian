@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "242"
-epigrafe: "SELECCIÓN EN EL TRÁMITE DEL RECURSO DE CASACIÓN"
+epigrafe: "Selección en el trámite del recurso de casación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 242. SELECCIÓN EN EL TRÁMITE DEL RECURSO DE CASACIÓN
+## Artículo 242. Selección en el trámite del recurso de casación
 
 La Sala, aunque la demanda de casación cumpla los requisitos formales, podrá inadmitirla, mediante providencia motivada, cuando exista identidad esencial del caso con jurisprudencia reiterada de la Corte, salvo que el recurrente demuestre la necesidad de variar su sentido.
 

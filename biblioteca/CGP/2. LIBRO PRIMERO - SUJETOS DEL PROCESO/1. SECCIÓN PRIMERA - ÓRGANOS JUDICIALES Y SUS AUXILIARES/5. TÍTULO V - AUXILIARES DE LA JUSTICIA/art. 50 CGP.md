@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "50"
-epigrafe: "EXCLUSIÓN DE LA LISTA"
+epigrafe: "Exclusión de la lista"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 50. EXCLUSIÓN DE LA LISTA
+## Artículo 50. Exclusión de la lista
 
 El Consejo Superior de la Judicatura excluirá de las listas de auxiliares de la justicia:
 

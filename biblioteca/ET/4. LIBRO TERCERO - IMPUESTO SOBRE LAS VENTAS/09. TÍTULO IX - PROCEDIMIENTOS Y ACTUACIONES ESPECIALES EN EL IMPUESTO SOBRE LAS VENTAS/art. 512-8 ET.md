@@ -13,7 +13,7 @@ articulo: "512-8"
 epigrafe: "DEFINICIÓN DE RESTAURANTES"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IX|TÍTULO IX - PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 78 Ley 1607 de 2012]]"
   - "[[art. 160 Ley 2010 de 2019]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IX|Título IX]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "139"
-epigrafe: "NULIDAD ELECTORAL"
+epigrafe: "Nulidad electoral"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 139. NULIDAD ELECTORAL
+## Artículo 139. Nulidad electoral
 
 Cualquier persona podrá pedir la nulidad de los actos de elección por voto popular o por cuerpos electorales, así como de los actos de nombramiento que expidan las entidades y autoridades públicas de todo orden. Igualmente podrá pedir la nulidad de los actos de llamamiento para proveer vacantes en las corporaciones públicas.
 

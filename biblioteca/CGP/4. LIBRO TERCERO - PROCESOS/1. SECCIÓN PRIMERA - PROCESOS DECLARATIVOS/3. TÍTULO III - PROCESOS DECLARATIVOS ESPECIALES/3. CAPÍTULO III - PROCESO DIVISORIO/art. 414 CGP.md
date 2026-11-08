@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "414"
-epigrafe: "DERECHO DE COMPRA"
+epigrafe: "Derecho de compra"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 414. DERECHO DE COMPRA
+## Artículo 414. Derecho de compra
 
 Dentro de los tres (3) días siguientes a la ejecutoria del auto que decrete la venta de la cosa común, cualquiera de los demandados podrá hacer uso del derecho de compra. La distribución entre los comuneros que ejerciten tal derecho se hará en proporción a sus respectivas cuotas.
 

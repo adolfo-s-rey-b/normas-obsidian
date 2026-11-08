@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "498"
-epigrafe: "ENTREGA DE BIENES AL ALBACEA"
+epigrafe: "Entrega de bienes al albacea"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 498. ENTREGA DE BIENES AL ALBACEA
+## Artículo 498. Entrega de bienes al albacea
 
 El juez entregará al albacea con tenencia de bienes que haya aceptado el cargo, aquellos a que se refiera su gestión, en diligencia para cuya práctica señalará día y hora. En caso de que el albacea no comparezca, se declarará caducado su nombramiento, a menos que dentro de los tres (3) días siguientes presente prueba siquiera sumaria, de haber tenido motivo justificado para ello. Respecto de los bienes sociales se tendrá en cuenta lo dispuesto en el artículo [[art. 496 CGP|496]].
 

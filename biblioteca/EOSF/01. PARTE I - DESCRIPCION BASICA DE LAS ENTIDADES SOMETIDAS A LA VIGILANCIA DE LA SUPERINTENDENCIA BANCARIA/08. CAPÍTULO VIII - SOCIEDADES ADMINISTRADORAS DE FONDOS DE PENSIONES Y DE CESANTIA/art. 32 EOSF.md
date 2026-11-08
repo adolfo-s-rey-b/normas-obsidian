@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "32"
-epigrafe: "ALCANCE DE LA RESPONSABILIDAD DE LA ADMINISTRADORA"
+epigrafe: "Alcance de la Responsabilidad de la Administradora"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo VIII|CAPÍTULO VIII - SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 32. ALCANCE DE LA RESPONSABILIDAD DE LA ADMINISTRADORA
+## Artículo 32. Alcance de la Responsabilidad de la Administradora
 
 Las administradoras deberán velar por la adecuada rentabilidad de sus inversiones respondiendo hasta por la culpa leve por los perjuicios que el incumplimiento de esta obligación causare al fondo que administran.
 

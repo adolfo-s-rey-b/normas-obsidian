@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "254"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 254. TRÁMITE
+## Artículo 254. Trámite
 
 Recibido el expediente en la Corte, la Sala de Casación Laboral a efectos de admitir el recurso, verificará que el laudo cumple los presupuestos para su trámite, que fue suscrito por la totalidad de los árbitros, que el recurso fue interpuesto y debidamente sustentado dentro del término establecido para el efecto, a través de abogado. En el auto que admite el recurso se correrá traslado común del mismo a las partes para alegaciones por un término de cinco (5) días. Esta providencia será susceptible del recurso de reposición.
 

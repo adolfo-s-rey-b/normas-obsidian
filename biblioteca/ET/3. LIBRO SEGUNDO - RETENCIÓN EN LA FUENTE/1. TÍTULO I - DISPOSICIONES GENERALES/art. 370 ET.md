@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "370"
-epigrafe: "LOS AGENTES QUE NO EFECTUEN LA RETENCION, SON RESPONSABLES CON EL CONTRIBUYENTE"
+epigrafe: "LOS AGENTES QUE NO EFECTÚEN LA RETENCIÓN, SON RESPONSABLES CON EL CONTRIBUYENTE"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título I|Título I]]
 
-## Artículo 370. LOS AGENTES QUE NO EFECTUEN LA RETENCION, SON RESPONSABLES CON EL CONTRIBUYENTE
+## Artículo 370. LOS AGENTES QUE NO EFECTÚEN LA RETENCIÓN, SON RESPONSABLES CON EL CONTRIBUYENTE
 
 (Fuente original compilada: L. 52/77 Art. [[art. 6 ET|6]]o.) No realizada la retención o percepción, el agente responderá por la suma que está obligado a retener o percibir, sin perjuicio de su derecho de reembolso contra el contribuyente, cuando aquél satisfaga la obligación. Las sanciones o multas impuestas al agente por el incumplimiento de sus deberes serán de su exclusiva responsabilidad.
 

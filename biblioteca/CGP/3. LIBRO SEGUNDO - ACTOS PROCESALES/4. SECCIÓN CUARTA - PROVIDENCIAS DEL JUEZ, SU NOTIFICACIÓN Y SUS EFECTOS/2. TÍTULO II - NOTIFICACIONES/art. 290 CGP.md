@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "290"
-epigrafe: "PROCEDENCIA DE LA NOTIFICACIÓN PERSONAL"
+epigrafe: "Procedencia de la notificación personal"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 290. PROCEDENCIA DE LA NOTIFICACIÓN PERSONAL
+## Artículo 290. Procedencia de la notificación personal
 
 Deberán hacerse personalmente las siguientes notificaciones:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "4"
-epigrafe: "DE LOS DERECHOS Y DEBERES DE LAS ENTIDADES ESTATALES"
+epigrafe: "De los Derechos y Deberes de las Entidades Estatales"
 vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 19 Ley 1150 de 2007]]"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 4. DE LOS DERECHOS Y DEBERES DE LAS ENTIDADES ESTATALES
+## Artículo 4. De los Derechos y Deberes de las Entidades Estatales
 
 Para la consecución de los fines de que trata el artículo anterior, las entidades estatales:
 

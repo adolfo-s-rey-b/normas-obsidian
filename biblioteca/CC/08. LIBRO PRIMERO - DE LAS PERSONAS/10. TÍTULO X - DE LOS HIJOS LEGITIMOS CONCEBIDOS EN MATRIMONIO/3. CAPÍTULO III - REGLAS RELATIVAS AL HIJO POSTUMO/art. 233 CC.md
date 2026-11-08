@@ -12,7 +12,7 @@ epigrafe: "DERECHOS DE LA MADRE"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título X|TÍTULO X - DE LOS HIJOS LEGITIMOS CONCEBIDOS EN MATRIMONIO]]"
 capitulo: "[[CC - Libro Primero - Título X - Capítulo III|CAPÍTULO III - REGLAS RELATIVAS AL HIJO POSTUMO]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 39 CC]]"
   - "[[art. 48 CC]]"
@@ -25,7 +25,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Primero|Libro Primero]] › [[CC - Libro Primero - Título X|Título X]] › [[CC - Libro Primero - Título X - Capítulo III|Capítulo III]]

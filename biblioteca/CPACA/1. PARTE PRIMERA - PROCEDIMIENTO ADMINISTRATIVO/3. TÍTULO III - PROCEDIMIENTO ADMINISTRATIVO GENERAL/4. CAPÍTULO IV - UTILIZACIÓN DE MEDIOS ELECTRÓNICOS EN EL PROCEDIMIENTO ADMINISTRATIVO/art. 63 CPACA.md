@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "63"
-epigrafe: "SESIONES VIRTUALES"
+epigrafe: "Sesiones virtuales"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 63. SESIONES VIRTUALES
+## Artículo 63. Sesiones virtuales
 
 Los comités, consejos, juntas y demás organismos colegiados en la organización interna de las autoridades, podrán deliberar, votar y decidir en conferencia virtual, utilizando los medios electrónicos idóneos y dejando constancia de lo actuado por ese mismo medio con los atributos de seguridad necesarios.
 

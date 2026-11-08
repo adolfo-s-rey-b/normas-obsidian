@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "129"
-epigrafe: "ASPECTOS RELATIVOS A LOS BANCOS HIPOTECARIOS"
+epigrafe: "Aspectos Relativos a los Bancos Hipotecarios"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -34,7 +34,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 129. ASPECTOS RELATIVOS A LOS BANCOS HIPOTECARIOS
+## Artículo 129. Aspectos Relativos a los Bancos Hipotecarios
 
 1\. Operaciones autorizadas para bancos hipotecarios. Los bancos hipotecarios quedan autorizados para efectuar las siguientes operaciones y no otras:
 
@@ -68,7 +68,7 @@ Los bancos hipotecarios podrán recibir depósitos de sumas fijas, a intervalos 
 
 5\. Garantía de las obligaciones pasivas. Las obligaciones pasivas de los bancos quedarán garantizadas con las hipotecas que se otorguen en favor de ellos y con su capital social y fondo de reserva.
 
-> [!note] Notas del Editor: Para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 2 Decreto 1554 de 1995|2]] del Decreto 1554 de 1995, los artículos [[art. 2 Decreto 789 de 1996|2]] y [[art. 3 Decreto 789 de 1996|3]] del Decreto 789 de 1996 Los textos referidos son los siguientes: DECRETO 789 DE 1996: ARTICULO 2o. La cartera y las operaciones, activas de crédito de los bancos hipotecarios quedarán sujetas, adicionalmente, a las siguientes condiciones y restricciones generales: a) Por lo menos el ochenta y cinco por ciento (85%) del total de su cartera deberá estar respaldada con garantía hipotecaria; b) El valor total de los préstamos para consumo, incluidos entre éstos los créditos para vehículo, no podrá exceder del 75% del total de su cartera. ARTICULO 3o. La cartera de los bancos hipotecarios respaldada con fiducia en garantía de que trata el Decreto 2348 de 1995 computará dentro del porcentaje previsto en la letra a) del artículo [[art. 2 EOSF|2]]o del presente Decreto. DECRETO 1554 DE 1995: . ARTICULO 2o. Por lo menos el ochenta y cinco por ciento (85%) del total de cartera de los bancos hipotecarios deberá estar respaldada con garantía hipotecaria. PARAGRAFO. Lo dispuesto en el presente artículo es aplicable inclusive para los créditos que se otorguen en desarrollo de las operaciones autorizadas por el artículo [[art. 4 Decreto 2423 de 1993|4]]o del Decreto 2423 de 1993.
+> [!note] Notas del Editor: Para la interpretación de este artículo, debe tenerse en cuenta lo dispuesto por el artículo [[art. 2 Decreto 1554 de 1995|2]] del Decreto 1554 de 1995, los artículos [[art. 2 Decreto 789 de 1996|2]] y [[art. 3 Decreto 789 de 1996|3]] del Decreto 789 de 1996 Los textos referidos son los siguientes: DECRETO 789 DE 1996: ARTICULO 2o. La cartera y las operaciones, activas de crédito de los bancos hipotecarios quedarán sujetas, adicionalmente, a las siguientes condiciones y restricciones generales: a) Por lo menos el ochenta y cinco por ciento (85%) del total de su cartera deberá estar respaldada con garantía hipotecaria; b) El valor total de los préstamos para consumo, incluidos entre éstos los créditos para vehículo, no podrá exceder del 75% del total de su cartera. ARTICULO 3o. La cartera de los bancos hipotecarios respaldada con fiducia en garantía de que trata el Decreto 2348 de 1995 computará dentro del porcentaje previsto en la letra a) del artículo 2o del presente Decreto. DECRETO 1554 DE 1995: . ARTICULO 2o. Por lo menos el ochenta y cinco por ciento (85%) del total de cartera de los bancos hipotecarios deberá estar respaldada con garantía hipotecaria. PARAGRAFO. Lo dispuesto en el presente artículo es aplicable inclusive para los créditos que se otorguen en desarrollo de las operaciones autorizadas por el artículo [[art. 4 Decreto 2423 de 1993|4]]o del Decreto 2423 de 1993.
 
 > [!warning] Decreto derogado por el artículo [[art. 4 Decreto 789 de 1996|4]] del Decreto 789 de 1996
 

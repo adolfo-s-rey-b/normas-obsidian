@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 268 EOSF|Artículo 268]] — ORGANIZACION
-- [[art. 269 EOSF|Artículo 269]] — DIRECCION Y ADMINISTRACION
-- [[art. 270 EOSF|Artículo 270]] — OPERACIONES
+- [[art. 268 EOSF|Artículo 268]] — Organización
+- [[art. 269 EOSF|Artículo 269]] — Dirección y Administración
+- [[art. 270 EOSF|Artículo 270]] — Operaciones
 - [[art. 271 EOSF|Artículo 271]] — INVERSIONES, ENCAJE Y UTILIDADES
-- [[art. 272 EOSF|Artículo 272]] — RESTRICCIONES Y LIMITACIONES
-- [[art. 273 EOSF|Artículo 273]] — VIGILANCIA Y CONTROL
-- [[art. 274 EOSF|Artículo 274]] — DISPOSICIONES FINALES
+- [[art. 272 EOSF|Artículo 272]] — Restricciones y Limitaciones
+- [[art. 273 EOSF|Artículo 273]] — Vigilancia y Control
+- [[art. 274 EOSF|Artículo 274]] — Disposiciones Finales
 
 ---
 ← [[EOSF - Parte X - Capítulo VII|Capítulo VII]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo IX|Capítulo IX]] →

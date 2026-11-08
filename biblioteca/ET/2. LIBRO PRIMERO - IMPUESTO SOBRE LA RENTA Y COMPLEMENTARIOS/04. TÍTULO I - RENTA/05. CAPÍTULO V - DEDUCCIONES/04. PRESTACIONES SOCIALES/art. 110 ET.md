@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "110"
-epigrafe: "DEDUCCIÓN DE CESANTIAS CONSOLIDADAS"
+epigrafe: "DEDUCCIÓN DE CESANTÍAS CONSOLIDADAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Prestaciones sociales|Prestaciones sociales]]
 
-## Artículo 110. DEDUCCIÓN DE CESANTIAS CONSOLIDADAS
+## Artículo 110. DEDUCCIÓN DE CESANTÍAS CONSOLIDADAS
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 50 ET|50]]) Los contribuyentes que lleven libros de contabilidad por el sistema de causación, deducen las cesantías consolidadas que dentro del año o período gravable se hayan causado y reconocido irrevocablemente en favor de los trabajadores.
 

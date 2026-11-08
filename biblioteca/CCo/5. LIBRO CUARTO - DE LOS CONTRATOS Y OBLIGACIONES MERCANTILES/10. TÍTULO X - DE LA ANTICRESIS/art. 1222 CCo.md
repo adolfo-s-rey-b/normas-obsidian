@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "1222"
-epigrafe: "CAUCIÓN Y SUSCRIPCIÓN DE INVENTARIO"
+epigrafe: "CAUCIÓN Y SUSCRIPCIÓN DE INVENTARIO>"
 libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
 titulo: "[[CCo - Libro Cuarto - Título X|TÍTULO X - DE LA ANTICRESIS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título X|Título X]]
 
-## Artículo 1222. CAUCIÓN Y SUSCRIPCIÓN DE INVENTARIO
+## Artículo 1222. CAUCIÓN Y SUSCRIPCIÓN DE INVENTARIO>
 
 El acreedor prestará previamente caución y suscribirá un inventario de los bienes que reciba, a menos que sea exonerado expresamente de estos deberes por el deudor.
 

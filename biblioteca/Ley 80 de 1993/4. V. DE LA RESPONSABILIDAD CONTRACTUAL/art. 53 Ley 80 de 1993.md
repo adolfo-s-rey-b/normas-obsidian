@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "53"
-epigrafe: "DE LA RESPONSABILIDAD DE LOS CONSULTORES, INTERVENTORES Y ASESORES"
+epigrafe: "De la Responsabilidad de los Consultores, Interventores y Asesores"
 rubro: "[[Ley 80 de 1993 - V. de la responsabilidad contractual|V. DE LA RESPONSABILIDAD CONTRACTUAL]]"
 vigencia: "modificado"
 modificado_por:
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - V. de la responsabilidad contractual|V. de la responsabilidad contractual]]
 
-## Artículo 53. DE LA RESPONSABILIDAD DE LOS CONSULTORES, INTERVENTORES Y ASESORES
+## Artículo 53. De la Responsabilidad de los Consultores, Interventores y Asesores
 
 Los consultores y asesores externos responderán civil, fiscal, penal y disciplinariamente tanto por el cumplimiento de las obligaciones derivadas del contrato de consultoría o asesoría, celebrado por ellos, como por los hechos u omisiones que les fueren imputables constitutivos de incumplimiento de las obligaciones correspondientes a tales contratos y que causen daño o perjuicio a las entidades, derivados de la celebración y ejecución de contratos respecto de los cuales hayan ejercido o ejerzan las actividades de consultoría o asesoría incluyendo la etapa de liquidación de los mismos.
 

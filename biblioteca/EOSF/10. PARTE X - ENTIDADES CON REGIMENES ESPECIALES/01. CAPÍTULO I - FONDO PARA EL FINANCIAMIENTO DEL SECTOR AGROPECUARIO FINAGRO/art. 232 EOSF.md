@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "232"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones Finales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo I|CAPÍTULO I - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO FINAGRO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo I|Capítulo I]]
 
-## Artículo 232. DISPOSICIONES FINALES
+## Artículo 232. Disposiciones Finales
 
 1\. Obligaciones y cartera del Fondo Financiero Agropecuario. El Banco de la República cederá a FINAGRO la totalidad de la cartera del Fondo Financiero Agropecuario creado por la Ley 5a. de 1973, existente al entrar en vigencia la Ley 16 de 1990, quedando a cargo de FINAGRO el monto total de las obligaciones del Fondo Financiero Agropecuario en la misma fecha. De igual manera, el Banco de la República cederá a FINAGRO la totalidad de los intereses por recibir, correspondientes a la cartera del Fondo Financiero Agropecuario, siendo de cargo de FINAGRO la totalidad de los intereses por pagar con cargo al mismo Fondo.
 

@@ -4,8 +4,8 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "2"
-epigrafe: "DE LA DEFINICIÓN DE ENTIDADES, SERVIDORES Y SERVICIOS PÚBLICOS"
-vigencia: "vigente"
+epigrafe: "De la Definición de Entidades, Servidores y Servicios Públicos"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 32 Ley 1150 de 2007]]"
 anterior: "[[art. 1 Ley 80 de 1993]]"
@@ -20,12 +20,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 2. DE LA DEFINICIÓN DE ENTIDADES, SERVIDORES Y SERVICIOS PÚBLICOS
+## Artículo 2. De la Definición de Entidades, Servidores y Servicios Públicos
 
 Para los solos efectos de esta ley:
 

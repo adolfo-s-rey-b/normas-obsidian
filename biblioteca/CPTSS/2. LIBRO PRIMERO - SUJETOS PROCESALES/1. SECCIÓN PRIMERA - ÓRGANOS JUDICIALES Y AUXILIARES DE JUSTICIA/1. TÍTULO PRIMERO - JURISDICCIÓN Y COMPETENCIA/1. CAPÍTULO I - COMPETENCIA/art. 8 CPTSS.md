@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "8"
-epigrafe: "EXCLUSIÓN DE LOS CONFLICTOS DE INTERESES O ECONÓMICOS DEL TRABAJO"
+epigrafe: "Exclusión de los conflictos de intereses o económicos del trabajo"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 8. EXCLUSIÓN DE LOS CONFLICTOS DE INTERESES O ECONÓMICOS DEL TRABAJO
+## Artículo 8. Exclusión de los conflictos de intereses o económicos del trabajo
 
 La tramitación de los conflictos de intereses o económicos del trabajo entre empleadores y trabajadores se adelantarán de acuerdo con las leyes especiales sobre la materia. Tratándose de conflictos colectivos, estos se solucionarán conforme al proceso de negociación previsto en el Código Sustantivo del Trabajo y en cuanto a los de carácter individual, por acuerdo de las partes o los mecanismos alternativos establecidos en la ley.
 

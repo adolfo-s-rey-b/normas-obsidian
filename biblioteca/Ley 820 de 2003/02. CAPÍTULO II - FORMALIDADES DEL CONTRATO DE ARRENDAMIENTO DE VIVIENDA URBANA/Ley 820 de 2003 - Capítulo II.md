@@ -20,10 +20,10 @@ tags:
 
 ### Contenido
 
-- [[art. 3 Ley 820 de 2003|Artículo 3]] — FORMA DEL CONTRATO
-- [[art. 4 Ley 820 de 2003|Artículo 4]] — CLASIFICACIÓN
-- [[art. 5 Ley 820 de 2003|Artículo 5]] — TÉRMINO DEL CONTRATO
-- [[art. 6 Ley 820 de 2003|Artículo 6]] — PRÓRROGA
+- [[art. 3 Ley 820 de 2003|Artículo 3]] — Forma del contrato
+- [[art. 4 Ley 820 de 2003|Artículo 4]] — Clasificación
+- [[art. 5 Ley 820 de 2003|Artículo 5]] — Término del Contrato
+- [[art. 6 Ley 820 de 2003|Artículo 6]] — Prórroga
 
 ---
 ← [[Ley 820 de 2003 - Capítulo I|Capítulo I]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo III|Capítulo III]] →

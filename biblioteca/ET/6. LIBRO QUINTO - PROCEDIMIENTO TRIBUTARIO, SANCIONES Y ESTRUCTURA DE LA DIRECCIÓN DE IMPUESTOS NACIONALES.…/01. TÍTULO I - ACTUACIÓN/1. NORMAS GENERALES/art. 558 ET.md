@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "558"
-epigrafe: "EQUIVALENCIA DEL TERMINO CONTRIBUYENTE O RESPONSABLE"
+epigrafe: "EQUIVALENCIA DEL TÉRMINO CONTRIBUYENTE O RESPONSABLE"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título I|TÍTULO I - ACTUACIÓN]]"
 rubro: "[[ET - Libro Quinto - Título I - Normas generales|NORMAS GENERALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título I|Título I]] › [[ET - Libro Quinto - Título I - Normas generales|Normas generales]]
 
-## Artículo 558. EQUIVALENCIA DEL TERMINO CONTRIBUYENTE O RESPONSABLE
+## Artículo 558. EQUIVALENCIA DEL TÉRMINO CONTRIBUYENTE O RESPONSABLE
 
 Para efectos de las normas de procedimiento tributario, se tendrán como equivalentes los términos de contribuyente o responsable.
 

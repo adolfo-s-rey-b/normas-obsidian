@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "142"
-epigrafe: "FACULTADES DE LA SUPERINTENDENCIA DE VALORES"
+epigrafe: "Facultades de la Superintendencia de Valores"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título III|TÍTULO III - DE LA SUPERINTENDENCIA DE VALORES < 1 >]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título III - Capítulo 1|CAPÍTULO 1 - PROTECCION DE ACCIONISTAS MINORITARIOS]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título III|Título III]] › [[Ley 446 de 1998 - Parte IV - Título III - Capítulo 1|Capítulo 1]]
 
-## Artículo 142. FACULTADES DE LA SUPERINTENDENCIA DE VALORES
+## Artículo 142. Facultades de la Superintendencia de Valores
 
 Previa evaluación de los hechos en que se fundamenta la petición de los accionistas minoritarios y la determinación de las circunstancias, la Superintendencia de Valores podrá adoptar las medidas que tiendan a evitar la violación de los derechos y el restablecimiento del equilibrio y el principio de igualdad de trato entre las relaciones de los accionistas.
 

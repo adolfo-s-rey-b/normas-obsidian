@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "245"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN"
+epigrafe: "Circunstancias de agravacion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VII|TÍTULO VII - DELITOS CONTRA EL PATRIMONIO ECONOMICO]]"
 capitulo: "[[CP - Libro Segundo - Título VII - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LA EXTORSION]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VII|Título VII]] › [[CP - Libro Segundo - Título VII - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 245. CIRCUNSTANCIAS DE AGRAVACIÓN
+## Artículo 245. Circunstancias de agravacion
 
 La pena señalada en el artículo anterior se aumentará hasta en una tercera (1/3) parte y la multa será de cuatro mil (4.000) a nueve mil (9.000) salarios mínimos legales mensuales vigentes, si concurriere alguna de las siguientes circunstancias:
 

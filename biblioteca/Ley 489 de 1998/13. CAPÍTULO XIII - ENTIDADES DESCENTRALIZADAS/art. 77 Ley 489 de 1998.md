@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "77"
-epigrafe: "DESIGNACION DEL DIRECTOR, GERENTE O PRESIDENTE DE LOS ESTABLECIMIENTOS PUBLICOS"
+epigrafe: "Designación del director, gerente o presidente de los establecimientos públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 76 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 77. DESIGNACION DEL DIRECTOR, GERENTE O PRESIDENTE DE LOS ESTABLECIMIENTOS PUBLICOS
+## Artículo 77. Designación del director, gerente o presidente de los establecimientos públicos
 
 El director, gerente o presidente de los establecimientos públicos será nombrado y removido libremente por el Presidente de la República.
 

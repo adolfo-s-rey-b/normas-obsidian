@@ -24,8 +24,8 @@ tags:
 ### Contenido
 
 - [[art. 198 CP|Artículo 198]] — Violación de la libertad de trabajo
-- [[art. 199 CP|Artículo 199]] — SABOTAJE
-- [[art. 200 CP|Artículo 200]] — VIOLACIÓN DE LOS DERECHOS DE REUNIÓN Y ASOCIACIÓN
+- [[art. 199 CP|Artículo 199]] — Sabotaje
+- [[art. 200 CP|Artículo 200]] — Violación de los derechos de reunion y asociacion
 
 ---
 ← [[CP - Libro Segundo - Título III - Capítulo Septimo|Capítulo Septimo]] · ↑ [[CP - Libro Segundo - Título III|Título III]] · [[CP - Libro Segundo - Título III - Capítulo Noveno|Capítulo Noveno]] →

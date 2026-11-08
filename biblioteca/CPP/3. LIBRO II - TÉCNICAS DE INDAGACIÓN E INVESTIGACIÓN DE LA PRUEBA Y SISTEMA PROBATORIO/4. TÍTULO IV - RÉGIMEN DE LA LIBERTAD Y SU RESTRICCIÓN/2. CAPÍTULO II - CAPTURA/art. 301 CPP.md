@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "301"
-epigrafe: "FLAGRANCIA"
+epigrafe: "Flagrancia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 57 Ley 1453 de 2011]]"
 derogado_por:
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 301. FLAGRANCIA
+## Artículo 301. Flagrancia
 
 Se entiende que hay flagrancia cuando:
 

@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 283 CGP|Artículo 283]] — CONDENA EN CONCRETO
-- [[art. 284 CGP|Artículo 284]] — ADICIÓN DE LA CONDENA EN CONCRETO
+- [[art. 283 CGP|Artículo 283]] — Condena en concreto
+- [[art. 284 CGP|Artículo 284]] — Adición de la condena en concreto
 
 ---
 ← [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] · [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo III|Capítulo III]] →

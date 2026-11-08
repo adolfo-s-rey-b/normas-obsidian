@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "246"
-epigrafe: "JUSTIPRECIO DEL INTERÉS ECONÓMICO PARA RECURRIR Y CONCESIÓN DEL RECURSO"
+epigrafe: "Justiprecio del interés económico para recurrir y concesión del recurso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 246. JUSTIPRECIO DEL INTERÉS ECONÓMICO PARA RECURRIR Y CONCESIÓN DEL RECURSO
+## Artículo 246. Justiprecio del interés económico para recurrir y concesión del recurso
 
 Cuando para la procedencia del recurso sea necesario fijar el interés económico afectado con la sentencia, su cuantía deberá establecerse con los elementos de juicio que obren en el expediente. El recurrente podrá aportar un dictamen pericial si lo considera necesario, y el tribunal decidirá de plano sobre la concesión.
 

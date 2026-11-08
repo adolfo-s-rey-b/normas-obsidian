@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "84"
-epigrafe: "APLICACIÓN DEL PROCEDIMIENTO"
+epigrafe: "Aplicación del procedimiento"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 84. APLICACIÓN DEL PROCEDIMIENTO
+## Artículo 84. Aplicación del procedimiento
 
 El procedimiento disciplinario establecido en la presente ley deberá aplicarse por las respectivas Oficinas de Control Disciplinario Interno, personerías municipales y distritales, y la Procuraduría General de la Nación.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "7"
-epigrafe: "ÁRBITROS"
+epigrafe: "Árbitros"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 7. ÁRBITROS
+## Artículo 7. Árbitros
 
 Las partes determinarán conjuntamente el número de árbitros, que siempre será impar. Si nada se dice al respecto, los árbitros serán tres (3), salvo en los procesos de menor cuantía, caso en el cual el árbitro será único.
 

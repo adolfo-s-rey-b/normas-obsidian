@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "135"
-epigrafe: "NULIDAD POR INCONSTITUCIONALIDAD"
+epigrafe: "Nulidad por inconstitucionalidad"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 241 CPol]]"
   - "[[art. 10 CPol]]"
@@ -28,12 +28,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 135. NULIDAD POR INCONSTITUCIONALIDAD
+## Artículo 135. Nulidad por inconstitucionalidad
 
 Los ciudadanos podrán, en cualquier tiempo, solicitar por sí, o por medio de representante, que se declare la nulidad de los decretos de carácter general dictados por el Gobierno Nacional, cuya revisión no corresponda a la Corte Constitucional en los términos de los artículos [[art. 237 CPol|237]] y [[art. 241 CPol|241]] de la Constitución Política, por infracción directa de la Constitución.
 

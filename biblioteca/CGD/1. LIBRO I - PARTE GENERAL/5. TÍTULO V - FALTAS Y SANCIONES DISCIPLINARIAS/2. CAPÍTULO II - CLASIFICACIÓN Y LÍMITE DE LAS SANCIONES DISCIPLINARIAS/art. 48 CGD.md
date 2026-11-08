@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "48"
-epigrafe: "CLASES Y LÍMITES DE LAS SANCIONES DISCIPLINARIAS"
+epigrafe: "Clases y límites de las sanciones disciplinarias"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título V|TÍTULO V - FALTAS Y SANCIONES DISCIPLINARIAS]]"
 capitulo: "[[CGD - Libro I - Título V - Capítulo II|CAPÍTULO II - CLASIFICACIÓN Y LÍMITE DE LAS SANCIONES DISCIPLINARIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 9 Ley 2094 de 2021]]"
 derogado_por:
@@ -35,12 +35,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título V|Título V]] › [[CGD - Libro I - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 48. CLASES Y LÍMITES DE LAS SANCIONES DISCIPLINARIAS
+## Artículo 48. Clases y límites de las sanciones disciplinarias
 
 El disciplinable está sometido a las siguientes sanciones:
 

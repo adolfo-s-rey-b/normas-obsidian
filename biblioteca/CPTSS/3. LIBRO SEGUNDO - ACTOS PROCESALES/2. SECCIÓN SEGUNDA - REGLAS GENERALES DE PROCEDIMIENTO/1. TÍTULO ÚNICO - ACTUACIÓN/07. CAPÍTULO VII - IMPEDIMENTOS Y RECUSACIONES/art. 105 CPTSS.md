@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "105"
-epigrafe: "SANCIONES AL RECUSANTE"
+epigrafe: "Sanciones al recusante"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 105. SANCIONES AL RECUSANTE
+## Artículo 105. Sanciones al recusante
 
 Cuando una recusación se declare no probada y se disponga que hubo temeridad o mala fe en su proposición, en el mismo auto se impondrá al recusante y al apoderado de este, solidariamente, multa de cinco (5) a diez (10) salarios mínimos legales mensuales vigentes (SMLMV), sin perjuicio de la investigación disciplinaria a que haya lugar.
 

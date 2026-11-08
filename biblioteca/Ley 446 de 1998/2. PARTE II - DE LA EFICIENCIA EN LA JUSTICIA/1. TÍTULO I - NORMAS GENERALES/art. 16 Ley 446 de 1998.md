@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "16"
-epigrafe: "VALORACION DE DAÑOS"
+epigrafe: "Valoración de daños"
 parte: "[[Ley 446 de 1998 - Parte II|PARTE II - DE LA EFICIENCIA EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte II - Título I|TÍTULO I - NORMAS GENERALES]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte II|Parte II]] › [[Ley 446 de 1998 - Parte II - Título I|Título I]]
 
-## Artículo 16. VALORACION DE DAÑOS
+## Artículo 16. Valoración de daños
 
 Dentro de cualquier proceso que se surta ante la Administración de Justicia, la valoración de daños irrogados a las personas y a las cosas, atenderá los principios de reparación integral y equidad y observará los criterios técnicos actuariales.
 

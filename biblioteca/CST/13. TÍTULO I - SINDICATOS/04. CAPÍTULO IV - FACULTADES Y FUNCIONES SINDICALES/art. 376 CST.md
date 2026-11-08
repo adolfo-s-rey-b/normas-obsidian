@@ -11,7 +11,7 @@ articulo: "376"
 epigrafe: "ATRIBUCIONES EXCLUSIVAS DE LA ASAMBLEA"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo IV (2)|CAPÍTULO IV - FACULTADES Y FUNCIONES SINDICALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 16 Ley 11 de 1984]]"
   - "[[art. 51 Ley 50 de 1990]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo IV (2)|Capítulo IV]]

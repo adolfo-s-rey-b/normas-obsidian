@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "66"
-epigrafe: "TITULARIDAD Y OBLIGATORIEDAD"
+epigrafe: "Titularidad y obligatoriedad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 66. TITULARIDAD Y OBLIGATORIEDAD
+## Artículo 66. Titularidad y obligatoriedad
 
 Artículo modificado por el artículo [[art. 1 Ley 1826 de 2017|1]] de la Ley 1826 de 2017. El nuevo texto es el siguiente:> El Estado, por intermedio de la Fiscalía General de la Nación, está obligado a ejercer la acción penal y a realizar la investigación de los hechos que revistan las características de una conducta punible, de oficio o que lleguen a su conocimiento por medio de denuncia, petición especial, querella o cualquier otro medio, salvo las excepciones contempladas en la Constitución Política y en este código.
 

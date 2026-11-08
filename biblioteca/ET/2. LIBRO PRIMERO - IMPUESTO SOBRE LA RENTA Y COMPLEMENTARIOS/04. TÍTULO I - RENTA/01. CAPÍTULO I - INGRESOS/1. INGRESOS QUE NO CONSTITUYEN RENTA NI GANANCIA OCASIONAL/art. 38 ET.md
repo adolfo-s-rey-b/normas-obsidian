@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "38"
-epigrafe: "EL COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS PERCIBIDOS POR PERSONAS NATURALES Y SUCESIONES ILIQUIDAS"
+epigrafe: "EL COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS PERCIBIDOS POR PERSONAS NATURALES Y SUCESIONES ILÍQUIDAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -38,7 +38,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]
 
-## Artículo 38. EL COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS PERCIBIDOS POR PERSONAS NATURALES Y SUCESIONES ILIQUIDAS
+## Artículo 38. EL COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS PERCIBIDOS POR PERSONAS NATURALES Y SUCESIONES ILÍQUIDAS
 
 No constituye renta ni ganancia ocasional la parte que corresponda al componente inflacionario de los rendimientos financieros percibidos por personas naturales y sucesiones ilíquidas, que provengan de:
 

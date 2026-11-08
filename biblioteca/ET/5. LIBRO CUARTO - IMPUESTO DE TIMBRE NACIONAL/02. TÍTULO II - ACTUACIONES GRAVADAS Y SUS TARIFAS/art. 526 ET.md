@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "526"
-epigrafe: "CUANDO SE CANCELEN DENTRO DEL PAIS SE LIQUIDAN AL CAMBIO OFICIAL"
+epigrafe: "CUANDO SE CANCELEN DENTRO DEL PAÍS SE LIQUIDAN AL CAMBIO OFICIAL"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título II|TÍTULO II - ACTUACIONES GRAVADAS Y SUS TARIFAS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título II|Título II]]
 
-## Artículo 526. CUANDO SE CANCELEN DENTRO DEL PAIS SE LIQUIDAN AL CAMBIO OFICIAL
+## Artículo 526. CUANDO SE CANCELEN DENTRO DEL PAÍS SE LIQUIDAN AL CAMBIO OFICIAL
 
 Cuando la cancelación de los valores señalados en los artículos anteriores deba hacerse en el territorio nacional, los mismos se liquidarán al tipo de cambio oficial.
 

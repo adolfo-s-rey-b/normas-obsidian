@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "97"
-epigrafe: "AUDIENCIAS Y ACTUACIONES POR ESCRITO"
+epigrafe: "Audiencias y actuaciones por escrito"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 97. AUDIENCIAS Y ACTUACIONES POR ESCRITO
+## Artículo 97. Audiencias y actuaciones por escrito
 
 Salvo acuerdo en contrario de las partes, el tribunal arbitral decidirá si han de celebrarse audiencias para la presentación o práctica de pruebas o para alegatos orales, o si las actuaciones se sustanciarán sobre la base de documentos y demás pruebas. Salvo que las partes hubiesen convenido que no se lleven a cabo audiencias, el tribunal arbitral las celebrará a petición de cualquiera de ellas.
 

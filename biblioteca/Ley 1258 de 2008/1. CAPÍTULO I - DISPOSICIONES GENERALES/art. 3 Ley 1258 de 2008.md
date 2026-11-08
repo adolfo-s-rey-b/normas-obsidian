@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "3"
-epigrafe: "NATURALEZA"
+epigrafe: "Naturaleza"
 capitulo: "[[Ley 1258 de 2008 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 2 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo I|Capítulo I]]
 
-## Artículo 3. NATURALEZA
+## Artículo 3. Naturaleza
 
 La sociedad por acciones simplificada es una sociedad de capitales cuya naturaleza será siempre comercial, independientemente de las actividades previstas en su objeto social. Para efectos tributarios, la sociedad por acciones simplificada se regirá por las reglas aplicables a las sociedades anónimas.
 

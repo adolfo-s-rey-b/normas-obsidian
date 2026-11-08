@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "90-2"
-epigrafe: "SANEAMIENTO DE BIENES RAICES"
+epigrafe: "Saneamiento de Bienes Raíces"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo III|CAPÍTULO III - RENTA BRUTA]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 90-2. SANEAMIENTO DE BIENES RAICES
+## Artículo 90-2. Saneamiento de Bienes Raíces
 
 Para los efectos previstos en el artículo anterior, en las declaraciones de renta y complementarios del año gravable de 1995, los contribuyentes podrán ajustar al valor comercial los bienes raíces poseídos a 31 de diciembre de dicho año.
 

@@ -8,9 +8,9 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "2"
-epigrafe: "LIBERTAD"
+epigrafe: "Libertad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Ley 1142 de 2007]]"
 anterior: "[[art. 1 CPP]]"
@@ -25,12 +25,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 2. LIBERTAD
+## Artículo 2. Libertad
 
 Toda persona tiene derecho a que se respete su libertad. Nadie podrá ser molestado en su persona ni privado de su libertad sino en virtud de mandamiento escrito de autoridad judicial competente, emitido con las formalidades legales y por motivos previamente definidos en la ley.
 

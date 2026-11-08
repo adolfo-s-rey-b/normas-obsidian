@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "388"
-epigrafe: "TESTIMONIO DE AGENTE DIPLOMÁTICO"
+epigrafe: "Testimonio de agente diplomático"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 388. TESTIMONIO DE AGENTE DIPLOMÁTICO
+## Artículo 388. Testimonio de agente diplomático
 
 Cuando se requiera testimonio de un ministro o agente diplomático de nación extranjera acreditado en Colombia o de una persona de su comitiva o familia se le remitirá al embajador o agente respectivo, por conducto del Ministerio de Relaciones Exteriores, nota suplicatoria para que si lo tiene a bien concurra a declarar o permita que la persona solicitada lo haga, o acceda a rendirlo en sus dependencias.
 

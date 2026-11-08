@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "302"
-epigrafe: "DESIGNACIÓN"
+epigrafe: "Designación"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título X|TÍTULO X - EL MINISTERIO PÚBLICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título X|Título X]]
 
-## Artículo 302. DESIGNACIÓN
+## Artículo 302. Designación
 
 Los procuradores delegados y judiciales ante la Jurisdicción de lo Contencioso Administrativo serán designados por el Procurador General de la Nación de acuerdo con sus competencias.
 

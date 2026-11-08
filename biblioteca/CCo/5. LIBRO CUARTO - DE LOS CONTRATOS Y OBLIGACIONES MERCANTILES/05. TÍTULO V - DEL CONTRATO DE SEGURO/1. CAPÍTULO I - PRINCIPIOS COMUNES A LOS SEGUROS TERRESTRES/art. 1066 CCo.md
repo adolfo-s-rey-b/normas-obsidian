@@ -12,7 +12,7 @@ epigrafe: "PAGO DE LA PRIMA"
 libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
 titulo: "[[CCo - Libro Cuarto - Título V|TÍTULO V - DEL CONTRATO DE SEGURO]]"
 capitulo: "[[CCo - Libro Cuarto - Título V - Capítulo I|CAPÍTULO I - PRINCIPIOS COMUNES A LOS SEGUROS TERRESTRES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 81 Ley 45 de 1990]]"
 derogado_por:
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título V|Título V]] › [[CCo - Libro Cuarto - Título V - Capítulo I|Capítulo I]]

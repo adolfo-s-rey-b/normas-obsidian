@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "268"
-epigrafe: "FACULTADES DEL IMPUTADO"
+epigrafe: "Facultades del imputado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 268. FACULTADES DEL IMPUTADO
+## Artículo 268. Facultades del imputado
 
 > [!warning] Aparte tachado INEXEQUIBLE, subrayado CONDICIONALMENTE exequible
 

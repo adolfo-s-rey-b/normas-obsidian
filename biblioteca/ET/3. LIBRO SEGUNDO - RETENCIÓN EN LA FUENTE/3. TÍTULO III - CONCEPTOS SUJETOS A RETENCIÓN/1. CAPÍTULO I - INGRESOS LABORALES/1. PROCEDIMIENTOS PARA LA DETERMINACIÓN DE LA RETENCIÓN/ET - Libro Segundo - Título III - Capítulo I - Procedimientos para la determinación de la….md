@@ -28,7 +28,7 @@ tags:
 - [[art. 386 ET|Artículo 386]] — SEGUNDA OPCIÓN FRENTE A LA RETENCIÓN
 - [[art. 387 ET|Artículo 387]] — DEDUCCIONES QUE SE RESTARÁN DE LA BASE DE RETENCIÓN
 - [[art. 387-1 ET|Artículo 387-1]] — DISMINUCIÓN DE LA BASE DE RETENCIÓN POR PAGOS A TERCEROS POR CONCEPTO DE ALIMENTACIÓN
-- [[art. 388 ET|Artículo 388]] — DEPURACIÓN DE LA BASE DEL CÁLCULO DE LA RETENCIÓN EN LA FUENTE
+- [[art. 388 ET|Artículo 388]] — Depuración de la base del cálculo de la retención en la fuente
 
 ---
 ↑ [[ET - Libro Segundo - Título III - Capítulo I|Capítulo I]]

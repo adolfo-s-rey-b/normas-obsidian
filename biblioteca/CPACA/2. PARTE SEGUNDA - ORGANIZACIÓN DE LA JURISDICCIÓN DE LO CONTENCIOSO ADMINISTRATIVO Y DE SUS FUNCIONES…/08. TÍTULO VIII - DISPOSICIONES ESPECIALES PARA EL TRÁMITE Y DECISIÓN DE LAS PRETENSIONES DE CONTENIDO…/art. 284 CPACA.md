@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "284"
-epigrafe: "NULIDADES"
+epigrafe: "Nulidades"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 284. NULIDADES
+## Artículo 284. Nulidades
 
 Las nulidades de carácter procesal se regirán por lo dispuesto en el artículo [[art. 207 CPACA|207]] de este Código. La formulación extemporánea de nulidades se rechazará de plano y se tendrá como conducta dilatoria del proceso. Contra el auto que rechaza de plano una nulidad procesal no habrá recursos.
 

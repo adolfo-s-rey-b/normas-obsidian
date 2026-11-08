@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "108"
-epigrafe: "PERENTORIEDAD PARA EL DECRETO DE PRUEBAS EN LA ETAPA DE DESCARGOS"
+epigrafe: "Perentoriedad para el decreto de pruebas en la etapa de descargos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|SUBSECCIÓN II - MODIFICACIONES A LA REGULACIÓN DEL PROCEDIMIENTO ORDINARIO DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|Subsección II]]
 
-## Artículo 108. PERENTORIEDAD PARA EL DECRETO DE PRUEBAS EN LA ETAPA DE DESCARGOS
+## Artículo 108. Perentoriedad para el decreto de pruebas en la etapa de descargos
 
 Vencido el término para la presentación de los descargos después de la notificación del auto de imputación de responsabilidad fiscal, el servidor público competente de la Contraloría deberá decretar las pruebas a que haya lugar a más tardar dentro del mes siguiente. Será obligación de la Auditoría General de la República incluir la constatación del cumplimiento de esta norma como parte de sus programas de auditoría y derivar las consecuencias por su desatención.
 

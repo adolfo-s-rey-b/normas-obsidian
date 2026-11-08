@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "386"
-epigrafe: "IMPEDIMENTO DEL TESTIGO PARA CONCURRIR"
+epigrafe: "Impedimento del testigo para concurrir"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 386. IMPEDIMENTO DEL TESTIGO PARA CONCURRIR
+## Artículo 386. Impedimento del testigo para concurrir
 
 Si el testigo estuviere físicamente impedido para concurrir a la audiencia pública donde se practicará la prueba, de no hallarse disponible el sistema de audio vídeo u otro sistema de reproducción a distancia, ésta se realizará en el lugar en que se encuentre, pero siempre en presencia del juez y de las partes que harán el interrogatorio.
 

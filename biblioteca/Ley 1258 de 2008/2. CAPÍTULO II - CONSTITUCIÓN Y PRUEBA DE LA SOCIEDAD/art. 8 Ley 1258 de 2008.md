@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "8"
-epigrafe: "PRUEBA DE EXISTENCIA DE LA SOCIEDAD"
+epigrafe: "Prueba de existencia de la sociedad"
 capitulo: "[[Ley 1258 de 2008 - Capítulo II|CAPÍTULO II - CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 7 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo II|Capítulo II]]
 
-## Artículo 8. PRUEBA DE EXISTENCIA DE LA SOCIEDAD
+## Artículo 8. Prueba de existencia de la sociedad
 
 La existencia de la sociedad por acciones simplificada y las cláusulas estatutarias se probarán con certificación de la Cámara de Comercio, en donde conste no estar disuelta y liquidada la sociedad.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "28"
-epigrafe: "PRUEBAS"
+epigrafe: "Pruebas"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VIII|CAPÍTULO VIII - PERIODO PROBATORIO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 28. PRUEBAS
+## Artículo 28. Pruebas
 
 Realizada la citación para establecer el proyecto de pacto de cumplimiento, sin lograr acuerdo, o citada ésta y no efectuada por ausencia de las partes, el juez decretará, previo análisis de conducencia, pertinencia y eficacia, las pruebas solicitadas y las que de oficio estime pertinentes, señalando día y hora para su práctica, dentro del término de veinte (20) días prorrogables por veinte (20) días más si la complejidad del proceso lo requiere.
 

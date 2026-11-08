@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "609"
-epigrafe: "COMPETENCIA Y TRÁMITE"
+epigrafe: "Competencia y trámite"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título I|TÍTULO I - SENTENCIAS Y LAUDOS PROFERIDOS EN EL EXTERIOR Y COMISIONES DE JUECES EXTRANJEROS]]"
 capitulo: "[[CGP - Libro Quinto - Título I - Capítulo II|CAPÍTULO II - PRÁCTICA DE PRUEBAS Y OTRAS DILIGENCIAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título I|Título I]] › [[CGP - Libro Quinto - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 609. COMPETENCIA Y TRÁMITE
+## Artículo 609. Competencia y trámite
 
 De las comisiones a que se refiere el artículo precedente conocerán los jueces civiles del circuito del lugar en que deban cumplirse, a menos que conforme a los tratados internacionales correspondan a otro juez.
 

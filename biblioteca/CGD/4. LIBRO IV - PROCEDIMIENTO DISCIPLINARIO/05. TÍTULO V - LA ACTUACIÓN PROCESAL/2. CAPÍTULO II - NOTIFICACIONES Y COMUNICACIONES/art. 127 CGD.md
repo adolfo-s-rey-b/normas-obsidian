@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "127"
-epigrafe: "NOTIFICACIÓN POR EDICTO"
+epigrafe: "Notificación por edicto"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 127. NOTIFICACIÓN POR EDICTO
+## Artículo 127. Notificación por edicto
 
 Los autos que disponen la apertura de investigación, la vinculación, el pliego de cargos y su variación, y los fallos que no puedan notificarse personalmente, se notificarán por edicto. Para tal efecto, una vez producida la decisión, se citará inmediatamente al disciplinable, por un medio eficaz, a la entidad donde trabaja o a la última dirección registrada en su hoja de vida o a la que aparezca en el proceso disciplinario, con el fin de notificarle el contenido de aquella y, si es sancionatoria, hacerle conocer los recursos que puede interponer.
 

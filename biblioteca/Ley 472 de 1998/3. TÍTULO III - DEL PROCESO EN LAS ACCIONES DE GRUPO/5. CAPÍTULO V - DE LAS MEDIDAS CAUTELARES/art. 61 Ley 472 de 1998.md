@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "61"
-epigrafe: "DILIGENCIA DE CONCILIACION"
+epigrafe: "Diligencia de Conciliación"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo V|CAPÍTULO V - DE LAS MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 61. DILIGENCIA DE CONCILIACION
+## Artículo 61. Diligencia de Conciliación
 
 De oficio el juez, dentro de los cinco (5) días siguientes al vencimiento del término que tienen los miembros del grupo demandante para solicitar su exclusión del mismo, deberá convocar a una diligencia de conciliación con el propósito de lograr un acuerdo entre las partes, que constará por escrito.
 

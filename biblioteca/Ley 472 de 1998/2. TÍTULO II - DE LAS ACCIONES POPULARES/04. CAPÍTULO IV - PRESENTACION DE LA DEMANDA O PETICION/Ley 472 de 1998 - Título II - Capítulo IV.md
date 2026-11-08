@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 17 Ley 472 de 1998|Artículo 17]] — FACILIDADES PARA PROMOVER LAS ACCIONES POPULARES
-- [[art. 18 Ley 472 de 1998|Artículo 18]] — REQUISITOS DE LA DEMANDA O PETICION
-- [[art. 19 Ley 472 de 1998|Artículo 19]] — AMPARO DE POBREZA
+- [[art. 17 Ley 472 de 1998|Artículo 17]] — Facilidades para Promover las Acciones Populares
+- [[art. 18 Ley 472 de 1998|Artículo 18]] — Requisitos de la Demanda o Petición
+- [[art. 19 Ley 472 de 1998|Artículo 19]] — Amparo de Pobreza
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo III|Capítulo III]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo V|Capítulo V]] →

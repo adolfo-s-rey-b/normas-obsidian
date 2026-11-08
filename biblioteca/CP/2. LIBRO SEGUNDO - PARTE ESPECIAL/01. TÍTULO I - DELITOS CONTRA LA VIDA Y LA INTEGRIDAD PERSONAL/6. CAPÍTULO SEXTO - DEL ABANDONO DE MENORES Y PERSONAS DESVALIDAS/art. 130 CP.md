@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "130"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN"
+epigrafe: "Circunstancias de agravacion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Sexto|CAPÍTULO SEXTO - DEL ABANDONO DE MENORES Y PERSONAS DESVALIDAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 41 Ley 1453 de 2011]]"
 anterior: "[[art. 129 CP]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Sexto|Capítulo Sexto]]
 
-## Artículo 130. CIRCUNSTANCIAS DE AGRAVACIÓN
+## Artículo 130. Circunstancias de agravacion
 
 Si de las conductas descritas en los artículos anteriores se siguiere para el abandonado alguna lesión personal, la pena respectiva se aumentará hasta en una cuarta parte.
 

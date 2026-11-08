@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "24"
-epigrafe: "PECULADO CULPOSO FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL INTEGRAL"
+epigrafe: "Peculado culposo frente a recursos de la seguridad social integral"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 23 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 24. PECULADO CULPOSO FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL INTEGRAL
+## Artículo 24. Peculado culposo frente a recursos de la seguridad social integral
 
 La Ley 599 de 2000 tendrá un artículo [[art. 400A CP|400A]], el cual quedará así:
 

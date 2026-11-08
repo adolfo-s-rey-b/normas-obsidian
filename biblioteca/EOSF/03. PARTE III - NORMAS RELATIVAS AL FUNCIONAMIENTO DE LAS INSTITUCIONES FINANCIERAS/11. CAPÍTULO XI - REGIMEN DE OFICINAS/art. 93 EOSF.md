@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "93"
-epigrafe: "RED DE OFICINAS"
+epigrafe: "Red de Oficinas"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XI|CAPÍTULO XI - REGIMEN DE OFICINAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XI|Capítulo XI]]
 
-## Artículo 93. RED DE OFICINAS
+## Artículo 93. Red de Oficinas
 
 Las entidades vigiladas por las Superintendencias Bancaria y de Valores podrán permitir mediante contrato remunerado, el uso de su red de oficinas por parte de sociedades de servicios financieros, entidades aseguradoras, sociedades comisionistas de bolsa, sociedades de capitalización, e intermediarios de seguros para la promoción y gestión de las operaciones autorizadas a la entidad usuaria de la red y bajo la responsabilidad de esta última.
 

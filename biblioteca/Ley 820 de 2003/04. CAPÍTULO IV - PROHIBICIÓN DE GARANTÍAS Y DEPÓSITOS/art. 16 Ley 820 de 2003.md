@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "16"
-epigrafe: "PROHIBICIÓN DE DEPÓSITOS Y CAUCIONES REALES"
+epigrafe: "Prohibición de depósitos y cauciones reales"
 capitulo: "[[Ley 820 de 2003 - Capítulo IV|CAPÍTULO IV - PROHIBICIÓN DE GARANTÍAS Y DEPÓSITOS]]"
 vigencia: "vigente"
 anterior: "[[art. 15 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo IV|Capítulo IV]]
 
-## Artículo 16. PROHIBICIÓN DE DEPÓSITOS Y CAUCIONES REALES
+## Artículo 16. Prohibición de depósitos y cauciones reales
 
 En los contratos de arrendamiento para vivienda urbana no se podrán exigir depósitos en dinero efectivo u otra clase de cauciones reales, para garantizar el cumplimiento de las obligaciones que conforme a dichos contratos haya asumido el arrendatario.
 

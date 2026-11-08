@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "171"
-epigrafe: "TESTIMONIO DE AGENTE DIPLOMÁTICO"
+epigrafe: "Testimonio de agente diplomático"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 171. TESTIMONIO DE AGENTE DIPLOMÁTICO
+## Artículo 171. Testimonio de agente diplomático
 
 Cuando se requiera testimonio de un ministro o agente diplomático de nación extranjera acreditado en Colombia o de una persona de su comitiva o familia, se le remitirá al embajador o agente, por conducto del Ministerio de Relaciones Exteriores, nota suplicatoria con cuestionario y copia de lo pertinente para que, si él tiene a bien, declare por medio de certificación jurada o permita declarar en la misma forma a la persona solicitada.
 

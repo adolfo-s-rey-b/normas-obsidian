@@ -13,9 +13,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html",
-      "hash": "7b3fb693095b59df026585f24f73ca99dcedde5437f357163eb50dc13c11dc44",
+      "hash": "744b4c0103bd2b3645e911b0eb283da269508bec7a1b401a3fcd85c7073dc508",
       "notas": 2947,
-      "bytes": 5472586,
+      "bytes": 5473187,
       "paquete": "CC.json"
     },
     {
@@ -29,9 +29,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41102",
-      "hash": "d4aa68e2e16700abb4302e6c3f95a2f3c7ea3bcd2bfec4fd4e59f3b095d2a4b4",
+      "hash": "47e7a6eabc210d955e694190b1026deeb1ec32dde2e8c570e36081d5088c34a8",
       "notas": 2282,
-      "bytes": 5151710,
+      "bytes": 5151382,
       "paquete": "CCo.json"
     },
     {
@@ -45,9 +45,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=90324",
-      "hash": "b6a67b594234bb3b8ad4584879c54f15ab85eaed3b69953b38ddc609ce6497de",
+      "hash": "bd0c2053bcc28aa1457f76bf497744365371f6b99a30023390ad27b1e29d7c25",
       "notas": 354,
-      "bytes": 901808,
+      "bytes": 901633,
       "paquete": "CGD.json"
     },
     {
@@ -61,9 +61,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48425",
-      "hash": "87e29a02d44a1e3334733a1503fe32062605055f18e800209eccb6974a4287da",
+      "hash": "4979e413deacc5d864332d925a2b1b75597064996dd241804c325b9b80d0a8cb",
       "notas": 771,
-      "bytes": 2435160,
+      "bytes": 2434301,
       "paquete": "CGP.json"
     },
     {
@@ -77,9 +77,9 @@
       "actualizacion_fuente": null,
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388",
-      "hash": "c6ef27aeb54daeb27d3a4b04f506138895b56a79ba9b7156f5f2adaac261c42d",
+      "hash": "0b772a8434aadc3cd686b68a722210847ff41abb2a4fb5f413d52ce09d15b98e",
       "notas": 721,
-      "bytes": 2162095,
+      "bytes": 2153692,
       "paquete": "CP.json"
     },
     {
@@ -93,9 +93,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=41249",
-      "hash": "7a5f389b6d8c84fdb44f357ffbc9c8a796598be404e83c3a28c0e3849cef57d7",
+      "hash": "4269cddbeb2100bfb1a6d3d7a04b82296807e69c9bf96df42ed64bddd7b65e78",
       "notas": 381,
-      "bytes": 1410298,
+      "bytes": 1410120,
       "paquete": "CPACA.json"
     },
     {
@@ -109,9 +109,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=14787",
-      "hash": "4f14878dfb90bad019fd8b2fd055b92ee4bda369b408e87c6d33f57d60058e11",
+      "hash": "be612a156f6c32aadf6346d3c58cfa6a094f7fc915a62ddd07110e1f2cceeef8",
       "notas": 698,
-      "bytes": 1846591,
+      "bytes": 1846663,
       "paquete": "CPP.json"
     },
     {
@@ -141,7 +141,7 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=259639",
-      "hash": "26d744808b0856b7dcb2f79dfc23aba9d58af9d65be51fafbd49508f45c2aea6",
+      "hash": "abdb1f480b1d82dfc38d7731c368cb3866083e6a2f9242916366ffb7464819f2",
       "notas": 430,
       "bytes": 1105270,
       "paquete": "CPTSS.json"
@@ -157,9 +157,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4125",
-      "hash": "6c098cff1bdb797506dbf0bf6eaae1b7a1060357045c85edc4c408e833dd9287",
+      "hash": "b08fc2c87bc2a1b04f5f51721bbec398aa264cf8e3306066cd9a8a02ab4b6eb8",
       "notas": 571,
-      "bytes": 2250574,
+      "bytes": 2250823,
       "paquete": "CPol.json"
     },
     {
@@ -173,9 +173,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=199983",
-      "hash": "f1b49368a3484d205995e15d7fa82473741092844036f8bad9787772e2f76217",
+      "hash": "bc3f4875acf64444da6972ede4be67076635ab01963e215f7c21d0b302b4f20a",
       "notas": 600,
-      "bytes": 1727503,
+      "bytes": 1727992,
       "paquete": "CST.json"
     },
     {
@@ -237,9 +237,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=1348",
-      "hash": "38fdaed9704cbbe2304a9ba0a0e789b5c59c53353c5b194665c5b289361c5e85",
+      "hash": "4395c46fa36828aee07b06ca6a14cec51237bd6b90808d02f2afa77597cf99c4",
       "notas": 443,
-      "bytes": 2080879,
+      "bytes": 2082606,
       "paquete": "EOSF.json"
     },
     {
@@ -253,9 +253,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6533",
-      "hash": "c7406070068cbdefb3a0d4dbb9aa8016e9650dfa65f71483d155fd63e1483626",
+      "hash": "98f3762165dfbeeeb2f8f07d799c287def3ddbf6659f10094f6b9b3c9923b15f",
       "notas": 1538,
-      "bytes": 6291518,
+      "bytes": 6290444,
       "paquete": "ET.json"
     },
     {
@@ -269,9 +269,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "http://www.secretariasenado.gov.co/senado/basedoc/ley_1150_2007.html",
-      "hash": "e69394e6942484dcb8898c640f5c03cc1fc16eb0133f1c30f35ee1609922e7a5",
+      "hash": "fb8987fa3cdc4693f1f53f5882a97d3b6d4f68879aba6a4d6e4ddc1cff88fe7e",
       "notas": 37,
-      "bytes": 166616,
+      "bytes": 166750,
       "paquete": "Ley 1150 de 2007.json"
     },
     {
@@ -285,9 +285,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34130",
-      "hash": "f0731c7eb9e9755e09e2053076d9249612a7e6233f340aaa547cda0cbf4a3e54",
+      "hash": "885f5438197e3c3ba6b02263098d2b16820e84ed157b1389cf1ff818aa7c56df",
       "notas": 55,
-      "bytes": 100280,
+      "bytes": 100336,
       "paquete": "Ley 1258 de 2008.json"
     },
     {
@@ -301,9 +301,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=43292",
-      "hash": "1ba61ec10a9cc1a76ea2da7b158e7f813280fad44857f9e03cb47f35365c4eaf",
+      "hash": "5de0300a57143fbd74073125601f60df0f87a0cdd7fdca37f6ac18b20cc10a19",
       "notas": 161,
-      "bytes": 437219,
+      "bytes": 437523,
       "paquete": "Ley 1474 de 2011.json"
     },
     {
@@ -317,9 +317,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=44306",
-      "hash": "b3c68afc865484d08acfbed54437d048922025b7261627fba951beaec358caca",
+      "hash": "7fd0895390857ba7946eae916d1e21b1fdb4211a1d5afc2eb2b6d04b22f40df5",
       "notas": 115,
-      "bytes": 300225,
+      "bytes": 300333,
       "paquete": "Ley 1480 de 2011.json"
     },
     {
@@ -333,7 +333,7 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=48366",
-      "hash": "5f36b46855e878422f83036db6c3ee5a57a6fe07048ed6a98bf539784b4e1775",
+      "hash": "d2fc82d0936ae8406f4ca812634dfedb635af28cbcb861fa2c860a0f88635d6c",
       "notas": 143,
       "bytes": 316019,
       "paquete": "Ley 1563 de 2012.json"
@@ -349,9 +349,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=99712",
-      "hash": "5f467d4f47bc372d2a33e70aa7061a6f92e731d8e256b20af2056689c2036e18",
+      "hash": "3e0729b831585dedbcaf9feced24f16a4d0e821d89a84fabd7cb16c7879923ff",
       "notas": 73,
-      "bytes": 182812,
+      "bytes": 182504,
       "paquete": "Ley 1996 de 2019.json"
     },
     {
@@ -365,9 +365,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739",
-      "hash": "2f53543f869bc994a14885a37a7ae7fda349f28f801d274e92faa49a860ed73a",
+      "hash": "9354e3a33670d64115dc56b98d104b52e1ac0778481d59ee44aee8d2fcf2e6a6",
       "notas": 293,
-      "bytes": 796650,
+      "bytes": 800489,
       "paquete": "Ley 222 de 1995.json"
     },
     {
@@ -413,9 +413,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=3992",
-      "hash": "30520fb127467e20764c632c0ebcac61811a7ba06c97646e5f1403c387e22e6c",
+      "hash": "3697ce4a2cb12148409cc66e629676874ad24450921b330c798ea85af4cc226b",
       "notas": 234,
-      "bytes": 630290,
+      "bytes": 631045,
       "paquete": "Ley 446 de 1998.json"
     },
     {
@@ -429,9 +429,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=188",
-      "hash": "0f0a738229dac1810291b64e9a96a25490e616a4b620d291d7098dd692cbae50",
+      "hash": "2dd780f7140d8949cc1bef78f0e01820a3a17e413f2fc8d013b7342f7a393fd6",
       "notas": 120,
-      "bytes": 307579,
+      "bytes": 307727,
       "paquete": "Ley 472 de 1998.json"
     },
     {
@@ -445,9 +445,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=186",
-      "hash": "944acd878e6c0b7e7d35cc3fa6a936ec6385659c692a9617ef209143c86c985a",
+      "hash": "d95fd9af0b5f502c3f2a45507d39dac69dd729d881ed4180843c1621e78b98b1",
       "notas": 139,
-      "bytes": 347460,
+      "bytes": 347729,
       "paquete": "Ley 489 de 1998.json"
     },
     {
@@ -461,9 +461,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0610_2000.html",
-      "hash": "b89f7ae7c5a464b7dbdb814794db471b76178e8d59c0bbb126c6f2a5f481c823",
+      "hash": "470ba15e6c46c382cdff3ec2d89d1f3d9983b746e6e5d33766b4d9da1b3e7340",
       "notas": 76,
-      "bytes": 167153,
+      "bytes": 167289,
       "paquete": "Ley 610 de 2000.json"
     },
     {
@@ -477,9 +477,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001.html",
-      "hash": "091234544760033843cee7e14741386392145536a9d50cd9095977a8dd93a691",
+      "hash": "d39e31bb127a700001f7afb3b99c67ad3547a90868982cfd6494da18ca12f6cf",
       "notas": 113,
-      "bytes": 271318,
+      "bytes": 271408,
       "paquete": "Ley 675 de 2001.json"
     },
     {
@@ -493,9 +493,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=304",
-      "hash": "0979766104ec16eabc147fce90dc927e266972a85709b15eb3e58d3df5dc3abf",
+      "hash": "76da5b7687deb4c9205c104dfc6c3dfa5ab3a077742b0dcb3c18c58eea61f9a7",
       "notas": 93,
-      "bytes": 650962,
+      "bytes": 650912,
       "paquete": "Ley 80 de 1993.json"
     },
     {
@@ -509,9 +509,9 @@
       "actualizacion_fuente": "15 de octubre de 2026",
       "fecha_extraccion": "2026-11-08",
       "fuente": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=8738",
-      "hash": "76fd7a86ba38e1009cd21b49387adc327647b5721c73ca71ed66003aab7217ca",
+      "hash": "b869c01dcdfc5668981396660bb4e6c165362f1d5cfc09772f7a829e1cb67097",
       "notas": 56,
-      "bytes": 118167,
+      "bytes": 118369,
       "paquete": "Ley 820 de 2003.json"
     }
   ]

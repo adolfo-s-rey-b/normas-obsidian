@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "585"
-epigrafe: "DEMANDA PARA TRÁMITE SIMULTÁNEO DE DECLARACIÓN DE AUSENCIA Y DE MUERTE POR DESAPARECIMIENTO"
+epigrafe: "Demanda para trámite simultáneo de declaración de ausencia y de muerte por desaparecimiento"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Cuarta|SECCIÓN CUARTA - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
 titulo: "[[CGP - Libro Tercero - Sección Cuarta - Título Único|TÍTULO ÚNICO - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 585. DEMANDA PARA TRÁMITE SIMULTÁNEO DE DECLARACIÓN DE AUSENCIA Y DE MUERTE POR DESAPARECIMIENTO
+## Artículo 585. Demanda para trámite simultáneo de declaración de ausencia y de muerte por desaparecimiento
 
 Podrá pedirse en la misma demanda, que se haga la declaración de ausencia y posteriormente la de muerte por desaparecimiento, y en tal caso los trámites correspondientes se adelantarán en cuadernos separados, sin que interfieran entre sí, y las solicitudes se resolverán con distintas sentencias.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "189"
-epigrafe: "EFECTOS DE LA SENTENCIA"
+epigrafe: "Efectos de la sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - SENTENCIA]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VI|Capítulo VI]]
 
-## Artículo 189. EFECTOS DE LA SENTENCIA
+## Artículo 189. Efectos de la sentencia
 
 La sentencia que declare la nulidad de un acto administrativo en un proceso tendrá fuerza de cosa juzgada erga omnes. La que niegue la nulidad pedida producirá cosa juzgada erga omnes pero solo en relación con la causa petendi juzgada. Las que declaren la legalidad de las medidas que se revisen en ejercicio del control inmediato de legalidad producirán efectos erga omnes solo en relación con las normas jurídicas superiores frente a las cuales se haga el examen.
 

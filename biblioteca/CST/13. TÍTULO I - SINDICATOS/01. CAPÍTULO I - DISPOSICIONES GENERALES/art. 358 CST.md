@@ -11,7 +11,7 @@ articulo: "358"
 epigrafe: "LIBERTAD DE AFILIACION"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo I (2)|CAPÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 2 Ley 584 de 2000]]"
 derogado_por:
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo I (2)|Capítulo I]]

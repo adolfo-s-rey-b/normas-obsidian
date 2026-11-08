@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "107"
-epigrafe: "PROCEDIMIENTO EN CASO DE IMPEDIMENTO O DE RECUSACIÓN"
+epigrafe: "Procedimiento en caso de impedimento o de recusación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título III|TÍTULO III - IMPEDIMENTOS Y RECUSACIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título III|Título III]]
 
-## Artículo 107. PROCEDIMIENTO EN CASO DE IMPEDIMENTO O DE RECUSACIÓN
+## Artículo 107. Procedimiento en caso de impedimento o de recusación
 
 En caso de impedimento el servidor público enviará, inmediatamente, la actuación disciplinaria al superior, quien decidirá de plano dentro de los tres (3) días siguientes a la fecha de su recibo.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "164"
-epigrafe: "RELACION DE LOS FONDOS DE CESANTIA CON SUS AFILIADOS"
+epigrafe: "Relación de los Fondos de Cesantía con sus Afiliados"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 164. RELACION DE LOS FONDOS DE CESANTIA CON SUS AFILIADOS
+## Artículo 164. Relación de los Fondos de Cesantía con sus Afiliados
 
 1\. Afiliación. Todo trabajador particular vinculado mediante contrato de trabajo celebrado a partir del 1o. de enero de 1991 deberá afiliarse a un fondo de cesantía, administrado por una sociedad debidamente autorizada por la Superintendencia Bancaria.
 

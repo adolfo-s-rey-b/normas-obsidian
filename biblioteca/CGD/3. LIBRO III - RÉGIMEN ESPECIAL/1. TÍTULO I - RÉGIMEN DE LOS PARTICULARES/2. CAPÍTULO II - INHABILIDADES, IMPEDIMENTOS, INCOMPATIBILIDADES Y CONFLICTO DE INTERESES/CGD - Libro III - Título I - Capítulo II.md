@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 71 CGD|Artículo 71]] — INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES
+- [[art. 71 CGD|Artículo 71]] — Inhabilidades, impedimentos, incompatibilidades y conflicto de intereses
 
 ---
 ← [[CGD - Libro III - Título I - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro III - Título I|Título I]] · [[CGD - Libro III - Título I - Capítulo III|Capítulo III]] →

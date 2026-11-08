@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "135"
-epigrafe: "HOMICIDIO EN PERSONA PROTEGIDA"
+epigrafe: "Homicidio en persona protegida"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título II|TÍTULO II - DELITOS CONTRA PERSONAS Y BIENES PROTEGIDOS POR EL DERECHO INTERNACIONAL HUMANITARIO]]"
 capitulo: "[[CP - Libro Segundo - Título II - Capítulo Unico|CAPÍTULO UNICO]]"
@@ -16,7 +16,6 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 27 Ley 1257 de 2008]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 anterior: "[[art. 134D CP]]"
 siguiente: "[[art. 136 CP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
@@ -33,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título II|Título II]] › [[CP - Libro Segundo - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 135. HOMICIDIO EN PERSONA PROTEGIDA
+## Artículo 135. Homicidio en persona protegida
 
 El que, con ocasión y en desarrollo de conflicto armado, ocasione la muerte de persona protegida conforme a los Convenios Internacionales sobre Derecho Humanitario ratificados por Colombia, incurrirá en prisión de cuatrocientos ochenta (480) a seiscientos (600) meses, multa dos mil seiscientos sesenta y seis punto sesenta y seis (2.666,66) a siete mil quinientos (7.500) salarios mínimos legales mensuales vigentes, e inhabilitación para el ejercicio de derechos y funciones públicas de doscientos cuarenta (240) a trescientos sesenta (360) meses.
 
@@ -67,7 +66,7 @@ La pena prevista en este artículo se aumentará de la tercera parte a la mitad 
 
 8\. Cualquier otra persona que tenga aquella condición en virtud de los Convenios I, II, III y IV de Ginebra de 1949 y los Protocolos Adicionales I y II de 1977 y otros que llegaren a ratificarse.
 
-> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 ---
 ← [[art. 134D CP]] · ↑ [[CP - Libro Segundo - Título II - Capítulo Unico|Capítulo Unico]] · [[art. 136 CP]] →

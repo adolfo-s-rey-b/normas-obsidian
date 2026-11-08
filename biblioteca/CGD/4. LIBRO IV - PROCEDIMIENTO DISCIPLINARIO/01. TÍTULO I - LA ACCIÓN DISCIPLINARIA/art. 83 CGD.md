@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "83"
-epigrafe: "EJERCICIO DE LA ACCIÓN DISCIPLINARIA"
+epigrafe: "Ejercicio de la acción disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "parcialmente derogado"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 83. EJERCICIO DE LA ACCIÓN DISCIPLINARIA
+## Artículo 83. Ejercicio de la acción disciplinaria
 
 La acción disciplinaria se ejerce por la Procuraduría General de la Nación; la Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial, ~~o quienes hagan sus veces~~; la Superintendencia de Notariado y Registro; los Personeros Distritales y Municipales; las Oficinas de Control Disciplinario Interno establecidas en todas las ramas, órganos y entidades del Estado; y los nominadores.
 

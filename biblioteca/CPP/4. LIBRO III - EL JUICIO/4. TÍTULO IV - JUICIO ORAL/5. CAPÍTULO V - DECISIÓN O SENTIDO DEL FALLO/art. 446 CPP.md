@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "446"
-epigrafe: "CONTENIDO"
+epigrafe: "Contenido"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo V|CAPÍTULO V - DECISIÓN O SENTIDO DEL FALLO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 446. CONTENIDO
+## Artículo 446. Contenido
 
 La decisión será individualizada frente a cada uno de los enjuiciados y cargos contenidos en la acusación, y deberá referirse a las solicitudes hechas en los alegatos finales. El sentido del fallo se dará a conocer de manera oral y pública inmediatamente después del receso previsto en el artículo anterior, y deberá contener el delito por el cual se halla a la persona culpable o inocente.
 

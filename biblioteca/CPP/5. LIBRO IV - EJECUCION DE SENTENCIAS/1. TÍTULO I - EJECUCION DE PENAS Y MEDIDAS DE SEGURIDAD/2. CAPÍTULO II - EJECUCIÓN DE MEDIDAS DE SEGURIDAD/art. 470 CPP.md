@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "470"
-epigrafe: "MEDIDAS DE SEGURIDAD PARA INDÍGENAS"
+epigrafe: "Medidas de seguridad para indígenas"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo II|CAPÍTULO II - EJECUCIÓN DE MEDIDAS DE SEGURIDAD]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 470. MEDIDAS DE SEGURIDAD PARA INDÍGENAS
+## Artículo 470. Medidas de seguridad para indígenas
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

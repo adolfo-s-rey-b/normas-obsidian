@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "138"
-epigrafe: "DISCREPANCIAS SOBRE LAS CAUSALES"
+epigrafe: "Discrepancias sobre las causales"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título II|TÍTULO II - DE LA SUPERINTENDENCIA DE SOCIEDADES]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1|CAPÍTULO 1 - IMPUGNACION DE DECISIONES]]"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título II|Título II]] › [[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1|Capítulo 1]] › [[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1 - Sección 1|Sección 1]]
 
-## Artículo 138. DISCREPANCIAS SOBRE LAS CAUSALES
+## Artículo 138. Discrepancias sobre las causales
 
 La Superintendencia de Sociedades podrá dirimir las discrepancias sobre la ocurrencia de causales de disolución de sociedades no sometidas a la vigilancia y control del Estado o que estándolo, la entidad respectiva no tenga dicha facultad. Lo anterior podrá solicitarse por cualquier asociado mediante escrito presentado personalmente por el interesado o su apoderado, junto con los anexos que por vía reglamentaria determine el Gobierno Nacional.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "568"
-epigrafe: "PROVIDENCIA DE RESOLUCIÓN DE OBJECIONES, APROBACIÓN DE INVENTARIOS Y AVALÚOS Y CITACIÓN A AUDIENCIA"
+epigrafe: "Providencia de resolución de objeciones, aprobación de inventarios y avalúos y citación a audiencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 568. PROVIDENCIA DE RESOLUCIÓN DE OBJECIONES, APROBACIÓN DE INVENTARIOS Y AVALÚOS Y CITACIÓN A AUDIENCIA
+## Artículo 568. Providencia de resolución de objeciones, aprobación de inventarios y avalúos y citación a audiencia
 
 Una vez surtido el trámite previsto en los dos artículos anteriores, el juez en un mismo auto resolverá sobre:
 

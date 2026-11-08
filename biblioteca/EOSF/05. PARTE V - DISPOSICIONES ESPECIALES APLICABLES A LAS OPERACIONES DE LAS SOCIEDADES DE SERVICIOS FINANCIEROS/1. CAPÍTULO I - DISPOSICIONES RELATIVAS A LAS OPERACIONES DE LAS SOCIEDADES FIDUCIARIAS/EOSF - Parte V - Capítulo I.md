@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 146 EOSF|Artículo 146]] — NORMAS GENERALES DE LAS OPERACIONES FIDUCIARIAS
+- [[art. 146 EOSF|Artículo 146]] — Normas Generales de las Operaciones Fiduciarias
 - [[art. 147 EOSF|Artículo 147]] — INVERSIONES AUTORIZADAS CON RECURSOS PROPIOS
-- [[art. 148 EOSF|Artículo 148]] — GARANTIA DE LA GESTION FIDUCIARIA
-- [[art. 149 EOSF|Artículo 149]] — FIDUCIA PARA LA EMISION DE TITULOS
-- [[art. 150 EOSF|Artículo 150]] — REPRESENTACION DE TENEDORES DE BONOS
+- [[art. 148 EOSF|Artículo 148]] — Garantía de la Gestión Fiduciaria
+- [[art. 149 EOSF|Artículo 149]] — Fiducia para la Emisión de Títulos
+- [[art. 150 EOSF|Artículo 150]] — Representación de Tenedores de Bonos
 
 ---
 ↑ [[EOSF - Parte V|Parte V]] · [[EOSF - Parte V - Capítulo II|Capítulo II]] →

@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "276"
-epigrafe: "TRÁMITE DE LA DEMANDA"
+epigrafe: "Trámite de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 87 Ley 2080 de 2021]]"
 anterior: "[[art. 275 CPACA]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 276. TRÁMITE DE LA DEMANDA
+## Artículo 276. Trámite de la demanda
 
 Recibida la demanda deberá ser repartida a más tardar el día siguiente hábil y se decidirá sobre su admisión dentro de los tres (3) días siguientes.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "278"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo X|CAPÍTULO X - INSTITUTO COLOMBIANO DE CREDITO EDUCATIVO Y ESTUDIOS TECNICOS EN EL EXTERIOR ICETEX]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo X|Capítulo X]]
 
-## Artículo 278. VIGILANCIA Y CONTROL
+## Artículo 278. Vigilancia y Control
 
 Las captaciones a que se refieren los numerales 1. y 2. del artículo anterior del presente Estatuto, quedarán bajo el control de la Superintendencia Bancaria, de acuerdo con las disposiciones legales vigentes sobre la materia.
 

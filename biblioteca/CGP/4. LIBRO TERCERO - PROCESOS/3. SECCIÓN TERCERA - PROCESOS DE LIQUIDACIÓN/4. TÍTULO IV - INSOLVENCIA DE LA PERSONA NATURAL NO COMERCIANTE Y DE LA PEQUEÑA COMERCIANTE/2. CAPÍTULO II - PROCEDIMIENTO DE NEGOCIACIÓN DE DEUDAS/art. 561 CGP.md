@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "561"
-epigrafe: "EFECTOS DEL FRACASO DE LA NEGOCIACIÓN, DE LA NULIDAD DEL ACUERDO O DE SU INCUMPLIMIENTO"
+epigrafe: "Efectos del fracaso de la negociación, de la nulidad del acuerdo o de su incumplimiento"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 561. EFECTOS DEL FRACASO DE LA NEGOCIACIÓN, DE LA NULIDAD DEL ACUERDO O DE SU INCUMPLIMIENTO
+## Artículo 561. Efectos del fracaso de la negociación, de la nulidad del acuerdo o de su incumplimiento
 
 El fracaso de la negociación de deudas y la declaración de nulidad del acuerdo de pagos o de su incumplimiento que no fueren subsanadas a través de los mecanismos previstos en este capítulo darán lugar a la apertura del procedimiento de liquidación patrimonial previsto en el Capítulo IV del presente título.
 

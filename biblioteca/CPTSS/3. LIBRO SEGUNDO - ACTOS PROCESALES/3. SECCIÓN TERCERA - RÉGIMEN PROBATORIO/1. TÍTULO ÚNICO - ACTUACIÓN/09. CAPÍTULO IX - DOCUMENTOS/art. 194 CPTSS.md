@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "194"
-epigrafe: "EFECTOS DE LA DECLARACIÓN DE FALSEDAD"
+epigrafe: "Efectos de la declaración de falsedad"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 194. EFECTOS DE LA DECLARACIÓN DE FALSEDAD
+## Artículo 194. Efectos de la declaración de falsedad
 
 Cuando se declare total o parcialmente falso un documento, el juez lo hará constar así al margen o a continuación de él, en nota debidamente especificada. Si la falsedad recae sobre el original de un documento público, el juez la comunicará con los datos necesarios a la oficina de origen o a la de procedencia del documento, para que allí se ponga la correspondiente nota. En todo caso dará aviso al fiscal competente, a quien enviará las copias necesarias para la correspondiente investigación.
 

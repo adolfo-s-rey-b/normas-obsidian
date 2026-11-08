@@ -11,7 +11,7 @@ articulo: "300"
 epigrafe: "ETAPAS DEL PROCESO LIQUIDATORIO"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 25 Ley 510 de 1999]]"
 derogado_por:
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]

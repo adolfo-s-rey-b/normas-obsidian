@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "42"
-epigrafe: "SECTORES ADMINISTRATIVOS"
+epigrafe: "Sectores Administrativos"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 41 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 42. SECTORES ADMINISTRATIVOS
+## Artículo 42. Sectores Administrativos
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

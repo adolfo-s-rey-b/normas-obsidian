@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "9"
-epigrafe: "COMPETENCIA TERRITORIAL"
+epigrafe: "Competencia territorial"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 9. COMPETENCIA TERRITORIAL
+## Artículo 9. Competencia territorial
 
 La Corte Suprema de Justicia en su Sala de Casación Laboral ejerce su competencia en todo el territorio nacional y tiene su sede en la capital de la República.
 

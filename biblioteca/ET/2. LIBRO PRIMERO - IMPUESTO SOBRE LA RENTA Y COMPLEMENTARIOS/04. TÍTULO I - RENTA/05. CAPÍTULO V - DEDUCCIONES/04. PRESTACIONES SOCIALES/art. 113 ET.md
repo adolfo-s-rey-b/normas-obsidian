@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "113"
-epigrafe: "COMO SE DETERMINA LA CUOTA ANUAL DEDUCIBLE DE LA PROVISIÓN"
+epigrafe: "CÓMO SE DETERMINA LA CUOTA ANUAL DEDUCIBLE DE LA PROVISIÓN"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Prestaciones sociales|Prestaciones sociales]]
 
-## Artículo 113. COMO SE DETERMINA LA CUOTA ANUAL DEDUCIBLE DE LA PROVISIÓN
+## Artículo 113. CÓMO SE DETERMINA LA CUOTA ANUAL DEDUCIBLE DE LA PROVISIÓN
 
 (Fuente original compilada: D. 2348/74 Art. [[art. 7 ET|7]]o.) La cuota anual deducible por concepto de pensiones futuras de jubilación o invalidez, será la que resulte del siguiente cálculo:
 

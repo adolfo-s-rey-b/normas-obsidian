@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 285 CGP|Artículo 285]] — ACLARACIÓN
-- [[art. 286 CGP|Artículo 286]] — CORRECCIÓN DE ERRORES ARITMÉTICOS Y OTROS
-- [[art. 287 CGP|Artículo 287]] — ADICIÓN
-- [[art. 288 CGP|Artículo 288]] — IRREGULARIDADES EN LA FIRMA DE LAS PROVIDENCIAS
+- [[art. 285 CGP|Artículo 285]] — Aclaración
+- [[art. 286 CGP|Artículo 286]] — Corrección de errores aritméticos y otros
+- [[art. 287 CGP|Artículo 287]] — Adición
+- [[art. 288 CGP|Artículo 288]] — Irregularidades en la firma de las providencias
 
 ---
 ← [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]]

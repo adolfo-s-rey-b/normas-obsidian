@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 251 CPP|Artículo 251]] — MÉTODOS
-- [[art. 252 CPP|Artículo 252]] — RECONOCIMIENTO POR MEDIO DE FOTOGRAFÍAS O VÍDEOS
-- [[art. 253 CPP|Artículo 253]] — RECONOCIMIENTO EN FILA DE PERSONAS
+- [[art. 251 CPP|Artículo 251]] — Métodos
+- [[art. 252 CPP|Artículo 252]] — Reconocimiento por medio de fotografías o vídeos
+- [[art. 253 CPP|Artículo 253]] — Reconocimiento en fila de personas
 
 ---
 ← [[CPP - Libro II - Título I - Capítulo III|Capítulo III]] · ↑ [[CPP - Libro II - Título I|Título I]] · [[CPP - Libro II - Título I - Capítulo V|Capítulo V]] →

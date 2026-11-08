@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "769"
-epigrafe: "CERTIFICADOS CON VALOR DE COPIA AUTENTICA"
+epigrafe: "CERTIFICADOS CON VALOR DE COPIA AUTÉNTICA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Prueba documental|Prueba documental]]
 
-## Artículo 769. CERTIFICADOS CON VALOR DE COPIA AUTENTICA
+## Artículo 769. CERTIFICADOS CON VALOR DE COPIA AUTÉNTICA
 
 Los certificados tienen el valor de copias auténticas, en los casos siguientes:
 

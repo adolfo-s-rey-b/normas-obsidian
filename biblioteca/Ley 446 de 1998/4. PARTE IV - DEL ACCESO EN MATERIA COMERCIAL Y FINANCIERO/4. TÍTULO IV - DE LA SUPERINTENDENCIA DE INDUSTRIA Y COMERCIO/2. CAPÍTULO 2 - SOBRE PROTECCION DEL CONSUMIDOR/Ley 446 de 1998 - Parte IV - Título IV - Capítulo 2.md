@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 145 Ley 446 de 1998|Artículo 145]] — ATRIBUCIONES EN MATERIA DE PROTECCION AL CONSUMIDOR
+- [[art. 145 Ley 446 de 1998|Artículo 145]] — Atribuciones en materia de protección al consumidor
 
 ---
 ← [[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 1|Capítulo 1]] · ↑ [[Ley 446 de 1998 - Parte IV - Título IV|Título IV]]

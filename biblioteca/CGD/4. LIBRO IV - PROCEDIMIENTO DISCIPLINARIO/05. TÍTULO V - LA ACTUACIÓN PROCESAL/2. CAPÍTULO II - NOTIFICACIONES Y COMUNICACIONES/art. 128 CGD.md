@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "128"
-epigrafe: "NOTIFICACIÓN POR CONDUCTA CONCLUYENTE"
+epigrafe: "Notificación por conducta concluyente"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 128. NOTIFICACIÓN POR CONDUCTA CONCLUYENTE
+## Artículo 128. Notificación por conducta concluyente
 
 Cuando no se hubiere realizado la notificación personal o ficta, o esta fuere irregular respecto de decisiones o del fallo, la exigencia legal se entiende cumplida, para todos los efectos, si el disciplinado o su defensor no reclama y actúa en diligencias posteriores o interpone recursos contra ellos o se refiere a las mismas o a su contenido en escritos o alegatos verbales posteriores.
 

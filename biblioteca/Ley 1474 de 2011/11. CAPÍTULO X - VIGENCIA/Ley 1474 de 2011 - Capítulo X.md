@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 135 Ley 1474 de 2011|Artículo 135]] — VIGENCIA
+- [[art. 135 Ley 1474 de 2011|Artículo 135]] — Vigencia
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo IX|Capítulo IX]] · ↑ [[Ley 1474 de 2011|Ley 1474 de 2011]]

@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 442 CPP|Artículo 442]] — PETICIÓN DE ABSOLUCIÓN PERENTORIA
-- [[art. 443 CPP|Artículo 443]] — TURNOS PARA ALEGAR
-- [[art. 444 CPP|Artículo 444]] — EXTENSIÓN DE LOS ALEGATOS
-- [[art. 445 CPP|Artículo 445]] — CLAUSURA DEL DEBATE
+- [[art. 442 CPP|Artículo 442]] — Petición de absolución perentoria
+- [[art. 443 CPP|Artículo 443]] — Turnos para alegar
+- [[art. 444 CPP|Artículo 444]] — Extensión de los alegatos
+- [[art. 445 CPP|Artículo 445]] — Clausura del debate
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] · ↑ [[CPP - Libro III - Título IV|Título IV]] · [[CPP - Libro III - Título IV - Capítulo V|Capítulo V]] →

@@ -14,7 +14,7 @@ epigrafe: "MÉTODOS PARA DETERMINAR EL PRECIO O MARGEN DE UTILIDAD EN LAS OPERAC
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo XI|CAPÍTULO XI - PRECIOS DE TRANSFERENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 113 Ley 1607 de 2012]]"
   - "[[art. 107 Ley 1819 de 2016]]"
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo XI|Capítulo XI]]

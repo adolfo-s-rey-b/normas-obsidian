@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "144"
-epigrafe: "REVOCATORIA A SOLICITUD DEL SANCIONADO"
+epigrafe: "Revocatoria a solicitud del sancionado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo IV|CAPÍTULO IV - REVOCATORIA DIRECTA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 144. REVOCATORIA A SOLICITUD DEL SANCIONADO
+## Artículo 144. Revocatoria a solicitud del sancionado
 
 El sancionado podrá solicitar, por una única vez, la revocación total o parcial del fallo sancionatorio, siempre y cuando no hubiere interpuesto contra aquellos recursos ordinarios previstos en este Código.
 

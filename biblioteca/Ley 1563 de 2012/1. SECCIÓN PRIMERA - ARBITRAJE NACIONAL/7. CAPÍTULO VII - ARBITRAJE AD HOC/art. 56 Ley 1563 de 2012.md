@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "56"
-epigrafe: "INSTALACIÓN DEL TRIBUNAL"
+epigrafe: "Instalación del tribunal"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VII|CAPÍTULO VII - ARBITRAJE AD HOC]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VII|Capítulo VII]]
 
-## Artículo 56. INSTALACIÓN DEL TRIBUNAL
+## Artículo 56. Instalación del tribunal
 
 Los árbitros, una vez aceptado su nombramiento, convocarán a la audiencia de instalación del tribunal, en la que designarán presidente y señalarán el lugar en el que deberá presentarse la demanda, dentro de los quince (15) días siguientes. De no presentarse la demanda oportunamente, se extinguirá el pacto arbitral, y las partes quedarán en libertad de acudir a la justicia ordinaria.
 

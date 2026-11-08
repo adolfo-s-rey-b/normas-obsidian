@@ -11,7 +11,7 @@ articulo: "259"
 epigrafe: "DIRECCION Y ADMINISTRACION"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VI|CAPÍTULO VI - FINANCIERA ENERGETICA NACIONAL -FEN-]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 5 Decreto 4174 de 2011]]"
   - "[[art. 1 Decreto 1140 de 2013]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VI|Capítulo VI]]

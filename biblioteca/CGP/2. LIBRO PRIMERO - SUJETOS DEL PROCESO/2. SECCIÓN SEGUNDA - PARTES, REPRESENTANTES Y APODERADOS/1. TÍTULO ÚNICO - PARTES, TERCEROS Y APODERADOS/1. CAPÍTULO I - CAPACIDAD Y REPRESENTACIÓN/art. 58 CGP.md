@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "58"
-epigrafe: "REPRESENTACIÓN DE PERSONAS JURÍDICAS EXTRANJERAS Y ORGANIZACIONES NO GUBERNAMENTALES SIN ÁNIMO DE LUCRO"
+epigrafe: "Representación de personas jurídicas extranjeras y organizaciones no gubernamentales sin ánimo de lucro"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 58. REPRESENTACIÓN DE PERSONAS JURÍDICAS EXTRANJERAS Y ORGANIZACIONES NO GUBERNAMENTALES SIN ÁNIMO DE LUCRO
+## Artículo 58. Representación de personas jurídicas extranjeras y organizaciones no gubernamentales sin ánimo de lucro
 
 La representación de las sociedades extranjeras con negocios permanentes en Colombia se regirá por las normas del Código de Comercio.
 

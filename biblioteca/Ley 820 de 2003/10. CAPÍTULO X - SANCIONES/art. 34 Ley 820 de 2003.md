@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "34"
-epigrafe: "SANCIONES"
+epigrafe: "Sanciones"
 capitulo: "[[Ley 820 de 2003 - Capítulo X|CAPÍTULO X - SANCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 33 Ley 820 de 2003]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo X|Capítulo X]]
 
-## Artículo 34. SANCIONES
+## Artículo 34. Sanciones
 
 Sin perjuicio de las demás sanciones a que hubiere lugar, la autoridad competente podrá imponer multas hasta por cien (100) salarios mínimos mensuales legales vigentes, mediante resolución motivada, por las siguientes razones:
 

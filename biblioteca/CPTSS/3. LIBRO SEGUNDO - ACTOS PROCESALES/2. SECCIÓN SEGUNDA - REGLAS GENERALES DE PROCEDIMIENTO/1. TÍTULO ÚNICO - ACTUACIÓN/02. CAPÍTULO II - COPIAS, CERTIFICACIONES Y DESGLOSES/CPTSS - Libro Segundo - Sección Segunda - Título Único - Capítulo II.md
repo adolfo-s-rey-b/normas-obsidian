@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 83 CPTSS|Artículo 83]] — COPIAS DE ACTUACIONES JUDICIALES
-- [[art. 84 CPTSS|Artículo 84]] — CERTIFICACIONES
-- [[art. 85 CPTSS|Artículo 85]] — DESGLOSES
+- [[art. 83 CPTSS|Artículo 83]] — Copias de actuaciones judiciales
+- [[art. 84 CPTSS|Artículo 84]] — Certificaciones
+- [[art. 85 CPTSS|Artículo 85]] — Desgloses
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo III|Capítulo III]] →

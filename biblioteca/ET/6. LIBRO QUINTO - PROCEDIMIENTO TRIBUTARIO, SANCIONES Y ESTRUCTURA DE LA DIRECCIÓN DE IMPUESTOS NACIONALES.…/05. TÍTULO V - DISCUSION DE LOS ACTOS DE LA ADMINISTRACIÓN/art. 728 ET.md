@@ -16,7 +16,6 @@ titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE L
 vigencia: "derogado"
 derogado_por:
   - "[[art. 68 Ley 6 de 1992]]"
-  - "[[art. 726 ET]]"
 anterior: "[[art. 727 ET]]"
 siguiente: "[[art. 729 ET]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
@@ -44,7 +43,7 @@ El recurso de reposición deberá resolverse dentro de los diez (10) días sigui
 
 Si la providencia confirma el auto que no admite el recurso, la vía gubernativa se agotará en el momento de su notificación.
 
-> [!warning] Notas del Editor: Según lo establece la DIAN en la publicación CODEX 'Estatuto Tributario Edición Especial '97', de enero de 1997, los apartes en rojo de este artículo fueron derogados tácitamente por el artículo [[art. 68 Ley 6 de 1992|68]] de la Ley 6 de 1992. El artículo [[art. 68 Ley 6 de 1992|68]] de la Ley 6 de 1992 modificó el artículo [[art. 726 ET|726]] de este Estatuto, estableciendo en él el procedimiento ante la inadmisión del recurso;
+> [!warning] Notas del Editor: Según lo establece la DIAN en la publicación CODEX 'Estatuto Tributario Edición Especial '97', de enero de 1997, los apartes en rojo de este artículo fueron derogados tácitamente por el artículo [[art. 68 Ley 6 de 1992|68]] de la Ley 6 de 1992. El artículo [[art. 68 Ley 6 de 1992|68]] de la Ley 6 de 1992 modificó el artículo 726 de este Estatuto, estableciendo en él el procedimiento ante la inadmisión del recurso;
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Artículo declarado EXEQUIBLE por los cargos analizados, por la Corte Constitucional mediante Sentencia C-739-06 de 30 de agosto de 2006, Magistrada Ponente Dra. Clara Inés Vargas Hernández.
 

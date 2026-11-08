@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "212"
-epigrafe: "PETICIÓN DE LA PRUEBA Y LIMITACIÓN DE TESTIMONIOS"
+epigrafe: "Petición de la prueba y limitación de testimonios"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 212. PETICIÓN DE LA PRUEBA Y LIMITACIÓN DE TESTIMONIOS
+## Artículo 212. Petición de la prueba y limitación de testimonios
 
 Cuando se pidan testimonios deberá expresarse el nombre, domicilio, residencia o lugar donde pueden ser citados los testigos, y enunciarse concretamente los hechos objeto de la prueba.
 

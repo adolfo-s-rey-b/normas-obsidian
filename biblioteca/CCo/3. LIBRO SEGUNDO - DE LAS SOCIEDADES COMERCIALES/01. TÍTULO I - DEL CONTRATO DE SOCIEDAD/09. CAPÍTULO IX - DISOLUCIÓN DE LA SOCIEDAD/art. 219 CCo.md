@@ -12,7 +12,7 @@ epigrafe: "EFECTOS DE LA DISOLUCIÓN DE LA SOCIEDAD POR LOS SOCIOS"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título I|TÍTULO I - DEL CONTRATO DE SOCIEDAD]]"
 capitulo: "[[CCo - Libro Segundo - Título I - Capítulo IX|CAPÍTULO IX - DISOLUCIÓN DE LA SOCIEDAD]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 24 Ley 1429 de 2010]]"
 derogado_por:
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título I|Título I]] › [[CCo - Libro Segundo - Título I - Capítulo IX|Capítulo IX]]

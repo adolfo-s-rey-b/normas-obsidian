@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "255"
-epigrafe: "NOTAS AL MARGEN O AL DORSO DE DOCUMENTOS"
+epigrafe: "Notas al margen o al dorso de documentos"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 255. NOTAS AL MARGEN O AL DORSO DE DOCUMENTOS
+## Artículo 255. Notas al margen o al dorso de documentos
 
 La nota escrita o firmada por el acreedor a continuación, al margen o al dorso de un documento que siempre ha estado en su poder, hace fe en todo lo favorable al deudor.
 

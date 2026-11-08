@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "46"
-epigrafe: "DEBERES ESPECIALES DEL PRODUCTOR Y PROVEEDOR"
+epigrafe: "Deberes especiales del productor y proveedor"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo V|CAPÍTULO V - DE LAS VENTAS QUE UTILIZAN MÉTODOS NO TRADICIONALES O A DISTANCIA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo V|Capítulo V]]
 
-## Artículo 46. DEBERES ESPECIALES DEL PRODUCTOR Y PROVEEDOR
+## Artículo 46. Deberes especiales del productor y proveedor
 
 El productor o proveedor que realice ventas a distancia deberá:
 

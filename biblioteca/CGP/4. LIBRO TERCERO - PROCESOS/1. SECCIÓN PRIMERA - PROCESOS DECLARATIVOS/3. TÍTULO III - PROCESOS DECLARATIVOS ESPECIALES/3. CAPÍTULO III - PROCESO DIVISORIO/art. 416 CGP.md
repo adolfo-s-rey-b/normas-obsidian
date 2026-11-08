@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "416"
-epigrafe: "DEBERES DEL ADMINISTRADOR"
+epigrafe: "Deberes del administrador"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 416. DEBERES DEL ADMINISTRADOR
+## Artículo 416. Deberes del administrador
 
 El administrador representará a los comuneros en los contratos de tenencia, percibirá las rentas estipuladas y recibirá los bienes a la expiración de ellos. El administrador tendrá las obligaciones del secuestre y podrá ser removido por las mismas causas que este.
 

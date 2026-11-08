@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "91"
-epigrafe: "TRASLADO DE LA DEMANDA"
+epigrafe: "Traslado de la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 91. TRASLADO DE LA DEMANDA
+## Artículo 91. Traslado de la demanda
 
 En el auto admisorio de la demanda o del mandamiento ejecutivo se ordenará su traslado al demandado, salvo disposición en contrario.
 

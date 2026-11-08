@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "94"
-epigrafe: "SANCIONES"
+epigrafe: "Sanciones"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|CAPÍTULO 3 - DE LA CONCILIACION EXTRAJUDICIAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 5|Sección 5]]
 
-## Artículo 94. SANCIONES
+## Artículo 94. Sanciones
 
 > [!warning] Artículo derogado a partir del 30 de diciembre de 2022 por el artículo [[art. 146 Ley 2220 de 2022|146]] de la Ley 2220 de 2022
 

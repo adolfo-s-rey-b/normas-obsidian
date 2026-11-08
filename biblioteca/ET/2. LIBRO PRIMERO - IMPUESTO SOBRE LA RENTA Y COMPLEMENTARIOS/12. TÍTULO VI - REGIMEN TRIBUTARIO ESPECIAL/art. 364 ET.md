@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "364"
-epigrafe: "LAS ENTIDADES SIN ANIMO DE LUCRO ESTAN OBLIGADAS A LLEVAR LIBROS DE CONTABILIDAD REGISTRADOS"
+epigrafe: "LAS ENTIDADES SIN ÁNIMO DE LUCRO ESTÁN OBLIGADAS A LLEVAR LIBROS DE CONTABILIDAD REGISTRADOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título VI|TÍTULO VI - REGIMEN TRIBUTARIO ESPECIAL]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título VI|Título VI]]
 
-## Artículo 364. LAS ENTIDADES SIN ANIMO DE LUCRO ESTAN OBLIGADAS A LLEVAR LIBROS DE CONTABILIDAD REGISTRADOS
+## Artículo 364. LAS ENTIDADES SIN ÁNIMO DE LUCRO ESTÁN OBLIGADAS A LLEVAR LIBROS DE CONTABILIDAD REGISTRADOS
 
 Las entidades sin ánimo de lucro, deberán llevar libros de contabilidad, en la forma que indique el Gobierno Nacional.
 

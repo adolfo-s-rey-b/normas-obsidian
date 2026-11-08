@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "625"
-epigrafe: "TRÁNSITO DE LEGISLACIÓN"
+epigrafe: "Tránsito de legislación"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título V|TÍTULO V - OTRAS MODIFICACIONES, DEROGACIONES Y VIGENCIA]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título V|Título V]]
 
-## Artículo 625. TRÁNSITO DE LEGISLACIÓN
+## Artículo 625. Tránsito de legislación
 
 Los procesos en curso al entrar a regir este código, se someterán a las siguientes reglas de tránsito de legislación:
 
@@ -75,7 +75,7 @@ En aquellos procesos ejecutivos en curso en los que, a la entrada en vigencia de
 
 7\. El desistimiento tácito previsto en el artículo [[art. 317 CGP|317]] será aplicable a los procesos en curso, pero los plazos previstos en sus dos numerales se contarán a partir de la promulgación de esta ley.
 
-> [!info] Notas de Vigencia: Numeral corregido por el artículo [[art. 14 Decreto 1736 de 2012|14]] del Decreto 1736 de 2012, 'por el que se corrigen unos yerros en la Ley 1564 del 12 de julio de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones'', publicado en el Diario Oficial No. 48.525 de 17 de agosto de 2012. SUSPENDIDO provisionalmente y posteriormente anulado. Destaca el editor el siguiente considerando: 'Que en el numeral 7 del mismo artículo [[art. 625 CGP|625]] de la Ley 1564 de 2012 se previó que los plazos para aplicar las reglas del desistimiento tácito de que trata el artículo [[art. 317 CGP|317]] en los procesos en curso se aplicaría 'a partir de la promulgación de esta ley', lo que constituye un error de referencia, pues de acuerdo con el numeral 4 del artículo 627 de la misma ley, el citado artículo [[art. 317 CGP|317]] solo entraría en vigencia a partir del primero (1o) de octubre de dos mil doce (2012); '
+> [!info] Notas de Vigencia: Numeral corregido por el artículo [[art. 14 Decreto 1736 de 2012|14]] del Decreto 1736 de 2012, 'por el que se corrigen unos yerros en la Ley 1564 del 12 de julio de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones'', publicado en el Diario Oficial No. 48.525 de 17 de agosto de 2012. SUSPENDIDO provisionalmente y posteriormente anulado. Destaca el editor el siguiente considerando: 'Que en el numeral 7 del mismo artículo [[art. 625 CGP|625]] de la Ley 1564 de 2012 se previó que los plazos para aplicar las reglas del desistimiento tácito de que trata el artículo 317 en los procesos en curso se aplicaría 'a partir de la promulgación de esta ley', lo que constituye un error de referencia, pues de acuerdo con el numeral 4 del artículo 627 de la misma ley, el citado artículo [[art. 317 CGP|317]] solo entraría en vigencia a partir del primero (1o) de octubre de dos mil doce (2012); '
 
 > [!info] Jurisprudencia Vigencia: Consejo de Estado - Demanda de nulidad contra el texto corregido por el Decreto 1736 de 2012. Consejo de Estado, Sección Primera, Expediente No. 2012-00369-00. Admite la demanda mediante Auto de 9 de julio de 2014. Decreta la SUSPENSIÓN PROVISIONAL mediante Auto de 19 de diciembre de 2016, Consejero Ponente Dr. Roberto Augusto Serrato Valdés. Declara la NULIDAD mediante Fallo de 20 de septiembre de 2018.
 
@@ -85,7 +85,7 @@ Sin embargo, los procesos de responsabilidad médica que actualmente tramitan lo
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Inciso 2o. del numeral 8 declarado EXEQUIBLE, por el cargo analizado, por la Corte Constitucional mediante Sentencia C-755-13 de 30 de octubre de 2013, Magistrada Ponente Dra. María Victoria Calle Correa.
 
-9.
+9\. *(texto no vigente)*
 
 (Numeral eliminado por el artículo [[art. 15 Decreto 1736 de 2012|15]] del Decreto 1736 de 2012)
 
@@ -93,7 +93,7 @@ Sin embargo, los procesos de responsabilidad médica que actualmente tramitan lo
 
 > [!info] Jurisprudencia Vigencia: Consejo de Estado - Demanda de nulidad contra el texto corregido por el Decreto 1736 de 2012. Consejo de Estado, Sección Primera, Expediente No. 2012-00369-00. Admite la demanda mediante Auto de 9 de julio de 2014. Niega suspensión provisional mediante Auto de 19 de diciembre de 2016, Consejero Ponente Dr. Roberto Augusto Serrato Valdés. Niega las pretensiones de la demanda mediante Fallo de 20 de septiembre de 2018.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 624 CGP]] · ↑ [[CGP - Libro Quinto - Título V|Título V]] · [[art. 626 CGP]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "18"
-epigrafe: "OBJETO"
+epigrafe: "Objeto"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo IV|CAPÍTULO IV - CORPORACIONES DE AHORRO Y VIVIENDA]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo IV|Capítulo IV]]
 
-## Artículo 18. OBJETO
+## Artículo 18. Objeto
 
 Las corporaciones de ahorro y vivienda tienen como finalidad promover el ahorro privado y canalizarlo hacia la industria de la construcción.
 

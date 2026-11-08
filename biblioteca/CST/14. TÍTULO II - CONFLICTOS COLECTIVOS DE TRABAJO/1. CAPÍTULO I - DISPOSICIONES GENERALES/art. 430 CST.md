@@ -11,7 +11,7 @@ articulo: "430"
 epigrafe: "PROHIBICION DE HUELGA EN LOS SERVICIOS PUBLICOS"
 titulo: "[[CST - Título II (2)|TÍTULO II - CONFLICTOS COLECTIVOS DE TRABAJO]]"
 capitulo: "[[CST - Título II - Capítulo I (2)|CAPÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 3 Ley 48 de 1968]]"
   - "[[art. 1 Ley 48 de 1968]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título II (2)|Título II]] › [[CST - Título II - Capítulo I (2)|Capítulo I]]

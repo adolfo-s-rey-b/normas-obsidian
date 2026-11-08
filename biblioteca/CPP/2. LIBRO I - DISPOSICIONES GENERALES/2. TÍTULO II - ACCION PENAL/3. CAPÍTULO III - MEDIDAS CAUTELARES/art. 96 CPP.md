@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "96"
-epigrafe: "DESEMBARGO"
+epigrafe: "Desembargo"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 96. DESEMBARGO
+## Artículo 96. Desembargo
 
 Podrá decretarse el desembargo de bienes, cuando el imputado preste caución en dinero efectivo o mediante póliza de compañía de seguros o garantía bancaria, por el monto que el juez señale para garantizar el pago de los daños y perjuicios que llegaren a establecerse, como de las demás obligaciones de contenido económico a que hubiere lugar.
 

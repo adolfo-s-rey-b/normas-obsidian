@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 220 CGD|Artículo 220]] — ALEGATOS PRECALIFICATORIOS
-- [[art. 221 CGD|Artículo 221]] — DECISIÓN DE EVALUACIÓN
-- [[art. 222 CGD|Artículo 222]] — PROCEDENCIA DE LA DECISIÓN DE CITACIÓN A AUDIENCIA Y FORMULACIÓN DE CARGOS
+- [[art. 220 CGD|Artículo 220]] — Alegatos precalificatorios
+- [[art. 221 CGD|Artículo 221]] — Decisión de evaluación
+- [[art. 222 CGD|Artículo 222]] — Procedencia de la decisión de citación a audiencia y formulación de cargos
 - [[art. 223 CGD|Artículo 223]] — PLIEGO DE GARGOS
-- [[art. 224 CGD|Artículo 224]] — ARCHIVO DEFINITIVO
+- [[art. 224 CGD|Artículo 224]] — Archivo definitivo
 
 ---
 ← [[CGD - Libro IV - Título IX - Capítulo III|Capítulo III]] · ↑ [[CGD - Libro IV - Título IX|Título IX]] · [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] →

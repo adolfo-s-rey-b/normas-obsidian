@@ -10,10 +10,10 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "19"
-epigrafe: "CONTRIBUYENTES DEL REGIMEN TRIBUTARIO ESPECIAL"
+epigrafe: "CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 140 Ley 1819 de 2016]]"
 derogado_por:
@@ -40,12 +40,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 19. CONTRIBUYENTES DEL REGIMEN TRIBUTARIO ESPECIAL
+## Artículo 19. CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL
 
 Todas las asociaciones, fundaciones y corporaciones constituidas como entidades sin ánimo de lucro, serán contribuyentes del impuesto sobre la renta y complementarios, conforme a las normas aplicables a las sociedades nacionales.
 

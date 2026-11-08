@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "119"
-epigrafe: "RECONSTRUCCIÓN DE EXPEDIENTES"
+epigrafe: "Reconstrucción de expedientes"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 119. RECONSTRUCCIÓN DE EXPEDIENTES
+## Artículo 119. Reconstrucción de expedientes
 
 Cuando se pierda o destruya un expediente correspondiente a una actuación en curso, el funcionario competente deberá practicar todas las diligencias necesarias para lograr su reconstrucción. Para tal efecto, se allegarán las copias recogidas previamente por escrito o en medio magnético y se solicitará la colaboración de los sujetos procesales, a fin de obtener copia de las diligencias o decisiones que se hubieren proferido; de igual forma se procederá respecto de las remitidas a las entidades oficiales.
 

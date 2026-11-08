@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "401-3"
-epigrafe: "RETENCIÓN EN LA FUENTE EN INDEMNIZACIONES DERIVADAS DE UNA RELACIÓN LABORAL O LEGAL Y REGLAMENTARIA"
+epigrafe: "RETENCIÓN EN LA FUENTE EN INDEMNIZACIONES derivadas de una relación laboral o legal y reglamentaria"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo VI|CAPÍTULO VI - OTROS INGRESOS TRIBUTARIOS]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo VI|Capítulo VI]]
 
-## Artículo 401-3. RETENCIÓN EN LA FUENTE EN INDEMNIZACIONES DERIVADAS DE UNA RELACIÓN LABORAL O LEGAL Y REGLAMENTARIA
+## Artículo 401-3. RETENCIÓN EN LA FUENTE EN INDEMNIZACIONES derivadas de una relación laboral o legal y reglamentaria
 
 Las indemnizaciones derivadas de una relación laboral o legal y reglamentaria, estarán sometidas a retención por concepto de impuesto sobre la renta, a una tarifa del veinte por ciento (20%) para trabajadores que devenguen ingresos superiores al equivalente de doscientas cuatro (204) Unidades de Valor Tributario (UVT), sin perjuicio de lo dispuesto por el artículo [[art. 27 Ley 488 de 1998|27]] de la Ley 488 de 1998.
 

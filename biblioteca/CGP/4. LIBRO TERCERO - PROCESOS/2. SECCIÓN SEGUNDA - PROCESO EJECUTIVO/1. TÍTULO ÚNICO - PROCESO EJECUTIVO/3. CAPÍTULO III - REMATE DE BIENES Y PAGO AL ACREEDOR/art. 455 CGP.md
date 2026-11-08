@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "455"
-epigrafe: "SANEAMIENTO DE NULIDADES Y APROBACIÓN DEL REMATE"
+epigrafe: "Saneamiento de nulidades y aprobación del remate"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 455. SANEAMIENTO DE NULIDADES Y APROBACIÓN DEL REMATE
+## Artículo 455. Saneamiento de nulidades y aprobación del remate
 
 Las irregularidades que puedan afectar la validez del remate se considerarán saneadas si no son alegadas antes de la adjudicación.
 

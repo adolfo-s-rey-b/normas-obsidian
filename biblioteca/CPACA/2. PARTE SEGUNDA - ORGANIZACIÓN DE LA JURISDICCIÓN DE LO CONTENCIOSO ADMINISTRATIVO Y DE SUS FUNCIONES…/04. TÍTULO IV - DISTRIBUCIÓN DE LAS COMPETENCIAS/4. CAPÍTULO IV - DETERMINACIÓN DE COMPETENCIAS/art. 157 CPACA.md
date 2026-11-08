@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "157"
-epigrafe: "COMPETENCIA POR RAZÓN DE LA CUANTÍA"
+epigrafe: "Competencia por razón de la cuantía"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo IV|CAPÍTULO IV - DETERMINACIÓN DE COMPETENCIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 157. COMPETENCIA POR RAZÓN DE LA CUANTÍA
+## Artículo 157. Competencia por razón de la cuantía
 
 Para efectos de la competencia, cuando sea del caso, la cuantía se determinará por el valor de la multa impuesta o de los perjuicios causados, según la estimación razonada hecha por el actor en la demanda, sin que en ella pueda considerarse la estimación de los perjuicios inmateriales, salvo que estos últimos sean los únicos que se reclamen.
 

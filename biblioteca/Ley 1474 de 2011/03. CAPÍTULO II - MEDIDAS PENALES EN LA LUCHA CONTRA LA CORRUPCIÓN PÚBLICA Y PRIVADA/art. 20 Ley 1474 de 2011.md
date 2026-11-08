@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "20"
-epigrafe: "AGIOTAJE CON MEDICAMENTOS Y DISPOSITIVOS MÉDICOS"
+epigrafe: "Agiotaje con medicamentos y dispositivos médicos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 19 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 20. AGIOTAJE CON MEDICAMENTOS Y DISPOSITIVOS MÉDICOS
+## Artículo 20. Agiotaje con medicamentos y dispositivos médicos
 
 Adiciónese un inciso al artículo [[art. 301 CP|301]] de la Ley 599 de 2000, el cual quedará así:
 

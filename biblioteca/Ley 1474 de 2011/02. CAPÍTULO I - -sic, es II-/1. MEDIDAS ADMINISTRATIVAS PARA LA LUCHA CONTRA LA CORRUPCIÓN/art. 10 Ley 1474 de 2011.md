@@ -4,10 +4,10 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "10"
-epigrafe: "PRESUPUESTO DE PUBLICIDAD"
+epigrafe: "Presupuesto de publicidad"
 capitulo: "[[Ley 1474 de 2011 - Capítulo I (2)|CAPÍTULO I - <sic, es II>]]"
 rubro: "[[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 31 Ley 1558 de 2012]]"
   - "[[art. 10 Ley 1474 de 2011]]"
@@ -25,12 +25,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo I (2)|Capítulo I]] › [[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|Medidas administrativas para la lucha contra la…]]
 
-## Artículo 10. PRESUPUESTO DE PUBLICIDAD
+## Artículo 10. Presupuesto de publicidad
 
 Los recursos que destinen las entidades públicas y las empresas y sociedades con participación mayoritaria del Estado del orden nacional y territorial, en la divulgación de los programas y políticas que realicen, a través de publicidad oficial o de cualquier otro medio o mecanismo similar que implique utilización de dineros del Estado, deben buscar el cumplimiento de la finalidad de la respectiva entidad y garantizar el derecho a la información de los ciudadanos. En esta publicidad oficial se procurará la mayor limitación, entre otros, en cuanto a contenido, extensión, tamaño y medios de comunicación, de manera tal que se logre la mayor austeridad en el gasto y la reducción real de costos.
 

@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "177"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo VII|CAPÍTULO VII - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ALMACENES]]"
 rubro: "[[EOSF - Parte V - Capítulo VII - Generales de deposito|GENERALES DE DEPOSITO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 101 Ley 1328 de 2009]]"
 anterior: "[[art. 176 EOSF]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo VII|Capítulo VII]] › [[EOSF - Parte V - Capítulo VII - Generales de deposito|Generales de deposito]]
 
-## Artículo 177. VIGILANCIA Y CONTROL
+## Artículo 177. Vigilancia y Control
 
 Los almacenes generales de depósito continuarán sometidos a la inspección y vigilancia de la Superintendencia Bancaria, la que dictará las normas reglamentarias conducentes al eficaz ejercicio de esta facultad, y tendrá especialmente las siguientes atribuciones que ejercerá por medio de resoluciones motivadas:
 

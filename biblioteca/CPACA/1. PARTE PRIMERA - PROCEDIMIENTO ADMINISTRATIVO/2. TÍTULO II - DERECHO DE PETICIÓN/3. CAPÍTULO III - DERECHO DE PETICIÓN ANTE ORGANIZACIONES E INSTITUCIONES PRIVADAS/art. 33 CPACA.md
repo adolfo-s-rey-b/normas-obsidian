@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "33"
-epigrafe: "DERECHO DE PETICIÓN DE LOS USUARIOS ANTE INSTITUCIONES PRIVADAS"
+epigrafe: "Derecho de petición de los usuarios ante instituciones privadas"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo III|CAPÍTULO III - DERECHO DE PETICIÓN ANTE ORGANIZACIONES E INSTITUCIONES PRIVADAS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 33. DERECHO DE PETICIÓN DE LOS USUARIOS ANTE INSTITUCIONES PRIVADAS
+## Artículo 33. Derecho de petición de los usuarios ante instituciones privadas
 
 Sin perjuicio de lo dispuesto en leyes especiales, a las Cajas de Compensación Familiar, a las Instituciones del Sistema de Seguridad Social Integral, a las entidades que conforman el sistema financiero y bursátil y a aquellas empresas que prestan servicios públicos y servicios públicos domiciliarios, que se rijan por el derecho privado, se les aplicarán en sus relaciones con los usuarios, en lo pertinente, las disposiciones sobre derecho de petición previstas en los dos capítulos anteriores.
 

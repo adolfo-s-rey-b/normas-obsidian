@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "161"
-epigrafe: "DISPOSICIONES DEL JUEZ RESPECTO DE LA PRUEBA PERICIAL"
+epigrafe: "Disposiciones del juez respecto de la prueba pericial"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 161. DISPOSICIONES DEL JUEZ RESPECTO DE LA PRUEBA PERICIAL
+## Artículo 161. Disposiciones del juez respecto de la prueba pericial
 
 El juez, de oficio o a petición de parte, podrá disponer lo siguiente:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "191"
-epigrafe: "FALLO ANTICIPADO"
+epigrafe: "Fallo anticipado"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 191. FALLO ANTICIPADO
+## Artículo 191. Fallo anticipado
 
 Por razones de interés general la Corte, en decisión mayoritaria de la Sala, podrá anticipar los turnos para convocar a la audiencia de sustentación y decisión.
 

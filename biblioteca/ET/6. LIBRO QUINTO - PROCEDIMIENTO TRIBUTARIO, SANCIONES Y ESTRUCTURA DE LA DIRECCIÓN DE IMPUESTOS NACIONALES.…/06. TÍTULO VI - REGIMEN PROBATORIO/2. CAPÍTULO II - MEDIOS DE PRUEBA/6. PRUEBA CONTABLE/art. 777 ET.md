@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "777"
-epigrafe: "LA CERTIFICACIÓN DE CONTADOR PUBLICO Y REVISOR FISCAL ES PRUEBA CONTABLE"
+epigrafe: "LA CERTIFICACIÓN DE CONTADOR PÚBLICO Y REVISOR FISCAL ES PRUEBA CONTABLE"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Prueba contable|Prueba contable]]
 
-## Artículo 777. LA CERTIFICACIÓN DE CONTADOR PUBLICO Y REVISOR FISCAL ES PRUEBA CONTABLE
+## Artículo 777. LA CERTIFICACIÓN DE CONTADOR PÚBLICO Y REVISOR FISCAL ES PRUEBA CONTABLE
 
 Cuando se trate de presentar en las oficinas de la Administración pruebas contables, serán suficientes las certificaciones de los contadores o revisores fiscales de conformidad con las normas legales vigentes, sin perjuicio de la facultad que tiene la administración de hacer las comprobaciones pertinentes.
 

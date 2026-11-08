@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "58"
-epigrafe: "PROCEDIMIENTO"
+epigrafe: "Procedimiento"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo I|CAPÍTULO I - ACCIONES JURISDICCIONALES]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo I - Acción de protección al consumidor|ACCIÓN DE PROTECCIÓN AL CONSUMIDOR]]"
@@ -30,7 +30,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo I|Capítulo I]] › [[Ley 1480 de 2011 - Título VIII - Capítulo I - Acción de protección al consumidor|Acción de protección al consumidor]]
 
-## Artículo 58. PROCEDIMIENTO
+## Artículo 58. Procedimiento
 
 Los procesos que versen sobre violación a los derechos de los consumidores establecidos en normas generales o especiales en todos los sectores de la economía, a excepción de la responsabilidad por producto defectuoso y de las acciones de grupo o las populares, se tramitarán por el procedimiento verbal sumario, con observancia de las siguientes reglas especiales:
 
@@ -80,7 +80,7 @@ La Superintendencia de Industria y Comercio adelantará las gestiones pertinente
 
 7\. Las comunicaciones y notificaciones que deba hacer la Superintendencia de Industria y Comercio podrán realizarse por un medio eficaz que deje constancia del acto de notificación, ya sea de manera verbal, telefónica o por escrito, dirigidas al lugar donde se expendió el producto o se celebró el contrato, o a la que aparezca en las etiquetas del producto o en las páginas web del expendedor y el productor, o a las que obren en los certificados de existencia y representación legal, o a las direcciones electrónicas reportadas a la Superintendencia de Industria y Comercio, o a las que aparezcan en el registro mercantil o a las anunciadas en la publicidad del productor o proveedor.
 
-8.
+8\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el literal a) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 

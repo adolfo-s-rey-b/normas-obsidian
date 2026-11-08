@@ -23,17 +23,17 @@ tags:
 
 ### Contenido
 
-- [[art. 130 CGD|Artículo 130]] — CLASES DE RECURSOS
-- [[art. 131 CGD|Artículo 131]] — OPORTUNIDAD PARA INTERPONER LOS RECURSOS
-- [[art. 132 CGD|Artículo 132]] — SUSTENTACIÓN DE LOS RECURSOS
-- [[art. 133 CGD|Artículo 133]] — RECURSO DE REPOSICIÓN
-- [[art. 134 CGD|Artículo 134]] — RECURSO DE APELACIÓN
-- [[art. 135 CGD|Artículo 135]] — PROHIBICIÓN DE LA REFORMATIO IN PEJUS
-- [[art. 136 CGD|Artículo 136]] — RECURSO DE QUEJA
-- [[art. 137 CGD|Artículo 137]] — TRÁMITE DEL RECURSO DE QUEJA
-- [[art. 138 CGD|Artículo 138]] — EJECUTORIA DE LAS DECISIONES
-- [[art. 139 CGD|Artículo 139]] — DESISTIMIENTO DE LOS RECURSOS
-- [[art. 140 CGD|Artículo 140]] — CORRECCIÓN, ACLARACIÓN Y ADICIÓN DE LOS FALLOS
+- [[art. 130 CGD|Artículo 130]] — Clases de recursos
+- [[art. 131 CGD|Artículo 131]] — Oportunidad para interponer los recursos
+- [[art. 132 CGD|Artículo 132]] — Sustentación de los recursos
+- [[art. 133 CGD|Artículo 133]] — Recurso de reposición
+- [[art. 134 CGD|Artículo 134]] — Recurso de apelación
+- [[art. 135 CGD|Artículo 135]] — Prohibición de la reformatio in pejus
+- [[art. 136 CGD|Artículo 136]] — Recurso de queja
+- [[art. 137 CGD|Artículo 137]] — Trámite del recurso de queja
+- [[art. 138 CGD|Artículo 138]] — Ejecutoria de las decisiones
+- [[art. 139 CGD|Artículo 139]] — Desistimiento de los recursos
+- [[art. 140 CGD|Artículo 140]] — Corrección, aclaración y adición de los fallos
 
 ---
 ← [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro IV - Título V|Título V]] · [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]] →

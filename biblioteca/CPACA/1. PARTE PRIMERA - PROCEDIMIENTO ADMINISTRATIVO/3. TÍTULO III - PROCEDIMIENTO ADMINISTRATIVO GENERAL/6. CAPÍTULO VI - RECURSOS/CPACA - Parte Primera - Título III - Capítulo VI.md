@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 74 CPACA|Artículo 74]] — RECURSOS CONTRA LOS ACTOS ADMINISTRATIVOS
-- [[art. 75 CPACA|Artículo 75]] — IMPROCEDENCIA
-- [[art. 76 CPACA|Artículo 76]] — OPORTUNIDAD Y PRESENTACIÓN
-- [[art. 77 CPACA|Artículo 77]] — REQUISITOS
-- [[art. 78 CPACA|Artículo 78]] — RECHAZO DEL RECURSO
-- [[art. 79 CPACA|Artículo 79]] — TRÁMITE DE LOS RECURSOS Y PRUEBAS
-- [[art. 80 CPACA|Artículo 80]] — DECISIÓN DE LOS RECURSOS
-- [[art. 81 CPACA|Artículo 81]] — DESISTIMIENTO
-- [[art. 82 CPACA|Artículo 82]] — GRUPOS ESPECIALIZADOS PARA PREPARAR LA DECISIÓN DE LOS RECURSOS
+- [[art. 74 CPACA|Artículo 74]] — Recursos contra los actos administrativos
+- [[art. 75 CPACA|Artículo 75]] — Improcedencia
+- [[art. 76 CPACA|Artículo 76]] — Oportunidad y presentación
+- [[art. 77 CPACA|Artículo 77]] — Requisitos
+- [[art. 78 CPACA|Artículo 78]] — Rechazo del recurso
+- [[art. 79 CPACA|Artículo 79]] — Trámite de los recursos y pruebas
+- [[art. 80 CPACA|Artículo 80]] — Decisión de los recursos
+- [[art. 81 CPACA|Artículo 81]] — Desistimiento
+- [[art. 82 CPACA|Artículo 82]] — Grupos especializados para preparar la decisión de los recursos
 
 ---
 ← [[CPACA - Parte Primera - Título III - Capítulo V|Capítulo V]] · ↑ [[CPACA - Parte Primera - Título III|Título III]] · [[CPACA - Parte Primera - Título III - Capítulo VII|Capítulo VII]] →

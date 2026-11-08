@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "412"
-epigrafe: "MEJORAS"
+epigrafe: "Mejoras"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 412. MEJORAS
+## Artículo 412. Mejoras
 
 El comunero que tenga mejoras en la cosa común deberá reclamar su derecho en la demanda o en la contestación, especificándolas debidamente y estimándolas bajo juramento de conformidad con el artículo [[art. 206 CGP|206]], y acompañará dictamen pericial sobre su valor. De la reclamación se correrá traslado a los demás comuneros por diez (10) días. En el auto que decrete la división o la venta el juez resolverá sobre dicha reclamación y si reconoce el derecho fijará el valor de las mejoras.
 

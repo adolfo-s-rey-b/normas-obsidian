@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "80"
-epigrafe: "REGISTRO PUBLICO DE ACCIONES POPULARES Y DE GRUPO"
+epigrafe: "Registro Público de Acciones Populares y de Grupo"
 titulo: "[[Ley 472 de 1998 - Título VI|TÍTULO VI]]"
 capitulo: "[[Ley 472 de 1998 - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título VI|Título VI]] › [[Ley 472 de 1998 - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 80. REGISTRO PUBLICO DE ACCIONES POPULARES Y DE GRUPO
+## Artículo 80. Registro Público de Acciones Populares y de Grupo
 
 La Defensoría del Pueblo organizará un Registro Público centralizado de las Acciones Populares y de las Acciones de Grupo que se interpongan en el país. Todo Juez que conozca de estos procesos deberá enviar una copia de la demanda del auto admisorio de la demanda y del fallo definitivo. La información contenida en este registro será de carácter público.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "59"
-epigrafe: "RESPONSABILIDAD PATRIMONIAL DE LAS PARTES"
+epigrafe: "Responsabilidad patrimonial de las partes"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 59. RESPONSABILIDAD PATRIMONIAL DE LAS PARTES
+## Artículo 59. Responsabilidad patrimonial de las partes
 
 Cada una de las partes responderá por los perjuicios que con sus actuaciones procesales temerarias o de mala fe cause a la otra o a terceros intervinientes. Cuando en el proceso o incidente aparezca la prueba de tal conducta, el juez, sin perjuicio de las costas a que haya lugar, impondrá la correspondiente condena a través de trámite incidental.
 

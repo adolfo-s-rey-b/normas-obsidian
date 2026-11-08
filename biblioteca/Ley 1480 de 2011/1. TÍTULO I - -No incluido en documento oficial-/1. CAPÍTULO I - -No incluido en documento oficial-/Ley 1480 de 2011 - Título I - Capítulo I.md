@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 1480 de 2011|Artículo 1]] — PRINCIPIOS GENERALES
+- [[art. 1 Ley 1480 de 2011|Artículo 1]] — Principios generales
 
 ---
 ↑ [[Ley 1480 de 2011 - Título I|Título I]] · [[Ley 1480 de 2011 - Título I - Capítulo II|Capítulo II]] →

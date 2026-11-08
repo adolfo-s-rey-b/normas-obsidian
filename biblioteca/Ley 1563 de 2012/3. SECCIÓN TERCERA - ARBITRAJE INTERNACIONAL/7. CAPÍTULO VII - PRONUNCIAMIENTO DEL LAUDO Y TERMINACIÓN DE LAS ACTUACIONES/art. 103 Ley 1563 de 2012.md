@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "103"
-epigrafe: "TRANSACCIÓN"
+epigrafe: "Transacción"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|CAPÍTULO VII - PRONUNCIAMIENTO DEL LAUDO Y TERMINACIÓN DE LAS ACTUACIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|Capítulo VII]]
 
-## Artículo 103. TRANSACCIÓN
+## Artículo 103. Transacción
 
 Si durante las actuaciones arbitrales las partes llegan a una transacción o a una conciliación o mediación que resuelva el litigio, el tribunal dará por terminadas las actuaciones. Caso de que lo pidan ambas partes y el tribunal no se oponga, este verterá en un laudo los términos convenidos por aquellas.
 

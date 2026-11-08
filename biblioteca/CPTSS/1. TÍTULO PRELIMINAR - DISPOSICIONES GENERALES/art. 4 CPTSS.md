@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "4"
-epigrafe: "LEALTAD PROCESAL"
+epigrafe: "Lealtad procesal"
 titulo: "[[CPTSS - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 3 CPTSS]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Título Preliminar|Título Preliminar]]
 
-## Artículo 4. LEALTAD PROCESAL
+## Artículo 4. Lealtad procesal
 
 Las partes deberán comportarse con lealtad y probidad durante el proceso, y el juez usará sus poderes para rechazar cualquier solicitud o acto que implique una dilación manifiesta o ineficaz del litigio.
 

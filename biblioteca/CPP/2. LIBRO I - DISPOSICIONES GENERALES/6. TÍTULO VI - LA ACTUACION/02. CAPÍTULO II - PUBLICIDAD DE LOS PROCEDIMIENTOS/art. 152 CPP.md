@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "152"
-epigrafe: "RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE INTERÉS DE LA JUSTICIA"
+epigrafe: "Restricciones a la publicidad por motivos de interés de la justicia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo II|CAPÍTULO II - PUBLICIDAD DE LOS PROCEDIMIENTOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 152. RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE INTERÉS DE LA JUSTICIA
+## Artículo 152. Restricciones a la publicidad por motivos de interés de la justicia
 
 Cuando los intereses de la justicia se vean perjudicados o amenazados por la publicidad del juicio, en especial cuando la imparcialidad del juez pueda afectarse, el juez, mediante auto motivado, podrá imponer a los presentes el deber de guardar reserva sobre lo que ven, oyen o perciben, o limitar total o parcial el acceso del público o de la prensa.
 

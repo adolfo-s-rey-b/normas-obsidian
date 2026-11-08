@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "289"
-epigrafe: "NOTIFICACIÓN Y COMUNICACIÓN DE LA SENTENCIA"
+epigrafe: "Notificación y comunicación de la sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 289. NOTIFICACIÓN Y COMUNICACIÓN DE LA SENTENCIA
+## Artículo 289. Notificación y comunicación de la sentencia
 
 La sentencia se notificará personalmente, el día siguiente a su expedición, a las partes y al agente del Ministerio Público. Transcurridos dos (2) días sin que se haya hecho notificación personal, se notificará por edicto, que durará fijado por tres (3) días. Una vez ejecutoriada, la sentencia se comunicará de inmediato por el Secretario a las entidades u organismos correspondientes.
 

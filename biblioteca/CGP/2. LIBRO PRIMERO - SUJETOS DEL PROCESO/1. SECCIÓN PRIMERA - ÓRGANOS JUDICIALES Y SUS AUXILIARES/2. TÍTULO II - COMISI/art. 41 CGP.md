@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "41"
-epigrafe: "COMISIÓN EN EL EXTERIOR"
+epigrafe: "Comisión en el exterior"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISI]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título II|Título II]]
 
-## Artículo 41. COMISIÓN EN EL EXTERIOR
+## Artículo 41. Comisión en el exterior
 
 Cuando la diligencia haya de practicarse en territorio extranjero, el juez, según la naturaleza de la actuación y la urgencia de la misma, y con arreglo a los tratados y convenios internacionales de cooperación judicial, podrá:
 

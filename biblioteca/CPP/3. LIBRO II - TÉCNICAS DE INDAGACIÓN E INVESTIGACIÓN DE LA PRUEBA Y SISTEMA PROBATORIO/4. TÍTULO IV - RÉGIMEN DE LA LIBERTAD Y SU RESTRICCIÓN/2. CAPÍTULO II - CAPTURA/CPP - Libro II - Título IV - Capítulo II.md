@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 297 CPP|Artículo 297]] — REQUISITOS GENERALES
-- [[art. 298 CPP|Artículo 298]] — CONTENIDO Y VIGENCIA
-- [[art. 299 CPP|Artículo 299]] — TRÁMITE DE LA ORDEN DE CAPTURA
-- [[art. 300 CPP|Artículo 300]] — CAPTURA EXCEPCIONAL POR ORDEN DE LA FISCALÍA
-- [[art. 301 CPP|Artículo 301]] — FLAGRANCIA
-- [[art. 302 CPP|Artículo 302]] — PROCEDIMIENTO EN CASO DE FLAGRANCIA
-- [[art. 303 CPP|Artículo 303]] — DERECHOS DEL CAPTURADO
-- [[art. 304 CPP|Artículo 304]] — FORMALIZACIÓN DE LA RECLUSIÓN
-- [[art. 305 CPP|Artículo 305]] — REGISTRO DE PERSONAS CAPTURADAS Y DETENIDAS
+- [[art. 297 CPP|Artículo 297]] — Requisitos generales
+- [[art. 298 CPP|Artículo 298]] — Contenido y vigencia
+- [[art. 299 CPP|Artículo 299]] — Trámite de la orden de captura
+- [[art. 300 CPP|Artículo 300]] — Captura excepcional por orden de la Fiscalía
+- [[art. 301 CPP|Artículo 301]] — Flagrancia
+- [[art. 302 CPP|Artículo 302]] — Procedimiento en caso de flagrancia
+- [[art. 303 CPP|Artículo 303]] — Derechos del capturado
+- [[art. 304 CPP|Artículo 304]] — Formalización de la reclusión
+- [[art. 305 CPP|Artículo 305]] — Registro de personas capturadas y detenidas
 - [[art. 305A CPP|Artículo 305A]] — REGISTRO NACIONAL DE ÓRDENES CAPTURA
 
 ---

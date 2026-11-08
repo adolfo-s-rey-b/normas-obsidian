@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "451"
-epigrafe: "ACUSADO PRIVADO DE LA LIBERTAD"
+epigrafe: "Acusado privado de la libertad"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo V|CAPÍTULO V - DECISIÓN O SENTIDO DEL FALLO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 451. ACUSADO PRIVADO DE LA LIBERTAD
+## Artículo 451. Acusado privado de la libertad
 
 El juez podrá ordenar su excarcelación siempre y cuando los cargos por los cuales fue encontrado culpable fueren susceptibles, al momento de dictar sentencia, del otorgamiento de un subrogado penal.
 

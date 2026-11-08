@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "87"
-epigrafe: "DESTRUCCIÓN DEL OBJETO MATERIAL DEL DELITO"
+epigrafe: "Destrucción del objeto material del delito"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 87. DESTRUCCIÓN DEL OBJETO MATERIAL DEL DELITO
+## Artículo 87. Destrucción del objeto material del delito
 
 En las actuaciones por delitos contra la salud pública, los derechos de autor, falsificación de moneda o las conductas descritas en los artículos [[art. 300 CP|300]], [[art. 306 CP|306]] y [[art. 307 CP|307]] del Código Penal, los bienes que constituyen su objeto material una vez cumplidas las previsiones de este código para la cadena de custodia y establecida su ilegitimidad por informe del perito oficial, serán destruidos por las autoridades de policía judicial en presencia del fiscal y del agente del Ministerio Público.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "120"
-epigrafe: "FORMAS DE NOTIFICACIÓN"
+epigrafe: "Formas de notificación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 120. FORMAS DE NOTIFICACIÓN
+## Artículo 120. Formas de notificación
 
 La notificación de las decisiones disciplinarias puede ser personal, por estado electrónico, en estrados, por edicto o por conducta concluyente.
 

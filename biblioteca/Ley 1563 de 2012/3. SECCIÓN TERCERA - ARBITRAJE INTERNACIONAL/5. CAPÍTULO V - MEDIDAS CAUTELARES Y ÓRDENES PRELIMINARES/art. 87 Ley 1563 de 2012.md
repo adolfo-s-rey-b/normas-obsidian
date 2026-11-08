@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "87"
-epigrafe: "COSTAS Y DAÑOS Y PERJUICIOS"
+epigrafe: "Costas y daños y perjuicios"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 87. COSTAS Y DAÑOS Y PERJUICIOS
+## Artículo 87. Costas y daños y perjuicios
 
 El tribunal arbitral podrá condenar en cualquier momento al peticionario de una medida cautelar o de una orden preliminar a pagar las costas e indemnizar los daños y perjuicios que por su culpa hubiere sufrido cualquier otra parte.
 

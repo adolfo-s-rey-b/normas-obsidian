@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "476"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XIX|TÍTULO XIX - DISPOSICIONES GENERALES]]"
 capitulo: "[[CP - Libro Segundo - Título XIX - Capítulo Unico|CAPÍTULO UNICO - DE LA DEROGATORIA Y VIGENCIA]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XIX|Título XIX]] › [[CP - Libro Segundo - Título XIX - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 476. VIGENCIA
+## Artículo 476. Vigencia
 
 Este Código entrará a regir un (1) año después de su promulgación.
 

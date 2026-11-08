@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "103A"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA CUANDO EL HOMICIDIO RECAE EN NIÑO, NIÑA O ADOLESCENTE"
+epigrafe: "Circunstancias De Agravación Punitiva Cuando El Homicidio Recae En Nino, Nina O Adolescente"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Segundo|CAPÍTULO SEGUNDO - DEL HOMICIDIO]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 103A. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA CUANDO EL HOMICIDIO RECAE EN NIÑO, NIÑA O ADOLESCENTE
+## Artículo 103A. Circunstancias De Agravación Punitiva Cuando El Homicidio Recae En Nino, Nina O Adolescente
 
 La pena por el delito de homicidio u homicidio agravado será de 480 a 600 meses de prisión ~~o pena de prisión perpetua revisable~~ si la víctima fuere una persona menor de dieciocho (18) años y cuando:
 

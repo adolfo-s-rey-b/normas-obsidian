@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "53"
-epigrafe: "PROHIBICIÓN DE INTERDICCIÓN"
+epigrafe: "Prohibición de interdicción"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE TRANSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 52 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 53. PROHIBICIÓN DE INTERDICCIÓN
+## Artículo 53. Prohibición de interdicción
 
 Queda prohibido iniciar procesos de interdicción o inhabilitación, o solicitar la sentencia de interdicción o inhabilitación para dar inicio a cualquier trámite público o privado a partir de la promulgación de la presente ley.
 

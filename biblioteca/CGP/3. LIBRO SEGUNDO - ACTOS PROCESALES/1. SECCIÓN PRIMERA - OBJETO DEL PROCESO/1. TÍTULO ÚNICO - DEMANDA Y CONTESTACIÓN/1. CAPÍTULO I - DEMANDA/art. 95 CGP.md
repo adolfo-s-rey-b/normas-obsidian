@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "95"
-epigrafe: "INEFICACIA DE LA INTERRUPCIÓN DE LA PRESCRIPCIÓN Y OPERANCIA DE LA CADUCIDAD"
+epigrafe: "Ineficacia de la interrupción de la prescripción y operancia de la caducidad"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 95. INEFICACIA DE LA INTERRUPCIÓN DE LA PRESCRIPCIÓN Y OPERANCIA DE LA CADUCIDAD
+## Artículo 95. Ineficacia de la interrupción de la prescripción y operancia de la caducidad
 
 No se considerará interrumpida la prescripción y operará la caducidad en los siguientes casos:
 

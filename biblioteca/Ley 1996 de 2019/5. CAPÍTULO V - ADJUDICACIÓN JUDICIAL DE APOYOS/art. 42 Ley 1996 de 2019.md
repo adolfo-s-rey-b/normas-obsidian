@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "42"
-epigrafe: "MODIFICACIÓN Y TERMINACIÓN DE LOS PROCESOS DE ADJUDICACIÓN JUDICIAL DE APOYOS"
+epigrafe: "Modificación y terminación de los procesos de adjudicación judicial de apoyos"
 capitulo: "[[Ley 1996 de 2019 - Capítulo V|CAPÍTULO V - ADJUDICACIÓN JUDICIAL DE APOYOS]]"
 vigencia: "vigente"
 anterior: "[[art. 41 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo V|Capítulo V]]
 
-## Artículo 42. MODIFICACIÓN Y TERMINACIÓN DE LOS PROCESOS DE ADJUDICACIÓN JUDICIAL DE APOYOS
+## Artículo 42. Modificación y terminación de los procesos de adjudicación judicial de apoyos
 
 El artículo [[art. 587 CGP|587]] de la Ley 1564 de 2012 quedará así:
 
@@ -42,7 +42,7 @@ El Juez deberá notificar de ello a las personas designadas como apoyo y a la pe
 
 En caso de no presentarse oposición, el Juez modificará o terminará la adjudicación de apoyos, conforme a la solicitud”.
 
-> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo [[art. 52 Ley 1996 de 2019|52]] , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
+> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo 52 , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-022-21 , mediante Sentencia C-118-21 de 29 de abril de 2021, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado. - Ley declarada EXEQUIBLE, por el cargo de reserva de ley estatutaria sobre la integralidad de la Ley, por la Corte Constitucional mediante Sentencia C-022-21 de 4 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 

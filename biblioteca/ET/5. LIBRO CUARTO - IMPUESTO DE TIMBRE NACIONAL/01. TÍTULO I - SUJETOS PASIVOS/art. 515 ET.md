@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "515"
-epigrafe: "QUIENES SON CONTRIBUYENTES"
+epigrafe: "QUIÉNES SON CONTRIBUYENTES"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título I|TÍTULO I - SUJETOS PASIVOS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título I|Título I]]
 
-## Artículo 515. QUIENES SON CONTRIBUYENTES
+## Artículo 515. QUIÉNES SON CONTRIBUYENTES
 
 Son contribuyentes las personas naturales o jurídicas, sus asimiladas, y las entidades públicas no exceptuadas expresamente, que intervengan como otorgantes, giradores, aceptantes, emisores o suscriptores en los documentos.
 

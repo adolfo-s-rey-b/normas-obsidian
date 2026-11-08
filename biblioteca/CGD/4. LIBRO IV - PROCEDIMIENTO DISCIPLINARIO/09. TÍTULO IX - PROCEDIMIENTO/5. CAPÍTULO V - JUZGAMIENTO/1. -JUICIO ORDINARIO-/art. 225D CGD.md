@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225D"
-epigrafe: "VARIACIÓN DE LOS CARGOS"
+epigrafe: "Variación de los cargos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -38,7 +38,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio ordinario-|-juicio ordinario-]]
 
-## Artículo 225D. VARIACIÓN DE LOS CARGOS
+## Artículo 225D. Variación de los cargos
 
 Si el funcionario de conocimiento advierte la necesidad de variar los cargos, por error en la calificación o prueba sobreviniente, se aplicarán las siguientes reglas:
 

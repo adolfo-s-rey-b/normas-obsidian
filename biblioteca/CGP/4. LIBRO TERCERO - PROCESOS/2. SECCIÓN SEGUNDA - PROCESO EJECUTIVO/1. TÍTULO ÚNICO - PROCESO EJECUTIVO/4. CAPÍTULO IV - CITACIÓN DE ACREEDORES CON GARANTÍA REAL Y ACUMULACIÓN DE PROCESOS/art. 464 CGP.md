@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "464"
-epigrafe: "ACUMULACIÓN DE PROCESOS EJECUTIVOS"
+epigrafe: "Acumulación de procesos ejecutivos"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 464. ACUMULACIÓN DE PROCESOS EJECUTIVOS
+## Artículo 464. Acumulación de procesos ejecutivos
 
 Se podrán acumular varios procesos ejecutivos, si tienen un demandado común, siempre que quien pida la acumulación pretenda perseguir total o parcialmente los mismos bienes del demandado.
 

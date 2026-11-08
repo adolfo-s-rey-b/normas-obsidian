@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "573"
-epigrafe: "INFORMACIÓN CREDITICIA"
+epigrafe: "Información crediticia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 573. INFORMACIÓN CREDITICIA
+## Artículo 573. Información crediticia
 
 El conciliador o el juez deberán reportar en forma inmediata a las entidades que administren bases de datos de carácter financiero, crediticio, comercial y de servicios, la información relativa a la aceptación de la solicitud de negociación de deudas, la celebración del acuerdo de pago y su cumplimiento, el inicio del procedimiento de convalidación del acuerdo privado o la apertura del procedimiento de liquidación patrimonial y su terminación.
 

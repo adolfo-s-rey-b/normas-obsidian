@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "306"
-epigrafe: "TÉRMINO PARA FALLAR"
+epigrafe: "Término para fallar"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|TÍTULO QUINTO - ARBITRAMENTO JURÍDICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|Capítulo Único]]
 
-## Artículo 306. TÉRMINO PARA FALLAR
+## Artículo 306. Término para fallar
 
 El tribunal proferirá el laudo dentro del término de cuarenta (40) días, contados desde la celebración de la audiencia de que trata el artículo anterior. Las partes podrán ampliar este plazo, hasta otro tanto, por una sola vez.
 

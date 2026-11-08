@@ -11,7 +11,7 @@ articulo: "357"
 epigrafe: "SINDICATOS DE BASE"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo I (2)|CAPÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 26 Decreto 2351 de 1965]]"
   - "[[art. 374 CST]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo I (2)|Capítulo I]]
@@ -42,19 +42,19 @@ tags:
 
 Representación sindical.
 
-1.
+1\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional: - Numeral declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-567-00 del 17 de mayo de 2000, Magistrado Ponente Dr. Alfredo Beltrán Sierra.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-063-08, mediante Sentencia C-668-08 de 2 de julio de 2008, Magistrado Ponente Dr. Mauricio González Cuervo. - Numeral declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-063-08 de 30 de enero de de 2008, Magistrada Ponente Dra. Clara Inés Vargas Hernández.
 
-3.
+3\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "202"
-epigrafe: "FORMALIDADES"
+epigrafe: "Formalidades"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|TÍTULO PRIMERO - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 202. FORMALIDADES
+## Artículo 202. Formalidades
 
 Salvo los autos que se limiten a disponer un trámite, las providencias serán motivadas de manera breve y precisa. Las transcripciones, reproducciones de actas, decisiones o conceptos que obren en el expediente y las citas jurisprudenciales y doctrinales se limitarán a las que sean estrictamente necesarias para la adecuada fundamentación de la providencia.
 

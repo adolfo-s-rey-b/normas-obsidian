@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "81"
-epigrafe: "LÍMITE DE LAS SANCIONES"
+epigrafe: "Límite de las sanciones"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo III|CAPÍTULO III - SANCIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 81. LÍMITE DE LAS SANCIONES
+## Artículo 81. Límite de las sanciones
 
 La inhabilidad no será inferior a cinco (5) ni superior a veinte (20) años.
 

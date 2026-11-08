@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "272"
-epigrafe: "VALOR DE LAS ACCIONES, APORTES, Y DEMAS DERECHOS EN SOCIEDADES"
+epigrafe: "VALOR DE LAS ACCIONES, APORTES, Y DEMÁS DERECHOS EN SOCIEDADES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
 rubro: "[[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|VALOR PATRIMONIAL DE LOS ACTIVOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 108 Ley 223 de 1995]]"
 derogado_por:
@@ -33,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|Valor patrimonial de los activos]]
 
-## Artículo 272. VALOR DE LAS ACCIONES, APORTES, Y DEMAS DERECHOS EN SOCIEDADES
+## Artículo 272. VALOR DE LAS ACCIONES, APORTES, Y DEMÁS DERECHOS EN SOCIEDADES
 
 Las acciones y derechos sociales en cualquier clase de sociedades o entidades deben ser declarados por su costo fiscal, ajustado por inflación* cuando haya lugar a ello.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "235-1"
-epigrafe: "LÍMITE DE LAS RENTAS EXENTAS"
+epigrafe: "Límite de las rentas exentas"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VII|CAPÍTULO VII - RENTAS EXENTAS]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VII|Capítulo VII]] › [[ET - Libro Primero - Título I - Capítulo VII - Intransferibilidad de las rentas exentas|Intransferibilidad de las rentas exentas]]
 
-## Artículo 235-1. LÍMITE DE LAS RENTAS EXENTAS
+## Artículo 235-1. Límite de las rentas exentas
 
 A partir del año gravable 2004, las rentas de que tratan los artículos [[art. 211 ET|211]] parágrafo 4o , 209 , 216 , 217 , 219 , 221 y 222 del Estatuto Tributario; los artículos [[art. 14 Ley 10 de 1991|14]] a [[art. 16 Ley 10 de 1991|16]] de la Ley 10 de 1991, [[art. 58 Ley 633 de 2000|58]] de la Ley 633 de 2000 y [[art. 235 Ley 685 de 2001|235]] de la Ley 685 de 2001 , del Estatuto Tributario, quedan gravados en el ciento por ciento (100%) con el impuesto sobre la renta.
 

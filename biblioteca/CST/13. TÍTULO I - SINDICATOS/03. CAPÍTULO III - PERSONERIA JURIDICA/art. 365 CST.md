@@ -11,7 +11,7 @@ articulo: "365"
 epigrafe: "REGISTRO SINDICAL"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo III (2)|CAPÍTULO III - PERSONERIA JURIDICA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 45 Ley 50 de 1990]]"
   - "[[art. 4 Ley 584 de 2000]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo III (2)|Capítulo III]]

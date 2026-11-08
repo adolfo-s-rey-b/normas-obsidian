@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 297 CPACA|Artículo 297]] — TÍTULO EJECUTIVO
-- [[art. 298 CPACA|Artículo 298]] — PROCEDIMIENTO
+- [[art. 297 CPACA|Artículo 297]] — Título Ejecutivo
+- [[art. 298 CPACA|Artículo 298]] — Procedimiento
 - [[art. 299 CPACA|Artículo 299]] — De la ejecución en materia de contratos
 
 ---

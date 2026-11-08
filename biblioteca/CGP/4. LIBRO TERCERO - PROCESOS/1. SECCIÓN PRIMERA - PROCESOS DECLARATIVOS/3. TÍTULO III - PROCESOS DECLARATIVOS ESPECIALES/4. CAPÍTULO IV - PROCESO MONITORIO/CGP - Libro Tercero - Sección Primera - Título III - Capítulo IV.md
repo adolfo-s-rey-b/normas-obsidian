@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 419 CGP|Artículo 419]] — PROCEDENCIA
-- [[art. 420 CGP|Artículo 420]] — CONTENIDO DE LA DEMANDA
-- [[art. 421 CGP|Artículo 421]] — TRÁMITE
+- [[art. 419 CGP|Artículo 419]] — Procedencia
+- [[art. 420 CGP|Artículo 420]] — Contenido de la demanda
+- [[art. 421 CGP|Artículo 421]] — Trámite
 
 ---
 ← [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]] · ↑ [[CGP - Libro Tercero - Sección Primera - Título III|Título III]]

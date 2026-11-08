@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "97"
-epigrafe: "INDEMNIZACIÓN POR DAÑOS"
+epigrafe: "Indemnización por daños"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Sexto|CAPÍTULO SEXTO - DE LA RESPONSABILIDAD CIVIL DERIVADA DE LA CONDUCTA PUNIBLE]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Sexto|Capítulo Sexto]]
 
-## Artículo 97. INDEMNIZACIÓN POR DAÑOS
+## Artículo 97. Indemnización por daños
 
 > [!note] Inciso CONDICIONALMENTE exequible
 

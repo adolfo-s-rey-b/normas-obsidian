@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "125"
-epigrafe: "REMISIÓN DE EXPEDIENTES, OFICIOS Y DESPACHOS"
+epigrafe: "Remisión de expedientes, oficios y despachos"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título III|TÍTULO III - EXPEDIENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] › [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 125. REMISIÓN DE EXPEDIENTES, OFICIOS Y DESPACHOS
+## Artículo 125. Remisión de expedientes, oficios y despachos
 
 La remisión de expedientes, oficios y despachos se hará por cualquier medio que ofrezca suficiente seguridad.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "267"
-epigrafe: "TÍTULO EJECUTIVO"
+epigrafe: "Título ejecutivo"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 267. TÍTULO EJECUTIVO
+## Artículo 267. Título ejecutivo
 
 Puede demandarse ejecutivamente el cumplimiento de las obligaciones expresas, claras y exigibles originadas en una relación de trabajo, o en una relación jurídica de la seguridad social que sea de competencia de esta jurisdicción, que consten en actos o documentos que provengan del deudor o de su causante, en actos administrativos, en actos o documentos emanados de entidades administradoras del sistema de Seguridad Social, en actas de conciliación y transacción o en una decisión judicial o arbitral en firme.
 

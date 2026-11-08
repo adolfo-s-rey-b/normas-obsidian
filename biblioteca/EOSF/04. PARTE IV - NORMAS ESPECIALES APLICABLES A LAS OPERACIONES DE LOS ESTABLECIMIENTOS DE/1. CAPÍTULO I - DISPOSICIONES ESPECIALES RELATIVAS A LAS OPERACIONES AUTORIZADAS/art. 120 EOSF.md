@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "120"
-epigrafe: "NORMAS APLICABLES A LAS OPERACIONES ACTIVAS DE CREDITO"
+epigrafe: "Normas Aplicables a las Operaciones Activas de Crédito"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo I|CAPÍTULO I - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 101 Ley 1328 de 2009]]"
 anterior: "[[art. 119 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo I|Capítulo I]]
 
-## Artículo 120. NORMAS APLICABLES A LAS OPERACIONES ACTIVAS DE CREDITO
+## Artículo 120. Normas Aplicables a las Operaciones Activas de Crédito
 
 1\. Información requerida para el otorgamiento de crédito.
 

@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 36 EOSF|Artículo 36]] — OBJETO
-- [[art. 37 EOSF|Artículo 37]] — PROHIBICIONES
+- [[art. 36 EOSF|Artículo 36]] — Objeto
+- [[art. 37 EOSF|Artículo 37]] — Prohibiciones
 
 ---
 ← [[EOSF - Parte I - Capítulo IX|Capítulo IX]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo XI|Capítulo XI]] →

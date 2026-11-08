@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "43"
-epigrafe: "MORAL ADMINISTRATIVA"
+epigrafe: "Moral Administrativa"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo XII|CAPÍTULO XII - MEDIDAS COERCITIVAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo XII|Capítulo XII]]
 
-## Artículo 43. MORAL ADMINISTRATIVA
+## Artículo 43. Moral Administrativa
 
 En las acciones populares que versen sobre la moral administrativa y con miras a evitar la duplicidad de funciones para los efectos de los artículos [[art. 277 CPol|277]] y [[art. 278 CPol|278]] de la Constitución Política, el juez que conozca de estas acciones decretará las medidas previas o cautelares que estime procedentes y comunicará la demanda a la Procuraduría para que la misma se haga parte si lo considera conveniente.
 

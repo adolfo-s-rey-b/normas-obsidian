@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "85"
-epigrafe: "CONTINUIDAD DE LA INTERVENTORÍA"
+epigrafe: "Continuidad de la interventoría"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 84 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 85. CONTINUIDAD DE LA INTERVENTORÍA
+## Artículo 85. Continuidad de la interventoría
 
 Los contratos de interventoría podrán prorrogarse por el mismo plazo que se haya prorrogado el contrato objeto de vigilancia. En tal caso el valor podrá ajustarse en atención a las obligaciones del objeto de interventoría, sin que resulte aplicable lo dispuesto en el parágrafo del artículo [[art. 40 Ley 80 de 1993|40]] de la Ley 80 de 1993.
 

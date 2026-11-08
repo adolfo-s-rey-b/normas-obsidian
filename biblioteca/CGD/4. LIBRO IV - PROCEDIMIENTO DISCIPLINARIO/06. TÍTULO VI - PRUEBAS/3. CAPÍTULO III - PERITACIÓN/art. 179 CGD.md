@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "179"
-epigrafe: "REQUISITOS Y PRÁCTICA"
+epigrafe: "Requisitos y práctica"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 179. REQUISITOS Y PRÁCTICA
+## Artículo 179. Requisitos y práctica
 
 El perito tomará posesión de su cargo jurando cumplir fielmente los deberes que ello impone y acreditará su idoneidad y experiencia en la materia objeto de prueba. El perito confirmará que tiene los conocimientos necesarios para rendir el dictamen. El competente podrá disponer que la diligencia de posesión tenga lugar ante el comisionado.
 

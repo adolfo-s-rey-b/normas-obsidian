@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "261"
-epigrafe: "DOCUMENTOS FIRMADOS EN BLANCO O CON ESPACIOS SIN LLENAR"
+epigrafe: "Documentos firmados en blanco o con espacios sin llenar"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 261. DOCUMENTOS FIRMADOS EN BLANCO O CON ESPACIOS SIN LLENAR
+## Artículo 261. Documentos firmados en blanco o con espacios sin llenar
 
 Se presume cierto el contenido del documento firmado en blanco o con espacios sin llenar.
 

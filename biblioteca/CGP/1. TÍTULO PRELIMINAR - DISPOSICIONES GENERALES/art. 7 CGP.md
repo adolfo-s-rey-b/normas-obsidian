@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "7"
-epigrafe: "LEGALIDAD"
+epigrafe: "Legalidad"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 6 CGP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 7. LEGALIDAD
+## Artículo 7. Legalidad
 
 Los jueces, en sus providencias, están sometidos al imperio de la ley. Deberán tener en cuenta, además, la equidad, la costumbre, la jurisprudencia y la doctrina.
 

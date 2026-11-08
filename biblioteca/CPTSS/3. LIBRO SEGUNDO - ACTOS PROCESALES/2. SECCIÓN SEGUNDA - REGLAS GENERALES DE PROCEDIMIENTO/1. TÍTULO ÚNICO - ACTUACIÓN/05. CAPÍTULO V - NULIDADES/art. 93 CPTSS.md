@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "93"
-epigrafe: "OPORTUNIDAD Y TRÁMITE DE LAS NULIDADES"
+epigrafe: "Oportunidad y trámite de las nulidades"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 93. OPORTUNIDAD Y TRÁMITE DE LAS NULIDADES
+## Artículo 93. Oportunidad y trámite de las nulidades
 
 Las nulidades podrán alegarse en cualquiera de las instancias antes de que se dicte sentencia o con posterioridad a esta, si ocurrieren en ella.
 

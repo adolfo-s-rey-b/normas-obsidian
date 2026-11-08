@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "450"
-epigrafe: "CASOS DE VINCULACIÓN ECONOMICA"
+epigrafe: "CASOS DE VINCULACIÓN ECONÓMICA"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 450. CASOS DE VINCULACIÓN ECONOMICA
+## Artículo 450. CASOS DE VINCULACIÓN ECONÓMICA
 
 Se considera que existe vinculación económica en los siguientes casos:
 

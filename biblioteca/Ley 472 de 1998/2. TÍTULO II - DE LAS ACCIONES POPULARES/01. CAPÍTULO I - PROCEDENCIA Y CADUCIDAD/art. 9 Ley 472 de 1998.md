@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "9"
-epigrafe: "PROCEDENCIA DE LAS ACCIONES POPULARES"
+epigrafe: "Procedencia de las Acciones Populares"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo I|CAPÍTULO I - PROCEDENCIA Y CADUCIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 9. PROCEDENCIA DE LAS ACCIONES POPULARES
+## Artículo 9. Procedencia de las Acciones Populares
 
 Las acciones populares proceden contra toda acción u omisión de las autoridades públicas o de los particulares, que hayan violado o amenacen violar los derechos e intereses colectivos.
 

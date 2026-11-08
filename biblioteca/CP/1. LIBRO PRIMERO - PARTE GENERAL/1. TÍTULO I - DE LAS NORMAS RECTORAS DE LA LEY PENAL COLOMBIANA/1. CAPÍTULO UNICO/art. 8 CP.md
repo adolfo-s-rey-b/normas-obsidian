@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "8"
-epigrafe: "PROHIBICIÓN DE DOBLE INCRIMINACIÓN"
+epigrafe: "Prohibición de doble incriminacion"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título I|TÍTULO I - DE LAS NORMAS RECTORAS DE LA LEY PENAL COLOMBIANA]]"
 capitulo: "[[CP - Libro Primero - Título I - Capítulo Unico|CAPÍTULO UNICO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título I|Título I]] › [[CP - Libro Primero - Título I - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 8. PROHIBICIÓN DE DOBLE INCRIMINACIÓN
+## Artículo 8. Prohibición de doble incriminacion
 
 A nadie se le podrá imputar más de una vez la misma conducta punible, cualquiera sea la denominación jurídica que se le dé o haya dado, salvo lo establecido en los instrumentos internacionales.
 

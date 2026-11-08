@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "125"
-epigrafe: "NORMAS SOBRE CUENTAS CORRIENTES BANCARIAS"
+epigrafe: "Normas sobre Cuentas Corrientes Bancarias"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 125. NORMAS SOBRE CUENTAS CORRIENTES BANCARIAS
+## Artículo 125. Normas sobre Cuentas Corrientes Bancarias
 
 1\. Pago de cheques en descubierto. Cuando el banco pague cheques por valor superior al saldo de la cuenta corriente, el excedente será exigible a partir del día siguiente al otorgamiento del descubierto, salvo pacto en contrario.
 

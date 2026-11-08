@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "52"
-epigrafe: "LAS PENAS ACCESORIAS"
+epigrafe: "Las penas accesorias"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 52. LAS PENAS ACCESORIAS
+## Artículo 52. Las penas accesorias
 
 Las penas privativas de otros derechos, que pueden imponerse como principales, serán accesorias y las impondrá el Juez cuando tengan relación directa con la realización de la conducta punible, por haber abusado de ellos o haber facilitado su comisión, o cuando la restricción del derecho contribuya a la prevención de conductas similares a la que fue objeto de condena.
 

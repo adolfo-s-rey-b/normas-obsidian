@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 71 CGP|Artículo 71]] — COADYUVANCIA
-- [[art. 72 CGP|Artículo 72]] — LLAMAMIENTO DE OFICIO
+- [[art. 71 CGP|Artículo 71]] — Coadyuvancia
+- [[art. 72 CGP|Artículo 72]] — Llamamiento de oficio
 
 ---
 ← [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] →

@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "191"
-epigrafe: "EXCLUSIONES DE LA RENTA PRESUNTIVA"
+epigrafe: "Exclusiones de la renta presuntiva"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VI|CAPÍTULO VI - RENTA LIQUIDA]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo VI - Normas aplicables a partir de 1990|NORMAS APLICABLES A PARTIR DE 1990]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 11 Ley 1111 de 2006]]"
 derogado_por:
@@ -48,12 +48,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]] › [[ET - Libro Primero - Título I - Capítulo VI - Normas aplicables a partir de 1990|Normas aplicables a partir de 1990]]
 
-## Artículo 191. EXCLUSIONES DE LA RENTA PRESUNTIVA
+## Artículo 191. Exclusiones de la renta presuntiva
 
 De la presunción establecida en el artículo [[art. 188 ET|188]] se excluyen:
 

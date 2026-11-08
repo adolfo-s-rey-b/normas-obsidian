@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "57"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VII|CAPÍTULO VII - ARBITRAJE AD HOC]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VII|Capítulo VII]]
 
-## Artículo 57. TRÁMITE
+## Artículo 57. Trámite
 
 A la demanda, su notificación, traslado, contestación, oportunidad para pedir pruebas, fijación y consignación de honorarios y gastos, recursos y, en general, al trámite del proceso del arbitraje ad hoc, le serán aplicables las reglas previstas en esta ley para el arbitraje institucional.
 

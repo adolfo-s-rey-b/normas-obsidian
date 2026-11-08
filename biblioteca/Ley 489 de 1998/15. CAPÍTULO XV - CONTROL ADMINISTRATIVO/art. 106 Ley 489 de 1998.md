@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "106"
-epigrafe: "CONTROL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO Y DE LAS SOCIEDADES DE ECONOMIA MIXTA"
+epigrafe: "Control de las empresas industriales y comerciales del Estado y de las sociedades de economía mixta"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 105 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 106. CONTROL DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO Y DE LAS SOCIEDADES DE ECONOMIA MIXTA
+## Artículo 106. Control de las empresas industriales y comerciales del Estado y de las sociedades de economía mixta
 
 El control administrativo de las empresas industriales y comerciales del Estado y las sociedades de economía mixta se cumplirá en los términos de los correspondientes convenios, planes o programas que deberán celebrarse periódicamente con la Nación, a través del respectivo Ministerio o Departamento Administrativo.
 

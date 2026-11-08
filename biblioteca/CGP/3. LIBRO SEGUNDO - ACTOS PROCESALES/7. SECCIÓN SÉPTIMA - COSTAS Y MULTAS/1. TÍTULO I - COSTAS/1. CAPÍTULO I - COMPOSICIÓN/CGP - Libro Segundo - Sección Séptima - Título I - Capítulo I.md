@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 361 CGP|Artículo 361]] — COMPOSICIÓN
+- [[art. 361 CGP|Artículo 361]] — Composición
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] · [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|Capítulo II]] →

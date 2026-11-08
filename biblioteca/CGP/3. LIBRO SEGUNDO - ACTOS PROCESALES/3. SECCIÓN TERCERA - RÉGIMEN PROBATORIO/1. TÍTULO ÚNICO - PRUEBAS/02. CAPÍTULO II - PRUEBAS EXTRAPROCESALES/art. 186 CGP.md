@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "186"
-epigrafe: "EXHIBICIÓN DE DOCUMENTOS, LIBROS DE COMERCIO Y COSAS MUEBLES"
+epigrafe: "Exhibición de documentos, libros de comercio y cosas muebles"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 186. EXHIBICIÓN DE DOCUMENTOS, LIBROS DE COMERCIO Y COSAS MUEBLES
+## Artículo 186. Exhibición de documentos, libros de comercio y cosas muebles
 
 El que se proponga demandar o tema que se le demande, podrá pedir de su presunta contraparte o de terceros la exhibición de documentos, libros de comercio y cosas muebles.
 

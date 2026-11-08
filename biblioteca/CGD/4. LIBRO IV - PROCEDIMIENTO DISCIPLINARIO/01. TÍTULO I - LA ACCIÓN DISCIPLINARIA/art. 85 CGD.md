@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "85"
-epigrafe: "NATURALEZA DE LA ACCIÓN DISCIPLINARIA"
+epigrafe: "Naturaleza de la acción disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 85. NATURALEZA DE LA ACCIÓN DISCIPLINARIA
+## Artículo 85. Naturaleza de la acción disciplinaria
 
 La acción disciplinaria es pública.
 

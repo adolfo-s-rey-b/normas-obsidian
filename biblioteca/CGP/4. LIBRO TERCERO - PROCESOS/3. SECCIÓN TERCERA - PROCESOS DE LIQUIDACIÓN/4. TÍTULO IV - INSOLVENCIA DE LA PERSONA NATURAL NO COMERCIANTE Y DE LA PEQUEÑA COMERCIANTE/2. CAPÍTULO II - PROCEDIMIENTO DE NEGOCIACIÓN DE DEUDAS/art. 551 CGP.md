@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "551"
-epigrafe: "SUSPENSIÓN DE LA AUDIENCIA DE NEGOCIACIÓN DE DEUDAS"
+epigrafe: "Suspensión de la audiencia de negociación de deudas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 551. SUSPENSIÓN DE LA AUDIENCIA DE NEGOCIACIÓN DE DEUDAS
+## Artículo 551. Suspensión de la audiencia de negociación de deudas
 
 Si no se llegare a un acuerdo en la misma audiencia y siempre que se advierta una posibilidad objetiva de arreglo, el conciliador podrá suspender la audiencia las veces que sea necesario, la cual deberá reanudar a más tardar dentro de los diez (10) días siguientes.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "213"
-epigrafe: "INSPECCIÓN DEL LUGAR DEL HECHO"
+epigrafe: "Inspección del lugar del hecho"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 213. INSPECCIÓN DEL LUGAR DEL HECHO
+## Artículo 213. Inspección del lugar del hecho
 
 Inmediatamente se tenga conocimiento de la comisión de un hecho que pueda constituir un delito, y en los casos en que ello sea procedente, el servidor de Policía Judicial se trasladará al lugar de los hechos y lo examinará minuciosa, completa y metódicamente, con el fin de descubrir, identificar, recoger y embalar, de acuerdo con los procedimientos técnicos establecidos en los manuales de criminalística, todos los elementos materiales probatorios y evidencia física que tiendan a demostrar la realidad del hecho y a señalar al autor y partícipes del mismo.
 

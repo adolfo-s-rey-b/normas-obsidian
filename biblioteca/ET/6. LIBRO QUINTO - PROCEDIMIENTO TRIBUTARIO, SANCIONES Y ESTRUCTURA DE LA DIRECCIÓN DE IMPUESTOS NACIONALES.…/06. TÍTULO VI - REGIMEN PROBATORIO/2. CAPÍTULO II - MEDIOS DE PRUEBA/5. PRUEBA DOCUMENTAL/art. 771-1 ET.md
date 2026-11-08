@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "771-1"
-epigrafe: "VALOR PROBATORIO DE LA IMPRESION DE IMAGENES OPTICAS NO MODIFICABLES"
+epigrafe: "VALOR PROBATORIO DE LA IMPRESIÓN DE IMÁGENES ÓPTICAS NO MODIFICABLES"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Prueba documental|Prueba documental]]
 
-## Artículo 771-1. VALOR PROBATORIO DE LA IMPRESION DE IMAGENES OPTICAS NO MODIFICABLES
+## Artículo 771-1. VALOR PROBATORIO DE LA IMPRESIÓN DE IMÁGENES ÓPTICAS NO MODIFICABLES
 
 La reproducción impresa de imágenes ópticas no modificables, efectuadas por la Unidad Administrativa Especial Dirección General de Impuestos Nacionales sobre documentos originales relacionados con los impuestos que administra, corresponde a una de las clases de documentos señalados en el artículo [[art. 251 CPC|251]] del Código de Procedimiento Civil, con su correspondiente valor probatorio.
 

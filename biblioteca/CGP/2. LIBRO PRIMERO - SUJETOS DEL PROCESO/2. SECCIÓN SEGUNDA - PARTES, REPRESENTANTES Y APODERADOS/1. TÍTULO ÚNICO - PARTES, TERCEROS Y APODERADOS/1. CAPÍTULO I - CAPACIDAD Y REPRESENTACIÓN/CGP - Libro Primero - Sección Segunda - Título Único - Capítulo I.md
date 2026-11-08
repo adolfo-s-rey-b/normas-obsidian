@@ -24,13 +24,13 @@ tags:
 
 ### Contenido
 
-- [[art. 53 CGP|Artículo 53]] — CAPACIDAD PARA SER PARTE
-- [[art. 54 CGP|Artículo 54]] — COMPARECENCIA AL PROCESO
-- [[art. 55 CGP|Artículo 55]] — DESIGNACIÓN DE CURADOR AD LÍTEM
-- [[art. 56 CGP|Artículo 56]] — FUNCIONES Y FACULTADES DEL CURADOR AD LÍTEM
-- [[art. 57 CGP|Artículo 57]] — AGENCIA OFICIOSA PROCESAL
-- [[art. 58 CGP|Artículo 58]] — REPRESENTACIÓN DE PERSONAS JURÍDICAS EXTRANJERAS Y ORGANIZACIONES NO GUBERNAMENTALES SIN ÁNIMO DE LUCRO
-- [[art. 59 CGP|Artículo 59]] — AGENCIAS Y SUCURSALES DE SOCIEDADES NACIONALES
+- [[art. 53 CGP|Artículo 53]] — Capacidad para ser parte
+- [[art. 54 CGP|Artículo 54]] — Comparecencia al proceso
+- [[art. 55 CGP|Artículo 55]] — Designación de curador ad lítem
+- [[art. 56 CGP|Artículo 56]] — Funciones y facultades del curador ad lítem
+- [[art. 57 CGP|Artículo 57]] — Agencia oficiosa procesal
+- [[art. 58 CGP|Artículo 58]] — Representación de personas jurídicas extranjeras y organizaciones no gubernamentales sin ánimo de lucro
+- [[art. 59 CGP|Artículo 59]] — Agencias y sucursales de sociedades nacionales
 
 ---
 ↑ [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]] →

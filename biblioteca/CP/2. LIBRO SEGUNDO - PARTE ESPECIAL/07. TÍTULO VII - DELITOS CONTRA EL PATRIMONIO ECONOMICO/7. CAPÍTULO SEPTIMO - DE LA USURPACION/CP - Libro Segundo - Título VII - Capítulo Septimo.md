@@ -24,9 +24,9 @@ tags:
 ### Contenido
 
 - [[art. 261 CP|Artículo 261]] — Usurpación de tierras
-- [[art. 262 CP|Artículo 262]] — USURPACIÓN DE AGUAS
+- [[art. 262 CP|Artículo 262]] — Usurpación de aguas
 - [[art. 263 CP|Artículo 263]] — INVASIÓN DE TIERRAS
-- [[art. 264 CP|Artículo 264]] — PERTURBACIÓN DE LA POSESIÓN SOBRE INMUEBLE
+- [[art. 264 CP|Artículo 264]] — Perturbación de la posesión sobre inmueble
 - [[art. 264A CP|Artículo 264A]] — Avasallamiento de bien inmueble
 
 ---

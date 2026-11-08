@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "118"
-epigrafe: "OPERACIONES ESPECIALES"
+epigrafe: "Operaciones Especiales"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo I|CAPÍTULO I - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo I|Capítulo I]]
 
-## Artículo 118. OPERACIONES ESPECIALES
+## Artículo 118. Operaciones Especiales
 
 1\. Operaciones fiduciarias autorizadas. A partir de la vigencia de la Ley 45 de 1990, los establecimientos de crédito no podrán prestar servicios fiduciarios, salvo tratándose de operaciones de recaudo y transferencia de fondos que sean complementarias o vinculadas a sus actividades o cuando obren como agentes de transferencia y registro de valores o como depositarios. En ningún caso, la actuación como depositario en desarrollo del presente numeral podrá implicar la recepción de moneda corriente, divisas o de cheques, giros y letras de cambio u otros documentos análogos para su cobro.
 

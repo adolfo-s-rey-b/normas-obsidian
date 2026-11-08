@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 467 CP|Artículo 467]] — REBELION
-- [[art. 468 CP|Artículo 468]] — SEDICIÓN
-- [[art. 469 CP|Artículo 469]] — ASONADA
+- [[art. 467 CP|Artículo 467]] — Rebelion
+- [[art. 468 CP|Artículo 468]] — Sedición
+- [[art. 469 CP|Artículo 469]] — Asonada
 - [[art. 470 CP|Artículo 470]] — Circunstancias de agravación punitiva
-- [[art. 471 CP|Artículo 471]] — CONSPIRACIÓN
-- [[art. 472 CP|Artículo 472]] — SEDUCCIÓN, USURPACIÓN Y RETENCIÓN ILEGAL DE MANDO
+- [[art. 471 CP|Artículo 471]] — Conspiracion
+- [[art. 472 CP|Artículo 472]] — Seduccion, usurpación y retención ilegal de mando
 - [[art. 473 CP|Artículo 473]] — Circunstancia de agravación punitiva
 
 ---

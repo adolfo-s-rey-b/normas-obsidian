@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "292"
-epigrafe: "NOTIFICACIÓN POR AVISO"
+epigrafe: "Notificación por aviso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 292. NOTIFICACIÓN POR AVISO
+## Artículo 292. Notificación por aviso
 
 Cuando no se pueda hacer la notificación personal del auto admisorio de la demanda o del mandamiento ejecutivo al demandado, o la del auto que ordena citar a un tercero, o la de cualquiera otra providencia que se debe realizar personalmente, se hará por medio de aviso que deberá expresar su fecha y la de la providencia que se notifica, el juzgado que conoce del proceso, su naturaleza, el nombre de las partes y la advertencia de que la notificación se considerará surtida al finalizar el día siguiente al de la entrega del aviso en el lugar de destino.
 

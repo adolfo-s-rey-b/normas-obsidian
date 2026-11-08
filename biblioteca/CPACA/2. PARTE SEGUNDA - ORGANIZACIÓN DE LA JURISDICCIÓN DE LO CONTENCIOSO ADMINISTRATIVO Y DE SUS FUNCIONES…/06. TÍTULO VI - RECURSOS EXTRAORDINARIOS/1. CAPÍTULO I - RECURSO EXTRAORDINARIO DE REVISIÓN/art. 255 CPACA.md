@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "255"
-epigrafe: "SENTENCIA"
+epigrafe: "Sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo I|CAPÍTULO I - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 255. SENTENCIA
+## Artículo 255. Sentencia
 
 Vencido el período probatorio se dictará sentencia.
 

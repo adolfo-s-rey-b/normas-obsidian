@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "63"
-epigrafe: "DE LAS VISITAS E INFORMES"
+epigrafe: "De las Visitas e Informes"
 rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 62 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
 
-## Artículo 63. DE LAS VISITAS E INFORMES
+## Artículo 63. De las Visitas e Informes
 
 La procuraduría adelantará visitas a las entidades estatales oficiosamente y con la periodicidad que demande la protección de los recursos públicos y el imperio de la moralidad, legalidad y honestidad en la administración pública.
 

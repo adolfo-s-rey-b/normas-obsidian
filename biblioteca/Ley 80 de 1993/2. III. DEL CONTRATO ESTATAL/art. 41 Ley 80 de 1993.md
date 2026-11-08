@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "41"
-epigrafe: "DEL PERFECCIONAMIENTO DEL CONTRATO"
+epigrafe: "Del Perfeccionamiento del Contrato"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 23 Ley 1150 de 2007]]"
   - "[[art. 49 Ley 179 de 1994]]"
@@ -35,12 +35,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 41. DEL PERFECCIONAMIENTO DEL CONTRATO
+## Artículo 41. Del Perfeccionamiento del Contrato
 
 Los contratos del Estado se perfeccionan cuando se logre acuerdo sobre el objeto y la contraprestación y éste se eleve a escrito.
 

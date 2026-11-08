@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "258"
-epigrafe: "FALTAS GRAVÍSIMAS"
+epigrafe: "Faltas gravísimas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE LOS CONJUECES Y JUECES DE PAZ]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 258. FALTAS GRAVÍSIMAS
+## Artículo 258. Faltas gravísimas
 
 El catálogo de faltas gravísimas imputables a los conjueces ~~y jueces de paz~~ es el señalado en esta ley, en cuanto resulte compatible con la función respecto del caso en que deban actuar.
 

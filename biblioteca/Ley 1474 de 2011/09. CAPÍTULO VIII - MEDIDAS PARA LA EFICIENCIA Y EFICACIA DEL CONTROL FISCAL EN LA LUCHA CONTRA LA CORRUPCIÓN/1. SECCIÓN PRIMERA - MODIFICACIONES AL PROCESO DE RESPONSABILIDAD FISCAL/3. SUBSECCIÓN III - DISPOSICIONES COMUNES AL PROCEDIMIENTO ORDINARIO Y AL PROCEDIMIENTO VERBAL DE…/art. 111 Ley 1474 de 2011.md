@@ -4,11 +4,11 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "111"
-epigrafe: "PROCEDENCIA DE LA CESACIÓN DE LA ACCIÓN FISCAL"
+epigrafe: "Procedencia de la cesación de la acción fiscal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 144 Decreto 403 de 2020]]"
 anterior: "[[art. 110 Ley 1474 de 2011]]"
@@ -23,12 +23,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]]
 
-## Artículo 111. PROCEDENCIA DE LA CESACIÓN DE LA ACCIÓN FISCAL
+## Artículo 111. Procedencia de la cesación de la acción fiscal
 
 En el trámite de los procesos de responsabilidad fiscal únicamente procederá la terminación anticipada de la acción cuando se acredite el pago del valor del detrimento patrimonial que está siendo investigado o por el cual se ha formulado imputación o cuando se haya hecho el reintegro de los bienes objeto de la pérdida investigada o imputada. Lo anterior sin perjuicio de la aplicación del principio de oportunidad.
 

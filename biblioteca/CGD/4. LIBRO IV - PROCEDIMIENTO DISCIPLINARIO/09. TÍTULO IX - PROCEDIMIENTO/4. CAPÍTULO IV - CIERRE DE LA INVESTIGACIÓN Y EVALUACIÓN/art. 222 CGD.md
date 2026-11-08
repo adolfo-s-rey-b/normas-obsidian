@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "222"
-epigrafe: "PROCEDENCIA DE LA DECISIÓN DE CITACIÓN A AUDIENCIA Y FORMULACIÓN DE CARGOS"
+epigrafe: "Procedencia de la decisión de citación a audiencia y formulación de cargos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo IV|CAPÍTULO IV - CIERRE DE LA INVESTIGACIÓN Y EVALUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo IV|Capítulo IV]]
 
-## Artículo 222. PROCEDENCIA DE LA DECISIÓN DE CITACIÓN A AUDIENCIA Y FORMULACIÓN DE CARGOS
+## Artículo 222. Procedencia de la decisión de citación a audiencia y formulación de cargos
 
 El funcionario de conocimiento citará a audiencia y formulará pliego de cargos cuando esté objetivamente demostrada la falta y exista prueba que comprometa la responsabilidad del disciplinado. Contra esta decisión no procede recurso alguno.
 

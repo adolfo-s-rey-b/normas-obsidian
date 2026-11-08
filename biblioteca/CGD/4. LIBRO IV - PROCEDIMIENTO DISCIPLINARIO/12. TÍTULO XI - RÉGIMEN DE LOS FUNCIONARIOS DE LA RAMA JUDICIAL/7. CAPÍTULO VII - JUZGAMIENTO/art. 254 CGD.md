@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "254"
-epigrafe: "JUZGAMIENTO DISCIPLINARIO JURISDICCIONAL"
+epigrafe: "Juzgamiento disciplinario Jurisdiccional"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VII|CAPÍTULO VII - JUZGAMIENTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VII|Capítulo VII]]
 
-## Artículo 254. JUZGAMIENTO DISCIPLINARIO JURISDICCIONAL
+## Artículo 254. Juzgamiento disciplinario Jurisdiccional
 
 El procedimiento establecido en este código procede de conformidad con la competencia de la Comisión Nacional o las Comisiones Seccionales de Disciplina Judicial. El juicio verbal 10 adelantará el Magistrado sustanciador hasta antes del fallo de primera instancia. Dentro de los cinco (5) días siguientes registrará el proyecto de fallo que será dictado por la sala en el término de ocho (8) días. Contra el anterior fallo procede el recurso de apelación.
 

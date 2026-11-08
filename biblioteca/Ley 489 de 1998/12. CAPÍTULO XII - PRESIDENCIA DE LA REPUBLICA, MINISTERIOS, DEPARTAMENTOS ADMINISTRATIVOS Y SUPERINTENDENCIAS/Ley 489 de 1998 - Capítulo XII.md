@@ -20,18 +20,18 @@ tags:
 
 ### Contenido
 
-- [[art. 56 Ley 489 de 1998|Artículo 56]] — PRESIDENCIA DE LA REPUBLICA
-- [[art. 57 Ley 489 de 1998|Artículo 57]] — ORGANIZACION Y FUNCIONAMIENTO DE LOS MINISTERIOS Y DEPARTAMENTOS ADMINISTRATIVOS
-- [[art. 58 Ley 489 de 1998|Artículo 58]] — OBJETIVOS DE LOS MINISTERIOS Y DEPARTAMENTOS ADMINISTRATIVOS
-- [[art. 59 Ley 489 de 1998|Artículo 59]] — FUNCIONES
-- [[art. 60 Ley 489 de 1998|Artículo 60]] — DIRECCION DE LOS MINISTERIOS
-- [[art. 61 Ley 489 de 1998|Artículo 61]] — FUNCIONES DE LOS MINISTROS
-- [[art. 62 Ley 489 de 1998|Artículo 62]] — VICEMINISTROS
-- [[art. 63 Ley 489 de 1998|Artículo 63]] — UNIDADES MINISTERIALES
-- [[art. 64 Ley 489 de 1998|Artículo 64]] — FUNCIONES DE LOS JEFES O DIRECTORES DE LAS UNIDADES MINISTERIALES
-- [[art. 65 Ley 489 de 1998|Artículo 65]] — ORGANIZACION Y FUNCIONAMIENTO DE LOS DEPARTAMENTOS ADMINISTRATIVOS
-- [[art. 66 Ley 489 de 1998|Artículo 66]] — ORGANIZACION Y FUNCIONAMIENTO DE LAS SUPERINTENDENCIAS
-- [[art. 67 Ley 489 de 1998|Artículo 67]] — ORGANIZACION Y FUNCIONAMIENTO DE UNIDADES ADMINISTRATIVAS ESPECIALES
+- [[art. 56 Ley 489 de 1998|Artículo 56]] — Presidencia de la República
+- [[art. 57 Ley 489 de 1998|Artículo 57]] — Organización y funcionamiento de los ministerios y departamentos administrativos
+- [[art. 58 Ley 489 de 1998|Artículo 58]] — Objetivos de los ministerios y departamentos administrativos
+- [[art. 59 Ley 489 de 1998|Artículo 59]] — Funciones
+- [[art. 60 Ley 489 de 1998|Artículo 60]] — Dirección de los ministerios
+- [[art. 61 Ley 489 de 1998|Artículo 61]] — Funciones de los ministros
+- [[art. 62 Ley 489 de 1998|Artículo 62]] — Viceministros
+- [[art. 63 Ley 489 de 1998|Artículo 63]] — Unidades ministeriales
+- [[art. 64 Ley 489 de 1998|Artículo 64]] — Funciones de los jefes o directores de las unidades ministeriales
+- [[art. 65 Ley 489 de 1998|Artículo 65]] — Organización y funcionamiento de los departamentos administrativos
+- [[art. 66 Ley 489 de 1998|Artículo 66]] — Organización y funcionamiento de las superintendencias
+- [[art. 67 Ley 489 de 1998|Artículo 67]] — Organización y funcionamiento de unidades administrativas especiales
 
 ---
 ← [[Ley 489 de 1998 - Capítulo XI|Capítulo XI]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]] →

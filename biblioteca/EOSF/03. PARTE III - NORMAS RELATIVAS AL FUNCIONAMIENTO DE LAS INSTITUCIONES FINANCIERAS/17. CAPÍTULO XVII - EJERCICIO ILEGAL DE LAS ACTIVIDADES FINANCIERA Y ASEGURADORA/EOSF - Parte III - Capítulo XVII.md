@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 108 EOSF|Artículo 108]] — PRINCIPIOS GENERALES
-- [[art. 109 EOSF|Artículo 109]] — LIMITACIONES EN LA PUBLICIDAD
+- [[art. 108 EOSF|Artículo 108]] — Principios Generales
+- [[art. 109 EOSF|Artículo 109]] — Limitaciones en la Publicidad
 
 ---
 ← [[EOSF - Parte III - Capítulo XVI|Capítulo XVI]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XVIII|Capítulo XVIII]] →

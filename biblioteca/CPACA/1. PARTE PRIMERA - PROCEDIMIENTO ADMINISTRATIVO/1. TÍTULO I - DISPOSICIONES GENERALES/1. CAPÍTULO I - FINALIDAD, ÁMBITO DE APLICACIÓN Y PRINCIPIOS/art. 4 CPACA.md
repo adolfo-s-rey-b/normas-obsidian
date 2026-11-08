@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "4"
-epigrafe: "FORMAS DE INICIAR LAS ACTUACIONES ADMINISTRATIVAS"
+epigrafe: "Formas de iniciar las actuaciones administrativas"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo I|CAPÍTULO I - FINALIDAD, ÁMBITO DE APLICACIÓN Y PRINCIPIOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 4. FORMAS DE INICIAR LAS ACTUACIONES ADMINISTRATIVAS
+## Artículo 4. Formas de iniciar las actuaciones administrativas
 
 Las actuaciones administrativas podrán iniciarse:
 

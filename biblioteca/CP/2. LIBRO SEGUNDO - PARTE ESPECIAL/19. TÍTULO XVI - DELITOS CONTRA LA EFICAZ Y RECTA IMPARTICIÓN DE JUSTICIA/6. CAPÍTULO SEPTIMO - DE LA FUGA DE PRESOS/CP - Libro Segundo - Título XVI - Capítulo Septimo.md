@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 448 CP|Artículo 448]] — FUGA DE PRESOS
+- [[art. 448 CP|Artículo 448]] — Fuga de presos
 - [[art. 449 CP|Artículo 449]] — Favorecimiento de la fuga
-- [[art. 450 CP|Artículo 450]] — MODALIDAD CULPOSA
+- [[art. 450 CP|Artículo 450]] — Modalidad culposa
 - [[art. 451 CP|Artículo 451]] — Circunstancias de atenuacion
 - [[art. 452 CP|Artículo 452]] — Eximente de responsabilidad penal
 

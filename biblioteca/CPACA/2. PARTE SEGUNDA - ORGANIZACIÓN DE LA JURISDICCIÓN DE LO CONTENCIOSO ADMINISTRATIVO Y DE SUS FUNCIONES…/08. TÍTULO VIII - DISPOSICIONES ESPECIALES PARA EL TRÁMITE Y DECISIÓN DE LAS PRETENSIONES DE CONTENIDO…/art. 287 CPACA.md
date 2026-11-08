@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "287"
-epigrafe: "PRESUPUESTOS DE LA SENTENCIA ANULATORIA DEL ACTO DE ELECCIÓN POPULAR"
+epigrafe: "Presupuestos de la sentencia anulatoria del acto de elección popular"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 287. PRESUPUESTOS DE LA SENTENCIA ANULATORIA DEL ACTO DE ELECCIÓN POPULAR
+## Artículo 287. Presupuestos de la sentencia anulatoria del acto de elección popular
 
 Para garantizar el respeto de la voluntad legítima mayoritaria de los electores habrá lugar a declarar la nulidad de la elección por voto popular, cuando el juez establezca que las irregularidades en la votación o en los escrutinios son de tal incidencia que de practicarse nuevos escrutinios serían otros los elegidos.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "419"
-epigrafe: "UTILIZACIÓN DE ASUNTO SOMETIDO A SECRETO O RESERVA"
+epigrafe: "Utilización de asunto sometido a secreto o reserva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XV|TÍTULO XV - DELITOS CONTRA LA ADMINISTRACIÓN PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XV - Capítulo Octavo|CAPÍTULO OCTAVO - DE LOS ABUSOS DE AUTORIDAD Y OTRAS INFRACCIONES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XV|Título XV]] › [[CP - Libro Segundo - Título XV - Capítulo Octavo|Capítulo Octavo]]
 
-## Artículo 419. UTILIZACIÓN DE ASUNTO SOMETIDO A SECRETO O RESERVA
+## Artículo 419. Utilización de asunto sometido a secreto o reserva
 
 El servidor público que utilice en provecho propio o ajeno, descubrimiento científico, u otra información o dato llegados a su conocimiento por razón de sus funciones y que deban permanecer en secreto o reserva, incurrirá en multa y pérdida del empleo o cargo público, siempre que la conducta no constituya otro delito sancionado con pena mayor.
 

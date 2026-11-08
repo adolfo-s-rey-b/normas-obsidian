@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "121"
-epigrafe: "ÓRGANO OFICIAL DE DIVULGACIÓN DEL CONSEJO DE ESTADO"
+epigrafe: "Órgano oficial de divulgación del Consejo de Estado"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 121. ÓRGANO OFICIAL DE DIVULGACIÓN DEL CONSEJO DE ESTADO
+## Artículo 121. Órgano oficial de divulgación del Consejo de Estado
 
 El Consejo de Estado tendrá los medios de divulgación necesarios para realizar la publicidad de sus actuaciones. Para cada vigencia fiscal se deberá incluir en el presupuesto de gastos de la Nación una apropiación especial destinada a ello.
 

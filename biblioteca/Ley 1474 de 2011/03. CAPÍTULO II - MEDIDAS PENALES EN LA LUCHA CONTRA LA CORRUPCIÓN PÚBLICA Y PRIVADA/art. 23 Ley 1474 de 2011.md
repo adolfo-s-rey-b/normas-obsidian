@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "23"
-epigrafe: "PECULADO POR APLICACIÓN OFICIAL DIFERENTE FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL"
+epigrafe: "Peculado por aplicación oficial diferente frente a recursos de la seguridad social"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 22 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 23. PECULADO POR APLICACIÓN OFICIAL DIFERENTE FRENTE A RECURSOS DE LA SEGURIDAD SOCIAL
+## Artículo 23. Peculado por aplicación oficial diferente frente a recursos de la seguridad social
 
 La Ley 599 de 2000 tendrá un artículo [[art. 399A CP|399A]], el cual quedará así:
 

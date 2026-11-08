@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "118"
-epigrafe: "CÓMPUTO DE TÉRMINOS"
+epigrafe: "Cómputo de términos"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título II|TÍTULO II - TÉRMINOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título II|Título II]]
 
-## Artículo 118. CÓMPUTO DE TÉRMINOS
+## Artículo 118. Cómputo de términos
 
 El término que se conceda en audiencia a quienes estaban obligados a concurrir a ella correrá a partir de su otorgamiento. En caso contrario, correrá a partir del día siguiente al de la notificación de la providencia que lo concedió.
 

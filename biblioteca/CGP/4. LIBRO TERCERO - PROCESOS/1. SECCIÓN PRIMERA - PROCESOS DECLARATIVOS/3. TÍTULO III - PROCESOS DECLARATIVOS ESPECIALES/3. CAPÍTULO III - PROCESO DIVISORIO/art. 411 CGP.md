@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "411"
-epigrafe: "TRÁMITE DE LA VENTA"
+epigrafe: "Trámite de la venta"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 411. TRÁMITE DE LA VENTA
+## Artículo 411. Trámite de la venta
 
 En la providencia que decrete la venta de la cosa común se ordenará su secuestro, y una vez practicado este se procederá al remate en la forma prescrita en el proceso ejecutivo, pero la base para hacer postura será el total del avalúo. Si las partes hubieren aportado avalúos distintos el juez definirá el precio del bien.
 

@@ -15,7 +15,7 @@ libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMEN
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VIII|CAPÍTULO VIII - RENTA GRAVABLE ESPECIAL]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo VIII - Comparación patrimonial|COMPARACIÓN PATRIMONIAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 6 Ley 863 de 2003]]"
   - "[[art. 3 Decreto 1050 de 2015]]"
@@ -36,7 +36,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VIII|Capítulo VIII]] › [[ET - Libro Primero - Título I - Capítulo VIII - Comparación patrimonial|Comparación patrimonial]]

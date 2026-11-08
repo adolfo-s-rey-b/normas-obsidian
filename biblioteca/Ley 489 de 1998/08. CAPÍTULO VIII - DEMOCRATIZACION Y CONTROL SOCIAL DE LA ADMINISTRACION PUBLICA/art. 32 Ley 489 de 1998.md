@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "32"
-epigrafe: "DEMOCRATIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA"
+epigrafe: "Democratización de la Administración Pública"
 capitulo: "[[Ley 489 de 1998 - Capítulo VIII|CAPÍTULO VIII - DEMOCRATIZACION Y CONTROL SOCIAL DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 32. DEMOCRATIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA
+## Artículo 32. Democratización de la Administración Pública
 
 Todas las entidades y organismos de la Administración Pública tienen la obligación de desarrollar su gestión acorde con los principios de democracia participativa y democratización de la gestión pública. Para ello podrán realizar todas las acciones necesarias con el objeto de involucrar a los ciudadanos y organizaciones de la sociedad civil en la formulación, ejecución, control y evaluación de la gestión pública.
 

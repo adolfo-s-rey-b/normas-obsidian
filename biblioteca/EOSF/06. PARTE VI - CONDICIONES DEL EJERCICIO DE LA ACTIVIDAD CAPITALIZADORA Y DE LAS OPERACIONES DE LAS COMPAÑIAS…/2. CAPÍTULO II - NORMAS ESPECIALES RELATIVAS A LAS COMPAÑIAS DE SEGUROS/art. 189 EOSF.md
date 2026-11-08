@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "189"
-epigrafe: "REVOCACION O SUSPENSION DEL CERTIFICADO DE AUTORIZACION"
+epigrafe: "Revocación o Suspensión del Certificado de Autorización"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo II|CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo II|Capítulo II]]
 
-## Artículo 189. REVOCACION O SUSPENSION DEL CERTIFICADO DE AUTORIZACION
+## Artículo 189. Revocación o Suspensión del Certificado de Autorización
 
 La revocatoria o suspensión del certificado de autorización concedido a una entidad aseguradora podrá ser decretada por la Superintendencia Bancaria en los siguientes casos, mediante providencia debidamente motivada:
 

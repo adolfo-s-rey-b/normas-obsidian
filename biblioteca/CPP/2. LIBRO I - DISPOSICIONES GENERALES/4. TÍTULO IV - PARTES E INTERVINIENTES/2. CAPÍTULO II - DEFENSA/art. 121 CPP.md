@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "121"
-epigrafe: "DIRECCIÓN DE LA DEFENSA"
+epigrafe: "Dirección de la defensa"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEFENSA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 121. DIRECCIÓN DE LA DEFENSA
+## Artículo 121. Dirección de la defensa
 
 El defensor que haya sido designado como principal dirigirá la defensa, pudiendo incluso seleccionar otro abogado que lo acompañe como defensor suplente, previa información al juez y autorización del imputado. Este defensor suplente actuará bajo la responsabilidad del principal y podrá ser removido libremente durante el proceso.
 

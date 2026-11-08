@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "423"
-epigrafe: "EXCLUSION DEL IMPUESTO EN EL TERRITORIO INTENDENCIAL DE SAN ANDRES Y PROVIDENCIA"
+epigrafe: "EXCLUSIÓN DEL IMPUESTO EN EL TERRITORIO INTENDENCIAL DE SAN ANDRÉS Y PROVIDENCIA"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título I|TÍTULO I - HECHO GENERADOR DEL IMPUESTO]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título I|Título I]]
 
-## Artículo 423. EXCLUSION DEL IMPUESTO EN EL TERRITORIO INTENDENCIAL DE SAN ANDRES Y PROVIDENCIA
+## Artículo 423. EXCLUSIÓN DEL IMPUESTO EN EL TERRITORIO INTENDENCIAL DE SAN ANDRÉS Y PROVIDENCIA
 
 En la Intendencia Especial de San Andrés y Providencia no se cobrará impuesto nacional a las ventas.
 

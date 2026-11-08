@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 278 CGP|Artículo 278]] — CLASES DE PROVIDENCIAS
-- [[art. 279 CGP|Artículo 279]] — FORMALIDADES
-- [[art. 280 CGP|Artículo 280]] — CONTENIDO DE LA SENTENCIA
-- [[art. 281 CGP|Artículo 281]] — CONGRUENCIAS
-- [[art. 282 CGP|Artículo 282]] — RESOLUCIÓN SOBRE EXCEPCIONES
+- [[art. 278 CGP|Artículo 278]] — Clases de providencias
+- [[art. 279 CGP|Artículo 279]] — Formalidades
+- [[art. 280 CGP|Artículo 280]] — Contenido de la sentencia
+- [[art. 281 CGP|Artículo 281]] — Congruencias
+- [[art. 282 CGP|Artículo 282]] — Resolución sobre excepciones
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] · [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo II|Capítulo II]] →

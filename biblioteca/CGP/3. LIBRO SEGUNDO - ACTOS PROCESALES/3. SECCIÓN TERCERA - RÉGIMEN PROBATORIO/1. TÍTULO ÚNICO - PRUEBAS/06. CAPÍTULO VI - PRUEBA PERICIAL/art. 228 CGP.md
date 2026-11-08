@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "228"
-epigrafe: "CONTRADICCIÓN DEL DICTAMEN"
+epigrafe: "Contradicción del dictamen"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 228. CONTRADICCIÓN DEL DICTAMEN
+## Artículo 228. Contradicción del dictamen
 
 La parte contra la cual se aduzca un dictamen pericial podrá solicitar la comparecencia del perito a la audiencia, aportar otro o realizar ambas actuaciones. Estas deberán realizarse dentro del término de traslado del escrito con el cual haya sido aportado o, en su defecto, dentro de los tres (3) días siguientes a la notificación de la providencia que lo ponga en conocimiento. En virtud de la anterior solicitud, o si el juez lo considera necesario, citará al perito a la respectiva audiencia, en la cual el juez y las partes podrán interrogarlo bajo juramento acerca de su idoneidad e imparcialidad y sobre el contenido del dictamen. La contraparte de quien haya aportado el dictamen podrá formular preguntas asertivas e insinuantes. Las partes tendrán derecho, si lo consideran necesario, a interrogar nuevamente al perito, en el orden establecido para el testimonio. Si el perito citado no asiste a la audiencia, el dictamen no tendrá valor.
 

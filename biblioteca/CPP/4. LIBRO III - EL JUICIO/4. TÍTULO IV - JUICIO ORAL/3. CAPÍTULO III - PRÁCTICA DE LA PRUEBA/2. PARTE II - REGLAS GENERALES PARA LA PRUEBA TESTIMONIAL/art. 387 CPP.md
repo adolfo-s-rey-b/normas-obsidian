@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "387"
-epigrafe: "TESTIMONIOS ESPECIALES"
+epigrafe: "Testimonios especiales"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 387. TESTIMONIOS ESPECIALES
+## Artículo 387. Testimonios especiales
 
 Cuando se requiera el testimonio del Presidente de la República o del Vicepresidente de la República, se informará previamente al declarante sobre la fecha y hora, para que permanezca en su despacho, a donde se trasladarán el juez, las partes y el personal de secretaría necesario para la práctica del medio de prueba. Se observarán en ello las reglas previstas en este capítulo.
 

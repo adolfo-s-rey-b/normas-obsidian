@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 232 CPTSS|Artículo 232]] — PROCEDENCIA DEL RECURSO DE QUEJA
+- [[art. 232 CPTSS|Artículo 232]] — Procedencia del recurso de queja
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]] →

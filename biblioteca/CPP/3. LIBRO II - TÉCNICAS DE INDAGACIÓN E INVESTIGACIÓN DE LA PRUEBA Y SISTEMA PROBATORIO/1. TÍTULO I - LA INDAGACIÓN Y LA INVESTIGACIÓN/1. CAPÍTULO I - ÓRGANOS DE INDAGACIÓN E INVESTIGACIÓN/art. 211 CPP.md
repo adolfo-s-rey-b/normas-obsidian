@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "211"
-epigrafe: "GRUPOS DE TAREAS ESPECIALES"
+epigrafe: "Grupos de tareas especiales"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 211. GRUPOS DE TAREAS ESPECIALES
+## Artículo 211. Grupos de tareas especiales
 
 Cuando por la particular complejidad de la investigación sea necesario conformar un grupo de tareas especiales, el fiscal jefe de la unidad respectiva solicitará la autorización al Fiscal General de la Nación, Director Nacional o Seccional de Fiscalía o su delegado.
 

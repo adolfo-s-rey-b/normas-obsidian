@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "244"
-epigrafe: "FUNCIONARIO COMPETENTE PARA PROFERIR LAS PROVIDENCIAS"
+epigrafe: "Funcionario competente para proferir las providencias"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo III|CAPÍTULO III - PROVIDENCIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo III|Capítulo III]]
 
-## Artículo 244. FUNCIONARIO COMPETENTE PARA PROFERIR LAS PROVIDENCIAS
+## Artículo 244. Funcionario competente para proferir las providencias
 
 Los autos interlocutorios, excepto el auto de terminación, y los de sustanciación, serán dictados por el magistrado sustanciador. El auto de terminación, y la sentencia serán dictadas por la respectiva Sala. Cuando se trate de juicio verbal, se seguirán las reglas previstas en este Código. Las notificaciones y las actuaciones que se tramiten en los procesos disciplinarios se ·surtirán con base en las reglas dispuestas en el decreto legislativo 806 de 2020.
 

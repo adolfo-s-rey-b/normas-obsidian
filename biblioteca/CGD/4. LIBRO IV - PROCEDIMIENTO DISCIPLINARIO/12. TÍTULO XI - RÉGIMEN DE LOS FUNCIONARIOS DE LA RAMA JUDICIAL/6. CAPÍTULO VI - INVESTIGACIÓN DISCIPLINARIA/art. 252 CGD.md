@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "252"
-epigrafe: "SUSPENSIÓN PROVISIONAL"
+epigrafe: "Suspensión provisional"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VI|CAPÍTULO VI - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VI|Capítulo VI]]
 
-## Artículo 252. SUSPENSIÓN PROVISIONAL
+## Artículo 252. Suspensión provisional
 
 La suspensión provisional a que se refiere este código, en relación con los funcionarios judiciales, será ordenada por la Sala respectiva. En este caso, procederá el recurso de reposición.
 

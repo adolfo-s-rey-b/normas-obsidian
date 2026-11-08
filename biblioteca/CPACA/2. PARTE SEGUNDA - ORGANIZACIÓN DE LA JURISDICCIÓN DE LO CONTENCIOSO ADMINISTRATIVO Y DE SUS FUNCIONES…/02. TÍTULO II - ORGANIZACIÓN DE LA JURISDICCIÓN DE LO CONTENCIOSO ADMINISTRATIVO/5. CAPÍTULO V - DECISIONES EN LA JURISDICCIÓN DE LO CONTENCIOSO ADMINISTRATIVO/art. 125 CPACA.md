@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "125"
-epigrafe: "DE LA EXPEDICIÓN DE PROVIDENCIAS"
+epigrafe: "De la expedición de providencias"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo V|CAPÍTULO V - DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 125. DE LA EXPEDICIÓN DE PROVIDENCIAS
+## Artículo 125. De la expedición de providencias
 
 La expedición de las providencias judiciales se sujetará a las siguientes reglas:
 

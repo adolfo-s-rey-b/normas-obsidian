@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 122 CGP|Artículo 122]] — FORMACIÓN Y ARCHIVO DE LOS EXPEDIENTES
-- [[art. 123 CGP|Artículo 123]] — EXAMEN DE LOS EXPEDIENTES
+- [[art. 122 CGP|Artículo 122]] — Formación y archivo de los expedientes
+- [[art. 123 CGP|Artículo 123]] — Examen de los expedientes
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] · [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo II|Capítulo II]] →

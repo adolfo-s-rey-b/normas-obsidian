@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "101"
-epigrafe: "REGLAS ESPECIALES"
+epigrafe: "Reglas Especiales"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XV|CAPÍTULO XV - REGLAS ESPECIALES SOBRE ASEGURAMIENTO DE BIENES]]"
 vigencia: "vigente"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XV|Capítulo XV]]
 
-## Artículo 101. REGLAS ESPECIALES
+## Artículo 101. Reglas Especiales
 
 1\. Aseguramiento de los bienes inmuebles de las entidades vigiladas. Los inmuebles de propiedad de las entidades sometidas al control de la Superintendencia Bancaria y aquellos que les sean hipotecados para garantizar créditos que tengan o lleguen a tener a su favor, deberán asegurarse contra los riesgos de incendio o terremoto, en su parte destructible, por su valor comercial y durante la vigencia del crédito al que accede, en su caso.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "43"
-epigrafe: "CONDICIONES DE FUNCIONAMIENTO"
+epigrafe: "Condiciones de Funcionamiento"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XII|CAPÍTULO XII - INTERMEDIARIOS DE SEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XII|Capítulo XII]]
 
-## Artículo 43. CONDICIONES DE FUNCIONAMIENTO
+## Artículo 43. Condiciones de Funcionamiento
 
 1\. Certificado público. Toda agencia de seguros deberá elaborar un reglamento en el que se expresen sus facultades mínimas.
 

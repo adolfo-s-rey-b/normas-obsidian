@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "75"
-epigrafe: "RED NACIONAL DE PROTECCIÓN AL CONSUMIDOR"
+epigrafe: "Red Nacional de Protección al Consumidor"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 rubro: "[[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 75. RED NACIONAL DE PROTECCIÓN AL CONSUMIDOR
+## Artículo 75. Red Nacional de Protección al Consumidor
 
 La Red Nacional de Protección al Consumidor estará conformada por los consejos de protección al consumidor de carácter nacional o local donde existan, las alcaldías y las autoridades administrativas del orden nacional que tengan asignadas funciones de protección al consumidor, las ligas y asociaciones de consumidores y la Superintendencia de Industria y Comercio. Esta última institución actuará como Secretaría Técnica de la Red y, en tal condición, velará por su adecuada conformación y funcionamiento.
 

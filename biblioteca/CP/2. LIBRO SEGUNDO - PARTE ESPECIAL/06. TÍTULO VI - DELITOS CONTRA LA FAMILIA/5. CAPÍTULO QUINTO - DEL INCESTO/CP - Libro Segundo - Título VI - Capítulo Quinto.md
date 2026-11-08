@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 237 CP|Artículo 237]] — INCESTO
+- [[art. 237 CP|Artículo 237]] — Incesto
 
 ---
 ← [[CP - Libro Segundo - Título VI - Capítulo Cuarto|Capítulo Cuarto]] · ↑ [[CP - Libro Segundo - Título VI|Título VI]] · [[CP - Libro Segundo - Título VI - Capítulo Sexto|Capítulo Sexto]] →

@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 267 CPP|Artículo 267]] — FACULTADES DE QUIEN NO ES IMPUTADO
-- [[art. 268 CPP|Artículo 268]] — FACULTADES DEL IMPUTADO
-- [[art. 269 CPP|Artículo 269]] — CONTENIDO DE LA SOLICITUD
-- [[art. 270 CPP|Artículo 270]] — ACTUACIÓN DEL PERITO
-- [[art. 271 CPP|Artículo 271]] — FACULTAD DE ENTREVISTAR
-- [[art. 272 CPP|Artículo 272]] — OBTENCIÓN DE DECLARACIÓN JURADA
-- [[art. 273 CPP|Artículo 273]] — CRITERIOS DE VALORACIÓN
-- [[art. 274 CPP|Artículo 274]] — SOLICITUD DE PRUEBA ANTICIPADA
+- [[art. 267 CPP|Artículo 267]] — Facultades de quien no es imputado
+- [[art. 268 CPP|Artículo 268]] — Facultades del imputado
+- [[art. 269 CPP|Artículo 269]] — Contenido de la solicitud
+- [[art. 270 CPP|Artículo 270]] — Actuación del perito
+- [[art. 271 CPP|Artículo 271]] — Facultad de entrevistar
+- [[art. 272 CPP|Artículo 272]] — Obtención de declaración jurada
+- [[art. 273 CPP|Artículo 273]] — Criterios de valoración
+- [[art. 274 CPP|Artículo 274]] — Solicitud de prueba anticipada
 
 ---
 ← [[CPP - Libro II - Título I - Capítulo V|Capítulo V]] · ↑ [[CPP - Libro II - Título I|Título I]]

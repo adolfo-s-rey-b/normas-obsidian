@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "116"
-epigrafe: "TOMA DE POSESION PARA LIQUIDAR"
+epigrafe: "Toma de Posesión para Liquidar"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XXI|CAPÍTULO XXI - TOMA DE POSESION]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 22 Ley 510 de 1999]]"
 derogado_por:
@@ -28,12 +28,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XXI|Capítulo XXI]]
 
-## Artículo 116. TOMA DE POSESION PARA LIQUIDAR
+## Artículo 116. Toma de Posesión para Liquidar
 
 > [!info] Artículo modificado por el artículo [[art. 22 Ley 510 de 1999|22]] de la Ley 510 de 1999. El nuevo texto es el siguiente:
 

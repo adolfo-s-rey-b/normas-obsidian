@@ -21,17 +21,17 @@ tags:
 
 ### Contenido
 
-- [[art. 80 Ley 1563 de 2012|Artículo 80]] — FACULTAD DEL TRIBUNAL ARBITRAL PARA DECRETAR MEDIDAS CAUTELARES
-- [[art. 81 Ley 1563 de 2012|Artículo 81]] — CONDICIONES PARA EL DECRETO DE MEDIDAS CAUTELARES
-- [[art. 82 Ley 1563 de 2012|Artículo 82]] — PETICIÓN DE UNA ORDEN PRELIMINAR Y CONDICIONES PARA SU DECRETO
-- [[art. 83 Ley 1563 de 2012|Artículo 83]] — RÉGIMEN ESPECÍFICO DE LAS ÓRDENES PRELIMINARES
-- [[art. 84 Ley 1563 de 2012|Artículo 84]] — MODIFICACIÓN, SUSPENSIÓN Y REVOCACIÓN DE MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES
-- [[art. 85 Ley 1563 de 2012|Artículo 85]] — EXIGENCIA DE CAUCIÓN POR EL TRIBUNAL ARBITRAL
-- [[art. 86 Ley 1563 de 2012|Artículo 86]] — DEBER DE INFORMACIÓN
-- [[art. 87 Ley 1563 de 2012|Artículo 87]] — COSTAS Y DAÑOS Y PERJUICIOS
-- [[art. 88 Ley 1563 de 2012|Artículo 88]] — EJECUCIÓN DE MEDIDAS CAUTELARES
-- [[art. 89 Ley 1563 de 2012|Artículo 89]] — MOTIVOS PARA DENEGAR LA EJECUCIÓN DE MEDIDAS CAUTELARES DECRETADAS POR EL TRIBUNAL ARBITRAL
-- [[art. 90 Ley 1563 de 2012|Artículo 90]] — MEDIDAS CAUTELARES DECRETADAS POR LA AUTORIDAD JUDICIAL
+- [[art. 80 Ley 1563 de 2012|Artículo 80]] — Facultad del tribunal arbitral para decretar medidas cautelares
+- [[art. 81 Ley 1563 de 2012|Artículo 81]] — Condiciones para el decreto de medidas cautelares
+- [[art. 82 Ley 1563 de 2012|Artículo 82]] — Petición de una orden preliminar y condiciones para su decreto
+- [[art. 83 Ley 1563 de 2012|Artículo 83]] — Régimen específico de las órdenes preliminares
+- [[art. 84 Ley 1563 de 2012|Artículo 84]] — Modificación, suspensión y revocación de medidas cautelares y órdenes preliminares
+- [[art. 85 Ley 1563 de 2012|Artículo 85]] — Exigencia de caución por el tribunal arbitral
+- [[art. 86 Ley 1563 de 2012|Artículo 86]] — Deber de información
+- [[art. 87 Ley 1563 de 2012|Artículo 87]] — Costas y daños y perjuicios
+- [[art. 88 Ley 1563 de 2012|Artículo 88]] — Ejecución de medidas cautelares
+- [[art. 89 Ley 1563 de 2012|Artículo 89]] — Motivos para denegar la ejecución de medidas cautelares decretadas por el tribunal arbitral
+- [[art. 90 Ley 1563 de 2012|Artículo 90]] — Medidas cautelares decretadas por la autoridad judicial
 
 ---
 ← [[Ley 1563 de 2012 - Sección Tercera - Capítulo IV|Capítulo IV]] · ↑ [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]] →

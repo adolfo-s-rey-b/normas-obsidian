@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "324"
-epigrafe: "CAUSALES"
+epigrafe: "Causales"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 8 Ley 2477 de 2025]]"
   - "[[art. 40 Ley 1474 de 2011]]"
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 324. CAUSALES
+## Artículo 324. Causales
 
 El principio de oportunidad se aplicará en los siguientes casos:
 

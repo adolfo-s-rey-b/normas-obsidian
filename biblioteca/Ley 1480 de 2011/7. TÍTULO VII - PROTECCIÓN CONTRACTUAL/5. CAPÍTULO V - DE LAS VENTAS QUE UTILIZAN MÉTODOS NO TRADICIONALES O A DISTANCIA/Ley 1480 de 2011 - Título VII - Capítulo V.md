@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 46 Ley 1480 de 2011|Artículo 46]] — DEBERES ESPECIALES DEL PRODUCTOR Y PROVEEDOR
-- [[art. 47 Ley 1480 de 2011|Artículo 47]] — RETRACTO
+- [[art. 46 Ley 1480 de 2011|Artículo 46]] — Deberes especiales del productor y proveedor
+- [[art. 47 Ley 1480 de 2011|Artículo 47]] — Retracto
 - [[art. 48 Ley 1480 de 2011|Artículo 48]] — CONTRATOS ESPECIALES
 
 ---

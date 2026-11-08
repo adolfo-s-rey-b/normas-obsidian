@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "198"
-epigrafe: "PROCEDENCIA DE LA NOTIFICACIÓN PERSONAL"
+epigrafe: "Procedencia de la notificación personal"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]]
 
-## Artículo 198. PROCEDENCIA DE LA NOTIFICACIÓN PERSONAL
+## Artículo 198. Procedencia de la notificación personal
 
 Deberán notificarse personalmente las siguientes providencias:
 

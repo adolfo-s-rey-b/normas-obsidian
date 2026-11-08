@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "397"
-epigrafe: "RETENCIÓN EN LA FUENTE EN TITULOS CON DESCUENTO"
+epigrafe: "RETENCIÓN EN LA FUENTE EN TÍTULOS CON DESCUENTO"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IV|CAPÍTULO IV - RENDIMIENTOS FINANCIEROS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 397. RETENCIÓN EN LA FUENTE EN TITULOS CON DESCUENTO
+## Artículo 397. RETENCIÓN EN LA FUENTE EN TÍTULOS CON DESCUENTO
 
 En el caso de títulos con descuento, tanto el rendimiento como la retención se causan en el momento de la enajenación del respectivo título, sobre la diferencia entre el valor nominal del título y el de colocación o sobre la diferencia entre el valor de adquisición y el de enajenación, cuando éste último fuere inferior al de adquisición.
 

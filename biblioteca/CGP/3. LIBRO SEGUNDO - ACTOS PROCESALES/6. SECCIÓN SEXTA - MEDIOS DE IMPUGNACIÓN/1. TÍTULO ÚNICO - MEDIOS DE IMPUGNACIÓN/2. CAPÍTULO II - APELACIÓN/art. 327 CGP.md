@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "327"
-epigrafe: "TRÁMITE DE LA APELACIÓN DE SENTENCIAS"
+epigrafe: "Trámite de la apelación de sentencias"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 327. TRÁMITE DE LA APELACIÓN DE SENTENCIAS
+## Artículo 327. Trámite de la apelación de sentencias
 
 Sin perjuicio de la facultad oficiosa de decretar pruebas, cuando se trate de apelación de sentencia, dentro del término de ejecutoria del auto que admite la apelación, las partes podrán pedir la práctica de pruebas y el juez las decretará únicamente en los siguientes casos:
 

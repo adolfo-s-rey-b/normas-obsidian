@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "186"
-epigrafe: "REQUISITOS"
+epigrafe: "Requisitos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo IV|CAPÍTULO IV - INSPECCIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 186. REQUISITOS
+## Artículo 186. Requisitos
 
 La inspección disciplinaria se decretará por medio de providencia que exprese con claridad el objeto de la diligencia, así como el lugar de su realización. Al disciplinable se le informará la fecha y hora de la diligencia. Durante el trámite de la inspección, de oficio o a petición de cualquier sujeto procesal, se podrán ampliar los aspectos objeto de la misma.
 

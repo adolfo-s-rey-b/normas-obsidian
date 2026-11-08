@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 36 Ley 489 de 1998|Artículo 36]] — SISTEMA GENERAL DE INFORMACION ADMINISTRATIVA
-- [[art. 37 Ley 489 de 1998|Artículo 37]] — SISTEMA DE INFORMACION DE LAS ENTIDADES Y ORGANISMOS
+- [[art. 36 Ley 489 de 1998|Artículo 36]] — Sistema General de Información Administrativa
+- [[art. 37 Ley 489 de 1998|Artículo 37]] — Sistema de información de las entidades y organismos
 
 ---
 ← [[Ley 489 de 1998 - Capítulo VIII|Capítulo VIII]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo X|Capítulo X]] →

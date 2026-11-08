@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "450"
-epigrafe: "ACUSADO NO PRIVADO DE LA LIBERTAD"
+epigrafe: "Acusado no privado de la libertad"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo V|CAPÍTULO V - DECISIÓN O SENTIDO DEL FALLO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 450. ACUSADO NO PRIVADO DE LA LIBERTAD
+## Artículo 450. Acusado no privado de la libertad
 
 Si al momento de anunciar el sentido del fallo el acusado declarado culpable no se hallare detenido, el juez podrá disponer que continúe en libertad hasta el momento de dictar sentencia.
 

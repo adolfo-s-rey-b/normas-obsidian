@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "258"
-epigrafe: "AUDIENCIA INICIAL: DE CONCILIACIÓN, DECISIÓN DE EXCEPCIONES PREVIAS, SANEAMIENTO, FIJACIÓN DEL LITIGIO Y DECRETO DE PRUEBAS"
+epigrafe: "Audiencia inicial: de conciliación, decisión de excepciones previas, saneamiento, fijación del litigio y decreto de pruebas"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 258. AUDIENCIA INICIAL: DE CONCILIACIÓN, DECISIÓN DE EXCEPCIONES PREVIAS, SANEAMIENTO, FIJACIÓN DEL LITIGIO Y DECRETO DE PRUEBAS
+## Artículo 258. Audiencia inicial: de conciliación, decisión de excepciones previas, saneamiento, fijación del litigio y decreto de pruebas
 
 Contestada la demanda principal y la de reconvención si la hubiere, o cuando no hayan sido contestadas en el término legal, el juez señalará fecha y hora para que las partes comparezcan personal o virtualmente, con o sin apoderado, a audiencia pública, que será dirigida por el juez, previo el examen completo del expediente.
 

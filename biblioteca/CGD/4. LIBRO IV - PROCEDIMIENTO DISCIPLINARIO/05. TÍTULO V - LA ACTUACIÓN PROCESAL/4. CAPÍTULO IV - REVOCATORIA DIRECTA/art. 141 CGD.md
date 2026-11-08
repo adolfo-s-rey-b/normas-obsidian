@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "141"
-epigrafe: "PROCEDENCIA DE LA REVOCATORIA DIRECTA"
+epigrafe: "Procedencia de la revocatoria directa"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo IV|CAPÍTULO IV - REVOCATORIA DIRECTA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 141. PROCEDENCIA DE LA REVOCATORIA DIRECTA
+## Artículo 141. Procedencia de la revocatoria directa
 
 Los fallos sancionatorios que dicten las personerías y oficinas de control interno disciplinario podrán ser revocados de oficio o a petición del interesado, por la Procuraduría General de la Nación, según las competencias internas.
 

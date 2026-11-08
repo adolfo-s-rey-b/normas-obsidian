@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "99"
-epigrafe: "CONFLICTO DE COMPETENCIAS"
+epigrafe: "Conflicto de competencias"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 99. CONFLICTO DE COMPETENCIAS
+## Artículo 99. Conflicto de competencias
 
 El funcionario que se considere incompetente para conocer de una actuación disciplinaria deberá expresarlo remitiendo el expediente en el estado en que se encuentre, en el menor tiempo posible, a quien por disposición legal tenga atribuida la competencia.
 

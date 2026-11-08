@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "38"
-epigrafe: "ASPECTOS GENERALES"
+epigrafe: "Aspectos Generales"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XI|CAPÍTULO XI - ENTIDADES ASEGURADORAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XI|Capítulo XI]]
 
-## Artículo 38. ASPECTOS GENERALES
+## Artículo 38. Aspectos Generales
 
 1\. Principios orientadores. El presente Estatuto establece las directrices generales para la actividad aseguradora en Colombia, la cual se encuentra sujeta a supervisión estatal, ejercida por la Superintendencia Bancaria; procura tutelar los derechos de los tomadores, de los asegurados y crear condiciones apropiadas para el desarrollo del mercado asegurador, así como una competencia sana de las instituciones que participan en él.
 

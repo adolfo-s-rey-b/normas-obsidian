@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "129"
-epigrafe: "FIRMA DE PROVIDENCIAS, CONCEPTOS, DICTÁMENES, SALVAMENTOS DE VOTO Y ACLARACIONES DE VOTO"
+epigrafe: "Firma de providencias, conceptos, dictámenes, salvamentos de voto y aclaraciones de voto"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo V|CAPÍTULO V - DECISIONES EN LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 129. FIRMA DE PROVIDENCIAS, CONCEPTOS, DICTÁMENES, SALVAMENTOS DE VOTO Y ACLARACIONES DE VOTO
+## Artículo 129. Firma de providencias, conceptos, dictámenes, salvamentos de voto y aclaraciones de voto
 
 Las providencias, conceptos o dictámenes del Consejo de Estado, o de sus salas, secciones, subsecciones, o de los Tribunales Administrativos, o de cualquiera de sus secciones, una vez acordados, deberán ser firmados por los miembros de la corporación que hubieran intervenido en su adopción, aún por los que hayan disentido. Al pie de la providencia, concepto o dictamen se dejará constancia de los Magistrados ausentes. Quienes participaron en las deliberaciones, pero no en la votación del proyecto, no tendrán derecho a votarlo.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "104"
-epigrafe: "INFORMACION PERIODICA"
+epigrafe: "Información Periódica"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XVI|CAPÍTULO XVI - PREVENCION DE ACTIVIDADES DELICTIVAS]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 104. INFORMACION PERIODICA
+## Artículo 104. Información Periódica
 
 Toda institución financiera deberá informar a la Unidad de Información y Análisis Financiero (UIAF), la totalidad de las transacciones en efectivo de que trata el artículo anterior, conforme a las instrucciones que al efecto imparta la Superintendencia Bancaria, en aplicación del artículo [[art. 10 Ley 526 de 1999|10]] de la Ley 526 de 1999.
 

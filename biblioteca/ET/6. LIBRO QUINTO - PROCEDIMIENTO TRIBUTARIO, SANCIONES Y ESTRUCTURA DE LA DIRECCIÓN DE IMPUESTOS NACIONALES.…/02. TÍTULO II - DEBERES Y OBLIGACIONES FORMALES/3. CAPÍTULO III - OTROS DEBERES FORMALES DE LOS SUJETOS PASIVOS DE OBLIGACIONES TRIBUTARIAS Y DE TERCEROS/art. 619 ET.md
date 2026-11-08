@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "619"
-epigrafe: "EN LA CORRESPONDENCIA, FACTURAS Y DEMAS DOCUMENTOS SE DEBE INFORMAR EL NIT"
+epigrafe: "EN LA CORRESPONDENCIA, FACTURAS Y DEMÁS DOCUMENTOS SE DEBE INFORMAR EL NIT"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo III|CAPÍTULO III - OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 619. EN LA CORRESPONDENCIA, FACTURAS Y DEMAS DOCUMENTOS SE DEBE INFORMAR EL NIT
+## Artículo 619. EN LA CORRESPONDENCIA, FACTURAS Y DEMÁS DOCUMENTOS SE DEBE INFORMAR EL NIT
 
 En los membretes de la correspondencia, facturas, recibos y demás documentos de toda empresa y de toda persona natural o entidad de cualquier naturaleza, que reciba pagos en razón de su objeto, actividad o profesión, deberá imprimirse o indicarse, junto con el nombre del empresario o profesional, el correspondiente número de identificación tributaria.
 

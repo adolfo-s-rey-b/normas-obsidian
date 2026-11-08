@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "234"
-epigrafe: "TRÁMITE DE LA SEGUNDA INSTANCIA"
+epigrafe: "Tramite de la segunda instancia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo VI|CAPÍTULO VI - SEGUNDA INSTANCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo VI|Capítulo VI]]
 
-## Artículo 234. TRÁMITE DE LA SEGUNDA INSTANCIA
+## Artículo 234. Tramite de la segunda instancia
 
 El funcionario de segunda instancia deberá decidir por escrito dentro de los cuarenta y cinco (45) días siguientes a la fecha en que hubiere recibido el proceso.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "214"
-epigrafe: "INSPECCIÓN DE CADÁVER"
+epigrafe: "Inspección de cadáver"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 214. INSPECCIÓN DE CADÁVER
+## Artículo 214. Inspección de cadáver
 
 En caso de homicidio o de hecho que se presuma como tal, la policía judicial inspeccionará el lugar y embalará técnicamente el cadáver, de acuerdo con los manuales de criminalística. Este se identificará por cualquiera de los métodos previstos en este código y se trasladará al centro médico legal con la orden de que se practique la necropsia.
 

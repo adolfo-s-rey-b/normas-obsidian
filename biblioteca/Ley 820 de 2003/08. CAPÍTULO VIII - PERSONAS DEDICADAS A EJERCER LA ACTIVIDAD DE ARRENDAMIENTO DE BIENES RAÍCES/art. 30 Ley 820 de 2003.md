@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "30"
-epigrafe: "TÉRMINO PARA SOLICITAR LA MATRÍCULA"
+epigrafe: "Término para solicitar la matrícula"
 capitulo: "[[Ley 820 de 2003 - Capítulo VIII|CAPÍTULO VIII - PERSONAS DEDICADAS A EJERCER LA ACTIVIDAD DE ARRENDAMIENTO DE BIENES RAÍCES]]"
 vigencia: "vigente"
 anterior: "[[art. 29 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 30. TÉRMINO PARA SOLICITAR LA MATRÍCULA
+## Artículo 30. Término para solicitar la matrícula
 
 Las personas a que se refiere el artículo [[art. 28 Ley 820 de 2003|28]] que no se encuentren registradas ante la autoridad competente, deberán hacerlo a más tardar dentro de los tres (3) meses siguientes contados a partir de la fecha de vigencia de la presente ley. Quienes ya se encuentren inscritos, deberán igualmente actualizar los datos señalados en el artículo anterior, dentro del mismo término.
 

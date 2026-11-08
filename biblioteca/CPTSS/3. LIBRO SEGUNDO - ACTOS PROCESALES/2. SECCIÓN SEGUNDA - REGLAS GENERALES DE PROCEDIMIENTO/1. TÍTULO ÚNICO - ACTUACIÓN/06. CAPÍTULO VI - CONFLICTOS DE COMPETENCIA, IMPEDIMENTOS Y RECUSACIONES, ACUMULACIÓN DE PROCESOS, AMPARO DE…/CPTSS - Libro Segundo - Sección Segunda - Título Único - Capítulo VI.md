@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 97 CPTSS|Artículo 97]] — CONFLICTOS DE COMPETENCIA Y TRÁMITE
+- [[art. 97 CPTSS|Artículo 97]] — Conflictos de competencia y trámite
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo V|Capítulo V]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]] →

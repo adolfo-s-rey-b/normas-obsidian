@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "21"
-epigrafe: "NOTIFICACION DEL AUTO ADMISORIO DE LA DEMANDA"
+epigrafe: "Notificación del Auto Admisorio de la Demanda"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo V|CAPÍTULO V - ADMISION, NOTIFICACION Y TRASLADO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 21. NOTIFICACION DEL AUTO ADMISORIO DE LA DEMANDA
+## Artículo 21. Notificación del Auto Admisorio de la Demanda
 
 En el auto que admita la demanda el juez ordenará su notificación personal al demandado. A los miembros de la comunidad se les podrá informar a través de un medio masivo de comunicación o de cualquier mecanismo eficaz, habida cuenta de los eventuales beneficiarios.
 

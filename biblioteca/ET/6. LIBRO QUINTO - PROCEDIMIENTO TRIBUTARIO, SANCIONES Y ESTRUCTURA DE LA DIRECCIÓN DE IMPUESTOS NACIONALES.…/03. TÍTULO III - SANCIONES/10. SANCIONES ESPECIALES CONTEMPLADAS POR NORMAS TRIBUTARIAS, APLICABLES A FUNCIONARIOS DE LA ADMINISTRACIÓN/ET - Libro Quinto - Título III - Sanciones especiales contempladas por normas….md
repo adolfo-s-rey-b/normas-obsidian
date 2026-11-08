@@ -25,8 +25,8 @@ tags:
 
 - [[art. 679 ET|Artículo 679]] — INCUMPLIMIENTO DE DEBERES
 - [[art. 680 ET|Artículo 680]] — VIOLACIÓN MANIFIESTA DE LA LEY
-- [[art. 681 ET|Artículo 681]] — PRETERMISION DE TERMINOS
-- [[art. 682 ET|Artículo 682]] — INCUMPLIMIENTO DE LOS TERMINOS PARA DEVOLVER
+- [[art. 681 ET|Artículo 681]] — PRETERMISIÓN DE TÉRMINOS
+- [[art. 682 ET|Artículo 682]] — INCUMPLIMIENTO DE LOS TÉRMINOS PARA DEVOLVER
 
 ---
 ← [[ET - Libro Quinto - Título III - Sanciones a entidades autorizadas para recaudar…|Sanciones a entidades autorizadas para recaudar…]] · ↑ [[ET - Libro Quinto - Título III|Título III]]

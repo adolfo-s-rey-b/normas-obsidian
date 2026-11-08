@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "251"
-epigrafe: "DOCUMENTOS EN IDIOMA EXTRANJERO Y OTORGADOS EN EL EXTRANJERO"
+epigrafe: "Documentos en idioma extranjero y otorgados en el extranjero"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 251. DOCUMENTOS EN IDIOMA EXTRANJERO Y OTORGADOS EN EL EXTRANJERO
+## Artículo 251. Documentos en idioma extranjero y otorgados en el extranjero
 
 Para que los documentos extendidos en idioma distinto del castellano puedan apreciarse como prueba se requiere que obren en el proceso con su correspondiente traducción efectuada por el Ministerio de Relaciones Exteriores, por un intérprete oficial o por traductor designado por el juez. En los dos primeros casos la traducción y su original podrán ser presentados directamente. En caso de presentarse controversia sobre el contenido de la traducción, el juez designará un traductor.
 

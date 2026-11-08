@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "16"
-epigrafe: "EXTRATERRITORIALIDAD"
+epigrafe: "Extraterritorialidad"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título II|TÍTULO II - DE LA APLICACIÓN DE LA LEY PENAL]]"
 capitulo: "[[CP - Libro Primero - Título II - Capítulo Unico|CAPÍTULO UNICO - APLICACIÓN DE LA LEY PENAL EN EL ESPACIO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título II|Título II]] › [[CP - Libro Primero - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 16. EXTRATERRITORIALIDAD
+## Artículo 16. Extraterritorialidad
 
 La ley penal colombiana se aplicará:
 

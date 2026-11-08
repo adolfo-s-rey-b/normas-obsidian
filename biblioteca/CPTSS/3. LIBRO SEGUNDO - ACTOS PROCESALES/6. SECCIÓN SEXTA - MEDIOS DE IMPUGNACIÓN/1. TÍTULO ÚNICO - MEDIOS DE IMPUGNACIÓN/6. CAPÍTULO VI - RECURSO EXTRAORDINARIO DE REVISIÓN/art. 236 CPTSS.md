@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "236"
-epigrafe: "TÉRMINO PARA INTERPONER EL RECURSO"
+epigrafe: "Término para interponer el recurso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 236. TÉRMINO PARA INTERPONER EL RECURSO
+## Artículo 236. Término para interponer el recurso
 
 El recurso deberá interponerse dentro de los cinco (5) años siguientes a la ejecutoria de la sentencia laboral o de la conciliación, o transacción según el caso.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "19"
-epigrafe: "PETICIONES IRRESPETUOSAS, OSCURAS O REITERATIVAS"
+epigrafe: "Peticiones irrespetuosas, oscuras o reiterativas"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 19. PETICIONES IRRESPETUOSAS, OSCURAS O REITERATIVAS
+## Artículo 19. Peticiones irrespetuosas, oscuras o reiterativas
 
 Toda petición debe ser respetuosa so pena de rechazo. Solo cuando no se comprenda la finalidad u objeto de la petición esta se devolverá al interesado para que la corrija o aclare dentro de los diez (10) días siguientes. En caso de no corregirse o aclararse, se archivará la petición. En ningún caso se devolverán peticiones que se consideren inadecuadas o incompletas.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "8"
-epigrafe: "DEFENSA"
+epigrafe: "Defensa"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 7 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 8. DEFENSA
+## Artículo 8. Defensa
 
 > [!note] Aparte subrayado CONDICIONALMENTE exequible
 

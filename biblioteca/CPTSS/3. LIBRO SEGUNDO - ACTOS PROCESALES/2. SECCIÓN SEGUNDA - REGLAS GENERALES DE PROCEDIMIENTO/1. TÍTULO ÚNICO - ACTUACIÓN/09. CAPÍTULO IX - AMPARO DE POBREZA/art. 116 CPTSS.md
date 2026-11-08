@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "116"
-epigrafe: "TERMINACIÓN DEL AMPARO"
+epigrafe: "Terminación del amparo"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 116. TERMINACIÓN DEL AMPARO
+## Artículo 116. Terminación del amparo
 
 A solicitud de parte, en cualquier estado del proceso podrá declararse terminado el amparo de pobreza, si se prueba que han cesado los motivos para su concesión. A la misma se acompañarán las pruebas correspondientes, y será resuelta previo traslado de tres (3) días a la parte contraria, dentro de los cuales podrá esta presentar pruebas; el juez practicará las pruebas que considere necesarias. En caso de que la solicitud no prospere, al peticionario y a su apoderado se les impondrá sendas multas de un salario mínimo mensual.
 

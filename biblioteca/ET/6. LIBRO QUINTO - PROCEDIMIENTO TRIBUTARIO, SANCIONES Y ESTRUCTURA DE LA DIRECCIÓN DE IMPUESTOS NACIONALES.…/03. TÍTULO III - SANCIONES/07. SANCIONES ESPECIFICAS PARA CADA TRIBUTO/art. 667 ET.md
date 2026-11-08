@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "667"
-epigrafe: "SANCIÓN POR NO EXPEDIR CERTIFICADOS"
+epigrafe: "Sanción por no expedir certificados"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones especificas para cada tributo|SANCIONES ESPECIFICAS PARA CADA TRIBUTO]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones especificas para cada tributo|Sanciones especificas para cada tributo]]
 
-## Artículo 667. SANCIÓN POR NO EXPEDIR CERTIFICADOS
+## Artículo 667. Sanción por no expedir certificados
 
 Los agentes retenedores que, dentro del plazo establecido por el Gobierno nacional, no cumplan con la obligación de expedir los certificados de retención en la fuente, incluido el certificado de ingresos y retenciones, incurrirán en una multa equivalente al cinco por ciento (5%) del valor de los pagos o abonos correspondientes a los certificados no expedidos. La misma sanción será aplicable a las entidades que no expidan el certificado de la parte no gravable de los rendimientos financieros pagados a los ahorradores.
 

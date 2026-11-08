@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "97"
-epigrafe: "EL FACTOR TERRITORIAL"
+epigrafe: "El factor territorial"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 97. EL FACTOR TERRITORIAL
+## Artículo 97. El factor territorial
 
 Es competente en materia disciplinaria el funcionario del territorio donde se realizó la conducta.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "300"
-epigrafe: "EXTENSIÓN DE PROCEDIMIENTO A LOS FUEROS"
+epigrafe: "Extensión de procedimiento a los fueros"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|TÍTULO TERCERO - PROCESOS DE FUERO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo II|Capítulo II]]
 
-## Artículo 300. EXTENSIÓN DE PROCEDIMIENTO A LOS FUEROS
+## Artículo 300. Extensión de procedimiento a los fueros
 
 Se tramitarán por el procedimiento establecido en los artículos [[art. 293 CPTSS|293]] a [[art. 297 CPTSS|297]] que anteceden, los asuntos donde se pretenda el reintegro del trabajador, relativos a estabilidad reforzada, entre otros, los siguientes que se enuncian:
 

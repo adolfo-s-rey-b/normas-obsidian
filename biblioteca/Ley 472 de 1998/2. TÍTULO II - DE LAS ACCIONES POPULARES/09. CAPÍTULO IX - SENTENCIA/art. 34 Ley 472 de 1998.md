@@ -7,7 +7,7 @@ articulo: "34"
 epigrafe: "SENTENCIA"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo IX|CAPÍTULO IX - SENTENCIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 34 Ley 472 de 1998]]"
   - "[[art. 1425 Ley 472 de 1998]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_472_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo IX|Capítulo IX]]

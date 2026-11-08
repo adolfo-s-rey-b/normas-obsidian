@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "1"
-epigrafe: "DEFINICIÓN, MODALIDADES Y PRINCIPIOS"
+epigrafe: "Definición, modalidades y principios"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 1. DEFINICIÓN, MODALIDADES Y PRINCIPIOS
+## Artículo 1. Definición, modalidades y principios
 
 El arbitraje es un mecanismo alternativo de solución de conflictos mediante el cual las partes defieren a árbitros la solución de una controversia relativa a asuntos de libre disposición o aquellos que la ley autorice.
 

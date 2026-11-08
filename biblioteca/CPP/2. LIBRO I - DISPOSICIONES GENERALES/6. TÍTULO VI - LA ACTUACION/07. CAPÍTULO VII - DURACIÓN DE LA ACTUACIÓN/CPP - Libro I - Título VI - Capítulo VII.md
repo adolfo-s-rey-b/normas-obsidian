@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 175 CPP|Artículo 175]] — DURACIÓN DE LOS PROCEDIMIENTOS
+- [[art. 175 CPP|Artículo 175]] — Duración de los procedimientos
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo VI|Capítulo VI]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo VIII|Capítulo VIII]] →

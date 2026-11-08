@@ -15,7 +15,7 @@ libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMEN
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VII|CAPÍTULO VII - RENTAS EXENTAS]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo VII - Intransferibilidad de las rentas exentas|INTRANSFERIBILIDAD DE LAS RENTAS EXENTAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 91 Ley 2010 de 2019]]"
   - "[[art. 64 Ley 1955 de 2019]]"
@@ -63,7 +63,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VII|Capítulo VII]] › [[ET - Libro Primero - Título I - Capítulo VII - Intransferibilidad de las rentas exentas|Intransferibilidad de las rentas exentas]]
@@ -74,13 +74,13 @@ RENTAS EXENTAS A PARTIR DEL AÑO GRAVABLE 2019. Sin perjuicio de las rentas exen
 
 > [!info] Artículo modificado por el artículo [[art. 91 Ley 2010 de 2019|91]] de la Ley 2010 de 2019. El nuevo texto es el siguiente:
 
-1.
+1\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022
 
 > [!warning] Notas de Vigencia: Numeral derogado a partir del 1 de enero de 2023 por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022, 'por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.247 de 13 de diciembre de 2022. Establece el mismo artículo [[art. 96 Ley 2277 de 2022|96]] : 'Los contribuyentes que hubieren acreditado las condiciones para acceder a las tarifas diferenciales y demás beneficios tributarios derogados o limitados mediante la presente ley, podrán disfrutar del respectivo tratamiento durante la totalidad del término otorgado en la legislación bajo la cual se consolidaron las respectivas situaciones jurídicas, en cuanto ello corresponda.' - Inciso 1o. y literal b) modificados por el artículo [[art. 44 Ley 2155 de 2021|44]] y literal f) derogado por el artículo [[art. 65 Ley 2155 de 2021|65]] de la Ley 2155 de 2021, 'por medio de la cual se expide la Ley de Inversión Social y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.797 de 14 de septiembre de 2021.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022
 
@@ -126,13 +126,13 @@ iv) El plazo de la fiducia mercantil a través del cual se desarrolla el proyect
 
 Los mismos requisitos establecidos en este literal serán aplicables cuando se pretenda acceder a la exención prevista por la enajenación de predios para proyectos de renovación urbana.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022
 
 > [!warning] Notas de Vigencia: Numeral derogado a partir del 1 de enero de 2023 por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022, 'por medio de la cual se adopta una reforma tributaria para la igualdad y la justicia social y se dictan otras disposiciones', publicada en el Diario Oficial No. 52.247 de 13 de diciembre de 2022. Establece el mismo artículo [[art. 96 Ley 2277 de 2022|96]] : 'Los contribuyentes que hubieren acreditado las condiciones para acceder a las tarifas diferenciales y demás beneficios tributarios derogados o limitados mediante la presente ley, podrán disfrutar del respectivo tratamiento durante la totalidad del término otorgado en la legislación bajo la cual se consolidaron las respectivas situaciones jurídicas, en cuanto ello corresponda.'
 
-6.
+6\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 96 Ley 2277 de 2022|96]] de la Ley 2277 de 2022
 

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 66 EOSF|Artículo 66]] — ASPECTOS GENERALES DE LA CONVERSION
-- [[art. 67 EOSF|Artículo 67]] — ESCISION
+- [[art. 66 EOSF|Artículo 66]] — Aspectos Generales de la Conversión
+- [[art. 67 EOSF|Artículo 67]] — Escisión
 
 ---
 ↑ [[EOSF - Parte III - Capítulo IV|Capítulo IV]]

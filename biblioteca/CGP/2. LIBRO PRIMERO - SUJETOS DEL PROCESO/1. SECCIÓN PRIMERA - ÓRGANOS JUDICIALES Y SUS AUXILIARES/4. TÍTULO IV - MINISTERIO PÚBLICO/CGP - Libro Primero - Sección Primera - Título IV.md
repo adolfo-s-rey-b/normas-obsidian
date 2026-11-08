@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 45 CGP|Artículo 45]] — MINISTERIO PÚBLICO
-- [[art. 46 CGP|Artículo 46]] — FUNCIONES DEL MINISTERIO PÚBLICO
+- [[art. 45 CGP|Artículo 45]] — Ministerio Público
+- [[art. 46 CGP|Artículo 46]] — Funciones del Ministerio Público
 
 ---
 ← [[CGP - Libro Primero - Sección Primera - Título III|Título III]] · ↑ [[CGP - Libro Primero - Sección Primera|Sección Primera]] · [[CGP - Libro Primero - Sección Primera - Título V|Título V]] →

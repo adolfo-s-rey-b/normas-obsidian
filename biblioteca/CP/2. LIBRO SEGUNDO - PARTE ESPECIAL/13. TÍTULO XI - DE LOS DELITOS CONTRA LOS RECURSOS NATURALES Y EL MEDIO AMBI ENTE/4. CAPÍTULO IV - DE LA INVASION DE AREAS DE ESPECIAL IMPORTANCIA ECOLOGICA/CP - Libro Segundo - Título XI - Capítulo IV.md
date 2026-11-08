@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 336 CP|Artículo 336]] — INVASIÓN DE ÁREAS DE ESPECIAL IMPORTANCIA ECOLÓGICA
-- [[art. 336A CP|Artículo 336A]] — FINANCIACIÓN DE INVASIÓN A ÁREAS DE ESPECIAL IMPORTANCIA ECOLÓGICA
+- [[art. 336 CP|Artículo 336]] — Invasión de areas de especial importancia ecologica
+- [[art. 336A CP|Artículo 336A]] — Financiación de invasión a areas de especial importancia ecologica
 
 ---
 ← [[CP - Libro Segundo - Título XI - Capítulo III|Capítulo III]] · ↑ [[CP - Libro Segundo - Título XI|Título XI]] · [[CP - Libro Segundo - Título XI - Capítulo V|Capítulo V]] →

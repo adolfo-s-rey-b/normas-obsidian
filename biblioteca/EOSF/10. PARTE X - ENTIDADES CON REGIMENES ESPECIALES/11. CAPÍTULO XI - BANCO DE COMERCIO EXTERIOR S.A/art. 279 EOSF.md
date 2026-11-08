@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "279"
-epigrafe: "NATURALEZA JURIDICA"
+epigrafe: "Naturaleza Jurídica"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 279. NATURALEZA JURIDICA
+## Artículo 279. Naturaleza Jurídica
 
 1\. Naturaleza jurídica. El Banco de Comercio Exterior, creado por el artículo [[art. 21 EOSF|21]] de la Ley 7a. de 1991, es una sociedad de economía mixta del orden nacional, organizada como establecimiento de crédito bancario, vinculada al Ministerio de Comercio Exterior. El Banco de Comercio Exterior de Colombia S.A., (Bancoldex), continuará sometiéndose exclusivamente al régimen propio de las sociedades de economía mixta no asimilado al de las empresas industriales y comerciales del Estado, independientemente de la participación del capital público en su patrimonio.
 

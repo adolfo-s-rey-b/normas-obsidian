@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "52"
-epigrafe: "CONTROL, INSPECCIÓN Y VIGILANCIA"
+epigrafe: "Control, inspección y vigilancia"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VI|CAPÍTULO VI - CENTROS DE ARBITRAJE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VI|Capítulo VI]]
 
-## Artículo 52. CONTROL, INSPECCIÓN Y VIGILANCIA
+## Artículo 52. Control, inspección y vigilancia
 
 El Ministerio de Justicia y del Derecho ejercerá el control, inspección y vigilancia de los centros de arbitraje.
 

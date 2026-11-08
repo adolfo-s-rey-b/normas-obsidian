@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "117"
-epigrafe: "INVESTIGACION"
+epigrafe: "Investigación"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVII|CAPÍTULO XVII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 116 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVII|Capítulo XVII]]
 
-## Artículo 117. INVESTIGACION
+## Artículo 117. Investigación
 
 Para mejorar procesos y resultados y para producir factores de desarrollo, las entidades públicas dispondrán lo necesario al impulso de su perfeccionamiento mediante investigaciones sociales, económicas y/o culturales según sus áreas de competencia, teniendo en cuenta tendencias internacionales y de futuro.
 

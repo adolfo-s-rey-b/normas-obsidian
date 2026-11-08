@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "413"
-epigrafe: "ESTA RETENCIÓN SE APLICARA A PARTIR DEL 24 DE DICIEMBRE DE 1986"
+epigrafe: "ESTA RETENCIÓN SE APLICARÁ A PARTIR DEL 24 DE DICIEMBRE DE 1986"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IX|CAPÍTULO IX - POR PAGOS AL EXTERIOR]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IX|Capítulo IX]] › [[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de renta|A título del impuesto de renta]]
 
-## Artículo 413. ESTA RETENCIÓN SE APLICARA A PARTIR DEL 24 DE DICIEMBRE DE 1986
+## Artículo 413. ESTA RETENCIÓN SE APLICARÁ A PARTIR DEL 24 DE DICIEMBRE DE 1986
 
 Las disposiciones referidas a los contratos Llave en mano, contratos de prestación de servicios técnicos, y demás contratos de confección de obra material, se aplicarán únicamente a los contratos que se celebren, modifiquen o prorroguen a partir del 24 de diciembre de 1986. En lo relativo a las modificaciones o prórrogas de contratos celebrados con anterioridad a esa fecha, las disposiciones de tales artículos se aplicarán únicamente sobre los valores que se deriven de dichas modificaciones o prórrogas.
 

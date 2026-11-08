@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "84"
-epigrafe: "MODIFICACIÓN, SUSPENSIÓN Y REVOCACIÓN DE MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES"
+epigrafe: "Modificación, suspensión y revocación de medidas cautelares y órdenes preliminares"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 84. MODIFICACIÓN, SUSPENSIÓN Y REVOCACIÓN DE MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES
+## Artículo 84. Modificación, suspensión y revocación de medidas cautelares y órdenes preliminares
 
 El tribunal arbitral podrá modificar, suspender o revocar toda medida cautelar u orden preliminar que haya decretado, ya sea a instancia de alguna de las partes o, en circunstancias excepcionales, por iniciativa propia, previa notificación de ello a las partes.
 

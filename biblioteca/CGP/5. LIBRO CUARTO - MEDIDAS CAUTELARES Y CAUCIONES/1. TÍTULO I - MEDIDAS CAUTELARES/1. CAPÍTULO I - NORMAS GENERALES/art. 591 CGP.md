@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "591"
-epigrafe: "INSCRIPCIÓN DE LA DEMANDA"
+epigrafe: "Inscripción de la demanda"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 591. INSCRIPCIÓN DE LA DEMANDA
+## Artículo 591. Inscripción de la demanda
 
 Para la inscripción de la demanda remitirá comunicación a la autoridad competente de llevar el registro haciéndole saber quiénes son las partes en el proceso, el objeto de este, el nombre, nomenclatura, situación de dichos bienes y el folio de matrícula o datos del registro si aquella no existiere. El registrador se abstendrá de inscribir la demanda si el bien no pertenece al demandado.
 

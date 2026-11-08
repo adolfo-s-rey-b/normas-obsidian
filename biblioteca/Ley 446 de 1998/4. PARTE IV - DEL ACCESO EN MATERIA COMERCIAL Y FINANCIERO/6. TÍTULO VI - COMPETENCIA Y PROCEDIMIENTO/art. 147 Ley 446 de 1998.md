@@ -4,10 +4,10 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "147"
-epigrafe: "COMPETENCIA A PREVENCION"
+epigrafe: "Competencia a prevención"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título VI|TÍTULO VI - COMPETENCIA Y PROCEDIMIENTO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 anterior: "[[art. 146 Ley 446 de 1998]]"
 siguiente: "[[art. 148 Ley 446 de 1998]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0446_1998.html"
@@ -20,12 +20,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título VI|Título VI]]
 
-## Artículo 147. COMPETENCIA A PREVENCION
+## Artículo 147. Competencia a prevención
 
 (Artículo incorporado en el Artículo [[art. 326 Ley 446 de 1998|326]] Numeral 8o. del Estatuto Orgánico del Sistema Financiero)
 

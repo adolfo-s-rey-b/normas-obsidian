@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "22"
-epigrafe: "REGLAS GENERALES"
+epigrafe: "Reglas generales"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 22. REGLAS GENERALES
+## Artículo 22. Reglas generales
 
 La comisión solo podrá conferirse para la práctica de pruebas en los casos que autoriza el artículo [[art. 5 CPTSS|5]]o de este código, para la de otras diligencias que deban surtirse fuera de la sede del juez del conocimiento, y para secuestro y entrega de bienes en dicha sede, en cuanto fuere menester. No podrá comisionarse para la práctica de medidas cautelares extraprocesales.
 

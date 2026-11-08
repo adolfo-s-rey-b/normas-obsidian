@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "235"
-epigrafe: "LEVANTAMIENTO, MODIFICACIÓN Y REVOCATORIA DE LA MEDIDA CAUTELAR"
+epigrafe: "Levantamiento, modificación y revocatoria de la medida cautelar"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 235. LEVANTAMIENTO, MODIFICACIÓN Y REVOCATORIA DE LA MEDIDA CAUTELAR
+## Artículo 235. Levantamiento, modificación y revocatoria de la medida cautelar
 
 El demandado o el afectado con la medida podrá solicitar el levantamiento de la medida cautelar prestando caución a satisfacción del Juez o Magistrado Ponente en los casos en que ello sea compatible con la naturaleza de la medida, para garantizar la reparación de los daños y perjuicios que se llegaren a causar.
 

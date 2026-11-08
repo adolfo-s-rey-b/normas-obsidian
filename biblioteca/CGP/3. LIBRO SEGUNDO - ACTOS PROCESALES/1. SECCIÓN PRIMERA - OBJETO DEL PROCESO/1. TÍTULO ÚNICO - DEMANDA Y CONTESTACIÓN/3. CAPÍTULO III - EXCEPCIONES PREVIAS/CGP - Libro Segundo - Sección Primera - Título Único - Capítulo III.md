@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 100 CGP|Artículo 100]] — EXCEPCIONES PREVIAS
-- [[art. 101 CGP|Artículo 101]] — OPORTUNIDAD Y TRÁMITE DE LAS EXCEPCIONES PREVIAS
-- [[art. 102 CGP|Artículo 102]] — INOPONIBILIDAD POSTERIOR DE LOS MISMOS HECHOS
+- [[art. 100 CGP|Artículo 100]] — Excepciones previas
+- [[art. 101 CGP|Artículo 101]] — Oportunidad y trámite de las excepciones previas
+- [[art. 102 CGP|Artículo 102]] — Inoponibilidad posterior de los mismos hechos
 
 ---
 ← [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]]

@@ -4,11 +4,11 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "100"
-epigrafe: "TRÁMITE DE LA AUDIENCIA DE DESCARGOS"
+epigrafe: "Trámite de la audiencia de descargos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 141 Decreto 403 de 2020]]"
   - "[[art. 95 Ley 270 de 1996]]"
@@ -24,12 +24,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]]
 
-## Artículo 100. TRÁMITE DE LA AUDIENCIA DE DESCARGOS
+## Artículo 100. Trámite de la audiencia de descargos
 
 La audiencia de descargos se tramitará conforme a las siguientes reglas:
 

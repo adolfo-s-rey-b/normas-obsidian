@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "27"
-epigrafe: "RESPONSABILIDAD DE ADMINISTRADORES"
+epigrafe: "Responsabilidad de administradores"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 26 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 27. RESPONSABILIDAD DE ADMINISTRADORES
+## Artículo 27. Responsabilidad de administradores
 
 Las reglas relativas a la responsabilidad de administradores contenidas en la Ley 222 de 1995, les serán aplicables tanto al representante legal de la sociedad por acciones simplificada como a su junta directiva y demás órganos de administración, si los hubiere.
 

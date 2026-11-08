@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 249 CGD|Artículo 249]] — PRÁCTICA DE PRUEBAS POR COMISIONADO Y FACULTADES DE POLICÍA JUDICIAL
+- [[art. 249 CGD|Artículo 249]] — Practica de pruebas por comisionado y facultades de policía judicial
 
 ---
 ← [[CGD - Libro IV - Título XI - Capítulo IV|Capítulo IV]] · ↑ [[CGD - Libro IV - Título XI|Título XI]] · [[CGD - Libro IV - Título XI - Capítulo VI|Capítulo VI]] →

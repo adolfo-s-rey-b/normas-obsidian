@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "220"
-epigrafe: "FUNDAMENTO PARA LA ORDEN DE REGISTRO Y ALLANAMIENTO"
+epigrafe: "Fundamento para la orden de registro y allanamiento"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 220. FUNDAMENTO PARA LA ORDEN DE REGISTRO Y ALLANAMIENTO
+## Artículo 220. Fundamento para la orden de registro y allanamiento
 
 Sólo podrá expedirse una orden de registro y allanamiento cuando existan motivos razonablemente fundados, de acuerdo con los medios cognoscitivos previstos en este código, para concluir que la ocurrencia del delito investigado tiene como probable autor o partícipe al propietario, al simple tenedor del bien por registrar, al que transitoriamente se encontrare en él; o que en su interior se hallan los instrumentos con los que se ha cometido la infracción, o los objetos producto del ilícito.
 

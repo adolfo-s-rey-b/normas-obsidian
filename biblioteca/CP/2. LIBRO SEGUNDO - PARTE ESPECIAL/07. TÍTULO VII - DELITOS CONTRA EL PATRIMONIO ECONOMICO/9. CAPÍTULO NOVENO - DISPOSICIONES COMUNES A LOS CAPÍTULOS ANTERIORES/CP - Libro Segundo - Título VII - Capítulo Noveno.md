@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 267 CP|Artículo 267]] — CIRCUNSTANCIAS DE AGRAVACIÓN
+- [[art. 267 CP|Artículo 267]] — Circunstancias de agravacion
 - [[art. 268 CP|Artículo 268]] — Circunstancia de atenuación punitiva
-- [[art. 269 CP|Artículo 269]] — REPARACIÓN
+- [[art. 269 CP|Artículo 269]] — Reparacion
 
 ---
 ← [[CP - Libro Segundo - Título VII - Capítulo Octavo|Capítulo Octavo]] · ↑ [[CP - Libro Segundo - Título VII|Título VII]]

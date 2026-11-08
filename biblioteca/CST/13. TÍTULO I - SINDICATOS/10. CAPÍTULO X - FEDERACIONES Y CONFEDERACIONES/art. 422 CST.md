@@ -11,7 +11,7 @@ articulo: "422"
 epigrafe: "JUNTA DIRECTIVA"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo X|CAPÍTULO X - FEDERACIONES Y CONFEDERACIONES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 14 Ley 584 de 2000]]"
   - "[[art. 439 CST]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo X|Capítulo X]]

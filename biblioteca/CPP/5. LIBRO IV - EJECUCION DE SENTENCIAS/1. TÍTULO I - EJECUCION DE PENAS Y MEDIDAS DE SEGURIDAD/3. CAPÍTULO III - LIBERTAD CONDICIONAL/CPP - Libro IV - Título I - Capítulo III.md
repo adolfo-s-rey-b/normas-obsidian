@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 471 CPP|Artículo 471]] — SOLICITUD
-- [[art. 472 CPP|Artículo 472]] — DECISIÓN
-- [[art. 473 CPP|Artículo 473]] — CONDICIÓN PARA LA REVOCATORIA
+- [[art. 471 CPP|Artículo 471]] — Solicitud
+- [[art. 472 CPP|Artículo 472]] — Decisión
+- [[art. 473 CPP|Artículo 473]] — Condición para la revocatoria
 
 ---
 ← [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro IV - Título I|Título I]] · [[CPP - Libro IV - Título I - Capítulo IV|Capítulo IV]] →

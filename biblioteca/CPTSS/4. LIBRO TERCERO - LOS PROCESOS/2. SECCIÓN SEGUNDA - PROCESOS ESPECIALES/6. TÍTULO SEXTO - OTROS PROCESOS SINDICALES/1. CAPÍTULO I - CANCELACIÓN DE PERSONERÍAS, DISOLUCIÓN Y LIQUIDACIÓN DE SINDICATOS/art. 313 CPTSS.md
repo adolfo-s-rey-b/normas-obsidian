@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "313"
-epigrafe: "CANCELACIÓN DE PERSONERÍAS, DISOLUCIÓN Y LIQUIDACIÓN DE SINDICATOS"
+epigrafe: "Cancelación de personerías, disolución y liquidación de sindicatos"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|TÍTULO SEXTO - OTROS PROCESOS SINDICALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|Título Sexto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo I|Capítulo I]]
 
-## Artículo 313. CANCELACIÓN DE PERSONERÍAS, DISOLUCIÓN Y LIQUIDACIÓN DE SINDICATOS
+## Artículo 313. Cancelación de personerías, disolución y liquidación de sindicatos
 
 Las solicitudes de disolución, liquidación y cancelación de la inscripción en el registro sindical se formularán ante el juez laboral del circuito del domicilio del sindicato o a falta de este, ante el juez civil o promiscuo del circuito y se tramitarán conforme al procedimiento sumario siguiente:
 

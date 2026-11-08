@@ -7,7 +7,7 @@ articulo: "58"
 epigrafe: "SOLUCIÓN DE CONFLICTOS"
 titulo: "[[Ley 675 de 2001 - Título II|TÍTULO II - DE LA SOLUCION DE CONFLICTOS, DEL PROCEDIMIENTO PARA LAS SANCIONES, DE LOS RECURSOS Y DE LAS SANCIONES]]"
 capitulo: "[[Ley 675 de 2001 - Título II - Capítulo I|CAPÍTULO I - DE LA SOLUCIÓN DE CONFLICTOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 57 Ley 675 de 2001]]"
@@ -19,7 +19,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_675_de_2001
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 675 de 2001|Ley 675 de 2001]] › [[Ley 675 de 2001 - Título II|Título II]] › [[Ley 675 de 2001 - Título II - Capítulo I|Capítulo I]]

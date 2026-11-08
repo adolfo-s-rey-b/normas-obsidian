@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "14"
-epigrafe: "DEFENSOR PERSONAL"
+epigrafe: "Defensor Personal"
 capitulo: "[[Ley 1996 de 2019 - Capítulo II|CAPÍTULO II - MECANISMOS PARA EL EJERCICIO DE LA CAPACIDAD LEGAL Y PARA LA REALIZACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 13 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo II|Capítulo II]]
 
-## Artículo 14. DEFENSOR PERSONAL
+## Artículo 14. Defensor Personal
 
 En los casos en que la persona con discapacidad necesite apoyos, pero no tenga personas de confianza a quién designar con este fin, el juez de familia designará un defensor personal, de la Defensoría del Pueblo, que preste los apoyos requeridos para la realización de los actos jurídicos que designe el titular.
 

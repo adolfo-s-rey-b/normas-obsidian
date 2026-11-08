@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "50"
-epigrafe: "CRITERIOS PARA LA GRADUACIÓN DE LA SANCIÓN"
+epigrafe: "Criterios para la graduación de la sanción"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título V|TÍTULO V - FALTAS Y SANCIONES DISCIPLINARIAS]]"
 capitulo: "[[CGD - Libro I - Título V - Capítulo II|CAPÍTULO II - CLASIFICACIÓN Y LÍMITE DE LAS SANCIONES DISCIPLINARIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título V|Título V]] › [[CGD - Libro I - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 50. CRITERIOS PARA LA GRADUACIÓN DE LA SANCIÓN
+## Artículo 50. Criterios para la graduación de la sanción
 
 La cuantía de la multa y el término de duración de la suspensión e inhabilidad se fijarán de acuerdo con los siguientes criterios:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "78"
-epigrafe: "REGIMEN APLICABLE A LAS SOCIEDADES DE SERVICIOS TECNICOS O ADMINISTRATIVOS"
+epigrafe: "Régimen Aplicable a las Sociedades de Servicios Técnicos o Administrativos"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 78. REGIMEN APLICABLE A LAS SOCIEDADES DE SERVICIOS TECNICOS O ADMINISTRATIVOS
+## Artículo 78. Régimen Aplicable a las Sociedades de Servicios Técnicos o Administrativos
 
 Los administradores y representes legales de las sociedades de servicios técnicos o administrativos, constituidas como filiales de entidades sometidas al control y vigilancia de la Superintendencia Bancaria, no podrán ser al propio tiempo administradores o representantes legales del establecimiento matriz. No obstante podrán formar parte de su junta directiva los administradores de la matriz.
 

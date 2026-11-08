@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "109"
-epigrafe: "PRESENTACIÓN Y TRÁMITE DE MEMORIALES E INCORPORACIÓN DE ESCRITOS Y COMUNICACIONES"
+epigrafe: "Presentación y trámite de memoriales e incorporación de escritos y comunicaciones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 109. PRESENTACIÓN Y TRÁMITE DE MEMORIALES E INCORPORACIÓN DE ESCRITOS Y COMUNICACIONES
+## Artículo 109. Presentación y trámite de memoriales e incorporación de escritos y comunicaciones
 
 El secretario hará constar la fecha y hora de presentación de los memoriales y comunicaciones que reciba y los agregará al expediente respectivo; los ingresará inmediatamente al despacho solo cuando el juez deba pronunciarse sobre ellos fuera de audiencia. Sin embargo, cuando se trate del ejercicio de un recurso o de una facultad que tenga señalado un término común, el secretario deberá esperar a que este transcurra en relación con todas las partes.
 

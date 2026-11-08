@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "258"
-epigrafe: "CAUSAL"
+epigrafe: "Causal"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 258. CAUSAL
+## Artículo 258. Causal
 
 Habrá lugar al recurso extraordinario de unificación de jurisprudencia cuando la sentencia impugnada contraríe o se oponga a una sentencia de unificación del Consejo de Estado.
 

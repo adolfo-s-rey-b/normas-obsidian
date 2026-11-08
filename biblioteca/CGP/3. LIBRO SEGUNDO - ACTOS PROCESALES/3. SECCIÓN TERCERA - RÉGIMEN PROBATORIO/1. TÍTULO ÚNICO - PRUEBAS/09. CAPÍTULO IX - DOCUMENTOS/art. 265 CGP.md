@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "265"
-epigrafe: "PROCEDENCIA DE LA EXHIBICIÓN"
+epigrafe: "Procedencia de la exhibición"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 265. PROCEDENCIA DE LA EXHIBICIÓN
+## Artículo 265. Procedencia de la exhibición
 
 La parte que pretenda utilizar documentos o cosas muebles que se hallen en poder de otra parte o de un tercero, deberá solicitar, en la oportunidad para pedir pruebas, que se ordene su exhibición.
 

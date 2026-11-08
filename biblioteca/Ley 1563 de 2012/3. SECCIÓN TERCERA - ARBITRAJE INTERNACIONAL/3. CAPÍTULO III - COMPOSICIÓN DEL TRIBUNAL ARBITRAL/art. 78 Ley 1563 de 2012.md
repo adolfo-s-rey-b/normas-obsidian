@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "78"
-epigrafe: "NOMBRAMIENTO DE ÁRBITRO SUSTITUTO"
+epigrafe: "Nombramiento de árbitro sustituto"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo III|CAPÍTULO III - COMPOSICIÓN DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]]
 
-## Artículo 78. NOMBRAMIENTO DE ÁRBITRO SUSTITUTO
+## Artículo 78. Nombramiento de árbitro sustituto
 
 A falta de acuerdo de las partes, cuando un árbitro cese en su cargo en virtud de lo dispuesto en los artículos [[art. 76 Ley 1563 de 2012|76]] o [[art. 77 Ley 1563 de 2012|77]], o en los casos de renuncia por cualquier otro motivo o de remoción por acuerdo de las partes o de expiración de su encargo por cualquier otra causa, el árbitro sustituto será designado siguiendo el procedimiento por el que se designó al árbitro que se ha de sustituir.
 

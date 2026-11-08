@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "96"
-epigrafe: "FALTAS COMETIDAS POR FUNCIONARIOS DE DISTINTAS ENTIDADES"
+epigrafe: "Faltas cometidas por funcionarios de distintas entidades"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 96. FALTAS COMETIDAS POR FUNCIONARIOS DE DISTINTAS ENTIDADES
+## Artículo 96. Faltas cometidas por funcionarios de distintas entidades
 
 Cuando en la comisión de una o varias faltas conexas hubieren participado servidores públicos pertenecientes a distintas entidades, el servidor público competente de la que primero haya tenido conocimiento del hecho, informará a las demás para que inicien la respectiva acción disciplinaria.
 

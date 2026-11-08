@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "300"
-epigrafe: "CAPTURA EXCEPCIONAL POR ORDEN DE LA FISCALÍA"
+epigrafe: "Captura excepcional por orden de la Fiscalía"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 300. CAPTURA EXCEPCIONAL POR ORDEN DE LA FISCALÍA
+## Artículo 300. Captura excepcional por orden de la Fiscalía
 
 > [!info] Artículo modificado por el artículo [[art. 21 Ley 1142 de 2007|21]] de la Ley 1142 de 2007. El nuevo texto es el siguiente:
 

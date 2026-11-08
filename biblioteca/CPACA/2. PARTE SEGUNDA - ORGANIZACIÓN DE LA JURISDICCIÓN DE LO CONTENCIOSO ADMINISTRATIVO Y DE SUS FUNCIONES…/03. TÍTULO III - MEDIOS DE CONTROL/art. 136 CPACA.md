@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "136"
-epigrafe: "CONTROL INMEDIATO DE LEGALIDAD"
+epigrafe: "Control inmediato de legalidad"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 136. CONTROL INMEDIATO DE LEGALIDAD
+## Artículo 136. Control inmediato de legalidad
 
 Las medidas de carácter general que sean dictadas en ejercicio de la función administrativa y como desarrollo de los decretos legislativos durante los Estados de Excepción, tendrán un control inmediato de legalidad, ejercido por la Jurisdicción de lo Contencioso Administrativo en el lugar donde se expidan, si se tratare de entidades territoriales, o del Consejo de Estado si emanaren de autoridades nacionales, de acuerdo con las reglas de competencia establecidas en este Código.
 

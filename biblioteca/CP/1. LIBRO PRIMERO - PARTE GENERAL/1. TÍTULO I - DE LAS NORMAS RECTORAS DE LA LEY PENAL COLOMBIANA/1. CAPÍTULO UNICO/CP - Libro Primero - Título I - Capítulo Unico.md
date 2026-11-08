@@ -28,7 +28,7 @@ tags:
 - [[art. 5 CP|Artículo 5]] — Funciones de la medida de seguridad
 - [[art. 6 CP|Artículo 6]] — Legalidad
 - [[art. 7 CP|Artículo 7]] — Igualdad
-- [[art. 8 CP|Artículo 8]] — PROHIBICIÓN DE DOBLE INCRIMINACIÓN
+- [[art. 8 CP|Artículo 8]] — Prohibición de doble incriminacion
 - [[art. 9 CP|Artículo 9]] — CONDUCTA PUNIBLE
 - [[art. 10 CP|Artículo 10]] — Tipicidad
 - [[art. 11 CP|Artículo 11]] — Antijuridicidad

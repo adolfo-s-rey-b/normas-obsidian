@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "25"
-epigrafe: "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA"
+epigrafe: "Circunstancias de atenuación punitiva"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 24 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 25. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA
+## Artículo 25. Circunstancias de atenuación punitiva
 
 El artículo [[art. 401 CP|401]] del Código Penal quedará así:
 

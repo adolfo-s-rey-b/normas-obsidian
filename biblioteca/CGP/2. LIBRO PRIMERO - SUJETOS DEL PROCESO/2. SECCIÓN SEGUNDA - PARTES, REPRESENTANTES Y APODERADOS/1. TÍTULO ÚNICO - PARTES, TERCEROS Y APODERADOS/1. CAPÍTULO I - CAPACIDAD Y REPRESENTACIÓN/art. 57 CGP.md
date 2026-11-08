@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "57"
-epigrafe: "AGENCIA OFICIOSA PROCESAL"
+epigrafe: "Agencia oficiosa procesal"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 57. AGENCIA OFICIOSA PROCESAL
+## Artículo 57. Agencia oficiosa procesal
 
 Se podrá demandar o contestar la demanda a nombre de una persona de quien no se tenga poder, siempre que ella se encuentre ausente o impedida para hacerlo; bastará afirmar dicha circunstancia bajo juramento que se entenderá prestado por la presentación de la demanda o la contestación.
 

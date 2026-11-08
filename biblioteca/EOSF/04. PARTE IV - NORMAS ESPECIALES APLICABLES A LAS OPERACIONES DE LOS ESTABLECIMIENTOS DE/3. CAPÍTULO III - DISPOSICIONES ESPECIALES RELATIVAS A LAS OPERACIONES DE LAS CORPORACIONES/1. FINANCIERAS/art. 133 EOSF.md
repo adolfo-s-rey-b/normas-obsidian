@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "133"
-epigrafe: "REGIMEN DE LA EMISION DE BONOS DE GARANTIA GENERAL"
+epigrafe: "Régimen de la Emisión de Bonos de Garantía General"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo III|CAPÍTULO III - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LAS CORPORACIONES]]"
 rubro: "[[EOSF - Parte IV - Capítulo III - Financieras|FINANCIERAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo III|Capítulo III]] › [[EOSF - Parte IV - Capítulo III - Financieras|Financieras]]
 
-## Artículo 133. REGIMEN DE LA EMISION DE BONOS DE GARANTIA GENERAL
+## Artículo 133. Régimen de la Emisión de Bonos de Garantía General
 
 1\. Colocación. Las corporaciones financieras se entienden autorizadas para emitir o colocar bonos de garantía general sin la previa autorización de la Superintendencia Bancaria, teniendo en cuenta para el efecto lo previsto en el artículo [[art. 111 EOSF|111]] numeral 3o de este Estatuto. En todo caso, cada vez que una corporación financiera proyecte una emisión, deberá informar a la Superintendencia Bancaria sobre su monto, serie, número de bonos, fecha de emisión, plazo y periodicidad de las amortizaciones, los rendimientos que devengarán, el lugar y forma de pago de los mismos con una antelación no inferior a diez (10) días hábiles respecto de la fecha en que se vaya a efectuar la emisión.
 

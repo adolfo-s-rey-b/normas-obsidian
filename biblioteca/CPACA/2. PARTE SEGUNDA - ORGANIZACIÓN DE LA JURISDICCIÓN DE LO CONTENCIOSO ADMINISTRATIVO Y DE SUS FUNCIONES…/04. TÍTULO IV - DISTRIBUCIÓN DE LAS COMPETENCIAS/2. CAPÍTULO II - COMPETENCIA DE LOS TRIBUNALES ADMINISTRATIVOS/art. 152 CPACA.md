@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "152"
-epigrafe: "COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN PRIMERA INSTANCIA"
+epigrafe: "Competencia de los tribunales administrativos en primera instancia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo II|CAPÍTULO II - COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 152. COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN PRIMERA INSTANCIA
+## Artículo 152. Competencia de los tribunales administrativos en primera instancia
 
 Los tribunales administrativos conocerán en primera instancia de los siguientes asuntos:
 

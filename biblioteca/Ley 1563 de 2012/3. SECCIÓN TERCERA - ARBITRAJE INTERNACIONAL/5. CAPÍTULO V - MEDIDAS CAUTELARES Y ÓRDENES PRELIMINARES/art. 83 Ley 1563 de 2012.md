@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "83"
-epigrafe: "RÉGIMEN ESPECÍFICO DE LAS ÓRDENES PRELIMINARES"
+epigrafe: "Régimen específico de las órdenes preliminares"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 83. RÉGIMEN ESPECÍFICO DE LAS ÓRDENES PRELIMINARES
+## Artículo 83. Régimen específico de las órdenes preliminares
 
 Las órdenes preliminares tendrán un régimen específico, así:
 

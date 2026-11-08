@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "23"
-epigrafe: "INFORMACIÓN MÍNIMA Y RESPONSABILIDAD"
+epigrafe: "Información mínima y responsabilidad"
 titulo: "[[Ley 1480 de 2011 - Título V|TÍTULO V - DE LA INFORMACIÓN]]"
 capitulo: "[[Ley 1480 de 2011 - Título V - Capítulo Único|CAPÍTULO ÚNICO - DE LA INFORMACIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título V|Título V]] › [[Ley 1480 de 2011 - Título V - Capítulo Único|Capítulo Único]]
 
-## Artículo 23. INFORMACIÓN MÍNIMA Y RESPONSABILIDAD
+## Artículo 23. Información mínima y responsabilidad
 
 Los proveedores y productores deberán suministrar a los consumidores información, clara, veraz, suficiente, oportuna, verificable, comprensible, precisa e idónea sobre los productos que ofrezcan y, sin perjuicio de lo señalado para los productos defectuosos, serán responsables de todo daño que sea consecuencia de la inadecuada o insuficiente información. En todos los casos la información mínima debe estar en castellano.
 

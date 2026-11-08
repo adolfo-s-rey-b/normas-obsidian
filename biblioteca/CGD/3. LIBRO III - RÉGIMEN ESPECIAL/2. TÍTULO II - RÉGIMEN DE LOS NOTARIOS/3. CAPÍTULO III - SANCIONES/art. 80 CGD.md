@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "80"
-epigrafe: "SANCIONES"
+epigrafe: "Sanciones"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo III|CAPÍTULO III - SANCIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 80. SANCIONES
+## Artículo 80. Sanciones
 
 Los notarios estarán sometidos al siguiente régimen de sanciones:
 

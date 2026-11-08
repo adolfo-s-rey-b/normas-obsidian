@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "17"
-epigrafe: "FACILIDADES PARA PROMOVER LAS ACCIONES POPULARES"
+epigrafe: "Facilidades para Promover las Acciones Populares"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo IV|CAPÍTULO IV - PRESENTACION DE LA DEMANDA O PETICION]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 17. FACILIDADES PARA PROMOVER LAS ACCIONES POPULARES
+## Artículo 17. Facilidades para Promover las Acciones Populares
 
 El interesado podrá acudir ante el Personero Distrital o Municipial, o a la Defensoría del Pueblo para que se le colabore en la elaboración de su demanda o petición, así como en los eventos de urgencia o cuando el solicitante no sepa escribir.
 

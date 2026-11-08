@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "269"
-epigrafe: "DIRECCION Y ADMINISTRACION"
+epigrafe: "Dirección y Administración"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VIII|CAPÍTULO VIII - FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER-]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 269. DIRECCION Y ADMINISTRACION
+## Artículo 269. Dirección y Administración
 
 1\. Organos de dirección y administración. Serán órganos de dirección y administración de la Financiera de Desarrollo Territorial S.A., Findeter: - La asamblea de accionistas; - La junta directiva, y - El representante legal.
 

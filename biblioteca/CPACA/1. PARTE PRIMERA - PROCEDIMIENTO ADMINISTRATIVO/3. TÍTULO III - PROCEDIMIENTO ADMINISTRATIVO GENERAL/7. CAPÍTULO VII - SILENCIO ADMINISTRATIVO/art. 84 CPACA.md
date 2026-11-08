@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "84"
-epigrafe: "SILENCIO POSITIVO"
+epigrafe: "Silencio positivo"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VII|CAPÍTULO VII - SILENCIO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 84. SILENCIO POSITIVO
+## Artículo 84. Silencio positivo
 
 Solamente en los casos expresamente previstos en disposiciones legales especiales, el silencio de la administración equivale a decisión positiva.
 

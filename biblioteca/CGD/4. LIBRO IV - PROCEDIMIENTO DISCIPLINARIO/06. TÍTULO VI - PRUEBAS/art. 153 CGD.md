@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "153"
-epigrafe: "PRÁCTICA DE PRUEBAS EN EL EXTERIOR"
+epigrafe: "Practica de pruebas en el exterior"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 153. PRÁCTICA DE PRUEBAS EN EL EXTERIOR
+## Artículo 153. Practica de pruebas en el exterior
 
 La práctica de las pruebas o de diligencias en territorio extranjero se regulará por las normas legalmente vigentes.
 

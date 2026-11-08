@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 27 CPTSS|Artículo 27]] — PODERES CORRECCIONALES DEL JUEZ
-- [[art. 28 CPTSS|Artículo 28]] — DEBERES DEL JUEZ
-- [[art. 29 CPTSS|Artículo 29]] — PODERES DE ORDENACIÓN E INSTRUCCIÓN
-- [[art. 30 CPTSS|Artículo 30]] — RECHAZO DE PLANO
+- [[art. 27 CPTSS|Artículo 27]] — Poderes correccionales del juez
+- [[art. 28 CPTSS|Artículo 28]] — Deberes del juez
+- [[art. 29 CPTSS|Artículo 29]] — Poderes de ordenación e instrucción
+- [[art. 30 CPTSS|Artículo 30]] — Rechazo de plano
 
 ---
 ← [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]] · ↑ [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] · [[CPTSS - Libro Primero - Sección Primera - Título Cuarto|Título Cuarto]] →

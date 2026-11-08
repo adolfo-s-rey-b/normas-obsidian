@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "127"
-epigrafe: "INCIDENTES Y OTRAS CUESTIONES ACCESORIAS"
+epigrafe: "Incidentes y otras cuestiones accesorias"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 127. INCIDENTES Y OTRAS CUESTIONES ACCESORIAS
+## Artículo 127. Incidentes y otras cuestiones accesorias
 
 Solo se tramitarán como incidente los asuntos que la ley expresamente señale; los demás se resolverán de plano y si hubiere hechos que probar, a la petición se acompañará prueba siquiera sumaria de ellos.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "196"
-epigrafe: "NOTIFICACIÓN DE LAS PROVIDENCIAS"
+epigrafe: "Notificación de las providencias"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]]
 
-## Artículo 196. NOTIFICACIÓN DE LAS PROVIDENCIAS
+## Artículo 196. Notificación de las providencias
 
 Las providencias se notificarán a las partes y demás interesados con las formalidades prescritas en este Código y en lo no previsto, de conformidad con lo dispuesto en el Código de Procedimiento Civil.
 

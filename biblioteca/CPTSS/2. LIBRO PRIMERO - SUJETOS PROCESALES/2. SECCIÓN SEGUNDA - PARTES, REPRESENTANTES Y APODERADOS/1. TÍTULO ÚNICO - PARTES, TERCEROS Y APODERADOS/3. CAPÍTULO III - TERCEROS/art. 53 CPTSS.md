@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "53"
-epigrafe: "LLAMAMIENTO DE OFICIO"
+epigrafe: "Llamamiento de oficio"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 53. LLAMAMIENTO DE OFICIO
+## Artículo 53. Llamamiento de oficio
 
 En cualquiera de las instancias, siempre que el juez advierta colusión, fraude o cualquier otra situación similar en el proceso, ordenará la citación de las personas que puedan resultar perjudicadas, para que hagan valer sus derechos.
 

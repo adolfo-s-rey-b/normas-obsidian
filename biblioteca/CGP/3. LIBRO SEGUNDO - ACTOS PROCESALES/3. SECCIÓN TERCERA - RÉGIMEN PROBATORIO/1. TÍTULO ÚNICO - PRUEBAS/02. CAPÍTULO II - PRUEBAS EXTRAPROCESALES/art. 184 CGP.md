@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "184"
-epigrafe: "INTERROGATORIO DE PARTE"
+epigrafe: "Interrogatorio de parte"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 184. INTERROGATORIO DE PARTE
+## Artículo 184. Interrogatorio de parte
 
 Quien pretenda demandar o tema que se le demande podrá pedir, por una sola vez, que su presunta contraparte conteste el interrogatorio que le formule sobre hechos que han de ser materia del proceso. En la solicitud indicará concretamente lo que pretenda probar y podrá anexar el cuestionario, sin perjuicio de que lo sustituya total o parcialmente en la audiencia.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "426"
-epigrafe: "EJECUCIÓN POR OBLIGACIÓN DE DAR O HACER"
+epigrafe: "Ejecución por obligación de dar o hacer"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 426. EJECUCIÓN POR OBLIGACIÓN DE DAR O HACER
+## Artículo 426. Ejecución por obligación de dar o hacer
 
 Si la obligación es de dar una especie mueble o bienes de género distinto de dinero, el demandante podrá pedir, conjuntamente con la entrega, que la ejecución se extienda a los perjuicios moratorios desde que la obligación se hizo exigible hasta que la entrega se efectúe, para lo cual estimará bajo juramento su valor mensual, si no figura en el título ejecutivo.
 

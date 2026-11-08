@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "246"
-epigrafe: "REGIMEN PATRIMONIAL"
+epigrafe: "Régimen Patrimonial"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo IV|CAPÍTULO IV - BANCO CENTRAL HIPOTECARIO B.C.H]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo IV|Capítulo IV]]
 
-## Artículo 246. REGIMEN PATRIMONIAL
+## Artículo 246. Régimen Patrimonial
 
 1\. Naturaleza y clase de las acciones. Las acciones del Banco Central Hipotecario serán nominativas y estarán divididas en dos (2) clases: Las acciones clase A pertenecerán a la Nación, al Banco de la República y a los Bancos e instituciones de crédito que tengan el carácter de empresas industriales y comerciales del Estado o de sociedades de economía mixta. Las acciones clase B podrán pertenecer a personas naturales o jurídicas distintas de las anteriores.
 

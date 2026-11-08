@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 521 CGP|Artículo 521]] — ABSTENCIÓN PARA SEGUIR TRAMITANDO EL PROCESO
-- [[art. 522 CGP|Artículo 522]] — SUCESIÓN TRAMITADA ANTE DISTINTOS JUECES
+- [[art. 521 CGP|Artículo 521]] — Abstención para seguir tramitando el proceso
+- [[art. 522 CGP|Artículo 522]] — Sucesión tramitada ante distintos jueces
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo V|Capítulo V]] · ↑ [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]]

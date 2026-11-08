@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "806"
-epigrafe: "PAGO CON TITULOS Y CERTIFICADOS"
+epigrafe: "PAGO CON TÍTULOS Y CERTIFICADOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
 rubro: "[[ET - Libro Quinto - Título VII - Capítulo II - Pago de impuestos con bonos y titulos|PAGO DE IMPUESTOS CON BONOS Y TITULOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 285 Ley 223 de 1995]]"
 anterior: "[[art. 805 ET]]"
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Pago de impuestos con bonos y titulos|Pago de impuestos con bonos y titulos]]
 
-## Artículo 806. PAGO CON TITULOS Y CERTIFICADOS
+## Artículo 806. PAGO CON TÍTULOS Y CERTIFICADOS
 
 Los Títulos de Devolución de Impuestos sólo servirán para cancelar impuestos o derechos administrados por las Direcciones de Impuestos o de Aduanas, dentro del año calendario siguiente a la fecha de su expedición.
 

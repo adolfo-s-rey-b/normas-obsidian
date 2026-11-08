@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "194"
-epigrafe: "DIVULGACIÓN Y EMPLEO DE DOCUMENTOS RESERVADOS"
+epigrafe: "Divulgación y empleo de documentos reservados"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título III|TÍTULO III - DELITOS CONTRA LA LIBERTAD INDIVIDUAL Y OTRAS GARANTIAS]]"
 capitulo: "[[CP - Libro Segundo - Título III - Capítulo Septimo|CAPÍTULO SEPTIMO - DE LA VIOLACIÓN A LA INTIMIDAD, RESERVA E INTERCEPTACIÓN DE COMUNICACIONES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título III|Título III]] › [[CP - Libro Segundo - Título III - Capítulo Septimo|Capítulo Septimo]]
 
-## Artículo 194. DIVULGACIÓN Y EMPLEO DE DOCUMENTOS RESERVADOS
+## Artículo 194. Divulgación y empleo de documentos reservados
 
 El que en provecho propio o ajeno o con perjuicio de otro divulgue o emplee el contenido de un documento que deba permanecer en reserva, incurrirá en multa, siempre que la conducta no constituya delito sancionado con pena mayor.
 

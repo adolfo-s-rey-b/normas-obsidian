@@ -6,7 +6,7 @@ norma: "Ley 1150 de 2007"
 articulo: "12"
 epigrafe: "PROMOCIÓN DEL DESARROLLO EN LA CONTRATACIÓN PÚBLICA"
 titulo: "[[Ley 1150 de 2007 - Título II|TÍTULO II - DISPOSICIONES GENERALES PARA LA CONTRATACION CON RECURSOS PUBLICOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 34 Ley 2069 de 2020]]"
   - "[[art. 3 Ley 2040 de 2020]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1150_de_2007
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 1150 de 2007|Ley 1150 de 2007]] › [[Ley 1150 de 2007 - Título II|Título II]]

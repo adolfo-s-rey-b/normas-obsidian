@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 474 CPP|Artículo 474]] — PROCEDENCIA
+- [[art. 474 CPP|Artículo 474]] — Procedencia
 - [[art. 475 CPP|Artículo 475]] — EJECUCIÓN DE LA PENA POR NO REPARACIÓN DE LOS DAÑOS
 - [[art. 476 CPP|Artículo 476]] — EXTINCIÓN DE LA CONDENA Y DEVOLUCIÓN DE LA CAUCIÓN
 

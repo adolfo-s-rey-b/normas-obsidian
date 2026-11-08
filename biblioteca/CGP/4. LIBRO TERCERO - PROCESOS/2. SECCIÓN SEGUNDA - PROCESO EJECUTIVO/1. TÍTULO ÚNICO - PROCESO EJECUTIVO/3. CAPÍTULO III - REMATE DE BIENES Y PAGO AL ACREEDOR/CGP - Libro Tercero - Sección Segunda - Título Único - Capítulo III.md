@@ -24,20 +24,20 @@ tags:
 
 ### Contenido
 
-- [[art. 448 CGP|Artículo 448]] — SEÑALAMIENTO DE FECHA PARA REMATE
-- [[art. 449 CGP|Artículo 449]] — REMATE DE INTERÉS SOCIAL
-- [[art. 450 CGP|Artículo 450]] — PUBLICACIÓN DEL REMATE
-- [[art. 451 CGP|Artículo 451]] — DEPÓSITO PARA HACER POSTURA
-- [[art. 452 CGP|Artículo 452]] — AUDIENCIA DE REMATE
-- [[art. 453 CGP|Artículo 453]] — PAGO DEL PRECIO E IMPROBACIÓN DEL REMATE
-- [[art. 454 CGP|Artículo 454]] — REMATE POR COMISIONADO
-- [[art. 455 CGP|Artículo 455]] — SANEAMIENTO DE NULIDADES Y APROBACIÓN DEL REMATE
-- [[art. 456 CGP|Artículo 456]] — ENTREGA DEL BIEN REMATADO
-- [[art. 457 CGP|Artículo 457]] — REPETICIÓN DEL REMATE Y REMATE DESIERTO
-- [[art. 458 CGP|Artículo 458]] — VENTA DE TÍTULOS INSCRITOS EN BOLSA
-- [[art. 459 CGP|Artículo 459]] — ENTREGA DEL BIEN OBJETO DE OBLIGACIÓN DE DAR
-- [[art. 460 CGP|Artículo 460]] — EJECUCIÓN DEL HECHO DEBIDO
-- [[art. 461 CGP|Artículo 461]] — TERMINACIÓN DEL PROCESO POR PAGO
+- [[art. 448 CGP|Artículo 448]] — Señalamiento de fecha para remate
+- [[art. 449 CGP|Artículo 449]] — Remate de interés social
+- [[art. 450 CGP|Artículo 450]] — Publicación del remate
+- [[art. 451 CGP|Artículo 451]] — Depósito para hacer postura
+- [[art. 452 CGP|Artículo 452]] — Audiencia de remate
+- [[art. 453 CGP|Artículo 453]] — Pago del precio e improbación del remate
+- [[art. 454 CGP|Artículo 454]] — Remate por comisionado
+- [[art. 455 CGP|Artículo 455]] — Saneamiento de nulidades y aprobación del remate
+- [[art. 456 CGP|Artículo 456]] — Entrega del bien rematado
+- [[art. 457 CGP|Artículo 457]] — Repetición del remate y remate desierto
+- [[art. 458 CGP|Artículo 458]] — Venta de títulos inscritos en bolsa
+- [[art. 459 CGP|Artículo 459]] — Entrega del bien objeto de obligación de dar
+- [[art. 460 CGP|Artículo 460]] — Ejecución del hecho debido
+- [[art. 461 CGP|Artículo 461]] — Terminación del proceso por pago
 
 ---
 ← [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] →

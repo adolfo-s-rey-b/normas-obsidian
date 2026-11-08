@@ -12,7 +12,7 @@ epigrafe: "CAUSALES DE TERMINACIÓN"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XXVIII|TÍTULO XXVIII - DEL MANDATO]]"
 capitulo: "[[CC - Libro Cuarto - Título XXVIII - Capítulo IV|CAPÍTULO IV - DE LA TERMINACIÓN DEL MANDATO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 70 Decreto 2820 de 1974]]"
 anterior: "[[art. 2188 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXVIII|Título XXVIII]] › [[CC - Libro Cuarto - Título XXVIII - Capítulo IV|Capítulo IV]]
@@ -49,7 +49,7 @@ El mandato termina:
 
 > [!note] Notas del Editor: En criterio del editor en relación con la figura de la interdicción, debe tenerse en cuenta la expedición de la Ley 1996 de 2019 -'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019-, que eliminó esta figura, y establece apoyos para la realización de actos jurídicos.
 
-8.
+8\. *(texto no vigente)*
 
 > [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 

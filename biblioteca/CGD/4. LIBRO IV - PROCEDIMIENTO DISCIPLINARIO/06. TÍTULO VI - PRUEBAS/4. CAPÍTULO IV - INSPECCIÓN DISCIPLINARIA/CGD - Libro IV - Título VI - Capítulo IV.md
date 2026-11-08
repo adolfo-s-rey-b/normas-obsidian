@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 185 CGD|Artículo 185]] — PROCEDENCIA
-- [[art. 186 CGD|Artículo 186]] — REQUISITOS
+- [[art. 185 CGD|Artículo 185]] — Procedencia
+- [[art. 186 CGD|Artículo 186]] — Requisitos
 
 ---
 ← [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]] · ↑ [[CGD - Libro IV - Título VI|Título VI]] · [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "19"
-epigrafe: "JUEZ NATURAL"
+epigrafe: "Juez natural"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 18 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 19. JUEZ NATURAL
+## Artículo 19. Juez natural
 
 Nadie podrá ser juzgado por juez o tribunal ad hoc o especial, instituido con posterioridad a la comisión de un delito por fuera de la estructura judicial ordinaria.
 

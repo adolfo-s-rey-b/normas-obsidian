@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "317"
-epigrafe: "PARA GANANCIAS OCASIONALES PROVENIENTES DE LOTERIAS, RIFAS, APUESTAS Y SIMILARES"
+epigrafe: "PARA GANANCIAS OCASIONALES PROVENIENTES DE LOTERÍAS, RIFAS, APUESTAS Y SIMILARES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título III|TÍTULO III - GANANCIAS OCASIONALES]]"
 capitulo: "[[ET - Libro Primero - Título III - Capítulo IV|CAPÍTULO IV - TARIFAS DEL IMPUESTO DE GANANCIAS OCASIONALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título III|Título III]] › [[ET - Libro Primero - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 317. PARA GANANCIAS OCASIONALES PROVENIENTES DE LOTERIAS, RIFAS, APUESTAS Y SIMILARES
+## Artículo 317. PARA GANANCIAS OCASIONALES PROVENIENTES DE LOTERÍAS, RIFAS, APUESTAS Y SIMILARES
 
 (Fuente original compilada: L. 75/86 Art. [[art. 9 ET|9]]o.) Fíjase en un veinte por ciento (20%), la tarifa del impuesto de ganancias ocasionales provenientes de loterías, rifas, apuestas y similares.
 

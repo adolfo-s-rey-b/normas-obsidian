@@ -23,9 +23,9 @@ tags:
 ### Contenido
 
 - [[art. 264 EOSF|Artículo 264]] — ORGANIZACION
-- [[art. 265 EOSF|Artículo 265]] — DIRECCION Y ADMINISTRACION
-- [[art. 266 EOSF|Artículo 266]] — REGIMEN PATRIMONIAL
-- [[art. 267 EOSF|Artículo 267]] — OPERACIONES AUTORIZADAS
+- [[art. 265 EOSF|Artículo 265]] — Dirección y Administración
+- [[art. 266 EOSF|Artículo 266]] — Régimen Patrimonial
+- [[art. 267 EOSF|Artículo 267]] — Operaciones Autorizadas
 
 ---
 ← [[EOSF - Parte X - Capítulo VI|Capítulo VI]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]] →

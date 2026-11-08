@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "308"
-epigrafe: "REQUISITOS"
+epigrafe: "Requisitos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 308. REQUISITOS
+## Artículo 308. Requisitos
 
 El juez de control de garantías, a petición del Fiscal General de la Nación o de su delegado, decretará la medida de aseguramiento cuando de los elementos materiales probatorios y evidencia física recogidos y asegurados o de la información obtenidos legalmente, se pueda inferir razonablemente que el imputado puede ser autor o partícipe de la conducta delictiva que se investiga, siempre y cuando se cumpla alguno de los siguientes requisitos:
 

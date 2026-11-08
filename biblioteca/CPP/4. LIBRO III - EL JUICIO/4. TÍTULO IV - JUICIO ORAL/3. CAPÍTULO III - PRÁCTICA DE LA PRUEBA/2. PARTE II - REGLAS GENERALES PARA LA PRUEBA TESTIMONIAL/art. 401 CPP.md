@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "401"
-epigrafe: "TESTIGO DE LENGUA EXTRANJERA"
+epigrafe: "Testigo de lengua extranjera"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 401. TESTIGO DE LENGUA EXTRANJERA
+## Artículo 401. Testigo de lengua extranjera
 
 Cuando el testigo de lengua extranjera no comprendiere el idioma castellano, el juez nombrará traductor oficial. Si no lo hubiere, el nombramiento recaerá en persona reputada como idónea para hacer la traducción. Lo anterior no obsta para que pueda estar acompañado por uno designado por él.
 

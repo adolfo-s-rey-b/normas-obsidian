@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 463 CP|Artículo 463]] — ESPIONAJE
-- [[art. 464 CP|Artículo 464]] — VIOLACIÓN DE TREGUA O ARMISTICIO
+- [[art. 463 CP|Artículo 463]] — Espionaje
+- [[art. 464 CP|Artículo 464]] — Violación de tregua o armisticio
 - [[art. 465 CP|Artículo 465]] — Violación de inmunidad diplomatica
-- [[art. 466 CP|Artículo 466]] — OFENSA A DIPLOMATICOS
+- [[art. 466 CP|Artículo 466]] — Ofensa a diplomáticos
 
 ---
 ← [[CP - Libro Segundo - Título XVII - Capítulo Primero|Capítulo Primero]] · ↑ [[CP - Libro Segundo - Título XVII|Título XVII]]

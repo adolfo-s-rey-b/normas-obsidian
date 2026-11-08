@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "161"
-epigrafe: "ABOGADOS INSCRITOS"
+epigrafe: "Abogados inscritos"
 parte: "[[Ley 446 de 1998 - Parte V|PARTE V - DE LA ASISTENCIA LEGAL POPULAR]]"
 titulo: "[[Ley 446 de 1998 - Parte V - Título II|TÍTULO II - DE LA DEFENSORIA DE OFICIO]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte V|Parte V]] › [[Ley 446 de 1998 - Parte V - Título II|Título II]]
 
-## Artículo 161. ABOGADOS INSCRITOS
+## Artículo 161. Abogados inscritos
 
 Los abogados inscritos que actúen como defensores de oficio de manera gratuita y permanente, como mínimo, dentro de diez (10) procesos anualmente, tendrán derecho a que se les garantice la prestación de los servicios de seguridad social a cargo del Estado, en igualdad de condiciones al personal vinculado a la Defensoría del Pueblo, pero los aportes serán cubiertos en su integridad por el Estado a través del régimen subsidiado previsto por las disposiciones legales que regulan la materia.
 

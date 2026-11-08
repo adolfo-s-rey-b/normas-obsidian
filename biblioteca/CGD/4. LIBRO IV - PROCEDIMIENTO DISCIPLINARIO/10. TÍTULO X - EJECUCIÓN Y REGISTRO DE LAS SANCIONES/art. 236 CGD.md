@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "236"
-epigrafe: "FUNCIONARIOS COMPETENTES PARA LA EJECUCIÓN DE LAS SANCIONES"
+epigrafe: "Funcionarios competentes para la ejecución de las sanciones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título X|TÍTULO X - EJECUCIÓN Y REGISTRO DE LAS SANCIONES]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título X|Título X]]
 
-## Artículo 236. FUNCIONARIOS COMPETENTES PARA LA EJECUCIÓN DE LAS SANCIONES
+## Artículo 236. Funcionarios competentes para la ejecución de las sanciones
 
 La sanción impuesta se hará efectiva por:
 

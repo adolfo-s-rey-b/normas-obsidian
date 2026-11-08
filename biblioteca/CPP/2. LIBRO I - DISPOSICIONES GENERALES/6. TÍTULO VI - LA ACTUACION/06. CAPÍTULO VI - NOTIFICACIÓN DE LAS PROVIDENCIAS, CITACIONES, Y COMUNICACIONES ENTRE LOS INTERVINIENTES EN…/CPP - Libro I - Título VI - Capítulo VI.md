@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 168 CPP|Artículo 168]] — CRITERIO GENERAL
-- [[art. 169 CPP|Artículo 169]] — FORMAS
-- [[art. 170 CPP|Artículo 170]] — REGISTRO DE LA NOTIFICACIÓN
+- [[art. 168 CPP|Artículo 168]] — Criterio general
+- [[art. 169 CPP|Artículo 169]] — Formas
+- [[art. 170 CPP|Artículo 170]] — Registro de la notificación
 - [[art. 171 CPP|Artículo 171]] — CITACIONES
-- [[art. 172 CPP|Artículo 172]] — FORMA
-- [[art. 173 CPP|Artículo 173]] — CONTENIDO
-- [[art. 174 CPP|Artículo 174]] — COMUNICACIÓN DE LAS PETICIONES ESCRITAS A LAS DEMÁS PARTES E INTERVINIENTES
+- [[art. 172 CPP|Artículo 172]] — Forma
+- [[art. 173 CPP|Artículo 173]] — Contenido
+- [[art. 174 CPP|Artículo 174]] — Comunicación de las peticiones escritas a las demás partes e intervinientes
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo VII|Capítulo VII]] →

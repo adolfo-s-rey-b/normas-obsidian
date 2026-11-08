@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "259"
-epigrafe: "TRASPASO DE CONTENEDOR"
+epigrafe: "Traspaso de contenedor"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo V|CAPÍTULO V - CADENA DE CUSTODIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 259. TRASPASO DE CONTENEDOR
+## Artículo 259. Traspaso de contenedor
 
 El servidor público de la oficina de correspondencia o la que haga sus veces, sin pérdida de tiempo, bajo el recibo que figura en el formato de cadena de custodia, entregará el contenedor al perito que corresponda según la especialidad.
 

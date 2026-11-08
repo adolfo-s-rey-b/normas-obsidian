@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "299"
-epigrafe: "TRÁMITE DE LA ORDEN DE CAPTURA"
+epigrafe: "Trámite de la orden de captura"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 299. TRÁMITE DE LA ORDEN DE CAPTURA
+## Artículo 299. Trámite de la orden de captura
 
 Proferida la orden de captura, el juez de control de garantías o el de conocimiento, desde el momento en que emita el sentido del fallo o profiera formalmente la sentencia condenatoria, la enviará inmediatamente a la Fiscalía General de la Nación para que disponga el o los organismos de policía judicial encargados de realizar la aprehensión física, y se registre en el sistema de información que se lleve para el efecto. De igual forma deberá comunicarse cuando por cualquier motivo pierda su vigencia, para descargarla de los archivos de cada organismo, indicando el motivo de tal determinación.
 

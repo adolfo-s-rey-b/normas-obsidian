@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "221"
-epigrafe: "BENEFICIARIOS DEL CREDITO AGROPECUARIO"
+epigrafe: "Beneficiarios del Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 221. BENEFICIARIOS DEL CREDITO AGROPECUARIO
+## Artículo 221. Beneficiarios del Crédito Agropecuario
 
 (Fuente Ley 16/90; Art. [[art. 27 EOSF|27]]) Podrán ser beneficiarios del crédito que se otorgue a través del Sistema Nacional de Crédito Agropecuario las personas naturales o jurídicas que desarrollen las actividades a que se refiere el artículo [[art. 219 EOSF|219]] del presente estatuto, así como las cooperativas de primero y segundo grado cuyo objeto sea financiar renglones de producción y comercialización agropecuarias. Igualmente, serán sujetos del crédito las cooperativas de productores del sector agropecuario.
 

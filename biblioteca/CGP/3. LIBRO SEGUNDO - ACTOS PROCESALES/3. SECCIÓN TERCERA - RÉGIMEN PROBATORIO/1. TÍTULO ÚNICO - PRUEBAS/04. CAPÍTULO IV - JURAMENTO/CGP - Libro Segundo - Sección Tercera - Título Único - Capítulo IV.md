@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 206 CGP|Artículo 206]] — JURAMENTO ESTIMATORIO
-- [[art. 207 CGP|Artículo 207]] — JURAMENTO DEFERIDA POR LA LEY
+- [[art. 206 CGP|Artículo 206]] — Juramento estimatorio
+- [[art. 207 CGP|Artículo 207]] — Juramento deferida por la ley
 
 ---
 ← [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]] →

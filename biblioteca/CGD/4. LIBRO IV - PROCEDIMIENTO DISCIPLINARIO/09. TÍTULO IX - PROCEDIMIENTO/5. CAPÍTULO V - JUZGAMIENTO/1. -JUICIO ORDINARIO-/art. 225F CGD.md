@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225F"
-epigrafe: "TÉRMINO PARA FALLAR Y CONTENIDO DEL FALLO"
+epigrafe: "Termino para fallar y contenido del fallo"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio ordinario-|-juicio ordinario-]]
 
-## Artículo 225F. TÉRMINO PARA FALLAR Y CONTENIDO DEL FALLO
+## Artículo 225F. Termino para fallar y contenido del fallo
 
 El funcionario de conocimiento proferirá el fallo dentro de los treinta (30) días hábiles siguientes al vencimiento del término de traslado para presentar alegatos de conclusión. El fallo debe constar por escrito y contener:
 

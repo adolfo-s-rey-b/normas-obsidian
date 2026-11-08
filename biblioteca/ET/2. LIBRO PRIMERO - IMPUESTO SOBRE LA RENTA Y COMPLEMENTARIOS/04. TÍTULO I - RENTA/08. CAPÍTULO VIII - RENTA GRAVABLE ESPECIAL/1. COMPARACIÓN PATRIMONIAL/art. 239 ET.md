@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "239"
-epigrafe: "NO HABRA LUGAR A LA COMPARACIÓN PATRIMONIAL"
+epigrafe: "NO HABRÁ LUGAR A LA COMPARACIÓN PATRIMONIAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VIII|CAPÍTULO VIII - RENTA GRAVABLE ESPECIAL]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VIII|Capítulo VIII]] › [[ET - Libro Primero - Título I - Capítulo VIII - Comparación patrimonial|Comparación patrimonial]]
 
-## Artículo 239. NO HABRA LUGAR A LA COMPARACIÓN PATRIMONIAL
+## Artículo 239. NO HABRÁ LUGAR A LA COMPARACIÓN PATRIMONIAL
 
 La conversión de títulos de deuda pública externa de que trata el artículo [[art. 42 ET|42]], no dará lugar a determinar la renta por el sistema de comparación de patrimonios.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "179"
-epigrafe: "LA UTILIDAD EN LA ENAJENACIÓN DE ACTIVOS FIJOS POSEIDOS POR MENOS DE DOS AÑOS ES RENTA LIQUIDA"
+epigrafe: "LA UTILIDAD EN LA ENAJENACIÓN DE ACTIVOS FIJOS POSEÍDOS POR MENOS DE DOS AÑOS ES RENTA LÍQUIDA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VI|CAPÍTULO VI - RENTA LIQUIDA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 179. LA UTILIDAD EN LA ENAJENACIÓN DE ACTIVOS FIJOS POSEIDOS POR MENOS DE DOS AÑOS ES RENTA LIQUIDA
+## Artículo 179. LA UTILIDAD EN LA ENAJENACIÓN DE ACTIVOS FIJOS POSEÍDOS POR MENOS DE DOS AÑOS ES RENTA LÍQUIDA
 
 No se considera ganancia ocasional sino renta líquida, la utilidad en la enajenación de bienes que hagan parte del activo fijo del contribuyente y que hubieren sido poseídos por menos de dos años.
 

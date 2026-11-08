@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "143"
-epigrafe: "CAUSAL DE REVOCACIÓN DE LAS DECISIONES DISCIPLINARIAS"
+epigrafe: "Causal de revocación de las decisiones disciplinarias"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo IV|CAPÍTULO IV - REVOCATORIA DIRECTA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 143. CAUSAL DE REVOCACIÓN DE LAS DECISIONES DISCIPLINARIAS
+## Artículo 143. Causal de revocación de las decisiones disciplinarias
 
 En los casos referidos por las disposiciones anteriores, los fallos sancionatorios, los autos de archivo y el fallo absolutorio son revocables solo cuando infrinjan manifiestamente las normas constitucionales, legales o reglamentarias en que deban fundarse. Igualmente, cuando con ellos se vulneren o amenacen manifiestamente los derechos fundamentales.
 

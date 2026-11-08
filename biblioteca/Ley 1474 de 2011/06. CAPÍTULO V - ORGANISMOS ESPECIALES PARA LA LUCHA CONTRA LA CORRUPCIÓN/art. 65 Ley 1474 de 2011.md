@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "65"
-epigrafe: "COMISIONES REGIONALES DE MORALIZACIÓN"
+epigrafe: "Comisiones Regionales de Moralización"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 64 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 65. COMISIONES REGIONALES DE MORALIZACIÓN
+## Artículo 65. Comisiones Regionales de Moralización
 
 Cada departamento instalará una Comisión Regional de Moralización que estará encargada de aplicar y poner en marcha los lineamientos de la Comisión Nacional de Moralización y coordinar en el nivel territorial las acciones de los órganos de prevención, investigación y sanción de la corrupción.
 

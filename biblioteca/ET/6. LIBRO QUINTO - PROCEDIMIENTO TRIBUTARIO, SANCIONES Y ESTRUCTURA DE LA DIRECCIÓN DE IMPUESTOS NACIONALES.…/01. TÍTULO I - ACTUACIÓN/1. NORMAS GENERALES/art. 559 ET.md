@@ -14,7 +14,7 @@ epigrafe: "PRESENTACIÓN DE ESCRITOS Y RECURSOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título I|TÍTULO I - ACTUACIÓN]]"
 rubro: "[[ET - Libro Quinto - Título I - Normas generales|NORMAS GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 43 Ley 1111 de 2006]]"
 anterior: "[[art. 558 ET]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título I|Título I]] › [[ET - Libro Quinto - Título I - Normas generales|Normas generales]]

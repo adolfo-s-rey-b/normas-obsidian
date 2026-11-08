@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "13"
-epigrafe: "RESTRICCIONES A LA NEGOCIACIÓN DE ACCIONES"
+epigrafe: "Restricciones a la negociación de acciones"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 12 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 13. RESTRICCIONES A LA NEGOCIACIÓN DE ACCIONES
+## Artículo 13. Restricciones a la negociación de acciones
 
 En los estatutos podrá estipularse la prohibición de negociar las acciones emitidas por la sociedad o alguna de sus clases, siempre que la vigencia de la restricción no exceda del término de diez (10) años, contados a partir de la emisión. Este término sólo podrá ser prorrogado por periodos adicionales no mayores de (10) años, por voluntad unánime de la totalidad de los accionistas.
 

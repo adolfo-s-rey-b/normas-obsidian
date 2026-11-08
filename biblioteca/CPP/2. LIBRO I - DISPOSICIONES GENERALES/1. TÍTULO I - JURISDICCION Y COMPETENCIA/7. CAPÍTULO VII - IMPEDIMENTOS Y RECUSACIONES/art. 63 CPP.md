@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "63"
-epigrafe: "IMPEDIMENTOS Y RECUSACIÓN DE OTROS FUNCIONARIOS Y EMPLEADOS"
+epigrafe: "Impedimentos y recusación de otros funcionarios y empleados"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 63. IMPEDIMENTOS Y RECUSACIÓN DE OTROS FUNCIONARIOS Y EMPLEADOS
+## Artículo 63. Impedimentos y recusación de otros funcionarios y empleados
 
 Las causales de impedimento y las sanciones se aplicarán a los fiscales, agentes del Ministerio Público, miembros de los organismos que cumplan funciones permanentes o transitorias de policía judicial, y empleados de los despachos judiciales, quienes las pondrán en conocimiento de su inmediato superior tan pronto como adviertan su existencia, sin perjuicio de que los interesados puedan recusarlos. El superior decidirá de plano y, si hallare fundada la causal de recusación o impedimento, procederá a reemplazarlo.
 

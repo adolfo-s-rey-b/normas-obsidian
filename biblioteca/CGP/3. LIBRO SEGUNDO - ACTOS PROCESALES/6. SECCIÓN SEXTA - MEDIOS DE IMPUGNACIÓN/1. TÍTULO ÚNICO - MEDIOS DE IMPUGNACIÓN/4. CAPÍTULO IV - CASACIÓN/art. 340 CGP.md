@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "340"
-epigrafe: "CONCESIÓN DEL RECURSO"
+epigrafe: "Concesión del recurso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 340. CONCESIÓN DEL RECURSO
+## Artículo 340. Concesión del recurso
 
 Reunidos los requisitos legales, el magistrado sustanciador, por auto que no admite recurso, ordenará el envío del expediente a la Corte una vez ejecutoriado el auto que lo otorgue y expedidas las copias necesarias para el cumplimiento de la sentencia, si fuere el caso.
 

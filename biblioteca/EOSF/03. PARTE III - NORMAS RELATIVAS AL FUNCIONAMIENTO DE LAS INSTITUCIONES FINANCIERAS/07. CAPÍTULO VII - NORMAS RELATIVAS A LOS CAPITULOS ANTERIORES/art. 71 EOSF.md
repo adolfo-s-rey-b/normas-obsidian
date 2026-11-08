@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "71"
-epigrafe: "ASPECTOS GENERALES"
+epigrafe: "Aspectos Generales"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VII|CAPÍTULO VII - NORMAS RELATIVAS A LOS CAPITULOS ANTERIORES]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VII|Capítulo VII]]
 
-## Artículo 71. ASPECTOS GENERALES
+## Artículo 71. Aspectos Generales
 
 1\. Montos mínimos de capital. Para solicitar la organización de entidades sometidas al control y vigilancia de la Superintendencia Bancaria, con excepción de los intermediarios de seguros, deberán acreditarse los montos mínimos de capital a que alude el numeral 1. del artículo [[art. 80 EOSF|80]] del presente Estatuto, los cuales se ajustarán como allí se prevé.
 

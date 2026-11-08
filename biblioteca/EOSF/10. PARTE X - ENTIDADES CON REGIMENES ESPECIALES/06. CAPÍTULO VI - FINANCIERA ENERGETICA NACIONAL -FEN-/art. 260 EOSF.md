@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "260"
-epigrafe: "REGIMEN PATRIMONIAL"
+epigrafe: "Régimen Patrimonial"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VI|CAPÍTULO VI - FINANCIERA ENERGETICA NACIONAL -FEN-]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 1 Decreto 4174 de 2011]]"
   - "[[art. 16 EOSF]]"
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VI|Capítulo VI]]
 
-## Artículo 260. REGIMEN PATRIMONIAL
+## Artículo 260. Régimen Patrimonial
 
 1\. Capital. El capital de la Financiera Energética Nacional S.A., FEN*, estará constituido, entre otros, por los siguientes bienes:
 

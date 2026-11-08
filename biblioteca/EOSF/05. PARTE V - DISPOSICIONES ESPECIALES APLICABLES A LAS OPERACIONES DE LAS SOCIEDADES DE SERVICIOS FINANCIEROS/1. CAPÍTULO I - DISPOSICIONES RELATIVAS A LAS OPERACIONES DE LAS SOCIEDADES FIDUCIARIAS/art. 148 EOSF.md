@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "148"
-epigrafe: "GARANTIA DE LA GESTION FIDUCIARIA"
+epigrafe: "Garantía de la Gestión Fiduciaria"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo I|CAPÍTULO I - DISPOSICIONES RELATIVAS A LAS OPERACIONES DE LAS SOCIEDADES FIDUCIARIAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 101 Ley 1328 de 2009]]"
 anterior: "[[art. 147 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo I|Capítulo I]]
 
-## Artículo 148. GARANTIA DE LA GESTION FIDUCIARIA
+## Artículo 148. Garantía de la Gestión Fiduciaria
 
 1\. Depósito en garantía.
 

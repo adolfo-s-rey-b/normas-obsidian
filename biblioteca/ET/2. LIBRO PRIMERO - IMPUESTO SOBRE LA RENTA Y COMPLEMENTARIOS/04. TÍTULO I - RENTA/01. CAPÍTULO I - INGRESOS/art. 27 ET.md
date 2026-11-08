@@ -14,7 +14,7 @@ epigrafe: "REALIZACIÓN DEL INGRESO PARA LOS NO OBLIGADOS A LLEVAR CONTABILIDAD"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 27 Ley 1819 de 2016]]"
   - "[[art. 30 Ley 2010 de 2019]]"
@@ -35,7 +35,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]]

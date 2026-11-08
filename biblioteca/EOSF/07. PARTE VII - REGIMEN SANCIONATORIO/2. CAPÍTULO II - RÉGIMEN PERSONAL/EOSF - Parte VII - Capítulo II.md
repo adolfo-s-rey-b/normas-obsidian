@@ -32,7 +32,7 @@ tags:
 
 ### Contenido
 
-- [[art. 210 EOSF|Artículo 210]] — RESPONSABILIDAD CIVIL
+- [[art. 210 EOSF|Artículo 210]] — Responsabilidad Civil
 
 ---
 ← [[EOSF - Parte VII - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte VII|Parte VII]] · [[EOSF - Parte VII - Capítulo III|Capítulo III]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "526"
-epigrafe: "VINCULACIÓN DE LA SOCIEDAD Y LOS SOCIOS"
+epigrafe: "Vinculación de la sociedad y los socios"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título III|TÍTULO III - DISOLUCIÓN, NULIDAD Y LIQUIDACIÓN DE SOCIEDADES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título III|Título III]]
 
-## Artículo 526. VINCULACIÓN DE LA SOCIEDAD Y LOS SOCIOS
+## Artículo 526. Vinculación de la sociedad y los socios
 
 Antes del traslado de la demanda el Juez ordenará al representante legal de la sociedad que de manera inmediata informe a todos los socios la existencia del proceso.
 

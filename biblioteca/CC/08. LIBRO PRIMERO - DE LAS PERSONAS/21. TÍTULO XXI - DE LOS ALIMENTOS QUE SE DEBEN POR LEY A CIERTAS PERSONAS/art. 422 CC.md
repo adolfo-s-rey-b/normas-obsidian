@@ -11,7 +11,7 @@ articulo: "422"
 epigrafe: "DURACIÓN DE LA OBLIGACIÓN"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título XXI|TÍTULO XXI - DE LOS ALIMENTOS QUE SE DEBEN POR LEY A CIERTAS PERSONAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 421 CC]]"
 siguiente: "[[art. 423 CC]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html"
@@ -21,7 +21,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Primero|Libro Primero]] › [[CC - Libro Primero - Título XXI|Título XXI]]

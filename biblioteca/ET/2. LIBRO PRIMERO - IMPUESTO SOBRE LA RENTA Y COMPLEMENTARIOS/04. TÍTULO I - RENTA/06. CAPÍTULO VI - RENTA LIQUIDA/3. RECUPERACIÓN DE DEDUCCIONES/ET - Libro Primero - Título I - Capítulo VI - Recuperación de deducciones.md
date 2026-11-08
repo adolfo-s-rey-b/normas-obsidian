@@ -25,10 +25,10 @@ tags:
 ### Contenido
 
 - [[art. 195 ET|Artículo 195]] — DEDUCCIONES CUYA RECUPERACIÓN CONSTITUYEN RENTA LIQUIDA
-- [[art. 196 ET|Artículo 196]] — RENTA LIQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS
+- [[art. 196 ET|Artículo 196]] — RENTA LÍQUIDA POR RECUPERACIÓN DE DEDUCCIONES EN BIENES DEPRECIADOS
 - [[art. 197 ET|Artículo 197]] — RECUPERACIÓN DE LA DEDUCCIÓN EN LAS PROVISIONES DE PENSIONES DE JUBILACIÓN
 - [[art. 198 ET|Artículo 198]] — RECUPERACIÓN DE DEDUCCIONES POR AMORTIZACIÓN
-- [[art. 199 ET|Artículo 199]] — RECUPERACIÓN POR PÉRDIDAS COMPENSADAS MODIFICADAS POR LA LIQUIDACION DE REVISIÓN
+- [[art. 199 ET|Artículo 199]] — RECUPERACIÓN POR PÉRDIDAS COMPENSADAS MODIFICADAS POR LA LIQUIDACIÓN DE REVISIÓN
 
 ---
 ← [[ET - Libro Primero - Título I - Capítulo VI - Normas aplicables a partir de 1990|Normas aplicables a partir de 1990]] · ↑ [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]] · [[ET - Libro Primero - Título I - Capítulo VI - Contratos de servicios autonomos|Contratos de servicios autonomos]] →

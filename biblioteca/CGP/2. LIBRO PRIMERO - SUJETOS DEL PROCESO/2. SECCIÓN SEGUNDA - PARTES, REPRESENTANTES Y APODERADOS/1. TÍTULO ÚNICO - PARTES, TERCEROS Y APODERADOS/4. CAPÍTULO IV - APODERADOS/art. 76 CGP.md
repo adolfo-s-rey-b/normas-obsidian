@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "76"
-epigrafe: "TERMINACIÓN DEL PODER"
+epigrafe: "Terminación del poder"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 76. TERMINACIÓN DEL PODER
+## Artículo 76. Terminación del poder
 
 El poder termina con la radicación en secretaría del escrito en virtud del cual se revoque o se designe otro apoderado, a menos que el nuevo poder se hubiese otorgado para recursos o gestiones determinadas dentro del proceso.
 

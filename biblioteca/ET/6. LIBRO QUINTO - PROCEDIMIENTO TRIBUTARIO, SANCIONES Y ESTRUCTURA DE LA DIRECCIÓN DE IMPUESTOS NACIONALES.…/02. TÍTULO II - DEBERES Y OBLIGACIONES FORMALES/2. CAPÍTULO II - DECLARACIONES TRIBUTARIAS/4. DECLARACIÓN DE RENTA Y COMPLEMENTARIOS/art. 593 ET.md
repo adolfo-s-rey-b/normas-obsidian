@@ -15,7 +15,7 @@ libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo II|CAPÍTULO II - DECLARACIONES TRIBUTARIAS]]"
 rubro: "[[ET - Libro Quinto - Título II - Capítulo II - Declaración de renta y complementarios|DECLARACIÓN DE RENTA Y COMPLEMENTARIOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 51 Ley 1111 de 2006]]"
   - "[[art. 76 Ley 788 de 2002]]"
@@ -55,7 +55,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título II - Capítulo II - Declaración de renta y complementarios|Declaración de renta y complementarios]]
@@ -72,7 +72,7 @@ tags:
 
 2\. Que no sean responsables del impuesto sobre las ventas.
 
-3.
+3\. *(texto no vigente)*
 
 > [!warning] Artículo [[art. 15 Ley 1429 de 2010|15]] de la Ley 1429 de 2010, modificatorio de este numeral, derogado por el artículo [[art. 198 Ley 1607 de 2012|198]] de la Ley 1607 de 2012
 

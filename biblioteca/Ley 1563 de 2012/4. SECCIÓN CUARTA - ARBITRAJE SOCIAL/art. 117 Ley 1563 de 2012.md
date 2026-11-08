@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "117"
-epigrafe: "ARBITRAJE SOCIAL"
+epigrafe: "Arbitraje social"
 seccion: "[[Ley 1563 de 2012 - Sección Cuarta|SECCIÓN CUARTA - ARBITRAJE SOCIAL]]"
 vigencia: "vigente"
 anterior: "[[art. 116 Ley 1563 de 2012]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Cuarta|Sección Cuarta]]
 
-## Artículo 117. ARBITRAJE SOCIAL
+## Artículo 117. Arbitraje social
 
 Los centros de arbitraje deberán promover jornadas de arbitraje social para la prestación gratuita de servicios en resolución de controversias de hasta cuarenta salarios mínimos legales mensuales vigentes (40 smlmv), sin perjuicio de que cada centro pueda prestar el servicio por cuantías superiores. Este arbitraje podrá prestarse a través de procedimientos especiales, autorizados por el Ministerio de Justicia y del Derecho, breves y sumarios.
 

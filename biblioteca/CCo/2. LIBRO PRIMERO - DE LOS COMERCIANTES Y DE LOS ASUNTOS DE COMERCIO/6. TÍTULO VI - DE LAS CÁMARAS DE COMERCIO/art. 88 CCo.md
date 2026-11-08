@@ -11,7 +11,7 @@ articulo: "88"
 epigrafe: "CONTROL Y VIGILANCIA DE RECAUDOS"
 libro: "[[CCo - Libro Primero|LIBRO PRIMERO - DE LOS COMERCIANTES Y DE LOS ASUNTOS DE COMERCIO]]"
 titulo: "[[CCo - Libro Primero - Título VI|TÍTULO VI - DE LAS CÁMARAS DE COMERCIO]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 93 CCo]]"
 anterior: "[[art. 87 CCo]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Primero|Libro Primero]] › [[CCo - Libro Primero - Título VI|Título VI]]

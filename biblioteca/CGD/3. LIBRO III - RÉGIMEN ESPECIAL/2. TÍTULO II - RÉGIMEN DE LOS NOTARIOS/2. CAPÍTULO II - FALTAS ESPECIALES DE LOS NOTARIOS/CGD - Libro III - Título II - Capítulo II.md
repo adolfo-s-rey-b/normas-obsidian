@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 77 CGD|Artículo 77]] — FALTAS GRAVÍSIMAS DE LOS NOTARIOS
+- [[art. 77 CGD|Artículo 77]] — Faltas gravísimas de los notarios
 - [[art. 78 CGD|Artículo 78]] — FALTAS DE LOS NOTARIOS
-- [[art. 79 CGD|Artículo 79]] — DEBERES Y PROHIBICIONES
+- [[art. 79 CGD|Artículo 79]] — Deberes y prohibiciones
 
 ---
 ← [[CGD - Libro III - Título II - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro III - Título II|Título II]] · [[CGD - Libro III - Título II - Capítulo III|Capítulo III]] →

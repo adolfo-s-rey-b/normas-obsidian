@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "322"
-epigrafe: "EFECTOS DE LA SUSPENSIÓN DE LA PRESCRIPCIÓN"
+epigrafe: "Efectos de la suspensión de la prescripción"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 322. EFECTOS DE LA SUSPENSIÓN DE LA PRESCRIPCIÓN
+## Artículo 322. Efectos de la suspensión de la prescripción
 
 La suspensión del término de prescripción representa que el mismo deja de transcurrir mientras dure la causa que le dio origen.
 

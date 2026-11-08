@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "48"
-epigrafe: "PERÍODO PROBATORIO"
+epigrafe: "Período probatorio"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 48. PERÍODO PROBATORIO
+## Artículo 48. Período probatorio
 
 Cuando deban practicarse pruebas se señalará un término no mayor a treinta (30) días. Cuando sean tres (3) o más investigados o se deban practicar en el exterior el término probatorio podrá ser hasta de sesenta (60) días.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "2"
-epigrafe: "OBJETO"
+epigrafe: "Objeto"
 titulo: "[[Ley 1480 de 2011 - Título I|TÍTULO I - <No incluido en documento oficial>]]"
 capitulo: "[[Ley 1480 de 2011 - Título I - Capítulo II|CAPÍTULO II - OBJETO, ÁMBITO DE APLICACIÓN, CARÁCTER DE LAS NORMAS Y DEFINICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título I|Título I]] › [[Ley 1480 de 2011 - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 2. OBJETO
+## Artículo 2. Objeto
 
 Las normas de esta ley regulan los derechos y las obligaciones surgidas entre los productores, proveedores y consumidores y la responsabilidad de los productores y proveedores tanto sustancial como procesalmente.
 

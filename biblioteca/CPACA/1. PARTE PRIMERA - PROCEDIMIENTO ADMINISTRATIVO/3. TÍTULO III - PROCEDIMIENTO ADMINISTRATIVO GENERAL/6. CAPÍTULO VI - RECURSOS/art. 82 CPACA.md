@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "82"
-epigrafe: "GRUPOS ESPECIALIZADOS PARA PREPARAR LA DECISIÓN DE LOS RECURSOS"
+epigrafe: "Grupos especializados para preparar la decisión de los recursos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VI|CAPÍTULO VI - RECURSOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VI|Capítulo VI]]
 
-## Artículo 82. GRUPOS ESPECIALIZADOS PARA PREPARAR LA DECISIÓN DE LOS RECURSOS
+## Artículo 82. Grupos especializados para preparar la decisión de los recursos
 
 La autoridad podrá crear, en su organización, grupos especializados para elaborar los proyectos de decisión de los recursos de reposición y apelación.
 

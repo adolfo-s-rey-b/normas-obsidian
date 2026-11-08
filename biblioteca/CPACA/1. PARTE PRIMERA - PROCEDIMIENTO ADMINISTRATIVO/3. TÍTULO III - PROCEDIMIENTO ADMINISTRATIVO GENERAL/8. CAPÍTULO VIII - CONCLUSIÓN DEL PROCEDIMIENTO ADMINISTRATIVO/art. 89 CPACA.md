@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "89"
-epigrafe: "CARÁCTER EJECUTORIO DE LOS ACTOS EXPEDIDOS POR LAS AUTORIDADES"
+epigrafe: "Carácter ejecutorio de los actos expedidos por las autoridades"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VIII|CAPÍTULO VIII - CONCLUSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 89. CARÁCTER EJECUTORIO DE LOS ACTOS EXPEDIDOS POR LAS AUTORIDADES
+## Artículo 89. Carácter ejecutorio de los actos expedidos por las autoridades
 
 Salvo disposición legal en contrario, los actos en firme serán suficientes para que las autoridades, por sí mismas, puedan ejecutarlos de inmediato. En consecuencia, su ejecución material procederá sin mediación de otra autoridad. Para tal efecto podrá requerirse, si fuere necesario, el apoyo o la colaboración de la Policía Nacional.
 

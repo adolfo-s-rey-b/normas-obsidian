@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "18"
-epigrafe: "REUNIONES DE LOS ÓRGANOS SOCIALES"
+epigrafe: "Reuniones de los órganos sociales"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 17 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 18. REUNIONES DE LOS ÓRGANOS SOCIALES
+## Artículo 18. Reuniones de los órganos sociales
 
 La asamblea de accionistas podrá reunirse en el domicilio principal o fuera de él, aunque no esté presente un quórum universal, siempre y cuando que se cumplan los requisitos de quórum y convocatoria previstos en los artículos [[art. 20 Ley 1258 de 2008|20]] y [[art. 22 Ley 1258 de 2008|22]] de esta ley.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "566"
-epigrafe: "TÉRMINO PARA HACERSE PARTE Y PRESENTACIÓN DE OBJECIONES"
+epigrafe: "Término para hacerse parte y presentación de objeciones"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 566. TÉRMINO PARA HACERSE PARTE Y PRESENTACIÓN DE OBJECIONES
+## Artículo 566. Término para hacerse parte y presentación de objeciones
 
 A partir de la providencia de admisión y hasta el vigésimo día siguiente a la publicación en prensa del aviso que dé cuenta de la apertura de la liquidación, los acreedores que no hubieren sido parte dentro del procedimiento de negociación de deudas deberán presentarse personalmente al proceso o por medio de apoderado judicial, presentando prueba siquiera sumaria de la existencia de su crédito.
 

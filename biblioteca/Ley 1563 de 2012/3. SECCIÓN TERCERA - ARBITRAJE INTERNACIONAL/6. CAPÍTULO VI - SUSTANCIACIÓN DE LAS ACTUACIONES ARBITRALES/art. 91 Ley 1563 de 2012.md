@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "91"
-epigrafe: "TRATO EQUITATIVO DE LAS PARTES"
+epigrafe: "Trato equitativo de las partes"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 91. TRATO EQUITATIVO DE LAS PARTES
+## Artículo 91. Trato equitativo de las partes
 
 El tribunal arbitral tratará a las partes con igualdad y dará a cada una de ellas plena oportunidad de hacer valer sus derechos.
 

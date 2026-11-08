@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "103"
-epigrafe: "CONTROL DE LAS TRANSACCIONES EN EFECTIVO"
+epigrafe: "Control de las Transacciones en Efectivo"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XVI|CAPÍTULO XVI - PREVENCION DE ACTIVIDADES DELICTIVAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 103. CONTROL DE LAS TRANSACCIONES EN EFECTIVO
+## Artículo 103. Control de las Transacciones en Efectivo
 
 1\. Transacciones sujetas a control. Toda institución financiera deberá dejar constancia, en formulario especialmente diseñado al efecto, de la información relativa a las transacciones en efectivo que realice, en moneda legal o extranjera cuyo valor sea superior a las cuantías que periódicamente señale la Superintendencia Bancaria.
 

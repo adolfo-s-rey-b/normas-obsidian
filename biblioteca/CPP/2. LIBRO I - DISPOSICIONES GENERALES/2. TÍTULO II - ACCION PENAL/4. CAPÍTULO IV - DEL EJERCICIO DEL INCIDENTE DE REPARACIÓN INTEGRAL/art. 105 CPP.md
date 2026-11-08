@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "105"
-epigrafe: "DECISIÓN DE REPARACIÓN INTEGRAL"
+epigrafe: "Decisión de reparación integral"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo IV|CAPÍTULO IV - DEL EJERCICIO DEL INCIDENTE DE REPARACIÓN INTEGRAL]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 105. DECISIÓN DE REPARACIÓN INTEGRAL
+## Artículo 105. Decisión de reparación integral
 
 En la misma audiencia el juez adoptará la decisión que ponga fin al incidente, mediante sentencia.
 

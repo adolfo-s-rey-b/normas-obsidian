@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "1"
-epigrafe: "OBJETO DE LA LEY"
+epigrafe: "Objeto de la Ley"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo I|CAPÍTULO I - OBJETO]]"
 vigencia: "vigente"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 1. OBJETO DE LA LEY
+## Artículo 1. Objeto de la Ley
 
 La presente ley tiene por objeto regular las acciones populares y las acciones de grupo de que trata el artículo [[art. 88 CPol|88]] de la Constitución Política de Colombia. Estas acciones están orientadas a garantizar la defensa y protección de los derechos e intereses colectivos, así como los de grupo o de un número plural de personal .
 

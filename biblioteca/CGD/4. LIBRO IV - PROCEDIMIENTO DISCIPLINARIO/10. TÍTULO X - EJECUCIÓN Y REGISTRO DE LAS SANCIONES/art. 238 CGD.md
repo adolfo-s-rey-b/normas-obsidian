@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238"
-epigrafe: "REGISTRO DE SANCIONES"
+epigrafe: "Registro de sanciones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título X|TÍTULO X - EJECUCIÓN Y REGISTRO DE LAS SANCIONES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título X|Título X]]
 
-## Artículo 238. REGISTRO DE SANCIONES
+## Artículo 238. Registro de sanciones
 
 Las sanciones penales y disciplinarias, las inhabilidades que se deriven de las relaciones contractuales con el Estado, de los fallos con responsabilidad fiscal, de las decisiones de pérdida de investidura y de las condenas proferidas en ejercicio de la acción de repetición o llamamiento en garantía con fines de repetición y de las provenientes del ejercicio de profesiones liberales, deberán ser registradas en la División de Registro y Control y Correspondencia de la Procuraduría General de la Nación, para efectos de la expedición del certificado de antecedentes.
 

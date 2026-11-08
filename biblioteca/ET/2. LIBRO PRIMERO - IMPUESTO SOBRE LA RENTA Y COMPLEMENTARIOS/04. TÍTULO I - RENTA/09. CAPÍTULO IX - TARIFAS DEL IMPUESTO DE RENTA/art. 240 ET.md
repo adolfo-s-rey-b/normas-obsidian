@@ -14,7 +14,7 @@ epigrafe: "TARIFA GENERAL PARA PERSONAS JURÍDICAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo IX|CAPÍTULO IX - TARIFAS DEL IMPUESTO DE RENTA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 10 Ley 2277 de 2022]]"
   - "[[art. 28 Ley 1739 de 2014]]"
@@ -52,7 +52,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo IX|Capítulo IX]]

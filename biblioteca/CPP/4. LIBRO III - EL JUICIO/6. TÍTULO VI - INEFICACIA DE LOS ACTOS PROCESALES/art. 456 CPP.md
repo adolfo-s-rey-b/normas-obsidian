@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "456"
-epigrafe: "NULIDAD POR INCOMPETENCIA DEL JUEZ"
+epigrafe: "Nulidad por incompetencia del juez"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título VI|TÍTULO VI - INEFICACIA DE LOS ACTOS PROCESALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título VI|Título VI]]
 
-## Artículo 456. NULIDAD POR INCOMPETENCIA DEL JUEZ
+## Artículo 456. Nulidad por incompetencia del juez
 
 Será motivo de nulidad el que la actuación se hubiere adelantado ante juez incompetente por razón del fuero, o porque su conocimiento esté asignado a los jueces penales de circuito especializados.
 

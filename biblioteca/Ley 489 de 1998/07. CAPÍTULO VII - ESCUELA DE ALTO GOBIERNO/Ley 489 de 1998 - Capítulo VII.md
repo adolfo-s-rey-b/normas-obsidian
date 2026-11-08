@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 30 Ley 489 de 1998|Artículo 30]] — ESCUELA DE ALTO GOBIERNO
-- [[art. 31 Ley 489 de 1998|Artículo 31]] — PARTICIPANTES
+- [[art. 30 Ley 489 de 1998|Artículo 30]] — Escuela de alto gobierno
+- [[art. 31 Ley 489 de 1998|Artículo 31]] — Participantes
 
 ---
 ← [[Ley 489 de 1998 - Capítulo VI|Capítulo VI]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo VIII|Capítulo VIII]] →

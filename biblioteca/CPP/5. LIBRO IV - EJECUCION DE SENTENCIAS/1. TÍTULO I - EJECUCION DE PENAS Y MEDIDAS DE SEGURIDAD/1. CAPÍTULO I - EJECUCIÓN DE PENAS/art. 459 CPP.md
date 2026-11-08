@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "459"
-epigrafe: "EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD"
+epigrafe: "Ejecución de penas y medidas de seguridad"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo I|CAPÍTULO I - EJECUCIÓN DE PENAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 459. EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD
+## Artículo 459. Ejecución de penas y medidas de seguridad
 
 La ejecución de la sanción penal impuesta mediante sentencia ejecutoriada, corresponde a las autoridades penitenciarias bajo la supervisión y control del Instituto Nacional Penitenciario y Carcelario, en coordinación con el juez de ejecución de penas y medidas de seguridad.
 

@@ -13,7 +13,7 @@ articulo: "730"
 epigrafe: "CAUSALES DE NULIDAD"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 122 Ley 1943 de 2018]]"
   - "[[art. 160 Ley 2010 de 2019]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
@@ -44,7 +44,7 @@ Los actos de liquidación de impuestos y resolución de recursos, proferidos por
 
 2.Cuando se omita el requerimiento especial previo a la liquidación de revisión o se pretermita el término señalado para la respuesta, conforme a lo previsto en la ley, en tributos que se determinan con base en declaraciones periódicas.
 
-3.
+3\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 122 Ley 1943 de 2018|122]] de la Ley 1943 de 2018 y el artículo [[art. 160 Ley 2010 de 2019|160]] de la Ley 2010 de 2019
 

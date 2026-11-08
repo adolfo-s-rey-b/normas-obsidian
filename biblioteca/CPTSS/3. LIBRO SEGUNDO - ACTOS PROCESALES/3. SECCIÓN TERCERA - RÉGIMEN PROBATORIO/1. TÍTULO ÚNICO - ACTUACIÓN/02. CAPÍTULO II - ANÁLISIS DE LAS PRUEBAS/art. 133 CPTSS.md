@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "133"
-epigrafe: "LIBRE FORMACIÓN DEL CONVENCIMIENTO"
+epigrafe: "Libre formación del convencimiento"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 133. LIBRE FORMACIÓN DEL CONVENCIMIENTO
+## Artículo 133. Libre formación del convencimiento
 
 El juez no estará sujeto a la tarifa legal de pruebas y por lo tanto formará libremente su convencimiento, inspirándose en los principios científicos que informan la crítica de la prueba y atendiendo a las circunstancias relevantes del pleito, en virtud de los enfoques diferenciales y a la conducta procesal observada por las partes. Sin embargo, cuando la ley exija determinada solemnidad ad substantiam actus, no se podrá admitir su prueba por otro medio.
 

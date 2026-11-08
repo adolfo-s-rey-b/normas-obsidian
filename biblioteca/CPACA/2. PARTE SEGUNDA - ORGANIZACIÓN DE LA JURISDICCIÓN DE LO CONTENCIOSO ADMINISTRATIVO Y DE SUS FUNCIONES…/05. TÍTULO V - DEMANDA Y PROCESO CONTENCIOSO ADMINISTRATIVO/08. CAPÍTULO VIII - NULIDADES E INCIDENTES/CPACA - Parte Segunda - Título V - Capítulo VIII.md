@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 207 CPACA|Artículo 207]] — CONTROL DE LEGALIDAD
-- [[art. 208 CPACA|Artículo 208]] — NULIDADES
-- [[art. 209 CPACA|Artículo 209]] — INCIDENTES
-- [[art. 210 CPACA|Artículo 210]] — OPORTUNIDAD, TRÁMITE Y EFECTO DE LOS INCIDENTES Y DE OTRAS CUESTIONES ACCESORIAS
+- [[art. 207 CPACA|Artículo 207]] — Control de legalidad
+- [[art. 208 CPACA|Artículo 208]] — Nulidades
+- [[art. 209 CPACA|Artículo 209]] — Incidentes
+- [[art. 210 CPACA|Artículo 210]] — Oportunidad, trámite y efecto de los incidentes y de otras cuestiones accesorias
 
 ---
 ← [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]] · ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]] →

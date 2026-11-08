@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "321"
-epigrafe: "PRINCIPIO DE OPORTUNIDAD Y POLÍTICA CRIMINAL"
+epigrafe: "Principio de oportunidad y política criminal"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 321. PRINCIPIO DE OPORTUNIDAD Y POLÍTICA CRIMINAL
+## Artículo 321. Principio de oportunidad y política criminal
 
 La aplicación del principio de oportunidad deberá hacerse con sujeción a la política criminal del Estado.
 

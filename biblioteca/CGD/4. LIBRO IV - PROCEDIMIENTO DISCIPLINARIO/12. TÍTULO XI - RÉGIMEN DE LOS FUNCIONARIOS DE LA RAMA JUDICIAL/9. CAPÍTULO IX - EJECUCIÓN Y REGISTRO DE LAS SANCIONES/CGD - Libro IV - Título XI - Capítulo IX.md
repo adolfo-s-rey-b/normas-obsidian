@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 260 CGD|Artículo 260]] — COMUNICACIONES
-- [[art. 261 CGD|Artículo 261]] — EJECUCIÓN DE LAS SANCIONES
-- [[art. 262 CGD|Artículo 262]] — REMISIÓN AL PROCEDIMIENTO ORDINARIO
+- [[art. 260 CGD|Artículo 260]] — Comunicaciones
+- [[art. 261 CGD|Artículo 261]] — Ejecución de las sanciones
+- [[art. 262 CGD|Artículo 262]] — Remisión al procedimiento ordinario
 
 ---
 ← [[CGD - Libro IV - Título XI - Capítulo VIII|Capítulo VIII]] · ↑ [[CGD - Libro IV - Título XI|Título XI]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "93"
-epigrafe: "CRITERIOS PARA DECRETAR MEDIDAS CAUTELARES"
+epigrafe: "Criterios para decretar medidas cautelares"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 93. CRITERIOS PARA DECRETAR MEDIDAS CAUTELARES
+## Artículo 93. Criterios para decretar medidas cautelares
 
 El juez al decretar embargos y secuestros los limitará a lo necesario, de acuerdo con las reglas establecidas en el Código de Procedimiento Civil.
 

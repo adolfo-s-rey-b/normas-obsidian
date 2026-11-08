@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "88"
-epigrafe: "EJECUCIÓN DE MEDIDAS CAUTELARES"
+epigrafe: "Ejecución de medidas cautelares"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 88. EJECUCIÓN DE MEDIDAS CAUTELARES
+## Artículo 88. Ejecución de medidas cautelares
 
 Toda medida cautelar decretada por un tribunal arbitral será vinculante sin necesidad de procedimiento alguno de reconocimiento y, salvo que el tribunal arbitral disponga otra cosa, su ejecución podrá ser solicitada ante la autoridad judicial, cualquiera que sea el Estado en donde haya sido decretada. Para este efecto, la autoridad judicial procederá a la ejecución en la misma forma prevista por la ley para la ejecución de providencias ejecutoriadas proferidas por autoridades judiciales colombianas y dentro de dicho proceso solo podrán invocarse como excepciones las previstas en el artículo [[art. 89 Ley 1563 de 2012|89]] de esta sección.
 

@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "98"
-epigrafe: "REGLAS GENERALES"
+epigrafe: "Reglas Generales"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIV|CAPÍTULO XIV - REGLAS RELATIVAS A LA COMPETENCIA Y A LA PROTECCION DEL CONSUMIDOR]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 24 Ley 795 de 2003]]"
   - "[[art. 26 Ley 795 de 2003]]"
@@ -31,12 +31,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 98. REGLAS GENERALES
+## Artículo 98. Reglas Generales
 
 1\. Reglas sobre la competencia. Están prohibidos todos los acuerdos o convenios entre empresarios, las decisiones de asociaciones empresariales y las prácticas concertadas que, directa o indirectamente, tengan por objeto o efecto impedir, restringir o falsear el juego de la libre competencia dentro del sistema financiero y asegurador.
 
@@ -84,7 +84,7 @@ La Superintendencia Bancaria, de oficio o a petición de parte, podrá ordenar, 
 
 > [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 24 Ley 795 de 2003|24]] de la Ley 795 de 2003, publicado en el Diario Oficial No. 45.064 de 15 de enero de 2003.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 101 Ley 1328 de 2009|101]] de la Ley 1328 de 2009
 

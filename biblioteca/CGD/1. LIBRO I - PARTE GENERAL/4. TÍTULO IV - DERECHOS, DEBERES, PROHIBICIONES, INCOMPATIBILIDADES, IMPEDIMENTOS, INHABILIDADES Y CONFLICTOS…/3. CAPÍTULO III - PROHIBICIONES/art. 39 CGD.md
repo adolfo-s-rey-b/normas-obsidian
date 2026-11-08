@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "39"
-epigrafe: "PROHIBICIONES"
+epigrafe: "Prohibiciones"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título IV|TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO]]"
 capitulo: "[[CGD - Libro I - Título IV - Capítulo III|CAPÍTULO III - PROHIBICIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título IV|Título IV]] › [[CGD - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 39. PROHIBICIONES
+## Artículo 39. Prohibiciones
 
 A todo servidor público le está prohibido:
 

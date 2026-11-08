@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "37"
-epigrafe: "ADJUDICACIÓN DE APOYOS EN LA TOMA DE DECISIONES PROMOVIDO POR LA PERSONA TITULAR DEL ACTO JURÍDICO"
+epigrafe: "Adjudicación de apoyos en la toma de decisiones promovido por la persona titular del acto jurídico"
 capitulo: "[[Ley 1996 de 2019 - Capítulo V|CAPÍTULO V - ADJUDICACIÓN JUDICIAL DE APOYOS]]"
 vigencia: "vigente"
 anterior: "[[art. 36 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo V|Capítulo V]]
 
-## Artículo 37. ADJUDICACIÓN DE APOYOS EN LA TOMA DE DECISIONES PROMOVIDO POR LA PERSONA TITULAR DEL ACTO JURÍDICO
+## Artículo 37. Adjudicación de apoyos en la toma de decisiones promovido por la persona titular del acto jurídico
 
 El artículo [[art. 586 CGP|586]] de la Ley 1564 de 2012 quedará así:
 
@@ -70,7 +70,7 @@ f) Las salvaguardias destinadas a evitar y asegurar que no existan los conflicto
 
 9\. Se reconocerá la función de apoyo de las personas designadas para ello. Si la persona designada como apoyo presenta dentro de los siguientes cinco (5) días excusa, se niega a ser designado como apoyo, o alega inhabilidad, se tramitará incidente para decidir sobre el mismo”.
 
-> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo [[art. 52 Ley 1996 de 2019|52]] , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
+> [!note] Notas del Editor: Destaca el editor que según lo dispuesto en el artículo 52 , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-022-21 , mediante Sentencia C-118-21 de 29 de abril de 2021, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado. - Ley declarada EXEQUIBLE, por el cargo de reserva de ley estatutaria sobre la integralidad de la Ley, por la Corte Constitucional mediante Sentencia C-022-21 de 4 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 

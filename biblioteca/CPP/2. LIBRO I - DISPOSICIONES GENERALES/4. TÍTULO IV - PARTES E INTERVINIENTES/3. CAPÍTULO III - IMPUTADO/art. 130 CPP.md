@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "130"
-epigrafe: "ATRIBUCIONES"
+epigrafe: "Atribuciones"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo III|CAPÍTULO III - IMPUTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 130. ATRIBUCIONES
+## Artículo 130. Atribuciones
 
 Además de los derechos reconocidos en los Tratados Internacionales de Derechos Humanos ratificados por Colombia y que forman parte del bloque de constitucionalidad, de la Constitución Política y de la ley, en especial de los previstos en el artículo [[art. 8 CPP|8]]o. de este código, el imputado o procesado, según el caso, dispondrá de las mismas atribuciones asignadas a la defensa que resultan compatibles con su condición. En todo caso, de mediar conflicto entre las peticiones o actuaciones de la defensa con las del imputado o procesado prevalecen las de aquella.
 

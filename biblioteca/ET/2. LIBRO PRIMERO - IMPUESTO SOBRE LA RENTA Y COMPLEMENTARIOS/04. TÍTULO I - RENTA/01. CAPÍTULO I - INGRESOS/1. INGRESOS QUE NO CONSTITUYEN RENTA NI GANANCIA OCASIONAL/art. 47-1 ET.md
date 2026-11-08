@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "47-1"
-epigrafe: "DONACIONES PARA PARTIDOS, MOVIMIENTOS Y CAMPAÑAS POLITICAS"
+epigrafe: "DONACIONES PARA PARTIDOS, MOVIMIENTOS Y CAMPAÑAS POLÍTICAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]
 
-## Artículo 47-1. DONACIONES PARA PARTIDOS, MOVIMIENTOS Y CAMPAÑAS POLITICAS
+## Artículo 47-1. DONACIONES PARA PARTIDOS, MOVIMIENTOS Y CAMPAÑAS POLÍTICAS
 
 Las sumas que las personas naturales reciban de terceros, sean estos personas naturales o jurídicas, destinadas en forma exclusiva a financiar el funcionamiento de partidos, movimientos políticos y grupos sociales que postulen candidatos y las que con el mismo fin reciban los candidatos ~~cabezas de listas~~ para la financiación de las campañas políticas para las elecciones populares previstas en la Constitución Nacional, no constituyen renta ni ganancia ocasional para el beneficiario si se demuestra que han sido utilizadas en estas actividades.
 

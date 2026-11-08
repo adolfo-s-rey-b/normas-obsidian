@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "238"
-epigrafe: "PRIVILEGIOS PROCESALES"
+epigrafe: "Privilegios Procesales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo II|CAPÍTULO II - CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO <BANCO AGRARIO DE COLOMBIA>]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo II|Capítulo II]]
 
-## Artículo 238. PRIVILEGIOS PROCESALES
+## Artículo 238. Privilegios Procesales
 
 Dentro del procedimiento civil adoptado por los Decretos Leyes 1400, 2019 de 1970 y demás normas que lo modifican, la Caja de Crédito Agrario, Industrial y Minero conservará las garantías instituídas para el ejercicio de sus acciones, antes de entrar en vigencia el nuevo código, y en especial las siguientes:
 

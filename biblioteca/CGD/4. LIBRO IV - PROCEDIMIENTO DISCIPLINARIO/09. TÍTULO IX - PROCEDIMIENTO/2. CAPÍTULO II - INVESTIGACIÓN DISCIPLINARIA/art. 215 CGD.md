@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "215"
-epigrafe: "CONTENIDO DE LA INVESTIGACIÓN DISCIPLINARIA"
+epigrafe: "Contenido de la investigación disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo II|CAPÍTULO II - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 215. CONTENIDO DE LA INVESTIGACIÓN DISCIPLINARIA
+## Artículo 215. Contenido de la investigación disciplinaria
 
 La decisión que ordena abrir investigación disciplinaria deberá contener:
 

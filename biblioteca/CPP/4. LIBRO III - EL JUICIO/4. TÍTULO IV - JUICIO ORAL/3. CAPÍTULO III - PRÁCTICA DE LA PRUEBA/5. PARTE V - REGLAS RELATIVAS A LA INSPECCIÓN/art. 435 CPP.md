@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "435"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte V|Parte V]]
 
-## Artículo 435. PROCEDENCIA
+## Artículo 435. Procedencia
 
 El juez, excepcionalmente, podrá ordenar la realización de una inspección judicial fuera del recinto de audiencia cuando, previa solicitud de la Fiscalía o la defensa, estime necesaria su práctica dada la imposibilidad de exhibir y autenticar en la audiencia, los elementos materiales probatorios y evidencia física, o cualquier otra evidencia demostrativa de la manera como ocurrieron los hechos objeto de juzgamiento.
 

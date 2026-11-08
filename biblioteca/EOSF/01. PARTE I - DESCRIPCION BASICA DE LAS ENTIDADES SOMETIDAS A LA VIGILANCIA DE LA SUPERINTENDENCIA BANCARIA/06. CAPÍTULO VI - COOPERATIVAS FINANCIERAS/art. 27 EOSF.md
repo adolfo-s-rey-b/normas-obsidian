@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "27"
-epigrafe: "OPERACIONES AUTORIZADAS"
+epigrafe: "Operaciones Autorizadas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo VI|CAPÍTULO VI - COOPERATIVAS FINANCIERAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo VI|Capítulo VI]]
 
-## Artículo 27. OPERACIONES AUTORIZADAS
+## Artículo 27. Operaciones Autorizadas
 
 1\. Captación. Los organismos cooperativos de grado superior de carácter financiero ejercerán la actividad financiera por medio de secciones de ahorro, a través de las cuales realizarán las operaciones señaladas en el numeral siguiente de este Estatuto y las permitidas a las secciones de ahorro de los bancos comerciales, bajo el régimen y disposiciones propias de éstos y del régimen cooperativo en lo pertinente.
 

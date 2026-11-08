@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "15"
-epigrafe: "PLURALIDAD DE JUECES COMPETENTES"
+epigrafe: "Pluralidad de jueces competentes"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 15. PLURALIDAD DE JUECES COMPETENTES
+## Artículo 15. Pluralidad de jueces competentes
 
 Cuando la demanda se dirija simultáneamente contra dos o más demandados, y, por tanto, tengan competencia para conocer de ella dos o más jueces, el demandante elegirá entre estos.
 

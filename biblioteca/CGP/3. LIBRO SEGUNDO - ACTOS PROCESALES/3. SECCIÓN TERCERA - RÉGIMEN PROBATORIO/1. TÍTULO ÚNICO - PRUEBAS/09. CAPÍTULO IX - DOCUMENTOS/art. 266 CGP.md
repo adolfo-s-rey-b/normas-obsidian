@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "266"
-epigrafe: "TRÁMITE DE LA EXHIBICIÓN"
+epigrafe: "Trámite de la exhibición"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 266. TRÁMITE DE LA EXHIBICIÓN
+## Artículo 266. Trámite de la exhibición
 
 Quien pida la exhibición expresará los hechos que pretende demostrar y deberá afirmar que el documento o la cosa se encuentran en poder de la persona llamada a exhibirlos, su clase y la relación que tenga con aquellos hechos. Si la solicitud reúne los anteriores requisitos el juez ordenará que se realice la exhibición en la respectiva audiencia y señalará la forma en que deba hacerse.
 

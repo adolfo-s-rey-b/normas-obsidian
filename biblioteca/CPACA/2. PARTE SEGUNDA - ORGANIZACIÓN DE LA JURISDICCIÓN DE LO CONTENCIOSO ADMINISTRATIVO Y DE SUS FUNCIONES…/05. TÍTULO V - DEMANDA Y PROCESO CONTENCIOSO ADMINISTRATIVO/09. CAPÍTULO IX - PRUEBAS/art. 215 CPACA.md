@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "215"
-epigrafe: "VALOR PROBATORIO DE LAS COPIAS"
+epigrafe: "Valor probatorio de las copias"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - PRUEBAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
   - "[[art. 252 CPC]]"
@@ -32,12 +32,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]]
 
-## Artículo 215. VALOR PROBATORIO DE LAS COPIAS
+## Artículo 215. Valor probatorio de las copias
 
 > [!warning] Inciso derogado por el artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 

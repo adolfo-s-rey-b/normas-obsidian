@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "7"
-epigrafe: "OPERACIONES"
+epigrafe: "Operaciones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo II|CAPÍTULO II - ESTABLECIMIENTOS BANCARIOS]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo II|Capítulo II]]
 
-## Artículo 7. OPERACIONES
+## Artículo 7. Operaciones
 
 1\. Operaciones autorizadas. Todo establecimiento bancario organizado de conformidad con este Estatuto tendrá las siguientes facultades, con sujeción a las restricciones y limitaciones impuestas por las leyes:
 

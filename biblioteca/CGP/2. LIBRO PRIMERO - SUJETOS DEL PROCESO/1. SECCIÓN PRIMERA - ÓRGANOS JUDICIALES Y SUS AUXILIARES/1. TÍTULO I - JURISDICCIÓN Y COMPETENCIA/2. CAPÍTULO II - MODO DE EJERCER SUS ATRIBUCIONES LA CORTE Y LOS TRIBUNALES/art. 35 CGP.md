@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "35"
-epigrafe: "ATRIBUCIONES DE LAS SALAS DE DECISIÓN Y DEL MAGISTRADO SUSTANCIADOR"
+epigrafe: "Atribuciones de las salas de decisión y del magistrado sustanciador"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 35. ATRIBUCIONES DE LAS SALAS DE DECISIÓN Y DEL MAGISTRADO SUSTANCIADOR
+## Artículo 35. Atribuciones de las salas de decisión y del magistrado sustanciador
 
 Corresponde a las salas de decisión dictar las sentencias y los autos que decidan la apelación contra el que rechace el incidente de liquidación de perjuicios de condena impuesta en abstracto o el que rechace la oposición a la diligencia de entrega o resuelva sobre ella. El magistrado sustanciador dictará los demás autos que no correspondan a la sala de decisión.
 

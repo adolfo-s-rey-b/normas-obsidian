@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "19-1"
-epigrafe: "RETENCIÓN EN LA FUENTE SOBRE RENDIMIENTOS FINANCIEROS A CARGO DE CONTRIBUYENTES DEL REGIMEN TRIBUTARIO ESPECIAL"
+epigrafe: "RETENCIÓN EN LA FUENTE SOBRE RENDIMIENTOS FINANCIEROS A CARGO DE CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 19-1. RETENCIÓN EN LA FUENTE SOBRE RENDIMIENTOS FINANCIEROS A CARGO DE CONTRIBUYENTES DEL REGIMEN TRIBUTARIO ESPECIAL
+## Artículo 19-1. RETENCIÓN EN LA FUENTE SOBRE RENDIMIENTOS FINANCIEROS A CARGO DE CONTRIBUYENTES DEL RÉGIMEN TRIBUTARIO ESPECIAL
 
 Los contribuyentes del Régimen Tributario Especial de que trata el artículo [[art. 19 ET|19]] del presente Estatuto, están sujetos a retención en la fuente de acuerdo con las normas vigentes, sobre los ingresos por rendimientos financieros que perciban durante el respectivo ejercicio gravable.
 

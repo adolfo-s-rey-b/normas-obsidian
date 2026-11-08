@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "242"
-epigrafe: "ACTUACIÓN DE AGENTES ENCUBIERTOS"
+epigrafe: "Actuación de agentes encubiertos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 242. ACTUACIÓN DE AGENTES ENCUBIERTOS
+## Artículo 242. Actuación de agentes encubiertos
 
 Cuando el fiscal tuviere motivos razonablemente fundados, de acuerdo con los medios cognoscitivos previstos en este código, para inferir que el indiciado o el imputado en la investigación que se adelanta, continúa desarrollando una actividad criminal, previa autorización del Director Nacional o Seccional de Fiscalías, podrá ordenar la utilización de agentes encubiertos, siempre que resulte indispensable para el éxito de las tareas investigativas. En desarrollo de esta facultad especial podrá disponerse que uno o varios funcionarios de la policía judicial o, incluso particulares, puedan actuar en esta condición y realizar actos extrapenales con trascendencia jurídica. En consecuencia, dichos agentes estarán facultados para intervenir en el tráfico comercial, asumir obligaciones, ingresar y participar en reuniones en el lugar de trabajo o domicilio del indiciado o imputado y, si fuere necesario, adelantar transacciones con él. Igualmente, si el agente encubierto encuentra que en los lugares donde ha actuado existe información útil para los fines de la investigación, lo hará saber al fiscal para que este disponga el desarrollo de una operación especial, por parte de la policía judicial, con miras a que se recoja la información y los elementos materiales probatorios y evidencia física hallados.
 

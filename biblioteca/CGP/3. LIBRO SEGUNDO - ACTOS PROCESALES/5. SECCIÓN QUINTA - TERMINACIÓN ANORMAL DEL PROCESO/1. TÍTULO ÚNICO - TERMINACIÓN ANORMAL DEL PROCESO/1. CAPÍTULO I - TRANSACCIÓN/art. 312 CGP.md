@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "312"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 312. TRÁMITE
+## Artículo 312. Trámite
 
 En cualquier estado del proceso podrán las partes transigir la litis. También podrán transigir las diferencias que surjan con ocasión del cumplimiento de la sentencia.
 

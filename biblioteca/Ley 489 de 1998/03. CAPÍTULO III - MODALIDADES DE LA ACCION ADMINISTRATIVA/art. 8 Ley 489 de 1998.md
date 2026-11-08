@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "8"
-epigrafe: "DESCONCENTRACION ADMINISTRATIVA"
+epigrafe: "Desconcentración administrativa"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 7 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 8. DESCONCENTRACION ADMINISTRATIVA
+## Artículo 8. Desconcentración administrativa
 
 La desconcentración es la radicación de competencias y funciones en dependencias ubicadas fuera de la sede principal del organismo o entidad administrativa, sin perjuicio de las potestades y deberes de orientación e instrucción que corresponde ejercer a los jefes superiores de la Administración, la cual no implica delegación y podrá hacerse por territorio y por funciones.
 

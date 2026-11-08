@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 34 Ley 820 de 2003|Artículo 34]] — SANCIONES
+- [[art. 34 Ley 820 de 2003|Artículo 34]] — Sanciones
 
 ---
 ← [[Ley 820 de 2003 - Capítulo IX|Capítulo IX]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo XI|Capítulo XI]] →

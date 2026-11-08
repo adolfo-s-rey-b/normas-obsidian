@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "44"
-epigrafe: "COMPETENCIA EXCEPCIONAL"
+epigrafe: "Competencia excepcional"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo III|CAPÍTULO III - COMPETENCIA TERRITORIAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 44. COMPETENCIA EXCEPCIONAL
+## Artículo 44. Competencia excepcional
 
 Cuando en el lugar en que debiera adelantarse la actuación no haya juez, o el juez único o todos los jueces disponibles se hallaren impedidos, las salas administrativas del Consejo Superior de la Judicatura, o los consejos seccionales, según su competencia, podrán a petición de parte, y para preservar los principios de concentración, eficacia, menor costo del servicio de justicia e inmediación, ordenar el traslado temporal del juez que razonablemente se considere el más próximo, así sea de diferente municipio, circuito o distrito, para atender esas diligencias o el desarrollo del proceso. La designación deberá recaer en funcionario de igual categoría, cuya competencia se entiende válidamente prorrogada. La Sala Penal de la Corte, así como los funcionarios interesados en el asunto, deberán ser informados de inmediato de esa decisión.
 

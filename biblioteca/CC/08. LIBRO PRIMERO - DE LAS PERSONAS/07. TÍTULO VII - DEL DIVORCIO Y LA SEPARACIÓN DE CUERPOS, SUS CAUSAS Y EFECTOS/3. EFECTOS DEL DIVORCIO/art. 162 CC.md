@@ -35,7 +35,7 @@ En los casos de las causales 1a, 2a, 3a, 4a, 5a,* y 7a del artículo [[art. 154 
 
 **PARAGRAFO.** Ninguno de los divorciados tendrá derecho a invocar la calidad de cónyuges sobreviviente para heredar abintestato en la sucesión del otro, ni a reclamar porción conyugal.
 
-> [!note] Notas del Editor: * Destaca el editor que la Corte Constitucional mediante Sentencia C-096-24 de 3 de abril de 2024, Magistrada Ponente Dra. Paola Andrea Meneses Mosquera, declaró la exequibilidad del numeral 5 del artículo [[art. 154 CC|154]] de este código 'en el entendido de que no da lugar (...) a la revocación de las donaciones que hubiere hecho por causa del matrimonio el cónyuge que reclama la disolución del vínculo matrimonial, prevista en el artículo [[art. 162 CC|162]] del Código Civil.' .
+> [!note] Notas del Editor: * Destaca el editor que la Corte Constitucional mediante Sentencia C-096-24 de 3 de abril de 2024, Magistrada Ponente Dra. Paola Andrea Meneses Mosquera, declaró la exequibilidad del numeral 5 del artículo 154 de este código 'en el entendido de que no da lugar (...) a la revocación de las donaciones que hubiere hecho por causa del matrimonio el cónyuge que reclama la disolución del vínculo matrimonial, prevista en el artículo [[art. 162 CC|162]] del Código Civil.' .
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo 12 de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 

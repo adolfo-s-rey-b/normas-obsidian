@@ -4,10 +4,10 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "43"
-epigrafe: "CLÁUSULAS ABUSIVAS INEFICACES DE PLENO DERECHO"
+epigrafe: "Cláusulas abusivas ineficaces de pleno derecho"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo III|CAPÍTULO III - CLÁUSULAS ABUSIVAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 118 Ley 1563 de 2012]]"
 anterior: "[[art. 42 Ley 1480 de 2011]]"
@@ -22,12 +22,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1480_de_2011
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo III|Capítulo III]]
 
-## Artículo 43. CLÁUSULAS ABUSIVAS INEFICACES DE PLENO DERECHO
+## Artículo 43. Cláusulas abusivas ineficaces de pleno derecho
 
 Son ineficaces de pleno derecho las cláusulas que:
 
@@ -53,7 +53,7 @@ Son ineficaces de pleno derecho las cláusulas que:
 
 11\. Para la terminación del contrato impongan al consumidor mayores requisitos a los solicitados al momento de la celebración del mismo, o que impongan mayores cargas a las legalmente establecidas cuando estas existan;
 
-12.
+12\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 118 Ley 1563 de 2012|118]] de la Ley 1563 de 2012
 

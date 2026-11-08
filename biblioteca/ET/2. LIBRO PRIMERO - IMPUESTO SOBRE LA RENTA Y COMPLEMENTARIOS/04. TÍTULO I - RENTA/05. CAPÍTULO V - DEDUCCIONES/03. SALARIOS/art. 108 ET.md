@@ -15,7 +15,7 @@ libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMEN
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo V - Salarios|SALARIOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 83 Ley 223 de 1995]]"
   - "[[art. 27 Ley 1393 de 2010]]"
@@ -37,7 +37,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Salarios|Salarios]]

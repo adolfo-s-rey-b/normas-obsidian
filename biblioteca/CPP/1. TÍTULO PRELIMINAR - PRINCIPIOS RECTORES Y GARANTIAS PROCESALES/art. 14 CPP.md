@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "14"
-epigrafe: "INTIMIDAD"
+epigrafe: "Intimidad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 13 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 14. INTIMIDAD
+## Artículo 14. Intimidad
 
 Toda persona tiene derecho al respeto de su intimidad. Nadie podrá ser molestado en su vida privada.
 

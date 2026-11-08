@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "227"
-epigrafe: "ORGANIZACION"
+epigrafe: "Organización"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo I|CAPÍTULO I - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO FINAGRO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 3 Decreto 2371 de 2015]]"
   - "[[art. 92 Ley 2294 de 2023]]"
@@ -49,12 +49,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo I|Capítulo I]]
 
-## Artículo 227. ORGANIZACION
+## Artículo 227. Organización
 
 1\. Naturaleza jurídica. El Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, creado por la Ley 16 de 1990, es una sociedad de economía mixta del orden nacional, organizada como establecimiento de crédito, vinculada al Ministerio de Agricultura, con patrimonio propio y autonomía administrativa.
 

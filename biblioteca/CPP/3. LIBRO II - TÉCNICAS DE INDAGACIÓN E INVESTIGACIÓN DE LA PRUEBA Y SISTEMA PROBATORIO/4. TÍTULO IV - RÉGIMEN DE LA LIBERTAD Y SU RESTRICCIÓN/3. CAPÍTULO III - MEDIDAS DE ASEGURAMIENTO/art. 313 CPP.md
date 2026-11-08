@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "313"
-epigrafe: "PROCEDENCIA DE LA DETENCIÓN PREVENTIVA"
+epigrafe: "Procedencia de la detención preventiva"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 60 Ley 1453 de 2011]]"
   - "[[art. 7 Ley 1826 de 2017]]"
@@ -32,12 +32,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 313. PROCEDENCIA DE LA DETENCIÓN PREVENTIVA
+## Artículo 313. Procedencia de la detención preventiva
 
 Satisfechos los requisitos señalados en el artículo [[art. 308 CPP|308]], procederá la detención preventiva en establecimiento carcelario, en los siguientes casos:
 

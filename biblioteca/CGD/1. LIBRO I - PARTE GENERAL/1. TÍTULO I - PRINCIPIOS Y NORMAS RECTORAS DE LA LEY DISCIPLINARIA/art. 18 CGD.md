@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "18"
-epigrafe: "CELERIDAD DE LA ACTUACIÓN DISCIPLINARIA"
+epigrafe: "Celeridad de la actuación disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 18. CELERIDAD DE LA ACTUACIÓN DISCIPLINARIA
+## Artículo 18. Celeridad de la actuación disciplinaria
 
 El funcionario competente impulsará oficiosamente la actuación disciplinaria y cumplirá estrictamente los términos previstos en este código.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 468 CGP|Artículo 468]] — DISPOSICIONES ESPECIALES PARA LA EFECTIVIDAD DE LA GARANTÍA REAL
+- [[art. 468 CGP|Artículo 468]] — Disposiciones especiales para la efectividad de la garantía real
 
 ---
 ← [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo V|Capítulo V]] · ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]] →

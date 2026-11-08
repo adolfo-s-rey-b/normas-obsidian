@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "30"
-epigrafe: "COMPETENCIA DE LA SALA DE CASACIÓN CIVIL DE LA CORTE SUPREMA DE JUSTICIA"
+epigrafe: "Competencia de la Sala de Casación Civil de la Corte Suprema de Justicia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 30. COMPETENCIA DE LA SALA DE CASACIÓN CIVIL DE LA CORTE SUPREMA DE JUSTICIA
+## Artículo 30. Competencia de la Sala de Casación Civil de la Corte Suprema de Justicia
 
 La Corte Suprema de Justicia conoce en Sala de Casación Civil:
 
@@ -54,7 +54,7 @@ El cambio de radicación se podrá disponer excepcionalmente cuando en el lugar 
 
 Adicionalmente, podrá ordenarse el cambio de radicación cuando se adviertan deficiencias de gestión y celeridad de los procesos, previo concepto de la Sala Administrativa del Consejo Superior de la Judicatura.
 
-> [!note] Notas de Vigencia: El Numeral 1o. del artículo [[art. 627 CGP|627]] establece como entrada en vigencia de este numeral 'a partir de la promulgación de esta ley'; El numeral 4o. del mismo artículo 627 establece que es 'a partir del 1o. de octubre de 2012'; Mediante el artículo [[art. 18 Decreto 1736 de 2012|18]] del Decreto 1736 de 2012, 'por el que se corrigen unos yerros en la Ley 1564 del 12 de julio de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones'', publicado en el Diario Oficial No. 48.525 de 17 de agosto de 2012, se elimina del numeral 1o. la referencia a este numeral. El artículo [[art. 18 Decreto 1736 de 2012|18]] del Decreto 1736 de 2012 fue SUSPENDIDO PROVISIONALMENTE por el Consejo de Estado, Sección Primera, Expediente No. 2012-00369-00. Auto de 19 de diciembre de 2016, Consejero Ponente Dr. Roberto Augusto Serrato Valdés. Y ANULADO mediante Fallo de 20 de septiembre de 2018.
+> [!note] Notas de Vigencia: El Numeral 1o. del artículo 627 establece como entrada en vigencia de este numeral 'a partir de la promulgación de esta ley'; El numeral 4o. del mismo artículo 627 establece que es 'a partir del 1o. de octubre de 2012'; Mediante el artículo [[art. 18 Decreto 1736 de 2012|18]] del Decreto 1736 de 2012, 'por el que se corrigen unos yerros en la Ley 1564 del 12 de julio de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones'', publicado en el Diario Oficial No. 48.525 de 17 de agosto de 2012, se elimina del numeral 1o. la referencia a este numeral. El artículo [[art. 18 Decreto 1736 de 2012|18]] del Decreto 1736 de 2012 fue SUSPENDIDO PROVISIONALMENTE por el Consejo de Estado, Sección Primera, Expediente No. 2012-00369-00. Auto de 19 de diciembre de 2016, Consejero Ponente Dr. Roberto Augusto Serrato Valdés. Y ANULADO mediante Fallo de 20 de septiembre de 2018.
 
 **PARÁGRAFO.** El Procurador General de la Nación o el Director de la Agencia Nacional de Defensa Jurídica del Estado también están legitimados para solicitar el cambio de radicación previsto en el numeral 8.
 

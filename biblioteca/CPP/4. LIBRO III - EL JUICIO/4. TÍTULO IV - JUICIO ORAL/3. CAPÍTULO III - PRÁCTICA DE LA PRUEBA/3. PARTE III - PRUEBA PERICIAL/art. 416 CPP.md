@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "416"
-epigrafe: "ACCESO A LOS ELEMENTOS MATERIALES"
+epigrafe: "Acceso a los elementos materiales"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]]
 
-## Artículo 416. ACCESO A LOS ELEMENTOS MATERIALES
+## Artículo 416. Acceso a los elementos materiales
 
 Los peritos, tanto los que hayan rendido informe, como los que sólo serán interrogados y contrainterrogados en la audiencia del juicio oral y público, tendrán acceso a los elementos materiales probatorios y evidencia física a que se refiere el informe pericial o a los que se hará referencia en el interrogatorio.
 

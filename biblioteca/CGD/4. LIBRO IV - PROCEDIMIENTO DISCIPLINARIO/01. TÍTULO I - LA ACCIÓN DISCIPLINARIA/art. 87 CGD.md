@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "87"
-epigrafe: "OBLIGATORIEDAD DE LA ACCIÓN DISCIPLINARIA"
+epigrafe: "Obligatoriedad de la acción disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 87. OBLIGATORIEDAD DE LA ACCIÓN DISCIPLINARIA
+## Artículo 87. Obligatoriedad de la acción disciplinaria
 
 El servidor público que tenga conocimiento de un hecho constitutivo de posible falta disciplinaria, si fuere competente, iniciará inmediatamente la acción correspondiente. Si no lo fuere, pondrá el hecho en conocimiento de la autoridad competente, adjuntando las pruebas que tuviere.
 

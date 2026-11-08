@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "165"
-epigrafe: "EXPEDICIÓN DE COPIAS"
+epigrafe: "Expedición de copias"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo V|CAPÍTULO V - PROVIDENCIAS JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 165. EXPEDICIÓN DE COPIAS
+## Artículo 165. Expedición de copias
 
 Las providencias judiciales solo serán reproducidas a efectos del trámite de los recursos.
 

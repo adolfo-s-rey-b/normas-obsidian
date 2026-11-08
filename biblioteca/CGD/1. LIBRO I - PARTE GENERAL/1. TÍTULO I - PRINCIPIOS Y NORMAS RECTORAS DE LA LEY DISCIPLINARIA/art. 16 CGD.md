@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "16"
-epigrafe: "COSA JUZGADA DISCIPLINARIA"
+epigrafe: "Cosa juzgada disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 16. COSA JUZGADA DISCIPLINARIA
+## Artículo 16. Cosa juzgada disciplinaria
 
 El destinatario de la ley disciplinaria cuya situación se haya decidido mediante fallo ejecutoriado o decisión que tenga la misma fuerza vinculante de naturaleza disciplinaria, proferidos por autoridad competente, no será sometido a nueva investigación y juzgamiento disciplinarios por el mismo hecho, aun cuando a este se le dé una denominación distinta.
 

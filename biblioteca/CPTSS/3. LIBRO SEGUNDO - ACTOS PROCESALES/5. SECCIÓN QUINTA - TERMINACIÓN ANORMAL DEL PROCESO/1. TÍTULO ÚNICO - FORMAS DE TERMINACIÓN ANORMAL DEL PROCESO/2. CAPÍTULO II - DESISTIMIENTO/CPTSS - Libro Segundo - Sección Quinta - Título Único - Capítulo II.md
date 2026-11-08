@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 223 CPTSS|Artículo 223]] — DESISTIMIENTO DE LAS PRETENSIONES
-- [[art. 224 CPTSS|Artículo 224]] — QUIÉNES NO PUEDEN DESISTIR DE LAS PRETENSIONES
-- [[art. 225 CPTSS|Artículo 225]] — DESISTIMIENTO DE CIERTOS ACTOS PROCESALES
+- [[art. 223 CPTSS|Artículo 223]] — Desistimiento de las pretensiones
+- [[art. 224 CPTSS|Artículo 224]] — Quiénes no pueden desistir de las pretensiones
+- [[art. 225 CPTSS|Artículo 225]] — Desistimiento de ciertos actos procesales
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Segundo - Sección Quinta - Título Único|Título Único]]

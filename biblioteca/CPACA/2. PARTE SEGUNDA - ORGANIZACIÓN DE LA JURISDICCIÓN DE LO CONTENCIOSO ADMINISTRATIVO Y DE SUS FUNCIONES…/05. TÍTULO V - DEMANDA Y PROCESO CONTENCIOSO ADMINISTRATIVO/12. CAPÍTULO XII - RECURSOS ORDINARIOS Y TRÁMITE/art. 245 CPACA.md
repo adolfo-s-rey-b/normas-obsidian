@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "245"
-epigrafe: "QUEJA"
+epigrafe: "Queja"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XII|CAPÍTULO XII - RECURSOS ORDINARIOS Y TRÁMITE]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XII|Capítulo XII]]
 
-## Artículo 245. QUEJA
+## Artículo 245. Queja
 
 Este recurso se interpondrá ante el superior cuando no se conceda, se rechace o se declare desierta la apelación, para que esta se conceda, de ser procedente.
 

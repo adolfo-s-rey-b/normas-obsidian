@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "570"
-epigrafe: "AUDIENCIA DE ADJUDICACIÓN"
+epigrafe: "Audiencia de adjudicación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 570. AUDIENCIA DE ADJUDICACIÓN
+## Artículo 570. Audiencia de adjudicación
 
 Si se hubiere presentado un acuerdo de adjudicación, el juez oirá las alegaciones que las partes no firmantes del mismo tengan respecto de su aprobación o contenido, y decidirá sobre su legalidad, siguiendo los lineamientos previstos en este artículo, con la salvedad contemplada en el inciso 2 del artículo [[art. 569A CGP|569A]], y aplicando las facultades de saneamiento por vía de interpretación del acuerdo y el principio de conservación del mismo que se prevén en el artículo [[art. 557 CGP|557]] para el acuerdo de negociación de deudas. Los interesados podrán modificar el acuerdo dentro de la misma audiencia a fin de sanear los reparos legales que en ella haga el juez, si están presentes o representados los votos necesarios para tenerlo por aprobado.
 

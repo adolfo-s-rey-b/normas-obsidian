@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "35"
-epigrafe: "TRÁMITE DE LA ACTUACIÓN Y AUDIENCIAS"
+epigrafe: "Trámite de la actuación y audiencias"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 35. TRÁMITE DE LA ACTUACIÓN Y AUDIENCIAS
+## Artículo 35. Trámite de la actuación y audiencias
 
 Los procedimientos administrativos se adelantarán por escrito, verbalmente, o por medios electrónicos de conformidad con lo dispuesto en este Código o la ley.
 

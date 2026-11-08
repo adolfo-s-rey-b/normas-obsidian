@@ -11,7 +11,7 @@ articulo: "62"
 epigrafe: "TERMINACION DEL CONTRATO POR JUSTA CAUSA"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo VI|CAPÍTULO VI - TERMINACION DEL CONTRATO DE TRABAJO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 63 CST]]"
   - "[[art. 46 Decreto 3743 de 1950]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo VI|Capítulo VI]]

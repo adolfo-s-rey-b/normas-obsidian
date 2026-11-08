@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "9"
-epigrafe: "DELEGACION"
+epigrafe: "Delegación"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 8 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 9. DELEGACION
+## Artículo 9. Delegación
 
 Las autoridades administrativas, en virtud de lo dispuesto en la Constitución Política y de conformidad con la presente ley, podrán mediante acto de delegación, transferir el ejercicio de funciones a sus colaboradores o a otras autoridades, con funciones afines o complementarias.
 

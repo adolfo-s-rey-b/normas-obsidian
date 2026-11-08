@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "93"
-epigrafe: "CONTROL DISCIPLINARIO INTERNO"
+epigrafe: "Control Disciplinario Interno"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 14 Ley 2094 de 2021]]"
 anterior: "[[art. 92 CGD]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 93. CONTROL DISCIPLINARIO INTERNO
+## Artículo 93. Control Disciplinario Interno
 
 Toda entidad u organismo del Estado, con excepción de las competencias de la Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial, debe organizar una unidad u oficina del más alto nivel encargada de conocer los procesos disciplinarios que se adelanten contra sus servidores.
 

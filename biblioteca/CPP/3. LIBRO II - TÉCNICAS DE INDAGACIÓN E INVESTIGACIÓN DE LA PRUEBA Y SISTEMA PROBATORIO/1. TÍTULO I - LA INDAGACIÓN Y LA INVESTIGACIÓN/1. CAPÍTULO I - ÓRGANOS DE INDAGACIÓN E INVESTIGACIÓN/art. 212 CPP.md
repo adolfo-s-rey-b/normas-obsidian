@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "212"
-epigrafe: "ANÁLISIS DE LA ACTIVIDAD DE POLICÍA JUDICIAL EN LA INDAGACIÓN E INVESTIGACIÓN"
+epigrafe: "Análisis de la actividad de policía judicial en la indagación e investigación"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 212. ANÁLISIS DE LA ACTIVIDAD DE POLICÍA JUDICIAL EN LA INDAGACIÓN E INVESTIGACIÓN
+## Artículo 212. Análisis de la actividad de policía judicial en la indagación e investigación
 
 Examinado el informe de inicio de las labores realizadas por la policía judicial y analizados los primeros hallazgos, si resultare que han sido diligenciadas con desconocimiento de los principios rectores y garantías procesales, el fiscal ordenará el rechazo de esas actuaciones e informará de las irregularidades advertidas a los funcionarios competentes en los ámbitos disciplinario y penal.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 226 CPTSS|Artículo 226]] — MEDIOS DE IMPUGNACIÓN
+- [[art. 226 CPTSS|Artículo 226]] — Medios de impugnación
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]] →

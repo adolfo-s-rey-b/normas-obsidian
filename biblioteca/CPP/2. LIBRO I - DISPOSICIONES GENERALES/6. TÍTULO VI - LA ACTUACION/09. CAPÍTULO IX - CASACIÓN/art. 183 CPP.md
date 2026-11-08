@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "183"
-epigrafe: "OPORTUNIDAD"
+epigrafe: "Oportunidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 183. OPORTUNIDAD
+## Artículo 183. Oportunidad
 
 El recurso se interpondrá ante el Tribunal dentro de los cinco (5) días siguientes a la última notificación y en un término posterior común de treinta (30) días se presentará la demanda que de manera precisa y concisa señale las causales invocadas y sus fundamentos.
 

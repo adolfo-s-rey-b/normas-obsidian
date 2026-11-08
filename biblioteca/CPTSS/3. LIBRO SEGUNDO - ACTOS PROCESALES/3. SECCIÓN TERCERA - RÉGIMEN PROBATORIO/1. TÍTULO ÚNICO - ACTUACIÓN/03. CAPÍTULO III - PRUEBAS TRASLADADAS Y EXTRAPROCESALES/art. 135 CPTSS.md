@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "135"
-epigrafe: "PRUEBA TRASLADADA Y PRUEBA EXTRAPROCESAL"
+epigrafe: "Prueba trasladada y prueba extraprocesal"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 135. PRUEBA TRASLADADA Y PRUEBA EXTRAPROCESAL
+## Artículo 135. Prueba trasladada y prueba extraprocesal
 
 Las pruebas practicadas válidamente en un proceso podrán trasladarse a otro en copia y serán apreciadas sin más formalidades, siempre que en el proceso de origen se hubieren practicado a petición de la parte contra quien se aducen o con audiencia de ella. En caso contrario, deberá surtirse la contradicción en el proceso al que están destinadas.
 

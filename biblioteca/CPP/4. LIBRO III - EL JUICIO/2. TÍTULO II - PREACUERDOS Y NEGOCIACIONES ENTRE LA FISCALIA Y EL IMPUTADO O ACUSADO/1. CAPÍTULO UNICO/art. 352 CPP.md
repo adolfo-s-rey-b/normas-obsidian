@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "352"
-epigrafe: "PREACUERDOS POSTERIORES A LA PRESENTACIÓN DE LA ACUSACIÓN"
+epigrafe: "Preacuerdos posteriores a la presentación de la acusación"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título II|TÍTULO II - PREACUERDOS Y NEGOCIACIONES ENTRE LA FISCALIA Y EL IMPUTADO O ACUSADO]]"
 capitulo: "[[CPP - Libro III - Título II - Capítulo Unico|CAPÍTULO UNICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título II|Título II]] › [[CPP - Libro III - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 352. PREACUERDOS POSTERIORES A LA PRESENTACIÓN DE LA ACUSACIÓN
+## Artículo 352. Preacuerdos posteriores a la presentación de la acusación
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

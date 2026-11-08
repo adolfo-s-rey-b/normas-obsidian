@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "559"
-epigrafe: "FRACASO DE LA NEGOCIACIÓN"
+epigrafe: "Fracaso de la negociación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 559. FRACASO DE LA NEGOCIACIÓN
+## Artículo 559. Fracaso de la negociación
 
 Si transcurrido el término previsto en el artículo [[art. 544 CGP|544]] no se celebra el acuerdo de pago, el conciliador declarará el fracaso de la negociación e inmediatamente remitirá las diligencias al juez civil de conocimiento, para que decrete la apertura del proceso de liquidación patrimonial.
 

@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 83 CPACA|Artículo 83]] — SILENCIO NEGATIVO
-- [[art. 84 CPACA|Artículo 84]] — SILENCIO POSITIVO
-- [[art. 85 CPACA|Artículo 85]] — PROCEDIMIENTO PARA INVOCAR EL SILENCIO ADMINISTRATIVO POSITIVO
-- [[art. 86 CPACA|Artículo 86]] — SILENCIO ADMINISTRATIVO EN RECURSOS
+- [[art. 83 CPACA|Artículo 83]] — Silencio negativo
+- [[art. 84 CPACA|Artículo 84]] — Silencio positivo
+- [[art. 85 CPACA|Artículo 85]] — Procedimiento para invocar el silencio administrativo positivo
+- [[art. 86 CPACA|Artículo 86]] — Silencio administrativo en recursos
 
 ---
 ← [[CPACA - Parte Primera - Título III - Capítulo VI|Capítulo VI]] · ↑ [[CPACA - Parte Primera - Título III|Título III]] · [[CPACA - Parte Primera - Título III - Capítulo VIII|Capítulo VIII]] →

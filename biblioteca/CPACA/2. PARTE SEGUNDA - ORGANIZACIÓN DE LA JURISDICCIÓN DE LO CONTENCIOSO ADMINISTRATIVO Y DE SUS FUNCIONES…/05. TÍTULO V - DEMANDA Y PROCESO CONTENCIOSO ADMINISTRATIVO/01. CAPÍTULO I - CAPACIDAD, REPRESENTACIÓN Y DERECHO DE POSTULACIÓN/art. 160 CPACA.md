@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "160"
-epigrafe: "DERECHO DE POSTULACIÓN"
+epigrafe: "Derecho de postulación"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo I|CAPÍTULO I - CAPACIDAD, REPRESENTACIÓN Y DERECHO DE POSTULACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 160. DERECHO DE POSTULACIÓN
+## Artículo 160. Derecho de postulación
 
 Quienes comparezcan al proceso deberán hacerlo por conducto de abogado inscrito, excepto en los casos en que la ley permita su intervención directa.
 

@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "121"
-epigrafe: "SISTEMAS DE PAGO E INTERESES"
+epigrafe: "Sistemas de Pago e Intereses"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo I|CAPÍTULO I - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES AUTORIZADAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 69 CPol]]"
 anterior: "[[art. 120 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo I|Capítulo I]]
 
-## Artículo 121. SISTEMAS DE PAGO E INTERESES
+## Artículo 121. Sistemas de Pago e Intereses
 
 1\. Capitalización de intereses en operaciones de largo plazo. En operaciones de largo plazo los establecimientos de crédito podrán utilizar sistemas de pago que contemplen la capitalización de intereses , de conformidad con las reglamentaciones que para el efecto expida el Gobierno Nacional.
 

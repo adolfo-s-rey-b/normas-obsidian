@@ -15,7 +15,7 @@ libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
 rubro: "[[ET - Libro Quinto - Título VII - Capítulo II - Compensación de las deudas fiscales|COMPENSACIÓN DE LAS DEUDAS FISCALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 64 Ley 1607 de 2012]]"
 derogado_por:
@@ -37,7 +37,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Compensación de las deudas fiscales|Compensación de las deudas fiscales]]

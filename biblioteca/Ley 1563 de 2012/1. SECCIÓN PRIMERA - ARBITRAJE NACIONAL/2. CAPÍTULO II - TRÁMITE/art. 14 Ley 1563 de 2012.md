@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "14"
-epigrafe: "INTEGRACIÓN DEL TRIBUNAL ARBITRAL"
+epigrafe: "Integración del tribunal arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 14. INTEGRACIÓN DEL TRIBUNAL ARBITRAL
+## Artículo 14. Integración del tribunal arbitral
 
 Para la integración del tribunal se procederá así:
 

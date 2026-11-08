@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "541"
-epigrafe: "QUE SE ENTIENDE POR ACTUACIÓN"
+epigrafe: "QUÉ SE ENTIENDE POR ACTUACIÓN"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título VIII|TÍTULO VIII - OBLIGACIONES Y PROHIBICIONES DE FUNCIONARIOS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título VIII|Título VIII]]
 
-## Artículo 541. QUE SE ENTIENDE POR ACTUACIÓN
+## Artículo 541. QUÉ SE ENTIENDE POR ACTUACIÓN
 
 (Fuente original compilada: L. 02/76 Art 30.) Para los efectos del impuesto, entiéndese por actuación la actividad escrita de los funcionarios oficiales y de los particulares en la tramitación, instrucción y resolución de procesos, negocios o diligencias.
 

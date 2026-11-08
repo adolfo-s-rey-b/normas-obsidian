@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "127"
-epigrafe: "AUSENCIA DEL IMPUTADO"
+epigrafe: "Ausencia del imputado"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo III|CAPÍTULO III - IMPUTADO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 127. AUSENCIA DEL IMPUTADO
+## Artículo 127. Ausencia del imputado
 
 Cuando al fiscal no le haya sido posible localizar a quien requiera para formularle imputación o tomar alguna medida de aseguramiento que lo afecte, solicitará ante el juez de control de garantías que lo declare persona ausente adjuntando los elementos de conocimiento que demuestren que ha insistido en ubicarlo. El imputado se emplazará mediante edicto que se fijará en un lugar visible de la secretaría por el término de cinco (5) días hábiles y se publicará en un medio radial y de prensa de cobertura local.
 

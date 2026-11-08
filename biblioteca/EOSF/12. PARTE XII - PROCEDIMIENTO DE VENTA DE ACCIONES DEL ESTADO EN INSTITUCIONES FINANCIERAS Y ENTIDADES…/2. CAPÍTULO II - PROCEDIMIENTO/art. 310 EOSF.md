@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "310"
-epigrafe: "FUNCIONES DEL FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS"
+epigrafe: "Funciones del Fondo de Garantías de Instituciones Financieras"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]
 
-## Artículo 310. FUNCIONES DEL FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS
+## Artículo 310. Funciones del Fondo de Garantías de Instituciones Financieras
 
 Cuando se trate de instituciones financieras que haya contribuido a capitalizar, el Fondo de Garantías de Instituciones Financieras presentará la propuesta de programa de enajenación de las acciones y bonos a que se refiere el artículo [[art. 304 EOSF|304]] de este Estatuto, una vez la Superintendencia Bancaria certifique que el estado de saneamiento patrimonial de la entidad permite proceder a su enajenación.
 

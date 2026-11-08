@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "854"
-epigrafe: "TERMINO PARA SOLICITAR LA DEVOLUCIÓN DE SALDOS A FAVOR"
+epigrafe: "TÉRMINO PARA SOLICITAR LA DEVOLUCIÓN DE SALDOS A FAVOR"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título X|TÍTULO X - DEVOLUCIONES]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título X|Título X]]
 
-## Artículo 854. TERMINO PARA SOLICITAR LA DEVOLUCIÓN DE SALDOS A FAVOR
+## Artículo 854. TÉRMINO PARA SOLICITAR LA DEVOLUCIÓN DE SALDOS A FAVOR
 
 La solicitud de devolución de impuestos deberá presentarse a más tardar dos años después de la fecha de vencimiento del término para declarar.
 

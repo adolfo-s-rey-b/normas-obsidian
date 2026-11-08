@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "151"
-epigrafe: "RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE SEGURIDAD O RESPETO A LAS VÍCTIMAS MENORES DE EDAD"
+epigrafe: "Restricciones a la publicidad por motivos de seguridad o respeto a las víctimas menores de edad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo II|CAPÍTULO II - PUBLICIDAD DE LOS PROCEDIMIENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 151. RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE SEGURIDAD O RESPETO A LAS VÍCTIMAS MENORES DE EDAD
+## Artículo 151. Restricciones a la publicidad por motivos de seguridad o respeto a las víctimas menores de edad
 
 En caso de que fuere llamada a declarar una víctima menor de edad, el juez podrá limitar total o parcialmente el acceso al público o a la prensa.
 

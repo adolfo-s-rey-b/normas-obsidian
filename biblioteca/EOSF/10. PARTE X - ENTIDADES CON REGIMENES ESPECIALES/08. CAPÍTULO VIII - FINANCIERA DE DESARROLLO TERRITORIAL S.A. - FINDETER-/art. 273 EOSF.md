@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "273"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VIII|CAPÍTULO VIII - FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER-]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 273. VIGILANCIA Y CONTROL
+## Artículo 273. Vigilancia y Control
 
 La Superintendencia Bancaria ejercerá las funciones de vigilancia y control de las operaciones que realice la Financiera de Desarrollo Territorial S.A., Findeter, con iguales facultades a las concedidas y que en el futuro le conceda la ley en relación con las entidades del sistema financiero.
 

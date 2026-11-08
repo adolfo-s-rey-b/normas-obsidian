@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "326"
-epigrafe: "LIQUIDACIÓN"
+epigrafe: "Liquidación"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo IV|CAPÍTULO IV - CONDENA, LIQUIDACIÓN Y COBRO DE LAS COSTAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo IV|Capítulo IV]]
 
-## Artículo 326. LIQUIDACIÓN
+## Artículo 326. Liquidación
 
 Las costas y agencias en derecho serán liquidadas de manera concentrada en el juzgado que haya conocido del proceso en primera instancia, inmediatamente quede ejecutoriada la providencia que le ponga fin al proceso o notificado el auto de obedecimiento a lo dispuesto por el superior, con sujeción a las siguientes reglas:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "376"
-epigrafe: "SERVIDUMBRES"
+epigrafe: "Servidumbres"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 376. SERVIDUMBRES
+## Artículo 376. Servidumbres
 
 En los procesos sobre servidumbres se deberá citar a las personas que tengan derechos reales sobre los predios dominante y sirviente, de acuerdo con el certificado del registrador de instrumentos públicos que se acompañará a la demanda. Igualmente se deberá acompañar el dictamen sobre la constitución, variación o extinción de la servidumbre.
 

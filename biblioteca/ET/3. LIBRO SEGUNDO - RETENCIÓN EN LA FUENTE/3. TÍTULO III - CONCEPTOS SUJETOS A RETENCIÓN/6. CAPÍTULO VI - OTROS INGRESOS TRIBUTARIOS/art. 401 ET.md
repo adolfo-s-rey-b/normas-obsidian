@@ -14,7 +14,7 @@ epigrafe: "RETENCIÓN SOBRE OTROS INGRESOS TRIBUTARIOS"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo VI|CAPÍTULO VI - OTROS INGRESOS TRIBUTARIOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 18 Ley 633 de 2000]]"
   - "[[art. 9 Ley 174 de 1994]]"
@@ -35,7 +35,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo VI|Capítulo VI]]

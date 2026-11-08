@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "200"
-epigrafe: "VIOLACIÓN DE LOS DERECHOS DE REUNIÓN Y ASOCIACIÓN"
+epigrafe: "Violación de los derechos de reunion y asociacion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título III|TÍTULO III - DELITOS CONTRA LA LIBERTAD INDIVIDUAL Y OTRAS GARANTIAS]]"
 capitulo: "[[CP - Libro Segundo - Título III - Capítulo Octavo|CAPÍTULO OCTAVO - DE LOS DELITOS CONTRA LA LIBERTAD DE TRABAJO Y ASOCIACION]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título III|Título III]] › [[CP - Libro Segundo - Título III - Capítulo Octavo|Capítulo Octavo]]
 
-## Artículo 200. VIOLACIÓN DE LOS DERECHOS DE REUNIÓN Y ASOCIACIÓN
+## Artículo 200. Violación de los derechos de reunion y asociacion
 
 El que impida o perturbe una reunión lícita o el ejercicio de los derechos que conceden las leyes laborales o tome represalias con motivo de huelga, reunión o asociación legítimas, incurrirá en pena de prisión de uno (1) a dos (2) años y multa de cien (100) a trescientos (300) salarios mínimos legales mensuales vigentes.
 

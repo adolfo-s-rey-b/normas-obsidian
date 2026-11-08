@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 70 Ley 472 de 1998|Artículo 70]] — CREACION Y FUENTE DE RECURSOS
-- [[art. 71 Ley 472 de 1998|Artículo 71]] — FUNCIONES DEL FONDO
-- [[art. 72 Ley 472 de 1998|Artículo 72]] — MANEJO DEL FONDO
-- [[art. 73 Ley 472 de 1998|Artículo 73]] — MONTO DE LA FINANCIACION
+- [[art. 70 Ley 472 de 1998|Artículo 70]] — Creación y Fuente de Recursos
+- [[art. 71 Ley 472 de 1998|Artículo 71]] — Funciones del Fondo
+- [[art. 72 Ley 472 de 1998|Artículo 72]] — Manejo del Fondo
+- [[art. 73 Ley 472 de 1998|Artículo 73]] — Monto de la Financiación
 
 ---
 ↑ [[Ley 472 de 1998 - Título IV|Título IV]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "128"
-epigrafe: "TASAS DE INTERES EN OPERACIONES PASIVAS"
+epigrafe: "Tasas de Interés en Operaciones Pasivas"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 128. TASAS DE INTERES EN OPERACIONES PASIVAS
+## Artículo 128. Tasas de Interés en Operaciones Pasivas
 
 1\. Tasas de interés de los depósitos de ahorro, comunes y a término. De acuerdo con los artículos [[art. 1 EOSF|1]]o. y 3o. del Decreto 2994 de 1990, las tasas de interés que ofrezcan reconocer los bancos comerciales por la captación de recursos mediante depósitos de ahorro, comunes y a término, así como su forma de liquidación, serán fijadas libremente por la entidad depositaria e informadas al público, de acuerdo con la reglamentación que para el efecto expida la Superintendencia Bancaria.
 

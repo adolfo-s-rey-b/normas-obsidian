@@ -15,7 +15,7 @@ libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMEN
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo II|CAPÍTULO II - COSTOS]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo II - Costo de los activos movibles|COSTO DE LOS ACTIVOS MOVIBLES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 46 Ley 1819 de 2016]]"
 anterior: "[[art. 66 ET]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo II|Capítulo II]] › [[ET - Libro Primero - Título I - Capítulo II - Costo de los activos movibles|Costo de los activos movibles]]

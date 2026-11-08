@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "39"
-epigrafe: "OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN"
+epigrafe: "Otorgamiento y práctica de la comisión"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISI]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título II|Título II]]
 
-## Artículo 39. OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN
+## Artículo 39. Otorgamiento y práctica de la comisión
 
 La providencia que confiera una comisión indicará su objeto con precisión y claridad. El despacho que se libre llevará una reproducción del contenido de aquella, de las piezas que haya ordenado el comitente y de las demás que soliciten las partes, siempre que suministren las expensas en el momento de la solicitud. En ningún caso se remitirá al comisionado el expediente original.
 

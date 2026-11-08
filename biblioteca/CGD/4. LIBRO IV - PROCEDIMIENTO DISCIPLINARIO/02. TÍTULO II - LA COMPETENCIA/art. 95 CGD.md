@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "95"
-epigrafe: "COMPETENCIA DE LA PROCURADURÍA GENERAL DE LA NACIÓN Y LAS PERSONERÍAS"
+epigrafe: "Competencia de la Procuraduría General de la Nación y las Personerías"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 95. COMPETENCIA DE LA PROCURADURÍA GENERAL DE LA NACIÓN Y LAS PERSONERÍAS
+## Artículo 95. Competencia de la Procuraduría General de la Nación y las Personerías
 
 Los procesos disciplinarios que adelante la Procuraduría General de la Nación y las personerías distritales y municipales se tramitarán de conformidad con las competencias establecidas en la ley que determina su estructura y funcionamiento y resoluciones que la desarrollen, con observancia del procedimiento establecido en este código.
 

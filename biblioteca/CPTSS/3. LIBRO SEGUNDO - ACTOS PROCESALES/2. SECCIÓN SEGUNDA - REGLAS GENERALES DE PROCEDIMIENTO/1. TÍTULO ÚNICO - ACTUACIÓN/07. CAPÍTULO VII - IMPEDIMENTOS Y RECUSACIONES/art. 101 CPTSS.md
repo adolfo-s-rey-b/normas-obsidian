@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "101"
-epigrafe: "FORMULACIÓN Y TRÁMITE DE LA RECUSACIÓN"
+epigrafe: "Formulación y trámite de la recusación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 101. FORMULACIÓN Y TRÁMITE DE LA RECUSACIÓN
+## Artículo 101. Formulación y trámite de la recusación
 
 La recusación se propondrá ante el juez del conocimiento o el magistrado ponente, con expresión de la causal alegada, de los hechos en que se fundamente y de las pruebas que se pretenda hacer valer.
 

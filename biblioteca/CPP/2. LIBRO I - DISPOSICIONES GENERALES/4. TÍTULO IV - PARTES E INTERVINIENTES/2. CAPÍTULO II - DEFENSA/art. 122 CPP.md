@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "122"
-epigrafe: "INCOMPATIBILIDAD DE LA DEFENSA"
+epigrafe: "Incompatibilidad de la defensa"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEFENSA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 122. INCOMPATIBILIDAD DE LA DEFENSA
+## Artículo 122. Incompatibilidad de la defensa
 
 La defensa de varios imputados podrá adelantarla un defensor común, siempre y cuando no medie conflicto de interés ni las defensas resulten incompatibles entre sí.
 

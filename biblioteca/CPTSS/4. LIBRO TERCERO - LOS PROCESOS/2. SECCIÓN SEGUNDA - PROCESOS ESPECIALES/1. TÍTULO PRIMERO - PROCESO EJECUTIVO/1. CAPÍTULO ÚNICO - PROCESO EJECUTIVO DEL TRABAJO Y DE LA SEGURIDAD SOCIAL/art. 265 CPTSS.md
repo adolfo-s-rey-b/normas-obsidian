@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "265"
-epigrafe: "ACCIONES DE COBRO POR PARTE DE LAS ENTIDADES ADMINISTRADORAS DEL SISTEMA DE SEGURIDAD SOCIAL"
+epigrafe: "Acciones de cobro por parte de las entidades administradoras del sistema de seguridad social"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 265. ACCIONES DE COBRO POR PARTE DE LAS ENTIDADES ADMINISTRADORAS DEL SISTEMA DE SEGURIDAD SOCIAL
+## Artículo 265. Acciones de cobro por parte de las entidades administradoras del sistema de seguridad social
 
 Prestan mérito ejecutivo ante la jurisdicción del trabajo, los actos proferidos por las entidades administradoras del Sistema de Seguridad Social Integral encargadas del recaudo, las cuales declaren la obligación de pagar las cuotas o cotizaciones que se les adeuden, una vez agotado el procedimiento interno ante la respectiva entidad.
 

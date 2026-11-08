@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "453"
-epigrafe: "PAGO DEL PRECIO E IMPROBACIÓN DEL REMATE"
+epigrafe: "Pago del precio e improbación del remate"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 453. PAGO DEL PRECIO E IMPROBACIÓN DEL REMATE
+## Artículo 453. Pago del precio e improbación del remate
 
 El rematante deberá consignar el saldo del precio dentro de los cinco (5) días siguientes a la diligencia a órdenes del juzgado de conocimiento, descontada la suma que depositó para hacer postura, y presentar el recibo de pago del impuesto de remate si existiere el impuesto.
 

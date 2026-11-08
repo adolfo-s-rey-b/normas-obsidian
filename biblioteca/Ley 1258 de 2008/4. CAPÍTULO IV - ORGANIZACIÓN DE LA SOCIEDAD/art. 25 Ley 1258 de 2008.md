@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "25"
-epigrafe: "JUNTA DIRECTIVA"
+epigrafe: "Junta Directiva"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 24 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 25. JUNTA DIRECTIVA
+## Artículo 25. Junta Directiva
 
 La sociedad por acciones simplificada no estará obligada a tener junta directiva, salvo previsión estatutaria en contrario. Si no se estipula la creación de una junta directiva, la totalidad de las funciones de administración y representación legal le corresponderán al representante legal designado por la asamblea.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "48"
-epigrafe: "TITULARES DE LAS ACCIONES"
+epigrafe: "Titulares de las Acciones"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo II|CAPÍTULO II - LEGITIMACION]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 48. TITULARES DE LAS ACCIONES
+## Artículo 48. Titulares de las Acciones
 
 Podrán presentar acciones de grupo las personas naturales o jurídicas que hubieren sufrido un perjuicio individual conforme lo establece el artículo [[art. 47 Ley 472 de 1998|47]].
 

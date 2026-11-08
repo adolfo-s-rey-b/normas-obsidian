@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "261"
-epigrafe: "RESPONSABILIDAD DE CADA CUSTODIO"
+epigrafe: "Responsabilidad de cada custodio"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo V|CAPÍTULO V - CADENA DE CUSTODIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 261. RESPONSABILIDAD DE CADA CUSTODIO
+## Artículo 261. Responsabilidad de cada custodio
 
 Cada servidor público de los mencionados en los artículos anteriores, será responsable de la custodia del contenedor y del elemento material durante el tiempo que esté en su poder, de modo que no pueda ser destruido, suplantado, alterado o deteriorado.
 

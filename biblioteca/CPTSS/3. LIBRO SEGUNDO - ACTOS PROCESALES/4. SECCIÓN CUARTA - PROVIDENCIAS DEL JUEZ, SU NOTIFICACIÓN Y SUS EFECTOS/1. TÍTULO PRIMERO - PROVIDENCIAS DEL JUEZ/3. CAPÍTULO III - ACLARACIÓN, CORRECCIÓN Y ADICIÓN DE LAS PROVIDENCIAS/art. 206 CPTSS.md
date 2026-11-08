@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "206"
-epigrafe: "CORRECCIÓN DE ERRORES ARITMÉTICOS Y OTROS"
+epigrafe: "Corrección de errores aritméticos y otros"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|TÍTULO PRIMERO - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo III|Capítulo III]]
 
-## Artículo 206. CORRECCIÓN DE ERRORES ARITMÉTICOS Y OTROS
+## Artículo 206. Corrección de errores aritméticos y otros
 
 Toda providencia en que se haya incurrido en error puramente aritmético puede ser corregida por el juez que la dictó en cualquier tiempo, de oficio o a solicitud de parte, mediante auto.
 

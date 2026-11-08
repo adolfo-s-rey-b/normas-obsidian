@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "159"
-epigrafe: "APRECIACIÓN INTEGRAL DE LAS PRUEBAS"
+epigrafe: "Apreciación integral de las pruebas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 159. APRECIACIÓN INTEGRAL DE LAS PRUEBAS
+## Artículo 159. Apreciación integral de las pruebas
 
 Las pruebas deberán apreciarse conjuntamente, de acuerdo con las reglas de la sana crítica.
 

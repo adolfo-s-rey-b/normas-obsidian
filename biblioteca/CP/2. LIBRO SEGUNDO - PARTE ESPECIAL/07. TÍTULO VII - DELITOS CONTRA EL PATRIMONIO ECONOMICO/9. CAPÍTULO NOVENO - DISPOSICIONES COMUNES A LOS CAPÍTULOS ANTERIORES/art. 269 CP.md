@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "269"
-epigrafe: "REPARACIÓN"
+epigrafe: "Reparacion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VII|TÍTULO VII - DELITOS CONTRA EL PATRIMONIO ECONOMICO]]"
 capitulo: "[[CP - Libro Segundo - Título VII - Capítulo Noveno|CAPÍTULO NOVENO - DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VII|Título VII]] › [[CP - Libro Segundo - Título VII - Capítulo Noveno|Capítulo Noveno]]
 
-## Artículo 269. REPARACIÓN
+## Artículo 269. Reparacion
 
 El juez disminuirá las penas señaladas en los capítulos anteriores de la mitad a las tres cuartas partes, si antes de dictarse sentencia de primera o única instancia, el responsable restituyere el objeto material del delito o su valor, e indemnizare los perjuicios ocasionados al ofendido o perjudicado.
 

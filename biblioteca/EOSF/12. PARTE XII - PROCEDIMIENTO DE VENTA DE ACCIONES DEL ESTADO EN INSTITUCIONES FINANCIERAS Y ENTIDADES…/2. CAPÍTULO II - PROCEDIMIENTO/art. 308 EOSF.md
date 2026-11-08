@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "308"
-epigrafe: "PARTICIPACION DE SUSCRIPTORES PROFESIONALES"
+epigrafe: "Participación de Suscriptores Profesionales"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]
 
-## Artículo 308. PARTICIPACION DE SUSCRIPTORES PROFESIONALES
+## Artículo 308. Participación de Suscriptores Profesionales
 
 Con el objeto de facilitar el acceso de las personas a la propiedad de las instituciones financieras y aseguradoras autorízase a participar en el martillo a suscriptores profesionales que mediante operaciones en firme o al mejor esfuerzo, se comprometan a colocar entre el público y de manera amplia y democrática la totalidad o parte de las acciones o bonos obligatoriamente convertibles en acciones dentro de las condiciones que se aprueben en el programa de enajenación en el plazo que se señale para el efecto. La capacidad financiera y administrativa de tales suscriptores será calificada previamente por el Fondo de Garantías de Instituciones Financieras, entidad que señalará igualmente las garantías de seriedad que tales suscriptores deben constituir.
 

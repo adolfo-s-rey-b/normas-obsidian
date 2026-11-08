@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "45"
-epigrafe: "DE LA NULIDAD ABSOLUTA"
+epigrafe: "De la Nulidad Absoluta"
 rubro: "[[Ley 80 de 1993 - Iv. de la nulidad de los contratos|IV. DE LA NULIDAD DE LOS CONTRATOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 32 Ley 446 de 1998]]"
   - "[[art. 87 CCA]]"
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iv. de la nulidad de los contratos|Iv. de la nulidad de los contratos]]
 
-## Artículo 45. DE LA NULIDAD ABSOLUTA
+## Artículo 45. De la Nulidad Absoluta
 
 La nulidad absoluta podrá ser alegada por las partes, por el agente del ministerio público, por cualquier persona o declarada de oficio, y no es susceptible de saneamiento por ratificación.
 

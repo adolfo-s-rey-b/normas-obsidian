@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "277"
-epigrafe: "AUTENTICIDAD"
+epigrafe: "Autenticidad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo Unico|CAPÍTULO UNICO - ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 277. AUTENTICIDAD
+## Artículo 277. Autenticidad
 
 Los elementos materiales probatorios y la evidencia física son auténticos cuando han sido detectados, fijados, recogidos y embalados técnicamente, y sometidos a las reglas de cadena de custodia.
 

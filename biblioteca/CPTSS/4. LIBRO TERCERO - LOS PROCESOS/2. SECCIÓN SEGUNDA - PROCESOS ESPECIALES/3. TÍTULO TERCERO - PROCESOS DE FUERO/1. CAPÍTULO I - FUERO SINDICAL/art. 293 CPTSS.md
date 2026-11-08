@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "293"
-epigrafe: "DEMANDA DEL TRABAJADOR"
+epigrafe: "Demanda del trabajador"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|TÍTULO TERCERO - PROCESOS DE FUERO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|Capítulo I]]
 
-## Artículo 293. DEMANDA DEL TRABAJADOR
+## Artículo 293. Demanda del trabajador
 
 El trabajador que hubiere sido despedido o desmejorado en sus condiciones de trabajo o trasladado sin justa causa previamente calificada por el juez laboral, podrá demandar el amparo del fuero sindical.
 

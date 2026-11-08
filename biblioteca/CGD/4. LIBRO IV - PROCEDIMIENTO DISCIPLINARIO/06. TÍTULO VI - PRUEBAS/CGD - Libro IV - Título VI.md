@@ -22,20 +22,20 @@ tags:
 
 ### Contenido
 
-- [[art. 147 CGD|Artículo 147]] — NECESIDAD Y CARGA DE LA PRUEBA
+- [[art. 147 CGD|Artículo 147]] — Necesidad y carga de la prueba
 - [[art. 148 CGD|Artículo 148]] — IMPARCIALIDAD DEL FUNCIONARIO EN LA BÚSQUEDA DE LA PRUEBA
-- [[art. 149 CGD|Artículo 149]] — MEDIOS DE PRUEBA
-- [[art. 150 CGD|Artículo 150]] — LIBERTAD DE PRUEBAS
-- [[art. 151 CGD|Artículo 151]] — PETICIÓN Y NEGACIÓN DE PRUEBAS
-- [[art. 152 CGD|Artículo 152]] — PRÁCTICA DE PRUEBAS POR COMISIONADO
-- [[art. 153 CGD|Artículo 153]] — PRÁCTICA DE PRUEBAS EN EL EXTERIOR
-- [[art. 154 CGD|Artículo 154]] — PRUEBA TRASLADADA
-- [[art. 155 CGD|Artículo 155]] — ASEGURAMIENTO DE LA PRUEBA
-- [[art. 156 CGD|Artículo 156]] — APOYO TÉCNICO
-- [[art. 157 CGD|Artículo 157]] — OPORTUNIDAD PARA CONTROVERTIR LA PRUEBA
-- [[art. 158 CGD|Artículo 158]] — INEXISTENCIA DE LA PRUEBA
-- [[art. 159 CGD|Artículo 159]] — APRECIACIÓN INTEGRAL DE LAS PRUEBAS
-- [[art. 160 CGD|Artículo 160]] — PRUEBA PARA SANCIONAR
+- [[art. 149 CGD|Artículo 149]] — Medios de prueba
+- [[art. 150 CGD|Artículo 150]] — Libertad de pruebas
+- [[art. 151 CGD|Artículo 151]] — Petición y negación de pruebas
+- [[art. 152 CGD|Artículo 152]] — Practica de pruebas por comisionado
+- [[art. 153 CGD|Artículo 153]] — Practica de pruebas en el exterior
+- [[art. 154 CGD|Artículo 154]] — Prueba trasladada
+- [[art. 155 CGD|Artículo 155]] — Aseguramiento de la prueba
+- [[art. 156 CGD|Artículo 156]] — Apoyo técnico
+- [[art. 157 CGD|Artículo 157]] — Oportunidad para controvertir la prueba
+- [[art. 158 CGD|Artículo 158]] — Inexistencia de la prueba
+- [[art. 159 CGD|Artículo 159]] — Apreciación integral de las pruebas
+- [[art. 160 CGD|Artículo 160]] — Prueba para sancionar
 - [[art. 160A CGD|Artículo 160A]] — APLICACIÓN DE ENFOQUE DIFERENCIAL E INTERSECCIONAL PARA LA VALORACIÓN PROBATORIA EN LOS CASOS DE ACOSO SEXUAL
 - [[CGD - Libro IV - Título VI - Capítulo I|CAPÍTULO I - CONFESIÓN]] (arts. 161 a 163)
 - [[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]] (arts. 164 a 176)

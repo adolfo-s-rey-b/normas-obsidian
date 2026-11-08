@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 200 CGD|Artículo 200]] — ATRIBUCIONES DE POLICÍA JUDICIAL
-- [[art. 201 CGD|Artículo 201]] — INTANGIBILIDAD DE LAS GARANTÍAS CONSTITUCIONALES
+- [[art. 200 CGD|Artículo 200]] — Atribuciones de policía judicial
+- [[art. 201 CGD|Artículo 201]] — Intangibilidad de las garantías constitucionales
 
 ---
 ← [[CGD - Libro IV - Título VI|Título VI]] · ↑ [[CGD - Libro IV|Libro IV]] · [[CGD - Libro IV - Título VIII|Título VIII]] →

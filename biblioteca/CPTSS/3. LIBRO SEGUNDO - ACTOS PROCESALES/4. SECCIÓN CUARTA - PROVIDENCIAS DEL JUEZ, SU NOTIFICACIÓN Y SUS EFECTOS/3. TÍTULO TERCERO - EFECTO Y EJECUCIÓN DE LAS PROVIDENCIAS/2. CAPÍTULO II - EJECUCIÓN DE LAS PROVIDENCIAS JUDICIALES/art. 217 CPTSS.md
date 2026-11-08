@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "217"
-epigrafe: "EJECUCIÓN"
+epigrafe: "Ejecución"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|TÍTULO TERCERO - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo II|Capítulo II]]
 
-## Artículo 217. EJECUCIÓN
+## Artículo 217. Ejecución
 
 Cuando la sentencia condene al pago de una suma de dinero, a la entrega de bienes muebles que no hayan sido secuestrados en el mismo proceso, o al cumplimiento de una obligación de hacer, el acreedor, sin necesidad de formular demanda, deberá solicitar la ejecución con base en la sentencia, ante el juez del conocimiento, para que se adelante el proceso ejecutivo a continuación y dentro del mismo expediente en que fue dictada. Formulada la solicitud el juez librará mandamiento ejecutivo de acuerdo con lo señalado en la parte resolutiva de la sentencia y, de ser el caso, por las costas aprobadas, sin que sea necesario, para iniciar la ejecución, esperar a que se surta el trámite anterior.
 

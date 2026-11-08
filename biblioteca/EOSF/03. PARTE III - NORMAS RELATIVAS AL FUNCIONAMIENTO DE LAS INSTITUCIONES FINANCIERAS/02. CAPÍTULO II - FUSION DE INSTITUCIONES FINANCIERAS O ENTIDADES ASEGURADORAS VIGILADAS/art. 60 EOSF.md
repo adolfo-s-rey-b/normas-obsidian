@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "60"
-epigrafe: "PROCEDIMIENTO DE FORMALIZACION Y EFECTOS DE LA FUSION"
+epigrafe: "Procedimiento de Formalización y Efectos de la Fusión"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 60. PROCEDIMIENTO DE FORMALIZACION Y EFECTOS DE LA FUSION
+## Artículo 60. Procedimiento de Formalización y Efectos de la Fusión
 
 1\. Formalización. La entidad absorbente o nueva podrá formalizar el acuerdo de fusión cuando venza el término sin que la Superintendencia Bancaria formule objeción, o declare anticipadamente la ausencia de objeción.
 

@@ -24,14 +24,14 @@ tags:
 ### Contenido
 
 - [[art. 103 CP|Artículo 103]] — Homicidio
-- [[art. 103A CP|Artículo 103A]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA CUANDO EL HOMICIDIO RECAE EN NIÑO, NIÑA O ADOLESCENTE
-- [[art. 104 CP|Artículo 104]] — CIRCUNSTANCIAS DE AGRAVACIÓN
-- [[art. 104A CP|Artículo 104A]] — FEMINICIDIO
-- [[art. 104B CP|Artículo 104B]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA DEL FEMINICIDIO
+- [[art. 103A CP|Artículo 103A]] — Circunstancias De Agravación Punitiva Cuando El Homicidio Recae En Nino, Nina O Adolescente
+- [[art. 104 CP|Artículo 104]] — Circunstancias de agravacion
+- [[art. 104A CP|Artículo 104A]] — Feminicidio
+- [[art. 104B CP|Artículo 104B]] — Circunstancias De Agravación Punitiva Del Feminicidio
 - [[art. 105 CP|Artículo 105]] — Homicidio preterintencional
-- [[art. 106 CP|Artículo 106]] — HOMICIDIO POR PIEDAD
-- [[art. 107 CP|Artículo 107]] — INDUCCIÓN O AYUDA AL SUICIDIO
-- [[art. 108 CP|Artículo 108]] — MUERTE DE HIJO FRUTO DE ACCESO CARNAL VIOLENTO, ABUSIVO, O DE INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS
+- [[art. 106 CP|Artículo 106]] — Homicidio por piedad
+- [[art. 107 CP|Artículo 107]] — Inducción o ayuda al suicidio
+- [[art. 108 CP|Artículo 108]] — Muerte de hijo fruto de acceso carnal violento, abusivo, o de inseminación artificial o transferencia de ovulo fecundado no consentidas
 - [[art. 109 CP|Artículo 109]] — Homicidio culposo
 - [[art. 110 CP|Artículo 110]] — Circunstancias de agravación punitiva para el homicidio culposo
 

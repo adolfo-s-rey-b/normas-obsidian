@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 326 CST|Artículo 326]] — ASISTENCIA MEDICA
+- [[art. 326 CST|Artículo 326]] — ASISTENCIA MÉDICA
 
 ---
 ← [[CST - Título IX - Capítulo VIII|Capítulo VIII]] · ↑ [[CST - Título IX|Título IX]] · [[CST - Título IX - Capítulo X|Capítulo X]] →

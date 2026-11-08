@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 213 CP|Artículo 213]] — INDUCCIÓN A LA PROSTITUCIÓN
+- [[art. 213 CP|Artículo 213]] — Inducción a la prostitucion
 - [[art. 213A CP|Artículo 213A]]
 - [[art. 214 CP|Artículo 214]] — Constreñimiento a la prostitucion
 - [[art. 215 CP|Artículo 215]] — Trata de personas
-- [[art. 216 CP|Artículo 216]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
-- [[art. 217 CP|Artículo 217]] — ESTIMULO A LA PROSTITUCIÓN DE MENORES
+- [[art. 216 CP|Artículo 216]] — Circunstancias de agravación punitiva
+- [[art. 217 CP|Artículo 217]] — Estimulo a la prostitución de menores
 - [[art. 217A CP|Artículo 217A]]
 - [[art. 218 CP|Artículo 218]] — PORNOGRAFÍA CON PERSONAS MENORES DE 18 AÑOS
 - [[art. 219 CP|Artículo 219]] — TURISMO SEXUAL

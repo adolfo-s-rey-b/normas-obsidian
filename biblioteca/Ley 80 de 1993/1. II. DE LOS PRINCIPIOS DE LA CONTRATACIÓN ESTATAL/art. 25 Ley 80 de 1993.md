@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "25"
-epigrafe: "DEL PRINCIPIO DE ECONOMÍA"
+epigrafe: "Del Principio de Economía"
 rubro: "[[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|II. DE LOS PRINCIPIOS DE LA CONTRATACIÓN ESTATAL]]"
 vigencia: "parcialmente derogado"
 modificado_por:
@@ -30,7 +30,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|Ii. de los principios de la contratación estatal]]
 
-## Artículo 25. DEL PRINCIPIO DE ECONOMÍA
+## Artículo 25. Del Principio de Economía
 
 En virtud de este principio:
 
@@ -114,7 +114,7 @@ Cuando el objeto de la contratación incluya la realización de una obra, en la 
 
 > [!warning] Notas de Vigencia: Expresión 'concurso' derogada por el artículo [[art. 32 Ley 1150 de 2007|32]] de la Ley 1150 de 2007 'por medio de la cual se introducen medidas para la eficiencia y la transparencia en la Ley 80 de 1993 y se dictan otras disposiciones generales sobre la contratación con Recursos Públicos', publicada en el Diario Oficial No. 46.691 de 16 de julio de 2007. Empieza a regir seis (6) meses después de su promulgación según lo ordena el artículo 33 de la misma Ley.
 
-19.
+19\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 32 Ley 1150 de 2007|32]] de la Ley 1150 de 2007
 

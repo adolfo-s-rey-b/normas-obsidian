@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 80 CGD|Artículo 80]] — SANCIONES
-- [[art. 81 CGD|Artículo 81]] — LÍMITE DE LAS SANCIONES
-- [[art. 82 CGD|Artículo 82]] — CRITERIOS PARA LA GRADUACIÓN DE LA FALTA Y LA SANCIÓN
+- [[art. 80 CGD|Artículo 80]] — Sanciones
+- [[art. 81 CGD|Artículo 81]] — Límite de las sanciones
+- [[art. 82 CGD|Artículo 82]] — Criterios para la graduación de la falta y la sanción
 
 ---
 ← [[CGD - Libro III - Título II - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro III - Título II|Título II]]

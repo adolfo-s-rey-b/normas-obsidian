@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "86"
-epigrafe: "OFICIOSIDAD Y PREFERENCIA"
+epigrafe: "Oficiosidad y preferencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 86. OFICIOSIDAD Y PREFERENCIA
+## Artículo 86. Oficiosidad y preferencia
 
 La acción disciplinaria se iniciará y adelantará de oficio, o por información proveniente de servidor público o de otro medio que amerite credibilidad, o por queja formulada por cualquier persona, y no procederá por anónimos, salvo en los eventos en que cumpla con los requisitos mínimos consagrados en los artículos [[art. 38 Ley 190 de 1995|38]] de la Ley 190 de 1995 y [[art. 27 Ley 24 de 1992|27]] de la Ley 24 de 1992.
 

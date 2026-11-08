@@ -11,7 +11,7 @@ articulo: "448"
 epigrafe: "FUNCIONES DE LAS AUTORIDADES"
 titulo: "[[CST - Título II (2)|TÍTULO II - CONFLICTOS COLECTIVOS DE TRABAJO]]"
 capitulo: "[[CST - Título II - Capítulo IV|CAPÍTULO IV - DECLARATORIA Y DESARROLLO DE LA HUELGA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 63 Ley 50 de 1990]]"
   - "[[art. 18 Ley 584 de 2000]]"
@@ -39,7 +39,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título II (2)|Título II]] › [[CST - Título II - Capítulo IV|Capítulo IV]]

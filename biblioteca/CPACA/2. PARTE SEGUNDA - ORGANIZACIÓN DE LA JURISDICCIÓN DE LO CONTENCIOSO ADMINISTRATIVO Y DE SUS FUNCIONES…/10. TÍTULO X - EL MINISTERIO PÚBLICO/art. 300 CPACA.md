@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "300"
-epigrafe: "INTERVENCIÓN DEL MINISTERIO PÚBLICO"
+epigrafe: "Intervención del Ministerio Público"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título X|TÍTULO X - EL MINISTERIO PÚBLICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título X|Título X]]
 
-## Artículo 300. INTERVENCIÓN DEL MINISTERIO PÚBLICO
+## Artículo 300. Intervención del Ministerio Público
 
 El Procurador General de la Nación intervendrá ante la Jurisdicción de lo Contencioso Administrativo directamente o:
 

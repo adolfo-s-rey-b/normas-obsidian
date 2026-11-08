@@ -24,31 +24,31 @@ tags:
 
 ### Contenido
 
-- [[art. 538 CGP|Artículo 538]] — SUPUESTOS DE INSOLVENCIA
-- [[art. 539 CGP|Artículo 539]] — REQUISITOS DE LA SOLICITUD DE TRÁMITE DE NEGOCIACIÓN DE DEUDAS
+- [[art. 538 CGP|Artículo 538]] — Supuestos de insolvencia
+- [[art. 539 CGP|Artículo 539]] — Requisitos de la solicitud de trámite de negociación de deudas
 - [[art. 539A CGP|Artículo 539A]] — SOLICITUDES Y TRÁMITES DE DEUDORES PERTENECIENTES A UN MISMO NÚCLEO FAMILIAR
-- [[art. 540 CGP|Artículo 540]] — DACIONES EN PAGO
-- [[art. 541 CGP|Artículo 541]] — DESIGNACIÓN DEL CONCILIADOR Y ACEPTACIÓN DEL CARGO
-- [[art. 542 CGP|Artículo 542]] — DECISIÓN DE LA SOLICITUD DE NEGOCIACIÓN
-- [[art. 543 CGP|Artículo 543]] — ACEPTACIÓN DE LA SOLICITUD DE NEGOCIACIÓN DE DEUDAS
-- [[art. 544 CGP|Artículo 544]] — DURACIÓN DEL PROCEDIMIENTO DE NEGOCIACIÓN DE DEUDAS
-- [[art. 545 CGP|Artículo 545]] — EFECTOS DE LA ACEPTACIÓN
-- [[art. 546 CGP|Artículo 546]] — PROCESOS EJECUTIVOS ALIMENTARIOS EN CURSO
-- [[art. 547 CGP|Artículo 547]] — TERCEROS GARANTES Y CODEUDORES
-- [[art. 548 CGP|Artículo 548]] — COMUNICACIÓN DE LA ACEPTACIÓN
-- [[art. 549 CGP|Artículo 549]] — GASTOS DE ADMINISTRACIÓN
-- [[art. 550 CGP|Artículo 550]] — DESARROLLO DE LA AUDIENCIA DE NEGOCIACIÓN DE DEUDAS
-- [[art. 551 CGP|Artículo 551]] — SUSPENSIÓN DE LA AUDIENCIA DE NEGOCIACIÓN DE DEUDAS
-- [[art. 552 CGP|Artículo 552]] — DECISIÓN SOBRE OBJECIONES
-- [[art. 553 CGP|Artículo 553]] — ACUERDO DE PAGO
-- [[art. 554 CGP|Artículo 554]] — CONTENIDO DEL ACUERDO
-- [[art. 555 CGP|Artículo 555]] — EFECTOS DE LA CELEBRACIÓN DEL ACUERDO DE PAGO SOBRE LOS PROCESOS EN CURSO
-- [[art. 556 CGP|Artículo 556]] — REFORMA DEL ACUERDO
-- [[art. 557 CGP|Artículo 557]] — IMPUGNACIÓN DEL ACUERDO O DE SU REFORMA
-- [[art. 558 CGP|Artículo 558]] — CUMPLIMIENTO DEL ACUERDO
-- [[art. 559 CGP|Artículo 559]] — FRACASO DE LA NEGOCIACIÓN
-- [[art. 560 CGP|Artículo 560]] — INCUMPLIMIENTO DEL ACUERDO
-- [[art. 561 CGP|Artículo 561]] — EFECTOS DEL FRACASO DE LA NEGOCIACIÓN, DE LA NULIDAD DEL ACUERDO O DE SU INCUMPLIMIENTO
+- [[art. 540 CGP|Artículo 540]] — Daciones en pago
+- [[art. 541 CGP|Artículo 541]] — Designación del conciliador y aceptación del cargo
+- [[art. 542 CGP|Artículo 542]] — Decisión de la solicitud de negociación
+- [[art. 543 CGP|Artículo 543]] — Aceptación de la solicitud de negociación de deudas
+- [[art. 544 CGP|Artículo 544]] — Duración del procedimiento de negociación de deudas
+- [[art. 545 CGP|Artículo 545]] — Efectos de la aceptación
+- [[art. 546 CGP|Artículo 546]] — Procesos ejecutivos alimentarios en curso
+- [[art. 547 CGP|Artículo 547]] — Terceros garantes y codeudores
+- [[art. 548 CGP|Artículo 548]] — Comunicación de la aceptación
+- [[art. 549 CGP|Artículo 549]] — Gastos de administración
+- [[art. 550 CGP|Artículo 550]] — Desarrollo de la audiencia de negociación de deudas
+- [[art. 551 CGP|Artículo 551]] — Suspensión de la audiencia de negociación de deudas
+- [[art. 552 CGP|Artículo 552]] — Decisión sobre objeciones
+- [[art. 553 CGP|Artículo 553]] — Acuerdo de pago
+- [[art. 554 CGP|Artículo 554]] — Contenido del acuerdo
+- [[art. 555 CGP|Artículo 555]] — Efectos de la celebración del acuerdo de pago sobre los procesos en curso
+- [[art. 556 CGP|Artículo 556]] — Reforma del acuerdo
+- [[art. 557 CGP|Artículo 557]] — Impugnación del acuerdo o de su reforma
+- [[art. 558 CGP|Artículo 558]] — Cumplimiento del acuerdo
+- [[art. 559 CGP|Artículo 559]] — Fracaso de la negociación
+- [[art. 560 CGP|Artículo 560]] — Incumplimiento del acuerdo
+- [[art. 561 CGP|Artículo 561]] — Efectos del fracaso de la negociación, de la nulidad del acuerdo o de su incumplimiento
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] · [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo III|Capítulo III]] →

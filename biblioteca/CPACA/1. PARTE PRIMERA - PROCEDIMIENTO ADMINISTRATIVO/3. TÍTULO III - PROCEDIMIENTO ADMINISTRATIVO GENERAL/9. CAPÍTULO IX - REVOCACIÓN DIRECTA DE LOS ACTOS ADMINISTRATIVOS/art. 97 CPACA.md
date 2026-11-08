@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "97"
-epigrafe: "REVOCACIÓN DE ACTOS DE CARÁCTER PARTICULAR Y CONCRETO"
+epigrafe: "Revocación de actos de carácter particular y concreto"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IX|CAPÍTULO IX - REVOCACIÓN DIRECTA DE LOS ACTOS ADMINISTRATIVOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IX|Capítulo IX]]
 
-## Artículo 97. REVOCACIÓN DE ACTOS DE CARÁCTER PARTICULAR Y CONCRETO
+## Artículo 97. Revocación de actos de carácter particular y concreto
 
 Salvo las excepciones establecidas en la ley, cuando un acto administrativo, bien sea expreso o ficto, haya creado o modificado una situación jurídica de carácter particular y concreto o reconocido un derecho de igual categoría, no podrá ser revocado sin el consentimiento previo, expreso y escrito del respectivo titular.
 

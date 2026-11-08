@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "310"
-epigrafe: "EXISTENCIA DE LITIGIO"
+epigrafe: "Existencia de litigio"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|TÍTULO QUINTO - ARBITRAMENTO JURÍDICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|Capítulo Único]]
 
-## Artículo 310. EXISTENCIA DE LITIGIO
+## Artículo 310. Existencia de litigio
 
 En caso de que se constituya un tribunal de arbitramento por mutuo acuerdo entre las partes sobre un asunto que esté conociendo la jurisdicción laboral, se procederá por la autoridad judicial a remitir al tribunal de arbitramento copia íntegra de las actuaciones allí surtidas, y se dará por terminado el proceso judicial.
 

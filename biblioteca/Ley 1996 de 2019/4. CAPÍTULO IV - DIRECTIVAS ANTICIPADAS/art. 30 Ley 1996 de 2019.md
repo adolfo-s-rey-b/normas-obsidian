@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "30"
-epigrafe: "INCORPORACIÓN DE LA DIRECTIVA ANTICIPADA EN LA HISTORIA CLÍNICA"
+epigrafe: "Incorporación de la directiva anticipada en la historia clínica"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 29 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 30. INCORPORACIÓN DE LA DIRECTIVA ANTICIPADA EN LA HISTORIA CLÍNICA
+## Artículo 30. Incorporación de la directiva anticipada en la historia clínica
 
 Cuando la persona titular del acto jurídico que suscriba una directiva anticipada lo desee, podrá solicitar que se incorpore en la historia clínica una copia de la escritura pública o acta de conciliación mediante la cual se constituyó la directiva anticipada, como anexo de la historia clínica, con el fin de garantizar el respeto de las decisiones establecidas en la misma, siempre que las decisiones allí contenidas tengan relación con la atención en salud que decide o no recibir.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "14"
-epigrafe: "INVERSIONES DE CAPITAL"
+epigrafe: "Inversiones de Capital"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo III|CAPÍTULO III - CORPORACIONES FINANCIERAS]]"
 vigencia: "derogado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo III|Capítulo III]]
 
-## Artículo 14. INVERSIONES DE CAPITAL
+## Artículo 14. Inversiones de Capital
 
 > [!warning] Artículo derogado por el artículo [[art. 123 Ley 510 de 1999|123]] de la Ley 510 de 1999.
 

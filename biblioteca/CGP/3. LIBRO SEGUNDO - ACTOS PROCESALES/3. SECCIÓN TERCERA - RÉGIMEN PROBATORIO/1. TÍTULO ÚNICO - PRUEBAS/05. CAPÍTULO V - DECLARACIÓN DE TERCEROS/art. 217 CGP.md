@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "217"
-epigrafe: "CITACIÓN DE LOS TESTIGOS"
+epigrafe: "Citación de los testigos"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 217. CITACIÓN DE LOS TESTIGOS
+## Artículo 217. Citación de los testigos
 
 La parte que haya solicitado el testimonio deberá procurar la comparecencia del testigo. Cuando la declaración de los testigos se decrete de oficio o la parte que solicitó la prueba lo requiera, el secretario los citará por cualquier medio de comunicación expedito e idóneo, dejando constancia de ello en el expediente.
 

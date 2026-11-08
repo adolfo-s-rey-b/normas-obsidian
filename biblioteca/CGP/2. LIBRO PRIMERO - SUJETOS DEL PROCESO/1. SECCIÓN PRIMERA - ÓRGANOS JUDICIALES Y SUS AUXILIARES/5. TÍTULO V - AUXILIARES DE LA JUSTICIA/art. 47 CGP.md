@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "47"
-epigrafe: "NATURALEZA DE LOS CARGOS"
+epigrafe: "Naturaleza de los cargos"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 47. NATURALEZA DE LOS CARGOS
+## Artículo 47. Naturaleza de los cargos
 
 Los cargos de auxiliares de la justicia son oficios públicos ocasionales que deben ser desempeñados por personas idóneas, imparciales, de conducta intachable y excelente reputación. Para cada oficio se requerirá idoneidad y experiencia en la respectiva materia y, cuando fuere el caso, garantía de su responsabilidad y cumplimiento. Se exigirá al auxiliar de la justicia tener vigente la licencia, matrícula o tarjeta profesional expedida por el órgano competente que la ley disponga, según la profesión, arte o actividad necesarios en el asunto en que deba actuar, cuando fuere el caso.
 

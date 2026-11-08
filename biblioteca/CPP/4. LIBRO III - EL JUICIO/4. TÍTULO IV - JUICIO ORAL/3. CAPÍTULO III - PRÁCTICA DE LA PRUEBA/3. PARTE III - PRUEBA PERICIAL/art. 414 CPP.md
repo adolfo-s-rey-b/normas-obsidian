@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "414"
-epigrafe: "ADMISIBILIDAD DEL INFORME Y CITACIÓN DEL PERITO"
+epigrafe: "Admisibilidad del informe y citación del perito"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]]
 
-## Artículo 414. ADMISIBILIDAD DEL INFORME Y CITACIÓN DEL PERITO
+## Artículo 414. Admisibilidad del informe y citación del perito
 
 Si el juez admite el informe presentado por la parte, en la audiencia preparatoria, inmediatamente ordenará citar al perito o peritos que lo suscriben, para que concurran a la audiencia del juicio oral y público con el fin de ser interrogados y contrainterrogados.
 

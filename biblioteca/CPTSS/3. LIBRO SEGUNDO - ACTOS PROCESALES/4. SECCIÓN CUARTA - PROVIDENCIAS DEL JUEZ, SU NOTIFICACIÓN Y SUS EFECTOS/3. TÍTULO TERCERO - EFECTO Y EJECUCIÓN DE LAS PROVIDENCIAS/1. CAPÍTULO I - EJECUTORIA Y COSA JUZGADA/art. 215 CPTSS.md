@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "215"
-epigrafe: "COSA JUZGADA"
+epigrafe: "Cosa juzgada"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|TÍTULO TERCERO - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo I|Capítulo I]]
 
-## Artículo 215. COSA JUZGADA
+## Artículo 215. Cosa juzgada
 
 La sentencia ejecutoriada proferida en proceso declarativo tiene fuerza de cosa juzgada siempre que el nuevo proceso verse sobre el mismo objeto, se funde en la misma causa que el anterior y entre ambos procesos haya identidad jurídica de partes.
 

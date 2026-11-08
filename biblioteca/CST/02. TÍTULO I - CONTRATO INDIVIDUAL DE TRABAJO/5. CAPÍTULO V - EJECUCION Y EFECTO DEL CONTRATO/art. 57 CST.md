@@ -11,7 +11,7 @@ articulo: "57"
 epigrafe: "OBLIGACIONES ESPECIALES DEL {EMPLEADOR}"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo V|CAPÍTULO V - EJECUCION Y EFECTO DEL CONTRATO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 15 Ley 2466 de 2025]]"
   - "[[art. 1 Ley 1280 de 2009]]"
@@ -38,7 +38,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo V|Capítulo V]]

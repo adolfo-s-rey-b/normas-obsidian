@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "337"
-epigrafe: "DISPOSICIONES VARIAS"
+epigrafe: "Disposiciones Varias"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo II|CAPÍTULO II - SUPERINTENDENCIA BANCARIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 40 Ley 510 de 1999]]"
   - "[[art. 41 Ley 510 de 1999]]"
@@ -34,12 +34,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo II|Capítulo II]]
 
-## Artículo 337. DISPOSICIONES VARIAS
+## Artículo 337. Disposiciones Varias
 
 1\. Nacionalidad del Superintendente Bancario.
 
@@ -119,7 +119,7 @@ c) Pago: La Superintendencia el 1o. de marzo y el 1o. de agosto de cada año, o 
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Mediante Sentencia C-1370-00 de 11 de octubre de 2000, Magistrado Ponente Dr. Fabio Morón Díaz, la Corte Constitucional se declaró INHIBIDA de fallar sobre el artículo [[art. 41 Ley 510 de 1999|41]] de la Ley 510 de 1999 por ineptitud de la demanda a causa de la ausencia de concepto de violación.
 
-6.
+6\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 123 Ley 510 de 1999|123]] de la Ley 510 de 1999.
 

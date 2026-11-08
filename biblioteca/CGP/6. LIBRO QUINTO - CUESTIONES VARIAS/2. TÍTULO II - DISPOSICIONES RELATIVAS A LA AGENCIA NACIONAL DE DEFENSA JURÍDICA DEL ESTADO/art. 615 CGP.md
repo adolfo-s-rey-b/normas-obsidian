@@ -39,7 +39,7 @@ Adicionalmente, podrá ordenarse el cambio de radicación cuando se adviertan de
 
 **PARÁGRAFO.** En todas las jurisdicciones las solicitudes de cambio de radicación podrán ser formuladas por la Agencia Nacional de Defensa Jurídica del Estado".
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 614 CGP]] · ↑ [[CGP - Libro Quinto - Título II|Título II]] · [[art. 616 CGP]] →

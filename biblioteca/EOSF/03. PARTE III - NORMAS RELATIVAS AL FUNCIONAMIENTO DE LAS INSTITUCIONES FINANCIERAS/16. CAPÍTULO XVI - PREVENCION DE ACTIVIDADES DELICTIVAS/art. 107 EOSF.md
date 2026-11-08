@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "107"
-epigrafe: "SANCIONES"
+epigrafe: "Sanciones"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XVI|CAPÍTULO XVI - PREVENCION DE ACTIVIDADES DELICTIVAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 107. SANCIONES
+## Artículo 107. Sanciones
 
 El incumplimiento de lo dispuesto en los artículos anteriores por la no adopción o aplicación de los mecanismos de control dará lugar a la imposición de las sanciones administrativas correspondientes, sin perjuicio de las consecuencias penales a que hubiere lugar.
 

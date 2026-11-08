@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "705-1"
-epigrafe: "TERMINO PARA NOTIFICAR EL REQUERIMIENTO EN VENTAS Y RETENCIÓN EN LA FUENTE"
+epigrafe: "TÉRMINO PARA NOTIFICAR EL REQUERIMIENTO EN VENTAS Y RETENCIÓN EN LA FUENTE"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo II|CAPÍTULO II - LIQUIDACIONES OFICIALES]]"
 rubro: "[[ET - Libro Quinto - Título IV - Capítulo II - Liquidación de revision|LIQUIDACIÓN DE REVISION]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 134 Ley 223 de 1995]]"
 derogado_por:
@@ -38,12 +38,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título IV - Capítulo II - Liquidación de revision|Liquidación de revision]]
 
-## Artículo 705-1. TERMINO PARA NOTIFICAR EL REQUERIMIENTO EN VENTAS Y RETENCIÓN EN LA FUENTE
+## Artículo 705-1. TÉRMINO PARA NOTIFICAR EL REQUERIMIENTO EN VENTAS Y RETENCIÓN EN LA FUENTE
 
 Los términos para notificar el requerimiento especial y para que queden en firme las declaraciones del impuesto sobre las ventas y de retención en la fuente, del contribuyente, a que se refieren los artículos [[art. 705 ET|705]] y [[art. 714 ET|714]] del Estatuto Tributario, serán los mismos que correspondan a su declaración de renta respecto de aquellos períodos que coincidan con el correspondiente año gravable.
 

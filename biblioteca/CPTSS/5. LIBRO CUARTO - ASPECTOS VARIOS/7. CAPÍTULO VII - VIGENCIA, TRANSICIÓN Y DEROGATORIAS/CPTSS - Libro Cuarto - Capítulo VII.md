@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 330 CPTSS|Artículo 330]] — VIGENCIA Y RÉGIMEN DE TRANSICIÓN
-- [[art. 331 CPTSS|Artículo 331]] — DEROGATORIA
+- [[art. 330 CPTSS|Artículo 330]] — Vigencia y Régimen de transición
+- [[art. 331 CPTSS|Artículo 331]] — Derogatoria
 
 ---
 ← [[CPTSS - Libro Cuarto - Capítulo VI|Capítulo VI]] · ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]]

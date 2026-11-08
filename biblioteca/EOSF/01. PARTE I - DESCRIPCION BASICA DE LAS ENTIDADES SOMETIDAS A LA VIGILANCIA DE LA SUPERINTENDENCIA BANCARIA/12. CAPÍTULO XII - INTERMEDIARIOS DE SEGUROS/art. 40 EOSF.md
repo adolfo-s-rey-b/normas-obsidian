@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "40"
-epigrafe: "SOCIEDADES CORREDORAS DE SEGUROS"
+epigrafe: "Sociedades Corredoras de Seguros"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XII|CAPÍTULO XII - INTERMEDIARIOS DE SEGUROS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XII|Capítulo XII]]
 
-## Artículo 40. SOCIEDADES CORREDORAS DE SEGUROS
+## Artículo 40. Sociedades Corredoras de Seguros
 
 1\. Definición. De acuerdo con el artículo [[art. 1347 CCo|1347]] del Código de Comercio, son corredores de seguros las empresas constituidas o que se constituyan como sociedades comerciales, colectivas o de responsabilidad limitada, cuyo objeto social sea exclusivamente ofrecer seguros, promover su celebración y obtener su renovación a título de intermediarios entre el asegurado y el asegurador.
 

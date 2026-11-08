@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "206"
-epigrafe: "JURAMENTO ESTIMATORIO"
+epigrafe: "Juramento estimatorio"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 206. JURAMENTO ESTIMATORIO
+## Artículo 206. Juramento estimatorio
 
 Quien pretenda el reconocimiento de una indemnización, compensación o el pago de frutos o mejoras, deberá estimarlo razonadamente bajo juramento en la demanda o petición correspondiente, discriminando cada uno de sus conceptos. Dicho juramento hará prueba de su monto mientras su cuantía no sea objetada por la parte contraria dentro del traslado respectivo. Solo se considerará la objeción que especifique razonadamente la inexactitud que se le atribuya a la estimación.
 
@@ -61,7 +61,7 @@ La aplicación de la sanción prevista en el presente parágrafo sólo proceder�
 
 > [!info] Notas de Vigencia: Parágrafo modificado por el artículo [[art. 13 Ley 1743 de 2014|13]] de la Ley 1743 de 2014, 'por medio de la cual se establecen alternativas de financiamiento para la Rama Judicial', publicada en el Diario Oficial No. 49.376 de 26 de diciembre de 2014.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-157-13, en relación con el parágrafo, y estarse a lo resuelto en la Sentencia C-279-13 en relación con el inciso 4o., mediante Sentencia C-332-13 de 5 de junio de 2013, Magistrado Ponente Dr. Mauricio González Cuervo. - Artículo, salvo parágrafo, declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-279-13 de 15 de mayo de 2013, Magistrado Ponente Dr. Jorge Ignacio Pretelt Chaljub. Estarse a lo resuelto en la C-157-13, en relación con el parágrafo. - Parágrafo declarado CONDICIONALMENTE EXEQUIBLE, bajo el entendido de que tal sanción -por falta de demostración de los perjuicios-, no procede cuando la causa de la misma sea imputable a hechos o motivos ajenos a la voluntad de la parte, ocurridos a pesar de que su obrar haya sido diligente y esmerado , por la Corte Constitucional mediante Sentencia C-157-13 de 21 de marzo de 2013, Magistrado Ponente Dr. Mauricio González Cuervo.
 

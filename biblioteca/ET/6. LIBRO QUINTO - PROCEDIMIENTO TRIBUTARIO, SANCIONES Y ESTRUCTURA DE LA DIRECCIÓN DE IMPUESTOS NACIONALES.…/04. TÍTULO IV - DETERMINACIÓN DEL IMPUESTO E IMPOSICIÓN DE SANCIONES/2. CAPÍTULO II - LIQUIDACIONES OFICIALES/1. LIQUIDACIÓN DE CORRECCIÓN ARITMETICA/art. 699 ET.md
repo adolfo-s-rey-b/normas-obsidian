@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "699"
-epigrafe: "TERMINO EN QUE DEBE PRACTICARSE LA CORRECCIÓN"
+epigrafe: "TÉRMINO EN QUE DEBE PRACTICARSE LA CORRECCIÓN"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo II|CAPÍTULO II - LIQUIDACIONES OFICIALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título IV - Capítulo II - Liquidación de corrección aritmetica|Liquidación de corrección aritmetica]]
 
-## Artículo 699. TERMINO EN QUE DEBE PRACTICARSE LA CORRECCIÓN
+## Artículo 699. TÉRMINO EN QUE DEBE PRACTICARSE LA CORRECCIÓN
 
 La liquidación prevista en el artículo anterior, se entiende sin perjuicio de la facultad de revisión y deberá proferirse dentro de los dos años siguientes a la fecha de presentación de la respectiva declaración.
 

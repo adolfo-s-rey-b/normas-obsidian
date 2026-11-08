@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "117"
-epigrafe: "LA POLICÍA JUDICIAL"
+epigrafe: "La policía judicial"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo I|CAPÍTULO I - FISCALÍA GENERAL DE LA NACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 117. LA POLICÍA JUDICIAL
+## Artículo 117. La policía judicial
 
 Los organismos que cumplan funciones de policía judicial actuarán bajo la dirección y coordinación de la Fiscalía General de la Nación, para lo cual deberán acatar las instrucciones impartidas por el Fiscal General, el Vicefiscal, los fiscales en cada caso concreto, a los efectos de la investigación y el juzgamiento.
 

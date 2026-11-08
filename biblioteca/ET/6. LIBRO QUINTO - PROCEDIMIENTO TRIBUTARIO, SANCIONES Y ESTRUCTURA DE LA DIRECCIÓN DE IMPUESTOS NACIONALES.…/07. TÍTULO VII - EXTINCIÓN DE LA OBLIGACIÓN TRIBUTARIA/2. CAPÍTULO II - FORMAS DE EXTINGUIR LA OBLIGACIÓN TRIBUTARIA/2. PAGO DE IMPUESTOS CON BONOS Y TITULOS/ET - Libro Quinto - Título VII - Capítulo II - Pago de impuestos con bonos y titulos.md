@@ -25,7 +25,7 @@ tags:
 ### Contenido
 
 - [[art. 805 ET|Artículo 805]] — CON BONOS DE FINANCIAMIENTO PRESUPUESTAL, BONOS DE FINANCIAMIENTO ESPECIAL Y BONOS PARA LA PAZ
-- [[art. 806 ET|Artículo 806]] — PAGO CON TITULOS Y CERTIFICADOS
+- [[art. 806 ET|Artículo 806]] — PAGO CON TÍTULOS Y CERTIFICADOS
 
 ---
 ← [[ET - Libro Quinto - Título VII - Capítulo II - Solución o pago|Solución o pago]] · ↑ [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] · [[ET - Libro Quinto - Título VII - Capítulo II - Anticipo del impuesto|Anticipo del impuesto]] →

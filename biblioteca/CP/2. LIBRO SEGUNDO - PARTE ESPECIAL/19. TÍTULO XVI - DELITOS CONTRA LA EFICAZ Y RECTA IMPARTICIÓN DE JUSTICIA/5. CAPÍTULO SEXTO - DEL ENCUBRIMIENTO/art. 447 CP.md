@@ -17,7 +17,6 @@ modificado_por:
   - "[[art. 45 Ley 1142 de 2007]]"
   - "[[art. 13 Ley 1762 de 2015]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
   - "[[art. 4 Ley 813 de 2003]]"
 anterior: "[[art. 446 CP]]"
 siguiente: "[[art. 447A CP]]"
@@ -53,7 +52,7 @@ Si la conducta recae sobre los siguientes productos o sus derivados: aceites com
 
 > [!info] Notas de Vigencia: Inciso adicionado por el artículo [[art. 13 Ley 1762 de 2015|13]] de la Ley 1762 de 2015, 'por medio de la cual se adoptan instrumentos para prevenir, controlar y sancionar el contrabando, el lavado de activos y la evasión fiscal', publicada en el Diario Oficial No. 49.565 de 6 de julio de 2015.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 45 Ley 1142 de 2007|45]] de la Ley 1142 de 2007, publicada en el Diario Oficial No. 46.673 de 28 de julio de 2007. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...' - Artículo modificado por el artículo [[art. 4 Ley 813 de 2003|4]] de la Ley 813 de 2003, publicada en el Diario Oficial No. 45.237, de 3 de julio de 2003.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 45 Ley 1142 de 2007|45]] de la Ley 1142 de 2007, publicada en el Diario Oficial No. 46.673 de 28 de julio de 2007. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...' - Artículo modificado por el artículo [[art. 4 Ley 813 de 2003|4]] de la Ley 813 de 2003, publicada en el Diario Oficial No. 45.237, de 3 de julio de 2003.
 
 ---
 ← [[art. 446 CP]] · ↑ [[CP - Libro Segundo - Título XVI - Capítulo Sexto|Capítulo Sexto]] · [[art. 447A CP]] →

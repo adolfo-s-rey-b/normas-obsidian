@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 87 CPACA|Artículo 87]] — FIRMEZA DE LOS ACTOS ADMINISTRATIVOS
-- [[art. 88 CPACA|Artículo 88]] — PRESUNCIÓN DE LEGALIDAD DEL ACTO ADMINISTRATIVO
-- [[art. 89 CPACA|Artículo 89]] — CARÁCTER EJECUTORIO DE LOS ACTOS EXPEDIDOS POR LAS AUTORIDADES
-- [[art. 90 CPACA|Artículo 90]] — EJECUCIÓN EN CASO DE RENUENCIA
-- [[art. 91 CPACA|Artículo 91]] — PÉRDIDA DE EJECUTORIEDAD DEL ACTO ADMINISTRATIVO
-- [[art. 92 CPACA|Artículo 92]] — EXCEPCIÓN DE PÉRDIDA DE EJECUTORIEDAD
+- [[art. 87 CPACA|Artículo 87]] — Firmeza de los actos administrativos
+- [[art. 88 CPACA|Artículo 88]] — Presunción de legalidad del acto administrativo
+- [[art. 89 CPACA|Artículo 89]] — Carácter ejecutorio de los actos expedidos por las autoridades
+- [[art. 90 CPACA|Artículo 90]] — Ejecución en caso de renuencia
+- [[art. 91 CPACA|Artículo 91]] — Pérdida de ejecutoriedad del acto administrativo
+- [[art. 92 CPACA|Artículo 92]] — Excepción de pérdida de ejecutoriedad
 
 ---
 ← [[CPACA - Parte Primera - Título III - Capítulo VII|Capítulo VII]] · ↑ [[CPACA - Parte Primera - Título III|Título III]] · [[CPACA - Parte Primera - Título III - Capítulo IX|Capítulo IX]] →

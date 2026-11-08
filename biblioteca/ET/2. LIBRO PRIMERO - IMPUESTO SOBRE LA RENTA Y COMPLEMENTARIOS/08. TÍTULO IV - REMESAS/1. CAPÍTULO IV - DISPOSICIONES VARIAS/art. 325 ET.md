@@ -14,7 +14,7 @@ epigrafe: "REQUISITOS PARA LOS GIROS AL EXTERIOR"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título IV (2)|TÍTULO IV - REMESAS]]"
 capitulo: "[[ET - Libro Primero - Título IV - Capítulo IV|CAPÍTULO IV - DISPOSICIONES VARIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 115 Ley 223 de 1995]]"
 derogado_por:
@@ -41,7 +41,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título IV (2)|Título IV]] › [[ET - Libro Primero - Título IV - Capítulo IV|Capítulo IV]]

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "259"
-epigrafe: "LIMITE DE LOS DESCUENTOS"
+epigrafe: "LÍMITE DE LOS DESCUENTOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo X|CAPÍTULO X - DESCUENTOS TRIBUTARIOS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo X|Capítulo X]]
 
-## Artículo 259. LIMITE DE LOS DESCUENTOS
+## Artículo 259. LÍMITE DE LOS DESCUENTOS
 
 En ningún caso los descuentos tributarios pueden exceder el valor del impuesto básico de renta.
 

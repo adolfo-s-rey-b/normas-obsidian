@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "45"
-epigrafe: "CORRECCIÓN DE ERRORES FORMALES"
+epigrafe: "Corrección de errores formales"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 45. CORRECCIÓN DE ERRORES FORMALES
+## Artículo 45. Corrección de errores formales
 
 En cualquier tiempo, de oficio o a petición de parte, se podrán corregir los errores simplemente formales contenidos en los actos administrativos, ya sean aritméticos, de digitación, de transcripción o de omisión de palabras. En ningún caso la corrección dará lugar a cambios en el sentido material de la decisión, ni revivirá los términos legales para demandar el acto. Realizada la corrección, esta deberá ser notificada o comunicada a todos los interesados, según corresponda.
 

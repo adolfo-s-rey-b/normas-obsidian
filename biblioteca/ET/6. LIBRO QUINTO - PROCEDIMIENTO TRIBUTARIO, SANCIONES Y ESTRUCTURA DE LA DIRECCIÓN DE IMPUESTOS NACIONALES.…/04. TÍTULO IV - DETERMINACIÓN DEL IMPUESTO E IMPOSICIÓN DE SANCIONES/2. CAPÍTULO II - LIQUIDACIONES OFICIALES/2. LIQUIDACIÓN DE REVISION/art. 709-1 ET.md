@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "709-1"
-epigrafe: "PAGO DE LA SANCIÓN POR OMISION DE ACTIVOS COMO REQUISITO PARA DESVIRTUAR DIFERENCIA PATRIMONIAL"
+epigrafe: "PAGO DE LA SANCIÓN POR OMISIÓN DE ACTIVOS COMO REQUISITO PARA DESVIRTUAR DIFERENCIA PATRIMONIAL"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo II|CAPÍTULO II - LIQUIDACIONES OFICIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título IV - Capítulo II - Liquidación de revision|Liquidación de revision]]
 
-## Artículo 709-1. PAGO DE LA SANCIÓN POR OMISION DE ACTIVOS COMO REQUISITO PARA DESVIRTUAR DIFERENCIA PATRIMONIAL
+## Artículo 709-1. PAGO DE LA SANCIÓN POR OMISIÓN DE ACTIVOS COMO REQUISITO PARA DESVIRTUAR DIFERENCIA PATRIMONIAL
 
 Cuando en el requerimiento especial se proponga determinar la renta por el sistema de comparación patrimonial, y el contribuyente invoque como causal justificativa, la existencia del patrimonio con anterioridad al año base para establecer dicha comparación, sólo se aceptará tal explicación cuando el contribuyente, con motivo de la respuesta a este requerimiento, acredite el pago o acuerdo de pago de la sanción de que trata el artículo [[art. 649 ET|649]] .
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "95"
-epigrafe: "TITULARES DE LA ACCIÓN CIVIL"
+epigrafe: "Titulares de la acción civil"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Sexto|CAPÍTULO SEXTO - DE LA RESPONSABILIDAD CIVIL DERIVADA DE LA CONDUCTA PUNIBLE]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Sexto|Capítulo Sexto]]
 
-## Artículo 95. TITULARES DE LA ACCIÓN CIVIL
+## Artículo 95. Titulares de la acción civil
 
 Las personas naturales, o sus sucesores, las jurídicas perjudicadas directamente por la conducta punible tienen derecho a la acción indemnizatoria correspondiente, la cual se ejercerá en la forma señalada por el Código de Procedimiento Penal.
 

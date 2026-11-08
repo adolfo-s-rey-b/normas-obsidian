@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "311"
-epigrafe: "HONORARIOS Y GASTOS"
+epigrafe: "Honorarios y gastos"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|TÍTULO QUINTO - ARBITRAMENTO JURÍDICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|Capítulo Único]]
 
-## Artículo 311. HONORARIOS Y GASTOS
+## Artículo 311. Honorarios y gastos
 
 Salvo pacto en contrario, los honorarios y gastos del tribunal se sufragarán por partes iguales, esto sin perjuicio que en el laudo se estipulen por los árbitros una distribución diferente.
 

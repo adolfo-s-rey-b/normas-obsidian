@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "216"
-epigrafe: "TESTIMONIO DE AGENTES DIPLOMÁTICOS Y DE SUS DEPENDIENTES"
+epigrafe: "Testimonio de agentes diplomáticos y de sus dependientes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 216. TESTIMONIO DE AGENTES DIPLOMÁTICOS Y DE SUS DEPENDIENTES
+## Artículo 216. Testimonio de agentes diplomáticos y de sus dependientes
 
 Cuando se requiera el testimonio de un agente diplomático de nación extranjera o de una persona de su comitiva o familia o de un dependiente, se enviará carta rogatoria a aquel por conducto del Ministerio de Relaciones Exteriores con copia de lo conducente, para que si lo tiene a bien declare o permita declarar al testigo.
 

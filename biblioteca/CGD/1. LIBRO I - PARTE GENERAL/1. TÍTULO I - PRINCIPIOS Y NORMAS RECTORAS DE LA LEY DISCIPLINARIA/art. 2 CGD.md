@@ -14,9 +14,7 @@ titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE
 vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Ley 2094 de 2021]]"
-  - "[[art. 265 CGD]]"
   - "[[art. 73 Ley 2094 de 2021]]"
-  - "[[art. 1 CGD]]"
   - "[[art. 2 CGD]]"
   - "[[art. 74 Ley 2094 de 2021]]"
   - "[[art. 257A CPol]]"
@@ -52,7 +50,7 @@ El Estado es el titular de la potestad disciplinaria.
 
 > [!info] Artículo modificado por el artículo [[art. 1 Ley 2094 de 2021|1]] de la Ley 2094 de 2021. El nuevo texto es el siguiente:
 
-> [!info] Notas del Editor: Nota anterior a la inexequibilidad. * Destaca el editor que según lo dispuesto en el parágrafo 1 del artículo [[art. 265 CGD|265]] de la presente ley, modificado por el artículo [[art. 73 Ley 2094 de 2021|73]] de la Ley 2094 de 2021 -'por medio de la cual se reforma la Ley 1952 de 2019 y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.720 de 29 de junio de 2021- '[e]l artículo [[art. 1 CGD|1]] de la presente Ley, relativo a las funciones jurisdiccionales entrará a regir a partir de su promulgación'. La referencia al 'artículo [[art. 1 CGD|1]] de la presente ley' debe entenderse de la Ley 2094 de 2021 o al artículo [[art. 2 CGD|2]] de la Ley 1952 de 2019. La promulgación de esta ley fue con la publicación en el Diario Oficial del 29 de junio de 2021. No obstante lo anterior, el artículo [[art. 74 Ley 2094 de 2021|74]] de la Ley 2094 de 2021, dispone: 'El reconocimiento y ejercicio de las funciones jurisdiccionales que se le atribuyen a la Procuraduría General de la Nación en esta ley, comenzarán a regir al día siguiente de su promulgación. (...)'.
+> [!info] Notas del Editor: Nota anterior a la inexequibilidad. * Destaca el editor que según lo dispuesto en el parágrafo 1 del artículo 265 de la presente ley, modificado por el artículo [[art. 73 Ley 2094 de 2021|73]] de la Ley 2094 de 2021 -'por medio de la cual se reforma la Ley 1952 de 2019 y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.720 de 29 de junio de 2021- '[e]l artículo 1 de la presente Ley, relativo a las funciones jurisdiccionales entrará a regir a partir de su promulgación'. La referencia al 'artículo 1 de la presente ley' debe entenderse de la Ley 2094 de 2021 o al artículo [[art. 2 CGD|2]] de la Ley 1952 de 2019. La promulgación de esta ley fue con la publicación en el Diario Oficial del 29 de junio de 2021. No obstante lo anterior, el artículo [[art. 74 Ley 2094 de 2021|74]] de la Ley 2094 de 2021, dispone: 'El reconocimiento y ejercicio de las funciones jurisdiccionales que se le atribuyen a la Procuraduría General de la Nación en esta ley, comenzarán a regir al día siguiente de su promulgación. (...)'.
 
 Se le atribuye a la Procuraduría General de la Nación funciones ~~jurisdiccionales~~ para la vigilancia superior de la conducta oficial de quienes desempeñan funciones públicas, inclusive los de elección popular y adelantar las investigaciones disciplinarias e imponer las sanciones de destitución, suspensión e inhabilidad y las demás establecidas en la ley.
 

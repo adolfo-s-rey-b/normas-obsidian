@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "59"
-epigrafe: "PETICION Y DECRETO DE ESTAS MEDIDAS"
+epigrafe: "Petición y Decreto de estas Medidas"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo V|CAPÍTULO V - DE LAS MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 59. PETICION Y DECRETO DE ESTAS MEDIDAS
+## Artículo 59. Petición y Decreto de estas Medidas
 
 La parte demandante solicitará en la demanda las respectivas medidas y se decretarán con el auto admisorio.
 

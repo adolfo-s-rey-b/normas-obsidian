@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "12"
-epigrafe: "LUGAR PARA RECIBIR NOTIFICACIONES"
+epigrafe: "Lugar para recibir notificaciones"
 capitulo: "[[Ley 820 de 2003 - Capítulo III|CAPÍTULO III - OBLIGACIONES DE LAS PARTES]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 11 Ley 820 de 2003]]"
 siguiente: "[[art. 13 Ley 820 de 2003]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0820_2003.html"
@@ -19,12 +19,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_820_de_2003
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo III|Capítulo III]]
 
-## Artículo 12. LUGAR PARA RECIBIR NOTIFICACIONES
+## Artículo 12. Lugar para recibir notificaciones
 
 En todo contrato de arrendamiento de vivienda urbana, arrendadores, arrendatarios, codeudores y fiadores, deberán indicar en el contrato, la dirección en donde recibirán las notificaciones judiciales y extrajudiciales relacionadas directa o indirectamente con el contrato de arrendamiento.
 

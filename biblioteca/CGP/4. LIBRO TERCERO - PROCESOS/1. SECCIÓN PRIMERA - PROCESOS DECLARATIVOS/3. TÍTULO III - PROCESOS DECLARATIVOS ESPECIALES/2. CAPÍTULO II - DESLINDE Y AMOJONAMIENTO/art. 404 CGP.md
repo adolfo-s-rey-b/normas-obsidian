@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "404"
-epigrafe: "TRÁMITE DE LAS OPOSICIONES"
+epigrafe: "Trámite de las oposiciones"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 404. TRÁMITE DE LAS OPOSICIONES
+## Artículo 404. Trámite de las oposiciones
 
 Si antes de concluir la diligencia alguna de las partes manifiesta que se opone al deslinde practicado, se aplicarán las siguientes reglas:
 

@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 48 CGD|Artículo 48]] — CLASES Y LÍMITES DE LAS SANCIONES DISCIPLINARIAS
-- [[art. 49 CGD|Artículo 49]] — DEFINICIÓN DE LAS SANCIONES
-- [[art. 50 CGD|Artículo 50]] — CRITERIOS PARA LA GRADUACIÓN DE LA SANCIÓN
-- [[art. 51 CGD|Artículo 51]] — CONCURSO DE FALTAS DISCIPLINARIAS
+- [[art. 48 CGD|Artículo 48]] — Clases y límites de las sanciones disciplinarias
+- [[art. 49 CGD|Artículo 49]] — Definición de las sanciones
+- [[art. 50 CGD|Artículo 50]] — Criterios para la graduación de la sanción
+- [[art. 51 CGD|Artículo 51]] — Concurso de faltas disciplinarias
 
 ---
 ← [[CGD - Libro I - Título V - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro I - Título V|Título V]]

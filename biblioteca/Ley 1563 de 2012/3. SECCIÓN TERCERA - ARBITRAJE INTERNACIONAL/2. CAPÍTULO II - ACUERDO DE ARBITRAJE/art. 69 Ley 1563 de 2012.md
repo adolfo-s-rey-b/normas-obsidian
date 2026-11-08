@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "69"
-epigrafe: "DEFINICIÓN Y FORMA DEL ACUERDO DE ARBITRAJE"
+epigrafe: "Definición y forma del acuerdo de arbitraje"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo II|CAPÍTULO II - ACUERDO DE ARBITRAJE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo II|Capítulo II]]
 
-## Artículo 69. DEFINICIÓN Y FORMA DEL ACUERDO DE ARBITRAJE
+## Artículo 69. Definición y forma del acuerdo de arbitraje
 
 El “acuerdo de arbitraje” es aquel por el cual las partes deciden someter a arbitraje todas o algunas controversias que hayan surgido o puedan surgir entre ellas respecto de una determinada relación jurídica, contractual o no. El acuerdo de arbitraje podrá adoptar la forma de una cláusula compromisoria o la de un acuerdo independiente.
 

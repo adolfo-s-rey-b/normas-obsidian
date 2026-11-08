@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "17"
-epigrafe: "DE LA TERMINACIÓN UNILATERAL"
+epigrafe: "De la Terminación Unilateral"
 vigencia: "modificado"
 modificado_por:
   - "[[art. 50 Ley 789 de 2002]]"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 17. DE LA TERMINACIÓN UNILATERAL
+## Artículo 17. De la Terminación Unilateral
 
 La entidad en acto administrativo debidamente motivado dispondrá la terminación anticipada del contrato en los siguientes eventos:
 

@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 214 CPTSS|Artículo 214]] — EJECUTORIA
-- [[art. 215 CPTSS|Artículo 215]] — COSA JUZGADA
+- [[art. 214 CPTSS|Artículo 214]] — Ejecutoria
+- [[art. 215 CPTSS|Artículo 215]] — Cosa juzgada
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] · [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo II|Capítulo II]] →

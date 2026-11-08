@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "161"
-epigrafe: "ASPECTOS FINANCIEROS"
+epigrafe: "Aspectos Financieros"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 161. ASPECTOS FINANCIEROS
+## Artículo 161. Aspectos Financieros
 
 1\. Recursos del fondo de cesantía. Los fondos de cesantía tendrán como fuentes de recursos las siguientes:
 

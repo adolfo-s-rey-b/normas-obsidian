@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "51"
-epigrafe: "LIMITES A LAS FACULTADES DE INTERVENCION"
+epigrafe: "Límites a las Facultades de Intervención"
 parte: "[[EOSF - Parte II|PARTE II - INTERVENCION EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 capitulo: "[[EOSF - Parte II - Capítulo Unico|CAPÍTULO UNICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte II|Parte II]] › [[EOSF - Parte II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 51. LIMITES A LAS FACULTADES DE INTERVENCION
+## Artículo 51. Límites a las Facultades de Intervención
 
 En ejercicio de las facultades de regulación otorgadas en la Ley 35 de 1993, el Gobierno Nacional no podrá modificar las normas relativas a la estructura del sistema financiero, la constitución, objeto principal, forma societaria, y causales y condiciones de disolución, toma de posesión y liquidación de las entidades autorizadas para desarrollar las actividades financieras, inclusive las desarrolladas por entidades financieras cooperativas, aseguradora y de las demás entidades cuya actividad se relacione con el manejo, aprovechamiento e inversión de recursos captados del público.
 

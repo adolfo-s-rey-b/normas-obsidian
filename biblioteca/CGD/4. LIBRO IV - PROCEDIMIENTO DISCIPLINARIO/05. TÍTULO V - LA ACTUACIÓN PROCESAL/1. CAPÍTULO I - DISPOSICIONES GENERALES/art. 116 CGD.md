@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "116"
-epigrafe: "REQUISITOS FORMALES DE LA ACTUACIÓN"
+epigrafe: "Requisitos formales de la actuación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 533 CPP]]"
   - "[[art. 235 CPol]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 116. REQUISITOS FORMALES DE LA ACTUACIÓN
+## Artículo 116. Requisitos formales de la actuación
 
 La actuación disciplinaria deberá adelantarse en idioma castellano, y se recogerá por duplicado, en el medio más idóneo posible.
 

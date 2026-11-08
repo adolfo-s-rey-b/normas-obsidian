@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "120"
-epigrafe: "TÉRMINOS PARA DICTAR LAS PROVIDENCIAS JUDICIALES POR FUERA DE AUDIENCIA"
+epigrafe: "Términos para dictar las providencias judiciales por fuera de audiencia"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título II|TÍTULO II - TÉRMINOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título II|Título II]]
 
-## Artículo 120. TÉRMINOS PARA DICTAR LAS PROVIDENCIAS JUDICIALES POR FUERA DE AUDIENCIA
+## Artículo 120. Términos para dictar las providencias judiciales por fuera de audiencia
 
 En las actuaciones que se surtan por fuera de audiencia los jueces y los magistrados deberán dictar los autos en el término de diez (10) días y las sentencias en el de cuarenta (40), contados desde que el expediente pase al despacho para tal fin.
 

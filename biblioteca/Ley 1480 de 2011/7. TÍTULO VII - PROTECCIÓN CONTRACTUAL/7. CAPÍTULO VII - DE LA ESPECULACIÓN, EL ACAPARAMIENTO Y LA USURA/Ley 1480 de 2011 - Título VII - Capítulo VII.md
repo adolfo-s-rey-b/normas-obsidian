@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 55 Ley 1480 de 2011|Artículo 55]] — ESPECULACIÓN, EL ACAPARAMIENTO Y LA USURA
+- [[art. 55 Ley 1480 de 2011|Artículo 55]] — Especulación, el acaparamiento y la usura
 
 ---
 ← [[Ley 1480 de 2011 - Título VII - Capítulo VI|Capítulo VI]] · ↑ [[Ley 1480 de 2011 - Título VII|Título VII]]

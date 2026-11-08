@@ -28,10 +28,10 @@ tags:
 
 ### Contenido
 
-- [[art. 573 CGP|Artículo 573]] — INFORMACIÓN CREDITICIA
-- [[art. 574 CGP|Artículo 574]] — SOLICITUD DE UN NUEVO PROCEDIMIENTO DE INSOLVENCIA
-- [[art. 575 CGP|Artículo 575]] — DIVULGACIÓN
-- [[art. 576 CGP|Artículo 576]] — PREVALENCIA NORMATIVA
+- [[art. 573 CGP|Artículo 573]] — Información crediticia
+- [[art. 574 CGP|Artículo 574]] — Solicitud de un nuevo procedimiento de insolvencia
+- [[art. 575 CGP|Artículo 575]] — Divulgación
+- [[art. 576 CGP|Artículo 576]] — Prevalencia normativa
 - [[art. 576A CGP|Artículo 576A]] — APLICACIÓN DE LA LEY 2213 DE 2022
 
 ---

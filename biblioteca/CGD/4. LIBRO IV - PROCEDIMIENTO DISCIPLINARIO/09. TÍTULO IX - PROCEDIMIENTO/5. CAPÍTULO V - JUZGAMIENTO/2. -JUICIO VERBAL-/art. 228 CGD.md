@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "228"
-epigrafe: "RENUENCIA"
+epigrafe: "Renuencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 228. RENUENCIA
+## Artículo 228. Renuencia
 
 A la audiencia debe ser citado el disciplinable y su defensor. Si el defensor no asiste, esta se realizará con el disciplinable, salvo que solicite la presencia de aquel. Si no se presentare ninguno de los dos sin justificación, se designará inmediatamente un defensor de oficio* que podrá ser un defensor público o un estudiante de consultorio jurídico de Instituciones de Educación Superior legalmente reconocidas, si es del caso, se ordenará la compulsa de copias para que se investigue la conducta del defensor.
 

@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 5 CPACA|Artículo 5]] — DERECHOS DE LAS PERSONAS ANTE LAS AUTORIDADES
-- [[art. 6 CPACA|Artículo 6]] — DEBERES DE LAS PERSONAS
-- [[art. 7 CPACA|Artículo 7]] — DEBERES DE LAS AUTORIDADES EN LA ATENCIÓN AL PÚBLICO
-- [[art. 8 CPACA|Artículo 8]] — DEBER DE INFORMACIÓN AL PÚBLICO
-- [[art. 9 CPACA|Artículo 9]] — PROHIBICIONES
-- [[art. 10 CPACA|Artículo 10]] — DEBER DE APLICACIÓN UNIFORME DE LAS NORMAS Y LA JURISPRUDENCIA
-- [[art. 11 CPACA|Artículo 11]] — CONFLICTOS DE INTERÉS Y CAUSALES DE IMPEDIMENTO Y RECUSACIÓN
-- [[art. 12 CPACA|Artículo 12]] — TRÁMITE DE LOS IMPEDIMENTOS Y RECUSACIONES
+- [[art. 5 CPACA|Artículo 5]] — Derechos de las personas ante las autoridades
+- [[art. 6 CPACA|Artículo 6]] — Deberes de las personas
+- [[art. 7 CPACA|Artículo 7]] — Deberes de las autoridades en la atención al público
+- [[art. 8 CPACA|Artículo 8]] — Deber de información al público
+- [[art. 9 CPACA|Artículo 9]] — Prohibiciones
+- [[art. 10 CPACA|Artículo 10]] — Deber de aplicación uniforme de las normas y la jurisprudencia
+- [[art. 11 CPACA|Artículo 11]] — Conflictos de interés y causales de impedimento y recusación
+- [[art. 12 CPACA|Artículo 12]] — Trámite de los impedimentos y recusaciones
 
 ---
 ← [[CPACA - Parte Primera - Título I - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Primera - Título I|Título I]]

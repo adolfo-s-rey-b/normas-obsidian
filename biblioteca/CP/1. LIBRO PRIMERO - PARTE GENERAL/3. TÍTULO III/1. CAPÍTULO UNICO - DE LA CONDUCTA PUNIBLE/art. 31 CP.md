@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "31"
-epigrafe: "CONCURSO DE CONDUCTAS PUNIBLES"
+epigrafe: "Concurso de conductas punibles"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título III|TÍTULO III]]"
 capitulo: "[[CP - Libro Primero - Título III - Capítulo Unico|CAPÍTULO UNICO - DE LA CONDUCTA PUNIBLE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título III|Título III]] › [[CP - Libro Primero - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 31. CONCURSO DE CONDUCTAS PUNIBLES
+## Artículo 31. Concurso de conductas punibles
 
 El que con una sola acción u omisión o con varias acciones u omisiones infrinja varias disposiciones de la ley penal o varias veces la misma disposición, quedará sometido a la que establezca la pena más grave según su naturaleza, aumentada hasta en otro tanto, sin que fuere superior a la suma aritmética de las que correspondan a las respectivas conductas punibles debidamente dosificadas cada una de ellas.
 

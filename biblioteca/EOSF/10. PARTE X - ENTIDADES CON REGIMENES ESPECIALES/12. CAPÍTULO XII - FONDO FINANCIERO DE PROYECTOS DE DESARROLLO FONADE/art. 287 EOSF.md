@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "287"
-epigrafe: "DIRECCION Y ADMINISTRACION"
+epigrafe: "Dirección y Administración"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XII|CAPÍTULO XII - FONDO FINANCIERO DE PROYECTOS DE DESARROLLO FONADE]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 16 EOSF]]"
 derogado_por:
@@ -31,12 +31,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XII|Capítulo XII]]
 
-## Artículo 287. DIRECCION Y ADMINISTRACION
+## Artículo 287. Dirección y Administración
 
 1\. Dirección y administración. Los órganos de dirección y administración del Fondo Financiero de Proyectos de Desarrollo - FONADE - son la Junta Directiva y el Gerente*.
 

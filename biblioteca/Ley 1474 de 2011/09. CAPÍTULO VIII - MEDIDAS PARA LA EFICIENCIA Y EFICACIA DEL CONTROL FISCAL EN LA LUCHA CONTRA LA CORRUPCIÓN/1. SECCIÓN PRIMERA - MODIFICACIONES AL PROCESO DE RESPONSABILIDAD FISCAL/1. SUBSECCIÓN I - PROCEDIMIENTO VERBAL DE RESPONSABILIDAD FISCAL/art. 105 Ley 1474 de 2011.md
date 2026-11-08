@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "105"
-epigrafe: "REMISIÓN A OTRAS FUENTES NORMATIVAS"
+epigrafe: "Remisión a otras fuentes normativas"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]]
 
-## Artículo 105. REMISIÓN A OTRAS FUENTES NORMATIVAS
+## Artículo 105. Remisión a otras fuentes normativas
 
 En los aspectos no previstos en la presente ley, se aplicarán las disposiciones de la Ley 610 de 2000, en cuanto sean compatibles con la naturaleza del proceso verbal establecido en la presente ley.
 

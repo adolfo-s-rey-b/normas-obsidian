@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "17"
-epigrafe: "COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN ÚNICA INSTANCIA"
+epigrafe: "Competencia de los jueces civiles municipales en única instancia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 17. COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN ÚNICA INSTANCIA
+## Artículo 17. Competencia de los jueces civiles municipales en única instancia
 
 Los jueces civiles municipales conocen en única instancia:
 

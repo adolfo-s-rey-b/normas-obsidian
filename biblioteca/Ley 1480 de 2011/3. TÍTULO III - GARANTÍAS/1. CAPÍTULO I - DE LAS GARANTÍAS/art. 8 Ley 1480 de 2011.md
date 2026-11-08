@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "8"
-epigrafe: "TÉRMINO DE LA GARANTÍA LEGAL"
+epigrafe: "Término de la garantía legal"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 8. TÉRMINO DE LA GARANTÍA LEGAL
+## Artículo 8. Término de la garantía legal
 
 El término de la garantía legal será el dispuesto por la ley o por la autoridad competente. A falta de disposición de obligatorio cumplimiento, será el anunciado por el productor y/o proveedor. El término de la garantía legal empezará a correr a partir de la entrega del producto al consumidor.
 

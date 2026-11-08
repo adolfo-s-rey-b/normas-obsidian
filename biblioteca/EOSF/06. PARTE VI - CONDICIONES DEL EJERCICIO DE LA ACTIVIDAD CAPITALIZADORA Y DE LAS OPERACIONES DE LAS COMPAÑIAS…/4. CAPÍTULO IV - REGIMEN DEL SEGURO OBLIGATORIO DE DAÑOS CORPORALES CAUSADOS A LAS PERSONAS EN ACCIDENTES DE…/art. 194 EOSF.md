@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "194"
-epigrafe: "PAGO DE INDEMNIZACIONES"
+epigrafe: "Pago de Indemnizaciones"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo IV|CAPÍTULO IV - REGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRANSITO]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 194. PAGO DE INDEMNIZACIONES
+## Artículo 194. Pago de Indemnizaciones
 
 1\. Prueba de los daños. En el seguro de que trata este capítulo todo pago indemnizatorio se efectuará con la demostración del accidente y de sus consecuencias dañosas para la víctima.
 

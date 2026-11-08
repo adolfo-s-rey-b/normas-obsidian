@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "42"
-epigrafe: "REPRESENTACIÓN DE PERSONAS JURÍDICAS EXTRANJERAS"
+epigrafe: "Representación de personas jurídicas extranjeras"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 42. REPRESENTACIÓN DE PERSONAS JURÍDICAS EXTRANJERAS
+## Artículo 42. Representación de personas jurídicas extranjeras
 
 La representación de las sociedades extranjeras con negocios permanentes en Colombia se regirá por las normas del Código de Comercio.
 

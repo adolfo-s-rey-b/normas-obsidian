@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "94"
-epigrafe: "INTERRUPCIÓN DE LA PRESCRIPCIÓN, INOPERANCIA DE LA CADUCIDAD Y CONSTITUCIÓN EN MORA"
+epigrafe: "Interrupción de la prescripción, inoperancia de la caducidad y constitución en mora"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 94. INTERRUPCIÓN DE LA PRESCRIPCIÓN, INOPERANCIA DE LA CADUCIDAD Y CONSTITUCIÓN EN MORA
+## Artículo 94. Interrupción de la prescripción, inoperancia de la caducidad y constitución en mora
 
 La presentación de la demanda interrumpe el término para la prescripción e impide que se produzca la caducidad siempre que el auto admisorio de aquella o el mandamiento ejecutivo se notifique al demandado dentro del término de un (1) año contado a partir del día siguiente a la notificación de tales providencias al demandante. Pasado este término, los mencionados efectos solo se producirán con la notificación al demandado.
 

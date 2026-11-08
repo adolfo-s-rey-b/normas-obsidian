@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "114"
-epigrafe: "CAUSALES"
+epigrafe: "Causales"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XXI|CAPÍTULO XXI - TOMA DE POSESION]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XXI|Capítulo XXI]]
 
-## Artículo 114. CAUSALES
+## Artículo 114. Causales
 
 1\. Corresponde a la Superintendencia Bancaria tomar posesión inmediata de los bienes, haberes y negocios de una entidad vigilada cuando se presente alguno de los siguientes hechos que, a su juicio, hagan necesaria la medida y previo concepto del consejo asesor.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "72"
-epigrafe: "DIRECCION Y ADMINISTRACION DE LOS ESTABLECIMIENTOS PUBLICOS"
+epigrafe: "Dirección y administración de los establecimientos públicos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 71 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 72. DIRECCION Y ADMINISTRACION DE LOS ESTABLECIMIENTOS PUBLICOS
+## Artículo 72. Dirección y administración de los establecimientos públicos
 
 La dirección y administración de los establecimientos públicos estará a cargo de un Consejo Directivo y de un director, gerente o presidente.
 

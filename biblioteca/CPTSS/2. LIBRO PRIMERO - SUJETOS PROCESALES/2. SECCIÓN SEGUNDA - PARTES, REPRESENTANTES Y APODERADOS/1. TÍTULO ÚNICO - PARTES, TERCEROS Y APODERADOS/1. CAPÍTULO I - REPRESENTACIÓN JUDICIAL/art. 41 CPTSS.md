@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "41"
-epigrafe: "AGENCIA OFICIOSA PROCESAL"
+epigrafe: "Agencia oficiosa procesal"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 41. AGENCIA OFICIOSA PROCESAL
+## Artículo 41. Agencia oficiosa procesal
 
 Se podrá demandar o contestar la demanda a nombre de una persona de quien no se tenga poder, siempre que ella y/o su representante legal se encuentre ausente o impedida para hacerlo; bastará afirmar dicha circunstancia bajo juramento que se entenderá prestado por la presentación de la demanda o la contestación.
 

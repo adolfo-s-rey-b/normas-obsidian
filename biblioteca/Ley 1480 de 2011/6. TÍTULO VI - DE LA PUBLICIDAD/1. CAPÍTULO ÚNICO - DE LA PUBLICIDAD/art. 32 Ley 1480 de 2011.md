@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "32"
-epigrafe: "CAUSALES DE EXONERACIÓN DE RESPONSABILIDAD"
+epigrafe: "Causales de exoneración de responsabilidad"
 titulo: "[[Ley 1480 de 2011 - Título VI|TÍTULO VI - DE LA PUBLICIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VI - Capítulo Único|CAPÍTULO ÚNICO - DE LA PUBLICIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VI|Título VI]] › [[Ley 1480 de 2011 - Título VI - Capítulo Único|Capítulo Único]]
 
-## Artículo 32. CAUSALES DE EXONERACIÓN DE RESPONSABILIDAD
+## Artículo 32. Causales de exoneración de responsabilidad
 
 El anunciante solo podrá exonerarse de responsabilidad, cuando demuestre fuerza mayor, caso fortuito o que la publicidad fue adulterada o suplantada sin que se hubiera podido evitar la adulteración o suplantación.
 

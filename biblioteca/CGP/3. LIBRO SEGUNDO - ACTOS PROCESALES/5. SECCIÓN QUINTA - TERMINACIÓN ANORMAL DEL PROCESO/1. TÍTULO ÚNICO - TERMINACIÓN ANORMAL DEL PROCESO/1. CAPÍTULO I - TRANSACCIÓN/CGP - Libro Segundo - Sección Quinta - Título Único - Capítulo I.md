@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 312 CGP|Artículo 312]] — TRÁMITE
-- [[art. 313 CGP|Artículo 313]] — TRANSACCIÓN POR ENTIDADES PÚBLICAS
+- [[art. 312 CGP|Artículo 312]] — Trámite
+- [[art. 313 CGP|Artículo 313]] — Transacción por entidades públicas
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]] →

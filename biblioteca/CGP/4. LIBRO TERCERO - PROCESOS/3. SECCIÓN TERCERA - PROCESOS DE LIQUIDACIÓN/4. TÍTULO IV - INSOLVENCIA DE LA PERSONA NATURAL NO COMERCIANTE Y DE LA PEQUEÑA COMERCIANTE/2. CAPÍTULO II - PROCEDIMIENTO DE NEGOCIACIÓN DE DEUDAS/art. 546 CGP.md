@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "546"
-epigrafe: "PROCESOS EJECUTIVOS ALIMENTARIOS EN CURSO"
+epigrafe: "Procesos ejecutivos alimentarios en curso"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 546. PROCESOS EJECUTIVOS ALIMENTARIOS EN CURSO
+## Artículo 546. Procesos ejecutivos alimentarios en curso
 
 Se exceptúan de lo dispuesto en el artículo anterior los procesos ejecutivos alimentarios que se encuentren en curso al momento de aceptarse la solicitud del procedimiento de negociación de deudas, los cuales continuarán adelantándose conforme al procedimiento previsto en la ley, sin que sea procedente decretar su suspensión ni el levantamiento de las medidas cautelares.
 

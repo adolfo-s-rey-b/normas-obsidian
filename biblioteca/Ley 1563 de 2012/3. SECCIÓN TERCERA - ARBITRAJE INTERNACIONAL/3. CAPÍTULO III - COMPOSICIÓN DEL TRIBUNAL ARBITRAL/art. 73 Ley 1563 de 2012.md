@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "73"
-epigrafe: "NOMBRAMIENTO DE LOS ÁRBITROS"
+epigrafe: "Nombramiento de los árbitros"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo III|CAPÍTULO III - COMPOSICIÓN DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]]
 
-## Artículo 73. NOMBRAMIENTO DE LOS ÁRBITROS
+## Artículo 73. Nombramiento de los árbitros
 
 En el nombramiento de árbitros en el arbitraje internacional:
 

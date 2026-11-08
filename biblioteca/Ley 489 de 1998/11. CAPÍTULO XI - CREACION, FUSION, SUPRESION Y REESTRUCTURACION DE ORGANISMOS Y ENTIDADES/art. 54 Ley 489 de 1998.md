@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "54"
-epigrafe: "PRINCIPIOS Y REGLAS GENERALES CON SUJECION A LAS CUALES EL GOBIERNO NACIONAL PUEDE MODIFICAR LA ESTRUCTURA DE LOS MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y DEMAS ORGANISMOS ADMINISTRATIVOS DEL ORDEN NACIONAL"
+epigrafe: "Principios y reglas generales con sujeción a las cuales el Gobierno Nacional puede modificar la estructura de los ministerios, departamentos administrativos y demás organismos administrativos del orden nacional"
 capitulo: "[[Ley 489 de 1998 - Capítulo XI|CAPÍTULO XI - CREACION, FUSION, SUPRESION Y REESTRUCTURACION DE ORGANISMOS Y ENTIDADES]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 53 Ley 489 de 1998]]"
 siguiente: "[[art. 55 Ley 489 de 1998]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0489_1998.html"
@@ -19,12 +19,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_489_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XI|Capítulo XI]]
 
-## Artículo 54. PRINCIPIOS Y REGLAS GENERALES CON SUJECION A LAS CUALES EL GOBIERNO NACIONAL PUEDE MODIFICAR LA ESTRUCTURA DE LOS MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y DEMAS ORGANISMOS ADMINISTRATIVOS DEL ORDEN NACIONAL
+## Artículo 54. Principios y reglas generales con sujeción a las cuales el Gobierno Nacional puede modificar la estructura de los ministerios, departamentos administrativos y demás organismos administrativos del orden nacional
 
 Con el objeto de modificar, esto es, variar, transformar o renovar la organización o estructura de los ministerios, departamentos administrativos y demás entidades u organismos administrativos nacionales, las disposiciones aplicables se dictarán por el Presidente de la República conforme a las previsiones del numeral 16 del artículo [[art. 189 CPol|189]] de la Constitución Política y con sujeción a siguientes principios y reglas generales:
 

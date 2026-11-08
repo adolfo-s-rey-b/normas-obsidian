@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "268"
-epigrafe: "VALOR DE LOS DEPOSITOS EN CUENTAS CORRIENTES Y DE AHORRO"
+epigrafe: "VALOR DE LOS DEPÓSITOS EN CUENTAS CORRIENTES Y DE AHORRO"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|Valor patrimonial de los activos]]
 
-## Artículo 268. VALOR DE LOS DEPOSITOS EN CUENTAS CORRIENTES Y DE AHORRO
+## Artículo 268. VALOR DE LOS DEPÓSITOS EN CUENTAS CORRIENTES Y DE AHORRO
 
 El valor de los depósitos bancarios es el del saldo en el último día del año o período gravable. El valor de los depósitos en cajas de ahorros es el del saldo en el último día del año o período gravable, incluida la corrección monetaria, cuando fuere el caso, más el valor de los intereses causados y no cobrados.
 

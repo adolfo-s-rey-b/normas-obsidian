@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "207"
-epigrafe: "ADICIÓN DE PROVIDENCIAS"
+epigrafe: "Adición de providencias"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|TÍTULO PRIMERO - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo III|Capítulo III]]
 
-## Artículo 207. ADICIÓN DE PROVIDENCIAS
+## Artículo 207. Adición de providencias
 
 Cuando la sentencia omita resolver sobre cualquiera de los extremos de la litis o sobre cualquier otro punto que de conformidad con la ley debía ser objeto de pronunciamiento, deberá adicionarse por medio de sentencia complementaria, dentro de la ejecutoria, de oficio o a solicitud de parte presentada en la misma oportunidad.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 300 CPTSS|Artículo 300]] — EXTENSIÓN DE PROCEDIMIENTO A LOS FUEROS
+- [[art. 300 CPTSS|Artículo 300]] — Extensión de procedimiento a los fueros
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]]

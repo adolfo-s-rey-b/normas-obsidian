@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "13"
-epigrafe: "GRATUIDAD"
+epigrafe: "Gratuidad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 12 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 13. GRATUIDAD
+## Artículo 13. Gratuidad
 
 La actuación procesal no causará erogación alguna a quienes en ella intervengan, en cuanto al servicio que presta la administración de justicia.
 

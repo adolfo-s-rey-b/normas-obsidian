@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "168"
-epigrafe: "RECHAZO DE PLANO"
+epigrafe: "Rechazo de plano"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 168. RECHAZO DE PLANO
+## Artículo 168. Rechazo de plano
 
 El juez rechazará, mediante providencia motivada, las pruebas ilícitas, las notoriamente impertinentes, las inconducentes y las manifiestamente superfluas o inútiles.
 

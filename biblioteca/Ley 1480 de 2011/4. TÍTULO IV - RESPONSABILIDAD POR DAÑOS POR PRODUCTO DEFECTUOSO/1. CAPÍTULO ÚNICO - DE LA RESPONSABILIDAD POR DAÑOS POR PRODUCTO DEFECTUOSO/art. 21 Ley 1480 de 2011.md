@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "21"
-epigrafe: "DETERMINACIÓN DE LA RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO"
+epigrafe: "Determinación de la responsabilidad por daños por producto defectuoso"
 titulo: "[[Ley 1480 de 2011 - Título IV|TÍTULO IV - RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO]]"
 capitulo: "[[Ley 1480 de 2011 - Título IV - Capítulo Único|CAPÍTULO ÚNICO - DE LA RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IV|Título IV]] › [[Ley 1480 de 2011 - Título IV - Capítulo Único|Capítulo Único]]
 
-## Artículo 21. DETERMINACIÓN DE LA RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO
+## Artículo 21. Determinación de la responsabilidad por daños por producto defectuoso
 
 Para determinar la responsabilidad, el afectado deberá demostrar el defecto del bien, la existencia del daño y el nexócausal entre este y aquel.
 

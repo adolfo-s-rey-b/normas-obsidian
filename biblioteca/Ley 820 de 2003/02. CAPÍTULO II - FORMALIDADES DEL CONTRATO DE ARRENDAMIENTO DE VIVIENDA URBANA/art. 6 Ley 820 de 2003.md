@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "6"
-epigrafe: "PRÓRROGA"
+epigrafe: "Prórroga"
 capitulo: "[[Ley 820 de 2003 - Capítulo II|CAPÍTULO II - FORMALIDADES DEL CONTRATO DE ARRENDAMIENTO DE VIVIENDA URBANA]]"
 vigencia: "vigente"
 anterior: "[[art. 5 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo II|Capítulo II]]
 
-## Artículo 6. PRÓRROGA
+## Artículo 6. Prórroga
 
 El contrato de arrendamiento de vivienda urbana se entenderá prorrogado en iguales condiciones y por el mismo término inicial, siempre que cada una de las partes haya cumplido con las obligaciones a su cargo y, que el arrendatario, se avenga a los reajustes de la renta autorizados en esta ley.
 

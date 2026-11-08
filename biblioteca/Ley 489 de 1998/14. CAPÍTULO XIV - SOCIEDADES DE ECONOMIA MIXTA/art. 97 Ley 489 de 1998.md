@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "97"
-epigrafe: "SOCIEDADES DE ECONOMIA MIXTA"
+epigrafe: "Sociedades de economía mixta"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIV|CAPÍTULO XIV - SOCIEDADES DE ECONOMIA MIXTA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 96 Ley 489 de 1998]]"
 siguiente: "[[art. 98 Ley 489 de 1998]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0489_1998.html"
@@ -19,12 +19,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_489_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 97. SOCIEDADES DE ECONOMIA MIXTA
+## Artículo 97. Sociedades de economía mixta
 
 Las sociedades de economía mixta son organismos autorizados por la ley, constituidos bajo la forma de sociedades comerciales con aportes estatales y de capital privado, que desarrollan actividades de naturaleza industrial o comercial conforme a las reglas de Derecho Privado, salvo las excepciones que consagra la ley.
 

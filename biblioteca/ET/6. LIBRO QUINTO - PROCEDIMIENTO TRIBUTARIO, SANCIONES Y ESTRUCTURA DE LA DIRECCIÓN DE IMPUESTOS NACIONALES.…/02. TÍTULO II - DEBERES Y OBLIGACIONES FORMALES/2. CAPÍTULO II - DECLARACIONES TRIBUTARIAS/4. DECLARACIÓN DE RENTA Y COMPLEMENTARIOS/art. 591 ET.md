@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "591"
-epigrafe: "QUIENES DEBEN PRESENTAR DECLARACIÓN DE RENTA Y COMPLEMENTARIOS"
+epigrafe: "QUIÉNES DEBEN PRESENTAR DECLARACIÓN DE RENTA Y COMPLEMENTARIOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo II|CAPÍTULO II - DECLARACIONES TRIBUTARIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título II - Capítulo II - Declaración de renta y complementarios|Declaración de renta y complementarios]]
 
-## Artículo 591. QUIENES DEBEN PRESENTAR DECLARACIÓN DE RENTA Y COMPLEMENTARIOS
+## Artículo 591. QUIÉNES DEBEN PRESENTAR DECLARACIÓN DE RENTA Y COMPLEMENTARIOS
 
 (Fuente original compilada: D. 2503/87 Art. [[art. 2 ET|2]]o.) Están obligados a presentar declaración del impuesto sobre la renta y complementarios por el año gravable de 1987 y siguientes, todos los contribuyentes sometidos a dicho impuesto, con excepción de los enumerados en el artículo siguiente.
 

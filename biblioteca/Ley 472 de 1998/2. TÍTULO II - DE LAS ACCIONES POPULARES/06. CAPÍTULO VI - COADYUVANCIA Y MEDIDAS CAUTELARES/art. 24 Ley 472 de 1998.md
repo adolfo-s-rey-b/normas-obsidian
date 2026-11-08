@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "24"
-epigrafe: "COADYUVANCIA"
+epigrafe: "Coadyuvancia"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VI|CAPÍTULO VI - COADYUVANCIA Y MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VI|Capítulo VI]]
 
-## Artículo 24. COADYUVANCIA
+## Artículo 24. Coadyuvancia
 
 Toda persona natural o jurídica podrá coadyuvar estas acciones, antes de que se profiera fallo de primera instancia. La coadyuvancia operará hacia la actuación futura. Podrán coadyuvar igualmente estas acciones las organizaciones populares, cívicas y similares, así como el Defensor del Pueblo o sus delegados, los Personeros Distritales o Municipales y demás autoridades que por razón de sus funciones deban proteger o defender los derechos e intereses colectivos.
 

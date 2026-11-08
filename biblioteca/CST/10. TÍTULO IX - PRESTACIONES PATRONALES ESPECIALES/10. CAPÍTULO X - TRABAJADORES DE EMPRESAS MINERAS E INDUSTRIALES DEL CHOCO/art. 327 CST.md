@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "327"
-epigrafe: "ASISTENCIA MEDICA"
+epigrafe: "ASISTENCIA MÉDICA"
 titulo: "[[CST - Título IX|TÍTULO IX - PRESTACIONES PATRONALES ESPECIALES]]"
 capitulo: "[[CST - Título IX - Capítulo X|CAPÍTULO X - TRABAJADORES DE EMPRESAS MINERAS E INDUSTRIALES DEL CHOCO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título IX|Título IX]] › [[CST - Título IX - Capítulo X|Capítulo X]]
 
-## Artículo 327. ASISTENCIA MEDICA
+## Artículo 327. ASISTENCIA MÉDICA
 
 Las empresas mineras e industriales del departamento del Chocó tienen como obligación especial la de suministrar a sus trabajadores asistencia médica, farmacéutica, quirúrgica y hospitalaria en caso de enfermedad no profesional, hasta por seis (6) meses, cuando su capital exceda de doscientos mil pesos ($200.000), y hasta por tres (3) meses, cuando su capital sea igual o inferior a esa suma, debiendo tener un médico en ejercicio legal de la profesión por cada doscientos (200) trabajadores, o fracción no inferior a cincuenta (50).
 

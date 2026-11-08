@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "325"
-epigrafe: "SUSPENSIÓN DEL PROCEDIMIENTO A PRUEBA"
+epigrafe: "Suspensión del procedimiento a prueba"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 325. SUSPENSIÓN DEL PROCEDIMIENTO A PRUEBA
+## Artículo 325. Suspensión del procedimiento a prueba
 
 El imputado o acusado, hasta antes de la audiencia de juzgamiento, podrá solicitar la suspensión del procedimiento a prueba, de la misma forma en que lo pueden hacer las personas simplemente imputadas, mediante solicitud oral en la que manifieste un plan de reparación del daño y las condiciones que estaría dispuesto a cumplir.
 

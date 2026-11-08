@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "171"
-epigrafe: "JUEZ QUE DEBE PRACTICAR LAS PRUEBAS"
+epigrafe: "Juez que debe practicar las pruebas"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 171. JUEZ QUE DEBE PRACTICAR LAS PRUEBAS
+## Artículo 171. Juez que debe practicar las pruebas
 
 El juez practicará personalmente todas las pruebas. Si no lo pudiere hacer por razón del territorio o por otras causas podrá hacerlo a través de videoconferencia, teleconferencia o de cualquier otro medio de comunicación que garantice la inmediación, concentración y contradicción.
 

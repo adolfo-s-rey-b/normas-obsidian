@@ -24,15 +24,15 @@ tags:
 
 ### Contenido
 
-- [[art. 103 CGP|Artículo 103]] — USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES
-- [[art. 104 CGP|Artículo 104]] — IDIOMA
-- [[art. 105 CGP|Artículo 105]] — FIRMAS
-- [[art. 106 CGP|Artículo 106]] — ACTUACIÓN JUDICIAL
-- [[art. 107 CGP|Artículo 107]] — AUDIENCIAS Y DILIGENCIAS
-- [[art. 108 CGP|Artículo 108]] — EMPLAZAMIENTO
-- [[art. 109 CGP|Artículo 109]] — PRESENTACIÓN Y TRÁMITE DE MEMORIALES E INCORPORACIÓN DE ESCRITOS Y COMUNICACIONES
-- [[art. 110 CGP|Artículo 110]] — TRASLADOS
-- [[art. 111 CGP|Artículo 111]] — COMUNICACIONES
+- [[art. 103 CGP|Artículo 103]] — Uso de las tecnologías de la información y de las comunicaciones
+- [[art. 104 CGP|Artículo 104]] — Idioma
+- [[art. 105 CGP|Artículo 105]] — Firmas
+- [[art. 106 CGP|Artículo 106]] — Actuación judicial
+- [[art. 107 CGP|Artículo 107]] — Audiencias y diligencias
+- [[art. 108 CGP|Artículo 108]] — Emplazamiento
+- [[art. 109 CGP|Artículo 109]] — Presentación y trámite de memoriales e incorporación de escritos y comunicaciones
+- [[art. 110 CGP|Artículo 110]] — Traslados
+- [[art. 111 CGP|Artículo 111]] — Comunicaciones
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] · [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo II|Capítulo II]] →

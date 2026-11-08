@@ -20,12 +20,12 @@ tags:
 
 ### Contenido
 
-- [[art. 15 Ley 1996 de 2019|Artículo 15]] — ACUERDOS DE APOYO
-- [[art. 16 Ley 1996 de 2019|Artículo 16]] — ACUERDOS DE APOYO POR ESCRITURA PÚBLICA ANTE NOTARIO
-- [[art. 17 Ley 1996 de 2019|Artículo 17]] — ACUERDOS DE APOYO ANTE CONCILIADORES EXTRAJUDICIALES EN DERECHO
-- [[art. 18 Ley 1996 de 2019|Artículo 18]] — DURACIÓN DE LOS ACUERDOS DE APOYO
-- [[art. 19 Ley 1996 de 2019|Artículo 19]] — ACUERDOS DE APOYO COMO REQUISITO DE VALIDEZ PARA LA REALIZACIÓN DE ACTOS JURÍDICOS
-- [[art. 20 Ley 1996 de 2019|Artículo 20]] — TERMINACIÓN Y MODIFICACIÓN DEL ACUERDO DE APOYOS
+- [[art. 15 Ley 1996 de 2019|Artículo 15]] — Acuerdos de apoyo
+- [[art. 16 Ley 1996 de 2019|Artículo 16]] — Acuerdos de apoyo por escritura pública ante notario
+- [[art. 17 Ley 1996 de 2019|Artículo 17]] — Acuerdos de apoyo ante conciliadores extrajudiciales en derecho
+- [[art. 18 Ley 1996 de 2019|Artículo 18]] — Duración de los acuerdos de apoyo
+- [[art. 19 Ley 1996 de 2019|Artículo 19]] — Acuerdos de apoyo como requisito de validez para la realización de actos jurídicos
+- [[art. 20 Ley 1996 de 2019|Artículo 20]] — Terminación y modificación del acuerdo de apoyos
 
 ---
 ← [[Ley 1996 de 2019 - Capítulo II|Capítulo II]] · ↑ [[Ley 1996 de 2019|Ley 1996 de 2019]] · [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]] →

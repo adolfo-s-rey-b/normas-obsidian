@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "617"
-epigrafe: "TRÁMITES NOTARIALES"
+epigrafe: "Trámites notariales"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título III|TÍTULO III - TRÁMITES NOTARIALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título III|Título III]]
 
-## Artículo 617. TRÁMITES NOTARIALES
+## Artículo 617. Trámites notariales
 
 Sin perjuicio de las competencias establecidas en este Código y en otras leyes, los notarios podrán conocer y tramitar, a prevención, de los siguientes asuntos:
 
@@ -54,7 +54,7 @@ Sin perjuicio de las competencias establecidas en este Código y en otras leyes,
 
 **PARÁGRAFO.** Cuando en estos asuntos surjan controversias o existan oposiciones, el trámite se remitirá al juez competente.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 616 CGP]] · ↑ [[CGP - Libro Quinto - Título III|Título III]] · [[art. 618 CGP]] →

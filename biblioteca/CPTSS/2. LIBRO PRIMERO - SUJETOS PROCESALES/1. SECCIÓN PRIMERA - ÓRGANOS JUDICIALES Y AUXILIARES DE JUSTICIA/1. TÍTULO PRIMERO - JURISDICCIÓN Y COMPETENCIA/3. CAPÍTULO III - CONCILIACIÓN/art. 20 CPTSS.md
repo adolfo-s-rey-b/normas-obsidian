@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "20"
-epigrafe: "CONCILIACIÓN ANTES DEL PROCESO"
+epigrafe: "Conciliación antes del proceso"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo III|Capítulo III]]
 
-## Artículo 20. CONCILIACIÓN ANTES DEL PROCESO
+## Artículo 20. Conciliación antes del proceso
 
 La persona o personas que tengan interés en conciliar una diferencia en asuntos del trabajo, la seguridad social u honorarios derivados del trabajo humano antes de presentar demanda, podrán solicitar a través de los medios dispuestos para ello, a los jueces laborales, y sin perjuicio de la competencia asignada por la ley a otras autoridades, que hagan la correspondiente citación, señalando día y hora para tal fin.
 

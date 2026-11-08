@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "267"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN"
+epigrafe: "Circunstancias de agravacion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VII|TÍTULO VII - DELITOS CONTRA EL PATRIMONIO ECONOMICO]]"
 capitulo: "[[CP - Libro Segundo - Título VII - Capítulo Noveno|CAPÍTULO NOVENO - DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VII|Título VII]] › [[CP - Libro Segundo - Título VII - Capítulo Noveno|Capítulo Noveno]]
 
-## Artículo 267. CIRCUNSTANCIAS DE AGRAVACIÓN
+## Artículo 267. Circunstancias de agravacion
 
 Las penas para los delitos descritos en los capítulos anteriores, se aumentarán de una tercera parte a la mitad, cuando la conducta se cometa:
 

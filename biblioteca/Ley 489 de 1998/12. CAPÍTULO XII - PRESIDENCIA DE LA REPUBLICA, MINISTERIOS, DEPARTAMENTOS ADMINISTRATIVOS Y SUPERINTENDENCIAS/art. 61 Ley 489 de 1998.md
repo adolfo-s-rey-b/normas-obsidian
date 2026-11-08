@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "61"
-epigrafe: "FUNCIONES DE LOS MINISTROS"
+epigrafe: "Funciones de los ministros"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 60 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 61. FUNCIONES DE LOS MINISTROS
+## Artículo 61. Funciones de los ministros
 
 Son funciones de los ministros, además de las que les señalan la Constitución Política y las disposiciones legales especiales, las siguientes:
 

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 211 CP|Artículo 211]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
-- [[art. 211A CP|Artículo 211A]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA CUANDO LA CONDUCTA SE COMETIERE EN CONTRA DE NIÑO, NIÑA O ADOLESCENTE
+- [[art. 211 CP|Artículo 211]] — Circunstancias de agravación punitiva
+- [[art. 211A CP|Artículo 211A]] — Circunstancias De Agravación Punitiva Cuando La Conducta Se Cometiere En Contra De Niño, Niña O Adolescente
 - [[art. 212 CP|Artículo 212]] — Acceso carnal
 - [[art. 212A CP|Artículo 212A]] — VIOLENCIA
 

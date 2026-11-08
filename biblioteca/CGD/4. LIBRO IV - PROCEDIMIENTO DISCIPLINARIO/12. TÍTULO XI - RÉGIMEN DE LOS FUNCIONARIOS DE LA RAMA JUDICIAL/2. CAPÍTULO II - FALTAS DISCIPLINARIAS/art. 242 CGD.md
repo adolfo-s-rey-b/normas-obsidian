@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "242"
-epigrafe: "FALTA DISCIPLINARIA"
+epigrafe: "Falta disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo II|CAPÍTULO II - FALTAS DISCIPLINARIAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo II|Capítulo II]]
 
-## Artículo 242. FALTA DISCIPLINARIA
+## Artículo 242. Falta disciplinaria
 
 Constituye falta disciplinaria y da lugar a acción e imposición de la sanción correspondiente el incumplimiento de los deberes y prohibiciones, la incursión en las inhabilidades, impedimentos, incompatibilidades y conflictos de intereses previstos en la Constitución, en la Ley Estatutaria de la Administración de Justicia y demás leyes. Constituyen faltas gravísimas las contempladas en este código.
 

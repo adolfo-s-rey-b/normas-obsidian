@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "160"
-epigrafe: "DEDUCCIÓN POR EXPLORACIÓN DE PETROLEOS EN CONTRATOS VIGENTES AL 28 DE OCTUBRE DE 1974"
+epigrafe: "DEDUCCIÓN POR EXPLORACIÓN DE PETRÓLEOS EN CONTRATOS VIGENTES AL 28 DE OCTUBRE DE 1974"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Deducciones especiales por inversiones|Deducciones especiales por inversiones]]
 
-## Artículo 160. DEDUCCIÓN POR EXPLORACIÓN DE PETROLEOS EN CONTRATOS VIGENTES AL 28 DE OCTUBRE DE 1974
+## Artículo 160. DEDUCCIÓN POR EXPLORACIÓN DE PETRÓLEOS EN CONTRATOS VIGENTES AL 28 DE OCTUBRE DE 1974
 
 Cuando se trate de exploraciones en busca de petróleos llevadas a cabo a partir del 1o. de enero de 1955 que correspondan a zonas cuyo subsuelo petrolífero haya sido reconocido como de propiedad privada o a concesiones o asociaciones vigentes a octubre 28 de 1974, directamente por personas naturales o por compañías con explotaciones en producción o por medio de filiales o subsidiarias, se concederá una deducción por amortización de inversiones de toda clase, hechas en tales exploraciones con cargo a la renta de explotaciones en el país, a una tasa del diez por ciento (10%) de la respectiva inversión.
 

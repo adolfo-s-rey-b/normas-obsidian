@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "79"
-epigrafe: "DEBERES Y PROHIBICIONES"
+epigrafe: "Deberes y prohibiciones"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo II|CAPÍTULO II - FALTAS ESPECIALES DE LOS NOTARIOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 79. DEBERES Y PROHIBICIONES
+## Artículo 79. Deberes y prohibiciones
 
 Son deberes y prohibiciones de los notarios, los siguientes:
 

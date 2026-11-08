@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 242 CGD|Artículo 242]] — FALTA DISCIPLINARIA
-- [[art. 243 CGD|Artículo 243]] — DECISIÓN SOBRE IMPEDIMENTOS Y RECUSACIONES
+- [[art. 242 CGD|Artículo 242]] — Falta disciplinaria
+- [[art. 243 CGD|Artículo 243]] — Decisión sobre impedimentos y recusaciones
 
 ---
 ← [[CGD - Libro IV - Título XI - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro IV - Título XI|Título XI]] · [[CGD - Libro IV - Título XI - Capítulo III|Capítulo III]] →

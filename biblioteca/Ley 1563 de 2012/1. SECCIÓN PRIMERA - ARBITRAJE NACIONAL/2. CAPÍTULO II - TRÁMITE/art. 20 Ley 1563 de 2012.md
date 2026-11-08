@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "20"
-epigrafe: "INSTALACIÓN DEL TRIBUNAL"
+epigrafe: "Instalación del tribunal"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 20. INSTALACIÓN DEL TRIBUNAL
+## Artículo 20. Instalación del tribunal
 
 Aceptada su designación por todos los árbitros y, en su caso, cumplidos los trámites de recusación y reemplazo, el tribunal arbitral procederá a su instalación, en audiencia para la cual el centro de arbitraje fijará día y hora.
 

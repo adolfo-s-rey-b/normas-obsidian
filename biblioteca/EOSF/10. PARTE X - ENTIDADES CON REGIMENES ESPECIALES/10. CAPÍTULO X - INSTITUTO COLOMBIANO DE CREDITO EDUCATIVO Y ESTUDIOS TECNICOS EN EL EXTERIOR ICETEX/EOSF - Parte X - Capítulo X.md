@@ -23,7 +23,7 @@ tags:
 ### Contenido
 
 - [[art. 277 EOSF|Artículo 277]] — OPERACIONES
-- [[art. 278 EOSF|Artículo 278]] — VIGILANCIA Y CONTROL
+- [[art. 278 EOSF|Artículo 278]] — Vigilancia y Control
 
 ---
 ← [[EOSF - Parte X - Capítulo IX|Capítulo IX]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo XI|Capítulo XI]] →

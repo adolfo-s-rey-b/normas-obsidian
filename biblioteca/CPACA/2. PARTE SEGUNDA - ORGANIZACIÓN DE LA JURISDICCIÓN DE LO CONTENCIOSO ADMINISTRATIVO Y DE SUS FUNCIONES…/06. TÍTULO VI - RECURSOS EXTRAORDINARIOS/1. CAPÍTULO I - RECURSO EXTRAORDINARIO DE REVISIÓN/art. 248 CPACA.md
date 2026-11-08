@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "248"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo I|CAPÍTULO I - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 248. PROCEDENCIA
+## Artículo 248. Procedencia
 
 El recurso extraordinario de revisión procede contra las sentencias ejecutoriadas dictadas por las secciones y subsecciones de la Sala de lo Contencioso Administrativo del Consejo de Estado, por los Tribunales Administrativos y por los jueces administrativos.
 

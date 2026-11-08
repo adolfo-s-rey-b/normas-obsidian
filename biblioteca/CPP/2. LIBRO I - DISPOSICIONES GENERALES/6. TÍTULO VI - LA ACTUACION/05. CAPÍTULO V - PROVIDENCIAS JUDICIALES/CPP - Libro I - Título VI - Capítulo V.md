@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 161 CPP|Artículo 161]] — CLASES
-- [[art. 162 CPP|Artículo 162]] — REQUISITOS COMUNES
-- [[art. 163 CPP|Artículo 163]] — PROHIBICIÓN DE TRANSCRIPCIONES
-- [[art. 164 CPP|Artículo 164]] — PROVIDENCIAS DE JUECES COLEGIADOS O PLURALES
-- [[art. 165 CPP|Artículo 165]] — EXPEDICIÓN DE COPIAS
-- [[art. 166 CPP|Artículo 166]] — COMUNICACIÓN DE LA SENTENCIA
-- [[art. 167 CPP|Artículo 167]] — INFORMACIÓN ACERCA DE LA EJECUCIÓN DE LA SENTENCIA
+- [[art. 161 CPP|Artículo 161]] — Clases
+- [[art. 162 CPP|Artículo 162]] — Requisitos comunes
+- [[art. 163 CPP|Artículo 163]] — Prohibición de transcripciones
+- [[art. 164 CPP|Artículo 164]] — Providencias de jueces colegiados o plurales
+- [[art. 165 CPP|Artículo 165]] — Expedición de copias
+- [[art. 166 CPP|Artículo 166]] — Comunicación de la sentencia
+- [[art. 167 CPP|Artículo 167]] — Información acerca de la ejecución de la sentencia
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo IV|Capítulo IV]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo VI|Capítulo VI]] →

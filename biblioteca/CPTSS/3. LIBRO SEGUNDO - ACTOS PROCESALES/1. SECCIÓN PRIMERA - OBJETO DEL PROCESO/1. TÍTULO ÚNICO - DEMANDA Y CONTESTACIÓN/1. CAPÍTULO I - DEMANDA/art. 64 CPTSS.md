@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "64"
-epigrafe: "PERSONAS CONTRA LAS CUALES SE DIRIGE LA DEMANDA"
+epigrafe: "Personas contra las cuales se dirige la demanda"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 64. PERSONAS CONTRA LAS CUALES SE DIRIGE LA DEMANDA
+## Artículo 64. Personas contra las cuales se dirige la demanda
 
 La demanda se dirigirá contra quienes tengan capacidad para ser parte, según se ha definido en este código, ya sea que puedan comparecer directamente al proceso o a través de sus representantes o voceros, o debidamente autorizados por estos, con arreglo a las normas sustanciales.
 

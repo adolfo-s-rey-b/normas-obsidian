@@ -24,15 +24,15 @@ tags:
 
 ### Contenido
 
-- [[art. 136 CPTSS|Artículo 136]] — REQUISITOS DE LA CONFESIÓN
-- [[art. 137 CPTSS|Artículo 137]] — CONFESIÓN DE LITISCONSORTE
-- [[art. 138 CPTSS|Artículo 138]] — CONFESIÓN POR APODERADO JUDICIAL
-- [[art. 139 CPTSS|Artículo 139]] — INDIVISIBILIDAD DE LA CONFESIÓN
-- [[art. 140 CPTSS|Artículo 140]] — INFIRMACIÓN DE LA CONFESIÓN
-- [[art. 141 CPTSS|Artículo 141]] — INTERROGATORIO DE LAS PARTES
-- [[art. 142 CPTSS|Artículo 142]] — REGLAS DEL INTERROGATORIO DE LAS PARTES
-- [[art. 143 CPTSS|Artículo 143]] — PRÁCTICA DEL INTERROGATORIO
-- [[art. 144 CPTSS|Artículo 144]] — DECLARACIONES DE LOS REPRESENTANTES DE PERSONAS JURÍDICAS DE DERECHO PÚBLICO
+- [[art. 136 CPTSS|Artículo 136]] — Requisitos de la confesión
+- [[art. 137 CPTSS|Artículo 137]] — Confesión de litisconsorte
+- [[art. 138 CPTSS|Artículo 138]] — Confesión por apoderado judicial
+- [[art. 139 CPTSS|Artículo 139]] — Indivisibilidad de la confesión
+- [[art. 140 CPTSS|Artículo 140]] — Infirmación de la confesión
+- [[art. 141 CPTSS|Artículo 141]] — Interrogatorio de las partes
+- [[art. 142 CPTSS|Artículo 142]] — Reglas del interrogatorio de las partes
+- [[art. 143 CPTSS|Artículo 143]] — Práctica del interrogatorio
+- [[art. 144 CPTSS|Artículo 144]] — Declaraciones de los representantes de personas jurídicas de derecho público
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]] →

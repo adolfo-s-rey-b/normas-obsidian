@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "23"
-epigrafe: "GARANTÍA DE LA FUNCIÓN PÚBLICA"
+epigrafe: "Garantía de la función pública"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título II|TÍTULO II - DISPOSICIONES GENERALES]]"
 capitulo: "[[CGD - Libro I - Título II - Capítulo I|CAPÍTULO I - LA FUNCIÓN PÚBLICA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título II|Título II]] › [[CGD - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 23. GARANTÍA DE LA FUNCIÓN PÚBLICA
+## Artículo 23. Garantía de la función pública
 
 Con el fin de salvaguardar la moralidad pública, transparencia, objetividad, legalidad, honradez, lealtad, igualdad, imparcialidad, celeridad, publicidad, economía, neutralidad, eficacia y eficiencia que debe observar en el desempeño de su empleo, cargo o función, el sujeto disciplinable ejercerá los derechos, cumplirá los deberes, respetará las prohibiciones y acatará el régimen de inhabilidades, incompatibilidades, impedimentos y conflictos de intereses, establecidos en la Constitución Política y en las leyes.
 

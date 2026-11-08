@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "79"
-epigrafe: "FACULTAD DEL TRIBUNAL ARBITRAL PARA DECIDIR ACERCA DE SU COMPETENCIA"
+epigrafe: "Facultad del tribunal arbitral para decidir acerca de su competencia"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo IV|CAPÍTULO IV - COMPETENCIA DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo IV|Capítulo IV]]
 
-## Artículo 79. FACULTAD DEL TRIBUNAL ARBITRAL PARA DECIDIR ACERCA DE SU COMPETENCIA
+## Artículo 79. Facultad del tribunal arbitral para decidir acerca de su competencia
 
 El tribunal arbitral es el único competente para decidir sobre su propia competencia, incluso sobre las excepciones u objeciones al arbitraje relativas a la inexistencia, nulidad, anulabilidad, invalidez o ineficacia del acuerdo de arbitraje o por no estar pactado el arbitraje para resolver la materia controvertida o cualesquiera otras cuya estimación impida entrar en el fondo de la controversia. Se encuentran comprendidas en este ámbito las excepciones de prescripción, caducidad, cosa juzgada y cualquiera otra que tenga por objeto impedir la continuación de la actuación arbitral.
 

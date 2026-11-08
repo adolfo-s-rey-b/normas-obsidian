@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "562"
-epigrafe: "CONVALIDACIÓN DEL ACUERDO PRIVADO"
+epigrafe: "Convalidación del acuerdo privado"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 562. CONVALIDACIÓN DEL ACUERDO PRIVADO
+## Artículo 562. Convalidación del acuerdo privado
 
 La persona natural no comerciante que por la pérdida de su empleo, la disolución y liquidación de la sociedad conyugal o de otras circunstancias similares, enfrente dificultades para la atención de su pasivo, que se traduzcan en una cesación de pagos dentro de los siguientes 120 días, podrá solicitar que se convalide el acuerdo privado que hubiere celebrado con un número plural de acreedores que representen más del sesenta por ciento (60%) del monto total del capital de sus obligaciones.
 

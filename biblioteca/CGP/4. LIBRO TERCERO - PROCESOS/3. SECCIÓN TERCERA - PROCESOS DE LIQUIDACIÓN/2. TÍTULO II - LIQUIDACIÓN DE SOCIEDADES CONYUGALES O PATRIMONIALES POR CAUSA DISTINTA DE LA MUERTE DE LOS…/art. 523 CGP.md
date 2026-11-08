@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "523"
-epigrafe: "LIQUIDACIÓN DE SOCIEDAD CONYUGAL O PATRIMONIAL A CAUSA DE SENTENCIA JUDICIAL"
+epigrafe: "Liquidación de sociedad conyugal o patrimonial a causa de sentencia judicial"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título II|TÍTULO II - LIQUIDACIÓN DE SOCIEDADES CONYUGALES O PATRIMONIALES POR CAUSA DISTINTA DE LA MUERTE DE LOS CÓNYUGES O COMPAÑEROS PERMANENTES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título II|Título II]]
 
-## Artículo 523. LIQUIDACIÓN DE SOCIEDAD CONYUGAL O PATRIMONIAL A CAUSA DE SENTENCIA JUDICIAL
+## Artículo 523. Liquidación de sociedad conyugal o patrimonial a causa de sentencia judicial
 
 Cualquiera de los cónyuges o compañeros permanentes podrá promover la liquidación de la sociedad conyugal o patrimonial disuelta a causa de sentencia judicial, ante el juez que la profirió, para que se tramite en el mismo expediente. La demanda deberá contener una relación de activos y pasivos con indicación del valor estimado de los mismos.
 

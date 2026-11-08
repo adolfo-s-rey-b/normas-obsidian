@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "24"
-epigrafe: "ACUERDOS DE ACCIONISTAS"
+epigrafe: "Acuerdos de accionistas"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 23 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 24. ACUERDOS DE ACCIONISTAS
+## Artículo 24. Acuerdos de accionistas
 
 Los acuerdos de accionistas sobre la compra o venta de acciones, la preferencia para adquirirlas, las restricciones para transferirlas, el ejercicio del derecho de voto, la persona que habrá de representar las acciones en la asamblea y cualquier otro asunto lícito, deberán ser acatados por la compañía cuando hubieren sido depositados en las oficinas donde funcione la administración de la sociedad, siempre que su término no fuere superior a diez (10) años, prorrogables por voluntad unánime de sus suscriptores por períodos que no superen los diez (10) años.
 

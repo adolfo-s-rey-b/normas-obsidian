@@ -11,7 +11,7 @@ articulo: "327"
 epigrafe: "ORGANIZACION Y FUNCIONAMIENTO DE LA SUPERINTENDENCIA BANCARIA"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo II|CAPÍTULO II - SUPERINTENDENCIA BANCARIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Decreto 2489 de 1999]]"
   - "[[art. 4 Decreto 1284 de 1994]]"
@@ -35,7 +35,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo II|Capítulo II]]

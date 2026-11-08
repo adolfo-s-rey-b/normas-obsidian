@@ -23,7 +23,7 @@ tags:
 - [[art. 1 Ley 1474 de 2011|Artículo 1]] — Inhabilidad para contratar de quienes incurran en actos de corrupción. El literal j) del numeral 1 del artículo 8 de la Ley 80 de 1993
 - [[art. 2 Ley 1474 de 2011|Artículo 2]] — Inhabilidad para contratar de quienes financien campañas políticas
 - [[art. 3 Ley 1474 de 2011|Artículo 3]] — Prohibición para que ex servidores públicos gestionen intereses privados
-- [[art. 4 Ley 1474 de 2011|Artículo 4]] — INHABILIDAD PARA QUE EX EMPLEADOS PÚBLICOS CONTRATEN CON EL ESTADO
+- [[art. 4 Ley 1474 de 2011|Artículo 4]] — Inhabilidad para que ex empleados públicos contraten con el Estado
 
 ---
 ↑ [[Ley 1474 de 2011|Ley 1474 de 2011]] · [[Ley 1474 de 2011 - Capítulo I (2)|Capítulo I]] →

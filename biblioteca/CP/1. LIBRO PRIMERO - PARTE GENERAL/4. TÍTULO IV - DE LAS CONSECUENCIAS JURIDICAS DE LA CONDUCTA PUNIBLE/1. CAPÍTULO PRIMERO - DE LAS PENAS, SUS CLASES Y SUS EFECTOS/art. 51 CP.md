@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "51"
-epigrafe: "DURACIÓN DE LAS PENAS PRIVATIVAS DE OTROS DERECHOS"
+epigrafe: "Duración de las penas privativas de otros derechos"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -32,11 +32,11 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 51. DURACIÓN DE LAS PENAS PRIVATIVAS DE OTROS DERECHOS
+## Artículo 51. Duración de las penas privativas de otros derechos
 
 La inhabilitación para el ejercicio de derechos y funciones públicas tendrá una duración de cinco (5) a veinte (20) años, salvo en el caso del inciso 3o. del artículo [[art. 52 CP|52]].
 
-> [!note] Notas de Editor: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Para la interpretación de este Artículo el editor sigiere tener en cuenta la modificación de la Ley 599 de 2000 introducida por el Artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602 de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...' Este Artículo [[art. 51 CP|51]] hace referencia a penas que, cuando estaban explícitamente mencionadas en la parte especial del Código Penal, sí fueron aumentadas por el Artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004.
+> [!note] Notas de Editor: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Para la interpretación de este Artículo el editor sigiere tener en cuenta la modificación de la Ley 599 de 2000 introducida por el Artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602 de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...' Este Artículo [[art. 51 CP|51]] hace referencia a penas que, cuando estaban explícitamente mencionadas en la parte especial del Código Penal, sí fueron aumentadas por el Artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004.
 
 Se excluyen de esta regla las penas impuestas a servidores públicos condenados por delitos contra el patrimonio del Estado, en cuyo caso se aplicará el inciso 5 del artículo [[art. 122 CPol|122]] de la Constitución Política.
 

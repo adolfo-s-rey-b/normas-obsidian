@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "215"
-epigrafe: "NORMAS APLICABLES A LAS ENTIDADES FINANCIERAS DE NATURALEZA COOPERATIVA"
+epigrafe: "Normas Aplicables a las Entidades Financieras de Naturaleza Cooperativa"
 parte: "[[EOSF - Parte VIII|PARTE VIII - SISTEMAS ESPECIALES DE REMISION]]"
 vigencia: "vigente"
 anterior: "[[art. 214 EOSF]]"
@@ -27,7 +27,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VIII|Parte VIII]]
 
-## Artículo 215. NORMAS APLICABLES A LAS ENTIDADES FINANCIERAS DE NATURALEZA COOPERATIVA
+## Artículo 215. Normas Aplicables a las Entidades Financieras de Naturaleza Cooperativa
 
 De conformidad con el artículo [[art. 98 Ley 79 de 1988|98]] de la Ley 79 de 1988 las entidades que se constituyan vajo la naturaleza jurídica cooperativa, se regirán por las disposiciones propias de las entidades financieras que constituyan, en concordancia con las del régimen cooperativo.
 

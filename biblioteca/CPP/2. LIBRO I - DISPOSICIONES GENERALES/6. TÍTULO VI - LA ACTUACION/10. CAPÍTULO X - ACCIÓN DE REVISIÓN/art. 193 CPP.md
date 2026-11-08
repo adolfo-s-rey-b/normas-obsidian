@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "193"
-epigrafe: "LEGITIMACIÓN"
+epigrafe: "Legitimación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo X|CAPÍTULO X - ACCIÓN DE REVISIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo X|Capítulo X]]
 
-## Artículo 193. LEGITIMACIÓN
+## Artículo 193. Legitimación
 
 La acción de revisión podrá ser promovida por el fiscal, el Ministerio Público, el defensor y demás intervinientes, siempre que ostenten interés jurídico y hayan sido legalmente reconocidos dentro de la actuación materia de revisión. Estos últimos podrán hacerlo directamente si fueren abogados en ejercicio. En los demás casos se requerirá poder especial para el efecto.
 

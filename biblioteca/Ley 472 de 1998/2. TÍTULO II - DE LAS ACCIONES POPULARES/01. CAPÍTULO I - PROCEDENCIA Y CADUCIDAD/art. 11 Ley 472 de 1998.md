@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "11"
-epigrafe: "CADUCIDAD"
+epigrafe: "Caducidad"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo I|CAPÍTULO I - PROCEDENCIA Y CADUCIDAD]]"
 vigencia: "parcialmente inexequible"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 11. CADUCIDAD
+## Artículo 11. Caducidad
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

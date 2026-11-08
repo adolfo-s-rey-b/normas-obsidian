@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 61 CPTSS|Artículo 61]] — FORMA Y REQUISITOS DE LA DEMANDA
-- [[art. 62 CPTSS|Artículo 62]] — ACUMULACIÓN DE PRETENSIONES
-- [[art. 63 CPTSS|Artículo 63]] — ANEXOS DE LA DEMANDA
-- [[art. 64 CPTSS|Artículo 64]] — PERSONAS CONTRA LAS CUALES SE DIRIGE LA DEMANDA
-- [[art. 65 CPTSS|Artículo 65]] — DEMANDA CONTRA HEREDEROS DETERMINADOS E INDETERMINADOS, DEMÁS ADMINISTRADORES DE LA HERENCIA Y EL CÓNYUGE
-- [[art. 66 CPTSS|Artículo 66]] — ADMISIÓN, INADMISIÓN Y RECHAZO DE LA DEMANDA
-- [[art. 67 CPTSS|Artículo 67]] — RETIRO DE LA DEMANDA
-- [[art. 68 CPTSS|Artículo 68]] — REFORMA DE LA DEMANDA
+- [[art. 61 CPTSS|Artículo 61]] — Forma y requisitos de la demanda
+- [[art. 62 CPTSS|Artículo 62]] — Acumulación de pretensiones
+- [[art. 63 CPTSS|Artículo 63]] — Anexos de la demanda
+- [[art. 64 CPTSS|Artículo 64]] — Personas contra las cuales se dirige la demanda
+- [[art. 65 CPTSS|Artículo 65]] — Demanda contra herederos determinados e indeterminados, demás administradores de la herencia y el cónyuge
+- [[art. 66 CPTSS|Artículo 66]] — Admisión, inadmisión y rechazo de la demanda
+- [[art. 67 CPTSS|Artículo 67]] — Retiro de la demanda
+- [[art. 68 CPTSS|Artículo 68]] — Reforma de la demanda
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]] →

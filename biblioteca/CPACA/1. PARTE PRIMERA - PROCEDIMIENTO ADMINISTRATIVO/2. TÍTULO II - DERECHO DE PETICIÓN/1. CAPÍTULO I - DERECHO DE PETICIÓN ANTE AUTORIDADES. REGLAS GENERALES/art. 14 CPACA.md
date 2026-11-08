@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "14"
-epigrafe: "TÉRMINOS PARA RESOLVER LAS DISTINTAS MODALIDADES DE PETICIONES"
+epigrafe: "Términos para resolver las distintas modalidades de peticiones"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 14. TÉRMINOS PARA RESOLVER LAS DISTINTAS MODALIDADES DE PETICIONES
+## Artículo 14. Términos para resolver las distintas modalidades de peticiones
 
 Salvo norma legal especial y so pena de sanción disciplinaria, toda petición deberá resolverse dentro de los quince (15) días siguientes a su recepción. Estará sometida a término especial la resolución de las siguientes peticiones:
 

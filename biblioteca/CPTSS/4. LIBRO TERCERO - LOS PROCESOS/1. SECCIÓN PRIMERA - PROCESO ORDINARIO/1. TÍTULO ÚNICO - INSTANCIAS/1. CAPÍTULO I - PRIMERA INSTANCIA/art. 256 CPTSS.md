@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "256"
-epigrafe: "DEMANDA DE RECONVENCIÓN"
+epigrafe: "Demanda de reconvención"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 256. DEMANDA DE RECONVENCIÓN
+## Artículo 256. Demanda de reconvención
 
 Al contestar la demanda, el demandado podrá proponer la reconvención, siempre que el juez sea competente para conocer de esta o sea admisible la prórroga de competencia. En caso de alterarse la competencia deberá remitir el proceso al juez competente, quien continuará el trámite a partir del estudio de admisibilidad de la demanda de reconvención.
 

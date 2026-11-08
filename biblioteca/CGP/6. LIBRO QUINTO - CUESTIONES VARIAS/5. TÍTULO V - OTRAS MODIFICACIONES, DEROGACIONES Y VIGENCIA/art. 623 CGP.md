@@ -35,7 +35,7 @@ Modifíquese la parte final del numeral 4 del artículo [[art. 247 Ley 1437 de 2
 
 "Vencido el término que tienen las partes para alegar, se surtirá traslado al Ministerio Público por el término de diez (10) días, sin retiro del expediente".
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 622 CGP]] · ↑ [[CGP - Libro Quinto - Título V|Título V]] · [[art. 624 CGP]] →

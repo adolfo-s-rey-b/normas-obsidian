@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "910"
-epigrafe: "DECLARACIÓN Y PAGO DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE"
+epigrafe: "DECLARACIÓN Y PAGO DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE"
 libro: "[[ET - Libro Octavo|LIBRO OCTAVO - IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN (SIMPLE) PARA LA FORMALIZACIÓN Y LA GENERACIÓN DE EMPLEO]]"
 vigencia: "derogado"
 modificado_por:
@@ -38,7 +38,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Octavo|Libro Octavo]]
 
-## Artículo 910. DECLARACIÓN Y PAGO DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN – SIMPLE
+## Artículo 910. DECLARACIÓN Y PAGO DEL IMPUESTO UNIFICADO BAJO EL RÉGIMEN SIMPLE DE TRIBUTACIÓN - SIMPLE
 
 Los contribuyentes del impuesto unificado bajo el régimen simple de tributación – SIMPLE deberán presentar una declaración anual consolidada dentro de los plazos que fije el Gobierno nacional y en el formulario simplificado señalado por la Dirección de Impuestos y Aduanas Nacionales (DIAN) mediante resolución. Lo anterior sin perjuicio del pago del anticipo bimestral a través del recibo electrónico SIMPLE, el cual se debe presentar de forma obligatoria, con independencia de que haya saldo a pagar de anticipo, de conformidad con los plazos que establezca el Gobierno nacional, en los términos del artículo [[art. 908 ET|908]] de este Estatuto. Dicho anticipo se descontará del valor a pagar en la declaración consolidada anual.
 

@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 122 CPTSS|Artículo 122]] — PROTOCOLO
-- [[art. 123 CPTSS|Artículo 123]] — ORALIDAD Y PUBLICIDAD
-- [[art. 124 CPTSS|Artículo 124]] — CLASES DE AUDIENCIAS
-- [[art. 125 CPTSS|Artículo 125]] — SEÑALAMIENTO DE AUDIENCIAS
-- [[art. 126 CPTSS|Artículo 126]] — ACTAS Y GRABACIÓN DE AUDIENCIAS
+- [[art. 122 CPTSS|Artículo 122]] — Protocolo
+- [[art. 123 CPTSS|Artículo 123]] — Oralidad y publicidad
+- [[art. 124 CPTSS|Artículo 124]] — Clases de audiencias
+- [[art. 125 CPTSS|Artículo 125]] — Señalamiento de audiencias
+- [[art. 126 CPTSS|Artículo 126]] — Actas y grabación de audiencias
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo X|Capítulo X]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]]

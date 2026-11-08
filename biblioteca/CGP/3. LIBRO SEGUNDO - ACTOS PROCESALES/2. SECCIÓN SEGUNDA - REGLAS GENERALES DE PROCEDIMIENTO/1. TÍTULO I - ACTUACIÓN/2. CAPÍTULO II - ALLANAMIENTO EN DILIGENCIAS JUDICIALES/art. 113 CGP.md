@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "113"
-epigrafe: "PRÁCTICA DE ALLANAMIENTO"
+epigrafe: "Práctica de allanamiento"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 113. PRÁCTICA DE ALLANAMIENTO
+## Artículo 113. Práctica de allanamiento
 
 El juez informará el objeto de la diligencia a quien encuentre en el lugar. Si no se le permite el acceso procederá al allanamiento valiéndose de la fuerza pública en caso necesario. Para tales efectos esta actuará bajo la dirección del juez.
 

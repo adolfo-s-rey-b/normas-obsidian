@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "48"
-epigrafe: "DESIGNACIÓN"
+epigrafe: "Designación"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 48. DESIGNACIÓN
+## Artículo 48. Designación
 
 Para la designación de los auxiliares de la justicia se observarán las siguientes reglas:
 

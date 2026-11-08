@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "12"
-epigrafe: "INICIACIÓN DEL PROCESO ARBITRAL"
+epigrafe: "Iniciación del proceso arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 12. INICIACIÓN DEL PROCESO ARBITRAL
+## Artículo 12. Iniciación del proceso arbitral
 
 El proceso arbitral comenzará con la presentación de la demanda, que deberá reunir todos los requisitos exigidos por el Código de Procedimiento Civil, acompañada del pacto arbitral y dirigida al centro de arbitraje acordado por las partes. En su defecto, a uno del lugar del domicilio de la demandada, y si esta fuere plural, en el de cualquiera de sus integrantes. El centro de arbitraje que no fuere competente, remitirá la demanda al que lo fuere. Los conflictos de competencia que se susciten entre centros de arbitraje serán resueltos por el Ministerio de Justicia y del Derecho.
 

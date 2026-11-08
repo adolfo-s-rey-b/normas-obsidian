@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "75"
-epigrafe: "DELITOS QUE REQUIEREN PETICIÓN ESPECIAL"
+epigrafe: "Delitos que requieren petición especial"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 75. DELITOS QUE REQUIEREN PETICIÓN ESPECIAL
+## Artículo 75. Delitos que requieren petición especial
 
 La acción penal se iniciará por petición del Procurador General de la Nación, cuando el delito se cometa en el extranjero, no hubiere sido juzgado, el sujeto activo se encuentre en Colombia y se cumplan los siguientes requisitos:
 

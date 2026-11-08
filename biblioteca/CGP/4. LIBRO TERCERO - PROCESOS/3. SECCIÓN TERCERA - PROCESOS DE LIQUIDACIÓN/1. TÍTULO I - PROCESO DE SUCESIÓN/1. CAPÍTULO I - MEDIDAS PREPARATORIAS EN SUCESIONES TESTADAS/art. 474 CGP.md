@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "474"
-epigrafe: "PUBLICACIÓN DEL TESTAMENTO OTORGADO ANTE CINCO (5) TESTIGOS"
+epigrafe: "Publicación del testamento otorgado ante cinco (5) testigos"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 474. PUBLICACIÓN DEL TESTAMENTO OTORGADO ANTE CINCO (5) TESTIGOS
+## Artículo 474. Publicación del testamento otorgado ante cinco (5) testigos
 
 Para la publicación del testamento otorgado ante cinco (5) testigos se procederá así:
 

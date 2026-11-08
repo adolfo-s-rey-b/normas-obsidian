@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "49"
-epigrafe: "EJERCICIO DE LA ACCION"
+epigrafe: "Ejercicio de la Acción"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo II|CAPÍTULO II - LEGITIMACION]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 49. EJERCICIO DE LA ACCION
+## Artículo 49. Ejercicio de la Acción
 
 Las acciones de grupo deben ejercerse por conducto de abogado.
 

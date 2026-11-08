@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "132"
-epigrafe: "TRÁMITE DE LAS RECUSACIONES"
+epigrafe: "Trámite de las recusaciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo VI|CAPÍTULO VI - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo VI|Capítulo VI]]
 
-## Artículo 132. TRÁMITE DE LAS RECUSACIONES
+## Artículo 132. Trámite de las recusaciones
 
 Para el trámite de las recusaciones se observarán las siguientes reglas:
 

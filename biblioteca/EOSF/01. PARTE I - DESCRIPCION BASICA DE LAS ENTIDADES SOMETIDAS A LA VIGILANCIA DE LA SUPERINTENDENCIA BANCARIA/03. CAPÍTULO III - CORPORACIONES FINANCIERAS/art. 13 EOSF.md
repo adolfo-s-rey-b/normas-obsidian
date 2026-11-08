@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "13"
-epigrafe: "OTRAS OPERACIONES AUTORIZADAS"
+epigrafe: "Otras Operaciones Autorizadas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo III|CAPÍTULO III - CORPORACIONES FINANCIERAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 123 Ley 510 de 1999]]"
 anterior: "[[art. 12 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo III|Capítulo III]]
 
-## Artículo 13. OTRAS OPERACIONES AUTORIZADAS
+## Artículo 13. Otras Operaciones Autorizadas
 
 Las corporaciones financieras también podrán efectuar las siguientes operaciones:
 

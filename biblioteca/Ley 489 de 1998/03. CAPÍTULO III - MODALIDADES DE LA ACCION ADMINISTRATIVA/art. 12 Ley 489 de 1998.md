@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "12"
-epigrafe: "REGIMEN DE LOS ACTOS DEL DELEGATARIO"
+epigrafe: "Régimen de los actos del delegatario"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 11 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 12. REGIMEN DE LOS ACTOS DEL DELEGATARIO
+## Artículo 12. Régimen de los actos del delegatario
 
 Los actos expedidos por las autoridades delegatarias estarán sometidos a los mismos requisitos establecidos para su expedición por la autoridad o entidad delegante y serán susceptibles de los recursos procedentes contra los actos de ellas.
 

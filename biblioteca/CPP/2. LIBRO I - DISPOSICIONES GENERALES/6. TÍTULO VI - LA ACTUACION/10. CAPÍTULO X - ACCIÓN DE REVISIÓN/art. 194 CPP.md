@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "194"
-epigrafe: "INSTAURACIÓN"
+epigrafe: "Instauración"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo X|CAPÍTULO X - ACCIÓN DE REVISIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo X|Capítulo X]]
 
-## Artículo 194. INSTAURACIÓN
+## Artículo 194. Instauración
 
 La acción de revisión se promoverá por medio de escrito dirigido al funcionario competente y deberá contener:
 

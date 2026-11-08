@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "315"
-epigrafe: "QUIÉNES NO PUEDEN DESISTIR DE LAS PRETENSIONES"
+epigrafe: "Quiénes no pueden desistir de las pretensiones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 315. QUIÉNES NO PUEDEN DESISTIR DE LAS PRETENSIONES
+## Artículo 315. Quiénes no pueden desistir de las pretensiones
 
 No pueden desistir de las pretensiones:
 

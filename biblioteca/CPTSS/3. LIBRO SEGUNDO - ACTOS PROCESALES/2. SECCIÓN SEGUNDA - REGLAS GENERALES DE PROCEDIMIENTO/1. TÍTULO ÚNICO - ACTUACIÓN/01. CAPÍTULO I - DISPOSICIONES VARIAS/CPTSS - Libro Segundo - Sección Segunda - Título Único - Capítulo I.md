@@ -24,13 +24,13 @@ tags:
 
 ### Contenido
 
-- [[art. 76 CPTSS|Artículo 76]] — USO DE LAS TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS COMUNICACIONES
-- [[art. 77 CPTSS|Artículo 77]] — PRESUNCIÓN DE AUTENTICIDAD DE LAS COMUNICACIONES
-- [[art. 78 CPTSS|Artículo 78]] — FIRMAS
-- [[art. 79 CPTSS|Artículo 79]] — IDIOMA
-- [[art. 80 CPTSS|Artículo 80]] — DECLARACIÓN CON INTÉRPRETE
-- [[art. 81 CPTSS|Artículo 81]] — PRESENTACIÓN Y TRÁMITE DE MEMORIALES Y COMUNICACIONES
-- [[art. 82 CPTSS|Artículo 82]] — TRASLADOS
+- [[art. 76 CPTSS|Artículo 76]] — Uso de las tecnologías de la información y de las comunicaciones
+- [[art. 77 CPTSS|Artículo 77]] — Presunción de autenticidad de las comunicaciones
+- [[art. 78 CPTSS|Artículo 78]] — Firmas
+- [[art. 79 CPTSS|Artículo 79]] — Idioma
+- [[art. 80 CPTSS|Artículo 80]] — Declaración con intérprete
+- [[art. 81 CPTSS|Artículo 81]] — Presentación y trámite de memoriales y comunicaciones
+- [[art. 82 CPTSS|Artículo 82]] — Traslados
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo II|Capítulo II]] →

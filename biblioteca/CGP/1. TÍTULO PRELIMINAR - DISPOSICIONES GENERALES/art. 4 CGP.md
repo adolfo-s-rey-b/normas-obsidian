@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "4"
-epigrafe: "IGUALDAD DE LAS PARTES"
+epigrafe: "Igualdad de las partes"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 3 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 4. IGUALDAD DE LAS PARTES
+## Artículo 4. Igualdad de las partes
 
 El juez debe hacer uso de los poderes que este código le otorga para lograr la igualdad real de las partes.
 

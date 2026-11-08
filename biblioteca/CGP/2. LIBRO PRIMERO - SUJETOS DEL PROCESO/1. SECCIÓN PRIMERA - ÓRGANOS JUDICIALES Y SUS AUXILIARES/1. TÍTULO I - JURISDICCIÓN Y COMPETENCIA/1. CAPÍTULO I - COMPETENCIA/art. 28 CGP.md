@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "28"
-epigrafe: "COMPETENCIA TERRITORIAL"
+epigrafe: "Competencia territorial"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 28. COMPETENCIA TERRITORIAL
+## Artículo 28. Competencia territorial
 
 La competencia territorial se sujeta a las siguientes reglas:
 

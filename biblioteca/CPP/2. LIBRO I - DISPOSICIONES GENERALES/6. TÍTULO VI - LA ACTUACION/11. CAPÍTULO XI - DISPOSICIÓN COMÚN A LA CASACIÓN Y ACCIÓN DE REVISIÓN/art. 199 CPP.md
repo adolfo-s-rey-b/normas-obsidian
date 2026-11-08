@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "199"
-epigrafe: "DESISTIMIENTO"
+epigrafe: "Desistimiento"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo XI|CAPÍTULO XI - DISPOSICIÓN COMÚN A LA CASACIÓN Y ACCIÓN DE REVISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo XI|Capítulo XI]]
 
-## Artículo 199. DESISTIMIENTO
+## Artículo 199. Desistimiento
 
 Podrá desistirse del recurso de casación y de la acción de revisión antes de que la Sala las decida.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "77"
-epigrafe: "EXTINCIÓN"
+epigrafe: "Extinción"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 77. EXTINCIÓN
+## Artículo 77. Extinción
 
 La acción penal se extingue por muerte del imputado o acusado, prescripción, aplicación del principio de oportunidad, amnistía, oblación, reparación integral, caducidad de la querella, desistimiento y en los demás casos contemplados en la ley.
 

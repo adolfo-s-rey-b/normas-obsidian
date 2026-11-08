@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "54"
-epigrafe: "REQUISITOS DEL PODER Y FACULTADES DEL APODERADO"
+epigrafe: "Requisitos del poder y facultades del apoderado"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 54. REQUISITOS DEL PODER Y FACULTADES DEL APODERADO
+## Artículo 54. Requisitos del poder y facultades del apoderado
 
 El poder podrá otorgarse por escrito, por medios electrónicos o en audiencia o diligencia y deberá contener por lo menos lo siguiente: designación del despacho judicial al cual va dirigido, la identificación de las partes y la determinación clara de los asuntos encomendados, sin que ello implique la transcripción de todas y cada una de las pretensiones de la demanda.
 

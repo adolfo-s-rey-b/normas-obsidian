@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "75"
-epigrafe: "DELEGADOS OFICIALES ANTE LOS CONSEJOS DIRECTIVOS"
+epigrafe: "Delegados oficiales ante los consejos directivos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 74 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 75. DELEGADOS OFICIALES ANTE LOS CONSEJOS DIRECTIVOS
+## Artículo 75. Delegados oficiales ante los consejos directivos
 
 Los ministros y directores de Departamento Administrativo y demás autoridades nacionales que puedan acreditar delegados suyos para formar parte de consejos directivos de establecimientos públicos, lo harán designando funcionarios del nivel Directivo o Asesor de sus correspondientes reparticiones administrativas o de organismos adscritos o vinculados a su Despacho.
 

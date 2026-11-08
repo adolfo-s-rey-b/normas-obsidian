@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "47"
-epigrafe: "PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO"
+epigrafe: "Procedimiento administrativo sancionatorio"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 47. PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO
+## Artículo 47. Procedimiento administrativo sancionatorio
 
 Los procedimientos administrativos de carácter sancionatorio no regulados por leyes especiales o por el Código Disciplinario Único se sujetarán a las disposiciones de esta Parte Primera del Código. Los preceptos de este Código se aplicarán también en lo no previsto por dichas leyes.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "69"
-epigrafe: "SECRETARÍA TÉCNICA"
+epigrafe: "Secretaría Técnica"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "modificado"
 modificado_por:
@@ -28,7 +28,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 69. SECRETARÍA TÉCNICA
+## Artículo 69. Secretaría Técnica
 
 La Secretaría Técnica de la Comisión Nacional Ciudadana para la lucha contra la corrupción será designada por los representantes de que trata el artículo [[art. 66 Ley 1474 de 2011|66]] de esta ley. La Secretaría Técnica de la Comisión Nacional de Moralización y de sus subcomisiones técnicas será ejercida por la Secretaría de Transparencia de la Presidencia de la República.
 

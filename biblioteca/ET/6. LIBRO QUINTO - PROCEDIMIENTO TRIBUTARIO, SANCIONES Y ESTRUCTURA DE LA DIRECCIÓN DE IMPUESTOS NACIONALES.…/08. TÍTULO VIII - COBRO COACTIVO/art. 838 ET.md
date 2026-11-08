@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "838"
-epigrafe: "LIMITE DE LOS EMBARGOS"
+epigrafe: "LÍMITE DE LOS EMBARGOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VIII|TÍTULO VIII - COBRO COACTIVO]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VIII|Título VIII]]
 
-## Artículo 838. LIMITE DE LOS EMBARGOS
+## Artículo 838. LÍMITE DE LOS EMBARGOS
 
 El valor de los bienes embargados no podrá exceder del doble de la deuda más sus intereses. Si efectuado el avalúo de los bienes éstos excedieren la suma indicada, deberá reducirse el embargo si ello fuere posible, hasta dicho valor, oficiosamente o a solicitud del interesado.
 

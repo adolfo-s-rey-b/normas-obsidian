@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "202"
-epigrafe: "ÓRGANOS QUE EJERCEN FUNCIONES PERMANENTES DE POLICÍA JUDICIAL DE MANERA ESPECIAL DENTRO DE SU COMPETENCIA"
+epigrafe: "Órganos que ejercen funciones permanentes de policía judicial de manera especial dentro de su competencia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 202. ÓRGANOS QUE EJERCEN FUNCIONES PERMANENTES DE POLICÍA JUDICIAL DE MANERA ESPECIAL DENTRO DE SU COMPETENCIA
+## Artículo 202. Órganos que ejercen funciones permanentes de policía judicial de manera especial dentro de su competencia
 
 Ejercen permanentemente funciones especializadas de policía judicial dentro del proceso penal y en el ámbito de su competencia, los siguientes organismos:
 

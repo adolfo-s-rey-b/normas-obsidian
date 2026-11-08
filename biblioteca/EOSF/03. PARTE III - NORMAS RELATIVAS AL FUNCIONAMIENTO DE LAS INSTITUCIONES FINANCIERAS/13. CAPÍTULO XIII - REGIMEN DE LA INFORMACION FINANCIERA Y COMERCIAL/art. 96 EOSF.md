@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "96"
-epigrafe: "CONSERVACION DE ARCHIVOS Y DOCUMENTOS"
+epigrafe: "Conservación de Archivos y Documentos"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIII|CAPÍTULO XIII - REGIMEN DE LA INFORMACION FINANCIERA Y COMERCIAL]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 96. CONSERVACION DE ARCHIVOS Y DOCUMENTOS
+## Artículo 96. Conservación de Archivos y Documentos
 
 Los libros y papeles de las instituciones vigiladas por la Superintendencia Bancaria deberán conservarse por un período no menor de cinco años (5) años, desde la fecha del respectivo asiento, sin perjuicio de los términos establecidos en normas especiales. Vencido este lapso, podrán ser destruidos siempre que, por cualquier medio técnico adecuado, se garantice su reproducción exacta.
 

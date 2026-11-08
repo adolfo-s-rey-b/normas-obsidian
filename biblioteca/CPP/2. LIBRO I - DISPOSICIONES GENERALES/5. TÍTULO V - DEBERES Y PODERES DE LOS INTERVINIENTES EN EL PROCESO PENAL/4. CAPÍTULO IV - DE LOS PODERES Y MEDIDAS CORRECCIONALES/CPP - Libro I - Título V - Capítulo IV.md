@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 143 CPP|Artículo 143]] — PODERES Y MEDIDAS CORRECCIONALES
+- [[art. 143 CPP|Artículo 143]] — Poderes y medidas correccionales
 
 ---
 ← [[CPP - Libro I - Título V - Capítulo III|Capítulo III]] · ↑ [[CPP - Libro I - Título V|Título V]]

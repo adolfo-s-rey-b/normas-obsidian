@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "31"
-epigrafe: "CONDICIÓN PARA ANUNCIARSE COMO ARRENDADOR"
+epigrafe: "Condición para anunciarse como arrendador"
 capitulo: "[[Ley 820 de 2003 - Capítulo VIII|CAPÍTULO VIII - PERSONAS DEDICADAS A EJERCER LA ACTIVIDAD DE ARRENDAMIENTO DE BIENES RAÍCES]]"
 vigencia: "vigente"
 anterior: "[[art. 30 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 31. CONDICIÓN PARA ANUNCIARSE COMO ARRENDADOR
+## Artículo 31. Condición para anunciarse como arrendador
 
 Para anunciarse al público como arrendador, las personas a que se refiere el artículo [[art. 28 Ley 820 de 2003|28]] de la presente ley deberán indicar el número de su matrícula vigente. Esta obligación será exigible a partir del vencimiento de los términos señalados en el artículo anterior, según corresponda.
 

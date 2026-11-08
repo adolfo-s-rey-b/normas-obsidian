@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "51"
-epigrafe: "REGLAMENTOS DE LOS CENTROS DE ARBITRAJE"
+epigrafe: "Reglamentos de los centros de arbitraje"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VI|CAPÍTULO VI - CENTROS DE ARBITRAJE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VI|Capítulo VI]]
 
-## Artículo 51. REGLAMENTOS DE LOS CENTROS DE ARBITRAJE
+## Artículo 51. Reglamentos de los centros de arbitraje
 
 Cada centro de arbitraje expedirá su reglamento, sujeto a la aprobación del Ministerio de Justicia y del Derecho, que deberá contener:
 

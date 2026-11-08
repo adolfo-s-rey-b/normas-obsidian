@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "119"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 seccion: "[[Ley 1563 de 2012 - Sección Quinta|SECCIÓN QUINTA]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Quinta - Capítulo Único|CAPÍTULO ÚNICO - DEROGACIONES Y VIGENCIA]]"
 vigencia: "vigente"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Quinta|Sección Quinta]] › [[Ley 1563 de 2012 - Sección Quinta - Capítulo Único|Capítulo Único]]
 
-## Artículo 119. VIGENCIA
+## Artículo 119. Vigencia
 
 Esta ley regula íntegramente la materia de arbitraje, y empezará a regir tres (3) meses después de su promulgación. Esta ley sólo se aplicará a los procesos arbitrales que se promuevan después de su entrada en vigencia.
 

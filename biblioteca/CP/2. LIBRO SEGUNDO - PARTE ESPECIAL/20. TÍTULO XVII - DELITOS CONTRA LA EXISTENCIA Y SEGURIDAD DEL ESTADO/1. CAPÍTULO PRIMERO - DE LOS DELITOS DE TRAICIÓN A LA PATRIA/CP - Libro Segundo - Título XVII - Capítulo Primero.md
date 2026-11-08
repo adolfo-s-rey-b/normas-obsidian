@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 455 CP|Artículo 455]] — MENOSCABO DE LA INTEGRIDAD NACIONAL
-- [[art. 456 CP|Artículo 456]] — HOSTILIDAD MILITAR
-- [[art. 457 CP|Artículo 457]] — TRAICIÓN DIPLOMATICA
-- [[art. 458 CP|Artículo 458]] — INSTIGACIÓN A LA GUERRA
-- [[art. 459 CP|Artículo 459]] — ATENTADOS CONTRA HITOS FRONTERIZOS
-- [[art. 460 CP|Artículo 460]] — ACTOS CONTRARIOS A LA DEFENSA DE LA NACIÓN
+- [[art. 455 CP|Artículo 455]] — Menoscabo de la integridad nacional
+- [[art. 456 CP|Artículo 456]] — Hostilidad militar
+- [[art. 457 CP|Artículo 457]] — Traición diplomatica
+- [[art. 458 CP|Artículo 458]] — Instigación a la guerra
+- [[art. 459 CP|Artículo 459]] — Atentados contra hitos fronterizos
+- [[art. 460 CP|Artículo 460]] — Actos contrarios a la defensa de la Nacion
 - [[art. 461 CP|Artículo 461]] — ULTRAJE A EMBLEMAS O SIMBOLOS PATRIOS
 - [[art. 462 CP|Artículo 462]] — Aceptación indebida de honores
 

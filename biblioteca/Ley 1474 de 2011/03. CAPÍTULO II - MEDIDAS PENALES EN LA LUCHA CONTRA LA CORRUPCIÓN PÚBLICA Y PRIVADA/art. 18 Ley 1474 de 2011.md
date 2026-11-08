@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "18"
-epigrafe: "UTILIZACIÓN INDEBIDA DE INFORMACIÓN PRIVILEGIADA"
+epigrafe: "Utilización indebida de información privilegiada"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 17 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 18. UTILIZACIÓN INDEBIDA DE INFORMACIÓN PRIVILEGIADA
+## Artículo 18. Utilización indebida de información privilegiada
 
 El artículo [[art. 258 CP|258]] del Código Penal quedará así:
 

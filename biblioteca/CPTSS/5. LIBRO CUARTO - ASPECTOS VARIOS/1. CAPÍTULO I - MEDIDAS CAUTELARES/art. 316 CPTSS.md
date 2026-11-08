@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "316"
-epigrafe: "SOLICITUD Y DECRETO"
+epigrafe: "Solicitud y decreto"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo I|CAPÍTULO I - MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo I|Capítulo I]]
 
-## Artículo 316. SOLICITUD Y DECRETO
+## Artículo 316. Solicitud y decreto
 
 Las medidas cautelares a que hace referencia el artículo anterior, podrán ser solicitadas desde la presentación de la demanda, por escrito en el cual se indicarán las razones o motivos que sustentan la necesidad del decreto de la misma y aportando las pruebas respectivas.
 

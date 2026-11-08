@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "170"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título III|TÍTULO III - DELITOS CONTRA LA LIBERTAD INDIVIDUAL Y OTRAS GARANTIAS]]"
 capitulo: "[[CP - Libro Segundo - Título III - Capítulo Segundo|CAPÍTULO SEGUNDO - DEL SECUESTRO]]"
@@ -19,7 +19,6 @@ modificado_por:
   - "[[art. 28 Ley 1257 de 2008]]"
   - "[[art. 3 Ley 1426 de 2010]]"
   - "[[art. 4 Ley 1309 de 2009]]"
-  - "[[art. 15 CP]]"
 derogado_por:
   - "[[art. 39 CPol]]"
   - "[[art. 2 CPol]]"
@@ -41,7 +40,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título III|Título III]] › [[CP - Libro Segundo - Título III - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 170. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 170. Circunstancias de agravación punitiva
 
 La pena señalada para el secuestro extorsivo será de cuatrocientos cuarenta y ocho (448) a seiscientos (600) meses y la multa será de seis mil seiscientos sesenta y seis punto sesenta y seis (6666.66) a cincuenta mil (50000) salarios mínimos legales mensuales vigentes, sin superar el límite máximo de la pena privativa de la libertad establecida en el Código Penal, si concurriere alguna de las siguientes circunstancias.
 
@@ -99,7 +98,7 @@ el Derecho Internacional Humanitario y agentes diplomáticos, de las señaladas 
 
 **PARÁGRAFO.** Las penas señaladas para el secuestro simple, se aumentarán de una tercera parte a la mitad cuando concurriere alguna de las circunstancias anteriores, excepto la enunciada en el numeral 11.
 
-> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...' - Artículo modificado por el artículo [[art. 3 Ley 733 de 2002|3]] de la Ley 733 de 2002, publicada en el Diario Oficial No 44.693, de 31 de enero de 2002.
+> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...' - Artículo modificado por el artículo [[art. 3 Ley 733 de 2002|3]] de la Ley 733 de 2002, publicada en el Diario Oficial No 44.693, de 31 de enero de 2002.
 
 ---
 ← [[art. 169 CP]] · ↑ [[CP - Libro Segundo - Título III - Capítulo Segundo|Capítulo Segundo]] · [[art. 171 CP]] →

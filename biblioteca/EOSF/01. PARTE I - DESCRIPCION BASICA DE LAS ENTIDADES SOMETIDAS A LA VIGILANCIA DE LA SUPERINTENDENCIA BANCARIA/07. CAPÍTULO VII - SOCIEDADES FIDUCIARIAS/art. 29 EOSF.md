@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "29"
-epigrafe: "OPERACIONES AUTORIZADAS"
+epigrafe: "Operaciones Autorizadas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo VII|CAPÍTULO VII - SOCIEDADES FIDUCIARIAS]]"
 vigencia: "parcialmente derogado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo VII|Capítulo VII]]
 
-## Artículo 29. OPERACIONES AUTORIZADAS
+## Artículo 29. Operaciones Autorizadas
 
 1\. Operaciones autorizadas. Las sociedades fiduciarias especialmente autorizadas por la Superintendencia Bancaria podrán, en desarrollo de su objeto social:
 

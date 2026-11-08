@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "88"
-epigrafe: "EXONERACIÓN DEL DEBER DE FORMULAR QUEJAS"
+epigrafe: "Exoneración del deber de formular quejas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 88. EXONERACIÓN DEL DEBER DE FORMULAR QUEJAS
+## Artículo 88. Exoneración del deber de formular quejas
 
 El servidor público no está obligado a formular queja contra sí mismo o contra su cónyuge, compañero permanente o pariente dentro del cuarto grado de consanguinidad, segundo de afinidad o primero civil, ni por hechos que haya conocido por causa o con ocasión del ejercicio de actividades que le impongan legalmente el secreto profesional.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "30"
-epigrafe: "RECHAZO DE PLANO"
+epigrafe: "Rechazo de plano"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Tercero|TÍTULO TERCERO - DEBERES Y PODERES DEL JUEZ]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Tercero|Título Tercero]]
 
-## Artículo 30. RECHAZO DE PLANO
+## Artículo 30. Rechazo de plano
 
 El juez podrá, en decisión motivada, rechazar la práctica de pruebas y diligencias inconducentes o superfluas en relación con el objeto del pleito.
 

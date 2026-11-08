@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "229"
-epigrafe: "PROCEDIMIENTO EN CASO DE FLAGRANCIA"
+epigrafe: "Procedimiento en caso de flagrancia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 229. PROCEDIMIENTO EN CASO DE FLAGRANCIA
+## Artículo 229. Procedimiento en caso de flagrancia
 
 En las situaciones de flagrancia, la policía judicial podrá proceder al registro y allanamiento del inmueble, nave o aeronave del indiciado. En caso de refugiarse en un bien inmueble ajeno, no abierto al público, se solicitará el consentimiento del propietario o tenedor o en su defecto se obtendrá la orden correspondiente de la Fiscalía General de la Nación, salvo que por voces de auxilio resulte necesaria la intervención inmediata o se establezca coacción del indiciado en contra del propietario o tenedor.
 

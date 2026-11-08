@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "196"
-epigrafe: "ENTIDADES ASEGURADORAS HABILITADAS PARA OFRECER EL SEGURO OBLIGATORIO DE ACCIDENTES DE TRANSITO"
+epigrafe: "Entidades Aseguradoras Habilitadas para Ofrecer el Seguro Obligatorio de Accidentes de Tránsito"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo IV|CAPÍTULO IV - REGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRANSITO]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 196. ENTIDADES ASEGURADORAS HABILITADAS PARA OFRECER EL SEGURO OBLIGATORIO DE ACCIDENTES DE TRANSITO
+## Artículo 196. Entidades Aseguradoras Habilitadas para Ofrecer el Seguro Obligatorio de Accidentes de Tránsito
 
 1\. Entidades aseguradoras habilitadas para ofrecer el seguro. Estarán habilitadas para otorgar el seguro de que trata el artículo [[art. 192 EOSF|192]] numeral 1o. de este Estatuto:
 

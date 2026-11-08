@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "113"
-epigrafe: "REMUNERACIÓN DEL APODERADO"
+epigrafe: "Remuneración del apoderado"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 113. REMUNERACIÓN DEL APODERADO
+## Artículo 113. Remuneración del apoderado
 
 Al apoderado corresponden las agencias en derecho que el juez señale a cargo de la parte contraria, conforme a las tarifas de agencias en derecho establecidas por el Consejo Superior de la Judicatura.
 

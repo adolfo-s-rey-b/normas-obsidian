@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 393 CGP|Artículo 393]] — LANZAMIENTO POR OCUPACIÓN DE HECHO DE PREDIOS RURALES
-- [[art. 394 CGP|Artículo 394]] — PRESTACIÓN, MEJORA Y RELEVO DE CAUCIONES Y GARANTÍAS
-- [[art. 395 CGP|Artículo 395]] — PRIVACIÓN, SUSPENSIÓN Y RESTABLECIMIENTO DE LA PATRIA POTESTAD, REMOCIÓN DEL GUARDADOR Y PRIVACIÓN DE LA ADMINISTRACIÓN DE LOS BIENES DEL HIJO
+- [[art. 393 CGP|Artículo 393]] — Lanzamiento por ocupación de hecho de predios rurales
+- [[art. 394 CGP|Artículo 394]] — Prestación, mejora y relevo de cauciones y garantías
+- [[art. 395 CGP|Artículo 395]] — Privación, suspensión y restablecimiento de la patria potestad, remoción del guardador y privación de la administración de los bienes del hijo
 - [[art. 396 CGP|Artículo 396]] — ADJUDICACIÓN DE APOYOS PARA LA TOMA DE DECISIONES PROMOVIDO POR PERSONA DISTINTA AL TITULAR DEL ACTO JURÍDICO
 - [[art. 397 CGP|Artículo 397]] — ALIMENTOS A FAVOR DEL MAYOR DE EDAD
 - [[art. 397A CGP|Artículo 397A]] — ALIMENTOS A FAVOR DE MENORES DE EDAD
-- [[art. 398 CGP|Artículo 398]] — CANCELACIÓN, REPOSICIÓN Y REIVINDICACIÓN DE TÍTULOS VALORES
+- [[art. 398 CGP|Artículo 398]] — Cancelación, reposición y reivindicación de títulos valores
 
 ---
 ← [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Tercero - Sección Primera - Título II|Título II]]

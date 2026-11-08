@@ -20,9 +20,9 @@ tags:
 
 ### Contenido
 
-- [[art. 59 Ley 1563 de 2012|Artículo 59]] — DEFINICIÓN
-- [[art. 60 Ley 1563 de 2012|Artículo 60]] — EFECTOS
-- [[art. 61 Ley 1563 de 2012|Artículo 61]] — DESIGNACIÓN Y PROCEDIMIENTO
+- [[art. 59 Ley 1563 de 2012|Artículo 59]] — Definición
+- [[art. 60 Ley 1563 de 2012|Artículo 60]] — Efectos
+- [[art. 61 Ley 1563 de 2012|Artículo 61]] — Designación y Procedimiento
 
 ---
 ← [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] · ↑ [[Ley 1563 de 2012|Ley 1563 de 2012]] · [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] →

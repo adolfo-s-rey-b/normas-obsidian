@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "101"
-epigrafe: "NORMAS APLICABLES AL FONDO DEL LITIGIO"
+epigrafe: "Normas aplicables al fondo del litigio"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|CAPÍTULO VII - PRONUNCIAMIENTO DEL LAUDO Y TERMINACIÓN DE LAS ACTUACIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|Capítulo VII]]
 
-## Artículo 101. NORMAS APLICABLES AL FONDO DEL LITIGIO
+## Artículo 101. Normas aplicables al fondo del litigio
 
 El tribunal arbitral decidirá de conformidad con las normas de derecho elegidas por las partes. La indicación del derecho u ordenamiento jurídico de un Estado se entenderá referida, a menos que se exprese lo contrario, al derecho sustantivo de dicho Estado y no a sus normas de conflicto de leyes.
 

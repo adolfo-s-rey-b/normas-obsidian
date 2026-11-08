@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "329"
-epigrafe: "PRINCIPIO DE GRATUIDAD"
+epigrafe: "Principio de gratuidad"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo VI|CAPÍTULO VI - OTROS PRINCIPIOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo VI|Capítulo VI]]
 
-## Artículo 329. PRINCIPIO DE GRATUIDAD
+## Artículo 329. Principio de gratuidad
 
 El servicio de justicia que presta el Estado será gratuito en los procesos que regula este código, sin perjuicio de las costas procesales que se fijen de conformidad con la ley.
 

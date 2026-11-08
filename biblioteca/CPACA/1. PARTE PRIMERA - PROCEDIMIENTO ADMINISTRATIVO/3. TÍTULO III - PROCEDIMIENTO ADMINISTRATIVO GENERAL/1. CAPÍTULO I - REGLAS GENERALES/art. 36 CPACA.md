@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "36"
-epigrafe: "FORMACIÓN Y EXAMEN DE EXPEDIENTES"
+epigrafe: "Formación y examen de expedientes"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 36. FORMACIÓN Y EXAMEN DE EXPEDIENTES
+## Artículo 36. Formación y examen de expedientes
 
 Los documentos y diligencias relacionados con una misma actuación se organizarán en un solo expediente, al cual se acumularán, con el fin de evitar decisiones contradictorias, de oficio o a petición de interesado, cualesquiera otros que se tramiten ante la misma autoridad.
 

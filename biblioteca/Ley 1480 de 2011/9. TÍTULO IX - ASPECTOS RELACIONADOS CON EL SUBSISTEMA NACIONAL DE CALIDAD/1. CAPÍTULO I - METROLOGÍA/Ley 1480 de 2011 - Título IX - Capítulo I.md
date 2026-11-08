@@ -21,10 +21,10 @@ tags:
 
 ### Contenido
 
-- [[art. 68 Ley 1480 de 2011|Artículo 68]] — UNIDADES LEGALES DE MEDIDA
-- [[art. 69 Ley 1480 de 2011|Artículo 69]] — UNIDADES ACOSTUMBRADAS DE MEDIDA
-- [[art. 70 Ley 1480 de 2011|Artículo 70]] — TASAS EN MATERIA METROLÓGICA
-- [[art. 71 Ley 1480 de 2011|Artículo 71]] — RESPONSABLES EN MATERIA DE METROLOGÍA LEGAL
+- [[art. 68 Ley 1480 de 2011|Artículo 68]] — Unidades Legales de Medida
+- [[art. 69 Ley 1480 de 2011|Artículo 69]] — Unidades Acostumbradas de Medida
+- [[art. 70 Ley 1480 de 2011|Artículo 70]] — Tasas en Materia Metrológica
+- [[art. 71 Ley 1480 de 2011|Artículo 71]] — Responsables en Materia de Metrología Legal
 
 ---
 ↑ [[Ley 1480 de 2011 - Título IX|Título IX]] · [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] →

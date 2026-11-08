@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 399 CGP|Artículo 399]] — EXPROPIACIÓN
+- [[art. 399 CGP|Artículo 399]] — Expropiación
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] · [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo II|Capítulo II]] →

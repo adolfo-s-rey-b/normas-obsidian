@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "72"
-epigrafe: "MANEJO DEL FONDO"
+epigrafe: "Manejo del Fondo"
 titulo: "[[Ley 472 de 1998 - Título IV|TÍTULO IV - FONDO PARA LA DEFENSA DE LOS DERECHOS E INTERESES COLECTIVOS]]"
 capitulo: "[[Ley 472 de 1998 - Título IV - Capítulo I|CAPÍTULO I]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título IV|Título IV]] › [[Ley 472 de 1998 - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 72. MANEJO DEL FONDO
+## Artículo 72. Manejo del Fondo
 
 El manejo del Fondo para la Defensa de los Derechos e Intereses Colectivos, estará a cargo de la Defensoría del Pueblo.
 

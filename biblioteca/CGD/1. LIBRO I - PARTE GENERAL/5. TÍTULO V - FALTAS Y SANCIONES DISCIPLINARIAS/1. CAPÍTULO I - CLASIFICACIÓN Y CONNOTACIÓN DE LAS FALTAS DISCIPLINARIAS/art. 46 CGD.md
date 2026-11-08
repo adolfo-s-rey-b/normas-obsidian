@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "46"
-epigrafe: "CLASIFICACIÓN DE LAS FALTAS DISCIPLINARIAS"
+epigrafe: "Clasificación de las faltas disciplinarias"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título V|TÍTULO V - FALTAS Y SANCIONES DISCIPLINARIAS]]"
 capitulo: "[[CGD - Libro I - Título V - Capítulo I|CAPÍTULO I - CLASIFICACIÓN Y CONNOTACIÓN DE LAS FALTAS DISCIPLINARIAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título V|Título V]] › [[CGD - Libro I - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 46. CLASIFICACIÓN DE LAS FALTAS DISCIPLINARIAS
+## Artículo 46. Clasificación de las faltas disciplinarias
 
 Las faltas disciplinarias son:
 

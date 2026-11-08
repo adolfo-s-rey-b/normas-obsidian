@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "83"
-epigrafe: "COLABORACION DE LA POLICIA"
+epigrafe: "Colaboración de la Policía"
 titulo: "[[Ley 472 de 1998 - Título VI|TÍTULO VI]]"
 capitulo: "[[Ley 472 de 1998 - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título VI|Título VI]] › [[Ley 472 de 1998 - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 83. COLABORACION DE LA POLICIA
+## Artículo 83. Colaboración de la Policía
 
 Las autoridades de policía deberán prestar toda la colaboración que el Juez o Magistrado solicite para la práctica y permanencia de las medidas previas y cautelares, so pena de incurrir en causal de mala conducta sancionable hasta con la pérdida del empleo.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "21"
-epigrafe: "RENUNCIA A LA CONVOCATORIA"
+epigrafe: "Renuncia a la convocatoria"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 20 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 21. RENUNCIA A LA CONVOCATORIA
+## Artículo 21. Renuncia a la convocatoria
 
 Los accionistas podrán renunciar a su derecho a ser convocados a una reunión determinada de la asamblea, mediante comunicación escrita enviada al representante legal de la sociedad antes, durante o después de la sesión correspondiente. Los accionistas también podrán renunciar a su derecho de inspección respecto de los asuntos a que se refiere el inciso 2o del artículo [[art. 20 Ley 1258 de 2008|20]] de esta ley, por medio del mismo procedimiento indicado.
 

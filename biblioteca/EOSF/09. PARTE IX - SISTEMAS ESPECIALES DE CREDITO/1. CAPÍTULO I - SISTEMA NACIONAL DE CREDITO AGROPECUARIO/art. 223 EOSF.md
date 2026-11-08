@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "223"
-epigrafe: "PROHIBICION A LAS ENTIDADES QUE INTEGRAN EL SISTEMA NACIONAL DE CREDITO AGROPECUARIO"
+epigrafe: "Prohibición a las Entidades que integran el Sistema Nacional de Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 223. PROHIBICION A LAS ENTIDADES QUE INTEGRAN EL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
+## Artículo 223. Prohibición a las Entidades que integran el Sistema Nacional de Crédito Agropecuario
 
 (Fuente Ley 16/90; Art. [[art. 32 Ley 16 de 1990|32]] Par.) A partir de la vigencia de la Ley 16 de 1990, ninguna entidad integrante del Sistema Nacional de Crédito Agropecuario o del sector público agropecuario podrá destinar fondos para garantizar créditos agropecuarios sin autorización de la Comisión Nacional de Crédito Agropecuario.
 

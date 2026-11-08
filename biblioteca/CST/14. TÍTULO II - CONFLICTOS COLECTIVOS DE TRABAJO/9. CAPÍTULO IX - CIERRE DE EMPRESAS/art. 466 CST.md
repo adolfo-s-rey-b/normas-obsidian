@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "466"
-epigrafe: "EMPRESAS QUE NO SON DE SERVICIO PUBLICO"
+epigrafe: "EMPRESAS QUE NO SON DE SERVICIO PÚBLICO"
 titulo: "[[CST - Título II (2)|TÍTULO II - CONFLICTOS COLECTIVOS DE TRABAJO]]"
 capitulo: "[[CST - Título II - Capítulo IX|CAPÍTULO IX - CIERRE DE EMPRESAS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título II (2)|Título II]] › [[CST - Título II - Capítulo IX|Capítulo IX]]
 
-## Artículo 466. EMPRESAS QUE NO SON DE SERVICIO PUBLICO
+## Artículo 466. EMPRESAS QUE NO SON DE SERVICIO PÚBLICO
 
 > [!info] Artículo modificado por el artículo [[art. 66 Ley 50 de 1990|66]] de la Ley 50 de 1990. El nuevo texto es el siguiente:
 

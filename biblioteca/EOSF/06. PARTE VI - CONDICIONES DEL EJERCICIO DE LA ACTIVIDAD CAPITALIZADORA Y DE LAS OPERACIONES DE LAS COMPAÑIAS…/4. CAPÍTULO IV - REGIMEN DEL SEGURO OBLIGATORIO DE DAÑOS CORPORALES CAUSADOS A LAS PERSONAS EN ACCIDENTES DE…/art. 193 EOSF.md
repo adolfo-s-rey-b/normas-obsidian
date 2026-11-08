@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "193"
-epigrafe: "ASPECTOS ESPECIFICOS RELATIVOS A LA POLIZA"
+epigrafe: "Aspectos Específicos Relativos a la Póliza"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo IV|CAPÍTULO IV - REGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRANSITO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 112 Decreto 19 de 2012]]"
   - "[[art. 1 Ley 1364 de 2009]]"
@@ -40,12 +40,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 193. ASPECTOS ESPECIFICOS RELATIVOS A LA POLIZA
+## Artículo 193. Aspectos Específicos Relativos a la Póliza
 
 1\. Coberturas y cuantías. La póliza incluirá las siguientes coberturas:
 

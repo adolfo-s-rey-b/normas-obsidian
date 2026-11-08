@@ -29,15 +29,15 @@ tags:
 - [[art. 55 CGD|Artículo 55]] — FALTAS RELACIONADAS CON EL SERVICIO O LA FUNCIÓN PÚBLICA
 - [[art. 56 CGD|Artículo 56]] — FALTAS RELACIONADAS CON EL RÉGIMEN DE INCOMPATIBILIDADES, INHABILIDADES, IMPEDIMENTOS Y CONFLICTOS DE INTERESES
 - [[art. 57 CGD|Artículo 57]] — FALTAS RELACIONADAS CON LA HACIENDA PÚBLICA
-- [[art. 58 CGD|Artículo 58]] — FALTA RELACIONADA CON LA ACCIÓN DE REPETICIÓN
+- [[art. 58 CGD|Artículo 58]] — Falta relacionada con la acción de repetición
 - [[art. 59 CGD|Artículo 59]] — FALTAS RELACIONADAS CON LA SALUD PÚBLICA, LOS RECURSOS NATURALES Y EL MEDIO AMBIENTE
 - [[art. 60 CGD|Artículo 60]] — FALTAS RELACIONADAS CON LA INTERVENCIÓN EN POLÍTICA
 - [[art. 61 CGD|Artículo 61]] — FALTAS RELACIONADAS CON EL SERVICIO, LA FUNCIÓN Y EL TRÁMITE DE ASUNTOS OFICIALES
 - [[art. 62 CGD|Artículo 62]] — FALTAS RELACIONADAS CON LA MORALIDAD PÚBLICA
 - [[art. 63 CGD|Artículo 63]] — FALTAS ATRIBUIBLES A LOS FUNCIONARIOS Y EMPLEADOS JUDICIALES
-- [[art. 64 CGD|Artículo 64]] — FALTAS RELACIONADAS CON EL RÉGIMEN PENITENCIARIO Y CARCELARIO
-- [[art. 65 CGD|Artículo 65]] — FALTAS QUE COINCIDEN CON DESCRIPCIONES TÍPICAS DE LA LEY PENAL
-- [[art. 66 CGD|Artículo 66]] — CAUSALES DE MALA CONDUCTA
+- [[art. 64 CGD|Artículo 64]] — Faltas relacionadas con el régimen penitenciario y carcelario
+- [[art. 65 CGD|Artículo 65]] — Faltas que coinciden con descripciones típicas de la ley penal
+- [[art. 66 CGD|Artículo 66]] — Causales de mala conducta
 
 ---
 ↑ [[CGD - Libro II - Título Único|Título Único]] · [[CGD - Libro II - Título Único - Capítulo II|Capítulo II]] →

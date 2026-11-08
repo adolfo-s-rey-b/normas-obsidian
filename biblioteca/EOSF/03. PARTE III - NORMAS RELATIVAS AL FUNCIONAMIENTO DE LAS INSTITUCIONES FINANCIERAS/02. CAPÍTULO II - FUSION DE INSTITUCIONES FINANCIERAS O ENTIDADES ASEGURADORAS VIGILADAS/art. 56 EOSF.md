@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "56"
-epigrafe: "AVISO A LA SUPERINTENDENCIA BANCARIA"
+epigrafe: "Aviso a la Superintendencia Bancaria"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 56. AVISO A LA SUPERINTENDENCIA BANCARIA
+## Artículo 56. Aviso a la Superintendencia Bancaria
 
 1\. Oportunidad del aviso. Los representantes legales de las entidades interesadas deberán dar aviso de fusión a la Superintendencia Bancaria. Este aviso se efectuará, si ya se ha aprobado el compromiso por las respectivas asambleas, dentro de los diez (10) días siguientes a su aprobación; sin embargo, podrá efectuarse anticipadamente, expresando la intención de fusión, con no menos de tres (3) meses de antelación a la reunión de los órganos correspondientes. Cuando las entidades filiales de matrices en proceso de fusión tengan la intención de fusionarse entre sí, podrán dar aviso de fusión a la Superintendencia Bancaria conjuntamente con el aviso que presenten sus matrices. Con base en dicho aviso se acumularán los trámites de fusión de las filiales con los de las matrices.
 

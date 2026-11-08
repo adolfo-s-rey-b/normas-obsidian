@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "167"
-epigrafe: "DEROGATORIAS"
+epigrafe: "Derogatorias"
 parte: "[[Ley 446 de 1998 - Parte VI|PARTE VI - VIGENCIA, DEROGATORIAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
 derogado_por:
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte VI|Parte VI]]
 
-## Artículo 167. DEROGATORIAS
+## Artículo 167. Derogatorias
 
 Derógase:
 

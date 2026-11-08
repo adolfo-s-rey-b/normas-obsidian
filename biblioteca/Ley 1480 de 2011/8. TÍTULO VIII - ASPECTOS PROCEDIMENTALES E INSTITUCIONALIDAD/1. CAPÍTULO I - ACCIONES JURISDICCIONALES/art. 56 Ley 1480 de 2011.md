@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "56"
-epigrafe: "ACCIONES JURISDICCIONALES"
+epigrafe: "Acciones jurisdiccionales"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo I|CAPÍTULO I - ACCIONES JURISDICCIONALES]]"
 vigencia: "modificado"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo I|Capítulo I]]
 
-## Artículo 56. ACCIONES JURISDICCIONALES
+## Artículo 56. Acciones jurisdiccionales
 
 Sin perjuicio de otras formas de protección, las acciones jurisdiccionales de protección al consumidor son:
 

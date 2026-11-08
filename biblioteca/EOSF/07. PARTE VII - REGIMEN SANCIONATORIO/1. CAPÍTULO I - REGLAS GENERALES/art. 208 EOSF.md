@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "208"
-epigrafe: "REGLAS GENERALES"
+epigrafe: "Reglas Generales"
 parte: "[[EOSF - Parte VII|PARTE VII - REGIMEN SANCIONATORIO]]"
 capitulo: "[[EOSF - Parte VII - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VII|Parte VII]] › [[EOSF - Parte VII - Capítulo I|Capítulo I]]
 
-## Artículo 208. REGLAS GENERALES
+## Artículo 208. Reglas Generales
 
 Se establece en esta parte del Estatuto el régimen sancionatorio administrativo aplicable a las entidades vigiladas por la Superintendencia Bancaria, así como a los directores, administradores, representantes legales, revisores fiscales u otros funcionarios o empleados de estas.
 

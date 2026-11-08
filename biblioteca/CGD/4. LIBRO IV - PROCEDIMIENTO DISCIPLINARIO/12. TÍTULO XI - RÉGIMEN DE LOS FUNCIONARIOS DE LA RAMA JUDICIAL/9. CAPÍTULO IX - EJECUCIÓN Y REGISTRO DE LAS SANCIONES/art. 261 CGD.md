@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "261"
-epigrafe: "EJECUCIÓN DE LAS SANCIONES"
+epigrafe: "Ejecución de las sanciones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo IX|CAPÍTULO IX - EJECUCIÓN Y REGISTRO DE LAS SANCIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo IX|Capítulo IX]]
 
-## Artículo 261. EJECUCIÓN DE LAS SANCIONES
+## Artículo 261. Ejecución de las sanciones
 
 Las sanciones a los funcionarios judiciales se ejecutarán en la forma prevista en este código. Las multas serán impuestas a favor de la Gerencia de la Rama Judicial* o quien haga sus veces. Igual destino tendrán las sanciones impuestas, por quejas temerarias a que se refiere esta normatividad.
 

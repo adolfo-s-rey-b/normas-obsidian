@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "25"
-epigrafe: "REQUISITOS PARA LA TERMINACIÓN UNILATERAL POR PARTE DEL ARRENDATARIO MEDIANTE PREAVISO CON INDEMNIZACIÓN"
+epigrafe: "Requisitos para la terminación unilateral por parte del arrendatario mediante preaviso con indemnización"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 24 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 25. REQUISITOS PARA LA TERMINACIÓN UNILATERAL POR PARTE DEL ARRENDATARIO MEDIANTE PREAVISO CON INDEMNIZACIÓN
+## Artículo 25. Requisitos para la terminación unilateral por parte del arrendatario mediante preaviso con indemnización
 
 Para que el arrendatario pueda dar por terminado unilateralmente el contrato de arrendamiento en el evento previsto en el numeral 4 del artículo anterior, deberá cumplir con los siguientes requisitos:
 

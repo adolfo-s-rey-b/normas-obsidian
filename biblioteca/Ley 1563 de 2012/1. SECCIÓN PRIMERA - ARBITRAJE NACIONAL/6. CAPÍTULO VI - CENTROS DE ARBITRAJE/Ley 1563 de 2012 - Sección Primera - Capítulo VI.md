@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 50 Ley 1563 de 2012|Artículo 50]] — CREACIÓN
-- [[art. 51 Ley 1563 de 2012|Artículo 51]] — REGLAMENTOS DE LOS CENTROS DE ARBITRAJE
-- [[art. 52 Ley 1563 de 2012|Artículo 52]] — CONTROL, INSPECCIÓN Y VIGILANCIA
+- [[art. 50 Ley 1563 de 2012|Artículo 50]] — Creación
+- [[art. 51 Ley 1563 de 2012|Artículo 51]] — Reglamentos de los centros de arbitraje
+- [[art. 52 Ley 1563 de 2012|Artículo 52]] — Control, inspección y vigilancia
 
 ---
 ← [[Ley 1563 de 2012 - Sección Primera - Capítulo V|Capítulo V]] · ↑ [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] · [[Ley 1563 de 2012 - Sección Primera - Capítulo VII|Capítulo VII]] →

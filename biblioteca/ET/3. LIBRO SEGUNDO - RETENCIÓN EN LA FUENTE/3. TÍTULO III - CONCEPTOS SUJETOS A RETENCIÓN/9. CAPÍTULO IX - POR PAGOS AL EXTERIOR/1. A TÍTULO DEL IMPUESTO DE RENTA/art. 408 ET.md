@@ -15,7 +15,7 @@ libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IX|CAPÍTULO IX - POR PAGOS AL EXTERIOR]]"
 rubro: "[[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de renta|A TÍTULO DEL IMPUESTO DE RENTA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 98 Ley 2010 de 2019]]"
   - "[[art. 61 Ley 2277 de 2022]]"
@@ -46,7 +46,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IX|Capítulo IX]] › [[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de renta|A título del impuesto de renta]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "111"
-epigrafe: "CALIDAD DE DISCIPLINADO"
+epigrafe: "Calidad de disciplinado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IV|TÍTULO IV - SUJETOS PROCESALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IV|Título IV]]
 
-## Artículo 111. CALIDAD DE DISCIPLINADO
+## Artículo 111. Calidad de disciplinado
 
 La calidad de disciplinado se adquiere a partir del momento del auto de apertura de investigación o la orden de vinculación.
 

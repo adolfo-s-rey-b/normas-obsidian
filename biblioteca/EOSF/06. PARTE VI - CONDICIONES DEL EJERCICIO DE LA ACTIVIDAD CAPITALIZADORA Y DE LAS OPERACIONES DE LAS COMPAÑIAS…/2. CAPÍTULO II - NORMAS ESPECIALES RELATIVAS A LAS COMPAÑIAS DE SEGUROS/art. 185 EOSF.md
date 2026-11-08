@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "185"
-epigrafe: "CONDICIONES ESPECIALES APLICABLES AL CONTRATO DE SEGURO"
+epigrafe: "Condiciones Especiales aplicables al Contrato de Seguro"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo II|CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo II|Capítulo II]]
 
-## Artículo 185. CONDICIONES ESPECIALES APLICABLES AL CONTRATO DE SEGURO
+## Artículo 185. Condiciones Especiales aplicables al Contrato de Seguro
 
 1\. Pago de indemnización. El plazo para el pago de la indemnización por el asegurador podrá extenderse, mediante convenio expreso entre las partes, hasta un término no mayor a sesenta (60) días hábiles, únicamente cuando se trate de seguros de daños en los cuales el asegurado sea persona jurídica y la suma asegurada en la respectiva póliza sea superior al equivalente a 15.000 salarios mínimos legales mensuales vigentes al momento de su suscripción. En este caso, las partes también podrán convenir la tasa de interés de mora en el pago del siniestro.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "216"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IV|TÍTULO IV - DELITOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUALES]]"
 capitulo: "[[CP - Libro Segundo - Título IV - Capítulo Cuarto|CAPÍTULO CUARTO - Modificado por la Ley 1329 de 2009]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IV|Título IV]] › [[CP - Libro Segundo - Título IV - Capítulo Cuarto|Capítulo Cuarto]] › [[CP - Libro Segundo - Título IV - Capítulo Cuarto - Del proxenetismo|Del proxenetismo]]
 
-## Artículo 216. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 216. Circunstancias de agravación punitiva
 
 Las penas para los delitos descritos en los artículos anteriores, se aumentarán de una tercera parte a la mitad, cuando la conducta:
 

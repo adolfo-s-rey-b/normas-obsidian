@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "51"
-epigrafe: "CONEXIDAD"
+epigrafe: "Conexidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo V|CAPÍTULO V - COMPETENCIA POR RAZÓN DE LA CONEXIDAD Y EL FACTOR SUBJETIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 51. CONEXIDAD
+## Artículo 51. Conexidad
 
 Al formular la acusación el fiscal podrá solicitar al juez de conocimiento que se decrete la conexidad cuando:
 

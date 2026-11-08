@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "134"
-epigrafe: "PRUEBA DE LAS NORMAS JURÍDICAS"
+epigrafe: "Prueba de las normas jurídicas"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 134. PRUEBA DE LAS NORMAS JURÍDICAS
+## Artículo 134. Prueba de las normas jurídicas
 
 El texto de normas jurídicas que no tengan alcance nacional y el de las leyes extranjeras, se aducirá en copia al proceso, de oficio o a solicitud de parte.
 

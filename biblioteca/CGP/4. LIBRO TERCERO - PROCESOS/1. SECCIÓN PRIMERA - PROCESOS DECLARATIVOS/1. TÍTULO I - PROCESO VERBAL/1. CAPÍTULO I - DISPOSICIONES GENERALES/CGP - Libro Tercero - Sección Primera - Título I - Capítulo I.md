@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 368 CGP|Artículo 368]] — ASUNTOS SOMETIDOS AL TRÁMITE DEL PROCESO VERBAL
-- [[art. 369 CGP|Artículo 369]] — TRASLADO DE LA DEMANDA
-- [[art. 370 CGP|Artículo 370]] — PRUEBAS ADICIONALES DEL DEMANDANTE
-- [[art. 371 CGP|Artículo 371]] — RECONVENCIÓN
-- [[art. 372 CGP|Artículo 372]] — AUDIENCIA INICIAL
-- [[art. 373 CGP|Artículo 373]] — AUDIENCIA DE INSTRUCCIÓN Y JUZGAMIENTO
+- [[art. 368 CGP|Artículo 368]] — Asuntos sometidos al trámite del proceso verbal
+- [[art. 369 CGP|Artículo 369]] — Traslado de la demanda
+- [[art. 370 CGP|Artículo 370]] — Pruebas adicionales del demandante
+- [[art. 371 CGP|Artículo 371]] — Reconvención
+- [[art. 372 CGP|Artículo 372]] — Audiencia inicial
+- [[art. 373 CGP|Artículo 373]] — Audiencia de instrucción y juzgamiento
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] · [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]] →

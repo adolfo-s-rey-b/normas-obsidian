@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "507"
-epigrafe: "DECRETO DE PARTICIÓN Y DESIGNACIÓN DE PARTIDOR"
+epigrafe: "Decreto de partición y designación de partidor"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 507. DECRETO DE PARTICIÓN Y DESIGNACIÓN DE PARTIDOR
+## Artículo 507. Decreto de partición y designación de partidor
 
 En la demanda de apertura del proceso de sucesión se entiende incluida la solicitud de partición, siempre que esté legitimado para pedirla quien lo haya promovido.
 

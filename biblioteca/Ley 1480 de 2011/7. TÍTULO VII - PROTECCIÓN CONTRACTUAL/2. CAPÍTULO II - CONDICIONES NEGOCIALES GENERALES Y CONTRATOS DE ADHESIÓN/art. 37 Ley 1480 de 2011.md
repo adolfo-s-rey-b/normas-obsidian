@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "37"
-epigrafe: "CONDICIONES NEGOCIALES GENERALES Y DE LOS CONTRATOS DE ADHESIÓN"
+epigrafe: "Condiciones negociales generales y de los contratos de adhesión"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo II|CAPÍTULO II - CONDICIONES NEGOCIALES GENERALES Y CONTRATOS DE ADHESIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo II|Capítulo II]]
 
-## Artículo 37. CONDICIONES NEGOCIALES GENERALES Y DE LOS CONTRATOS DE ADHESIÓN
+## Artículo 37. Condiciones negociales generales y de los contratos de adhesión
 
 Las Condiciones Negociales Generales y de los contratos de adhesión deberán cumplir como mínimo los siguientes requisitos:
 

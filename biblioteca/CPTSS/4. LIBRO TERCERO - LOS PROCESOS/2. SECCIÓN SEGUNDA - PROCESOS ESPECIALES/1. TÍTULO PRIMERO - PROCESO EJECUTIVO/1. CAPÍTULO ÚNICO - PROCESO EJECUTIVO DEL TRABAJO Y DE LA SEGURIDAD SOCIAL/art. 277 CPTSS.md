@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "277"
-epigrafe: "CONTINUIDAD DEL PROCESO EJECUTIVO"
+epigrafe: "Continuidad del proceso ejecutivo"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 277. CONTINUIDAD DEL PROCESO EJECUTIVO
+## Artículo 277. Continuidad del proceso ejecutivo
 
 Ejecutoriado el auto que ordene seguir adelante la ejecución por obligación de dar una especie mueble o bienes de género distintos de dinero que hubieren sido secuestrados, el juez ordenará al secuestre que los entregue al demandante.
 

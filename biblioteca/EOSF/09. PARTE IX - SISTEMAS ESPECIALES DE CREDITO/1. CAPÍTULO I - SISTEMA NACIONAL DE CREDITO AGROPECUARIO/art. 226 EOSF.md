@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "226"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones Finales"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 226. DISPOSICIONES FINALES
+## Artículo 226. Disposiciones Finales
 
 1\. Ambito de Aplicación. Las disposiciones contenidas en el capítulo I de la Parte Décima de este Estatuto serán aplicadas a las entidades que integran el Sistema Nacional de Crédito Agropecuario en cuanto otorguen crédito agropecuario.
 

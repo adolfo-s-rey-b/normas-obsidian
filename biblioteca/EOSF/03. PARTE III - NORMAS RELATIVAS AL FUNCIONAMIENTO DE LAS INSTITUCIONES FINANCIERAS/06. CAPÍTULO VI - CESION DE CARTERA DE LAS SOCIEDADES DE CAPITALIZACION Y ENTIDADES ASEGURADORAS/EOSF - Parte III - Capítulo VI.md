@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 69 EOSF|Artículo 69]] — ASPECTOS GENERALES DE LA CESION DE CARTERA DE LAS SOCIEDADES DE CAPITALIZACION
-- [[art. 70 EOSF|Artículo 70]] — ASPECTOS GENERALES DE LA CESION DE CARTERA DE LAS ENTIDADES ASEGURADORAS
+- [[art. 69 EOSF|Artículo 69]] — Aspectos Generales de la Cesión de Cartera de las Sociedades de Capitalización
+- [[art. 70 EOSF|Artículo 70]] — Aspectos generales de la cesión de cartera de las entidades aseguradoras
 
 ---
 ← [[EOSF - Parte III - Capítulo V|Capítulo V]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo VII|Capítulo VII]] →

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "28"
-epigrafe: "DISTRIBUCIÓN DE HONORARIOS"
+epigrafe: "Distribución de honorarios"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 28. DISTRIBUCIÓN DE HONORARIOS
+## Artículo 28. Distribución de honorarios
 
 Una vez el tribunal se declare competente, el presidente entregará a cada uno de los árbitros y al secretario la mitad de los honorarios, y al centro de arbitraje la totalidad de lo correspondiente a él; el resto quedará depositado en la cuenta destinada exclusivamente para el efecto. El presidente distribuirá el saldo de honorarios una vez terminado el arbitraje por voluntad de las partes o por ejecutoria del laudo o de la providencia que decida sobre su aclaración, corrección o complementación.
 

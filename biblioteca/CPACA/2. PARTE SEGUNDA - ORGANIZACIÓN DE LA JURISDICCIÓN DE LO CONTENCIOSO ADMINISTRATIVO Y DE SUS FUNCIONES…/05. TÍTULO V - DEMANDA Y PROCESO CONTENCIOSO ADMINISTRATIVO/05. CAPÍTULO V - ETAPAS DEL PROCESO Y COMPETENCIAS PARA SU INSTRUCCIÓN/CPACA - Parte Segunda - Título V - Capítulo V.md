@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 179 CPACA|Artículo 179]] — ETAPAS
-- [[art. 180 CPACA|Artículo 180]] — AUDIENCIA INICIAL
-- [[art. 181 CPACA|Artículo 181]] — AUDIENCIA DE PRUEBAS
-- [[art. 182 CPACA|Artículo 182]] — AUDIENCIA DE ALEGACIONES Y JUZGAMIENTO
+- [[art. 179 CPACA|Artículo 179]] — Etapas
+- [[art. 180 CPACA|Artículo 180]] — Audiencia inicial
+- [[art. 181 CPACA|Artículo 181]] — Audiencia de pruebas
+- [[art. 182 CPACA|Artículo 182]] — Audiencia de alegaciones y juzgamiento
 - [[art. 182A CPACA|Artículo 182A]] — Sentencia anticipada
 - [[art. 182B CPACA|Artículo 182B]] — Audiencias públicas potestativas
-- [[art. 183 CPACA|Artículo 183]] — ACTAS Y REGISTRO DE LAS AUDIENCIAS Y DILIGENCIAS
-- [[art. 184 CPACA|Artículo 184]] — PROCESO ESPECIAL PARA LA NULIDAD POR INCONSTITUCIONALIDAD
-- [[art. 185 CPACA|Artículo 185]] — TRÁMITE DEL CONTROL INMEDIATO DE LEGALIDAD DE ACTOS
+- [[art. 183 CPACA|Artículo 183]] — Actas y registro de las audiencias y diligencias
+- [[art. 184 CPACA|Artículo 184]] — Proceso especial para la nulidad por inconstitucionalidad
+- [[art. 185 CPACA|Artículo 185]] — Trámite del control inmediato de legalidad de actos
 - [[art. 185A CPACA|Artículo 185A]] — Trámite del control automático de legalidad de fallos con responsabilidad fiscal
 - [[art. 186 CPACA|Artículo 186]] — ACTUACIONES A TRAVÉS DE MEDIOS ELECTRÓNICOS
 

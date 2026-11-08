@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "497"
-epigrafe: "REQUERIMIENTO AL ALBACEA"
+epigrafe: "Requerimiento al albacea"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 497. REQUERIMIENTO AL ALBACEA
+## Artículo 497. Requerimiento al albacea
 
 Desde la demanda de apertura del proceso de sucesión, cualquiera de los herederos podrá pedir que se requiera al albacea para que exprese si acepta el cargo, en los términos y para los fines del artículo [[art. 1333 CC|1333]] del Código Civil.
 

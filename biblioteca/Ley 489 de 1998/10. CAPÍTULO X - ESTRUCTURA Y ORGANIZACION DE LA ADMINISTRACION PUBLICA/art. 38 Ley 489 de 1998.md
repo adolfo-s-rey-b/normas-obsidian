@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "38"
-epigrafe: "INTEGRACION DE LA RAMA EJECUTIVA DEL PODER PUBLICO EN EL ORDEN NACIONAL"
+epigrafe: "Integración de la Rama Ejecutiva del Poder Público en el orden nacional"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 37 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 38. INTEGRACION DE LA RAMA EJECUTIVA DEL PODER PUBLICO EN EL ORDEN NACIONAL
+## Artículo 38. Integración de la Rama Ejecutiva del Poder Público en el orden nacional
 
 La Rama Ejecutiva del Poder Público en el orden nacional, está integrada por los siguientes organismos y entidades:
 

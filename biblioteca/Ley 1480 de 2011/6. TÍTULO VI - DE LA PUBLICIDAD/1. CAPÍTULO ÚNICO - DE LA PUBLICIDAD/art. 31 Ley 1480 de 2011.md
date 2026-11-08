@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "31"
-epigrafe: "PUBLICIDAD DE PRODUCTOS NOCIVOS"
+epigrafe: "Publicidad de productos nocivos"
 titulo: "[[Ley 1480 de 2011 - Título VI|TÍTULO VI - DE LA PUBLICIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VI - Capítulo Único|CAPÍTULO ÚNICO - DE LA PUBLICIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VI|Título VI]] › [[Ley 1480 de 2011 - Título VI - Capítulo Único|Capítulo Único]]
 
-## Artículo 31. PUBLICIDAD DE PRODUCTOS NOCIVOS
+## Artículo 31. Publicidad de productos nocivos
 
 En la publicidad de productos que por su naturaleza o componentes sean nocivos para la salud, se advertirá claramente al público acerca de su nocividad y de la necesidad de consultar las condiciones o indicaciones para su uso correcto, así como las contraindicaciones del caso. El Gobierno podrá regular la publicidad de todos o algunos de los productos de que trata el presente artículo.
 

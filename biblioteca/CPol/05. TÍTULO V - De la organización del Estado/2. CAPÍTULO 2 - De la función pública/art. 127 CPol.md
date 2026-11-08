@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "127"
 titulo: "[[CPol - Título V|TÍTULO V - De la organización del Estado]]"
 capitulo: "[[CPol - Título V - Capítulo 2|CAPÍTULO 2 - De la función pública]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 1 Acto Legislativo 2 de 2004]]"
   - "[[art. 241 CPol]]"
@@ -33,7 +33,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPol|CPol]] › [[CPol - Título V|Título V]] › [[CPol - Título V - Capítulo 2|Capítulo 2]]

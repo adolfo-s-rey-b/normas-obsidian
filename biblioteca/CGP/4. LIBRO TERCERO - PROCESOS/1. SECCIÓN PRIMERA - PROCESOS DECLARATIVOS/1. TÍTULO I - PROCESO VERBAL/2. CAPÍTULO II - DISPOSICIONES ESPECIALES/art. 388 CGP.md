@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "388"
-epigrafe: "DIVORCIO"
+epigrafe: "Divorcio"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 388. DIVORCIO
+## Artículo 388. Divorcio
 
 En el proceso de divorcio y de cesación de efectos civiles de matrimonio religioso son partes únicamente los cónyuges, pero si estos fueren menores de edad, podrán también intervenir sus padres. El Ministerio Público será citado en interés de los hijos y se observarán las siguientes reglas:
 

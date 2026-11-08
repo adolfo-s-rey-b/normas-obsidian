@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "95"
-epigrafe: "EFECTOS DE LA DECLARACIÓN DE FALTA DE JURISDICCIÓN O COMPETENCIA Y DE LA NULIDAD DECLARADA"
+epigrafe: "Efectos de la declaración de falta de jurisdicción o competencia y de la nulidad declarada"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 95. EFECTOS DE LA DECLARACIÓN DE FALTA DE JURISDICCIÓN O COMPETENCIA Y DE LA NULIDAD DECLARADA
+## Artículo 95. Efectos de la declaración de falta de jurisdicción o competencia y de la nulidad declarada
 
 Cuando se declare la falta de jurisdicción, o la falta de competencia por el factor funcional, lo actuado conservará su validez y el proceso se enviará de inmediato al juez competente; quien invalidará la sentencia si se hubiere dictado.
 

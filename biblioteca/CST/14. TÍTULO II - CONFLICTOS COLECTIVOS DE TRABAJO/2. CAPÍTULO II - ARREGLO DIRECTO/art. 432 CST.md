@@ -44,7 +44,7 @@ tags:
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado declarado EXEQUIBLE, por los cargos analizados, por la Corte Constitucional mediante Sentencia C-330-12 de 9 de mayo de 2012, Magistrado Ponente Dr. Humberto Antonio Sierra Porto. - Aparte tachado declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-797-00 del 29 de junio de 2000, Magistrado Ponente Dr. Antonio Becerra Carbonell. El resto del artículo fue declarado EXEQUIBLE.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

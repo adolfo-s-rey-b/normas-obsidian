@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 153 CPP|Artículo 153]] — NOCIÓN
-- [[art. 154 CPP|Artículo 154]] — MODALIDADES
-- [[art. 155 CPP|Artículo 155]] — PUBLICIDAD
+- [[art. 153 CPP|Artículo 153]] — Noción
+- [[art. 154 CPP|Artículo 154]] — Modalidades
+- [[art. 155 CPP|Artículo 155]] — Publicidad
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo IV|Capítulo IV]] →

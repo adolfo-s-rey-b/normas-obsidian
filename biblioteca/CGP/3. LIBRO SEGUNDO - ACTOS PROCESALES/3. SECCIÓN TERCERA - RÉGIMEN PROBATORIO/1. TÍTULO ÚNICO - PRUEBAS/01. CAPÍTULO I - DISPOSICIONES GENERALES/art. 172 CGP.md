@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "172"
-epigrafe: "PRUEBAS EN DÍAS Y HORAS INHÁBILES"
+epigrafe: "Pruebas en días y horas inhábiles"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 172. PRUEBAS EN DÍAS Y HORAS INHÁBILES
+## Artículo 172. Pruebas en días y horas inhábiles
 
 El juez o el comisionado, si lo cree conveniente y con conocimiento de las partes, podrá practicar pruebas en días y horas inhábiles, y deberá hacerlo así en casos urgentes o cuando aquellas lo soliciten de común acuerdo.
 

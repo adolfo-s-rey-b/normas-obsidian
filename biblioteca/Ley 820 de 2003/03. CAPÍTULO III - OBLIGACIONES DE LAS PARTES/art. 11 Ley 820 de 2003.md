@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "11"
-epigrafe: "COMPROBACIÓN DEL PAGO"
+epigrafe: "Comprobación del pago"
 capitulo: "[[Ley 820 de 2003 - Capítulo III|CAPÍTULO III - OBLIGACIONES DE LAS PARTES]]"
 vigencia: "vigente"
 anterior: "[[art. 10 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo III|Capítulo III]]
 
-## Artículo 11. COMPROBACIÓN DEL PAGO
+## Artículo 11. Comprobación del pago
 
 El arrendador o la persona autorizada para recibir el pago del arrendamiento estará obligado a expedir comprobante escrito en el que conste la fecha, la cuantía y el período al cual corresponde el pago. En caso de renuencia a expedir la constancia, el arrendatario podrá solicitar la intervención de la autoridad competente.
 

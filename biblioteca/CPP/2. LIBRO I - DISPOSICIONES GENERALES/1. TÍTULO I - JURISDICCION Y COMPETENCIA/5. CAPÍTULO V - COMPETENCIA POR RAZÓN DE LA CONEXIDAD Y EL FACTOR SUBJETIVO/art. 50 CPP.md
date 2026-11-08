@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "50"
-epigrafe: "UNIDAD PROCESAL"
+epigrafe: "Unidad procesal"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo V|CAPÍTULO V - COMPETENCIA POR RAZÓN DE LA CONEXIDAD Y EL FACTOR SUBJETIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 50. UNIDAD PROCESAL
+## Artículo 50. Unidad procesal
 
 Por cada delito se adelantará una sola actuación procesal, cualquiera que sea el número de autores o partícipes, salvo las excepciones constitucionales y legales.
 

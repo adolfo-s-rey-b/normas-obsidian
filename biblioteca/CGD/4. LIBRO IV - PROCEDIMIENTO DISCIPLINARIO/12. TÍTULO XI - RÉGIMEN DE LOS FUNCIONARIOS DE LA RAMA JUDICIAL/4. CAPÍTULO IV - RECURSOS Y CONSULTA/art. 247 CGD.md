@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "247"
-epigrafe: "CLASES DE RECURSOS"
+epigrafe: "Clases de recursos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo IV|CAPÍTULO IV - RECURSOS Y CONSULTA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo IV|Capítulo IV]]
 
-## Artículo 247. CLASES DE RECURSOS
+## Artículo 247. Clases de recursos
 
 Contra las providencias proferidas en el trámite disciplinario proceden los recursos a que se refiere este código. Además, procederá la reposición contra el auto de determinación del procedimiento y archivo definitivo en los procesos seguidos por la Comisión Nacional de Disciplina Judicial.
 

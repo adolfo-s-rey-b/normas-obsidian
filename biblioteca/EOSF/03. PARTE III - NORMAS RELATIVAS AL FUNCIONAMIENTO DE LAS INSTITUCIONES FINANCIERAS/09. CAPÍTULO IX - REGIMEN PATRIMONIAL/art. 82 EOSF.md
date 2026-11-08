@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "82"
-epigrafe: "DISPOSICIONES RELATIVAS A LOS MARGENES DE SOLVENCIA O NIVELES DE PATRIMONIO ADECUADO"
+epigrafe: "Disposiciones Relativas a los Márgenes de Solvencia o Niveles de Patrimonio Adecuado"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 82. DISPOSICIONES RELATIVAS A LOS MARGENES DE SOLVENCIA O NIVELES DE PATRIMONIO ADECUADO
+## Artículo 82. Disposiciones Relativas a los Márgenes de Solvencia o Niveles de Patrimonio Adecuado
 
 1\. Margen de solvencia de las sociedades administradoras de fondos de pensiones y de cesantía. Las administradoras deberán mantener y acreditar ante la Superintendencia Bancaria, como margen de solvencia, un patrimonio técnico saneado equivalente, como mínimo, a las cuantías que determine el Gobierno Nacional.
 

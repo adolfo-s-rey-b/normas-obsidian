@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "771"
-epigrafe: "APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE>"
+epigrafe: "APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE"
 libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
 titulo: "[[CCo - Libro Tercero - Título III|TÍTULO III - DE LOS TÍTULOS VALORES]]"
 capitulo: "[[CCo - Libro Tercero - Título III - Capítulo V|CAPÍTULO V - DISTINTAS ESPECIES DE TÍTULOS-VALORES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título III|Título III]] › [[CCo - Libro Tercero - Título III - Capítulo V|Capítulo V]] › [[CCo - Libro Tercero - Título III - Capítulo V - Sección VI|Sección VI]]
 
-## Artículo 771. APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE>
+## Artículo 771. APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE
 
 A la carta de porte y al conocimiento de embarque se aplicarán, en lo pertinente, las normas relativas a la letra de cambio y al pagaré.
 

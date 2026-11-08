@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "63"
-epigrafe: "CADUCIDAD RESPECTO DE LAS SANCIONES"
+epigrafe: "Caducidad Respecto de las Sanciones"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo II|CAPÍTULO II - ~~IV~~]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|OTRAS ACTUACIONES ADMINISTRATIVAS]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|Otras actuaciones administrativas]]
 
-## Artículo 63. CADUCIDAD RESPECTO DE LAS SANCIONES
+## Artículo 63. Caducidad Respecto de las Sanciones
 
 Se aplicará lo dispuesto en el Código Contencioso Administrativo o las normas que lo modifiquen o adicionen.
 

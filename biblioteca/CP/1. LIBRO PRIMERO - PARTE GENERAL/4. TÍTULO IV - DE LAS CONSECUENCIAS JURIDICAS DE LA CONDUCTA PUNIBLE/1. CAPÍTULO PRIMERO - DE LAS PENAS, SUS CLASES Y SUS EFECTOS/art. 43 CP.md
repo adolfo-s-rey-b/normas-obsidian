@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "43"
-epigrafe: "LAS PENAS PRIVATIVAS DE OTROS DERECHOS"
+epigrafe: "Las penas privativas de otros derechos"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 43. LAS PENAS PRIVATIVAS DE OTROS DERECHOS
+## Artículo 43. Las penas privativas de otros derechos
 
 Son penas privativas de otros derechos:
 

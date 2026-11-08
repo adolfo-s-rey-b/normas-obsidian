@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "367"
-epigrafe: "ALEGACIÓN INICIAL"
+epigrafe: "Alegación inicial"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo I|CAPÍTULO I - INSTALACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 367. ALEGACIÓN INICIAL
+## Artículo 367. Alegación inicial
 
 Una vez instalado el juicio oral, el juez advertirá al acusado, si está presente, que le asiste el derecho a guardar silencio y a no autoincriminarse, y le concederá el uso de la palabra para que manifieste, sin apremio ni juramento, si se declara inocente o culpable. La declaración podrá ser mixta, o sea, de culpabilidad para alguno de los cargos y de inocencia para los otros.
 

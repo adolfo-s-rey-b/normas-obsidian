@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "109"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 109. PROCEDENCIA
+## Artículo 109. Procedencia
 
 Se concederá el amparo de pobreza a la persona que no se halle en capacidad de atender los gastos del proceso sin menoscabo de lo necesario para su propia subsistencia y la de las personas a quienes por ley debe alimentos, salvo cuando pretenda hacer valer un derecho litigioso a título oneroso.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "111"
-epigrafe: "RECONOCIMIENTO Y EJECUCIÓN"
+epigrafe: "Reconocimiento y ejecución"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|CAPÍTULO IX - RECONOCIMIENTO Y EJECUCIÓN DE LOS LAUDOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|Capítulo IX]]
 
-## Artículo 111. RECONOCIMIENTO Y EJECUCIÓN
+## Artículo 111. Reconocimiento y ejecución
 
 Los laudos arbitrales se reconocerán y ejecutarán así:
 

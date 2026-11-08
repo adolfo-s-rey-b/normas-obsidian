@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "71"
-epigrafe: "FUNCIONES DEL FONDO"
+epigrafe: "Funciones del Fondo"
 titulo: "[[Ley 472 de 1998 - Título IV|TÍTULO IV - FONDO PARA LA DEFENSA DE LOS DERECHOS E INTERESES COLECTIVOS]]"
 capitulo: "[[Ley 472 de 1998 - Título IV - Capítulo I|CAPÍTULO I]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título IV|Título IV]] › [[Ley 472 de 1998 - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 71. FUNCIONES DEL FONDO
+## Artículo 71. Funciones del Fondo
 
 El Fondo tendrá las siguientes funciones:
 

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 104 Ley 446 de 1998|Artículo 104]] — SOLICITUD
-- [[art. 105 Ley 446 de 1998|Artículo 105]] — EFECTOS DE LA CONCILIACION ADMINISTRATIVA
+- [[art. 104 Ley 446 de 1998|Artículo 104]] — Solicitud
+- [[art. 105 Ley 446 de 1998|Artículo 105]] — Efectos de la conciliación administrativa
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 2|Sección 2]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|Capítulo 4]]

@@ -15,7 +15,7 @@ libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo II|CAPÍTULO II - DECLARACIONES TRIBUTARIAS]]"
 rubro: "[[ET - Libro Quinto - Título II - Capítulo II - Disposiciones generales|DISPOSICIONES GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 15 Ley 1430 de 2010]]"
   - "[[art. 270 Ley 1819 de 2016]]"
@@ -40,7 +40,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título II - Capítulo II - Disposiciones generales|Disposiciones generales]]

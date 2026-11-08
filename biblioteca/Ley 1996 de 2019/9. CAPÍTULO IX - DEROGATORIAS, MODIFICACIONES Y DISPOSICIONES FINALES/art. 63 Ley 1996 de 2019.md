@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "63"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IX|CAPÍTULO IX - DEROGATORIAS, MODIFICACIONES Y DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 62 Ley 1996 de 2019]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IX|Capítulo IX]]
 
-## Artículo 63. VIGENCIA
+## Artículo 63. Vigencia
 
 La presente ley rige a partir de su promulgación.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "47"
-epigrafe: "ACCIONES DE LAS PERSONAS DE APOYO"
+epigrafe: "Acciones de las personas de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 46 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 47. ACCIONES DE LAS PERSONAS DE APOYO
+## Artículo 47. Acciones de las personas de apoyo
 
 Entre las acciones que pueden adelantar las personas de apoyo para la celebración de actos jurídicos están los siguientes, sin perjuicio de que se establezcan otros adicionales según las necesidades y preferencias de cada persona:
 

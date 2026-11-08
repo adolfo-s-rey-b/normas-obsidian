@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "22"
-epigrafe: "TRASLADO Y CONTESTACION DE LA DEMANDA"
+epigrafe: "Traslado y Contestación de la Demanda"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo V|CAPÍTULO V - ADMISION, NOTIFICACION Y TRASLADO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 22. TRASLADO Y CONTESTACION DE LA DEMANDA
+## Artículo 22. Traslado y Contestación de la Demanda
 
 En el auto admisorio de la demanda el juez ordenará su traslado al demandado por el término de diez (10) días para contestarla. También dispondrá informarle que la decisión será proferida dentro de los treinta (30) días siguientes al vencimiento del término de traslado y que tiene derecho a solicitar la práctica de pruebas con la contestación de la demanda.
 

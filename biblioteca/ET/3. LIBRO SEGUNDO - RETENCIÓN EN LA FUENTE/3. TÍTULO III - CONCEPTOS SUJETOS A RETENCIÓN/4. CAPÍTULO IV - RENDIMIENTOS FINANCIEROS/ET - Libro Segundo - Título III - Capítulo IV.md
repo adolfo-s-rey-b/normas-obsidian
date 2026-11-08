@@ -25,8 +25,8 @@ tags:
 
 - [[art. 395 ET|Artículo 395]] — CONCEPTOS OBJETO DE RETENCIÓN
 - [[art. 396 ET|Artículo 396]] — LA TARIA PUEDE APLICARSE SOBRE EL VALOR BRUTO DEL RENDIMIENTO
-- [[art. 397 ET|Artículo 397]] — RETENCIÓN EN LA FUENTE EN TITULOS CON DESCUENTO
-- [[art. 397-1 ET|Artículo 397-1]] — RENDIMIENTO DE TITULOS DE AHORRO A LARGO PLAZO
+- [[art. 397 ET|Artículo 397]] — RETENCIÓN EN LA FUENTE EN TÍTULOS CON DESCUENTO
+- [[art. 397-1 ET|Artículo 397-1]] — RENDIMIENTO DE TÍTULOS DE AHORRO A LARGO PLAZO
 
 ---
 ← [[ET - Libro Segundo - Título III - Capítulo III|Capítulo III]] · ↑ [[ET - Libro Segundo - Título III|Título III]] · [[ET - Libro Segundo - Título III - Capítulo V|Capítulo V]] →

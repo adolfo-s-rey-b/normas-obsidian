@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "26"
-epigrafe: "INFORMACIÓN PÚBLICA DE PRECIOS"
+epigrafe: "Información pública de precios"
 titulo: "[[Ley 1480 de 2011 - Título V|TÍTULO V - DE LA INFORMACIÓN]]"
 capitulo: "[[Ley 1480 de 2011 - Título V - Capítulo Único|CAPÍTULO ÚNICO - DE LA INFORMACIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título V|Título V]] › [[Ley 1480 de 2011 - Título V - Capítulo Único|Capítulo Único]]
 
-## Artículo 26. INFORMACIÓN PÚBLICA DE PRECIOS
+## Artículo 26. Información pública de precios
 
 El proveedor está obligado a informar al consumidor en pesos colombianos el precio de venta al público, incluidos todos los impuestos y costos adicionales de los productos. El precio debe informarse visualmente y el consumidor solo estará obligado a pagar el precio anunciado. Las diferentes formas que aseguren la información visual del precio y la posibilidad de que en algunos sectores se indique el precio en moneda diferente a pesos colombianos, serán determinadas por la Superintendencia de Industria y Comercio.
 

@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 476 CGP|Artículo 476]] — GUARDA Y APOSICIÓN DE SELLOS
-- [[art. 477 CGP|Artículo 477]] — PRÁCTICA DE LA GUARDA Y APOSICIÓN DE SELLOS
-- [[art. 478 CGP|Artículo 478]] — TERMINACIÓN DE LA GUARDA
-- [[art. 479 CGP|Artículo 479]] — MEDIDAS POLICIVAS
-- [[art. 480 CGP|Artículo 480]] — EMBARGO Y SECUESTRO
-- [[art. 481 CGP|Artículo 481]] — TERMINACIÓN DEL SECUESTRO
+- [[art. 476 CGP|Artículo 476]] — Guarda y aposición de sellos
+- [[art. 477 CGP|Artículo 477]] — Práctica de la guarda y aposición de sellos
+- [[art. 478 CGP|Artículo 478]] — Terminación de la guarda
+- [[art. 479 CGP|Artículo 479]] — Medidas policivas
+- [[art. 480 CGP|Artículo 480]] — Embargo y secuestro
+- [[art. 481 CGP|Artículo 481]] — Terminación del secuestro
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] · [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|Capítulo III]] →

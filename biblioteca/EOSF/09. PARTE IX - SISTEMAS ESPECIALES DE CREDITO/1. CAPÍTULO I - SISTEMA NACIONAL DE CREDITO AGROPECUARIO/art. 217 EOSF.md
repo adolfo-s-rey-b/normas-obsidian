@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "217"
-epigrafe: "ENTIDADES INTEGRANTES DEL SISTEMA NACIONAL DE CREDITO AGROPECUARIO"
+epigrafe: "Entidades Integrantes del Sistema Nacional de Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 217. ENTIDADES INTEGRANTES DEL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
+## Artículo 217. Entidades Integrantes del Sistema Nacional de Crédito Agropecuario
 
 Forman parte del Sistema Nacional de Crédito Agropecuario, los bancos y las demás entidades financieras, creadas o que se creen en el futuro, que tengan por objeto principal el financiamiento de las actividades agropecuarias.
 

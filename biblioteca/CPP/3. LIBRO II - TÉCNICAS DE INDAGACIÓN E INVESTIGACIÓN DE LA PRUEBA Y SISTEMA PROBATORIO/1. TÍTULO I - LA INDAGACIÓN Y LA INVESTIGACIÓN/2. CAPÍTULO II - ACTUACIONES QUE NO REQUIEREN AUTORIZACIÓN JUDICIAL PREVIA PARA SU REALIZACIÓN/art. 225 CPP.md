@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "225"
-epigrafe: "REGLAS PARTICULARES PARA EL DILIGENCIAMIENTO DE LA ORDEN DE REGISTRO Y ALLANAMIENTO"
+epigrafe: "Reglas particulares para el diligenciamiento de la orden de registro y allanamiento"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 225. REGLAS PARTICULARES PARA EL DILIGENCIAMIENTO DE LA ORDEN DE REGISTRO Y ALLANAMIENTO
+## Artículo 225. Reglas particulares para el diligenciamiento de la orden de registro y allanamiento
 
 Durante la diligencia de registro y allanamiento la Policía Judicial deberá:
 

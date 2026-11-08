@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "77"
-epigrafe: "PRESUNCIÓN DE AUTENTICIDAD DE LAS COMUNICACIONES"
+epigrafe: "Presunción de autenticidad de las comunicaciones"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 77. PRESUNCIÓN DE AUTENTICIDAD DE LAS COMUNICACIONES
+## Artículo 77. Presunción de autenticidad de las comunicaciones
 
 Se presumen auténticos:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "6"
-epigrafe: "ACCIÓN DE REPETICIÓN"
+epigrafe: "Acción de repetición"
 capitulo: "[[Ley 1474 de 2011 - Capítulo I (2)|CAPÍTULO I - <sic, es II>]]"
 rubro: "[[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo I (2)|Capítulo I]] › [[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|Medidas administrativas para la lucha contra la…]]
 
-## Artículo 6. ACCIÓN DE REPETICIÓN
+## Artículo 6. Acción de repetición
 
 El numeral 2 del artículo [[art. 8 Ley 678 de 2001|8]]o de la Ley 678 de 2001 quedará así:
 

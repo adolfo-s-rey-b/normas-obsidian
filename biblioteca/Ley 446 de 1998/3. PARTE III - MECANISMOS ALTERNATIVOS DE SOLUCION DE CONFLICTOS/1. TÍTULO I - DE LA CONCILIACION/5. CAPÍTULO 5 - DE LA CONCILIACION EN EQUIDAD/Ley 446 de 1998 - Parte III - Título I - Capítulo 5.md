@@ -26,7 +26,7 @@ tags:
 - [[art. 107 Ley 446 de 1998|Artículo 107]]
 - [[art. 108 Ley 446 de 1998|Artículo 108]]
 - [[art. 109 Ley 446 de 1998|Artículo 109]]
-- [[art. 110 Ley 446 de 1998|Artículo 110]] — COPIA DEL NOMBRAMIENTO
+- [[art. 110 Ley 446 de 1998|Artículo 110]] — Copia del nombramiento
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|Capítulo 4]] · ↑ [[Ley 446 de 1998 - Parte III - Título I|Título I]]

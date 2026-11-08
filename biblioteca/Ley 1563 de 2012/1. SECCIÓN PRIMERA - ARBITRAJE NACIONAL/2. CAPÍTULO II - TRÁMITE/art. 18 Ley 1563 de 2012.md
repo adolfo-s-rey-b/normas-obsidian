@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "18"
-epigrafe: "IMPEDIMENTOS Y RECUSACIONES DE MAGISTRADOS"
+epigrafe: "Impedimentos y recusaciones de magistrados"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 18. IMPEDIMENTOS Y RECUSACIONES DE MAGISTRADOS
+## Artículo 18. Impedimentos y recusaciones de magistrados
 
 Los magistrados que conozcan de los recursos extraordinarios de anulación o revisión estarán impedidos y serán recusables conforme a las reglas generales del Código de Procedimiento Civil y, además, cuando respecto de ellos se configure alguna causal frente a quienes hubieran intervenido como árbitros, secretario o auxiliares de la justicia en el proceso arbitral.
 

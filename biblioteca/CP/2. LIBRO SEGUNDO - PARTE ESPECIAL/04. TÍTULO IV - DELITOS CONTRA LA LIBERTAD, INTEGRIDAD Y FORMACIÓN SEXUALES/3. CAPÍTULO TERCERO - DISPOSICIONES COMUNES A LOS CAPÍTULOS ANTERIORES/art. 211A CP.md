@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "211A"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA CUANDO LA CONDUCTA SE COMETIERE EN CONTRA DE NIÑO, NIÑA O ADOLESCENTE"
+epigrafe: "Circunstancias De Agravación Punitiva Cuando La Conducta Se Cometiere En Contra De Niño, Niña O Adolescente"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IV|TÍTULO IV - DELITOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUALES]]"
 capitulo: "[[CP - Libro Segundo - Título IV - Capítulo Tercero|CAPÍTULO TERCERO - DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IV|Título IV]] › [[CP - Libro Segundo - Título IV - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 211A. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA CUANDO LA CONDUCTA SE COMETIERE EN CONTRA DE NIÑO, NIÑA O ADOLESCENTE
+## Artículo 211A. Circunstancias De Agravación Punitiva Cuando La Conducta Se Cometiere En Contra De Niño, Niña O Adolescente
 
 Cuando se cometiere uno de los delitos descritos en los artículos [[art. 205 CP|205]] , [[art. 207 CP|207]] o [[art. 210 CP|210]] de este Código, la pena será de 480 a 600 meses de prisión ~~o pena de prisión perpetua revisable~~, si la víctima fuere un menor de dieciocho (18) años y en los siguientes casos:
 

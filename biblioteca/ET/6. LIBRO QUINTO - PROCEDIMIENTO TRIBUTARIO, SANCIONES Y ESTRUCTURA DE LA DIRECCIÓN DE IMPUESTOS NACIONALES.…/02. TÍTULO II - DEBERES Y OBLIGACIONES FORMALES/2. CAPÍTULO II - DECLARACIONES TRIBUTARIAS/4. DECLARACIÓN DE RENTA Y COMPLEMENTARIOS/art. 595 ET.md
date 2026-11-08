@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "595"
-epigrafe: "PERIODO FISCAL CUANDO HAY LIQUIDACIÓN EN EL AÑO"
+epigrafe: "PERÍODO FISCAL CUANDO HAY LIQUIDACIÓN EN EL AÑO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo II|CAPÍTULO II - DECLARACIONES TRIBUTARIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título II - Capítulo II - Declaración de renta y complementarios|Declaración de renta y complementarios]]
 
-## Artículo 595. PERIODO FISCAL CUANDO HAY LIQUIDACIÓN EN EL AÑO
+## Artículo 595. PERÍODO FISCAL CUANDO HAY LIQUIDACIÓN EN EL AÑO
 
 (Fuente original compilada: L. 52/77 Art. [[art. 22 ET|22]].) En los casos de liquidación durante el ejercicio, el año concluye en las siguientes fechas:
 

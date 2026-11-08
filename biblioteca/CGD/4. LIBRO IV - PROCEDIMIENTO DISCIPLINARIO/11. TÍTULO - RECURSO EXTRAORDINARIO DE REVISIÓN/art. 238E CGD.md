@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238E"
-epigrafe: "REQUISITOS DEL RECURSO EXTRAORDINARIO DE REVISIÓN"
+epigrafe: "Requisitos del recurso extraordinario de revisión"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título|TÍTULO - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título|Título]]
 
-## Artículo 238E. REQUISITOS DEL RECURSO EXTRAORDINARIO DE REVISIÓN
+## Artículo 238E. Requisitos del recurso extraordinario de revisión
 
 El recurso extraordinario de revisión debe interponerse mediante escrito que deberá contener:
 

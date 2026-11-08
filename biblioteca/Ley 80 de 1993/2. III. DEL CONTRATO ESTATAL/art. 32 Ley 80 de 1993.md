@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "32"
-epigrafe: "DE LOS CONTRATOS ESTATALES"
+epigrafe: "De los Contratos Estatales"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
 vigencia: "parcialmente inexequible"
 modificado_por:
@@ -32,7 +32,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 32. DE LOS CONTRATOS ESTATALES
+## Artículo 32. De los Contratos Estatales
 
 Son contratos estatales todos los actos jurídicos generadores de obligaciones que celebren las entidades a que se refiere el presente estatuto, previstos en el derecho privado o en disposiciones especiales, o derivados del ejercicio de la autonomía de la voluntad, así como los que, a título enunciativo, se definen a continuación:
 

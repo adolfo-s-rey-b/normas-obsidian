@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "208"
-epigrafe: "ACTIVIDAD DE POLICÍA"
+epigrafe: "Actividad de policía"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 208. ACTIVIDAD DE POLICÍA
+## Artículo 208. Actividad de policía
 
 > [!warning] Aparte subrayado CONDICIONALMENTE exequible y apartes tachados INEXEQUIBLES
 

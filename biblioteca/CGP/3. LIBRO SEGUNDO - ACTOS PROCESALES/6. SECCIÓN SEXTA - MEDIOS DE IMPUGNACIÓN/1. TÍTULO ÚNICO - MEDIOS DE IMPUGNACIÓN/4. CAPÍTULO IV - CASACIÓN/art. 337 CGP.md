@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "337"
-epigrafe: "OPORTUNIDAD Y LEGITIMACIÓN PARA INTERPONER EL RECURSO"
+epigrafe: "Oportunidad y legitimación para interponer el recurso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 337. OPORTUNIDAD Y LEGITIMACIÓN PARA INTERPONER EL RECURSO
+## Artículo 337. Oportunidad y legitimación para interponer el recurso
 
 El recurso podrá interponerse dentro de los cinco (5) días siguientes a la notificación de la sentencia. Sin embargo, cuando se haya pedido oportunamente adición, corrección o aclaración, o estas se hicieren de oficio, el término se contará desde el día siguiente al de la notificación de la providencia respectiva.
 

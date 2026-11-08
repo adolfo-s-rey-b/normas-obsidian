@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "151"
-epigrafe: "COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN ÚNICA INSTANCIA"
+epigrafe: "Competencia de los tribunales administrativos en única instancia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo II|CAPÍTULO II - COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 151. COMPETENCIA DE LOS TRIBUNALES ADMINISTRATIVOS EN ÚNICA INSTANCIA
+## Artículo 151. Competencia de los tribunales administrativos en única instancia
 
 Los tribunales administrativos conocerán de los siguientes procesos privativamente y en única instancia:
 

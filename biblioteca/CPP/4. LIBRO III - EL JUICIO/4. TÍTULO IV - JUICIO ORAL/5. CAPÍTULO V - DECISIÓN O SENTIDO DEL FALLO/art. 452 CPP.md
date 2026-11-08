@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "452"
-epigrafe: "SITUACIÓN DE LOS INIMPUTABLES"
+epigrafe: "Situación de los inimputables"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo V|CAPÍTULO V - DECISIÓN O SENTIDO DEL FALLO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 452. SITUACIÓN DE LOS INIMPUTABLES
+## Artículo 452. Situación de los inimputables
 
 Si la razón de la decisión fuera la inimputabilidad, el juez dispondrá provisionalmente la medida de seguridad apropiada mientras se profiere el fallo respectivo.
 

@@ -20,10 +20,10 @@ tags:
 
 ### Contenido
 
-- [[art. 32 Ley 489 de 1998|Artículo 32]] — DEMOCRATIZACIÓN DE LA ADMINISTRACIÓN PÚBLICA
-- [[art. 33 Ley 489 de 1998|Artículo 33]] — AUDIENCIAS PUBLICAS
+- [[art. 32 Ley 489 de 1998|Artículo 32]] — Democratización de la Administración Pública
+- [[art. 33 Ley 489 de 1998|Artículo 33]] — Audiencias públicas
 - [[art. 34 Ley 489 de 1998|Artículo 34]] — EJERCICIO DEL CONTROL SOCIAL DE LA ADMINISTRACION
-- [[art. 35 Ley 489 de 1998|Artículo 35]] — EJERCICIO DE LA VEEDURIA CIUDADANA
+- [[art. 35 Ley 489 de 1998|Artículo 35]] — Ejercicio de la veeduría ciudadana
 
 ---
 ← [[Ley 489 de 1998 - Capítulo VII|Capítulo VII]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo IX|Capítulo IX]] →

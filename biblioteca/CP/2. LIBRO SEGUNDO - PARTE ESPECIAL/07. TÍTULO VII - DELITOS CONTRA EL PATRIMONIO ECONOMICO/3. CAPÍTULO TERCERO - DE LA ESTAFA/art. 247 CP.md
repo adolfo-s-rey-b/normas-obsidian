@@ -8,17 +8,16 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "247"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VII|TÍTULO VII - DELITOS CONTRA EL PATRIMONIO ECONOMICO]]"
 capitulo: "[[CP - Libro Segundo - Título VII - Capítulo Tercero|CAPÍTULO TERCERO - DE LA ESTAFA]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 52 Ley 1142 de 2007]]"
   - "[[art. 15 Ley 1474 de 2011]]"
   - "[[art. 33 Ley 1474 de 2011]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 derogado_por:
   - "[[art. 29 Decreto 126 de 2010]]"
 anterior: "[[art. 246 CP]]"
@@ -32,12 +31,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VII|Título VII]] › [[CP - Libro Segundo - Título VII - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 247. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 247. Circunstancias de agravación punitiva
 
 La pena prevista en el artículo anterior será de sesenta y cuatro (64) a ciento cuarenta y cuatro (144) meses cuando:
 
@@ -55,7 +54,7 @@ La pena prevista en el artículo anterior será de sesenta y cuatro (64) a cient
 
 > [!info] Notas de Vigencia: Numeral 4o. adicionado por el artículo [[art. 52 Ley 1142 de 2007|52]] de la Ley 1142 de 2007, publicada en el Diario Oficial No. 46.673 de 28 de julio de 2007.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 
@@ -75,7 +74,7 @@ La pena prevista en el artículo anterior será de sesenta y cuatro (64) a cient
 
 > [!info] Notas de Vigencia: Numeral 6. adicionado por el artículo [[art. 15 Ley 1474 de 2011|15]] de la Ley 1474 de 2011, publicada en el Diario Oficial No. 48.128 de 12 de julio de 2011.
 
-> [!info] Notas de Vigencia: Adicional a lo dispuesto en este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 33 Ley 1474 de 2011|33]] de la Ley 1474 de 2011, publicada en el Diario Oficial No. 48.128 de 12 de julio de 2011, el cual establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) 'ARTÍCULO 33 . CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA. Los tipos penales de que tratan los artículos 246 , ... de la Ley 599 de 2000 les será aumentada la pena de una sexta parte a la mitad cuando la conducta sea cometida por servidor público que ejerza como funcionario de alguno de los organismos de control del Estado.' - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. - Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Adicional a lo dispuesto en este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 33 Ley 1474 de 2011|33]] de la Ley 1474 de 2011, publicada en el Diario Oficial No. 48.128 de 12 de julio de 2011, el cual establece: (Por favor remitirse a la norma que se transcribe a continuación para comprobar la vigencia del texto original:) 'ARTÍCULO 33 . CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA. Los tipos penales de que tratan los artículos 246 , ... de la Ley 599 de 2000 les será aumentada la pena de una sexta parte a la mitad cuando la conducta sea cometida por servidor público que ejerza como funcionario de alguno de los organismos de control del Estado.' - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. - Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 ---
 ← [[art. 246 CP]] · ↑ [[CP - Libro Segundo - Título VII - Capítulo Tercero|Capítulo Tercero]] · [[art. 248 CP]] →

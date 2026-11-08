@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "125"
 titulo: "[[CPol - Título V|TÍTULO V - De la organización del Estado]]"
 capitulo: "[[CPol - Título V - Capítulo 2|CAPÍTULO 2 - De la función pública]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 6 Acto Legislativo 1 de 2003]]"
   - "[[art. 125 CPol]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título V|Título V]] › [[CPol - Título V - Capítulo 2|Capítulo 2]]

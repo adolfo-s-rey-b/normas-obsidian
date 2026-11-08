@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "80"
-epigrafe: "DE LA ADECUACIÓN DE ESTATUTOS"
+epigrafe: "De la Adecuación de Estatutos"
 rubro: "[[Ley 80 de 1993 - Ix. de las disposiciones varias|IX. DE LAS DISPOSICIONES VARIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 79 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ix. de las disposiciones varias|Ix. de las disposiciones varias]]
 
-## Artículo 80. DE LA ADECUACIÓN DE ESTATUTOS
+## Artículo 80. De la Adecuación de Estatutos
 
 Dentro de los seis (6) meses siguientes a la fecha de promulgación de la presente ley, las autoridades competentes adoptarán las medidas necesarias para adecuar los estatutos de las entidades estatales a lo dispuesto en esta ley.
 

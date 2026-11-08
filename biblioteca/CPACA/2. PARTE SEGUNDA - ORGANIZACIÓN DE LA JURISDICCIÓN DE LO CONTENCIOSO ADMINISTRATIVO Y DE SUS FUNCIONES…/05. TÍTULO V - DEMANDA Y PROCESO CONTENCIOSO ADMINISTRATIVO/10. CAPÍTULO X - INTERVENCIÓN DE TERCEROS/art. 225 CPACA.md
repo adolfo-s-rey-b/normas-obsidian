@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "225"
-epigrafe: "LLAMAMIENTO EN GARANTÍA"
+epigrafe: "Llamamiento en garantía"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]]
 
-## Artículo 225. LLAMAMIENTO EN GARANTÍA
+## Artículo 225. Llamamiento en garantía
 
 Quien afirme tener derecho legal o contractual de exigir a un tercero la reparación integral del perjuicio que llegare a sufrir, o el reembolso total o parcial del pago que tuviere que hacer como resultado de la sentencia, podrá pedir la citación de aquel, para que en el mismo proceso se resuelva sobre tal relación.
 

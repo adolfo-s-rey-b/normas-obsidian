@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "73"
-epigrafe: "INTEGRACION DE LOS CONSEJOS DE LOS ESTABLECIMIENTOS PUBLICOS Y DEBERES DE SUS MIEMBROS"
+epigrafe: "Integración de los consejos de los establecimientos públicos y deberes de sus miembros"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 72 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 73. INTEGRACION DE LOS CONSEJOS DE LOS ESTABLECIMIENTOS PUBLICOS Y DEBERES DE SUS MIEMBROS
+## Artículo 73. Integración de los consejos de los establecimientos públicos y deberes de sus miembros
 
 Los consejos directivos de los establecimientos públicos se integrarán en la forma que determine el respectivo acto de creación.
 

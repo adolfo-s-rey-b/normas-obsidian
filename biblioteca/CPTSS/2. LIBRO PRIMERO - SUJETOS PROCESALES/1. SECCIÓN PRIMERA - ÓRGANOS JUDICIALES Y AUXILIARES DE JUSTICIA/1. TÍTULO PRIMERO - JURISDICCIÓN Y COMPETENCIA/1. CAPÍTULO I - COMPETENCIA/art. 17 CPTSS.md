@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "17"
-epigrafe: "PRORROGABILIDAD E IMPRORROGABILIDAD DE LA JURISDICCIÓN Y LA COMPETENCIA"
+epigrafe: "Prorrogabilidad e improrrogabilidad de la jurisdicción y la competencia"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 17. PRORROGABILIDAD E IMPRORROGABILIDAD DE LA JURISDICCIÓN Y LA COMPETENCIA
+## Artículo 17. Prorrogabilidad e improrrogabilidad de la jurisdicción y la competencia
 
 La jurisdicción y la competencia por el factor funcional es improrrogable. Cuando se declare de oficio o a petición de parte, la falta de jurisdicción o la falta de competencia por el factor funcional, lo actuado conservará validez, salvo la sentencia que se hubiere proferido que será nula, y el proceso se enviará de inmediato al juez competente. Lo actuado con posterioridad a la declaratoria de falta de jurisdicción o de competencia será nulo.
 

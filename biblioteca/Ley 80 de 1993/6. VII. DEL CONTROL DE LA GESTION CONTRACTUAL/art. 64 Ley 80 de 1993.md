@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "64"
-epigrafe: "DE LA PARTICIPACIÓN DE LA FISCALÍA GENERAL DE LA NACIÓN"
+epigrafe: "De la Participación de la Fiscalía General de la Nación"
 rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 63 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
 
-## Artículo 64. DE LA PARTICIPACIÓN DE LA FISCALÍA GENERAL DE LA NACIÓN
+## Artículo 64. De la Participación de la Fiscalía General de la Nación
 
 La Fiscalía General de la Nación, de oficio o por denuncia, investigará las conductas constitutivas de hechos punibles en la actividad contractual y acusará a los presuntos infractores ante los jueces competentes.
 

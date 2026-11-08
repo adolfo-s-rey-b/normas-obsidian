@@ -13,7 +13,7 @@ articulo: "366-1"
 epigrafe: "FACULTAD PARA ESTABLECER RETENCIÓN EN LA FUENTE POR INGRESOS DEL EXTERIOR"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 7 Ley 6 de 1992]]"
   - "[[art. 105 Ley 488 de 1998]]"
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título I|Título I]]

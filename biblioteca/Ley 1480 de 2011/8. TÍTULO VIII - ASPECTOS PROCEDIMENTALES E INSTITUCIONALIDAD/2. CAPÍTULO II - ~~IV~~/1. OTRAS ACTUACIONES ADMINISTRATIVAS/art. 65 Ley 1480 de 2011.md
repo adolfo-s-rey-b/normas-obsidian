@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "65"
-epigrafe: "ARCHIVO DE EXPEDIENTES"
+epigrafe: "Archivo de Expedientes"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo II|CAPÍTULO II - ~~IV~~]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|OTRAS ACTUACIONES ADMINISTRATIVAS]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título VIII - Capítulo II - Otras actuaciones administrativas|Otras actuaciones administrativas]]
 
-## Artículo 65. ARCHIVO DE EXPEDIENTES
+## Artículo 65. Archivo de Expedientes
 
 En los trámites de cobro coactivo que adelanta la Superintendencia de Industria y Comercio archívense los expedientes correspondientes a cobros originados en las sanciones impuestas por violación a las disposiciones contenidas en el estatuto de protección al consumidor, cuya cuantía no exceda de 50 salarios mínimos mensuales legales vigentes, siempre que tengan al menos 5 años de vencidas. De la diligencia respectiva deberá ponerse en conocimiento a la Contraloría General de la Nación. El Contador General de la Nación dará instrucciones para contabilizar la operación.
 

@@ -19,8 +19,8 @@ tags:
 
 ### Contenido
 
-- [[art. 15 Ley 472 de 1998|Artículo 15]] — JURISDICCION
-- [[art. 16 Ley 472 de 1998|Artículo 16]] — COMPETENCIA
+- [[art. 15 Ley 472 de 1998|Artículo 15]] — Jurisdicción
+- [[art. 16 Ley 472 de 1998|Artículo 16]] — Competencia
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo II|Capítulo II]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo IV|Capítulo IV]] →

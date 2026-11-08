@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "104"
-epigrafe: "ORIENTACION Y LA FINALIDAD"
+epigrafe: "Orientación y la finalidad"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 103 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 104. ORIENTACION Y LA FINALIDAD
+## Artículo 104. Orientación y la finalidad
 
 El control administrativo que de acuerdo con la ley corresponde a los ministros y directores de los departamentos administrativos se orientará a constatar y asegurar que las actividades y funciones de los organismos y entidades que integran el respectivo sector administrativo se cumplan en armonía con las políticas gubernamentales, dentro de los principios de la presente ley y de conformidad con los planes y programas adoptados.
 

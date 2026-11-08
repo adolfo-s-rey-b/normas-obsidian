@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "39"
-epigrafe: "DE LA FORMA DEL CONTRATO ESTATAL"
+epigrafe: "De la Forma del Contrato Estatal"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 32 Ley 1150 de 2007]]"
 anterior: "[[art. 38 Ley 80 de 1993]]"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 39. DE LA FORMA DEL CONTRATO ESTATAL
+## Artículo 39. De la Forma del Contrato Estatal
 
 Los contratos que celebren las entidades estatales constarán por escrito y no requerirán ser elevados a escritura pública, con excepción de aquellos que impliquen mutación del dominio o imposición de gravámenes y servidumbres sobre bienes inmuebles y, en general, aquellos que conforme a las normas legales vigentes deban cumplir con dicha formalidad.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "35"
-epigrafe: "DE LA RADIODIFUSIÓN SONORA"
+epigrafe: "De la Radiodifusión Sonora"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
 vigencia: "derogado"
 derogado_por:
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 35. DE LA RADIODIFUSIÓN SONORA
+## Artículo 35. De la Radiodifusión Sonora
 
 > [!warning] Artículo derogado por el artículo [[art. 73 Ley 1341 de 2009|73]] de la Ley 1341 de 2009. Ver artículo [[art. 57 Ley 1341 de 2009|57]]
 

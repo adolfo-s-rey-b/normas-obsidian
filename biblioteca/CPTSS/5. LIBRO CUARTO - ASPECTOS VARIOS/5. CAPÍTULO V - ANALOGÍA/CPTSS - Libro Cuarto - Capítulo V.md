@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 327 CPTSS|Artículo 327]] — ANALOGÍA
+- [[art. 327 CPTSS|Artículo 327]] — Analogía
 
 ---
 ← [[CPTSS - Libro Cuarto - Capítulo IV|Capítulo IV]] · ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]] · [[CPTSS - Libro Cuarto - Capítulo VI|Capítulo VI]] →

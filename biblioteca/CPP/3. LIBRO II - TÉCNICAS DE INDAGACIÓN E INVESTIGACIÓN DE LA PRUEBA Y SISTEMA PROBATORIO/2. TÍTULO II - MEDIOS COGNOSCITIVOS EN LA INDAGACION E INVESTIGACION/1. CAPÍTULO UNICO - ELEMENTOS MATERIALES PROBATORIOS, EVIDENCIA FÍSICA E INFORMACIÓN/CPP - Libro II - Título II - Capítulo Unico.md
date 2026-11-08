@@ -23,17 +23,17 @@ tags:
 
 ### Contenido
 
-- [[art. 275 CPP|Artículo 275]] — ELEMENTOS MATERIALES PROBATORIOS Y EVIDENCIA FÍSICA
-- [[art. 276 CPP|Artículo 276]] — LEGALIDAD
-- [[art. 277 CPP|Artículo 277]] — AUTENTICIDAD
-- [[art. 278 CPP|Artículo 278]] — IDENTIFICACIÓN TÉCNICO CIENTÍFICA
-- [[art. 279 CPP|Artículo 279]] — ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA RECOGIDOS POR AGENTE ENCUBIERTO O POR AGENTE INFILTRADO
-- [[art. 280 CPP|Artículo 280]] — ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA RECOGIDOS EN DESARROLLO DE ENTREGA VIGILADA
-- [[art. 281 CPP|Artículo 281]] — ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA REMITIDOS DEL EXTRANJERO
-- [[art. 282 CPP|Artículo 282]] — INTERROGATORIO A INDICIADO
-- [[art. 283 CPP|Artículo 283]] — ACEPTACIÓN POR EL IMPUTADO
-- [[art. 284 CPP|Artículo 284]] — PRUEBA ANTICIPADA
-- [[art. 285 CPP|Artículo 285]] — CONSERVACIÓN DE LA PRUEBA ANTICIPADA
+- [[art. 275 CPP|Artículo 275]] — Elementos materiales probatorios y evidencia física
+- [[art. 276 CPP|Artículo 276]] — Legalidad
+- [[art. 277 CPP|Artículo 277]] — Autenticidad
+- [[art. 278 CPP|Artículo 278]] — Identificación técnico científica
+- [[art. 279 CPP|Artículo 279]] — Elemento material probatorio y evidencia física recogidos por agente encubierto o por agente infiltrado
+- [[art. 280 CPP|Artículo 280]] — Elemento material probatorio y evidencia física recogidos en desarrollo de entrega vigilada
+- [[art. 281 CPP|Artículo 281]] — Elemento material probatorio y evidencia física remitidos del extranjero
+- [[art. 282 CPP|Artículo 282]] — Interrogatorio a indiciado
+- [[art. 283 CPP|Artículo 283]] — Aceptación por el imputado
+- [[art. 284 CPP|Artículo 284]] — Prueba anticipada
+- [[art. 285 CPP|Artículo 285]] — Conservación de la prueba anticipada
 
 ---
 ↑ [[CPP - Libro II - Título II|Título II]]

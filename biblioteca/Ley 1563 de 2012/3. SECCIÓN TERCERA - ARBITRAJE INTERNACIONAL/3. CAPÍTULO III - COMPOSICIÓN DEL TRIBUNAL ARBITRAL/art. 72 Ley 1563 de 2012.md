@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "72"
-epigrafe: "NÚMERO DE ÁRBITROS"
+epigrafe: "Número de árbitros"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo III|CAPÍTULO III - COMPOSICIÓN DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]]
 
-## Artículo 72. NÚMERO DE ÁRBITROS
+## Artículo 72. Número de árbitros
 
 Las partes podrán determinar libremente el número de árbitros, que, en todo caso, será impar. A falta de tal acuerdo, los árbitros serán tres.
 

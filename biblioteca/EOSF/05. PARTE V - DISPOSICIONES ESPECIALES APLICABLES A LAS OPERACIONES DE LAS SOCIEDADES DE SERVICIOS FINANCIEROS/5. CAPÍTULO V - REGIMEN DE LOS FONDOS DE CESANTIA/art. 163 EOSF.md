@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "163"
-epigrafe: "INVERSIONES Y LIMITACIONES A LAS OPERACIONES"
+epigrafe: "Inversiones y Limitaciones a las Operaciones"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 163. INVERSIONES Y LIMITACIONES A LAS OPERACIONES
+## Artículo 163. Inversiones y Limitaciones a las Operaciones
 
 1\. Inversiones autorizadas. La Superintendencia de Valores podrá autorizar a las sociedades administradoras de fondos de cesantía para que inviertan un porcentaje de sus recursos en los títulos inscritos en el Registro Nacional de Valores que, en los casos previstos por la ley, emitan los empleadores o las organizaciones en que participen los trabajadores afiliados como cooperativas y fondos de empleados, entre otros.
 

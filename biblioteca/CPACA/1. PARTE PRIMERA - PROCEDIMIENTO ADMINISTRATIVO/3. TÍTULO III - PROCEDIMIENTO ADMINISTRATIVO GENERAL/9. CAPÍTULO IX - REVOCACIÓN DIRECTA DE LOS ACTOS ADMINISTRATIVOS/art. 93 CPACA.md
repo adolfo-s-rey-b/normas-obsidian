@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "93"
-epigrafe: "CAUSALES DE REVOCACIÓN"
+epigrafe: "Causales de revocación"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IX|CAPÍTULO IX - REVOCACIÓN DIRECTA DE LOS ACTOS ADMINISTRATIVOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IX|Capítulo IX]]
 
-## Artículo 93. CAUSALES DE REVOCACIÓN
+## Artículo 93. Causales de revocación
 
 Los actos administrativos deberán ser revocados por las mismas autoridades que los hayan expedido o por sus inmediatos superiores jerárquicos o funcionales, de oficio o a solicitud de parte, en cualquiera de los siguientes casos:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "27"
-epigrafe: "DESCUENTO POR REPARACIONES INDISPENSABLES NO LOCATIVAS"
+epigrafe: "Descuento por reparaciones indispensables no locativas"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 26 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 27. DESCUENTO POR REPARACIONES INDISPENSABLES NO LOCATIVAS
+## Artículo 27. Descuento por reparaciones indispensables no locativas
 
 En el caso previsto en el artículo [[art. 1993 CC|1993]] del Código Civil, salvo pacto en contrario entre las partes, el arrendatario podrá descontar el costo de las reparaciones del valor de la renta. Tales descuentos en ningún caso podrán exceder el treinta por ciento (30%) del valor de la misma; si el costo total de las reparaciones indispensables no locativas excede dicho porcentaje, el arrendatario podrá efectuar descuentos periódicos hasta el treinta por ciento (30%) del valor de la renta, hasta completar el costo total en que haya incurrido por dichas reparaciones.
 

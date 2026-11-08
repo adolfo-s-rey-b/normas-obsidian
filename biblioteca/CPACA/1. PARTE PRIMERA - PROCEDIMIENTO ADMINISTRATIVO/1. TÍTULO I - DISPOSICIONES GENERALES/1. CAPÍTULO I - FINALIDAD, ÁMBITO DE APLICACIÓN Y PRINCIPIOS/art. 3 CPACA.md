@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "3"
-epigrafe: "PRINCIPIOS"
+epigrafe: "Principios"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo I|CAPÍTULO I - FINALIDAD, ÁMBITO DE APLICACIÓN Y PRINCIPIOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 3. PRINCIPIOS
+## Artículo 3. Principios
 
 Todas las autoridades deberán interpretar y aplicar las disposiciones que regulan las actuaciones y procedimientos administrativos a la luz de los principios consagrados en la Constitución Política, en la Parte Primera de este Código y en las leyes especiales.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "13"
-epigrafe: "DELEGACION DEL EJERCICIO DE FUNCIONES PRESIDENCIALES"
+epigrafe: "Delegación del ejercicio de funciones presidenciales"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 13. DELEGACION DEL EJERCICIO DE FUNCIONES PRESIDENCIALES
+## Artículo 13. Delegación del ejercicio de funciones presidenciales
 
 Sin perjuicio de lo previsto en la Ley 142 de 1994 y en otras disposiciones especiales, el Presidente de la República podrá delegar en los ministros, directores de departamento administrativo, representantes legales de entidades descentralizadas, superintendentes, gobernadores, alcaldes y agencias del Estado el ejercicio de las funciones a que se refieren el artículo [[art. 129 CPol|129]] y los numerales 13, 18, 20, 21, 22, 23, 24, 26, 27 y 28 del artículo [[art. 189 CPol|189]] de la Constitución Política.
 

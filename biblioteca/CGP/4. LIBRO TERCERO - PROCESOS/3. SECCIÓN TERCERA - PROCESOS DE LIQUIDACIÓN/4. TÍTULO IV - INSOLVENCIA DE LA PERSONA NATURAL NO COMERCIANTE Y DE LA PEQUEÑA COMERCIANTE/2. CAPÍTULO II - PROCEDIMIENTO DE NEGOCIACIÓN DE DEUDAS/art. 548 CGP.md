@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "548"
-epigrafe: "COMUNICACIÓN DE LA ACEPTACIÓN"
+epigrafe: "Comunicación de la aceptación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 548. COMUNICACIÓN DE LA ACEPTACIÓN
+## Artículo 548. Comunicación de la aceptación
 
 A más tardar al día siguiente a aquel en que reciba la información actualizada de las acreencias por parte del deudor, el conciliador comunicará a todos los acreedores relacionados por el deudor la aceptación de la solicitud, adjuntando copia de la misma y de sus anexos, e indicándoles la fecha en que se llevará a cabo la audiencia de negociación de deudas.
 

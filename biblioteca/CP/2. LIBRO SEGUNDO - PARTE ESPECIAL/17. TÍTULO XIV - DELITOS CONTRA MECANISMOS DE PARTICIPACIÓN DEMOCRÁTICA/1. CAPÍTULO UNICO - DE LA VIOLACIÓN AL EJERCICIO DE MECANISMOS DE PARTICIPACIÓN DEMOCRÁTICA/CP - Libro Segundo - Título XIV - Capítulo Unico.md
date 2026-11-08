@@ -26,9 +26,9 @@ tags:
 - [[art. 386 CP|Artículo 386]] — Perturbación de certamen democratico
 - [[art. 387 CP|Artículo 387]] — Constreñimiento al sufragante
 - [[art. 388 CP|Artículo 388]] — Fraude al sufragante
-- [[art. 389 CP|Artículo 389]] — FRAUDE EN INSCRIPCIÓN DE CEDULAS
-- [[art. 389A CP|Artículo 389A]] — ELECCIÓN ILÍCITA DE CANDIDATOS
-- [[art. 390 CP|Artículo 390]] — CORRUPCIÓN DE SUFRAGANTE
+- [[art. 389 CP|Artículo 389]] — Fraude en inscripción de cedulas
+- [[art. 389A CP|Artículo 389A]] — Elección ilícita de candidatos
+- [[art. 390 CP|Artículo 390]] — Corrupción de sufragante
 - [[art. 390A CP|Artículo 390A]] — Tráfico de votos
 - [[art. 391 CP|Artículo 391]] — Voto fraudulento
 - [[art. 392 CP|Artículo 392]] — Favorecimiento de voto fraudulento

@@ -16,7 +16,6 @@ capitulo: "[[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|
 vigencia: "modificado"
 modificado_por:
   - "[[art. 38 Ley 1996 de 2019]]"
-  - "[[art. 52 CGP]]"
 anterior: "[[art. 395 CGP]]"
 siguiente: "[[art. 397 CGP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
@@ -86,7 +85,7 @@ ARTÍCULO 55 . PROCESOS DE INTERDICCIÓN O INHABILITACIÓN EN CURSO. Aquellos pr
 
 (subraya el editor)
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 38 Ley 1996 de 2019|38]] de la Ley 1996 de 2019, 'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019. Según lo dispuesto en el artículo [[art. 52 CGP|52]] , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 38 Ley 1996 de 2019|38]] de la Ley 1996 de 2019, 'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019. Según lo dispuesto en el artículo 52 , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-022-21 , mediante Sentencia C-118-21 de 29 de marzo de 2021, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado. - Ley 1996 de 2019 declarada EXEQUIBLE, por el cargo de reserva de ley estatutaria sobre la integralidad de la Ley, por la Corte Constitucional mediante Sentencia C-022-21 de 4 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 135 CPTSS|Artículo 135]] — PRUEBA TRASLADADA Y PRUEBA EXTRAPROCESAL
+- [[art. 135 CPTSS|Artículo 135]] — Prueba trasladada y prueba extraprocesal
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IV|Capítulo IV]] →

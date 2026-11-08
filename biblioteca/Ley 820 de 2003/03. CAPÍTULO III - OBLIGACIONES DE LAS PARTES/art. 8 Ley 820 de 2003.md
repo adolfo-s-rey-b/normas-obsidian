@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "8"
-epigrafe: "OBLIGACIONES DEL ARRENDADOR"
+epigrafe: "Obligaciones del arrendador"
 capitulo: "[[Ley 820 de 2003 - Capítulo III|CAPÍTULO III - OBLIGACIONES DE LAS PARTES]]"
 vigencia: "vigente"
 anterior: "[[art. 7 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo III|Capítulo III]]
 
-## Artículo 8. OBLIGACIONES DEL ARRENDADOR
+## Artículo 8. Obligaciones del arrendador
 
 Son obligaciones del arrendador, las siguientes:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "162"
-epigrafe: "REQUISITOS COMUNES"
+epigrafe: "Requisitos comunes"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo V|CAPÍTULO V - PROVIDENCIAS JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 162. REQUISITOS COMUNES
+## Artículo 162. Requisitos comunes
 
 Las sentencias y autos deberán cumplir con los siguientes requisitos:
 

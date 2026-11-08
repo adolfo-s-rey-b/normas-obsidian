@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "139"
-epigrafe: "DEBERES ESPECÍFICOS DE LOS JUECES"
+epigrafe: "Deberes específicos de los jueces"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título V|TÍTULO V - DEBERES Y PODERES DE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
 capitulo: "[[CPP - Libro I - Título V - Capítulo I|CAPÍTULO I - DE LOS DEBERES DE LOS SERVIDORES JUDICIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título V|Título V]] › [[CPP - Libro I - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 139. DEBERES ESPECÍFICOS DE LOS JUECES
+## Artículo 139. Deberes específicos de los jueces
 
 Sin perjuicio de lo establecido en el artículo anterior, constituyen deberes especiales de los jueces, en relación con el proceso penal, los siguientes:
 

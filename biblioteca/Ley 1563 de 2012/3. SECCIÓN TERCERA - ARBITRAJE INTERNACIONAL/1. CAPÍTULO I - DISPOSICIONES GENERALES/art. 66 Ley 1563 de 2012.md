@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "66"
-epigrafe: "RENUNCIA AL DERECHO A OBJETAR"
+epigrafe: "Renuncia al derecho a objetar"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]]
 
-## Artículo 66. RENUNCIA AL DERECHO A OBJETAR
+## Artículo 66. Renuncia al derecho a objetar
 
 La parte que prosiga el arbitraje conociendo que no se ha cumplido alguna disposición de la presente sección de la que las partes puedan apartarse o algún requisito del acuerdo de arbitraje y no exprese su objeción a tal incumplimiento tan pronto sea posible o, si se prevé un plazo para hacerlo, dentro de este, no podrá formular objeción alguna posteriormente.
 

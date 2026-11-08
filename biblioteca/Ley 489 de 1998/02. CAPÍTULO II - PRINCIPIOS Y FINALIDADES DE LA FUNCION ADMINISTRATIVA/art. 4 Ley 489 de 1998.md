@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "4"
-epigrafe: "FINALIDADES DE LA FUNCION ADMINISTRATIVA"
+epigrafe: "Finalidades de la función administrativa"
 capitulo: "[[Ley 489 de 1998 - Capítulo II|CAPÍTULO II - PRINCIPIOS Y FINALIDADES DE LA FUNCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 3 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo II|Capítulo II]]
 
-## Artículo 4. FINALIDADES DE LA FUNCION ADMINISTRATIVA
+## Artículo 4. Finalidades de la función administrativa
 
 La función administrativa del Estado busca la satisfacción de las necesidades generales de todos los habitantes, de conformidad con los principios, finalidades y cometidos consagrados en la Constitución Política.
 

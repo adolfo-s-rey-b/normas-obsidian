@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "323"
-epigrafe: "SEGURO DE DEPOSITOS"
+epigrafe: "Seguro de Depósitos"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 323. SEGURO DE DEPOSITOS
+## Artículo 323. Seguro de Depósitos
 
 La junta directiva del Fondo de Garantías de Instituciones Financieras podrá organizar el seguro de depósitos con base en los siguientes principios:
 

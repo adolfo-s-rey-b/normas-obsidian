@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "75"
-epigrafe: "IMPROCEDENCIA"
+epigrafe: "Improcedencia"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VI|CAPÍTULO VI - RECURSOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VI|Capítulo VI]]
 
-## Artículo 75. IMPROCEDENCIA
+## Artículo 75. Improcedencia
 
 No habrá recurso contra los actos de carácter general, ni contra los de trámite, preparatorios, o de ejecución excepto en los casos previstos en norma expresa.
 

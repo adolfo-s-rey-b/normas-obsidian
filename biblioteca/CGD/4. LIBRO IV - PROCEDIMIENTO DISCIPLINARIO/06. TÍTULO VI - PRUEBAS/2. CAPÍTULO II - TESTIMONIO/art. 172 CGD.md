@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "172"
-epigrafe: "EXAMEN SEPARADO DE TESTIGOS"
+epigrafe: "Examen separado de testigos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 172. EXAMEN SEPARADO DE TESTIGOS
+## Artículo 172. Examen separado de testigos
 
 Los testigos serán interrogados separadamente, de tal manera que no puedan saber ni escuchar las declaraciones de quienes les preceden.
 

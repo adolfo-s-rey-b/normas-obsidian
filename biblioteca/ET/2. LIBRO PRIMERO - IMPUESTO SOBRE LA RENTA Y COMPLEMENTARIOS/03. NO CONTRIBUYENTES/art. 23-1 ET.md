@@ -13,7 +13,7 @@ articulo: "23-1"
 epigrafe: "NO SON CONTRIBUYENTES LOS FONDOS DE CAPITAL PRIVADO, LOS FONDOS DE INVERSIÓN COLECTIVA Y OTROS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - No contribuyentes|NO CONTRIBUYENTES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 68 Ley 2010 de 2019]]"
   - "[[art. 60 Ley 1943 de 2018]]"
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - No contribuyentes|No contribuyentes]]

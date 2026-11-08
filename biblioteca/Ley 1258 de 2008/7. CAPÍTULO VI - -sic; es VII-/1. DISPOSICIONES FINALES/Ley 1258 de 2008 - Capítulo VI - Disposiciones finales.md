@@ -21,16 +21,16 @@ tags:
 
 ### Contenido
 
-- [[art. 37 Ley 1258 de 2008|Artículo 37]] — APROBACIÓN DE ESTADOS FINANCIEROS
-- [[art. 38 Ley 1258 de 2008|Artículo 38]] — SUPRESIÓN DE PROHIBICIONES
-- [[art. 39 Ley 1258 de 2008|Artículo 39]] — EXCLUSIÓN DE ACCIONISTAS
-- [[art. 40 Ley 1258 de 2008|Artículo 40]] — RESOLUCIÓN DE CONFLICTOS SOCIETARIOS
-- [[art. 41 Ley 1258 de 2008|Artículo 41]] — UNANIMIDAD PARA LA MODIFICACIÓN DE DISPOSICIONES ESTATUTARIAS
-- [[art. 42 Ley 1258 de 2008|Artículo 42]] — DESESTIMACIÓN DE LA PERSONALIDAD JURÍDICA
-- [[art. 43 Ley 1258 de 2008|Artículo 43]] — ABUSO DEL DERECHO
-- [[art. 44 Ley 1258 de 2008|Artículo 44]] — ATRIBUCIÓN DE FACULTADES JURISDICCIONALES
-- [[art. 45 Ley 1258 de 2008|Artículo 45]] — REMISIÓN
-- [[art. 46 Ley 1258 de 2008|Artículo 46]] — VIGENCIA Y DEROGATORIAS
+- [[art. 37 Ley 1258 de 2008|Artículo 37]] — Aprobación de estados financieros
+- [[art. 38 Ley 1258 de 2008|Artículo 38]] — Supresión de prohibiciones
+- [[art. 39 Ley 1258 de 2008|Artículo 39]] — Exclusión de accionistas
+- [[art. 40 Ley 1258 de 2008|Artículo 40]] — Resolución de conflictos societarios
+- [[art. 41 Ley 1258 de 2008|Artículo 41]] — Unanimidad para la modificación de disposiciones estatutarias
+- [[art. 42 Ley 1258 de 2008|Artículo 42]] — Desestimación de la personalidad jurídica
+- [[art. 43 Ley 1258 de 2008|Artículo 43]] — Abuso del derecho
+- [[art. 44 Ley 1258 de 2008|Artículo 44]] — Atribución de facultades jurisdiccionales
+- [[art. 45 Ley 1258 de 2008|Artículo 45]] — Remisión
+- [[art. 46 Ley 1258 de 2008|Artículo 46]] — Vigencia y derogatorias
 
 ---
 ↑ [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]]

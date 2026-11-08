@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "227"
-epigrafe: "RECURSO DE REPOSICIÓN"
+epigrafe: "Recurso de reposición"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 227. RECURSO DE REPOSICIÓN
+## Artículo 227. Recurso de reposición
 
 Procedencia, oportunidad y decisión. El recurso de reposición procederá contra los autos interlocutorios, proferidos por el juez o salas de decisión, excepto los que resuelvan un recurso de apelación o una queja. Tampoco será procedente el recurso de reposición contra el auto que decide el recurso, salvo que contenga puntos novedosos.
 

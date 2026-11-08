@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "211"
-epigrafe: "IMPARCIALIDAD DEL TESTIGO"
+epigrafe: "Imparcialidad del testigo"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 211. IMPARCIALIDAD DEL TESTIGO
+## Artículo 211. Imparcialidad del testigo
 
 Cualquiera de las partes podrá tachar el testimonio de las personas que se encuentren en circunstancias que afecten su credibilidad o imparcialidad, en razón de parentesco, dependencias, sentimientos o interés en relación con las partes o sus apoderados, antecedentes personales u otras causas.
 

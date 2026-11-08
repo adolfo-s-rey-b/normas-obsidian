@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "233"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 233. PROCEDENCIA
+## Artículo 233. Procedencia
 
 El recurso extraordinario de revisión procede contra las sentencias ejecutoriadas de la Sala Laboral de la Corte Suprema de Justicia, las salas laborales de los tribunales superiores, los jueces laborales del circuito y laborales municipales, dictadas en procesos ordinarios.
 

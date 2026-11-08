@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "85"
-epigrafe: "EXIGENCIA DE CAUCIÓN POR EL TRIBUNAL ARBITRAL"
+epigrafe: "Exigencia de caución por el tribunal arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 85. EXIGENCIA DE CAUCIÓN POR EL TRIBUNAL ARBITRAL
+## Artículo 85. Exigencia de caución por el tribunal arbitral
 
 El tribunal arbitral exigirá al peticionario de una orden preliminar que preste caución respecto de la orden, salvo que lo considere inapropiado o innecesario.
 

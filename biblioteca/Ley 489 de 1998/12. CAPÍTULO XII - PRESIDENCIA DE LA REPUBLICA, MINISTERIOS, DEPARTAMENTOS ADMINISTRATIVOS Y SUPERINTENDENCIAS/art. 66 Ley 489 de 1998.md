@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "66"
-epigrafe: "ORGANIZACION Y FUNCIONAMIENTO DE LAS SUPERINTENDENCIAS"
+epigrafe: "Organización y funcionamiento de las superintendencias"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 65 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 66. ORGANIZACION Y FUNCIONAMIENTO DE LAS SUPERINTENDENCIAS
+## Artículo 66. Organización y funcionamiento de las superintendencias
 
 Las superintendencias son organismos creados por la ley, con la autonomía administrativa y financiera que aquella les señale, sin personería jurídica, que cumplen funciones de inspección y vigilancia atribuidas por la ley o mediante delegación que haga el Presidente de la República previa autorización legal.
 

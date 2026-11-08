@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "451"
-epigrafe: "DEPÓSITO PARA HACER POSTURA"
+epigrafe: "Depósito para hacer postura"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 451. DEPÓSITO PARA HACER POSTURA
+## Artículo 451. Depósito para hacer postura
 
 Todo el que pretenda hacer postura en la subasta deberá consignar previamente en dinero, a órdenes del juzgado, el cuarenta por ciento (40%) del avalúo del respectivo bien, y podrá hacer postura dentro de los cinco (5) días anteriores al remate o en la oportunidad señalada en el artículo siguiente. Las ofertas serán reservadas y permanecerán bajo custodia del juez. No será necesaria la presencia en la subasta, de quien hubiere hecho oferta dentro de ese plazo.
 

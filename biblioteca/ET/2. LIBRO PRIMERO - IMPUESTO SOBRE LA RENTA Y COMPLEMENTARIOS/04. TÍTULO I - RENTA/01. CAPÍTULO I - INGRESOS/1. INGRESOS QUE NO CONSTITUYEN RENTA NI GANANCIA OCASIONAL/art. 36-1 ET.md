@@ -15,7 +15,7 @@ libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMEN
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
 rubro: "[[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|INGRESOS QUE NO CONSTITUYEN RENTA NI GANANCIA OCASIONAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 4 Ley 49 de 1990]]"
   - "[[art. 16 Ley 2277 de 2022]]"
@@ -40,7 +40,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]

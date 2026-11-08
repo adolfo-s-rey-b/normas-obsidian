@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "40"
-epigrafe: "EL COMPONENTE INFLACIONARIO EN RENDIMIENTOS FINANCIEROS PERCIBIDOS POR LOS DEMAS CONTRIBUYENTES"
+epigrafe: "EL COMPONENTE INFLACIONARIO EN RENDIMIENTOS FINANCIEROS PERCIBIDOS POR LOS DEMÁS CONTRIBUYENTES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -37,7 +37,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]
 
-## Artículo 40. EL COMPONENTE INFLACIONARIO EN RENDIMIENTOS FINANCIEROS PERCIBIDOS POR LOS DEMAS CONTRIBUYENTES
+## Artículo 40. EL COMPONENTE INFLACIONARIO EN RENDIMIENTOS FINANCIEROS PERCIBIDOS POR LOS DEMÁS CONTRIBUYENTES
 
 No constituye renta ni ganancia ocasional el componente inflacionario de los rendimientos financieros percibidos por los contribuyentes distintos de las personas naturales, en el porcentaje que se indica a continúación:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "36"
-epigrafe: "INTEGRACIÓN DEL CONTRADICTORIO"
+epigrafe: "Integración del contradictorio"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo III|CAPÍTULO III - INTEGRACIÓN DEL CONTRADICTORIO, OTRAS PARTES Y TERCEROS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo III|Capítulo III]]
 
-## Artículo 36. INTEGRACIÓN DEL CONTRADICTORIO
+## Artículo 36. Integración del contradictorio
 
 Cuando por la naturaleza de la relación jurídica debatida en el proceso, el laudo haya de generar efectos de cosa juzgada para personas que no estipularon el pacto arbitral, el tribunal ordenará la citación personal de todas ellas para que manifiesten si adhieren o no al pacto. La notificación personal de la providencia que así lo ordene, se llevará a cabo dentro de los diez (10) días siguientes a la fecha de su decreto.
 

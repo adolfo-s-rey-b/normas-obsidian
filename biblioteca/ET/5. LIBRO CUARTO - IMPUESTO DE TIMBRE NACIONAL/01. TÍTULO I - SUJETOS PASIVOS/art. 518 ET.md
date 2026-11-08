@@ -13,7 +13,7 @@ articulo: "518"
 epigrafe: "AGENTES DE RETENCIÓN"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título I|TÍTULO I - SUJETOS PASIVOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 35 Ley 6 de 1992]]"
   - "[[art. 109 Ley 633 de 2000]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título I|Título I]]
@@ -51,7 +51,7 @@ Deberán responder como agentes de retención, a más de los que señale el regl
 
 4\. Los agentes diplomáticos del Gobierno Colombiano, por los documentos otorgados en el exterior.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

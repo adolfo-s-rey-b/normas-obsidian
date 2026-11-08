@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "35"
-epigrafe: "PENAS PRINCIPALES"
+epigrafe: "Penas principales"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 35. PENAS PRINCIPALES
+## Artículo 35. Penas principales
 
 Son penas principales la privativa de la libertad de prisión; ~~la prisión perpetua revisable~~; la pecuniaria de multa y las demás privativas de otros derechos que como tal se consagran en la parte especial.
 

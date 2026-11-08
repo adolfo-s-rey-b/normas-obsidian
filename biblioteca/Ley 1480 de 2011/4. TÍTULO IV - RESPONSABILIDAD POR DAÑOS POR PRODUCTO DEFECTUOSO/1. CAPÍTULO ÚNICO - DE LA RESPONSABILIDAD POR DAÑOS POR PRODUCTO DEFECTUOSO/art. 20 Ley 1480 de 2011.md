@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "20"
-epigrafe: "RESPONSABILIDAD POR DAÑO POR PRODUCTO DEFECTUOSO"
+epigrafe: "Responsabilidad por daño por producto defectuoso"
 titulo: "[[Ley 1480 de 2011 - Título IV|TÍTULO IV - RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO]]"
 capitulo: "[[Ley 1480 de 2011 - Título IV - Capítulo Único|CAPÍTULO ÚNICO - DE LA RESPONSABILIDAD POR DAÑOS POR PRODUCTO DEFECTUOSO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IV|Título IV]] › [[Ley 1480 de 2011 - Título IV - Capítulo Único|Capítulo Único]]
 
-## Artículo 20. RESPONSABILIDAD POR DAÑO POR PRODUCTO DEFECTUOSO
+## Artículo 20. Responsabilidad por daño por producto defectuoso
 
 El productor y el expendedor serán solidariamente responsables de los daños causados por los defectos de sus productos, sin perjuicio de las acciones de repetición a que haya lugar. Para efectos de este artículo, cuando no se indique expresamente quién es el productor, se presumirá como tal quien coloque su nombre, marca o cualquier otro signo o distintivo en el producto.
 

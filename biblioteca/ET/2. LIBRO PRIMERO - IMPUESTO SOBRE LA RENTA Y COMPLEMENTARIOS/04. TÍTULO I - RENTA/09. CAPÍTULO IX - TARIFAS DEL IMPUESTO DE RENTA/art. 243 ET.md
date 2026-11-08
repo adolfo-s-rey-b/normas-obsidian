@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "243"
-epigrafe: "DESTINACIÓN ESPECÍFICA"
+epigrafe: "Destinación específica"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo IX|CAPÍTULO IX - TARIFAS DEL IMPUESTO DE RENTA]]"
@@ -37,7 +37,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo IX|Capítulo IX]]
 
-## Artículo 243. DESTINACIÓN ESPECÍFICA
+## Artículo 243. Destinación específica
 
 A partir del periodo gravable 2017, 9 puntos porcentuales (9%) de la tarifa del Impuesto sobre la Renta y Complementarios de las personas jurídicas, se destinarán así:
 

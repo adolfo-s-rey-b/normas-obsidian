@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "391"
-epigrafe: "DEMANDA Y CONTESTACIÓN"
+epigrafe: "Demanda y contestación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 391. DEMANDA Y CONTESTACIÓN
+## Artículo 391. Demanda y contestación
 
 El proceso verbal sumario se promoverá por medio de demanda que contendrá los requisitos establecidos en el artículo [[art. 82 CGP|82]] y siguientes.
 

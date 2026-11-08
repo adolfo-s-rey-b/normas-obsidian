@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "27"
-epigrafe: "PACTO DE CUMPLIMIENTO"
+epigrafe: "Pacto de Cumplimiento"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VII|CAPÍTULO VII - PACTO DE CUMPLIMIENTO]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VII|Capítulo VII]]
 
-## Artículo 27. PACTO DE CUMPLIMIENTO
+## Artículo 27. Pacto de Cumplimiento
 
 > [!note] Artículo CONDICIONALMENTE EXEQUIBLE
 

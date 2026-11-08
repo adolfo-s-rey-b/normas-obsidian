@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "320"
-epigrafe: "INTERRUPCIÓN DEL DEUDOR"
+epigrafe: "Interrupción del deudor"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 320. INTERRUPCIÓN DEL DEUDOR
+## Artículo 320. Interrupción del deudor
 
 Se interrumpe naturalmente por el hecho de reconocer el deudor la obligación expresa o tácitamente.
 

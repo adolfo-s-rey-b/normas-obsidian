@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "55"
-epigrafe: "ASPECTOS GENERALES DE LA FUSION"
+epigrafe: "Aspectos Generales de la Fusión"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 55. ASPECTOS GENERALES DE LA FUSION
+## Artículo 55. Aspectos Generales de la Fusión
 
 1\. Campo de aplicación. La fusión de entidades financieras o aseguradoras vigiladas por la Superintendencia Bancaria se regirá por las normas especiales contenidas en este capítulo. En lo no previsto, se aplicarán las demás normas de carácter especial y lo dispuesto en el Código de Comercio y en la Ley 79 de 1988, según el caso.
 

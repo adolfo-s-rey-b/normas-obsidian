@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 331 CGP|Artículo 331]] — PROCEDENCIA Y OPORTUNIDAD PARA PROPONERLA
-- [[art. 332 CGP|Artículo 332]] — TRÁMITE
+- [[art. 331 CGP|Artículo 331]] — Procedencia y oportunidad para proponerla
+- [[art. 332 CGP|Artículo 332]] — Trámite
 
 ---
 ← [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]] →

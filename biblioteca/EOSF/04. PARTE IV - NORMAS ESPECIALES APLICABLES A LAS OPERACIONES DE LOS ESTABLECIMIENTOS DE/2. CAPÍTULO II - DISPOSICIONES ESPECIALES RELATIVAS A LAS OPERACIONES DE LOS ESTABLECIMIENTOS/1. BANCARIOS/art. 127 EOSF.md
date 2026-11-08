@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "127"
-epigrafe: "CONDICIONES DE LOS DEPOSITOS DE AHORROS"
+epigrafe: "Condiciones de los Depósitos de Ahorros"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 127. CONDICIONES DE LOS DEPOSITOS DE AHORROS
+## Artículo 127. Condiciones de los Depósitos de Ahorros
 
 1\. Libertad para el recibo de depósitos. Todo establecimiento bancario podrá limitar la cantidad que un individuo o asociación pueda depositar en su sección de ahorros, a la suma que estime conveniente, y podrá también, a su arbitrio, negarse a recibir un depósito o devolverlo en cualquier tiempo total o parcialmente.
 

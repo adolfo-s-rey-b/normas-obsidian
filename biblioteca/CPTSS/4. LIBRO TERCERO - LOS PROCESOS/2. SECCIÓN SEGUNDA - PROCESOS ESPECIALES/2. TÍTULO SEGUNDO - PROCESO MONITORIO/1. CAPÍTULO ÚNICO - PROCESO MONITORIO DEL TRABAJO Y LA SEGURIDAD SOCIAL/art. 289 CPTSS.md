@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "289"
-epigrafe: "CONTESTACIÓN"
+epigrafe: "Contestación"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|TÍTULO SEGUNDO - PROCESO MONITORIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|Título Segundo]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo - Capítulo Único|Capítulo Único]]
 
-## Artículo 289. CONTESTACIÓN
+## Artículo 289. Contestación
 
 La contestación del requerimiento deberá incluir:
 

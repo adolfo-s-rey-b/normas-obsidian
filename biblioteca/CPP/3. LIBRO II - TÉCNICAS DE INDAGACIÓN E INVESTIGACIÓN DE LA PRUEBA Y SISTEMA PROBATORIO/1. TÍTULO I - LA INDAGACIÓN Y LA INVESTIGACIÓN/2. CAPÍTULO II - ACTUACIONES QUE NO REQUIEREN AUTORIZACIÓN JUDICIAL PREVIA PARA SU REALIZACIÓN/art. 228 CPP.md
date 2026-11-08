@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "228"
-epigrafe: "DEVOLUCIÓN DE LA ORDEN Y CADENA DE CUSTODIA"
+epigrafe: "Devolución de la orden y cadena de custodia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 228. DEVOLUCIÓN DE LA ORDEN Y CADENA DE CUSTODIA
+## Artículo 228. Devolución de la orden y cadena de custodia
 
 Terminada la diligencia de registro y allanamiento, dentro del término de la distancia, sin sobrepasar las doce (12) horas siguientes, la policía judicial informará al fiscal que expidió la orden los pormenores del operativo y, en caso de haber ocupado o incautado objetos, en el mismo término le remitirá el inventario correspondiente pero será de aquella la custodia de los bienes incautados u ocupados.
 

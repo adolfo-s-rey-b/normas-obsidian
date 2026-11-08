@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "138"
-epigrafe: "NULIDAD Y RESTABLECIMIENTO DEL DERECHO"
+epigrafe: "Nulidad y restablecimiento del derecho"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 138. NULIDAD Y RESTABLECIMIENTO DEL DERECHO
+## Artículo 138. Nulidad y restablecimiento del derecho
 
 Toda persona que se crea lesionada en un derecho subjetivo amparado en una norma jurídica, podrá pedir que se declare la nulidad del acto administrativo particular, expreso o presunto, y se le restablezca el derecho; también podrá solicitar que se le repare el daño. La nulidad procederá por las mismas causales establecidas en el inciso segundo del artículo anterior.
 

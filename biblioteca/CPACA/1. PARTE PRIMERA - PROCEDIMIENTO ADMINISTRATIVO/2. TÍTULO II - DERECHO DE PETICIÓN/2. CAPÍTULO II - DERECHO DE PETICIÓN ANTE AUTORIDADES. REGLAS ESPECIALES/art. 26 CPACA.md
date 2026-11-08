@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "26"
-epigrafe: "INSISTENCIA DEL SOLICITANTE EN CASO DE RESERVA"
+epigrafe: "Insistencia del solicitante en caso de reserva"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 26. INSISTENCIA DEL SOLICITANTE EN CASO DE RESERVA
+## Artículo 26. Insistencia del solicitante en caso de reserva
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

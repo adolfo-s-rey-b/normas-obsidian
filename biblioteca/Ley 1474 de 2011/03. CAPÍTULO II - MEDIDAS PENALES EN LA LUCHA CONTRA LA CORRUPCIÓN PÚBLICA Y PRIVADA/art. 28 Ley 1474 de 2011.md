@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "28"
-epigrafe: "TRÁFICO DE INFLUENCIAS DE PARTICULAR"
+epigrafe: "Tráfico de influencias de particular"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 27 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 28. TRÁFICO DE INFLUENCIAS DE PARTICULAR
+## Artículo 28. Tráfico de influencias de particular
 
 La Ley 599 de 2000 tendrá un artículo [[art. 411A CP|411A]], el cual quedará así:
 

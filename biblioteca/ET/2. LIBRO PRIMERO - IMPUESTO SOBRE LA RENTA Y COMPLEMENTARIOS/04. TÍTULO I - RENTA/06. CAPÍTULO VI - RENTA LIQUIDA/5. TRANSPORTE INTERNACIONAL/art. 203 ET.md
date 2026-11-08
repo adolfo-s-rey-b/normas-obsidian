@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "203"
-epigrafe: "DETERMINACIÓN DE LA RENTA LIQUIDA"
+epigrafe: "DETERMINACIÓN DE LA RENTA LÍQUIDA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VI|CAPÍTULO VI - RENTA LIQUIDA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]] › [[ET - Libro Primero - Título I - Capítulo VI - Transporte internacional|Transporte internacional]]
 
-## Artículo 203. DETERMINACIÓN DE LA RENTA LIQUIDA
+## Artículo 203. DETERMINACIÓN DE LA RENTA LÍQUIDA
 
 (Fuente original compilada: D. 2348/74 Art. [[art. 10 ET|10]]) Las rentas provenientes del transporte aéreo, marítimo, terrestre y fluvial obtenidas por sociedades extranjeras o personas naturales no residentes que presten en forma regular el servicio de transporte entre lugares colombianos y extranjeros, son rentas mixtas.
 

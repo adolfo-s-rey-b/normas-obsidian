@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "106"
-epigrafe: "CORRECCIÓN Y ACLARACIÓN DEL LAUDO Y LAUDO ADICIONAL"
+epigrafe: "Corrección y aclaración del laudo y laudo adicional"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|CAPÍTULO VII - PRONUNCIAMIENTO DEL LAUDO Y TERMINACIÓN DE LAS ACTUACIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|Capítulo VII]]
 
-## Artículo 106. CORRECCIÓN Y ACLARACIÓN DEL LAUDO Y LAUDO ADICIONAL
+## Artículo 106. Corrección y aclaración del laudo y laudo adicional
 
 Dentro del mes siguiente a la notificación del laudo, salvo que las partes hayan acordado otro plazo:
 

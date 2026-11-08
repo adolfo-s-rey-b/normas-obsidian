@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "139"
-epigrafe: "TRAMITE"
+epigrafe: "Trámite"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título II|TÍTULO II - DE LA SUPERINTENDENCIA DE SOCIEDADES]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1|CAPÍTULO 1 - IMPUGNACION DE DECISIONES]]"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título II|Título II]] › [[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1|Capítulo 1]] › [[Ley 446 de 1998 - Parte IV - Título II - Capítulo 1 - Sección 1|Sección 1]]
 
-## Artículo 139. TRAMITE
+## Artículo 139. Trámite
 
 Del escrito correspondiente se dará traslado a los demás asociados por conducto del representante legal de la sociedad, por el término de diez (10) días, dentro del cual podrán controvertir los fundamentos contenidos en la petición y aportar o solicitar las pruebas que consideren necesarias. Cuando los asociados sean más de cien (100), se publicará copia de la solicitud en un diario de circulación nacional.
 

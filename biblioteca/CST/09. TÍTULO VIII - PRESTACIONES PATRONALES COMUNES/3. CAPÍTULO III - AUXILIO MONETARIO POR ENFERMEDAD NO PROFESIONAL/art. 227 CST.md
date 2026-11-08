@@ -11,7 +11,7 @@ articulo: "227"
 epigrafe: "VALOR DE AUXILIO"
 titulo: "[[CST - Título VIII|TÍTULO VIII - PRESTACIONES PATRONALES COMUNES]]"
 capitulo: "[[CST - Título VIII - Capítulo III|CAPÍTULO III - AUXILIO MONETARIO POR ENFERMEDAD NO PROFESIONAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 227 CST]]"
   - "[[art. 48 CPol]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título VIII|Título VIII]] › [[CST - Título VIII - Capítulo III|Capítulo III]]

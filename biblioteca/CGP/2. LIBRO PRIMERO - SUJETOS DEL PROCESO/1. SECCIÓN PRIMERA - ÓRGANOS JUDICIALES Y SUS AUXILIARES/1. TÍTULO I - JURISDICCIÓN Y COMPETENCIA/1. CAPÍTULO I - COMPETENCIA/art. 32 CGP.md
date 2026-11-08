@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "32"
-epigrafe: "COMPETENCIA DE LAS SALAS DE FAMILIA DE LOS TRIBUNALES SUPERIORES"
+epigrafe: "Competencia de las salas de familia de los tribunales superiores"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 32. COMPETENCIA DE LAS SALAS DE FAMILIA DE LOS TRIBUNALES SUPERIORES
+## Artículo 32. Competencia de las salas de familia de los tribunales superiores
 
 Los tribunales superiores de distrito judicial conocen, en sala de familia:
 

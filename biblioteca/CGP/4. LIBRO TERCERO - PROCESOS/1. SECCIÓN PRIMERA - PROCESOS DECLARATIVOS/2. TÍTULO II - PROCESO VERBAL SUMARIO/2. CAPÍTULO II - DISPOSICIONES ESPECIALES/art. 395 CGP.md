@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "395"
-epigrafe: "PRIVACIÓN, SUSPENSIÓN Y RESTABLECIMIENTO DE LA PATRIA POTESTAD, REMOCIÓN DEL GUARDADOR Y PRIVACIÓN DE LA ADMINISTRACIÓN DE LOS BIENES DEL HIJO"
+epigrafe: "Privación, suspensión y restablecimiento de la patria potestad, remoción del guardador y privación de la administración de los bienes del hijo"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 395. PRIVACIÓN, SUSPENSIÓN Y RESTABLECIMIENTO DE LA PATRIA POTESTAD, REMOCIÓN DEL GUARDADOR Y PRIVACIÓN DE LA ADMINISTRACIÓN DE LOS BIENES DEL HIJO
+## Artículo 395. Privación, suspensión y restablecimiento de la patria potestad, remoción del guardador y privación de la administración de los bienes del hijo
 
 Cuando el juez haya de promover de oficio un proceso sobre privación, suspensión o restablecimiento de la patria potestad, o remoción del guardador, dictará un auto en que exponga los hechos en que se fundamenta y la finalidad que se propone, de cuyo contenido dará traslado a la persona contra quien haya de seguirse el proceso, en la forma indicada en el artículo [[art. 91 CGP|91]].
 

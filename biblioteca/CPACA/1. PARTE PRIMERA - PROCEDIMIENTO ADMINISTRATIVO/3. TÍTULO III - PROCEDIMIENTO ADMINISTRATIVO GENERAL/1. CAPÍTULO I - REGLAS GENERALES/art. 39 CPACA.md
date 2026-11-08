@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "39"
-epigrafe: "CONFLICTOS DE COMPETENCIA ADMINISTRATIVA"
+epigrafe: "Conflictos de competencia administrativa"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 39. CONFLICTOS DE COMPETENCIA ADMINISTRATIVA
+## Artículo 39. Conflictos de competencia administrativa
 
 Los conflictos de competencia administrativa se promoverán de oficio o por solicitud de la persona interesada. La autoridad que se considere incompetente remitirá la actuación a la que estime competente; si esta también se declara incompetente, remitirá inmediatamente la actuación a la Sala de Consulta y Servicio Civil del Consejo de Estado en relación con autoridades del orden nacional o al Tribunal Administrativo correspondiente en relación con autoridades del orden departamental, distrital o municipal. En caso de que el conflicto involucre autoridades nacionales y territoriales, o autoridades territoriales de distintos departamentos, conocerá la Sala de Consulta y Servicio Civil del Consejo de Estado.
 

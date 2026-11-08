@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "112"
-epigrafe: "DERECHOS DEL DISCIPLINADO"
+epigrafe: "Derechos del disciplinado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IV|TÍTULO IV - SUJETOS PROCESALES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IV|Título IV]]
 
-## Artículo 112. DERECHOS DEL DISCIPLINADO
+## Artículo 112. Derechos del disciplinado
 
 Como sujeto procesal, el disciplinado tiene los siguientes derechos:
 

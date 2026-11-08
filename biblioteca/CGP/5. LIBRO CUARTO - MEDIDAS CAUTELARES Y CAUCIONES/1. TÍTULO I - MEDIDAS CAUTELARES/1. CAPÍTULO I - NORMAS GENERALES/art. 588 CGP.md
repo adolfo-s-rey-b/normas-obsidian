@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "588"
-epigrafe: "PRONUNCIAMIENTO Y COMUNICACIÓN SOBRE MEDIDAS CAUTELARES"
+epigrafe: "Pronunciamiento y comunicación sobre medidas cautelares"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 588. PRONUNCIAMIENTO Y COMUNICACIÓN SOBRE MEDIDAS CAUTELARES
+## Artículo 588. Pronunciamiento y comunicación sobre medidas cautelares
 
 Cuando la solicitud de medidas cautelares se haga por fuera de audiencia, el juez resolverá, a más tardar, al día siguiente del reparto o a la presentación de la solicitud.
 

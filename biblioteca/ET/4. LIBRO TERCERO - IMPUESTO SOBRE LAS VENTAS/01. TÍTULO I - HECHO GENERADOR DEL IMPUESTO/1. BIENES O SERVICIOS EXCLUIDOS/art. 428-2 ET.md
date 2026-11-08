@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "428-2"
-epigrafe: "EFECTOS TRIBUTARIOS DE LA FUSION Y ESCISION DE SOCIEDADES"
+epigrafe: "EFECTOS TRIBUTARIOS DE LA FUSIÓN Y ESCISIÓN DE SOCIEDADES"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título I|TÍTULO I - HECHO GENERADOR DEL IMPUESTO]]"
 rubro: "[[ET - Libro Tercero - Título I - Bienes o servicios excluidos|BIENES O SERVICIOS EXCLUIDOS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título I|Título I]] › [[ET - Libro Tercero - Título I - Bienes o servicios excluidos|Bienes o servicios excluidos]]
 
-## Artículo 428-2. EFECTOS TRIBUTARIOS DE LA FUSION Y ESCISION DE SOCIEDADES
+## Artículo 428-2. EFECTOS TRIBUTARIOS DE LA FUSIÓN Y ESCISIÓN DE SOCIEDADES
 
 Lo dispuesto en los artículos [[art. 319 ET|319]] , [[art. 319-3 ET|319-3]] y [[art. 319-5 ET|319-5]] de este Estatuto, es igualmente válido en materia del impuesto sobre las ventas.
 

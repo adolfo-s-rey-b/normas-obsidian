@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "832"
-epigrafe: "TRAMITE DE EXCEPCIONES"
+epigrafe: "TRÁMITE DE EXCEPCIONES"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VIII|TÍTULO VIII - COBRO COACTIVO]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VIII|Título VIII]]
 
-## Artículo 832. TRAMITE DE EXCEPCIONES
+## Artículo 832. TRÁMITE DE EXCEPCIONES
 
 Dentro del mes siguiente a la presentación del escrito mediante el cual se proponen las excepciones, el funcionario competente decidirá sobre ellas, ordenando previamente la práctica de las pruebas, cuando sea del caso.
 

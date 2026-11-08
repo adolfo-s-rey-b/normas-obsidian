@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "303"
-epigrafe: "CLÁUSULA COMPROMISORIA Y COMPROMISO"
+epigrafe: "Cláusula compromisoria y compromiso"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|TÍTULO QUINTO - ARBITRAMENTO JURÍDICO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto - Capítulo Único|Capítulo Único]]
 
-## Artículo 303. CLÁUSULA COMPROMISORIA Y COMPROMISO
+## Artículo 303. Cláusula compromisoria y compromiso
 
 La cláusula compromisoria sólo tendrá validez cuando conste en acuerdo colectivo, y el compromiso cuando conste en cualquier otro documento otorgado por las partes con posterioridad al surgimiento de la controversia. En el evento en que el trabajador no tenga la capacidad de atender los gastos que genere el trámite arbitral, podrá invocar el amparo de pobreza.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "131"
-epigrafe: "OPORTUNIDAD PARA INTERPONER LOS RECURSOS"
+epigrafe: "Oportunidad para interponer los recursos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 131. OPORTUNIDAD PARA INTERPONER LOS RECURSOS
+## Artículo 131. Oportunidad para interponer los recursos
 
 Los recursos de reposición y apelación se podrán interponer desde la fecha de expedición de la decisión hasta el vencimiento de los cinco (5) días siguientes a la notificación respectiva.
 

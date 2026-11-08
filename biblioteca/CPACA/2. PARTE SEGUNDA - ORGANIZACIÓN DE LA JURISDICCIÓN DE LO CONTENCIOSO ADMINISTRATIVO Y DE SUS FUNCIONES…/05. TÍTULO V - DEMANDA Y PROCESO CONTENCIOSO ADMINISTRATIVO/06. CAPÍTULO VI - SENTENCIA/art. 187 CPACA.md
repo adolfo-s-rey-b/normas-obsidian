@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "187"
-epigrafe: "CONTENIDO DE LA SENTENCIA"
+epigrafe: "Contenido de la sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - SENTENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VI|Capítulo VI]]
 
-## Artículo 187. CONTENIDO DE LA SENTENCIA
+## Artículo 187. Contenido de la sentencia
 
 La sentencia tiene que ser motivada. En ella se hará un breve resumen de la demanda y de su contestación y un análisis crítico de las pruebas y de los razonamientos legales, de equidad y doctrinarios estrictamente necesarios para fundamentar las conclusiones, exponiéndolos con brevedad y precisión y citando los textos legales que se apliquen.
 

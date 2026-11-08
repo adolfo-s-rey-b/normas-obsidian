@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "272"
-epigrafe: "DESCONOCIMIENTO DEL DOCUMENTO"
+epigrafe: "Desconocimiento del documento"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 272. DESCONOCIMIENTO DEL DOCUMENTO
+## Artículo 272. Desconocimiento del documento
 
 En la oportunidad para formular la tacha de falsedad la parte a quien se atribuya un documento no firmado, ni manuscrito por ella podrá desconocerlo, expresando los motivos del desconocimiento. La misma regla se aplicará a los documentos dispositivos y representativos emanados de terceros.
 
@@ -44,7 +44,7 @@ Si no se establece la autenticidad del documento desconocido carecerá de eficac
 
 El desconocimiento no procede respecto de las reproducciones de la voz o de la imagen de la parte contra la cual se aducen, ni de los documentos suscritos o manuscritos por dicha parte, respecto de los cuales deberá presentarse la tacha y probarse por quien la alega.
 
-> [!note] Notas de Vigencia: Establece el artículo [[art. 91 Ley 1676 de 2013|91]] de la Ley 1676 de 2013, 'por la cual se promueve el acceso al crédito y se dictan normas sobre garantías mobiliarias', publicada en el Diario Oficial No. 48.888 de 20 de agosto de 2013. Entrá en vigencia seis (6) meses después de su promulgación: '...Los artículos [[art. 269 CGP|269]] al [[art. 274 CGP|274]] y [[art. 468 CGP|468]] entrarán en vigencia para los efectos de esta ley y en la fecha de su promulgación.'
+> [!note] Notas de Vigencia: Establece el artículo [[art. 91 Ley 1676 de 2013|91]] de la Ley 1676 de 2013, 'por la cual se promueve el acceso al crédito y se dictan normas sobre garantías mobiliarias', publicada en el Diario Oficial No. 48.888 de 20 de agosto de 2013. Entrá en vigencia seis (6) meses después de su promulgación: '...Los artículos 269 al 274 y 468 entrarán en vigencia para los efectos de esta ley y en la fecha de su promulgación.'
 
 ---
 ← [[art. 271 CGP]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]] · [[art. 273 CGP]] →

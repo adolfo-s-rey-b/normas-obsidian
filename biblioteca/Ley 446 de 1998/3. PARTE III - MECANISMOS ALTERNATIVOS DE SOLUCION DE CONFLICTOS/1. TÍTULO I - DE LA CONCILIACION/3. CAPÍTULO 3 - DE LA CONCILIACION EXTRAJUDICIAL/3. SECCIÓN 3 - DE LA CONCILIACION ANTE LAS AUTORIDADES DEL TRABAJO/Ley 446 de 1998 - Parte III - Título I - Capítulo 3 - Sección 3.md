@@ -25,9 +25,9 @@ tags:
 
 - [[art. 82 Ley 446 de 1998|Artículo 82]] — Procedibilidad
 - [[art. 83 Ley 446 de 1998|Artículo 83]] — Obligaciones del funcionario
-- [[art. 84 Ley 446 de 1998|Artículo 84]] — CITACION
+- [[art. 84 Ley 446 de 1998|Artículo 84]] — Citación
 - [[art. 85 Ley 446 de 1998|Artículo 85]] — Inasistencia
-- [[art. 86 Ley 446 de 1998|Artículo 86]] — ACTA DE CONCILIACION
+- [[art. 86 Ley 446 de 1998|Artículo 86]] — Acta de conciliación
 - [[art. 87 Ley 446 de 1998|Artículo 87]] — Agotamiento de la conciliación administrativa
 
 ---

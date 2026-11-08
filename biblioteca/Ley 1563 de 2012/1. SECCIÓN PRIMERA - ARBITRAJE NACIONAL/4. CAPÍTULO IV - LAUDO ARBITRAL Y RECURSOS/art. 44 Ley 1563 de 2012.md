@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "44"
-epigrafe: "PRESCRIPCIÓN Y CADUCIDAD"
+epigrafe: "Prescripción y caducidad"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 44. PRESCRIPCIÓN Y CADUCIDAD
+## Artículo 44. Prescripción y caducidad
 
 Se considerará interrumpida la prescripción y no operará la caducidad, cuando se anule el laudo por cualquiera de las causales 3 a 7, siempre que la parte interesada presente la solicitud de convocatoria de tribunal arbitral dentro de los tres (3) meses siguientes a la ejecutoria de la sentencia.
 

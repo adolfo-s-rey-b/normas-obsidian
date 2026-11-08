@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "134"
-epigrafe: "OPORTUNIDAD Y TRÁMITE"
+epigrafe: "Oportunidad y trámite"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 134. OPORTUNIDAD Y TRÁMITE
+## Artículo 134. Oportunidad y trámite
 
 Las nulidades podrán alegarse en cualquiera de las instancias antes de que se dicte sentencia o con posteridad a esta, si ocurrieren en ella.
 

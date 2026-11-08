@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "23"
-epigrafe: "CLÁUSULA DE EXCLUSIÓN"
+epigrafe: "Cláusula de exclusión"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 22 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 23. CLÁUSULA DE EXCLUSIÓN
+## Artículo 23. Cláusula de exclusión
 
 Toda prueba obtenida con violación de las garantías fundamentales será nula de pleno derecho, por lo que deberá excluirse de la actuación procesal.
 

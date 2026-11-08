@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "118"
-epigrafe: "CITACIONES"
+epigrafe: "Citaciones"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo X|Capítulo X]]
 
-## Artículo 118. CITACIONES
+## Artículo 118. Citaciones
 
 El juez, inmediatamente tenga conocimiento del hecho que origina la interrupción, ordenará notificar por el medio más expedito al cónyuge o compañero permanente, a los herederos, al albacea con tenencia de bienes, al curador de la herencia yacente o a la parte cuyo apoderado falleció o fue excluido o suspendido del ejercicio de la profesión, privado de la libertad o inhabilitado, según fuere el caso.
 

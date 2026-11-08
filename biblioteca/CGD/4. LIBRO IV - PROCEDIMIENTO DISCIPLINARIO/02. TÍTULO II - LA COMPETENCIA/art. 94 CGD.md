@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "94"
-epigrafe: "SIGNIFICADO DE CONTROL DISCIPLINARIO INTERNO"
+epigrafe: "Significado de Control Disciplinario Interno"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 94. SIGNIFICADO DE CONTROL DISCIPLINARIO INTERNO
+## Artículo 94. Significado de Control Disciplinario Interno
 
 Cuando en este Código se utilice la locución “Control Disciplinario Interno”, debe entenderse por tal, la oficina, dependencia o entidad que conforme a la ley tiene a su cargo el ejercicio de la función disciplinaria.
 

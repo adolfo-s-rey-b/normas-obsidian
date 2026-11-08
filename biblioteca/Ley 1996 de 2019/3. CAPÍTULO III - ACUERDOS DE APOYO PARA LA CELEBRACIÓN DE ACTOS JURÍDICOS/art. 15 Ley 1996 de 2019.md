@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "15"
-epigrafe: "ACUERDOS DE APOYO"
+epigrafe: "Acuerdos de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo III|CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 14 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo III|Capítulo III]]
 
-## Artículo 15. ACUERDOS DE APOYO
+## Artículo 15. Acuerdos de apoyo
 
 Los acuerdos de apoyo son un mecanismo de apoyo formal por medio del cual una persona, mayor de edad, formaliza la designación de la o las personas, naturales o jurídicas, que le asistirán en la toma de decisiones respecto a uno o más actos jurídicos determinados.
 

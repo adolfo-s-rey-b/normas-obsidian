@@ -11,7 +11,7 @@ articulo: "2502"
 epigrafe: "CREDITOS DE CUARTA CLASE"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XL|TÍTULO XL - DE LA PRELACIÓN DE CREDITOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 124 Ley 1116 de 2006]]"
 derogado_por:
@@ -25,7 +25,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XL|Título XL]]
@@ -38,7 +38,7 @@ La cuarta clase de créditos comprende:
 
 2\. Los de los establecimientos de caridad o de educación, costeados con fondos públicos y los del común de los corregimientos contra los recaudadores, administradores y rematadores de sus bienes y rentas.
 
-3.
+3\. *(texto no vigente)*
 
 > [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 
@@ -48,7 +48,7 @@ La cuarta clase de créditos comprende:
 
 5\. Los de las personas que están bajo tutela y curaduría, contra sus respectivos tutores o curadores.
 
-6.
+6\. *(texto no vigente)*
 
 > [!warning] Ordinal derogado por el artículo [[art. 70 Decreto 2820 de 1974|70]] del Decreto 2820 de 1974.
 

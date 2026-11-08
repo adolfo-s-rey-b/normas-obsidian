@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "15"
-epigrafe: "CLÁUSULA GENERAL O RESIDUAL DE COMPETENCIA"
+epigrafe: "Cláusula general o residual de competencia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 15. CLÁUSULA GENERAL O RESIDUAL DE COMPETENCIA
+## Artículo 15. Cláusula general o residual de competencia
 
 Corresponde a la jurisdicción ordinaria, el conocimiento de todo asunto que no esté atribuido expresamente por la ley a otra jurisdicción.
 

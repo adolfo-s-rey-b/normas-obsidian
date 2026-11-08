@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "111"
-epigrafe: "OTRAS OPERACIONES"
+epigrafe: "Otras Operaciones"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XVIII|CAPÍTULO XVIII - OTRAS INVERSIONES Y OPERACIONES DE LAS INSTITUCIONES FINANCIERAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XVIII|Capítulo XVIII]]
 
-## Artículo 111. OTRAS OPERACIONES
+## Artículo 111. Otras Operaciones
 
 1\. Operaciones de cambio. De conformidad con el artículo [[art. 8 EOSF|8]]o. de la Ley 9a. de 1991, las instituciones financieras autorizadas para operar como intermediarios del mercado cambiario, podrán realizar las operaciones de cambio, en las condiciones y con los requisitos que determinen las autoridades competentes.
 

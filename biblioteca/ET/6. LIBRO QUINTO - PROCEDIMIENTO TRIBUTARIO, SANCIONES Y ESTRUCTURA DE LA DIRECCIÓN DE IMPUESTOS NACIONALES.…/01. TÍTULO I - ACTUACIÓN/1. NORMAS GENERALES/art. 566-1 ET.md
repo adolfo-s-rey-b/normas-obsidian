@@ -14,7 +14,7 @@ epigrafe: "NOTIFICACIÓN ELECTRÓNICA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título I|TÍTULO I - ACTUACIÓN]]"
 rubro: "[[ET - Libro Quinto - Título I - Normas generales|NORMAS GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 105 Ley 2010 de 2019]]"
   - "[[art. 93 Ley 1943 de 2018]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título I|Título I]] › [[ET - Libro Quinto - Título I - Normas generales|Normas generales]]

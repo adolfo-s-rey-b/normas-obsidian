@@ -6,7 +6,7 @@ norma: "Ley 1150 de 2007"
 articulo: "2"
 epigrafe: "DE LAS MODALIDADES DE SELECCIÓN"
 titulo: "[[Ley 1150 de 2007 - Título I|TÍTULO I - DE LA EFICIENCIA Y DE LA TRANSPARENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 54 Ley 2195 de 2022]]"
   - "[[art. 219 Decreto 19 de 2012]]"
@@ -51,7 +51,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1150_de_2007
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1150 de 2007|Ley 1150 de 2007]] › [[Ley 1150 de 2007 - Título I|Título I]]

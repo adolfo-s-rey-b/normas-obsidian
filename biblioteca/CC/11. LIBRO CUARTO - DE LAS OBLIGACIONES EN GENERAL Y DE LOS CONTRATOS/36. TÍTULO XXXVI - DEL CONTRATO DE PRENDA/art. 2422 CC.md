@@ -11,7 +11,7 @@ articulo: "2422"
 epigrafe: "EFECTOS DE LA MORA EN LA PRENDA"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XXXVI|TÍTULO XXXVI - DEL CONTRATO DE PRENDA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 91 Ley 1676 de 2013]]"
 anterior: "[[art. 2421 CC]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXVI|Título XXXVI]]

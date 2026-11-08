@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "270"
-epigrafe: "ACTUACIÓN DEL PERITO"
+epigrafe: "Actuación del perito"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 270. ACTUACIÓN DEL PERITO
+## Artículo 270. Actuación del perito
 
 Recibida la solicitud y los elementos mencionados en los artículos anteriores, el perito los examinará. Si encontrare que el contenedor, tiene señales de haber sido o intentado ser abierto, o que la solicitud no reúne las mencionadas condiciones lo devolverá al solicitante. Lo mismo hará en caso de que encontrare alterado el elemento por examinar. Si todo lo hallare aceptable, procederá a la investigación y análisis que corresponda y a la elaboración del informe pericial.
 

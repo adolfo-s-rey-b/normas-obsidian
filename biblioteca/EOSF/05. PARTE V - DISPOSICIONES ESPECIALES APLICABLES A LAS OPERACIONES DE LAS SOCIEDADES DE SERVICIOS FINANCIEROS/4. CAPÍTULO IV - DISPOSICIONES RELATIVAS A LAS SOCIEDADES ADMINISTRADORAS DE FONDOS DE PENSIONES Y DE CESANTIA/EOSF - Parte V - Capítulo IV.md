@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 158 EOSF|Artículo 158]] — NORMAS ESPECIALES DE LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA
+- [[art. 158 EOSF|Artículo 158]] — Normas Especiales de las Sociedades Administradoras de Fondos de Pensiones y de Cesantía
 
 ---
 ← [[EOSF - Parte V - Capítulo III|Capítulo III]] · ↑ [[EOSF - Parte V|Parte V]] · [[EOSF - Parte V - Capítulo V|Capítulo V]] →

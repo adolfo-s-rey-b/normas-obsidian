@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "83"
-epigrafe: "SANCIONES POR INCUMPLIMIENTO EN MARGENES DE SOLVENCIA O NIVELES ADECUADOS DE PATRIMONIO"
+epigrafe: "Sanciones por Incumplimiento en Márgenes de Solvencia o Niveles Adecuados de Patrimonio"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 18 Ley 795 de 2003]]"
 derogado_por:
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 83. SANCIONES POR INCUMPLIMIENTO EN MARGENES DE SOLVENCIA O NIVELES ADECUADOS DE PATRIMONIO
+## Artículo 83. Sanciones por Incumplimiento en Márgenes de Solvencia o Niveles Adecuados de Patrimonio
 
 1\. .
 

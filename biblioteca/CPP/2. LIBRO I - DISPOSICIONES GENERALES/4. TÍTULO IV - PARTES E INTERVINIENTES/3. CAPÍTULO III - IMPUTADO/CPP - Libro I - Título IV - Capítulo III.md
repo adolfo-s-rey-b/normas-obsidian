@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 126 CPP|Artículo 126]] — CALIFICACIÓN
-- [[art. 127 CPP|Artículo 127]] — AUSENCIA DEL IMPUTADO
-- [[art. 128 CPP|Artículo 128]] — IDENTIFICACIÓN O INDIVIDUALIZACIÓN
-- [[art. 129 CPP|Artículo 129]] — REGISTRO DE PERSONAS VINCULADAS
-- [[art. 130 CPP|Artículo 130]] — ATRIBUCIONES
-- [[art. 131 CPP|Artículo 131]] — RENUNCIA
+- [[art. 126 CPP|Artículo 126]] — Calificación
+- [[art. 127 CPP|Artículo 127]] — Ausencia del imputado
+- [[art. 128 CPP|Artículo 128]] — Identificación o individualización
+- [[art. 129 CPP|Artículo 129]] — Registro de personas vinculadas
+- [[art. 130 CPP|Artículo 130]] — Atribuciones
+- [[art. 131 CPP|Artículo 131]] — Renuncia
 
 ---
 ← [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro I - Título IV|Título IV]] · [[CPP - Libro I - Título IV - Capítulo IV|Capítulo IV]] →

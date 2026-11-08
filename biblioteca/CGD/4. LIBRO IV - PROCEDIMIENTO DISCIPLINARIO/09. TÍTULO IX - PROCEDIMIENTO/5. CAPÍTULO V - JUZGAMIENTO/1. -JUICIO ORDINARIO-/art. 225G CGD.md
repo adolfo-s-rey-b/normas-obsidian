@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225G"
-epigrafe: "NOTIFICACIÓN Y APELACIÓN DEL FALLO"
+epigrafe: "Notificación y apelación del fallo"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio ordinario-|-juicio ordinario-]]
 
-## Artículo 225G. NOTIFICACIÓN Y APELACIÓN DEL FALLO
+## Artículo 225G. Notificación y apelación del fallo
 
 La decisión será notificada personalmente en los términos de esta ley. Si no fuera posible hacerlo en los plazos correspondientes, se hará por edicto. Contra el fallo de primera instancia procede el recurso de apelación. Este deberá interponerse y sustentarse por escrito dentro de los diez (10) días siguientes a su notificación ante la secretaría del despacho.
 

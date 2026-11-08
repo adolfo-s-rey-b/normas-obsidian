@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "6"
-epigrafe: "DE LA CAPACIDAD PARA CONTRATAR"
+epigrafe: "De la Capacidad para Contratar"
 vigencia: "modificado"
 modificado_por:
   - "[[art. 1 Ley 2160 de 2021]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 6. DE LA CAPACIDAD PARA CONTRATAR
+## Artículo 6. De la Capacidad para Contratar
 
 Pueden celebrar contratos con las entidades estatales las personas consideradas legalmente capaces en las disposiciones vigentes. También podrán celebrar contratos con las entidades estatales los Cabildos Indígenas, las asociaciones de Autoridades Tradicionales Indígenas, los consejos comunitarios de las comunidades negras regulados por la Ley 70 de 1993.
 

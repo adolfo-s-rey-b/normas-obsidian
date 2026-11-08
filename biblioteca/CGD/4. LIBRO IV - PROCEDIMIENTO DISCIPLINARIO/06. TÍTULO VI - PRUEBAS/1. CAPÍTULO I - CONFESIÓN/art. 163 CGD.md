@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "163"
-epigrafe: "CRITERIOS PARA LA APRECIACIÓN"
+epigrafe: "Criterios para la apreciación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo I|CAPÍTULO I - CONFESIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 163. CRITERIOS PARA LA APRECIACIÓN
+## Artículo 163. Criterios para la apreciación
 
 Para apreciar la confesión y determinar su mérito probatorio, el funcionario competente tendrá en cuenta las reglas de la sana crítica y los criterios para apreciar el testimonio.
 

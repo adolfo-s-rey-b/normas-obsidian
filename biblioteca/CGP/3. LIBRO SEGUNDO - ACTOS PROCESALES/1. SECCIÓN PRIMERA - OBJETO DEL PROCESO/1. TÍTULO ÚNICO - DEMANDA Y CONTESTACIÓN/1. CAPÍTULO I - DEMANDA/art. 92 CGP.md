@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "92"
-epigrafe: "RETIRO DE LA DEMANDA"
+epigrafe: "Retiro de la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 92. RETIRO DE LA DEMANDA
+## Artículo 92. Retiro de la demanda
 
 El demandante podrá retirar la demanda mientras no se haya notificado a ninguno de los demandados. Si hubiere medidas cautelares practicadas, será necesario auto que autorice el retiro, en el cual se ordenará el levantamiento de aquellas y se condenará al demandante al pago de perjuicios, salvo acuerdo de las partes.
 

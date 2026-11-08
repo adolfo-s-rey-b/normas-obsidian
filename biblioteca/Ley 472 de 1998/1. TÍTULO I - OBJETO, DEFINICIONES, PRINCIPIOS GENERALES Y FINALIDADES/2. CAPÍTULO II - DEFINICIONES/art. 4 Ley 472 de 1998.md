@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "4"
-epigrafe: "DERECHOS E INTERESES COLECTIVOS"
+epigrafe: "Derechos e Intereses Colectivos"
 titulo: "[[Ley 472 de 1998 - Título I|TÍTULO I - OBJETO, DEFINICIONES, PRINCIPIOS GENERALES Y FINALIDADES]]"
 capitulo: "[[Ley 472 de 1998 - Título I - Capítulo II|CAPÍTULO II - DEFINICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título I|Título I]] › [[Ley 472 de 1998 - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 4. DERECHOS E INTERESES COLECTIVOS
+## Artículo 4. Derechos e Intereses Colectivos
 
 Son derechos e intereses colectivos, entre otros, los relacionados con:
 

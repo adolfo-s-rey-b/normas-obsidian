@@ -14,7 +14,7 @@ epigrafe: "INEXACTITUD EN LAS DECLARACIONES TRIBUTARIAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones relacionadas con las declaraciones…|SANCIONES RELACIONADAS CON LAS DECLARACIONES TRIBUTARIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 287 Ley 1819 de 2016]]"
 derogado_por:
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones relacionadas con las declaraciones…|Sanciones relacionadas con las declaraciones…]]

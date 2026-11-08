@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "47"
-epigrafe: "COORDINACION DE POLITICAS"
+epigrafe: "Coordinación de Políticas"
 parte: "[[EOSF - Parte II|PARTE II - INTERVENCION EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 capitulo: "[[EOSF - Parte II - Capítulo Unico|CAPÍTULO UNICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte II|Parte II]] › [[EOSF - Parte II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 47. COORDINACION DE POLITICAS
+## Artículo 47. Coordinación de Políticas
 
 En el ejercicio de la intervención regulada en la parte segunda de este Estatuto, el Gobierno Nacional tendrá en cuenta los objetivos de las políticas monetaria, cambiaria y crediticia y la política económica general.
 

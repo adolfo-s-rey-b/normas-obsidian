@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "141"
-epigrafe: "CONTROVERSIAS CONTRACTUALES"
+epigrafe: "Controversias contractuales"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 141. CONTROVERSIAS CONTRACTUALES
+## Artículo 141. Controversias contractuales
 
 Cualquiera de las partes de un contrato del Estado podrá pedir que se declare su existencia o su nulidad, que se ordene su revisión, que se declare su incumplimiento, que se declare la nulidad de los actos administrativos contractuales, que se condene al responsable a indemnizar los perjuicios, y que se hagan otras declaraciones y condenas. Así mismo, el interesado podrá solicitar la liquidación judicial del contrato cuando esta no se haya logrado de mutuo acuerdo y la entidad estatal no lo haya liquidado unilateralmente dentro de los dos (2) meses siguientes al vencimiento del plazo convenido para liquidar de mutuo acuerdo o, en su defecto, del término establecido por la ley.
 

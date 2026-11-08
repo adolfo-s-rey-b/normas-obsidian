@@ -22,15 +22,15 @@ tags:
 
 ### Contenido
 
-- [[art. 159 EOSF|Artículo 159]] — ASPECTOS GENERALES
-- [[art. 160 EOSF|Artículo 160]] — REGLAMENTO
-- [[art. 161 EOSF|Artículo 161]] — ASPECTOS FINANCIEROS
-- [[art. 162 EOSF|Artículo 162]] — RENTABILIDAD MINIMA
-- [[art. 163 EOSF|Artículo 163]] — INVERSIONES Y LIMITACIONES A LAS OPERACIONES
-- [[art. 164 EOSF|Artículo 164]] — RELACION DE LOS FONDOS DE CESANTIA CON SUS AFILIADOS
-- [[art. 165 EOSF|Artículo 165]] — RELACIONES DE LA SOCIEDAD ADMINISTRADORA CON EL EMPLEADOR
-- [[art. 166 EOSF|Artículo 166]] — RETIRO DE SUMAS ABONADAS
-- [[art. 167 EOSF|Artículo 167]] — DISPOSICIONES RELATIVAS A LA CESION DE FONDOS ADMINISTRADOS
+- [[art. 159 EOSF|Artículo 159]] — Aspectos Generales
+- [[art. 160 EOSF|Artículo 160]] — Reglamento
+- [[art. 161 EOSF|Artículo 161]] — Aspectos Financieros
+- [[art. 162 EOSF|Artículo 162]] — Rentabilidad Mínima
+- [[art. 163 EOSF|Artículo 163]] — Inversiones y Limitaciones a las Operaciones
+- [[art. 164 EOSF|Artículo 164]] — Relación de los Fondos de Cesantía con sus Afiliados
+- [[art. 165 EOSF|Artículo 165]] — Relaciones de la Sociedad Administradora con el Empleador
+- [[art. 166 EOSF|Artículo 166]] — Retiro de Sumas Abonadas
+- [[art. 167 EOSF|Artículo 167]] — Disposiciones Relativas a la Cesión de Fondos Administrados
 
 ---
 ← [[EOSF - Parte V - Capítulo IV|Capítulo IV]] · ↑ [[EOSF - Parte V|Parte V]] · [[EOSF - Parte V - Capítulo VI|Capítulo VI]] →

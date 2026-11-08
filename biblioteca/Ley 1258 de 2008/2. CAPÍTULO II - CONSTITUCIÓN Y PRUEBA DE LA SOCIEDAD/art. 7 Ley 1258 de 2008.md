@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "7"
-epigrafe: "SOCIEDAD DE HECHO"
+epigrafe: "Sociedad de hecho"
 capitulo: "[[Ley 1258 de 2008 - Capítulo II|CAPÍTULO II - CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 6 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo II|Capítulo II]]
 
-## Artículo 7. SOCIEDAD DE HECHO
+## Artículo 7. Sociedad de hecho
 
 Mientras no se efectúe la inscripción del documento privado o público de constitución en la Cámara de Comercio del lugar en que la sociedad establezca su domicilio principal, se entenderá para todos los efectos legales que la sociedad es de hecho si fueren varios los asociados. Si se tratare de una sola persona, responderá personalmente por las obligaciones que contraiga en desarrollo de la empresa.
 

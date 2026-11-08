@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "112"
-epigrafe: "PROCEDENCIA DEL ALLANAMIENTO"
+epigrafe: "Procedencia del allanamiento"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 112. PROCEDENCIA DEL ALLANAMIENTO
+## Artículo 112. Procedencia del allanamiento
 
 El juez podrá practicar el allanamiento de habitaciones, establecimientos, oficinas e inmuebles en general, naves y aeronaves mercantes, y entrar en ellos aun contra la voluntad de quienes los habiten u ocupen, cuando deba practicarse medida cautelar, entrega, inspección judicial, exhibición o examen de peritos sobre ellos o sobre bienes que se encuentren en su interior.
 

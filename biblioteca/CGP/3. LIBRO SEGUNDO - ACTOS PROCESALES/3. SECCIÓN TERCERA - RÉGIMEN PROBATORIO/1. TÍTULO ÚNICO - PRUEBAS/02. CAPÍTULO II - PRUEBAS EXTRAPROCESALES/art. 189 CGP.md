@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "189"
-epigrafe: "INSPECCIONES JUDICIALES Y PERITACIONES"
+epigrafe: "Inspecciones judiciales y peritaciones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 189. INSPECCIONES JUDICIALES Y PERITACIONES
+## Artículo 189. Inspecciones judiciales y peritaciones
 
 Podrá pedirse como prueba extraprocesal la práctica de inspección judicial sobre personas, lugares, cosas o documentos que hayan de ser materia de un proceso, con o sin intervención de perito.
 

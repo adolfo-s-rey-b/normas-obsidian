@@ -12,7 +12,7 @@ epigrafe: "INCAPACIDAD PARA REPUDIAR"
 libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
 titulo: "[[CC - Libro Tercero - Título VII|TÍTULO VII - DE LA APERTURA DE LA SUCESIÓN Y DE SU ACEPTACION, REPUDIACIÓN E INVENTARIO]]"
 capitulo: "[[CC - Libro Tercero - Título VII - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 70 Decreto 2820 de 1974]]"
 anterior: "[[art. 1292 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título VII|Título VII]] › [[CC - Libro Tercero - Título VII - Capítulo I|Capítulo I]]

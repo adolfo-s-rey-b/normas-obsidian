@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "88"
-epigrafe: "FACTORES DE SELECCIÓN Y PROCEDIMIENTOS DIFERENCIALES PARA LA ADQUISICIÓN DE LOS BIENES Y SERVICIOS A CONTRATAR"
+epigrafe: "Factores de selección y procedimientos diferenciales para la adquisición de los bienes y servicios a contratar"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 87 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 88. FACTORES DE SELECCIÓN Y PROCEDIMIENTOS DIFERENCIALES PARA LA ADQUISICIÓN DE LOS BIENES Y SERVICIOS A CONTRATAR
+## Artículo 88. Factores de selección y procedimientos diferenciales para la adquisición de los bienes y servicios a contratar
 
 Modifíquese el numeral 2 del artículo [[art. 5 Ley 1150 de 2007|5]]o de la Ley 1150 de 2007 en el siguiente sentido:
 

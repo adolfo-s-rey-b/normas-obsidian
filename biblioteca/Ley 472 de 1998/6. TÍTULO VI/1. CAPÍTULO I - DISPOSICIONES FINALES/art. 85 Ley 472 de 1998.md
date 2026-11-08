@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "85"
-epigrafe: "PEDAGOGIA"
+epigrafe: "Pedagogía"
 titulo: "[[Ley 472 de 1998 - Título VI|TÍTULO VI]]"
 capitulo: "[[Ley 472 de 1998 - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título VI|Título VI]] › [[Ley 472 de 1998 - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 85. PEDAGOGIA
+## Artículo 85. Pedagogía
 
 El Gobierno Nacional realizará durante el año siguiente a la promulgación de esta ley, un programa de pedagogía que incluyan campañas masivas de educación y divulgación sobre los derechos colectivos y su procedimiento para hacerlos efectivos.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "542"
-epigrafe: "QUE SE ENTIENDE POR FUNCIONARIO OFICIAL"
+epigrafe: "QUÉ SE ENTIENDE POR FUNCIONARIO OFICIAL"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título VIII|TÍTULO VIII - OBLIGACIONES Y PROHIBICIONES DE FUNCIONARIOS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título VIII|Título VIII]]
 
-## Artículo 542. QUE SE ENTIENDE POR FUNCIONARIO OFICIAL
+## Artículo 542. QUÉ SE ENTIENDE POR FUNCIONARIO OFICIAL
 
 (Fuente original compilada: L. 02/76 Art 29.) Para los fines del impuesto, entiéndese por funcionario oficial o público la persona natural que ejerza empleo en una entidad de derecho público, cuando dicha persona esté vinculada a la entidad mediante una situación estatutaria o un contrato de trabajo.
 

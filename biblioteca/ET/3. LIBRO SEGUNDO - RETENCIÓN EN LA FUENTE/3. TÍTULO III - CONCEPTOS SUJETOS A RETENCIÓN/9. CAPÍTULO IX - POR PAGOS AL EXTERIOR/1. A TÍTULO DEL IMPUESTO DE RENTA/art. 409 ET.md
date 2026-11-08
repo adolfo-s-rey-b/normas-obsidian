@@ -19,7 +19,6 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 247 Ley 1819 de 2016]]"
   - "[[art. 10 Ley 1819 de 2016]]"
-  - "[[art. 247 ET]]"
 anterior: "[[art. 408 ET]]"
 siguiente: "[[art. 410 ET]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
@@ -41,7 +40,7 @@ tags:
 
 En el caso de profesores extranjeros sin residencia en el país, contratados por períodos no superiores a cuatro (4) meses* por instituciones de educación superior, aprobadas por el ICFES, únicamente se causará impuesto sobre la renta a la tarifa del siete por ciento (7%). Este impuesto será retenido en la fuente en el momento del pago o abono en cuenta.
 
-> [!info] Notas del Editor: Para la interpretación de este artículo debe tenerse en cuenta el parágrafo del artículo [[art. 247 Ley 1819 de 2016|247]] del ET modificado por el artículo [[art. 10 Ley 1819 de 2016|10]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016, el cual establece: ' En el caso de profesores extranjeros sin residencia en el país, contratados por períodos no superiores a ciento ochenta y dos (182) días por instituciones de educación superior legalmente constituidas , únicamente se causará impuesto sobre la renta a la tarifa del siete por ciento (7%). Este impuesto será retenido en la fuente en el momento del pago o abono en cuenta.'. - Tener en cuenta que el texto contenido en este artículo fue incorporado al artículo [[art. 247 ET|247]] de este estatuto con la reforma introducida por la Ley 1607 de 2012.
+> [!info] Notas del Editor: Para la interpretación de este artículo debe tenerse en cuenta el parágrafo del artículo [[art. 247 Ley 1819 de 2016|247]] del ET modificado por el artículo [[art. 10 Ley 1819 de 2016|10]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016, el cual establece: ' En el caso de profesores extranjeros sin residencia en el país, contratados por períodos no superiores a ciento ochenta y dos (182) días por instituciones de educación superior legalmente constituidas , únicamente se causará impuesto sobre la renta a la tarifa del siete por ciento (7%). Este impuesto será retenido en la fuente en el momento del pago o abono en cuenta.'. - Tener en cuenta que el texto contenido en este artículo fue incorporado al artículo 247 de este estatuto con la reforma introducida por la Ley 1607 de 2012.
 
 (subraya el editor)
 

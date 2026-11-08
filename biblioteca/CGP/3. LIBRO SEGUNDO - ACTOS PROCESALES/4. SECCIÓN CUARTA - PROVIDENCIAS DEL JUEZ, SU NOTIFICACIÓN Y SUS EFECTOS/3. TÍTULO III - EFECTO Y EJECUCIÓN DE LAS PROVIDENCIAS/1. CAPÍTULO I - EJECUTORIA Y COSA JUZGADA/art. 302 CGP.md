@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "302"
-epigrafe: "EJECUTORIA"
+epigrafe: "Ejecutoria"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título III|TÍTULO III - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] › [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 302. EJECUTORIA
+## Artículo 302. Ejecutoria
 
 Las providencias proferidas en audiencia adquieren ejecutoria una vez notificadas, cuando no sean impugnadas o no admitan recursos.
 

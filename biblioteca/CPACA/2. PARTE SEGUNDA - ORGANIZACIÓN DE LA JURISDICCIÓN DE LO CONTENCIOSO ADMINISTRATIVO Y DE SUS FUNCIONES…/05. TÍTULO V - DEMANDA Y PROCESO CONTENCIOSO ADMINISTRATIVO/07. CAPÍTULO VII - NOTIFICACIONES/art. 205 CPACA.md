@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "205"
-epigrafe: "NOTIFICACIÓN POR MEDIOS ELECTRÓNICOS"
+epigrafe: "Notificación por medios electrónicos"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - NOTIFICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]]
 
-## Artículo 205. NOTIFICACIÓN POR MEDIOS ELECTRÓNICOS
+## Artículo 205. Notificación por medios electrónicos
 
 La notificación electrónica de las providencias se someterá a las siguientes reglas:
 

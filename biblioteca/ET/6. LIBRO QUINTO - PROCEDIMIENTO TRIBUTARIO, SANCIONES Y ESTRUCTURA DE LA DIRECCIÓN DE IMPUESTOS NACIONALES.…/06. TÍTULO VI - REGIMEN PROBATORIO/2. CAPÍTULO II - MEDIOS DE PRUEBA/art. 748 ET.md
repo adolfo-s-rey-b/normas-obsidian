@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "748"
-epigrafe: "CONFESION FICTA O PRESUNTA"
+epigrafe: "CONFESIÓN FICTA O PRESUNTA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 748. CONFESION FICTA O PRESUNTA
+## Artículo 748. CONFESIÓN FICTA O PRESUNTA
 
 Cuando a un contribuyente se le ha requerido verbalmente o por escrito dirigido a su última dirección informada, para que responda si es cierto o no un determinado hecho, se tendrá como verdadero si el contribuyente da una respuesta evasiva o se contradice.
 

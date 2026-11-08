@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "181"
-epigrafe: "DOCUMENTOS ROTOS O ALTERADOS"
+epigrafe: "Documentos rotos o alterados"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 181. DOCUMENTOS ROTOS O ALTERADOS
+## Artículo 181. Documentos rotos o alterados
 
 Los documentos rotos, raspados o parcialmente destruidos, se apreciarán de acuerdo con la libre formación del convencimiento; las partes enmendadas o interlineadas se desecharán, a menos que las hubiere salvado bajo su firma quien suscribió o autorizó el documento.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "228"
-epigrafe: "INTERVENCIÓN DE TERCEROS EN PROCESOS ELECTORALES E IMPROCEDENCIA EN LOS PROCESOS DE PÉRDIDAS DE INVESTIDURA"
+epigrafe: "Intervención de terceros en procesos electorales e improcedencia en los procesos de pérdidas de investidura"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]]
 
-## Artículo 228. INTERVENCIÓN DE TERCEROS EN PROCESOS ELECTORALES E IMPROCEDENCIA EN LOS PROCESOS DE PÉRDIDAS DE INVESTIDURA
+## Artículo 228. Intervención de terceros en procesos electorales e improcedencia en los procesos de pérdidas de investidura
 
 En los procesos electorales cualquier persona puede pedir que se la tenga como impugnador o coadyuvante. Su intervención solo se admitirá hasta el día inmediatamente anterior a la fecha de celebración de la audiencia inicial.
 

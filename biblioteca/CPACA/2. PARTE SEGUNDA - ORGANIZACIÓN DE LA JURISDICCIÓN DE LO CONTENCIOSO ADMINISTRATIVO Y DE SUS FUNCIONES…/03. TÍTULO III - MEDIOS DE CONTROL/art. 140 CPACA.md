@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "140"
-epigrafe: "REPARACIÓN DIRECTA"
+epigrafe: "Reparación directa"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 140. REPARACIÓN DIRECTA
+## Artículo 140. Reparación directa
 
 En los términos del artículo [[art. 90 CPol|90]] de la Constitución Política, la persona interesada podrá demandar directamente la reparación del daño antijurídico producido por la acción u omisión de los agentes del Estado.
 

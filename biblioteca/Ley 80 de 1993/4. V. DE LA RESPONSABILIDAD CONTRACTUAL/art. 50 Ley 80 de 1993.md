@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "50"
-epigrafe: "DE LA RESPONSABILIDAD DE LAS ENTIDADES ESTATALES"
+epigrafe: "De la Responsabilidad de las Entidades Estatales"
 rubro: "[[Ley 80 de 1993 - V. de la responsabilidad contractual|V. DE LA RESPONSABILIDAD CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 49 Ley 80 de 1993]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - V. de la responsabilidad contractual|V. de la responsabilidad contractual]]
 
-## Artículo 50. DE LA RESPONSABILIDAD DE LAS ENTIDADES ESTATALES
+## Artículo 50. De la Responsabilidad de las Entidades Estatales
 
 > [!note] Aparte subrayado CONDICIONALMENTE EXEQUIBLE
 

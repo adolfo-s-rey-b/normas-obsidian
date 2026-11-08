@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "412"
-epigrafe: "TARIFA SOBRE LOS CONTRATOS \"LLAVE EN MANO\" Y DEMAS CONTRATOS DE CONFECCIÓN DE OBRA MATERIAL"
+epigrafe: "TARIFA SOBRE LOS CONTRATOS \"LLAVE EN MANO\" Y DEMÁS CONTRATOS DE CONFECCIÓN DE OBRA MATERIAL"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo IX|CAPÍTULO IX - POR PAGOS AL EXTERIOR]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo IX|Capítulo IX]] › [[ET - Libro Segundo - Título III - Capítulo IX - A título del impuesto de renta|A título del impuesto de renta]]
 
-## Artículo 412. TARIFA SOBRE LOS CONTRATOS "LLAVE EN MANO" Y DEMAS CONTRATOS DE CONFECCIÓN DE OBRA MATERIAL
+## Artículo 412. TARIFA SOBRE LOS CONTRATOS "LLAVE EN MANO" Y DEMÁS CONTRATOS DE CONFECCIÓN DE OBRA MATERIAL
 
 (Fuente original compilada: L. 75/86 Art. [[art. 12 ET|12]]) En el caso de los denominados contratos "Llave en mano" y demás contratos de confección de obra material, se considera renta de fuente nacional para el contratista, el valor total del respectivo contrato.
 

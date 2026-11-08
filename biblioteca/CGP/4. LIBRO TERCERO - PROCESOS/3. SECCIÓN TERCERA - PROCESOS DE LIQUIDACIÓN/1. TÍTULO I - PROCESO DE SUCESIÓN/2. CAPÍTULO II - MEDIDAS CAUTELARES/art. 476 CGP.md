@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "476"
-epigrafe: "GUARDA Y APOSICIÓN DE SELLOS"
+epigrafe: "Guarda y aposición de sellos"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 476. GUARDA Y APOSICIÓN DE SELLOS
+## Artículo 476. Guarda y aposición de sellos
 
 Dentro de los treinta (30) días siguientes a la fecha de la defunción del causante, toda persona que pruebe al menos sumariamente su interés efectivo o presunto en el proceso de sucesión podrá pedir que los muebles y documentos del difunto se aseguren bajo llave y sello.
 

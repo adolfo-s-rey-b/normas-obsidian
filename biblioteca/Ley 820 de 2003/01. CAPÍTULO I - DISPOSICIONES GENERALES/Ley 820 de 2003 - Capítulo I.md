@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 820 de 2003|Artículo 1]] — OBJETO
-- [[art. 2 Ley 820 de 2003|Artículo 2]] — DEFINICIÓN
+- [[art. 1 Ley 820 de 2003|Artículo 1]] — Objeto
+- [[art. 2 Ley 820 de 2003|Artículo 2]] — Definición
 
 ---
 ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo II|Capítulo II]] →

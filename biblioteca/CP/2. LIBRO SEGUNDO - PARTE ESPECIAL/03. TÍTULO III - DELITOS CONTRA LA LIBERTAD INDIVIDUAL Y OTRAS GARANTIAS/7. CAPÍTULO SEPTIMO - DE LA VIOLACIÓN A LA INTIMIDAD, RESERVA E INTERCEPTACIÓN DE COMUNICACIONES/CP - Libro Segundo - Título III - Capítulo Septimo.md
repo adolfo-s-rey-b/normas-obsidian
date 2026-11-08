@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 192 CP|Artículo 192]] — VIOLACIÓN ILICITA DE COMUNICACIONES
+- [[art. 192 CP|Artículo 192]] — Violación ilícita de comunicaciones
 - [[art. 193 CP|Artículo 193]] — Ofrecimiento, venta o compra de instrumento apto para interceptar la comunicación privada entre personas
-- [[art. 194 CP|Artículo 194]] — DIVULGACIÓN Y EMPLEO DE DOCUMENTOS RESERVADOS
+- [[art. 194 CP|Artículo 194]] — Divulgación y empleo de documentos reservados
 - [[art. 195 CP|Artículo 195]] — Acceso abusivo a un sistema informatico
-- [[art. 196 CP|Artículo 196]] — VIOLACIÓN ILICITA DE COMUNICACIONES O CORRESPONDENCIA DE CARACTER OFICIAL
+- [[art. 196 CP|Artículo 196]] — Violación ilícita de comunicaciones o correspondencia de caracter oficial
 - [[art. 197 CP|Artículo 197]] — Utilización ilícita de equipos transmisores o receptores
 
 ---

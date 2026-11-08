@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "56"
-epigrafe: "CAUSALES DE IMPEDIMENTO"
+epigrafe: "Causales de impedimento"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 56. CAUSALES DE IMPEDIMENTO
+## Artículo 56. Causales de impedimento
 
 Son causales de impedimento:
 

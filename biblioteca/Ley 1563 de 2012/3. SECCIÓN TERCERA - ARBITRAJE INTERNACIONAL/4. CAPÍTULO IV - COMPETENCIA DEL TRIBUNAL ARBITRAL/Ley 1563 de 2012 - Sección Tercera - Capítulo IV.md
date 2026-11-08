@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 79 Ley 1563 de 2012|Artículo 79]] — FACULTAD DEL TRIBUNAL ARBITRAL PARA DECIDIR ACERCA DE SU COMPETENCIA
+- [[art. 79 Ley 1563 de 2012|Artículo 79]] — Facultad del tribunal arbitral para decidir acerca de su competencia
 
 ---
 ← [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]] · ↑ [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]] →

@@ -28,7 +28,7 @@ tags:
 - [[art. 768 CCo|Artículo 768]] — CONTENIDO DE LA CARTA DE PORTE
 - [[art. 769 CCo|Artículo 769]] — CONTENIDO ADICIONAL DE LA CARTA DE PORTE
 - [[art. 770 CCo|Artículo 770]] — RESPONSABILIDAD DEL ENDOSANTE POR LA EXISTENCIA DE MERCANCÍAS
-- [[art. 771 CCo|Artículo 771]] — APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE>
+- [[art. 771 CCo|Artículo 771]] — APLICACIÓN DE NORMAS DE LA LETRA Y PAGARÉ A LA CARTA DE PORTE Y CONOCIMIENTO DE EMBARQUE
 
 ---
 ← [[CCo - Libro Tercero - Título III - Capítulo V - Sección V|Sección V]] · ↑ [[CCo - Libro Tercero - Título III - Capítulo V|Capítulo V]] · [[CCo - Libro Tercero - Título III - Capítulo V - Sección VII|Sección VII]] →

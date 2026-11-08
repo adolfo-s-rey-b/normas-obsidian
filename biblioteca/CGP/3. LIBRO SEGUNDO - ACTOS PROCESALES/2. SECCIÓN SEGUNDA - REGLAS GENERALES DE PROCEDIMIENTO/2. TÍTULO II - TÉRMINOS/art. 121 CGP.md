@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "121"
-epigrafe: "DURACIÓN DEL PROCESO"
+epigrafe: "Duración del proceso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título II|TÍTULO II - TÉRMINOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título II|Título II]]
 
-## Artículo 121. DURACIÓN DEL PROCESO
+## Artículo 121. Duración del proceso
 
 Salvo interrupción o suspensión del proceso por causa legal, no podrá transcurrir un lapso superior a un (1) año para dictar sentencia de primera o única instancia, contado a partir de la notificación del auto admisorio de la demanda o mandamiento ejecutivo a la parte demandada o ejecutada. Del mismo modo, el plazo para resolver la segunda instancia, no podrá ser superior a seis (6) meses, contados a partir de la recepción del expediente en la secretaría del juzgado o tribunal.
 
@@ -50,7 +50,7 @@ Cuando en el lugar no haya otro juez de la misma categoría y especialidad, el p
 
 Excepcionalmente el juez o magistrado podrá prorrogar por una sola vez el término para resolver la instancia respectiva, hasta por seis (6) meses más, con explicación de la necesidad de hacerlo, mediante auto que no admite recurso.
 
-> [!note] Notas de Vigencia: El numeral 2o. del artículo [[art. 627 CGP|627]] de la presente ley, dispone: 'La prórroga del plazo de duración del proceso prevista en el artículo [[art. 121 CGP|121]] de este código, será aplicable, por decisión de juez o magistrado, a los procesos en curso, al momento de promulgarse esta ley'
+> [!note] Notas de Vigencia: El numeral 2o. del artículo 627 de la presente ley, dispone: 'La prórroga del plazo de duración del proceso prevista en el artículo 121 de este código, será aplicable, por decisión de juez o magistrado, a los procesos en curso, al momento de promulgarse esta ley'
 
 Será nula ~~de pleno derecho~~ la actuación posterior que realice el juez que haya perdido competencia para emitir la respectiva providencia.
 

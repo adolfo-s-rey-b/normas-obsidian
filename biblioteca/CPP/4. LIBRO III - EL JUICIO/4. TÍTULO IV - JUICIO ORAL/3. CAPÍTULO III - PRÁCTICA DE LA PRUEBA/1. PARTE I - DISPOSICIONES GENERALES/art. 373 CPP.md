@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "373"
-epigrafe: "LIBERTAD"
+epigrafe: "Libertad"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte I|Parte I]]
 
-## Artículo 373. LIBERTAD
+## Artículo 373. Libertad
 
 Los hechos y circunstancias de interés para la solución correcta del caso, se podrán probar por cualquiera de los medios establecidos en este código o por cualquier otro medio técnico o científico, que no viole los derechos humanos.
 

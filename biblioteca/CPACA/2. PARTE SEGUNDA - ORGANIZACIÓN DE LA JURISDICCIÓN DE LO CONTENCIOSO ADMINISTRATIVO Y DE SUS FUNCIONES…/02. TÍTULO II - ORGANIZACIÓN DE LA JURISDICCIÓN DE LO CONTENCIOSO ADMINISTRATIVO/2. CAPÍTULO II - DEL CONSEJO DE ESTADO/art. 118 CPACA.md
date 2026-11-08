@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "118"
-epigrafe: "LABORES DEL CONSEJO DE ESTADO EN VACACIONES"
+epigrafe: "Labores del Consejo de Estado en vacaciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 118. LABORES DEL CONSEJO DE ESTADO EN VACACIONES
+## Artículo 118. Labores del Consejo de Estado en vacaciones
 
 El Consejo de Estado deberá actuar, aún en época de vacaciones, por convocatoria del Gobierno Nacional, cuando sea necesario su dictamen, por disposición de la Constitución Política. También podrá el Gobierno convocar a la Sala de Consulta y Servicio Civil, cuando a juicio de aquel las necesidades públicas lo exijan.
 

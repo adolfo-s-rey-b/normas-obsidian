@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "283"
-epigrafe: "ACEPTACIÓN POR EL IMPUTADO"
+epigrafe: "Aceptación por el imputado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo Unico|CAPÍTULO UNICO - ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 283. ACEPTACIÓN POR EL IMPUTADO
+## Artículo 283. Aceptación por el imputado
 
 La aceptación por el imputado es el reconocimiento libre, consciente y espontáneo de haber participado en alguna forma o grado en la ejecución de la conducta delictiva que se investiga.
 

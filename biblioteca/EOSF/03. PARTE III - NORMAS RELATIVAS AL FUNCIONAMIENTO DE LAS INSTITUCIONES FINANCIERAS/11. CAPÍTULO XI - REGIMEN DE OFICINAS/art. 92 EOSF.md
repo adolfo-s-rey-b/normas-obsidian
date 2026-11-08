@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "92"
-epigrafe: "REGIMEN DE OFICINAS DE ENTIDADES VIGILADAS"
+epigrafe: "Régimen de Oficinas de Entidades Vigiladas"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XI|CAPÍTULO XI - REGIMEN DE OFICINAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XI|Capítulo XI]]
 
-## Artículo 92. REGIMEN DE OFICINAS DE ENTIDADES VIGILADAS
+## Artículo 92. Régimen de Oficinas de Entidades Vigiladas
 
 Las entidades vigiladas podrán abrir o cerrar sucursales o agencias, en el territorio nacional, previa información a la Superintendencia Financiera de Colombia con antelación de un (1) mes.
 

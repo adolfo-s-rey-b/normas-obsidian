@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 143 EOSF|Artículo 143]] — CAPITAL MINIMO PARA MANTENER SECCION DE AHORROS
-- [[art. 144 EOSF|Artículo 144]] — PRESTAMOS A ADMINISTRADORES
-- [[art. 145 EOSF|Artículo 145]] — TASAS DE INTERES DE CAPTACION
+- [[art. 143 EOSF|Artículo 143]] — Capital Mínimo para Mantener Sección de Ahorros
+- [[art. 144 EOSF|Artículo 144]] — Préstamos a Administradores
+- [[art. 145 EOSF|Artículo 145]] — Tasas de Interés de Captación
 
 ---
 ← [[EOSF - Parte IV - Capítulo V|Capítulo V]] · ↑ [[EOSF - Parte IV|Parte IV]]

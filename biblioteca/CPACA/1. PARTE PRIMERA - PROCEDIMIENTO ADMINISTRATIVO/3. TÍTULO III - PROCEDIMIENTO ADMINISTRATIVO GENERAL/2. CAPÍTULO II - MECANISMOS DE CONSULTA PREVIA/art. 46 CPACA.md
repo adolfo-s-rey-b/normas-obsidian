@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "46"
-epigrafe: "CONSULTA OBLIGATORIA"
+epigrafe: "Consulta obligatoria"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo II|CAPÍTULO II - MECANISMOS DE CONSULTA PREVIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 46. CONSULTA OBLIGATORIA
+## Artículo 46. Consulta obligatoria
 
 Cuando la Constitución o la ley ordenen la realización de una consulta previa a la adopción de una decisión administrativa, dicha consulta deberá realizarse dentro de los términos señalados en las normas respectivas, so pena de nulidad de la decisión que se llegare a adoptar.
 

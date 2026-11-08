@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "89"
-epigrafe: "TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PENAL"
+epigrafe: "Termino De Prescripción De La Sanción Penal"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Quinto|CAPÍTULO QUINTO - DE LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN PENAL]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Quinto|Capítulo Quinto]]
 
-## Artículo 89. TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN PENAL
+## Artículo 89. Termino De Prescripción De La Sanción Penal
 
 La pena privativa de la libertad, salvo lo previsto en tratados internacionales debidamente incorporados al ordenamiento jurídico, prescribe en el término fijado para ella en la sentencia o en el que falte por ejecutar, pero en ningún caso podrá ser inferior a cinco años contados a partir de la ejecutoria de la correspondiente sentencia.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "167"
-epigrafe: "NORMAS JURÍDICAS DE ALCANCE NO NACIONAL"
+epigrafe: "Normas jurídicas de alcance no nacional"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo III|CAPÍTULO III - REQUISITOS DE LA DEMANDA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 167. NORMAS JURÍDICAS DE ALCANCE NO NACIONAL
+## Artículo 167. Normas jurídicas de alcance no nacional
 
 Si el demandante invoca como violadas normas que no tengan alcance nacional, deberá acompañarlas en copia del texto que las contenga.
 

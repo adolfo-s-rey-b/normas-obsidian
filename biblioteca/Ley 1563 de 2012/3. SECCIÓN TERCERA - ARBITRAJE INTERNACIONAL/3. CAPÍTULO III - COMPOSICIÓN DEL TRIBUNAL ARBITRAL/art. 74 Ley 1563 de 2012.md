@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "74"
-epigrafe: "ARBITRAJE ENTRE PARTES CON VARIOS SUJETOS O ENTRE MÁS DE DOS PARTES"
+epigrafe: "Arbitraje entre partes con varios sujetos o entre más de dos partes"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo III|CAPÍTULO III - COMPOSICIÓN DEL TRIBUNAL ARBITRAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]]
 
-## Artículo 74. ARBITRAJE ENTRE PARTES CON VARIOS SUJETOS O ENTRE MÁS DE DOS PARTES
+## Artículo 74. Arbitraje entre partes con varios sujetos o entre más de dos partes
 
 Cuando haya de nombrarse tres árbitros y exista pluralidad de demandantes o de demandados, los integrantes de cada parte actuarán conjuntamente, en su condición de demandantes o demandados, para el nombramiento de su respectivo árbitro, a menos que hayan convenido valerse de otro método para el nombramiento de los árbitros.
 

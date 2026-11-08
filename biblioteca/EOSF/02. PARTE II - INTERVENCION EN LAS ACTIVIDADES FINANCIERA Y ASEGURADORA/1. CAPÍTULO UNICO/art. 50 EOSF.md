@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "50"
-epigrafe: "ORIENTACION DE LOS RECURSOS DEL SISTEMA FINANCIERO"
+epigrafe: "Orientación de los Recursos del Sistema Financiero"
 parte: "[[EOSF - Parte II|PARTE II - INTERVENCION EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 capitulo: "[[EOSF - Parte II - Capítulo Unico|CAPÍTULO UNICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte II|Parte II]] › [[EOSF - Parte II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 50. ORIENTACION DE LOS RECURSOS DEL SISTEMA FINANCIERO
+## Artículo 50. Orientación de los Recursos del Sistema Financiero
 
 El Gobierno Nacional podrá determinar temporalmente la cuantía o proporción mínima de los recursos que, en la forma de préstamos o inversiones, deberán destinar los establecimientos de crédito a los diferentes sectores o actividades económicas y a los entes territoriales, cuando existan fallas de mercado o con el propósito de democratizar el crédito. Además, señalará las condiciones y términos en que habrá de cumplirse esta obligación.
 

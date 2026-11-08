@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "99"
-epigrafe: "MEDIDAS PATRIMONIALES A FAVOR DE LAS VÍCTIMAS"
+epigrafe: "Medidas patrimoniales a favor de las víctimas"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 99. MEDIDAS PATRIMONIALES A FAVOR DE LAS VÍCTIMAS
+## Artículo 99. Medidas patrimoniales a favor de las víctimas
 
 El fiscal, a solicitud del interesado, podrá:
 

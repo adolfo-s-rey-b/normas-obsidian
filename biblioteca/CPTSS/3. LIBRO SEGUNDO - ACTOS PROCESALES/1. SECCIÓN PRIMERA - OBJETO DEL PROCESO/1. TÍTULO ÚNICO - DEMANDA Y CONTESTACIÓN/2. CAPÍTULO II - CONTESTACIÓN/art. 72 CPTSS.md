@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "72"
-epigrafe: "PROCEDIMIENTO EN CASO DE CONTUMACIA"
+epigrafe: "Procedimiento en caso de contumacia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 72. PROCEDIMIENTO EN CASO DE CONTUMACIA
+## Artículo 72. Procedimiento en caso de contumacia
 
 Cuando notificada personalmente la demanda al demandado o a su representante, no fuere contestada o ninguno de estos compareciere a las audiencias, sin excusa debidamente comprobada, se continuará el proceso sin necesidad de nueva citación.
 

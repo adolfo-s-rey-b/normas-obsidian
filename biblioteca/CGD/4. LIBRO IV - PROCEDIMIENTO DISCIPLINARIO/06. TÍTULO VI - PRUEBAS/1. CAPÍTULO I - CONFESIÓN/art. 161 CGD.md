@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "161"
-epigrafe: "REQUISITOS DE LA CONFESIÓN O ACEPTACIÓN DE CARGOS"
+epigrafe: "Requisitos de la confesión o aceptación de cargos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo I|CAPÍTULO I - CONFESIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 161. REQUISITOS DE LA CONFESIÓN O ACEPTACIÓN DE CARGOS
+## Artículo 161. Requisitos de la confesión o aceptación de cargos
 
 La confesión o la aceptación de cargos deberán reunir los siguientes requisitos:
 

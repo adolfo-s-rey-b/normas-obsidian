@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "493"
-epigrafe: "ACEPTACIÓN POR LOS ACREEDORES DEL ASIGNATARIO"
+epigrafe: "Aceptación por los acreedores del asignatario"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 493. ACEPTACIÓN POR LOS ACREEDORES DEL ASIGNATARIO
+## Artículo 493. Aceptación por los acreedores del asignatario
 
 Con el fin de iniciar el proceso de sucesión o para intervenir en él, mientras no se haya proferido sentencia aprobatoria de la partición o adjudicación de bienes, cualquier acreedor de un heredero o legatario que hubiere repudiado la asignación, podrá solicitar al juez que lo autorice para aceptarla hasta concurrencia de su crédito, para lo cual deberá afirmar bajo juramento, que se entenderá prestado por la presentación del escrito, que la repudiación le causa perjuicio.
 

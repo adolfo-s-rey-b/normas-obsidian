@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "202"
-epigrafe: "REQUISITOS DEL INTERROGATORIO DE PARTE"
+epigrafe: "Requisitos del interrogatorio de parte"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 202. REQUISITOS DEL INTERROGATORIO DE PARTE
+## Artículo 202. Requisitos del interrogatorio de parte
 
 El interrogatorio será oral. El peticionario podrá formular las preguntas por escrito en pliego abierto o cerrado que podrá acompañar al memorial en que pida la prueba, presentarlo o sustituirlo antes del día señalado para la audiencia. Si el pliego está cerrado, el juez lo abrirá al iniciarse la diligencia.
 

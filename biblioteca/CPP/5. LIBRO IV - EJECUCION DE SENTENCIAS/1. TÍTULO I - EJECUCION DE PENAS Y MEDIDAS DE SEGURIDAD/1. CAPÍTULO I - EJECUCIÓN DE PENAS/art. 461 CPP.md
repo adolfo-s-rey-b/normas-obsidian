@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "461"
-epigrafe: "SUSTITUCIÓN DE LA EJECUCIÓN DE LA PENA"
+epigrafe: "Sustitución de la ejecución de la pena"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo I|CAPÍTULO I - EJECUCIÓN DE PENAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 461. SUSTITUCIÓN DE LA EJECUCIÓN DE LA PENA
+## Artículo 461. Sustitución de la ejecución de la pena
 
 El juez de ejecución de penas y medidas de seguridad podrá ordenar al Instituto Nacional Penitenciario y Carcelario la sustitución de la ejecución de la pena, previa caución, en los mismos casos de la sustitución de la detención preventiva.
 

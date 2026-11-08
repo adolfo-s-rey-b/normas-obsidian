@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "60"
-epigrafe: "CUMPLIMIENTO DE LAS MEDIDAS"
+epigrafe: "Cumplimiento de las Medidas"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo V|CAPÍTULO V - DE LAS MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 60. CUMPLIMIENTO DE LAS MEDIDAS
+## Artículo 60. Cumplimiento de las Medidas
 
 Las medidas decretadas se cumplirán antes de la notificación de la demanda.
 

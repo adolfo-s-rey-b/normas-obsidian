@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 255 CPTSS|Artículo 255]] — TRASLADO DE LA DEMANDA
-- [[art. 256 CPTSS|Artículo 256]] — DEMANDA DE RECONVENCIÓN
-- [[art. 257 CPTSS|Artículo 257]] — FORMA Y CONTENIDO DE LA DEMANDA DE RECONVENCIÓN
-- [[art. 258 CPTSS|Artículo 258]] — AUDIENCIA INICIAL: DE CONCILIACIÓN, DECISIÓN DE EXCEPCIONES PREVIAS, SANEAMIENTO, FIJACIÓN DEL LITIGIO Y DECRETO DE PRUEBAS
-- [[art. 259 CPTSS|Artículo 259]] — AUDIENCIA DE TRÁMITE Y JUZGAMIENTO
-- [[art. 260 CPTSS|Artículo 260]] — SENTENCIA ANTICIPADA
+- [[art. 255 CPTSS|Artículo 255]] — Traslado de la demanda
+- [[art. 256 CPTSS|Artículo 256]] — Demanda de reconvención
+- [[art. 257 CPTSS|Artículo 257]] — Forma y contenido de la demanda de reconvención
+- [[art. 258 CPTSS|Artículo 258]] — Audiencia inicial: de conciliación, decisión de excepciones previas, saneamiento, fijación del litigio y decreto de pruebas
+- [[art. 259 CPTSS|Artículo 259]] — Audiencia de trámite y juzgamiento
+- [[art. 260 CPTSS|Artículo 260]] — Sentencia anticipada
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] · [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo II|Capítulo II]] →

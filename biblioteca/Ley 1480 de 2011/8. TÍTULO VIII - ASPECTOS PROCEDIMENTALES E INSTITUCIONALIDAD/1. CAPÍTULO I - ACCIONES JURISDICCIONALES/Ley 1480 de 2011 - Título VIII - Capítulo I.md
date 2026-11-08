@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 56 Ley 1480 de 2011|Artículo 56]] — ACCIONES JURISDICCIONALES
+- [[art. 56 Ley 1480 de 2011|Artículo 56]] — Acciones jurisdiccionales
 - [[Ley 1480 de 2011 - Título VIII - Capítulo I - Acción de protección al consumidor|ACCIÓN DE PROTECCIÓN AL CONSUMIDOR]] (arts. 57 a 58)
 
 ---

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "62"
-epigrafe: "CONFORMACIÓN DE LA COMISIÓN NACIONAL PARA LA MORALIZACIÓN"
+epigrafe: "Conformación de la Comisión Nacional para la Moralización"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 61 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 62. CONFORMACIÓN DE LA COMISIÓN NACIONAL PARA LA MORALIZACIÓN
+## Artículo 62. Conformación de la Comisión Nacional para la Moralización
 
 Créase la Comisión Nacional para la Moralización, integrada por:
 

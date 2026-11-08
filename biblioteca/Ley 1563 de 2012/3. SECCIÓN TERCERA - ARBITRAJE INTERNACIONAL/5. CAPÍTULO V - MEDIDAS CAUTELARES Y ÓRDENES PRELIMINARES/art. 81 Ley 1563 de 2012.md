@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "81"
-epigrafe: "CONDICIONES PARA EL DECRETO DE MEDIDAS CAUTELARES"
+epigrafe: "Condiciones para el decreto de medidas cautelares"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo V|CAPÍTULO V - MEDIDAS CAUTELARES Y ÓRDENES PRELIMINARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo V|Capítulo V]]
 
-## Artículo 81. CONDICIONES PARA EL DECRETO DE MEDIDAS CAUTELARES
+## Artículo 81. Condiciones para el decreto de medidas cautelares
 
 El solicitante de alguna medida cautelar prevista en el inciso segundo del artículo [[art. 80 Ley 1563 de 2012|80]] deberá mostrar al tribunal arbitral la conducencia, pertinencia, razonabilidad y oportunidad de la medida cautelar.
 

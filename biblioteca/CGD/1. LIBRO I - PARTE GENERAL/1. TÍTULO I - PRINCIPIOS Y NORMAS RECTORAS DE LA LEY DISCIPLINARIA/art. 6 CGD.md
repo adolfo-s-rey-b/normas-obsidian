@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "6"
-epigrafe: "PROPORCIONALIDAD Y RAZONABILIDAD DE LA SANCIÓN DISCIPLINARIA"
+epigrafe: "Proporcionalidad y razonabilidad de la sanción disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 6. PROPORCIONALIDAD Y RAZONABILIDAD DE LA SANCIÓN DISCIPLINARIA
+## Artículo 6. Proporcionalidad y razonabilidad de la sanción disciplinaria
 
 La imposición de la sanción disciplinaria deberá responder a los principios de proporcionalidad y razonabilidad. La sanción disciplinaria debe corresponder a la clasificación de la falta y a su graduación de acuerdo con los criterios que fija esta ley.
 

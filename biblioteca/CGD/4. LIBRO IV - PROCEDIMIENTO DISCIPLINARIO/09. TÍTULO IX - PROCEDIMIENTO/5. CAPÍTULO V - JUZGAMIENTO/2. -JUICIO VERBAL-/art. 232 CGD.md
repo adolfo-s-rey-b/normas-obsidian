@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "232"
-epigrafe: "EJECUTORIA DE LA DECISIÓN"
+epigrafe: "Ejecutoria de la decisión"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 232. EJECUTORIA DE LA DECISIÓN
+## Artículo 232. Ejecutoria de la decisión
 
 La decisión final se entenderá notificada en estrados y quedará ejecutoriada a la terminación de la misma, si no fuere recurrida.
 

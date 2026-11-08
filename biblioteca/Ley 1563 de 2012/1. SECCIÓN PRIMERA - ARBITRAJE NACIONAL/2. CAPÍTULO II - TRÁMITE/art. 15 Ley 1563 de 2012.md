@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "15"
-epigrafe: "DEBER DE INFORMACIÓN"
+epigrafe: "Deber de información"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 15. DEBER DE INFORMACIÓN
+## Artículo 15. Deber de información
 
 La persona a quien se comunique su nombramiento como árbitro o como secretario deberá informar, al aceptar, si coincide o ha coincidido con alguna de las partes o sus apoderados en otros procesos arbitrales o judiciales, trámites administrativos o cualquier otro asunto profesional en los que él o algún miembro de la oficina de abogados a la que pertenezca o haya pertenecido, intervenga o haya intervenido como árbitro, apoderado, consultor, asesor, secretario o auxiliar de la justicia en el curso de los dos (2) últimos años. Igualmente deberá indicar cualquier relación de carácter familiar o personal que sostenga con las partes o sus apoderados.
 

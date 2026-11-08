@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "13"
-epigrafe: "COMPETENCIA POR RAZÓN DE LA CUANTÍA"
+epigrafe: "Competencia por razón de la cuantía"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 13. COMPETENCIA POR RAZÓN DE LA CUANTÍA
+## Artículo 13. Competencia por razón de la cuantía
 
 Los jueces laborales municipales conocen en primera instancia de los procesos de mínima cuantía cuyo monto no exceda del equivalente a cuarenta (40) veces el salario mínimo legal mensual vigente (SMLMV).
 

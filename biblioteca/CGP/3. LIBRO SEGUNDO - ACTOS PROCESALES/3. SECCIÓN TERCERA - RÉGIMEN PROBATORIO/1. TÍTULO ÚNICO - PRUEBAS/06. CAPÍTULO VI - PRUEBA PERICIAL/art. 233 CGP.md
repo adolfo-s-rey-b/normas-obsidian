@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "233"
-epigrafe: "DEBER DE COLABORACIÓN DE LAS PARTES"
+epigrafe: "Deber de colaboración de las partes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 233. DEBER DE COLABORACIÓN DE LAS PARTES
+## Artículo 233. Deber de colaboración de las partes
 
 Las partes tienen el deber de colaborar con el perito, de facilitarle los datos, las cosas y el acceso a los lugares necesarios para el desempeño de su cargo; si alguno no lo hiciere se hará constar así en el dictamen y el juez apreciará tal conducta como indicio en su contra.
 

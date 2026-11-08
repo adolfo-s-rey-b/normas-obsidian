@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "78"
-epigrafe: "DE LOS CONTRATOS, PROCEDIMIENTOS Y PROCESOS EN CURSO"
+epigrafe: "De los Contratos Procedimientos y Procesos en curso"
 rubro: "[[Ley 80 de 1993 - Ix. de las disposiciones varias|IX. DE LAS DISPOSICIONES VARIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 77 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ix. de las disposiciones varias|Ix. de las disposiciones varias]]
 
-## Artículo 78. DE LOS CONTRATOS, PROCEDIMIENTOS Y PROCESOS EN CURSO
+## Artículo 78. De los Contratos Procedimientos y Procesos en curso
 
 Los contratos, los procedimientos de selección y los procesos judiciales en curso a la fecha en que entre a regir la presente ley, continuarán sujetos a las normas vigentes en el momento de su celebración o iniciación.
 

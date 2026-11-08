@@ -8,12 +8,12 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "25"
-epigrafe: "CUANTÍA"
+epigrafe: "Cuantía"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
 capitulo: "[[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|CAPÍTULO I - COMPETENCIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 24 CGP]]"
 siguiente: "[[art. 26 CGP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1564_2012.html"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 25. CUANTÍA
+## Artículo 25. Cuantía
 
 Cuando la competencia se determine por la cuantía, los procesos son de mayor, de menor y de mínima cuantía.
 

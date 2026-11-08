@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "17"
-epigrafe: "TRÁMITE DE LOS IMPEDIMENTOS Y LAS RECUSACIONES"
+epigrafe: "Trámite de los impedimentos y las recusaciones"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 17. TRÁMITE DE LOS IMPEDIMENTOS Y LAS RECUSACIONES
+## Artículo 17. Trámite de los impedimentos y las recusaciones
 
 El árbitro que se declare impedido cesará inmediatamente en sus funciones y lo comunicará a quien o quienes lo designaron, para que procedan a reemplazado.
 

@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 96 CGP|Artículo 96]] — CONTESTACIÓN DE LA DEMANDA
-- [[art. 97 CGP|Artículo 97]] — FALTA DE CONTESTACIÓN O CONTESTACIÓN DEFICIENTE DE LA DEMANDA
-- [[art. 98 CGP|Artículo 98]] — ALLANAMIENTO A LA DEMANDA
-- [[art. 99 CGP|Artículo 99]] — INEFICACIA DEL ALLANAMIENTO
+- [[art. 96 CGP|Artículo 96]] — Contestación de la demanda
+- [[art. 97 CGP|Artículo 97]] — Falta de contestación o contestación deficiente de la demanda
+- [[art. 98 CGP|Artículo 98]] — Allanamiento a la demanda
+- [[art. 99 CGP|Artículo 99]] — Ineficacia del allanamiento
 
 ---
 ← [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo III|Capítulo III]] →

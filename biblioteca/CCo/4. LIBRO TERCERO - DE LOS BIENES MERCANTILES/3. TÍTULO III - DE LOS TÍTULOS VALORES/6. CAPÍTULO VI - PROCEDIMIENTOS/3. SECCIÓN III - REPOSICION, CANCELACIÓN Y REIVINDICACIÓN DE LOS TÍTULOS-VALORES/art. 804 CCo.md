@@ -13,7 +13,7 @@ libro: "[[CCo - Libro Tercero|LIBRO TERCERO - DE LOS BIENES MERCANTILES]]"
 titulo: "[[CCo - Libro Tercero - Título III|TÍTULO III - DE LOS TÍTULOS VALORES]]"
 capitulo: "[[CCo - Libro Tercero - Título III - Capítulo VI|CAPÍTULO VI - PROCEDIMIENTOS]]"
 seccion: "[[CCo - Libro Tercero - Título III - Capítulo VI - Sección III|SECCIÓN III - REPOSICION, CANCELACIÓN Y REIVINDICACIÓN DE LOS TÍTULOS-VALORES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 803 CCo]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Tercero|Libro Tercero]] › [[CCo - Libro Tercero - Título III|Título III]] › [[CCo - Libro Tercero - Título III - Capítulo VI|Capítulo VI]] › [[CCo - Libro Tercero - Título III - Capítulo VI - Sección III|Sección III]]

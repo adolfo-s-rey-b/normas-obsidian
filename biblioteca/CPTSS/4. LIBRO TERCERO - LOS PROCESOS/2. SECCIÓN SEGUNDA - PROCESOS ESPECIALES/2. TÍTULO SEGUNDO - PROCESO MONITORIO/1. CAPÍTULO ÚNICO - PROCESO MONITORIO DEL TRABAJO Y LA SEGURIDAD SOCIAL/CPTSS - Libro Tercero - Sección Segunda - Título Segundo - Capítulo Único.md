@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 286 CPTSS|Artículo 286]] — PROCESO MONITORIO DEL TRABAJO Y LA SEGURIDAD SOCIAL
-- [[art. 287 CPTSS|Artículo 287]] — CONTENIDO DE LA DEMANDA
-- [[art. 288 CPTSS|Artículo 288]] — REQUERIMIENTO DE PAGO
-- [[art. 289 CPTSS|Artículo 289]] — CONTESTACIÓN
-- [[art. 290 CPTSS|Artículo 290]] — TRÁMITE POSTERIOR AL REQUERIMIENTO
-- [[art. 291 CPTSS|Artículo 291]] — MEDIDAS CAUTELARES
+- [[art. 286 CPTSS|Artículo 286]] — Proceso monitorio del trabajo y la seguridad social
+- [[art. 287 CPTSS|Artículo 287]] — Contenido de la demanda
+- [[art. 288 CPTSS|Artículo 288]] — Requerimiento de pago
+- [[art. 289 CPTSS|Artículo 289]] — Contestación
+- [[art. 290 CPTSS|Artículo 290]] — Trámite posterior al requerimiento
+- [[art. 291 CPTSS|Artículo 291]] — Medidas cautelares
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Segunda - Título Segundo|Título Segundo]]

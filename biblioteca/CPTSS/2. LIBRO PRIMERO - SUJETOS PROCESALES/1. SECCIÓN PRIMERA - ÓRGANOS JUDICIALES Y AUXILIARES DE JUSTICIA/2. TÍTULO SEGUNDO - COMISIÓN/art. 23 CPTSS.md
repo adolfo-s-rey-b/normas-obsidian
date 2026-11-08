@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "23"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 23. COMPETENCIA
+## Artículo 23. Competencia
 
 La Sala de Casación Laboral de la Corte Suprema de Justicia podrá comisionar a las demás autoridades judiciales. Los tribunales superiores y los jueces podrán comisionar a las autoridades judiciales de igual o de inferior categoría.
 

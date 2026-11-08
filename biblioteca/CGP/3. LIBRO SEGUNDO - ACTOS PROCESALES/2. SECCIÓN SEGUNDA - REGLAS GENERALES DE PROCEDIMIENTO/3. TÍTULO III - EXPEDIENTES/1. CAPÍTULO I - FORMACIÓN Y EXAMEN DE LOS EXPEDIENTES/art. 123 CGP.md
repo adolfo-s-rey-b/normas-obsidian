@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "123"
-epigrafe: "EXAMEN DE LOS EXPEDIENTES"
+epigrafe: "Examen de los expedientes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título III|TÍTULO III - EXPEDIENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]] › [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 123. EXAMEN DE LOS EXPEDIENTES
+## Artículo 123. Examen de los expedientes
 
 Los expedientes solo podrán ser examinados:
 

@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 17 Ley 820 de 2003|Artículo 17]] — SUBARRIENDO Y CESIÓN
+- [[art. 17 Ley 820 de 2003|Artículo 17]] — Subarriendo y cesión
 
 ---
 ← [[Ley 820 de 2003 - Capítulo IV|Capítulo IV]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo VI|Capítulo VI]] →

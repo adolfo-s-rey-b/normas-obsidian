@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "31"
-epigrafe: "AUDIENCIAS Y PRUEBAS"
+epigrafe: "Audiencias y pruebas"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 31. AUDIENCIAS Y PRUEBAS
+## Artículo 31. Audiencias y pruebas
 
 El tribunal en pleno realizará las audiencias que considere necesarias, con o sin participación de las partes. Las audiencias podrán realizarse por cualquier sistema que permita la comunicación de los participantes entre sí.
 

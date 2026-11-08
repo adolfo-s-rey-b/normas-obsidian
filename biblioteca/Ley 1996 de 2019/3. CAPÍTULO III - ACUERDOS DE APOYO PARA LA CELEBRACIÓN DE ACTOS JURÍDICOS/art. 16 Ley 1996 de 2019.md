@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "16"
-epigrafe: "ACUERDOS DE APOYO POR ESCRITURA PÚBLICA ANTE NOTARIO"
+epigrafe: "Acuerdos de apoyo por escritura pública ante notario"
 capitulo: "[[Ley 1996 de 2019 - Capítulo III|CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 15 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo III|Capítulo III]]
 
-## Artículo 16. ACUERDOS DE APOYO POR ESCRITURA PÚBLICA ANTE NOTARIO
+## Artículo 16. Acuerdos de apoyo por escritura pública ante notario
 
 Los acuerdos de apoyo deberán constar en escritura pública suscrita por la persona titular del acto jurídico y la o las personas naturales mayores de edad o jurídicas que actúen como apoyos, conforme a las reglas contenidas en el Decreto número 960 de 1970 y aquellas normas que lo modifiquen, adicionen o sustituyan.
 

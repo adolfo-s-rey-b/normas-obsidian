@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "232"
-epigrafe: "PROCEDENCIA DEL RECURSO DE QUEJA"
+epigrafe: "Procedencia del recurso de queja"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 232. PROCEDENCIA DEL RECURSO DE QUEJA
+## Artículo 232. Procedencia del recurso de queja
 
 Cuando el juez de primera instancia deniegue el recurso de apelación o lo conceda en el efecto que no corresponda, el recurrente podrá interponer el de queja para que el superior lo conceda si fuere procedente. El mismo recurso procede cuando se deniegue el de casación y anulación.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "155"
-epigrafe: "ASEGURAMIENTO DE LA PRUEBA"
+epigrafe: "Aseguramiento de la prueba"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 155. ASEGURAMIENTO DE LA PRUEBA
+## Artículo 155. Aseguramiento de la prueba
 
 El funcionario competente de la Procuraduría General de la Nación, en ejercicio de las facultades de policía judicial, tomará las medidas que sean necesarias para asegurar los elementos de prueba.
 

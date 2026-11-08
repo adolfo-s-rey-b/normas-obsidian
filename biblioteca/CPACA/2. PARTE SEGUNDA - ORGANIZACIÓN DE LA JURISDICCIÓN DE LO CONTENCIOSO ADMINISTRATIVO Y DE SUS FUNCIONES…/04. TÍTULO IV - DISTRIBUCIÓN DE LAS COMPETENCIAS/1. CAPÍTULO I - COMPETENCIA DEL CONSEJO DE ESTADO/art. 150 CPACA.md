@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "150"
-epigrafe: "COMPETENCIA DEL CONSEJO DE ESTADO EN SEGUNDA INSTANCIA Y CAMBIO DE RADICACIÓN"
+epigrafe: "Competencia del Consejo de Estado en segunda instancia y cambio de radicación"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo I|CAPÍTULO I - COMPETENCIA DEL CONSEJO DE ESTADO]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 150. COMPETENCIA DEL CONSEJO DE ESTADO EN SEGUNDA INSTANCIA Y CAMBIO DE RADICACIÓN
+## Artículo 150. Competencia del Consejo de Estado en segunda instancia y cambio de radicación
 
 > [!info] Artículo modificado por del artículo [[art. 615 CGP|615]] de la Ley 1564 de 2012. El nuevo texto es el siguiente:
 

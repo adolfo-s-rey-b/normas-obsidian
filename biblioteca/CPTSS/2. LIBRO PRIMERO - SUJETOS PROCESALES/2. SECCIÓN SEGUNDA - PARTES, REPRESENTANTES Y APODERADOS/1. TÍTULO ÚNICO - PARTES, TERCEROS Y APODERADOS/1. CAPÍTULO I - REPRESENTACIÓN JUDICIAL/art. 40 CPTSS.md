@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "40"
-epigrafe: "FUNCIONES Y FACULTADES DEL CURADOR AD LITEM"
+epigrafe: "Funciones y facultades del curador ad litem"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 40. FUNCIONES Y FACULTADES DEL CURADOR AD LITEM
+## Artículo 40. Funciones y facultades del curador ad litem
 
 El curador ad litem actuará en el proceso hasta cuando concurra la persona a quien representa, o un representante de esta. Dicho curador está facultado para realizar todos los actos procesales que no estén reservados a la parte misma, pero no puede recibir ni disponer del derecho en litigio.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "185"
-epigrafe: "TRÁMITE DEL CONTROL INMEDIATO DE LEGALIDAD DE ACTOS"
+epigrafe: "Trámite del control inmediato de legalidad de actos"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]]
 
-## Artículo 185. TRÁMITE DEL CONTROL INMEDIATO DE LEGALIDAD DE ACTOS
+## Artículo 185. Trámite del control inmediato de legalidad de actos
 
 Recibida la copia auténtica del texto de los actos administrativos a los que se refiere el control inmediato de legalidad de que trata el artículo [[art. 136 CPACA|136]] de este Código o aprendido de oficio el conocimiento de su legalidad en caso de inobservancia del deber de envío de los mismos, se procederá así:
 

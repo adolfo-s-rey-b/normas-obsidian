@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "51"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo III|CAPÍTULO III - DE LA JURISDICCION Y COMPETENCIA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 51. COMPETENCIA
+## Artículo 51. Competencia
 
 De las acciones de grupo conocerán en primera instancia los jueces administrativos y los jueces civiles de circuito. En segunda instancia la competencia corresponderá a la sección primera del Tribunal Contencioso Administrativo o a la Sala Civil del Tribunal del Distrito Judicial al que pertenezca el juez de primera instancia.
 

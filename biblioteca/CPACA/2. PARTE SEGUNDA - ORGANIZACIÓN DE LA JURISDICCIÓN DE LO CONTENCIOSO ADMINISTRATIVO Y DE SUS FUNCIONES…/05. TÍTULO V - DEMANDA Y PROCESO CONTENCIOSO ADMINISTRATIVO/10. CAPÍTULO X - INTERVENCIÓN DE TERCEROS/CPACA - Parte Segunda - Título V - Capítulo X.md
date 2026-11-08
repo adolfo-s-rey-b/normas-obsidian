@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 223 CPACA|Artículo 223]] — COADYUVANCIA EN LOS PROCESOS DE SIMPLE NULIDAD
-- [[art. 224 CPACA|Artículo 224]] — COADYUVANCIA, LITISCONSORTE FACULTATIVO E INTERVENCIÓN AD EXCLUDENDUM EN LOS PROCESOS QUE SE TRAMITAN CON OCASIÓN DE PRETENSIONES DE NULIDAD Y RESTABLECIMIENTO DEL DERECHO, CONTRACTUALES Y DE REPARACIÓN DIRECTA
-- [[art. 225 CPACA|Artículo 225]] — LLAMAMIENTO EN GARANTÍA
-- [[art. 226 CPACA|Artículo 226]] — IMPUGNACIÓN DE LAS DECISIONES SOBRE INTERVENCIÓN DE TERCEROS
-- [[art. 227 CPACA|Artículo 227]] — TRÁMITE Y ALCANCES DE LA INTERVENCIÓN DE TERCEROS
-- [[art. 228 CPACA|Artículo 228]] — INTERVENCIÓN DE TERCEROS EN PROCESOS ELECTORALES E IMPROCEDENCIA EN LOS PROCESOS DE PÉRDIDAS DE INVESTIDURA
+- [[art. 223 CPACA|Artículo 223]] — Coadyuvancia en los procesos de simple nulidad
+- [[art. 224 CPACA|Artículo 224]] — Coadyuvancia, litisconsorte facultativo e intervención ad excludendum en los procesos que se tramitan con ocasión de pretensiones de nulidad y restablecimiento del derecho, contractuales y de reparación directa
+- [[art. 225 CPACA|Artículo 225]] — Llamamiento en garantía
+- [[art. 226 CPACA|Artículo 226]] — Impugnación de las decisiones sobre intervención de terceros
+- [[art. 227 CPACA|Artículo 227]] — Trámite y alcances de la intervención de terceros
+- [[art. 228 CPACA|Artículo 228]] — Intervención de terceros en procesos electorales e improcedencia en los procesos de pérdidas de investidura
 
 ---
 ← [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]] · ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]] →

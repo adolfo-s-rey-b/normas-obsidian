@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "9"
-epigrafe: "MECANISMOS PARA ESTABLECER APOYOS PARA LA REALIZACIÓN DE ACTOS JURÍDICOS"
+epigrafe: "Mecanismos para establecer apoyos para la realización de actos jurídicos"
 capitulo: "[[Ley 1996 de 2019 - Capítulo II|CAPÍTULO II - MECANISMOS PARA EL EJERCICIO DE LA CAPACIDAD LEGAL Y PARA LA REALIZACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 8 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo II|Capítulo II]]
 
-## Artículo 9. MECANISMOS PARA ESTABLECER APOYOS PARA LA REALIZACIÓN DE ACTOS JURÍDICOS
+## Artículo 9. Mecanismos para establecer apoyos para la realización de actos jurídicos
 
 Todas las personas con discapacidad, mayores de edad, tienen derecho a realizar actos jurídicos de manera independiente y a contar con apoyos para la realización de los mismos.
 

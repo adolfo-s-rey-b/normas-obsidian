@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "464"
-epigrafe: "REMISIÓN"
+epigrafe: "Remisión"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo I|CAPÍTULO I - EJECUCIÓN DE PENAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 464. REMISIÓN
+## Artículo 464. Remisión
 
 Los aspectos relacionados con la ejecución de la pena no regulados en este código se regirán por lo dispuesto en el Código Penal y el Código Penitenciario y Carcelario.
 

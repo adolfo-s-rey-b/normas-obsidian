@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 233 CP|Artículo 233]] — INASISTENCIA ALIMENTARIA
-- [[art. 234 CP|Artículo 234]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
-- [[art. 235 CP|Artículo 235]] — REITERACIÓN
-- [[art. 236 CP|Artículo 236]] — MALVERSACIÓN Y DILAPIDACIÓN DE BIENES DE FAMILIARES
+- [[art. 233 CP|Artículo 233]] — Inasistencia alimentaria
+- [[art. 234 CP|Artículo 234]] — Circunstancias de agravación punitiva
+- [[art. 235 CP|Artículo 235]] — Reiteracion
+- [[art. 236 CP|Artículo 236]] — Malversación y dilapidación de bienes de familiares
 
 ---
 ← [[CP - Libro Segundo - Título VI - Capítulo Tercero|Capítulo Tercero]] · ↑ [[CP - Libro Segundo - Título VI|Título VI]] · [[CP - Libro Segundo - Título VI - Capítulo Quinto|Capítulo Quinto]] →

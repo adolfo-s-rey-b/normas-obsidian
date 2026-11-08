@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "75"
-epigrafe: "REGIMEN DE INCOMPATIBILIDADES E INHABILIDADES DE LOS ESTABLECIMIENTOS BANCARIOS"
+epigrafe: "Régimen de Incompatibilidades e Inhabilidades de los Establecimientos Bancarios"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "parcialmente derogado"
@@ -34,7 +34,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 75. REGIMEN DE INCOMPATIBILIDADES E INHABILIDADES DE LOS ESTABLECIMIENTOS BANCARIOS
+## Artículo 75. Régimen de Incompatibilidades e Inhabilidades de los Establecimientos Bancarios
 
 1\. Regla general. Los miembros de las juntas directivas y los gerentes de los establecimientos bancarios no podrán pertenecer a juntas directivas de otros establecimientos de crédito, ~~ni a las Bolsas de Valores~~, con excepción de la Junta Directiva del Banco de la República.
 

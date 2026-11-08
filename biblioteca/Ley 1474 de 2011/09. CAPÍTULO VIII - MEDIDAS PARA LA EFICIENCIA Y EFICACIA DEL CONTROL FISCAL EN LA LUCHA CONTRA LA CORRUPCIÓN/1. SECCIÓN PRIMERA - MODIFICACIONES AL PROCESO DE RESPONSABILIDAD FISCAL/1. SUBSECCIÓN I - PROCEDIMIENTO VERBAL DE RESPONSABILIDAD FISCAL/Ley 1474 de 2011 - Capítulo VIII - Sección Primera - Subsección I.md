@@ -22,15 +22,15 @@ tags:
 
 ### Contenido
 
-- [[art. 97 Ley 1474 de 2011|Artículo 97]] — PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL
-- [[art. 98 Ley 1474 de 2011|Artículo 98]] — ETAPAS DEL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL
-- [[art. 99 Ley 1474 de 2011|Artículo 99]] — AUDIENCIA DE DESCARGOS
-- [[art. 100 Ley 1474 de 2011|Artículo 100]] — TRÁMITE DE LA AUDIENCIA DE DESCARGOS
-- [[art. 101 Ley 1474 de 2011|Artículo 101]] — TRÁMITE DE LA AUDIENCIA DE DECISIÓN
-- [[art. 102 Ley 1474 de 2011|Artículo 102]] — RECURSOS
-- [[art. 103 Ley 1474 de 2011|Artículo 103]] — MEDIDAS CAUTELARES
-- [[art. 104 Ley 1474 de 2011|Artículo 104]] — NOTIFICACIÓN DE LAS DECISIONES
-- [[art. 105 Ley 1474 de 2011|Artículo 105]] — REMISIÓN A OTRAS FUENTES NORMATIVAS
+- [[art. 97 Ley 1474 de 2011|Artículo 97]] — Procedimiento verbal de responsabilidad fiscal
+- [[art. 98 Ley 1474 de 2011|Artículo 98]] — Etapas del procedimiento verbal de responsabilidad fiscal
+- [[art. 99 Ley 1474 de 2011|Artículo 99]] — Audiencia de descargos
+- [[art. 100 Ley 1474 de 2011|Artículo 100]] — Trámite de la audiencia de descargos
+- [[art. 101 Ley 1474 de 2011|Artículo 101]] — Trámite de la audiencia de decisión
+- [[art. 102 Ley 1474 de 2011|Artículo 102]] — Recursos
+- [[art. 103 Ley 1474 de 2011|Artículo 103]] — Medidas cautelares
+- [[art. 104 Ley 1474 de 2011|Artículo 104]] — Notificación de las decisiones
+- [[art. 105 Ley 1474 de 2011|Artículo 105]] — Remisión a otras fuentes normativas
 
 ---
 ↑ [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] · [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|Subsección II]] →

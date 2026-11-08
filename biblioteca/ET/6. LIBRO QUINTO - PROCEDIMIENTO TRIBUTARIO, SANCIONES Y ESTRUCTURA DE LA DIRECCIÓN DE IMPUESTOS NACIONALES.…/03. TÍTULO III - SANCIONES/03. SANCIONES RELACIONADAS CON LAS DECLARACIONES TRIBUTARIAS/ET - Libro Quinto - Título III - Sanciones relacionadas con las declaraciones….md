@@ -33,7 +33,7 @@ tags:
 - [[art. 647-1 ET|Artículo 647-1]] — RECHAZO O DISMINUCIÓN DE PÉRDIDAS
 - [[art. 648 ET|Artículo 648]] — SANCIÓN POR INEXACTITUD
 - [[art. 649 ET|Artículo 649]] — TRANSITORIO
-- [[art. 650 ET|Artículo 650]] — SANCIÓN POR USO FRAUDULENTO DE CEDULAS
+- [[art. 650 ET|Artículo 650]] — SANCIÓN POR USO FRAUDULENTO DE CÉDULAS
 - [[art. 650-1 ET|Artículo 650-1]] — SANCIÓN POR NO INFORMAR LA DIRECCIÓN
 - [[art. 650-2 ET|Artículo 650-2]]
 

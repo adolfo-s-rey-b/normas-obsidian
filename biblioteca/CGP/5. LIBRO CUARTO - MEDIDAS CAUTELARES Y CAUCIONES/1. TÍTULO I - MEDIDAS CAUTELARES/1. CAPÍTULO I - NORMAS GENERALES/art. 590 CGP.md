@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "590"
-epigrafe: "MEDIDAS CAUTELARES EN PROCESOS DECLARATIVOS"
+epigrafe: "Medidas cautelares en procesos declarativos"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 590. MEDIDAS CAUTELARES EN PROCESOS DECLARATIVOS
+## Artículo 590. Medidas cautelares en procesos declarativos
 
 En los procesos declarativos se aplicarán las siguientes reglas para la solicitud, decreto, práctica, modificación, sustitución o revocatoria de las medidas cautelares:
 

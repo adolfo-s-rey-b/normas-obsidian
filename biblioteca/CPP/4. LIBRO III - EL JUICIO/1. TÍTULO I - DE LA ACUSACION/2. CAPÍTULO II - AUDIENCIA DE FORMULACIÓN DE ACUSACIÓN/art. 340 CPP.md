@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "340"
-epigrafe: "LA VÍCTIMA"
+epigrafe: "La víctima"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
 capitulo: "[[CPP - Libro III - Título I - Capítulo II|CAPÍTULO II - AUDIENCIA DE FORMULACIÓN DE ACUSACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]] › [[CPP - Libro III - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 340. LA VÍCTIMA
+## Artículo 340. La víctima
 
 En esta audiencia se determinará la calidad de víctima, de conformidad con el artículo [[art. 132 CPP|132]] de este código. Se reconocerá su representación legal en caso de que se constituya. De existir un número plural de víctimas, el juez podrá determinar igual número de representantes al de defensores para que intervengan en el transcurso del juicio oral.
 

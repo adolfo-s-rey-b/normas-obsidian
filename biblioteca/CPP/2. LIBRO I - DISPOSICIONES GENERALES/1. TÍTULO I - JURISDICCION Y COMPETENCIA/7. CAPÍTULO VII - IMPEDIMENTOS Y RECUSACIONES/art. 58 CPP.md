@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "58"
-epigrafe: "IMPEDIMENTO DEL FISCAL GENERAL DE LA NACIÓN"
+epigrafe: "Impedimento del Fiscal General de la Nación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 58. IMPEDIMENTO DEL FISCAL GENERAL DE LA NACIÓN
+## Artículo 58. Impedimento del Fiscal General de la Nación
 
 Si el Fiscal General de la Nación se declarare impedido o no aceptare la recusación, enviará la actuación a la Sala Plena de la Corte Suprema de Justicia, para que resuelva de plano.
 

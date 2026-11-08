@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "103"
-epigrafe: "SANCIONES POR INASISTENCIA"
+epigrafe: "Sanciones por inasistencia"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|CAPÍTULO 4 - DE LA CONCILIACION JUDICIAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|Capítulo 4]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 2|Sección 2]]
 
-## Artículo 103. SANCIONES POR INASISTENCIA
+## Artículo 103. Sanciones por inasistencia
 
 > [!warning] Artículo derogado por el literal c) del artículo [[art. 626 CGP|626]] de la Ley 1564 de 2012
 

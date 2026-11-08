@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "126"
-epigrafe: "NORMAS SOBRE SECCIONES DE AHORROS"
+epigrafe: "Normas Sobre Secciones de Ahorros"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 126. NORMAS SOBRE SECCIONES DE AHORROS
+## Artículo 126. Normas Sobre Secciones de Ahorros
 
 1\. Autorización para la apertura de secciones de ahorros. El Superintendente Bancario, una vez establezca el cumplimiento de las normas de solvencia vigentes, concederá a los establecimientos bancarios que lo soliciten, autorización para abrir y mantener secciones de ahorros.
 

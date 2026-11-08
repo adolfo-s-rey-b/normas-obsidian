@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "116"
-epigrafe: "DESGLOSES"
+epigrafe: "Desgloses"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 116. DESGLOSES
+## Artículo 116. Desgloses
 
 Los documentos podrán desglosarse del expediente y entregarse a quien los haya presentado, una vez precluida la oportunidad para tacharlos de falsos o desestimada la tacha, todo con sujeción a las siguientes reglas y por orden del juez:
 

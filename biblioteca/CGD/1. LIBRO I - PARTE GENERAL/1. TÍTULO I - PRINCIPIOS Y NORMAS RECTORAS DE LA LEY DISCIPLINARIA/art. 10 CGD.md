@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "10"
-epigrafe: "CULPABILIDAD"
+epigrafe: "Culpabilidad"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 10. CULPABILIDAD
+## Artículo 10. Culpabilidad
 
 En materia disciplinaria solo se podrá imponer sanción por conductas realizadas con culpabilidad. Las conductas solo son sancionables a título de dolo o culpa. Queda proscrita toda forma de responsabilidad objetiva.
 

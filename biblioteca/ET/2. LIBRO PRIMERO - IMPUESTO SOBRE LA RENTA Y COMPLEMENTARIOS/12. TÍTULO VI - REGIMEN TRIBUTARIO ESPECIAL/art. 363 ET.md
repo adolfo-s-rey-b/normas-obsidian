@@ -10,10 +10,10 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "363"
-epigrafe: "FUNCIONES DEL COMITE"
+epigrafe: "FUNCIONES DEL COMITÉ"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título VI|TÍTULO VI - REGIMEN TRIBUTARIO ESPECIAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 83 Ley 488 de 1998]]"
 derogado_por:
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título VI|Título VI]]
 
-## Artículo 363. FUNCIONES DEL COMITE
+## Artículo 363. FUNCIONES DEL COMITÉ
 
 Son funciones del Comité previsto en el artículo anterior, las siguientes:
 

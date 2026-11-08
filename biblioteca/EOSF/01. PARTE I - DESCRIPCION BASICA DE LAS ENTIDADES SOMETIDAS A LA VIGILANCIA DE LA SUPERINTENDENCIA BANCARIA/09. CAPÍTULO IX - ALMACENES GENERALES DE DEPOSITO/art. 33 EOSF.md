@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "33"
-epigrafe: "OBJETO Y FUNCIONES"
+epigrafe: "Objeto y Funciones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo IX|CAPÍTULO IX - ALMACENES GENERALES DE DEPOSITO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo IX|Capítulo IX]]
 
-## Artículo 33. OBJETO Y FUNCIONES
+## Artículo 33. Objeto y Funciones
 
 1\. Operaciones relativas a las mercancías. Las empresas de almacenes generales de depósito ya constituidas o que se constituyan en el futuro tienen por objeto el depósito, la conservación y custodia, el manejo y distribución, la compra y venta por cuenta de sus clientes de mercancías y de productos de procedencia nacional o extranjera.
 

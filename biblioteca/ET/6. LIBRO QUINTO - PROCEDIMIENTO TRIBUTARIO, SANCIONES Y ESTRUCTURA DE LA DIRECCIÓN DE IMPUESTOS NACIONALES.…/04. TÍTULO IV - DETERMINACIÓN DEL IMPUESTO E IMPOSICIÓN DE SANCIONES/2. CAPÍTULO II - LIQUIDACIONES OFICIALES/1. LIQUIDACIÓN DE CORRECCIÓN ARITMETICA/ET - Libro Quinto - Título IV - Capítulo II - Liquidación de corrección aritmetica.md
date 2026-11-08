@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 697 ET|Artículo 697]] — ERROR ARITMETICO
+- [[art. 697 ET|Artículo 697]] — ERROR ARITMÉTICO
 - [[art. 698 ET|Artículo 698]] — FACULTAD DE CORRECCIÓN
-- [[art. 699 ET|Artículo 699]] — TERMINO EN QUE DEBE PRACTICARSE LA CORRECCIÓN
+- [[art. 699 ET|Artículo 699]] — TÉRMINO EN QUE DEBE PRACTICARSE LA CORRECCIÓN
 - [[art. 700 ET|Artículo 700]] — CONTENIDO DE LA LIQUIDACIÓN DE CORRECCIÓN
 - [[art. 701 ET|Artículo 701]] — CORRECCIÓN DE SANCIONES
 

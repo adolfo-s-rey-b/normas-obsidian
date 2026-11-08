@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "14"
-epigrafe: "PERSONAS CONTRA QUIENES SE DIRIGE LA ACCION"
+epigrafe: "Personas Contra Quienes se Dirige la Acción"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo II|CAPÍTULO II - LEGITIMACION]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 14. PERSONAS CONTRA QUIENES SE DIRIGE LA ACCION
+## Artículo 14. Personas Contra Quienes se Dirige la Acción
 
 La Acción Popular se dirigirá contra el particular, persona natural o jurídica, o la autoridad pública cuya actuación u omisión se considere que amenaza, viola o ha violado el derecho o interés colectivo. En caso de existir la vulneración o amenaza y se desconozcan los responsables, corresponderá al juez determinarlos.
 

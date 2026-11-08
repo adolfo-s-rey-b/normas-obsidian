@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 67 CGD|Artículo 67]] — FALTAS GRAVES Y LEVES
-- [[art. 68 CGD|Artículo 68]] — PRESERVACIÓN DEL ORDEN INTERNO
+- [[art. 67 CGD|Artículo 67]] — Faltas graves y leves
+- [[art. 68 CGD|Artículo 68]] — Preservación del orden interno
 
 ---
 ← [[CGD - Libro II - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro II - Título Único|Título Único]]

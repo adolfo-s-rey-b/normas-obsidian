@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "87"
-epigrafe: "FORMACIÓN Y ARCHIVO DE LOS EXPEDIENTES"
+epigrafe: "Formación y archivo de los expedientes"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 87. FORMACIÓN Y ARCHIVO DE LOS EXPEDIENTES
+## Artículo 87. Formación y archivo de los expedientes
 
 De cada proceso en curso se formará un expediente, en el que se insertará la demanda, su contestación, y los demás documentos que le correspondan en orden cronológico. En él se tomará nota de los datos que identifiquen las grabaciones en que se registren las audiencias y diligencias.
 

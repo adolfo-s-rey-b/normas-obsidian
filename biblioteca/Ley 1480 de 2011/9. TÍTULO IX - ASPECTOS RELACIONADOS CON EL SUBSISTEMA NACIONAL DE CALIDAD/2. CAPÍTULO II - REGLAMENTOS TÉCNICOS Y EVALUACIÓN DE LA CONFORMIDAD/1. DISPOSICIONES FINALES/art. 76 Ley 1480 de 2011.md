@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "76"
-epigrafe: "POLÍTICAS SECTORIALES PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS CONSUMIDORES"
+epigrafe: "Políticas sectoriales para la protección de los derechos de los consumidores"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo II|CAPÍTULO II - REGLAMENTOS TÉCNICOS Y EVALUACIÓN DE LA CONFORMIDAD]]"
 rubro: "[[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|DISPOSICIONES FINALES]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo II|Capítulo II]] › [[Ley 1480 de 2011 - Título IX - Capítulo II - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 76. POLÍTICAS SECTORIALES PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS CONSUMIDORES
+## Artículo 76. Políticas sectoriales para la protección de los derechos de los consumidores
 
 El Ministerio responsable de cada sector administrativo garantizará y facilitará espacios para la discusión abierta de las políticas sectoriales que se relacionen con la protección y difusión de los derechos de los consumidores.
 

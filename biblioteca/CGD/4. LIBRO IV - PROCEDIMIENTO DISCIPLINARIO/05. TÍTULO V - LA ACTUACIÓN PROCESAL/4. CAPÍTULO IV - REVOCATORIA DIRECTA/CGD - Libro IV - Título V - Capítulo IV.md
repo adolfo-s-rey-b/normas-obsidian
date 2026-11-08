@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 141 CGD|Artículo 141]] — PROCEDENCIA DE LA REVOCATORIA DIRECTA
-- [[art. 142 CGD|Artículo 142]] — COMPETENCIA
-- [[art. 143 CGD|Artículo 143]] — CAUSAL DE REVOCACIÓN DE LAS DECISIONES DISCIPLINARIAS
-- [[art. 144 CGD|Artículo 144]] — REVOCATORIA A SOLICITUD DEL SANCIONADO
-- [[art. 145 CGD|Artículo 145]] — REQUISITOS PARA SOLICITAR LA REVOCATORIA DE LOS FALLOS
-- [[art. 146 CGD|Artículo 146]] — EFECTO DE LA SOLICITUD Y DEL ACTO QUE LA RESUELVE
+- [[art. 141 CGD|Artículo 141]] — Procedencia de la revocatoria directa
+- [[art. 142 CGD|Artículo 142]] — Competencia
+- [[art. 143 CGD|Artículo 143]] — Causal de revocación de las decisiones disciplinarias
+- [[art. 144 CGD|Artículo 144]] — Revocatoria a solicitud del sancionado
+- [[art. 145 CGD|Artículo 145]] — Requisitos para solicitar la revocatoria de los fallos
+- [[art. 146 CGD|Artículo 146]] — Efecto de la solicitud y del acto que la resuelve
 
 ---
 ← [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]] · ↑ [[CGD - Libro IV - Título V|Título V]]

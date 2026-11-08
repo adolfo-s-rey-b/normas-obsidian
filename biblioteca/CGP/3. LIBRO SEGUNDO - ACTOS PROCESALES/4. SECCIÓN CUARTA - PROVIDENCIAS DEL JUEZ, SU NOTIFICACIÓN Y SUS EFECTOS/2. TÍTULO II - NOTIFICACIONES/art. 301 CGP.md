@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "301"
-epigrafe: "NOTIFICACIÓN POR CONDUCTA CONCLUYENTE"
+epigrafe: "Notificación por conducta concluyente"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 301. NOTIFICACIÓN POR CONDUCTA CONCLUYENTE
+## Artículo 301. Notificación por conducta concluyente
 
 La notificación por conducta concluyente surte los mismos efectos de la notificación personal. Cuando una parte o un tercero manifieste que conoce determinada providencia o la mencione en escrito que lleve su firma, o verbalmente durante una audiencia o diligencia, si queda registro de ello, se considerará notificada por conducta concluyente de dicha providencia en la fecha de presentación del escrito o de la manifestación verbal.
 

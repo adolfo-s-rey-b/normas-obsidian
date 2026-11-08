@@ -11,7 +11,7 @@ articulo: "2489"
 epigrafe: "SUBROGACIÓN DE ACCIONES Y DERECHOS"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XL|TÍTULO XL - DE LA PRELACIÓN DE CREDITOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 698 CPC]]"
 anterior: "[[art. 2488 CC]]"
@@ -22,7 +22,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XL|Título XL]]

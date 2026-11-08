@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "12"
-epigrafe: "OPERACIONES AUTORIZADAS CON LAS EMPRESAS"
+epigrafe: "Operaciones Autorizadas con las Empresas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo III|CAPÍTULO III - CORPORACIONES FINANCIERAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 123 Ley 510 de 1999]]"
 anterior: "[[art. 11 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo III|Capítulo III]]
 
-## Artículo 12. OPERACIONES AUTORIZADAS CON LAS EMPRESAS
+## Artículo 12. Operaciones Autorizadas con las Empresas
 
 Las corporaciones financieras, en relación con las empresas a que se refiere el artículo [[art. 11 EOSF|11]] del presente Estatuto, sólo podrán realizar las siguientes operaciones:
 

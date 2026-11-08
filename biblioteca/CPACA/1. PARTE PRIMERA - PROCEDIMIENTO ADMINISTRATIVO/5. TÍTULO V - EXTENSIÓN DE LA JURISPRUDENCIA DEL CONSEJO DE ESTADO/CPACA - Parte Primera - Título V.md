@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 102 CPACA|Artículo 102]] — EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A TERCEROS POR PARTE DE LAS AUTORIDADES
+- [[art. 102 CPACA|Artículo 102]] — Extensión de la jurisprudencia del Consejo de Estado a terceros por parte de las autoridades
 
 ---
 ← [[CPACA - Parte Primera - Título IV|Título IV]] · ↑ [[CPACA - Parte Primera|Parte Primera]]

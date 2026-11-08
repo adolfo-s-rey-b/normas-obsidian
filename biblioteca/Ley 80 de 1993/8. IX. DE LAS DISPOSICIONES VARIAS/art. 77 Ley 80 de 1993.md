@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "77"
-epigrafe: "DE LA NORMATIVIDAD APLICABLE EN LAS ACTUACIONES ADMINISTRATIVAS"
+epigrafe: "De la Normatividad aplicable en las actuaciones administrativas"
 rubro: "[[Ley 80 de 1993 - Ix. de las disposiciones varias|IX. DE LAS DISPOSICIONES VARIAS]]"
 vigencia: "modificado"
 modificado_por:
@@ -30,7 +30,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ix. de las disposiciones varias|Ix. de las disposiciones varias]]
 
-## Artículo 77. DE LA NORMATIVIDAD APLICABLE EN LAS ACTUACIONES ADMINISTRATIVAS
+## Artículo 77. De la Normatividad aplicable en las actuaciones administrativas
 
 En cuanto sean compatibles con la finalidad y los principios de esta ley, las normas que rigen los procedimientos y actuaciones en la función administrativa serán aplicables en las actuaciones contractuales. A falta de éstas, regirán las disposiciones del Código de Procedimiento Civil.
 

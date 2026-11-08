@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 177 CGD|Artículo 177]] — PROCEDENCIA
-- [[art. 178 CGD|Artículo 178]] — IMPEDIMENTOS Y RECUSACIONES DEL PERITO
-- [[art. 179 CGD|Artículo 179]] — REQUISITOS Y PRÁCTICA
-- [[art. 180 CGD|Artículo 180]] — CONTRADICCIÓN DEL DICTAMEN
-- [[art. 181 CGD|Artículo 181]] — COMPARECENCIA DEL PERITO A LA AUDIENCIA
-- [[art. 182 CGD|Artículo 182]] — APRECIACIÓN DEL DICTAMEN
-- [[art. 183 CGD|Artículo 183]] — TRÁMITE DE LA OBJECIÓN DEL DICTAMEN
-- [[art. 184 CGD|Artículo 184]] — EXAMEN MÉDICO O PARACLÍNICO
+- [[art. 177 CGD|Artículo 177]] — Procedencia
+- [[art. 178 CGD|Artículo 178]] — Impedimentos y recusaciones del perito
+- [[art. 179 CGD|Artículo 179]] — Requisitos y práctica
+- [[art. 180 CGD|Artículo 180]] — Contradicción del dictamen
+- [[art. 181 CGD|Artículo 181]] — Comparecencia del perito a la audiencia
+- [[art. 182 CGD|Artículo 182]] — Apreciación del dictamen
+- [[art. 183 CGD|Artículo 183]] — Tramite de la objeción del dictamen
+- [[art. 184 CGD|Artículo 184]] — Examen médico o paraclínico
 
 ---
 ← [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro IV - Título VI|Título VI]] · [[CGD - Libro IV - Título VI - Capítulo IV|Capítulo IV]] →

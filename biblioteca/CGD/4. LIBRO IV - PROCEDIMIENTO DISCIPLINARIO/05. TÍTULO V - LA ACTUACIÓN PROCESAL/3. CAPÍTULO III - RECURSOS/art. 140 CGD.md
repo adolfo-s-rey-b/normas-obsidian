@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "140"
-epigrafe: "CORRECCIÓN, ACLARACIÓN Y ADICIÓN DE LOS FALLOS"
+epigrafe: "Corrección, aclaración y adición de los fallos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 140. CORRECCIÓN, ACLARACIÓN Y ADICIÓN DE LOS FALLOS
+## Artículo 140. Corrección, aclaración y adición de los fallos
 
 En los casos de error aritmético, o en el nombre o identidad del investigado, de la entidad o fuerza donde labora o laboraba, o en la denominación del cargo o función que ocupa u ocupaba, o de omisión sustancial en la parte resolutiva del fallo, este debe ser corregido, aclarado o adicionado, según el caso, de oficio o a petición de parte, por el mismo funcionario que lo profirió.
 

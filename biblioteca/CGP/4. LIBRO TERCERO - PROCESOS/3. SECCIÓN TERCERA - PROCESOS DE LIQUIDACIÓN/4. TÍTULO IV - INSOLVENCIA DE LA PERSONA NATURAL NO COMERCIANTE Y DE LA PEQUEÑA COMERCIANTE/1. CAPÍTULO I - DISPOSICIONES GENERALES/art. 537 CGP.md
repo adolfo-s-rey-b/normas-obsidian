@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "537"
-epigrafe: "FACULTADES Y ATRIBUCIONES DEL CONCILIADOR"
+epigrafe: "Facultades y atribuciones del conciliador"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 537. FACULTADES Y ATRIBUCIONES DEL CONCILIADOR
+## Artículo 537. Facultades y atribuciones del conciliador
 
 Sin perjuicio de lo establecido en otras disposiciones, el conciliador tendrá las siguientes facultades y atribuciones en relación con el procedimiento de negociación de deudas:
 

@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "232"
-epigrafe: "CAUCIÓN"
+epigrafe: "Caución"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 87 Ley 2080 de 2021]]"
 anterior: "[[art. 231 CPACA]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 232. CAUCIÓN
+## Artículo 232. Caución
 
 El solicitante deberá prestar caución con el fin de garantizar los perjuicios que se puedan ocasionar con la medida cautelar. El Juez o Magistrado Ponente determinará la modalidad, cuantía y demás condiciones de la caución, para lo cual podrá ofrecer alternativas al solicitante.
 

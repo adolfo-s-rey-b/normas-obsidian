@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "230"
-epigrafe: "DICTAMEN DECRETADO DE OFICIO"
+epigrafe: "Dictamen decretado de oficio"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 230. DICTAMEN DECRETADO DE OFICIO
+## Artículo 230. Dictamen decretado de oficio
 
 Cuando el juez lo decrete de oficio, determinará el cuestionario que el perito debe absolver, fijará término para que rinda el dictamen y le señalará provisionalmente los honorarios y gastos que deberán ser consignados a órdenes del juzgado dentro de los tres (3) días siguientes. Si no se hiciere la consignación, el juez podrá ordenar al perito que rinda el dictamen si lo estima indispensable.
 

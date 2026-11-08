@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "619"
-epigrafe: "COMISIÓN DE SEGUIMIENTO A LA EJECUCIÓN DEL PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO"
+epigrafe: "Comisión de Seguimiento a la Ejecución del Plan de Acción para la Implementación del Código General del Proceso"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título IV|TÍTULO IV - PLAN DE IMPLEMENTACIÓN DEL CÓDIGO Y COMISIÓN DE SEGUIMIENTO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título IV|Título IV]]
 
-## Artículo 619. COMISIÓN DE SEGUIMIENTO A LA EJECUCIÓN DEL PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO
+## Artículo 619. Comisión de Seguimiento a la Ejecución del Plan de Acción para la Implementación del Código General del Proceso
 
 La ejecución del Plan de Acción para la Implementación del Código General del Proceso estará a cargo de la Sala Administrativa del Consejo Superior de la Judicatura.
 
@@ -56,7 +56,7 @@ Confórmase una Comisión de Seguimiento a la Ejecución del Plan de Acción par
 
 **PARÁGRAFO 4o.** La Sala Administrativa del Consejo Superior de la Judicatura y las demás entidades públicas estarán obligadas a suministrar la información que le solicite la Comisión.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 618 CGP]] · ↑ [[CGP - Libro Quinto - Título IV|Título IV]] · [[art. 620 CGP]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "239"
-epigrafe: "SENTENCIAS SUSCEPTIBLES DEL RECURSO"
+epigrafe: "Sentencias susceptibles del recurso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 239. SENTENCIAS SUSCEPTIBLES DEL RECURSO
+## Artículo 239. Sentencias susceptibles del recurso
 
 El recurso extraordinario de casación tiene como fin defender la unidad e integridad del ordenamiento jurídico, lograr la eficacia de los instrumentos internacionales suscritos por Colombia en el derecho interno, proteger los derechos constitucionales, controlar la legalidad de los fallos, unificar la jurisprudencia nacional y reparar los agravios irrogados a las partes con ocasión de la providencia recurrida.
 

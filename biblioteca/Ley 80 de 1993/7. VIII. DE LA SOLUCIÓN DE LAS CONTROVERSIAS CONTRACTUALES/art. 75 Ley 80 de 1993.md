@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "75"
-epigrafe: "DEL JUEZ COMPETENTE"
+epigrafe: "Del Juez Competente"
 rubro: "[[Ley 80 de 1993 - Viii. de la solución de las controversias…|VIII. DE LA SOLUCIÓN DE LAS CONTROVERSIAS CONTRACTUALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 70 Ley 446 de 1998]]"
   - "[[art. 59 Ley 23 de 1991]]"
@@ -34,12 +34,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]]
 
-## Artículo 75. DEL JUEZ COMPETENTE
+## Artículo 75. Del Juez Competente
 
 Sin perjuicio de lo dispuesto en los artículos anteriores, el juez competente para conocer de las controversias derivadas de los contratos estatales y de los procesos de ejecución o cumplimiento será el de la jurisdicción contencioso administrativa.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "233"
-epigrafe: "RETENCIÓN DE CORRESPONDENCIA"
+epigrafe: "Retención de correspondencia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 233. RETENCIÓN DE CORRESPONDENCIA
+## Artículo 233. Retención de correspondencia
 
 El Fiscal General o su delegado podrá ordenar a la policía judicial la retención de correspondencia privada, postal, telegráfica o de mensajería especializada o similar que reciba o remita el indiciado o imputado, cuando tenga motivos razonablemente fundados, de acuerdo con los medios cognoscitivos previstos en este código, para inferir que existe información útil para la investigación.
 

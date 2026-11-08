@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "530"
-epigrafe: "REGLAS DE LA LIQUIDACIÓN"
+epigrafe: "Reglas de la liquidación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título III|TÍTULO III - DISOLUCIÓN, NULIDAD Y LIQUIDACIÓN DE SOCIEDADES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título III|Título III]]
 
-## Artículo 530. REGLAS DE LA LIQUIDACIÓN
+## Artículo 530. Reglas de la liquidación
 
 Para la liquidación se procederá así:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "16"
-epigrafe: "COMPETENCIA DE LA SALA DE CASACIÓN LABORAL DE LA CORTE SUPREMA DE JUSTICIA Y DE LAS SALAS LABORALES DE LOS TRIBUNALES SUPERIORES DEL DISTRITO JUDICIAL, DE LOS JUECES LABORALES DEL CIRCUITO Y DE LOS JUECES LABORALES MUNICIPALES"
+epigrafe: "Competencia de la Sala de Casación Laboral de la Corte Suprema de Justicia y de las salas laborales de los tribunales superiores del distrito judicial, de los jueces laborales del circuito y de los jueces laborales municipales"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Primero|TÍTULO PRIMERO - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] › [[CPTSS - Libro Primero - Sección Primera - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 16. COMPETENCIA DE LA SALA DE CASACIÓN LABORAL DE LA CORTE SUPREMA DE JUSTICIA Y DE LAS SALAS LABORALES DE LOS TRIBUNALES SUPERIORES DEL DISTRITO JUDICIAL, DE LOS JUECES LABORALES DEL CIRCUITO Y DE LOS JUECES LABORALES MUNICIPALES
+## Artículo 16. Competencia de la Sala de Casación Laboral de la Corte Suprema de Justicia y de las salas laborales de los tribunales superiores del distrito judicial, de los jueces laborales del circuito y de los jueces laborales municipales
 
 A) La Sala de Casación Laboral de la Corte Suprema de Justicia conoce:
 

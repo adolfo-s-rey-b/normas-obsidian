@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "166"
-epigrafe: "EXCEPCIÓN AL DEBER DE DECLARAR"
+epigrafe: "Excepción al deber de declarar"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 166. EXCEPCIÓN AL DEBER DE DECLARAR
+## Artículo 166. Excepción al deber de declarar
 
 El servidor público informará a quien vaya a rendir testimonio sobre las garantías consagradas por el artículo [[art. 33 CPol|33]] de la Constitución Nacional*.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "333"
-epigrafe: "FINES DEL RECURSO DE CASACIÓN"
+epigrafe: "Fines del recurso de casación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 333. FINES DEL RECURSO DE CASACIÓN
+## Artículo 333. Fines del recurso de casación
 
 El recurso extraordinario de casación tiene como fin defender la unidad e integridad del ordenamiento jurídico, lograr la eficacia de los instrumentos internacionales suscritos por Colombia en el derecho interno, proteger los derechos constitucionales, controlar la legalidad de los fallos, unificar la jurisprudencia nacional y reparar los agravios irrogados a las partes con ocasión de la providencia recurrida.
 

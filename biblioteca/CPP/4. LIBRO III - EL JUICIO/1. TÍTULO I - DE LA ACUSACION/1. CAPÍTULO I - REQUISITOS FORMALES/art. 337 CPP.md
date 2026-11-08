@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "337"
-epigrafe: "CONTENIDO DE LA ACUSACIÓN Y DOCUMENTOS ANEXOS"
+epigrafe: "Contenido de la acusación y documentos anexos"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título I|TÍTULO I - DE LA ACUSACION]]"
 capitulo: "[[CPP - Libro III - Título I - Capítulo I|CAPÍTULO I - REQUISITOS FORMALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título I|Título I]] › [[CPP - Libro III - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 337. CONTENIDO DE LA ACUSACIÓN Y DOCUMENTOS ANEXOS
+## Artículo 337. Contenido de la acusación y documentos anexos
 
 El escrito de acusación deberá contener:
 

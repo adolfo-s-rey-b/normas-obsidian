@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "7"
-epigrafe: "LAS PERSONAS NATURALES ESTAN SOMETIDAS AL IMPUESTO"
+epigrafe: "LAS PERSONAS NATURALES ESTÁN SOMETIDAS AL IMPUESTO"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 7. LAS PERSONAS NATURALES ESTAN SOMETIDAS AL IMPUESTO
+## Artículo 7. LAS PERSONAS NATURALES ESTÁN SOMETIDAS AL IMPUESTO
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 3 ET|3]]o.) Las personas naturales y las sucesiones ilíquidas están sometidas al impuesto sobre la renta y complementarios.
 

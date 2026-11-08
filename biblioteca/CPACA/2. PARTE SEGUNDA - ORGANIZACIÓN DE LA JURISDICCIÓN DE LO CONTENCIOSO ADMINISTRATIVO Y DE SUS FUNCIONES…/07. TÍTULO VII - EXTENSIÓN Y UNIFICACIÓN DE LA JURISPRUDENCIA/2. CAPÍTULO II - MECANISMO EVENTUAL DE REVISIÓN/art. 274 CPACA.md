@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "274"
-epigrafe: "COMPETENCIA Y TRÁMITE"
+epigrafe: "Competencia y trámite"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VII|TÍTULO VII - EXTENSIÓN Y UNIFICACIÓN DE LA JURISPRUDENCIA]]"
 capitulo: "[[CPACA - Parte Segunda - Título VII - Capítulo II|CAPÍTULO II - MECANISMO EVENTUAL DE REVISIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VII|Título VII]] › [[CPACA - Parte Segunda - Título VII - Capítulo II|Capítulo II]]
 
-## Artículo 274. COMPETENCIA Y TRÁMITE
+## Artículo 274. Competencia y trámite
 
 De la revisión eventual conocerá la sección que el reglamento determine según su especialidad y para su trámite se observarán las siguientes reglas:
 

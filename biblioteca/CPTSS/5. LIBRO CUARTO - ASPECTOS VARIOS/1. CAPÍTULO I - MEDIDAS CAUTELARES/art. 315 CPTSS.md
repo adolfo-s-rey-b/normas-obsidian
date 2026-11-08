@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "315"
-epigrafe: "MEDIDAS CAUTELARES EN PROCESOS DECLARATIVOS"
+epigrafe: "Medidas cautelares en procesos declarativos"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo I|CAPÍTULO I - MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo I|Capítulo I]]
 
-## Artículo 315. MEDIDAS CAUTELARES EN PROCESOS DECLARATIVOS
+## Artículo 315. Medidas cautelares en procesos declarativos
 
 En los procesos declarativos en procesos ordinarios y especiales de fuero, desde la presentación de la demanda, a petición del demandante, el juez podrá decretar las siguientes medidas cautelares:
 

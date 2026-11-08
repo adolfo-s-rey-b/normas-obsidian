@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "124"
-epigrafe: "DERECHOS Y FACULTADES"
+epigrafe: "Derechos y facultades"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEFENSA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 124. DERECHOS Y FACULTADES
+## Artículo 124. Derechos y facultades
 
 La defensa podrá ejercer todos los derechos y facultades que los Tratados Internacionales relativos a Derechos Humanos que forman parte del bloque de constitucionalidad, la Constitución Política y la ley reconocen en favor del imputado.
 

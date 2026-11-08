@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "51"
-epigrafe: "ACTOS JURÍDICOS QUE INVOLUCREN BIENES SUJETOS A REGISTRO"
+epigrafe: "Actos jurídicos que involucren bienes sujetos a registro"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VII|CAPÍTULO VII - ACTOS JURÍDICOS SUJETOS A REGISTRO]]"
 vigencia: "vigente"
 anterior: "[[art. 50 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VII|Capítulo VII]]
 
-## Artículo 51. ACTOS JURÍDICOS QUE INVOLUCREN BIENES SUJETOS A REGISTRO
+## Artículo 51. Actos jurídicos que involucren bienes sujetos a registro
 
 Para efectos de publicidad a terceros, los actos jurídicos que involucren bienes sujetos a registro deberán contar con una anotación de que el acto en cuestión fue realizado utilizando apoyos, independientemente del mecanismo para la celebración de apoyos que se utilice.
 

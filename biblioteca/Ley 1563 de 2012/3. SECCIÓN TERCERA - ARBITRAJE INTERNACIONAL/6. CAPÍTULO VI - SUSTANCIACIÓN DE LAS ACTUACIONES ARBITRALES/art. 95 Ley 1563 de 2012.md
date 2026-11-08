@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "95"
-epigrafe: "IDIOMA"
+epigrafe: "Idioma"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 95. IDIOMA
+## Artículo 95. Idioma
 
 Las partes podrán acordar libremente el idioma o los idiomas que hayan de utilizarse en las actuaciones arbitrales, en los escritos de las partes, en las audiencias y en cualquier laudo, decisión o comunicación que emita el tribunal arbitral. De lo contrario, el tribunal arbitral hará la determinación que corresponda.
 

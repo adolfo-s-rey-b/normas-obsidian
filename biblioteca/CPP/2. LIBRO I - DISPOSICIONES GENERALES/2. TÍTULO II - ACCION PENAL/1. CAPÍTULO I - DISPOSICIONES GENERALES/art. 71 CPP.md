@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "71"
-epigrafe: "QUERELLANTE LEGÍTIMO"
+epigrafe: "Querellante legítimo"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 71. QUERELLANTE LEGÍTIMO
+## Artículo 71. Querellante legítimo
 
 Artículo modificado por el artículo [[art. 2 Ley 1826 de 2017|2]] de la Ley 1826 de 2017. El nuevo texto es el siguiente:> La querella únicamente puede ser presentada por la víctima de la conducta punible. Si esta fuere incapaz o persona jurídica, debe ser formulada por su representante legal. Si el querellante legítimo ha fallecido, podrán presentarla sus herederos.
 

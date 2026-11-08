@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "259"
-epigrafe: "AUDIENCIA DE TRÁMITE Y JUZGAMIENTO"
+epigrafe: "Audiencia de trámite y juzgamiento"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 259. AUDIENCIA DE TRÁMITE Y JUZGAMIENTO
+## Artículo 259. Audiencia de trámite y juzgamiento
 
 En el día y hora señalados el juez practicará las pruebas, dirigirá las interpelaciones o interrogaciones de las partes y oirá las alegaciones de estas. Los testigos serán interrogados separadamente, de modo que no se enteren del dicho de los demás.
 

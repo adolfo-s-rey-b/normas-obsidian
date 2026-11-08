@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "284"
-epigrafe: "PRUEBA ANTICIPADA"
+epigrafe: "Prueba anticipada"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo Unico|CAPÍTULO UNICO - ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 284. PRUEBA ANTICIPADA
+## Artículo 284. Prueba anticipada
 
 Durante la investigación y hasta antes de la instalación de la audiencia de juicio oral se podrá practicar anticipadamente cualquier medio de prueba pertinente, con el cumplimiento de los siguientes requisitos:
 

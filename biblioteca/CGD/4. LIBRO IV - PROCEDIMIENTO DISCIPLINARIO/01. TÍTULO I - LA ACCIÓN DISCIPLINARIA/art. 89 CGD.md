@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "89"
-epigrafe: "ACCIÓN CONTRA SERVIDOR PÚBLICO RETIRADO DEL SERVICIO"
+epigrafe: "Acción contra servidor público retirado del servicio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 89. ACCIÓN CONTRA SERVIDOR PÚBLICO RETIRADO DEL SERVICIO
+## Artículo 89. Acción contra servidor público retirado del servicio
 
 La acción disciplinaria es procedente aunque el servidor público ya no esté ejerciendo funciones públicas.
 

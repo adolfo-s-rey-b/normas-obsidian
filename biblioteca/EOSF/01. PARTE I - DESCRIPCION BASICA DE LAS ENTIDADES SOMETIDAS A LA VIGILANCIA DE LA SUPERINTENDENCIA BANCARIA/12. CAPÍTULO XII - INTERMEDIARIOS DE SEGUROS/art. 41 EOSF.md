@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "41"
-epigrafe: "AGENTES Y AGENCIAS"
+epigrafe: "Agentes y Agencias"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XII|CAPÍTULO XII - INTERMEDIARIOS DE SEGUROS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XII|Capítulo XII]]
 
-## Artículo 41. AGENTES Y AGENCIAS
+## Artículo 41. Agentes y Agencias
 
 1\. Definición. Son agentes colocadores de pólizas de seguros y de títulos de capitalización las personas naturales que promuevan la celebración de contratos de seguro y de capitalización y la renovación de los mismos en relación con una o varias compañías de seguros o sociedades de capitalización.
 

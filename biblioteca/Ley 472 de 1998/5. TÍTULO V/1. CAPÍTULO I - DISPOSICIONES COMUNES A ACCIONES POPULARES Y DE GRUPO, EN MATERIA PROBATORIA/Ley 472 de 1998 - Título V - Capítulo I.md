@@ -21,12 +21,12 @@ tags:
 
 ### Contenido
 
-- [[art. 74 Ley 472 de 1998|Artículo 74]] — REGISTRO PUBLICO DE PERITOS PARA ACCIONES POPULARES Y DE GRUPO
-- [[art. 75 Ley 472 de 1998|Artículo 75]] — COLABORACION EN LA PRACTICA DE PRUEBAS
-- [[art. 76 Ley 472 de 1998|Artículo 76]] — COLABORACION PARA LA EVALUACION DE LA PRUEBA
+- [[art. 74 Ley 472 de 1998|Artículo 74]] — Registro Público de Peritos para Acciones Populares y de Grupo
+- [[art. 75 Ley 472 de 1998|Artículo 75]] — Colaboración en la Práctica de Pruebas
+- [[art. 76 Ley 472 de 1998|Artículo 76]] — Colaboración para la evaluación de la prueba
 - [[art. 77 Ley 472 de 1998|Artículo 77]] — REFERENCIA A UN TERCERO EN DECLARACION
 - [[art. 78 Ley 472 de 1998|Artículo 78]] — ASPECTOS COMPLEMENTARIOS DEL TESTIMONIO
-- [[art. 79 Ley 472 de 1998|Artículo 79]] — EFICACIA DE LA PRUEBA
+- [[art. 79 Ley 472 de 1998|Artículo 79]] — Eficacia de la Prueba
 
 ---
 ↑ [[Ley 472 de 1998 - Título V|Título V]]

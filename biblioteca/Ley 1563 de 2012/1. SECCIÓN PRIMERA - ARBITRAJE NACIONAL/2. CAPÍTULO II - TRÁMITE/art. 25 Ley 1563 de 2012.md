@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "25"
-epigrafe: "FIJACIÓN DE HONORARIOS Y GASTOS"
+epigrafe: "Fijación de honorarios y gastos"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 25. FIJACIÓN DE HONORARIOS Y GASTOS
+## Artículo 25. Fijación de honorarios y gastos
 
 Fracasada en todo o en parte la conciliación, en la misma audiencia el tribunal fijará los honorarios y gastos mediante auto susceptible de recurso de reposición, que será resuelto inmediatamente. Para la fijación, tomará en cuenta la cuantía de las pretensiones de la demanda, determinada de conformidad con el Código de Procedimiento Civil. Si hubiere demanda de reconvención, tomará como base la de la cuantía mayor.
 

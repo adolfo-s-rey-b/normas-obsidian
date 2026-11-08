@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 38 EOSF|Artículo 38]] — ASPECTOS GENERALES
-- [[art. 39 EOSF|Artículo 39]] — PERSONAS NO AUTORIZADAS
+- [[art. 38 EOSF|Artículo 38]] — Aspectos Generales
+- [[art. 39 EOSF|Artículo 39]] — Personas no Autorizadas
 
 ---
 ← [[EOSF - Parte I - Capítulo X|Capítulo X]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo XII|Capítulo XII]] →

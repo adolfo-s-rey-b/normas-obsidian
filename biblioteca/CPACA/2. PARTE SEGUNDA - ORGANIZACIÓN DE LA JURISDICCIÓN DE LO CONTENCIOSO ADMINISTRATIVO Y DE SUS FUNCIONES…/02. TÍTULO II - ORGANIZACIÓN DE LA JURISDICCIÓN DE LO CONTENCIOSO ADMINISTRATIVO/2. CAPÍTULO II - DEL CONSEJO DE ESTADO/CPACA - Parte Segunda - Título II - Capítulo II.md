@@ -23,21 +23,21 @@ tags:
 
 ### Contenido
 
-- [[art. 107 CPACA|Artículo 107]] — INTEGRACIÓN Y COMPOSICIÓN
-- [[art. 108 CPACA|Artículo 108]] — ELECCIÓN DE DIGNATARIOS
-- [[art. 109 CPACA|Artículo 109]] — ATRIBUCIONES DE LA SALA PLENA
-- [[art. 110 CPACA|Artículo 110]] — INTEGRACIÓN DE LA SALA DE LO CONTENCIOSO ADMINISTRATIVO
-- [[art. 111 CPACA|Artículo 111]] — FUNCIONES DE LA SALA PLENA DE LO CONTENCIOSO ADMINISTRATIVO
-- [[art. 112 CPACA|Artículo 112]] — INTEGRACIÓN Y FUNCIONES DE LA SALA DE CONSULTA Y SERVICIO CIVIL
-- [[art. 113 CPACA|Artículo 113]] — CONCEPTO PREVIO DE LA SALA DE CONSULTA Y SERVICIO CIVIL
+- [[art. 107 CPACA|Artículo 107]] — Integración y composición
+- [[art. 108 CPACA|Artículo 108]] — Elección de dignatarios
+- [[art. 109 CPACA|Artículo 109]] — Atribuciones de la Sala Plena
+- [[art. 110 CPACA|Artículo 110]] — Integración de la Sala de lo Contencioso Administrativo
+- [[art. 111 CPACA|Artículo 111]] — Funciones de la Sala Plena de lo Contencioso Administrativo
+- [[art. 112 CPACA|Artículo 112]] — Integración y funciones de la Sala de Consulta y Servicio Civil
+- [[art. 113 CPACA|Artículo 113]] — Concepto Previo de la Sala de Consulta y Servicio Civil
 - [[art. 114 CPACA|Artículo 114]] — FUNCIONES DE LA SALA DE GOBIERNO
-- [[art. 115 CPACA|Artículo 115]] — CONJUECES
-- [[art. 116 CPACA|Artículo 116]] — POSESIÓN Y DURACIÓN DEL CARGO DE CONJUEZ
-- [[art. 117 CPACA|Artículo 117]] — COMISIÓN PARA LA PRÁCTICA DE PRUEBAS Y DILIGENCIAS
-- [[art. 118 CPACA|Artículo 118]] — LABORES DEL CONSEJO DE ESTADO EN VACACIONES
-- [[art. 119 CPACA|Artículo 119]] — LICENCIAS Y PERMISOS
-- [[art. 120 CPACA|Artículo 120]] — AUXILIARES DE LOS MAGISTRADOS DEL CONSEJO DE ESTADO
-- [[art. 121 CPACA|Artículo 121]] — ÓRGANO OFICIAL DE DIVULGACIÓN DEL CONSEJO DE ESTADO
+- [[art. 115 CPACA|Artículo 115]] — Conjueces
+- [[art. 116 CPACA|Artículo 116]] — Posesión y duración del cargo de Conjuez
+- [[art. 117 CPACA|Artículo 117]] — Comisión para la práctica de pruebas y diligencias
+- [[art. 118 CPACA|Artículo 118]] — Labores del Consejo de Estado en vacaciones
+- [[art. 119 CPACA|Artículo 119]] — Licencias y permisos
+- [[art. 120 CPACA|Artículo 120]] — Auxiliares de los Magistrados del Consejo de Estado
+- [[art. 121 CPACA|Artículo 121]] — Órgano oficial de divulgación del Consejo de Estado
 
 ---
 ← [[CPACA - Parte Segunda - Título II - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo III|Capítulo III]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "326"
-epigrafe: "CONDICIONES A CUMPLIR DURANTE EL PERÍODO DE PRUEBA"
+epigrafe: "Condiciones a cumplir durante el período de prueba"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 326. CONDICIONES A CUMPLIR DURANTE EL PERÍODO DE PRUEBA
+## Artículo 326. Condiciones a cumplir durante el período de prueba
 
 El Fiscal fijará el período de prueba, el cual no podrá ser superior a tres (3) años, y determinará una o varias de las condiciones que deberán cumplir el imputado o acusado hasta antes de la Audiencia de juzgamiento, entre las siguientes:
 

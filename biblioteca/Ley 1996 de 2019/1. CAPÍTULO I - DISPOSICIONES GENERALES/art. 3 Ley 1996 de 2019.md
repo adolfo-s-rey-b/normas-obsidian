@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "3"
-epigrafe: "DEFINICIONES"
+epigrafe: "Definiciones"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 2 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 3. DEFINICIONES
+## Artículo 3. Definiciones
 
 Para efectos de la presente ley, se utilizarán las siguientes definiciones:
 

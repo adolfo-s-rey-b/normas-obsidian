@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "187"
-epigrafe: "DOCUMENTOS SIN FIRMA, FIRMADOS EN BLANCO O CON ESPACIOS SIN LLENAR"
+epigrafe: "Documentos sin firma, firmados en blanco o con espacios sin llenar"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 187. DOCUMENTOS SIN FIRMA, FIRMADOS EN BLANCO O CON ESPACIOS SIN LLENAR
+## Artículo 187. Documentos sin firma, firmados en blanco o con espacios sin llenar
 
 Se tendrá como medio de prueba el documento sin firma, firmado en blanco o con espacios sin llenar.
 

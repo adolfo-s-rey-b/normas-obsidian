@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "20"
-epigrafe: "TERMINACIÓN Y MODIFICACIÓN DEL ACUERDO DE APOYOS"
+epigrafe: "Terminación y modificación del acuerdo de apoyos"
 capitulo: "[[Ley 1996 de 2019 - Capítulo III|CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 19 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo III|Capítulo III]]
 
-## Artículo 20. TERMINACIÓN Y MODIFICACIÓN DEL ACUERDO DE APOYOS
+## Artículo 20. Terminación y modificación del acuerdo de apoyos
 
 La persona titular del acto puede terminar de manera unilateral un acuerdo de apoyos previamente celebrado en cualquier momento, por medio de escritura pública o ante los conciliadores extrajudiciales en derecho, dependiendo de la forma en que se haya formalizado el acuerdo.
 

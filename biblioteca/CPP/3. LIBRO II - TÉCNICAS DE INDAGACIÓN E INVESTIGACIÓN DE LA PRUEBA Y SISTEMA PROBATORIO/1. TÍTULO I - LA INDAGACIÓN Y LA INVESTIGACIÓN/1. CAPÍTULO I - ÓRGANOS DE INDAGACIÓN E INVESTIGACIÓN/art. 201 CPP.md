@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "201"
-epigrafe: "ÓRGANOS DE POLICÍA JUDICIAL PERMANENTE"
+epigrafe: "Órganos de policía judicial permanente"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 201. ÓRGANOS DE POLICÍA JUDICIAL PERMANENTE
+## Artículo 201. Órganos de policía judicial permanente
 
 Ejercen permanentemente las funciones de policía judicial los servidores investidos de esa función, pertenecientes al Cuerpo Técnico de Investigación de la Fiscalía General de la Nación y a la Policía Nacional, por intermedio de sus dependencias especializadas.
 

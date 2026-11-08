@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "203"
-epigrafe: "ÓRGANOS QUE EJERCEN TRANSITORIAMENTE FUNCIONES DE POLICÍA JUDICIAL"
+epigrafe: "Órganos que ejercen transitoriamente funciones de policía judicial"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 203. ÓRGANOS QUE EJERCEN TRANSITORIAMENTE FUNCIONES DE POLICÍA JUDICIAL
+## Artículo 203. Órganos que ejercen transitoriamente funciones de policía judicial
 
 Ejercen funciones de policía judicial, de manera transitoria, los entes públicos que, por resolución del Fiscal General de la Nación, hayan sido autorizados para ello. Estos deberán actuar conforme con las autorizaciones otorgadas y en los asuntos que hayan sido señalados en la respectiva resolución.
 

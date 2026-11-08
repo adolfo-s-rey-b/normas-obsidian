@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "14"
-epigrafe: "AUTORIZACIÓN PARA LA TRANSFERENCIA DE ACCIONES"
+epigrafe: "Autorización para la transferencia de acciones"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 13 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 14. AUTORIZACIÓN PARA LA TRANSFERENCIA DE ACCIONES
+## Artículo 14. Autorización para la transferencia de acciones
 
 Los estatutos podrán someter toda negociación de acciones o de alguna clase de ellas a la autorización previa de la asamblea.
 

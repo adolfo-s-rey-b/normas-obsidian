@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "198"
-epigrafe: "CONSECUENCIAS DEL FALLO RESCINDENTE"
+epigrafe: "Consecuencias del fallo rescindente"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo X|CAPÍTULO X - ACCIÓN DE REVISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo X|Capítulo X]]
 
-## Artículo 198. CONSECUENCIAS DEL FALLO RESCINDENTE
+## Artículo 198. Consecuencias del fallo rescindente
 
 Salvo que se trate de las causales de revisión previstas en los numerales 4 y 5 del artículo [[art. 192 CPP|192]], los efectos del fallo rescindente se extenderán a los no accionantes.
 

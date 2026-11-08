@@ -23,12 +23,12 @@ tags:
 ### Contenido
 
 - [[art. 531 CGP|Artículo 531]] — FINALIDAD DEL RÉGIMEN DE INSOLVENCIA DE LA PERSONA NATURAL
-- [[art. 532 CGP|Artículo 532]] — ÁMBITO DE APLICACIÓN
+- [[art. 532 CGP|Artículo 532]] — Ámbito de aplicación
 - [[art. 533 CGP|Artículo 533]] — COMPETENCIA PARA CONOCER DE LOS PROCEDIMIENTOS DE NEGOCIACIÓN DE DEUDAS Y CONVALIDACIÓN DE ACUERDOS DE LA PERSONA NATURAL
-- [[art. 534 CGP|Artículo 534]] — COMPETENCIA DE LA JURISDICCIÓN ORDINARIA CIVIL
-- [[art. 535 CGP|Artículo 535]] — GRATUIDAD
-- [[art. 536 CGP|Artículo 536]] — TARIFAS PARA LOS CENTROS DE CONCILIACIÓN REMUNERADOS
-- [[art. 537 CGP|Artículo 537]] — FACULTADES Y ATRIBUCIONES DEL CONCILIADOR
+- [[art. 534 CGP|Artículo 534]] — Competencia de la jurisdicción ordinaria civil
+- [[art. 535 CGP|Artículo 535]] — Gratuidad
+- [[art. 536 CGP|Artículo 536]] — Tarifas para los Centros de Conciliación remunerados
+- [[art. 537 CGP|Artículo 537]] — Facultades y atribuciones del conciliador
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] · [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]] →

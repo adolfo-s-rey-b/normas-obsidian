@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238C"
-epigrafe: "CAUSALES DE REVISIÓN"
+epigrafe: "Causales de Revisión"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título|TÍTULO - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título|Título]]
 
-## Artículo 238C. CAUSALES DE REVISIÓN
+## Artículo 238C. Causales de Revisión
 
 Son causales de revisión:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "208"
-epigrafe: "NOTIFICACIÓN DE LAS PROVIDENCIAS"
+epigrafe: "Notificación de las providencias"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|TÍTULO SEGUNDO - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]]
 
-## Artículo 208. NOTIFICACIÓN DE LAS PROVIDENCIAS
+## Artículo 208. Notificación de las providencias
 
 Las providencias judiciales se darán a conocer a las partes, apoderados y demás interesados por medio de notificaciones, en la siguiente forma:
 

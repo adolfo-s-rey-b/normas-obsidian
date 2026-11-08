@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "261"
-epigrafe: "OPERACIONES"
+epigrafe: "Operaciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VI|CAPÍTULO VI - FINANCIERA ENERGETICA NACIONAL -FEN-]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VI|Capítulo VI]]
 
-## Artículo 261. OPERACIONES
+## Artículo 261. Operaciones
 
 1\. Operaciones autorizadas. Para beneficio del sector energético*, adicionalmente a las operaciones e inversiones autorizadas para las Corporaciones Financieras, La Financiera Energética Nacional S.A., FEN*, podrá efectuar las siguientes operaciones:
 

@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 199 CPP|Artículo 199]] — DESISTIMIENTO
+- [[art. 199 CPP|Artículo 199]] — Desistimiento
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo X|Capítulo X]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo XII|Capítulo XII]] →

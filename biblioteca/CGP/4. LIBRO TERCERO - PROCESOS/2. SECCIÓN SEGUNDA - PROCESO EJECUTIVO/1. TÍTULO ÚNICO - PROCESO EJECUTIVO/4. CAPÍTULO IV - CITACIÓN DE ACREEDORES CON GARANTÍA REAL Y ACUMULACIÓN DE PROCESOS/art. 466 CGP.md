@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "466"
-epigrafe: "PERSECUCIÓN DE BIENES EMBARGADOS EN OTRO PROCESO"
+epigrafe: "Persecución de bienes embargados en otro proceso"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 466. PERSECUCIÓN DE BIENES EMBARGADOS EN OTRO PROCESO
+## Artículo 466. Persecución de bienes embargados en otro proceso
 
 Quien pretenda perseguir ejecutivamente bienes embargados en otro proceso y no quiera o no pueda promover la acumulación, podrá pedir el embargo de los que por cualquier causa se llegaren a desembargar y el del remanente del producto de los embargados.
 

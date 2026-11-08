@@ -21,14 +21,14 @@ tags:
 
 ### Contenido
 
-- [[art. 121 Ley 1474 de 2011|Artículo 121]] — ALIANZAS ESTRATÉGICAS
+- [[art. 121 Ley 1474 de 2011|Artículo 121]] — Alianzas estratégicas
 - [[art. 122 Ley 1474 de 2011|Artículo 122]] — Control excepcional
-- [[art. 123 Ley 1474 de 2011|Artículo 123]] — ARTICULACIÓN CON EL EJERCICIO DEL CONTROL POLÍTICO
-- [[art. 124 Ley 1474 de 2011|Artículo 124]] — REGULACIÓN DEL PROCESO AUDITOR
+- [[art. 123 Ley 1474 de 2011|Artículo 123]] — Articulación con el ejercicio del control político
+- [[art. 124 Ley 1474 de 2011|Artículo 124]] — Regulación del proceso auditor
 - [[art. 125 Ley 1474 de 2011|Artículo 125]] — CONTROL DE LEGALIDAD
-- [[art. 126 Ley 1474 de 2011|Artículo 126]] — SISTEMAS DE INFORMACIÓN
-- [[art. 127 Ley 1474 de 2011|Artículo 127]] — VERIFICACIÓN DE LOS BENEFICIOS DEL CONTROL FISCAL
-- [[art. 128 Ley 1474 de 2011|Artículo 128]] — FORTALECIMIENTO INSTITUCIONAL DE LA CONTRALORÍA GENERAL DE LA REPÚBLICA
+- [[art. 126 Ley 1474 de 2011|Artículo 126]] — Sistemas de información
+- [[art. 127 Ley 1474 de 2011|Artículo 127]] — Verificación de los beneficios del control fiscal
+- [[art. 128 Ley 1474 de 2011|Artículo 128]] — Fortalecimiento institucional de la Contraloría General de la República
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] · ↑ [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] · [[Ley 1474 de 2011 - Capítulo VIII - Sección Tercera|Sección Tercera]] →

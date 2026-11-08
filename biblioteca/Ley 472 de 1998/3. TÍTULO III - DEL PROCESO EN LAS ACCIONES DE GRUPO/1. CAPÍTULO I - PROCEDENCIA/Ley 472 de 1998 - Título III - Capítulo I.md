@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 46 Ley 472 de 1998|Artículo 46]] — PROCEDENCIA DE LAS ACCIONES DE GRUPO
-- [[art. 47 Ley 472 de 1998|Artículo 47]] — CADUCIDAD
+- [[art. 46 Ley 472 de 1998|Artículo 46]] — Procedencia de las Acciones de Grupo
+- [[art. 47 Ley 472 de 1998|Artículo 47]] — Caducidad
 
 ---
 ↑ [[Ley 472 de 1998 - Título III|Título III]] · [[Ley 472 de 1998 - Título III - Capítulo II|Capítulo II]] →

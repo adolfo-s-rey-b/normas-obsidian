@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "55"
-epigrafe: "PRÓRROGA"
+epigrafe: "Prórroga"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VI|CAPÍTULO VI - DEFINICIÓN DE COMPETENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 55. PRÓRROGA
+## Artículo 55. Prórroga
 
 Se entiende prorrogada la competencia si no se manifiesta o alega la incompetencia en la oportunidad indicada en el artículo anterior, salvo que esta devenga del factor subjetivo o esté radicada en funcionario de superior jerarquía.
 

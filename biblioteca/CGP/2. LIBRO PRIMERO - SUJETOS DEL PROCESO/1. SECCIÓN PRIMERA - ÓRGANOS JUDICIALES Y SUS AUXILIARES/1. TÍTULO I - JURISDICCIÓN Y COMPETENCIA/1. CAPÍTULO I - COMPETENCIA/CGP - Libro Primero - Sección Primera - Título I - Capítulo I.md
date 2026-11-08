@@ -24,26 +24,26 @@ tags:
 
 ### Contenido
 
-- [[art. 15 CGP|Artículo 15]] — CLÁUSULA GENERAL O RESIDUAL DE COMPETENCIA
-- [[art. 16 CGP|Artículo 16]] — PRORROGABILIDAD E IMPRORROGABILIDAD DE LA JURISDICCIÓN Y LA COMPETENCIA
-- [[art. 17 CGP|Artículo 17]] — COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN ÚNICA INSTANCIA
-- [[art. 18 CGP|Artículo 18]] — COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN PRIMERA INSTANCIA
-- [[art. 19 CGP|Artículo 19]] — COMPETENCIA DE LOS JUECES CIVILES DEL CIRCUITO EN ÚNICA INSTANCIA
-- [[art. 20 CGP|Artículo 20]] — COMPETENCIA DE LOS JUECES CIVILES DEL CIRCUITO EN PRIMERA INSTANCIA
-- [[art. 21 CGP|Artículo 21]] — COMPETENCIA DE LOS JUECES DE FAMILIA EN ÚNICA INSTANCIA
-- [[art. 22 CGP|Artículo 22]] — COMPETENCIA DE LOS JUECES DE FAMILIA EN PRIMERA INSTANCIA
-- [[art. 23 CGP|Artículo 23]] — FUERO DE ATRACCIÓN
-- [[art. 24 CGP|Artículo 24]] — EJERCICIO DE FUNCIONES JURISDICCIONALES POR AUTORIDADES ADMINISTRATIVAS
-- [[art. 25 CGP|Artículo 25]] — CUANTÍA
-- [[art. 26 CGP|Artículo 26]] — DETERMINACIÓN DE LA CUANTÍA
-- [[art. 27 CGP|Artículo 27]] — CONSERVACIÓN Y ALTERACIÓN DE LA COMPETENCIA
-- [[art. 28 CGP|Artículo 28]] — COMPETENCIA TERRITORIAL
-- [[art. 29 CGP|Artículo 29]] — PRELACIÓN DE COMPETENCIA
-- [[art. 30 CGP|Artículo 30]] — COMPETENCIA DE LA SALA DE CASACIÓN CIVIL DE LA CORTE SUPREMA DE JUSTICIA
-- [[art. 31 CGP|Artículo 31]] — COMPETENCIA DE LAS SALAS CIVILES DE LOS TRIBUNALES SUPERIORES
-- [[art. 32 CGP|Artículo 32]] — COMPETENCIA DE LAS SALAS DE FAMILIA DE LOS TRIBUNALES SUPERIORES
-- [[art. 33 CGP|Artículo 33]] — COMPETENCIA FUNCIONAL DE LOS JUECES CIVILES DEL CIRCUITO
-- [[art. 34 CGP|Artículo 34]] — COMPETENCIA FUNCIONAL DE LOS JUECES DE FAMILIA
+- [[art. 15 CGP|Artículo 15]] — Cláusula general o residual de competencia
+- [[art. 16 CGP|Artículo 16]] — Prorrogabilidad e improrrogabilidad de la jurisdicción y la competencia
+- [[art. 17 CGP|Artículo 17]] — Competencia de los jueces civiles municipales en única instancia
+- [[art. 18 CGP|Artículo 18]] — Competencia de los jueces civiles municipales en primera instancia
+- [[art. 19 CGP|Artículo 19]] — Competencia de los jueces civiles del circuito en única instancia
+- [[art. 20 CGP|Artículo 20]] — Competencia de los jueces civiles del circuito en primera instancia
+- [[art. 21 CGP|Artículo 21]] — Competencia de los jueces de familia en única instancia
+- [[art. 22 CGP|Artículo 22]] — Competencia de los jueces de familia en primera instancia
+- [[art. 23 CGP|Artículo 23]] — Fuero de atracción
+- [[art. 24 CGP|Artículo 24]] — Ejercicio de funciones jurisdiccionales por autoridades administrativas
+- [[art. 25 CGP|Artículo 25]] — Cuantía
+- [[art. 26 CGP|Artículo 26]] — Determinación de la cuantía
+- [[art. 27 CGP|Artículo 27]] — Conservación y alteración de la competencia
+- [[art. 28 CGP|Artículo 28]] — Competencia territorial
+- [[art. 29 CGP|Artículo 29]] — Prelación de competencia
+- [[art. 30 CGP|Artículo 30]] — Competencia de la Sala de Casación Civil de la Corte Suprema de Justicia
+- [[art. 31 CGP|Artículo 31]] — Competencia de las salas civiles de los tribunales superiores
+- [[art. 32 CGP|Artículo 32]] — Competencia de las salas de familia de los tribunales superiores
+- [[art. 33 CGP|Artículo 33]] — Competencia funcional de los jueces civiles del circuito
+- [[art. 34 CGP|Artículo 34]] — Competencia funcional de los jueces de familia
 
 ---
 ↑ [[CGP - Libro Primero - Sección Primera - Título I|Título I]] · [[CGP - Libro Primero - Sección Primera - Título I - Capítulo II|Capítulo II]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "43"
-epigrafe: "PODERES DE ORDENACIÓN E INSTRUCCIÓN"
+epigrafe: "Poderes de ordenación e instrucción"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título III|TÍTULO III - DEBERES Y PODERES DE LOS JUECES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título III|Título III]]
 
-## Artículo 43. PODERES DE ORDENACIÓN E INSTRUCCIÓN
+## Artículo 43. Poderes de ordenación e instrucción
 
 El juez tendrá los siguientes poderes de ordenación e instrucción:
 

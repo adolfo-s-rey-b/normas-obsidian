@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 173 CPTSS|Artículo 173]] — REQUISITOS DE LOS INDICIOS
+- [[art. 173 CPTSS|Artículo 173]] — Requisitos de los indicios
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]] →

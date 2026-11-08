@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 149 CPP|Artículo 149]] — PRINCIPIO DE PUBLICIDAD
-- [[art. 150 CPP|Artículo 150]] — RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE ORDEN PÚBLICO, SEGURIDAD NACIONAL O MORAL PÚBLICA
-- [[art. 151 CPP|Artículo 151]] — RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE SEGURIDAD O RESPETO A LAS VÍCTIMAS MENORES DE EDAD
-- [[art. 152 CPP|Artículo 152]] — RESTRICCIONES A LA PUBLICIDAD POR MOTIVOS DE INTERÉS DE LA JUSTICIA
+- [[art. 149 CPP|Artículo 149]] — Principio de publicidad
+- [[art. 150 CPP|Artículo 150]] — Restricciones a la publicidad por motivos de orden público, seguridad nacional o moral pública
+- [[art. 151 CPP|Artículo 151]] — Restricciones a la publicidad por motivos de seguridad o respeto a las víctimas menores de edad
+- [[art. 152 CPP|Artículo 152]] — Restricciones a la publicidad por motivos de interés de la justicia
 - [[art. 152A CPP|Artículo 152A]]
 
 ---

@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 208 EOSF|Artículo 208]] — REGLAS GENERALES
+- [[art. 208 EOSF|Artículo 208]] — Reglas Generales
 - [[art. 209 EOSF|Artículo 209]]
 
 ---

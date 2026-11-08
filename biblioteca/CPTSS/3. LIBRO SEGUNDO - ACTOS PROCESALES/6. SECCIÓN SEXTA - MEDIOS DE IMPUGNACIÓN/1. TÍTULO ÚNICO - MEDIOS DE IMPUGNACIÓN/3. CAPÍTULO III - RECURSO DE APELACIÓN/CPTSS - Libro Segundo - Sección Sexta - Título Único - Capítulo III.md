@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 228 CPTSS|Artículo 228]] — PROCEDENCIA DEL RECURSO DE APELACIÓN
-- [[art. 229 CPTSS|Artículo 229]] — EFECTOS EN QUE SE CONCEDE LA APELACIÓN
-- [[art. 230 CPTSS|Artículo 230]] — OPORTUNIDAD Y REQUISITOS
+- [[art. 228 CPTSS|Artículo 228]] — Procedencia del recurso de apelación
+- [[art. 229 CPTSS|Artículo 229]] — Efectos en que se concede la apelación
+- [[art. 230 CPTSS|Artículo 230]] — Oportunidad y requisitos
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]] →

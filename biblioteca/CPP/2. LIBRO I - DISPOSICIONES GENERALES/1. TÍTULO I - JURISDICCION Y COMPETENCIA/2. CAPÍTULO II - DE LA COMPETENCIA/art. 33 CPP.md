@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "33"
-epigrafe: "DE LOS TRIBUNALES SUPERIORES DE DISTRITO RESPECTO DE LOS JUECES PENALES DE CIRCUITO ESPECIALIZADOS"
+epigrafe: "De los tribunales superiores de distrito respecto de los jueces penales de circuito especializados"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 33. DE LOS TRIBUNALES SUPERIORES DE DISTRITO RESPECTO DE LOS JUECES PENALES DE CIRCUITO ESPECIALIZADOS
+## Artículo 33. De los tribunales superiores de distrito respecto de los jueces penales de circuito especializados
 
 Los tribunales superiores de distrito respecto de los jueces penales de circuito especializados conocen:
 

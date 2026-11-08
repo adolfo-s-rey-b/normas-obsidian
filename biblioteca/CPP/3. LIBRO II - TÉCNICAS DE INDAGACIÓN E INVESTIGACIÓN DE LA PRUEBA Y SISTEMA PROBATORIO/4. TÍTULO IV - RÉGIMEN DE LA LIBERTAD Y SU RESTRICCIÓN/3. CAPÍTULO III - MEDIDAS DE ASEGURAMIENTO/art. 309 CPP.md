@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "309"
-epigrafe: "OBSTRUCCIÓN DE LA JUSTICIA"
+epigrafe: "Obstrucción de la justicia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 309. OBSTRUCCIÓN DE LA JUSTICIA
+## Artículo 309. Obstrucción de la justicia
 
 Se entenderá que la imposición de la medida de aseguramiento es indispensable para evitar la obstrucción de la justicia, cuando existan motivos graves y fundados que permitan inferir que el imputado podrá destruir, modificar, dirigir, impedir, ocultar o falsificar elementos de prueba; o se considere que inducirá a coimputados, testigos, peritos o terceros para que informen falsamente o se comporten de manera desleal o reticente; o cuando impida o dificulte la realización de las diligencias o la labor de los funcionarios y demás intervinientes en la actuación.
 

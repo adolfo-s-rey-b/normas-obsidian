@@ -13,7 +13,7 @@ articulo: "485"
 epigrafe: "IMPUESTOS DESCONTABLES"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título VII|TÍTULO VII - DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 56 Ley 1607 de 2012]]"
   - "[[art. 19 Ley 6 de 1992]]"
@@ -33,7 +33,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título VII|Título VII]]

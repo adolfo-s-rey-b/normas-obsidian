@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "452"
-epigrafe: "AUDIENCIA DE REMATE"
+epigrafe: "Audiencia de remate"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 452. AUDIENCIA DE REMATE
+## Artículo 452. Audiencia de remate
 
 Llegados el día y la hora para el remate el secretario o el encargado de realizarlo anunciará el número de sobres recibidos con anterioridad y a continuación, exhortará a los presentes para que presenten sus ofertas en sobre cerrado en dentro de la hora. El sobre deberá contener, además de la oferta suscrita por el interesado, el depósito previsto en el artículo anterior, cuando fuere necesario. La oferta es irrevocable.
 

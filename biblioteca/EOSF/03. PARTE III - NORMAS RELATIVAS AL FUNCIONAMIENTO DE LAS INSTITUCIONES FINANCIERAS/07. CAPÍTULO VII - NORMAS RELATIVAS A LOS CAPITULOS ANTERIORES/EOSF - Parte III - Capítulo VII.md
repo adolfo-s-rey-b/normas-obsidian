@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 71 EOSF|Artículo 71]] — ASPECTOS GENERALES
+- [[art. 71 EOSF|Artículo 71]] — Aspectos Generales
 
 ---
 ← [[EOSF - Parte III - Capítulo VI|Capítulo VI]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "151"
-epigrafe: "PETICIÓN Y NEGACIÓN DE PRUEBAS"
+epigrafe: "Petición y negación de pruebas"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 151. PETICIÓN Y NEGACIÓN DE PRUEBAS
+## Artículo 151. Petición y negación de pruebas
 
 Los sujetos procesales pueden aportar y solicitar la práctica de las pruebas que estimen conducentes y pertinentes. Serán negadas las inconducentes, las impertinentes y las superfluas y no se atenderán las practicadas ilegalmente.
 

@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 89 CPTSS|Artículo 89]] — PROPOSICIÓN Y TRÁMITE DE INCIDENTES
-- [[art. 90 CPTSS|Artículo 90]] — INTERVENCIÓN EN INCIDENTES O PARA TRÁMITES ESPECIALES
-- [[art. 91 CPTSS|Artículo 91]] — IRREVERSIBILIDAD DEL PROCESO
+- [[art. 89 CPTSS|Artículo 89]] — Proposición y trámite de incidentes
+- [[art. 90 CPTSS|Artículo 90]] — Intervención en incidentes o para trámites especiales
+- [[art. 91 CPTSS|Artículo 91]] — Irreversibilidad del proceso
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo III|Capítulo III]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo V|Capítulo V]] →

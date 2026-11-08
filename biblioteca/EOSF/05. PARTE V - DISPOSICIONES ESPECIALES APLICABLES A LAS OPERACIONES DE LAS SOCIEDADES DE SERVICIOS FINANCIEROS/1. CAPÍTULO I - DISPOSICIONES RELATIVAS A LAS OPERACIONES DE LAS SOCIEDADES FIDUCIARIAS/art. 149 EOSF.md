@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "149"
-epigrafe: "FIDUCIA PARA LA EMISION DE TITULOS"
+epigrafe: "Fiducia para la Emisión de Títulos"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo I|CAPÍTULO I - DISPOSICIONES RELATIVAS A LAS OPERACIONES DE LAS SOCIEDADES FIDUCIARIAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo I|Capítulo I]]
 
-## Artículo 149. FIDUCIA PARA LA EMISION DE TITULOS
+## Artículo 149. Fiducia para la Emisión de Títulos
 
 1\. Contrato de fiducia para la emisión de bonos. En el contrato de fiducia o en el encargo fiduciario respectivo se estipulará, por lo menos, lo siguiente:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "146"
-epigrafe: "CUMPLIMIENTO DE NORMAS CON FUERZA MATERIAL DE LEY O DE ACTOS ADMINISTRATIVOS"
+epigrafe: "Cumplimiento de normas con fuerza material de ley o de actos administrativos"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 146. CUMPLIMIENTO DE NORMAS CON FUERZA MATERIAL DE LEY O DE ACTOS ADMINISTRATIVOS
+## Artículo 146. Cumplimiento de normas con fuerza material de ley o de actos administrativos
 
 Toda persona podrá acudir ante la Jurisdicción de lo Contencioso Administrativo, previa constitución de renuencia, para hacer efectivo el cumplimiento de cualesquiera normas aplicables con fuerza material de ley o actos administrativos.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "47"
-epigrafe: "RETRACTO"
+epigrafe: "Retracto"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo V|CAPÍTULO V - DE LAS VENTAS QUE UTILIZAN MÉTODOS NO TRADICIONALES O A DISTANCIA]]"
 vigencia: "modificado"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo V|Capítulo V]]
 
-## Artículo 47. RETRACTO
+## Artículo 47. Retracto
 
 (sic) En todos los contratos para la venta de bienes y prestación de servicios mediante sistemas de financiación otorgada por el productor o proveedor, venta de tiempos compartidos o ventas que utilizan métodos no tradicionales o a distancia, que por su naturaleza no deban consumirse o no hayan comenzado a ejecutarse antes de cinco (5) días, se entenderá pactado el derecho de retracto por parte del consumidor En el evento en que se haga uso de la facultad de retracto, se resolverá el contrato y se deberá reintegrar el dinero que el consumidor hubiese pagado.
 

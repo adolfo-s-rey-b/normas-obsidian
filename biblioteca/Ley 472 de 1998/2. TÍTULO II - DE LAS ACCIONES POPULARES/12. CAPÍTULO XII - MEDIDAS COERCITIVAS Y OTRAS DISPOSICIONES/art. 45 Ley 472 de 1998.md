@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "45"
-epigrafe: "APLICACION"
+epigrafe: "Aplicación"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo XII|CAPÍTULO XII - MEDIDAS COERCITIVAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo XII|Capítulo XII]]
 
-## Artículo 45. APLICACION
+## Artículo 45. Aplicación
 
 Continuarán vigentes las acciones populares consagradas en la legislación nacional, pero su trámite y procedimiento se sujetarán a la presente ley.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "64"
-epigrafe: "FUNCIONES"
+epigrafe: "Funciones"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 64. FUNCIONES
+## Artículo 64. Funciones
 
 La Comisión Nacional para la Moralización tendrá las siguientes funciones:
 

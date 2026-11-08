@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "84"
-epigrafe: "TRÁMITE EN LA INCAUTACIÓN U OCUPACIÓN DE BIENES CON FINES DE COMISO"
+epigrafe: "Trámite en la incautación u ocupación de bienes con fines de comiso"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 84. TRÁMITE EN LA INCAUTACIÓN U OCUPACIÓN DE BIENES CON FINES DE COMISO
+## Artículo 84. Trámite en la incautación u ocupación de bienes con fines de comiso
 
 Dentro de las treinta y seis (36) horas siguientes a la incautación u ocupación de bienes o recursos con fines de comiso, efectuadas por orden del Fiscal General de la Nación o su delegado, o por acción de la Policía Judicial en los eventos señalados en este código, el fiscal comparecerá ante el juez de control de garantías para que realice la audiencia de revisión de la legalidad sobre lo actuado.
 

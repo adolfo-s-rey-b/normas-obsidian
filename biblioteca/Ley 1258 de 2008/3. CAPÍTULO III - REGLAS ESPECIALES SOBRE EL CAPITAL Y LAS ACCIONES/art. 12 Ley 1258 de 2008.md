@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "12"
-epigrafe: "TRANSFERENCIA DE ACCIONES A FIDUCIAS MERCANTILES"
+epigrafe: "Transferencia de acciones a fiducias mercantiles"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 11 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 12. TRANSFERENCIA DE ACCIONES A FIDUCIAS MERCANTILES
+## Artículo 12. Transferencia de acciones a fiducias mercantiles
 
 Las acciones en que se divide el capital de la sociedad por acciones simplificada podrán estar radicadas en una fiducia mercantil, siempre que en el libro de registro de accionistas se identifique a la compañía fiduciaria, así como a los beneficiarios del patrimonio autónomo junto con sus correspondientes porcentajes en la fiducia.
 

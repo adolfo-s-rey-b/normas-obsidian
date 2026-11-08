@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "83"
-epigrafe: "SUPERVISIÓN E INTERVENTORÍA CONTRACTUAL"
+epigrafe: "Supervisión e interventoría contractual"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 82 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 83. SUPERVISIÓN E INTERVENTORÍA CONTRACTUAL
+## Artículo 83. Supervisión e interventoría contractual
 
 Con el fin de proteger la moralidad administrativa, de prevenir la ocurrencia de actos de corrupción y de tutelar la transparencia de la actividad contractual, las entidades públicas están obligadas a vigilar permanentemente la correcta ejecución del objeto contratado a través de un supervisor o un interventor, según corresponda.
 

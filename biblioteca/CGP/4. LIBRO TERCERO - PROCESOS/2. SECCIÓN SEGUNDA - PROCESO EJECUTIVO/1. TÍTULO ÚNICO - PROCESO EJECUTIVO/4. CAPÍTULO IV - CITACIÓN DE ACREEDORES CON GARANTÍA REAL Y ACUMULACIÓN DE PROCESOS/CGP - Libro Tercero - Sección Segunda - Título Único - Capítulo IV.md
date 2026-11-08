@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 462 CGP|Artículo 462]] — CITACIÓN DE ACREEDORES CON GARANTÍA REAL
-- [[art. 463 CGP|Artículo 463]] — ACUMULACIÓN DE DEMANDAS
-- [[art. 464 CGP|Artículo 464]] — ACUMULACIÓN DE PROCESOS EJECUTIVOS
-- [[art. 465 CGP|Artículo 465]] — CONCURRENCIA DE EMBARGOS EN PROCESOS DE DIFERENTES ESPECIALIDADES
-- [[art. 466 CGP|Artículo 466]] — PERSECUCIÓN DE BIENES EMBARGADOS EN OTRO PROCESO
+- [[art. 462 CGP|Artículo 462]] — Citación de acreedores con garantía real
+- [[art. 463 CGP|Artículo 463]] — Acumulación de demandas
+- [[art. 464 CGP|Artículo 464]] — Acumulación de procesos ejecutivos
+- [[art. 465 CGP|Artículo 465]] — Concurrencia de embargos en procesos de diferentes especialidades
+- [[art. 466 CGP|Artículo 466]] — Persecución de bienes embargados en otro proceso
 
 ---
 ← [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]] · ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo V|Capítulo V]] →

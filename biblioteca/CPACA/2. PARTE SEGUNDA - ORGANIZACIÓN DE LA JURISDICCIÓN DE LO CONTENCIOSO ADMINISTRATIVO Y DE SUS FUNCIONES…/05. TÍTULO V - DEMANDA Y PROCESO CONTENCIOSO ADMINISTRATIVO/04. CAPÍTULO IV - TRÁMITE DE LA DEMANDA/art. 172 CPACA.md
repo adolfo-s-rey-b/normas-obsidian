@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "172"
-epigrafe: "TRASLADO DE LA DEMANDA"
+epigrafe: "Traslado de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 172. TRASLADO DE LA DEMANDA
+## Artículo 172. Traslado de la demanda
 
 De la demanda se correrá traslado al demandado, al Ministerio Público y a los sujetos que, según la demanda o las actuaciones acusadas, tengan interés directo en el resultado del proceso, por el término de treinta (30) días, plazo que comenzará a correr de conformidad con lo previsto en los artículos [[art. 199 CPACA|199]] y [[art. 200 CPACA|200]] de este Código y dentro del cual deberán contestar la demanda, proponer excepciones, solicitar pruebas, llamar en garantía, y en su caso, presentar demanda de reconvención.
 

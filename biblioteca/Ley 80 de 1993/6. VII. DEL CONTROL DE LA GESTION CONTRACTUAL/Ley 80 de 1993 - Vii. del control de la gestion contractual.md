@@ -20,12 +20,12 @@ tags:
 
 ### Contenido
 
-- [[art. 62 Ley 80 de 1993|Artículo 62]] — DE LA INTERVENCIÓN DEL MINISTERIO PÚBLICO
-- [[art. 63 Ley 80 de 1993|Artículo 63]] — DE LAS VISITAS E INFORMES
-- [[art. 64 Ley 80 de 1993|Artículo 64]] — DE LA PARTICIPACIÓN DE LA FISCALÍA GENERAL DE LA NACIÓN
-- [[art. 65 Ley 80 de 1993|Artículo 65]] — DE LA INTERVENCIÓN DE LAS AUTORIDADES QUE EJERCEN CONTROL FISCAL
-- [[art. 66 Ley 80 de 1993|Artículo 66]] — DE LA PARTICIPACIÓN COMUNITARIA
-- [[art. 67 Ley 80 de 1993|Artículo 67]] — DE LA COLABORACIÓN DE LOS CUERPOS CONSULTIVOS DEL GOBIERNO
+- [[art. 62 Ley 80 de 1993|Artículo 62]] — De la Intervención del Ministerio Publico
+- [[art. 63 Ley 80 de 1993|Artículo 63]] — De las Visitas e Informes
+- [[art. 64 Ley 80 de 1993|Artículo 64]] — De la Participación de la Fiscalía General de la Nación
+- [[art. 65 Ley 80 de 1993|Artículo 65]] — De la Intervención de las Autoridades que ejercen Control Fiscal
+- [[art. 66 Ley 80 de 1993|Artículo 66]] — De la Participación Comunitaria
+- [[art. 67 Ley 80 de 1993|Artículo 67]] — De la Colaboración de los Cuerpos Consultivos del Gobierno
 
 ---
 ← [[Ley 80 de 1993 - Vi. de la liquidación de los contratos|Vi. de la liquidación de los contratos]] · ↑ [[Ley 80 de 1993|Ley 80 de 1993]] · [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]] →

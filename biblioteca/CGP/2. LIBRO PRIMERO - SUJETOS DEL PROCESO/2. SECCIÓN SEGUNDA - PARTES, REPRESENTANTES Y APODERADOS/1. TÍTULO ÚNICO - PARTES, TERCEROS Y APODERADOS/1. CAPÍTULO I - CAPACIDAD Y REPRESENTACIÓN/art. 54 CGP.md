@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "54"
-epigrafe: "COMPARECENCIA AL PROCESO"
+epigrafe: "Comparecencia al proceso"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 54. COMPARECENCIA AL PROCESO
+## Artículo 54. Comparecencia al proceso
 
 Las personas que puedan disponer de sus derechos tienen capacidad para comparecer por sí mismas al proceso. Las demás deberán comparecer por intermedio de sus representantes o debidamente autorizadas por estos con sujeción a las normas sustanciales.
 

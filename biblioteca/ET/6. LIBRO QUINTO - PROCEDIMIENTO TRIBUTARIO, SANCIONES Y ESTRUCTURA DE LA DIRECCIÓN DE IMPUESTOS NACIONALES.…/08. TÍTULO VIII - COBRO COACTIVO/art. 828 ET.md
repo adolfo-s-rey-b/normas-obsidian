@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "828"
-epigrafe: "TITULOS EJECUTIVOS"
+epigrafe: "TÍTULOS EJECUTIVOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VIII|TÍTULO VIII - COBRO COACTIVO]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VIII|Título VIII]]
 
-## Artículo 828. TITULOS EJECUTIVOS
+## Artículo 828. TÍTULOS EJECUTIVOS
 
 Prestan mérito ejecutivo:
 

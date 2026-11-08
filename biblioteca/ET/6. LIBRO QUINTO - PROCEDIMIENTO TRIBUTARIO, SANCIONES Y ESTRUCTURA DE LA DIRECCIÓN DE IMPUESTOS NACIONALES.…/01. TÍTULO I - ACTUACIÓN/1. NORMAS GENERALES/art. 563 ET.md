@@ -14,7 +14,7 @@ epigrafe: "DIRECCIÓN PARA NOTIFICACIONES"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título I|TÍTULO I - ACTUACIÓN]]"
 rubro: "[[ET - Libro Quinto - Título I - Normas generales|NORMAS GENERALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 59 Decreto 19 de 2012]]"
   - "[[art. 103 Ley 2010 de 2019]]"
@@ -41,7 +41,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título I|Título I]] › [[ET - Libro Quinto - Título I - Normas generales|Normas generales]]

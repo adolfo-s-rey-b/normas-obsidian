@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 244 CGD|Artículo 244]] — FUNCIONARIO COMPETENTE PARA PROFERIR LAS PROVIDENCIAS
-- [[art. 245 CGD|Artículo 245]] — NOTIFICACIÓN POR FUNCIONARIO COMISIONADO
-- [[art. 246 CGD|Artículo 246]] — EJECUTORIA
+- [[art. 244 CGD|Artículo 244]] — Funcionario competente para proferir las providencias
+- [[art. 245 CGD|Artículo 245]] — Notificación por funcionario comisionado
+- [[art. 246 CGD|Artículo 246]] — Ejecutoria
 
 ---
 ← [[CGD - Libro IV - Título XI - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro IV - Título XI|Título XI]] · [[CGD - Libro IV - Título XI - Capítulo IV|Capítulo IV]] →

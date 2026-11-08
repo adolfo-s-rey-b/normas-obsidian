@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "229"
-epigrafe: "DISPOSICIONES DEL JUEZ RESPECTO DE LA PRUEBA PERICIAL"
+epigrafe: "Disposiciones del juez respecto de la prueba pericial"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 229. DISPOSICIONES DEL JUEZ RESPECTO DE LA PRUEBA PERICIAL
+## Artículo 229. Disposiciones del juez respecto de la prueba pericial
 
 El juez, de oficio o a petición de parte, podrá disponer lo siguiente:
 

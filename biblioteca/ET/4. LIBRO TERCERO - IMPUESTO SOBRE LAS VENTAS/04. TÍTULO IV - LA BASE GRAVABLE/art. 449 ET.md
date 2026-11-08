@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "449"
-epigrafe: "LA FINANCIACIÓN POR VINCULADOS ECONOMICOS ES PARTE DE LA BASE GRAVABLE"
+epigrafe: "LA FINANCIACIÓN POR VINCULADOS ECONÓMICOS ES PARTE DE LA BASE GRAVABLE"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 449. LA FINANCIACIÓN POR VINCULADOS ECONOMICOS ES PARTE DE LA BASE GRAVABLE
+## Artículo 449. LA FINANCIACIÓN POR VINCULADOS ECONÓMICOS ES PARTE DE LA BASE GRAVABLE
 
 Los gastos de financiación que integran la base gravable, incluyen también la financiación otorgada por una empresa económicamente vinculada al responsable que efectúe la operación gravada.
 

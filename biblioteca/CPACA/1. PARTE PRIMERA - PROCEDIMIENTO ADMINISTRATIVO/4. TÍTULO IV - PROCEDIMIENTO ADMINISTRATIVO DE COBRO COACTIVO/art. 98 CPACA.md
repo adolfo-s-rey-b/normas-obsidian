@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "98"
-epigrafe: "DEBER DE RECAUDO Y PRERROGATIVA DEL COBRO COACTIVO"
+epigrafe: "Deber de recaudo y prerrogativa del cobro coactivo"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título IV|TÍTULO IV - PROCEDIMIENTO ADMINISTRATIVO DE COBRO COACTIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título IV|Título IV]]
 
-## Artículo 98. DEBER DE RECAUDO Y PRERROGATIVA DEL COBRO COACTIVO
+## Artículo 98. Deber de recaudo y prerrogativa del cobro coactivo
 
 Las entidades públicas definidas en el parágrafo del artículo [[art. 104 CPACA|104]] deberán recaudar las obligaciones creadas en su favor, que consten en documentos que presten mérito ejecutivo de conformidad con este Código. Para tal efecto, están revestidas de la prerrogativa de cobro coactivo o podrán acudir ante los jueces competentes.
 

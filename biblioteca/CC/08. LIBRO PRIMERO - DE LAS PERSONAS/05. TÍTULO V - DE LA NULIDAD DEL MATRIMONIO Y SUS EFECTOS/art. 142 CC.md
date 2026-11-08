@@ -11,7 +11,7 @@ articulo: "142"
 epigrafe: "NULIDAD POR ERROR"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título V|TÍTULO V - DE LA NULIDAD DEL MATRIMONIO Y SUS EFECTOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 6 Ley 2447 de 2025]]"
 anterior: "[[art. 141 CC]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Libro Primero|Libro Primero]] › [[CC - Libro Primero - Título V|Título V]]

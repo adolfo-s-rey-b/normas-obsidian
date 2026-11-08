@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "137"
 titulo: "[[CPol - Título VI|TÍTULO VI - De la rama legislativa]]"
 capitulo: "[[CPol - Título VI - Capítulo 1|CAPÍTULO 1 - De la composición y las funciones]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 26 Acto Legislativo 2 de 2015]]"
   - "[[art. 178 CPol]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPol|CPol]] › [[CPol - Título VI|Título VI]] › [[CPol - Título VI - Capítulo 1|Capítulo 1]]

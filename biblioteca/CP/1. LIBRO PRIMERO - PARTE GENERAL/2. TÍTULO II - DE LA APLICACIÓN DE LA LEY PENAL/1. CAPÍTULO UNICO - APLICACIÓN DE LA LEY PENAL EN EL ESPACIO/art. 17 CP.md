@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "17"
-epigrafe: "SENTENCIA EXTRANJERA"
+epigrafe: "Sentencia extranjera"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título II|TÍTULO II - DE LA APLICACIÓN DE LA LEY PENAL]]"
 capitulo: "[[CP - Libro Primero - Título II - Capítulo Unico|CAPÍTULO UNICO - APLICACIÓN DE LA LEY PENAL EN EL ESPACIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título II|Título II]] › [[CP - Libro Primero - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 17. SENTENCIA EXTRANJERA
+## Artículo 17. Sentencia extranjera
 
 La sentencia absolutoria o condenatoria pronunciada en el extranjero tendrá valor de cosa juzgada para todos los efectos legales.
 

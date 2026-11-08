@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "11"
-epigrafe: "SUSPENSIÓN"
+epigrafe: "Suspensión"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 11. SUSPENSIÓN
+## Artículo 11. Suspensión
 
 El proceso se suspenderá por solicitud de ambas partes con la limitación temporal prevista en esta ley y, además, desde el momento en que un árbitro se declare impedido o sea recusado, y se reanudará cuando se resuelva al respecto.
 

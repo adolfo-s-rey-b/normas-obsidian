@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "25"
-epigrafe: "MEDIDAS CAUTELARES"
+epigrafe: "Medidas Cautelares"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VI|CAPÍTULO VI - COADYUVANCIA Y MEDIDAS CAUTELARES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VI|Capítulo VI]]
 
-## Artículo 25. MEDIDAS CAUTELARES
+## Artículo 25. Medidas Cautelares
 
 Antes de ser notificada la demanda y en cualquier estado del proceso podrá el juez, de oficio o a petición de parte, decretar, debidamente motivadas, las medidas previas que estime pertinentes para prevenir un daño inminente o para hacer cesar el que se hubiere causado. En particular, podrá decretar las siguientes:
 

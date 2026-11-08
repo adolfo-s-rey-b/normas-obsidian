@@ -10,7 +10,7 @@ sigla: "CC"
 articulo: "53"
 epigrafe: "EXTENSIÓN DE DENOMINACIONES SOBRE AFINIDAD Y FILIACIÓN"
 capitulo: "[[CC - Capítulo V|CAPÍTULO V - DEFINICIONES DE VARIAS PALABRAS DE USO FRECUENTE EN LAS LEYES]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 42 CPol]]"
   - "[[art. 39 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CC|CC]] › [[CC - Capítulo V|Capítulo V]]

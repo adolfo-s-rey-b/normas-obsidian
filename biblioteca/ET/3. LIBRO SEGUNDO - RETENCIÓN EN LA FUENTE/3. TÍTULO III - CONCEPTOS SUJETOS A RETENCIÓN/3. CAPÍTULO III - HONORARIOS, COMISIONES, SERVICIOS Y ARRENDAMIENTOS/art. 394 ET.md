@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "394"
-epigrafe: "COMO OPERA LA RETENCIÓN POR ARRENDAMIENTOS CUANDO HAY INTERMEDIACIÓN"
+epigrafe: "CÓMO OPERA LA RETENCIÓN POR ARRENDAMIENTOS CUANDO HAY INTERMEDIACIÓN"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo III|CAPÍTULO III - HONORARIOS, COMISIONES, SERVICIOS Y ARRENDAMIENTOS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 394. COMO OPERA LA RETENCIÓN POR ARRENDAMIENTOS CUANDO HAY INTERMEDIACIÓN
+## Artículo 394. CÓMO OPERA LA RETENCIÓN POR ARRENDAMIENTOS CUANDO HAY INTERMEDIACIÓN
 
 En el caso de arrendamientos, cuando existiere intermediación, quien recibe el pago deberá expedir a quien lo efectuó, un certificado en donde conste el nombre y NIT del respectivo beneficiario y, en tal evento, la consignación de la suma retenida se hará a nombre del beneficiario.
 

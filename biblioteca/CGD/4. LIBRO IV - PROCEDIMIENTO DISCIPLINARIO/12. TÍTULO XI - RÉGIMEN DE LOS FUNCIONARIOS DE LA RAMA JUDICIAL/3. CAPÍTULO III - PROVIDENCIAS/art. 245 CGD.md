@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "245"
-epigrafe: "NOTIFICACIÓN POR FUNCIONARIO COMISIONADO"
+epigrafe: "Notificación por funcionario comisionado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo III|CAPÍTULO III - PROVIDENCIAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo III|Capítulo III]]
 
-## Artículo 245. NOTIFICACIÓN POR FUNCIONARIO COMISIONADO
+## Artículo 245. Notificación por funcionario comisionado
 
 En los casos en que la notificación personal deba realizarse en sede diferente del competente, la Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial, ~~o quienes hagan sus veces~~, podrán comisionar a cualquier otro funcionario o servidor público con autoridad en el lugar donde se encuentre el investigado o su defensor.
 

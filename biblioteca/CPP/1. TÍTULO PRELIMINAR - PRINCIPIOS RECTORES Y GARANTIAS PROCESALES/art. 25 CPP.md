@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "25"
-epigrafe: "INTEGRACIÓN"
+epigrafe: "Integración"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 24 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 25. INTEGRACIÓN
+## Artículo 25. Integración
 
 En materias que no estén expresamente reguladas en este código o demás disposiciones complementarias, son aplicables las del Código de Procedimiento Civil y las de otros ordenamientos procesales cuando no se opongan a la naturaleza del procedimiento penal.
 

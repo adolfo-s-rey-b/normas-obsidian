@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "428"
-epigrafe: "EJECUCIÓN POR PERJUICIOS"
+epigrafe: "Ejecución por perjuicios"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 428. EJECUCIÓN POR PERJUICIOS
+## Artículo 428. Ejecución por perjuicios
 
 El acreedor podrá demandar desde un principio el pago de perjuicios por la no entrega de una especie mueble o de bienes de género distintos de dinero, o por la ejecución o no ejecución de un hecho, estimándolos y especificándolos bajo juramento si no figuran en el título ejecutivo, en una cantidad como principal y otra como tasa de interés mensual, para que se siga la ejecución por suma líquida de dinero.
 

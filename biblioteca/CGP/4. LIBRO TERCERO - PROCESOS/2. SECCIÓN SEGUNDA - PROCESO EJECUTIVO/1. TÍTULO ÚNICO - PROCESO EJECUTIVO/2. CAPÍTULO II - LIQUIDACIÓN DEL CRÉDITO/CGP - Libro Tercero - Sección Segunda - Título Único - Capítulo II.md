@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 446 CGP|Artículo 446]] — LIQUIDACIÓN DEL CRÉDITO Y LAS COSTAS
-- [[art. 447 CGP|Artículo 447]] — ENTREGA DE DINERO AL EJECUTANTE
+- [[art. 446 CGP|Artículo 446]] — Liquidación del crédito y las costas
+- [[art. 447 CGP|Artículo 447]] — Entrega de dinero al ejecutante
 
 ---
 ← [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]] →

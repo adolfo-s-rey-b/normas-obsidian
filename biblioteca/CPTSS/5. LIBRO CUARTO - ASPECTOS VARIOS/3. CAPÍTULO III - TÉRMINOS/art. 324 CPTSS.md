@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "324"
-epigrafe: "CÓMPUTO DE TÉRMINOS"
+epigrafe: "Cómputo de términos"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo III|CAPÍTULO III - TÉRMINOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo III|Capítulo III]]
 
-## Artículo 324. CÓMPUTO DE TÉRMINOS
+## Artículo 324. Cómputo de términos
 
 El término que se conceda en audiencia a quienes estaban obligados a concurrir a ella correrá a partir de su otorgamiento. En caso contrario, correrá a partir del día siguiente al de la notificación de la providencia que lo concedió.
 

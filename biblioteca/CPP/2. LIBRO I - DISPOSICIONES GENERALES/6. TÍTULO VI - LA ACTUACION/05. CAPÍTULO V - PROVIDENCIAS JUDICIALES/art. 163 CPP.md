@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "163"
-epigrafe: "PROHIBICIÓN DE TRANSCRIPCIONES"
+epigrafe: "Prohibición de transcripciones"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo V|CAPÍTULO V - PROVIDENCIAS JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 163. PROHIBICIÓN DE TRANSCRIPCIONES
+## Artículo 163. Prohibición de transcripciones
 
 En desarrollo de los principios de oralidad y celeridad las providencias judiciales en ningún caso se podrá transcribir, reproducir o verter a texto escrito apartes de la actuación, excepto las citas o referencias apropiadas para la debida fundamentación de la decisión.
 

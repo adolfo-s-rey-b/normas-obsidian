@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "444"
-epigrafe: "RESPONSABLES EN LA VENTA DE DERIVADOS DEL PETROLEO"
+epigrafe: "RESPONSABLES EN LA VENTA DE DERIVADOS DEL PETRÓLEO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título III|TÍTULO III - RESPONSABLES DEL IMPUESTO]]"
 rubro: "[[ET - Libro Tercero - Título III - Regimen especial para los derivados del petroleo…|REGIMEN ESPECIAL PARA LOS DERIVADOS DEL PETROLEO, CERVEZA Y GASEOSA]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título III|Título III]] › [[ET - Libro Tercero - Título III - Regimen especial para los derivados del petroleo…|Regimen especial para los derivados del petroleo…]]
 
-## Artículo 444. RESPONSABLES EN LA VENTA DE DERIVADOS DEL PETROLEO
+## Artículo 444. RESPONSABLES EN LA VENTA DE DERIVADOS DEL PETRÓLEO
 
 Son responsables del impuesto en la venta de productos derivados del petróleo, los productores, los importadores, los vinculados económicos de unos y otros, los distribuidores mayoristas y/o comercializadores industriales.
 

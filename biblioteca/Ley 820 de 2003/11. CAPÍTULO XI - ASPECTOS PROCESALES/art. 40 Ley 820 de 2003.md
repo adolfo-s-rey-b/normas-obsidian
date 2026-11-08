@@ -5,7 +5,7 @@ tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "40"
 capitulo: "[[Ley 820 de 2003 - Capítulo XI|CAPÍTULO XI - ASPECTOS PROCESALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 39 Ley 820 de 2003]]"
@@ -19,7 +19,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_820_de_2003
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo XI|Capítulo XI]]

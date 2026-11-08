@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "93"
-epigrafe: "CORRECCIÓN, ACLARACIÓN Y REFORMA DE LA DEMANDA"
+epigrafe: "Corrección, aclaración y reforma de la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 93. CORRECCIÓN, ACLARACIÓN Y REFORMA DE LA DEMANDA
+## Artículo 93. Corrección, aclaración y reforma de la demanda
 
 El demandante podrá corregir, aclarar o reformar la demanda en cualquier momento, desde su presentación y hasta antes del señalamiento de la audiencia inicial.
 

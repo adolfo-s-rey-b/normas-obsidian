@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "516"
-epigrafe: "SUSPENSIÓN DE LA PARTICIÓN"
+epigrafe: "Suspensión de la partición"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 516. SUSPENSIÓN DE LA PARTICIÓN
+## Artículo 516. Suspensión de la partición
 
 El juez decretará la suspensión de la partición por las razones y en las circunstancias señaladas en los artículos [[art. 1387 CC|1387]] y [[art. 1388 CC|1388]] del Código Civil, siempre que se solicite antes de quedar ejecutoriada la sentencia aprobatoria de la partición o adjudicación y con ella deberá presentarse el certificado a que se refiere el inciso segundo del artículo [[art. 505 CGP|505]]. El auto que la resuelva es apelable en el efecto suspensivo.
 

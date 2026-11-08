@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "347"
-epigrafe: "SELECCIÓN EN EL TRÁMITE DEL RECURSO DE CASACIÓN"
+epigrafe: "Selección en el trámite del recurso de casación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 347. SELECCIÓN EN EL TRÁMITE DEL RECURSO DE CASACIÓN
+## Artículo 347. Selección en el trámite del recurso de casación
 
 La Sala, aunque la demanda de casación cumpla los requisitos formales, podrá inadmitirla en los siguientes eventos:
 

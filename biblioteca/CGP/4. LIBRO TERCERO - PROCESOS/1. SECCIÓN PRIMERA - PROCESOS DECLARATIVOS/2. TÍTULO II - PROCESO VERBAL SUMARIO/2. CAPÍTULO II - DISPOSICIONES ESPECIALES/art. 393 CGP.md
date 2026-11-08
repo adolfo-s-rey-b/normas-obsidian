@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "393"
-epigrafe: "LANZAMIENTO POR OCUPACIÓN DE HECHO DE PREDIOS RURALES"
+epigrafe: "Lanzamiento por ocupación de hecho de predios rurales"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 393. LANZAMIENTO POR OCUPACIÓN DE HECHO DE PREDIOS RURALES
+## Artículo 393. Lanzamiento por ocupación de hecho de predios rurales
 
 Sin perjuicio de lo previsto en el artículo [[art. 984 CC|984]] del Código Civil, la persona que explote económicamente un predio rural que hubiere sido privada de hecho, total o parcialmente, de la tenencia material del mismo, sin que haya mediado su consentimiento expreso o tácito u orden de autoridad competente, ni exista otra causa que lo justifique, podrá pedir al respectivo juez agrario que efectúe el lanzamiento del ocupante.
 

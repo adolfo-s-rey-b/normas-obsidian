@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "443"
-epigrafe: "TURNOS PARA ALEGAR"
+epigrafe: "Turnos para alegar"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo IV|CAPÍTULO IV - ALEGATOS DE LAS PARTES E INTERVINIENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 443. TURNOS PARA ALEGAR
+## Artículo 443. Turnos para alegar
 
 El fiscal expondrá oralmente los argumentos relativos al análisis de la prueba, tipificando de manera circunstanciada la conducta por la cual ha presentado la acusación.
 

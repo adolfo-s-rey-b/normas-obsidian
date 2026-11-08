@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "179"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título III|TÍTULO III - DELITOS CONTRA LA LIBERTAD INDIVIDUAL Y OTRAS GARANTIAS]]"
 capitulo: "[[CP - Libro Segundo - Título III - Capítulo Quinto|CAPÍTULO QUINTO - DE LOS DELITOS CONTRA LA AUTONOMIA PERSONAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título III|Título III]] › [[CP - Libro Segundo - Título III - Capítulo Quinto|Capítulo Quinto]]
 
-## Artículo 179. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 179. Circunstancias de agravación punitiva
 
 Las penas previstas en el artículo anterior se aumentarán hasta en una tercera parte en los siguientes eventos:
 

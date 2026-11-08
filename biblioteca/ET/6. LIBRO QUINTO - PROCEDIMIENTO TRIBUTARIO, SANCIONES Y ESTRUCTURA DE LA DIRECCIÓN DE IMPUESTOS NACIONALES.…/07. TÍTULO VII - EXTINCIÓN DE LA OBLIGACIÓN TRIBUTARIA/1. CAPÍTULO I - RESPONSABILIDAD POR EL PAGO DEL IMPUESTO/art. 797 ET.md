@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "797"
-epigrafe: "SOLIDARIDAD FISCAL ENTRE LOS BENEFICIARIOS DE UN TITULO VALOR"
+epigrafe: "SOLIDARIDAD FISCAL ENTRE LOS BENEFICIARIOS DE UN TÍTULO VALOR"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo I|CAPÍTULO I - RESPONSABILIDAD POR EL PAGO DEL IMPUESTO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo I|Capítulo I]]
 
-## Artículo 797. SOLIDARIDAD FISCAL ENTRE LOS BENEFICIARIOS DE UN TITULO VALOR
+## Artículo 797. SOLIDARIDAD FISCAL ENTRE LOS BENEFICIARIOS DE UN TÍTULO VALOR
 
 Cuando varias personas aparezcan como beneficiarios en forma conjunta, o bajo la expresión y/o, de un título valor, serán solidariamente responsables del impuesto correspondiente a los respectivos ingresos y valores patrimoniales.
 

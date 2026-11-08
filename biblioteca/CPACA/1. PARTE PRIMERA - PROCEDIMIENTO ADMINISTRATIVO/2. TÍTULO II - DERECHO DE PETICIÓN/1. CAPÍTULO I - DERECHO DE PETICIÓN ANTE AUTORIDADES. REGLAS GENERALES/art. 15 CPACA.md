@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "15"
-epigrafe: "PRESENTACIÓN Y RADICACIÓN DE PETICIONES"
+epigrafe: "Presentación y radicación de peticiones"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 15. PRESENTACIÓN Y RADICACIÓN DE PETICIONES
+## Artículo 15. Presentación y radicación de peticiones
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

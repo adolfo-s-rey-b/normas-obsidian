@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "814-2"
-epigrafe: "COBRO DE GARANTIAS"
+epigrafe: "COBRO DE GARANTÍAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Acuerdos de pago|Acuerdos de pago]]
 
-## Artículo 814-2. COBRO DE GARANTIAS
+## Artículo 814-2. COBRO DE GARANTÍAS
 
 Dentro de los diez (10) días siguientes a la ejecutoria de la resolución que ordene hacer efectiva la garantía otorgada, el garante deberá consignar el valor garantizado hasta concurrencia del saldo insoluto.
 

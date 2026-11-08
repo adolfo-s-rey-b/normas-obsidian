@@ -11,7 +11,7 @@ articulo: "251"
 epigrafe: "EXCEPCIONES A LA REGLA GENERAL"
 titulo: "[[CST - Título VIII|TÍTULO VIII - PRESTACIONES PATRONALES COMUNES]]"
 capitulo: "[[CST - Título VIII - Capítulo VII|CAPÍTULO VII - AUXILIO DE CESANTIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 250 CST]]"
 siguiente: "[[art. 252 CST]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_sustantivo_trabajo.html"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título VIII|Título VIII]] › [[CST - Título VIII - Capítulo VII|Capítulo VII]]

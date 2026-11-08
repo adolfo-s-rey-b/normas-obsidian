@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "303"
-epigrafe: "ATRIBUCIONES DEL MINISTERIO PÚBLICO"
+epigrafe: "Atribuciones del Ministerio Público"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título X|TÍTULO X - EL MINISTERIO PÚBLICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título X|Título X]]
 
-## Artículo 303. ATRIBUCIONES DEL MINISTERIO PÚBLICO
+## Artículo 303. Atribuciones del Ministerio Público
 
 El Ministerio Público está facultado para actuar como demandante o como sujeto procesal especial y podrá intervenir en todos los procesos e incidentes que se adelanten ante la Jurisdicción de lo Contencioso Administrativo en defensa del orden jurídico, del patrimonio público y de los derechos y garantías fundamentales.
 

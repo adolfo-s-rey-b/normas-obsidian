@@ -15,7 +15,6 @@ capitulo: "[[CC - Libro Tercero - Título V - Capítulo III|CAPÍTULO III - DE L
 vigencia: "derogado"
 modificado_por:
   - "[[art. 4 Ley 1934 de 2018]]"
-  - "[[art. 1253 CC]]"
 derogado_por:
   - "[[art. 4 Ley 1934 de 2018]]"
   - "[[art. 23 Ley 45 de 1936]]"
@@ -44,7 +43,7 @@ La mitad de la masa de bienes restantes constituyen la porción de bienes de que
 
 **PARÁGRAFO 1.** Los abogados no podrán hacerse parte de la sucesión en función de cobrarle sus honorarios.
 
-> [!info] Notas del Editor: * En criterio del editor, en la modificacion a este artículo por la Ley 1934 de 2018, el legislador incurrió en error en la titulación del mismo, al no tener en cuenta la eliminación de la cuarta de mejoras de la distribución de la masa. - En relación con la expresión 'naturales' contenida en el texto modificado por la Ley 45 de 1996 de este artículo, el editor destaca el fallo de INEXEQUIBILIDAD que sobre la expresión 'naturales' del artículo [[art. 1253 CC|1253]] de este código, efectuó la Corte Constitucional mediante Sentencia C-641-00 del 31 de mayo de 2000, Magistrado Ponente Dr. Fabio Morón Díaz.
+> [!info] Notas del Editor: * En criterio del editor, en la modificacion a este artículo por la Ley 1934 de 2018, el legislador incurrió en error en la titulación del mismo, al no tener en cuenta la eliminación de la cuarta de mejoras de la distribución de la masa. - En relación con la expresión 'naturales' contenida en el texto modificado por la Ley 45 de 1996 de este artículo, el editor destaca el fallo de INEXEQUIBILIDAD que sobre la expresión 'naturales' del artículo 1253 de este código, efectuó la Corte Constitucional mediante Sentencia C-641-00 del 31 de mayo de 2000, Magistrado Ponente Dr. Fabio Morón Díaz.
 
 > [!warning] Notas de Vigencia: Artículo modificado por el artículo [[art. 4 Ley 1934 de 2018|4]] de la Ley 1934 de 2018, 'por medio de la cual se reforma y adiciona el Código Civil', publicada en el Diario Oficial No. 50.673 de 2 de agosto de 2018. Esta ley entrará a regir a partir del 1 de enero del año siguiente de su expedición y no será aplicable a los testamentos que hayan sido depositados en notaría antes de la vigencia de la presente ley, los cuales seguirán regulados por la legislación anterior (Art. 22 ). - Artículo modificado por el artículo [[art. 23 Ley 45 de 1936|23]] y derogado por el artículo [[art. 30 Ley 45 de 1936|30]] de la Ley 45 de 1936.
 

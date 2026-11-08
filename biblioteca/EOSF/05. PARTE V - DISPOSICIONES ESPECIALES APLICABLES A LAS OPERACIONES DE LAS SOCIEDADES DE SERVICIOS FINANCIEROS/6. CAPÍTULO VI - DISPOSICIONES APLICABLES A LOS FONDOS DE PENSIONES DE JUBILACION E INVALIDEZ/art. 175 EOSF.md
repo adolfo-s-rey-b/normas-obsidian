@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "175"
-epigrafe: "DISPOSICIONES RELATIVAS A LA INTERVENCION, DISOLUCION, LIQUIDACION O QUIEBRA DE LOS FONDOS DE PENSIONES Y DE LAS SOCIEDADES QUE LOS ADMINISTRAN"
+epigrafe: "Disposiciones Relativas a la Intervención, Disolución, Liquidación o Quiebra de los Fondos de Pensiones y de las Sociedades que los Administran"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo VI|CAPÍTULO VI - DISPOSICIONES APLICABLES A LOS FONDOS DE PENSIONES DE JUBILACION E INVALIDEZ]]"
 vigencia: "derogado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo VI|Capítulo VI]]
 
-## Artículo 175. DISPOSICIONES RELATIVAS A LA INTERVENCION, DISOLUCION, LIQUIDACION O QUIEBRA DE LOS FONDOS DE PENSIONES Y DE LAS SOCIEDADES QUE LOS ADMINISTRAN
+## Artículo 175. Disposiciones Relativas a la Intervención, Disolución, Liquidación o Quiebra de los Fondos de Pensiones y de las Sociedades que los Administran
 
 > [!warning] Artículo derogado el a partir del 25 de mayo de 2021 por el artículo [[art. 336 Ley 1955 de 2019|336]] de la Ley 1955 de 2019. Consultar Régimen de transición en el artículo [[art. 4 Decreto 1207 de 2020|4]] del Decreto 1207 de 2020
 

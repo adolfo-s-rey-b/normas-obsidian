@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "67"
-epigrafe: "NOTIFICACIÓN PERSONAL"
+epigrafe: "Notificación personal"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - PUBLICACIONES, CITACIONES, COMUNICACIONES Y NOTIFICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 67. NOTIFICACIÓN PERSONAL
+## Artículo 67. Notificación personal
 
 Las decisiones que pongan término a una actuación administrativa se notificarán personalmente al interesado, a su representante o apoderado, o a la persona debidamente autorizada por el interesado para notificarse.
 

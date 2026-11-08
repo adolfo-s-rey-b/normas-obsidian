@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "48"
-epigrafe: "COMISIONES DE REGULACION"
+epigrafe: "Comisiones de Regulación"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 47 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 48. COMISIONES DE REGULACION
+## Artículo 48. Comisiones de Regulación
 
 Las comisiones que cree la ley para la regulación, de los servicios públicos domiciliarios mediante asignación de la propia ley o en virtud de delegación por parte del Presidente de la República, para promover y garantizar la competencia entre quienes los presten, se sujetarán en cuanto a su estructura, organización y funcionamiento a lo dispuesto en los correspondientes actos de creación.
 

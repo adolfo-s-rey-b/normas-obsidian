@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "75"
-epigrafe: "COLABORACION EN LA PRACTICA DE PRUEBAS"
+epigrafe: "Colaboración en la Práctica de Pruebas"
 titulo: "[[Ley 472 de 1998 - Título V|TÍTULO V]]"
 capitulo: "[[Ley 472 de 1998 - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título V|Título V]] › [[Ley 472 de 1998 - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 75. COLABORACION EN LA PRACTICA DE PRUEBAS
+## Artículo 75. Colaboración en la Práctica de Pruebas
 
 En los procesos de que trata esta ley, las partes de común acuerdo pueden, antes de que se dicte sentencia de primera instancia, realizar los siguientes actos probatorios:
 

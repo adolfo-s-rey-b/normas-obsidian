@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "382"
-epigrafe: "IMPUGNACIÓN DE ACTOS DE ASAMBLEAS, JUNTAS DIRECTIVAS O DE SOCIOS"
+epigrafe: "Impugnación de actos de asambleas, juntas directivas o de socios"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 382. IMPUGNACIÓN DE ACTOS DE ASAMBLEAS, JUNTAS DIRECTIVAS O DE SOCIOS
+## Artículo 382. Impugnación de actos de asambleas, juntas directivas o de socios
 
 La demanda de impugnación de actos o decisiones de asambleas, juntas directivas, juntas de socios o de cualquier otro órgano directivo de personas jurídicas de derecho privado, solo podrá proponerse, so pena de caducidad, dentro de los dos (2) meses siguientes a la fecha del acto respectivo y deberá dirigirse contra la entidad. Si se tratare de acuerdos o actos sujetos a registro, el término se contará desde la fecha de la inscripción.
 

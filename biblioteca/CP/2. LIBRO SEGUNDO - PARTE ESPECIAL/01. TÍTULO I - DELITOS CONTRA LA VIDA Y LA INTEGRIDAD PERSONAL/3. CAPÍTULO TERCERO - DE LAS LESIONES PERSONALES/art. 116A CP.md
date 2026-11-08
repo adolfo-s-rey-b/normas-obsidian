@@ -12,11 +12,11 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "116A"
-epigrafe: "LESIONES CON AGENTES QUÍMICOS, ÁCIDO Y/O SUSTANCIAS SIMILARES"
+epigrafe: "Lesiones con agentes químicos, ácido y/o sustancias similares"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Tercero|CAPÍTULO TERCERO - DE LAS LESIONES PERSONALES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Ley 1773 de 2016]]"
   - "[[art. 116A CP]]"
@@ -37,12 +37,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 116A. LESIONES CON AGENTES QUÍMICOS, ÁCIDO Y/O SUSTANCIAS SIMILARES
+## Artículo 116A. Lesiones con agentes químicos, ácido y/o sustancias similares
 
 El que cause a otro daño en el cuerpo o en la salud, usando para ello cualquier tipo de agente químico, álcalis, sustancias similares o corrosivas que generen destrucción al entrar en contacto con el tejido humano, incurrirá en pena de prisión de ciento cincuenta (150) meses a doscientos cuarenta (240) meses y multa de ciento veinte (120) a doscientos cincuenta (250) salarios mínimos legales mensuales vigentes.
 

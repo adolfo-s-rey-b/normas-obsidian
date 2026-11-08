@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 279 EOSF|Artículo 279]] — NATURALEZA JURIDICA
-- [[art. 280 EOSF|Artículo 280]] — PROCESO DE ORGANIZACION
-- [[art. 281 EOSF|Artículo 281]] — DIRECCION Y ADMINISTRACION
-- [[art. 282 EOSF|Artículo 282]] — FUNCIONES DEL BANCO
-- [[art. 283 EOSF|Artículo 283]] — PROMOCION DE EXPORTACIONES
-- [[art. 284 EOSF|Artículo 284]] — DISOLUCION Y LIQUIDACION
-- [[art. 285 EOSF|Artículo 285]] — DISPOSICIONES FINALES
+- [[art. 279 EOSF|Artículo 279]] — Naturaleza Jurídica
+- [[art. 280 EOSF|Artículo 280]] — Proceso de Organización
+- [[art. 281 EOSF|Artículo 281]] — Dirección y Administración
+- [[art. 282 EOSF|Artículo 282]] — Funciones del Banco
+- [[art. 283 EOSF|Artículo 283]] — Promoción de Exportaciones
+- [[art. 284 EOSF|Artículo 284]] — Disolución y Liquidación
+- [[art. 285 EOSF|Artículo 285]] — Disposiciones Finales
 
 ---
 ← [[EOSF - Parte X - Capítulo X|Capítulo X]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo XII|Capítulo XII]] →

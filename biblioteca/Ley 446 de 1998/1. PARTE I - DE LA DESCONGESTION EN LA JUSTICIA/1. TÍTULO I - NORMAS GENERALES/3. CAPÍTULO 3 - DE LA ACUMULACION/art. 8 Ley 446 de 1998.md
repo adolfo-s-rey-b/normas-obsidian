@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "8"
-epigrafe: "ACUMULACION DE PRETENSIONES Y DE PROCESOS EN MATERIA LABORAL"
+epigrafe: "Acumulación de pretensiones y de procesos en materia laboral"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 3|CAPÍTULO 3 - DE LA ACUMULACION]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 3|Capítulo 3]]
 
-## Artículo 8. ACUMULACION DE PRETENSIONES Y DE PROCESOS EN MATERIA LABORAL
+## Artículo 8. Acumulación de pretensiones y de procesos en materia laboral
 
 El Código Procesal del Trabajo tendrá un artículo nuevo del siguiente tenor:
 

@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 183 CGP|Artículo 183]] — PRUEBAS EXTRAPROCESALES
-- [[art. 184 CGP|Artículo 184]] — INTERROGATORIO DE PARTE
-- [[art. 185 CGP|Artículo 185]] — DECLARACIÓN SOBRE DOCUMENTOS
-- [[art. 186 CGP|Artículo 186]] — EXHIBICIÓN DE DOCUMENTOS, LIBROS DE COMERCIO Y COSAS MUEBLES
-- [[art. 187 CGP|Artículo 187]] — TESTIMONIO PARA FINES JUDICIALES
-- [[art. 188 CGP|Artículo 188]] — TESTIMONIOS SIN CITACIÓN DE LA CONTRAPARTE
-- [[art. 189 CGP|Artículo 189]] — INSPECCIONES JUDICIALES Y PERITACIONES
-- [[art. 190 CGP|Artículo 190]] — PRUEBAS PRACTICADAS DE COMÚN ACUERDO
+- [[art. 183 CGP|Artículo 183]] — Pruebas extraprocesales
+- [[art. 184 CGP|Artículo 184]] — Interrogatorio de parte
+- [[art. 185 CGP|Artículo 185]] — Declaración sobre documentos
+- [[art. 186 CGP|Artículo 186]] — Exhibición de documentos, libros de comercio y cosas muebles
+- [[art. 187 CGP|Artículo 187]] — Testimonio para fines judiciales
+- [[art. 188 CGP|Artículo 188]] — Testimonios sin citación de la contraparte
+- [[art. 189 CGP|Artículo 189]] — Inspecciones judiciales y peritaciones
+- [[art. 190 CGP|Artículo 190]] — Pruebas practicadas de común acuerdo
 
 ---
 ← [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]] →

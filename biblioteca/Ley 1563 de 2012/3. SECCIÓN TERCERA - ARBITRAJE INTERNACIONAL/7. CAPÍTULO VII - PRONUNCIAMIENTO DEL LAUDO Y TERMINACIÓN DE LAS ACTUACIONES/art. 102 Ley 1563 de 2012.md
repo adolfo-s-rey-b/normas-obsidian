@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "102"
-epigrafe: "ADOPCIÓN DE DECISIONES CUANDO HAYA MÁS DE UN ÁRBITRO"
+epigrafe: "Adopción de decisiones cuando haya más de un árbitro"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|CAPÍTULO VII - PRONUNCIAMIENTO DEL LAUDO Y TERMINACIÓN DE LAS ACTUACIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VII|Capítulo VII]]
 
-## Artículo 102. ADOPCIÓN DE DECISIONES CUANDO HAYA MÁS DE UN ÁRBITRO
+## Artículo 102. Adopción de decisiones cuando haya más de un árbitro
 
 En las actuaciones arbitrales en que haya más de un árbitro, toda decisión del tribunal arbitral se adoptará, salvo acuerdo en contrario de las partes, por mayoría de votos de todos los miembros. A falta de mayoría decidirá el árbitro presidente.
 

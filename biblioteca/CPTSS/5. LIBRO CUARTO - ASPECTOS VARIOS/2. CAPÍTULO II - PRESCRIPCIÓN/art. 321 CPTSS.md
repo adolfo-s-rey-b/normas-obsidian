@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "321"
-epigrafe: "SUSPENSIÓN DE LA PRESCRIPCIÓN"
+epigrafe: "Suspensión de la prescripción"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 321. SUSPENSIÓN DE LA PRESCRIPCIÓN
+## Artículo 321. Suspensión de la prescripción
 
 La prescripción que extingue las obligaciones se suspende en favor de los incapaces y, en general, de quienes se encuentran bajo tutela o curaduría.
 

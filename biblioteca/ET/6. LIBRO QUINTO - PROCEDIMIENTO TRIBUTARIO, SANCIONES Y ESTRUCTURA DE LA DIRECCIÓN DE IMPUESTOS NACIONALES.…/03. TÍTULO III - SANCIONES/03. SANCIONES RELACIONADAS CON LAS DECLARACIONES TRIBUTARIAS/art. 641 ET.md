@@ -14,7 +14,7 @@ epigrafe: "EXTEMPORANEIDAD EN LA PRESENTACIÓN"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones relacionadas con las declaraciones…|SANCIONES RELACIONADAS CON LAS DECLARACIONES TRIBUTARIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 51 Ley 1111 de 2006]]"
   - "[[art. 53 Ley 49 de 1990]]"
@@ -45,7 +45,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones relacionadas con las declaraciones…|Sanciones relacionadas con las declaraciones…]]

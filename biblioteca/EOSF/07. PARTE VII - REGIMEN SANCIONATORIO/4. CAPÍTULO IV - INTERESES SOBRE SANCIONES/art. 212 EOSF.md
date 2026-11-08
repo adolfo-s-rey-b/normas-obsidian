@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "212"
-epigrafe: "INTERESES"
+epigrafe: "Intereses"
 parte: "[[EOSF - Parte VII|PARTE VII - REGIMEN SANCIONATORIO]]"
 capitulo: "[[EOSF - Parte VII - Capítulo IV|CAPÍTULO IV - INTERESES SOBRE SANCIONES]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VII|Parte VII]] › [[EOSF - Parte VII - Capítulo IV|Capítulo IV]]
 
-## Artículo 212. INTERESES
+## Artículo 212. Intereses
 
 1\. Régimen general. A partir de la ejecutoria de cualquier resolución por medio de la cual la Superintendencia Bancaria imponga una sanción y hasta el día de su cancelación, las personas y entidades sometidas a su control y vigilancia deberán reconocer en favor del Tesoro Nacional un interés mensual equivalente a una y media veces (1.5 veces) el interés bancario corriente certificado por la Superintendencia Bancaria para el respectivo período, sobre el valor insoluto de la sanción.
 

@@ -16,7 +16,7 @@ epigrafe: "MEDIDAS EN CASO DE DECLARATORIA DE INIMPUTABILIDAD"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título III|TÍTULO III]]"
 capitulo: "[[CP - Libro Primero - Título III - Capítulo Unico|CAPÍTULO UNICO - DE LA CONDUCTA PUNIBLE]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 4 Ley 2197 de 2022]]"
 anterior: "[[art. 33 CP]]"
@@ -30,7 +30,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título III|Título III]] › [[CP - Libro Primero - Título III - Capítulo Unico|Capítulo Unico]]

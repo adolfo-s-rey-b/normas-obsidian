@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "38"
-epigrafe: "AUMENTO DE TÉRMINOS RESPECTO DE LAS CAUSALES DE LIBERTAD EN INVESTIGACIONES RELACIONADAS CON CORRUPCIÓN"
+epigrafe: "Aumento de términos respecto de las causales de libertad en investigaciones relacionadas con corrupción"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 37 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 38. AUMENTO DE TÉRMINOS RESPECTO DE LAS CAUSALES DE LIBERTAD EN INVESTIGACIONES RELACIONADAS CON CORRUPCIÓN
+## Artículo 38. Aumento de términos respecto de las causales de libertad en investigaciones relacionadas con corrupción
 
 El artículo [[art. 317 CPP|317]] de la Ley 906 de 2004 tendrá un parágrafo segundo, el cual quedará así:
 

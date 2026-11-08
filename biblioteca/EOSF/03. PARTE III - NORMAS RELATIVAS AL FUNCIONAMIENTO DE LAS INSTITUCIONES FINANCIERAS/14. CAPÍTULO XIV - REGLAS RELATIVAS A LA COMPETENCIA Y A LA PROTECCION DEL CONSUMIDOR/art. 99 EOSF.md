@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "99"
-epigrafe: "PUBLICIDAD Y PROMOCION COMERCIAL MEDIANTE INCENTIVOS"
+epigrafe: "Publicidad y Promoción Comercial mediante Incentivos"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIV|CAPÍTULO XIV - REGLAS RELATIVAS A LA COMPETENCIA Y A LA PROTECCION DEL CONSUMIDOR]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 99. PUBLICIDAD Y PROMOCION COMERCIAL MEDIANTE INCENTIVOS
+## Artículo 99. Publicidad y Promoción Comercial mediante Incentivos
 
 1\. Programas publicitarios. Los programas publicitarios de las entidades vigiladas deberán contar con la autorización general o individual de la Superintendencia Bancaria, con el fin de que se ajusten a las normas vigentes, a la realidad jurídica y económica del servicio promovido y para prevenir la propaganda comercial que tienda a establecer competencia desleal.
 

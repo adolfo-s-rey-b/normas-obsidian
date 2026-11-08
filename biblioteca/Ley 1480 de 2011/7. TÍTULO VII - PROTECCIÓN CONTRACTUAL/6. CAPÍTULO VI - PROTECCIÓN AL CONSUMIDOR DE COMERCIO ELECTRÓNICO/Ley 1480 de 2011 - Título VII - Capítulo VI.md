@@ -23,10 +23,10 @@ tags:
 
 - [[art. 49 Ley 1480 de 2011|Artículo 49]]
 - [[art. 50 Ley 1480 de 2011|Artículo 50]]
-- [[art. 51 Ley 1480 de 2011|Artículo 51]] — REVERSIÓN DEL PAGO
-- [[art. 52 Ley 1480 de 2011|Artículo 52]] — PROTECCIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES EN COMERCIO ELECTRÓNICO
-- [[art. 53 Ley 1480 de 2011|Artículo 53]] — PORTALES DE CONTACTO
-- [[art. 54 Ley 1480 de 2011|Artículo 54]] — MEDIDAS CAUTELARES
+- [[art. 51 Ley 1480 de 2011|Artículo 51]] — Reversión del pago
+- [[art. 52 Ley 1480 de 2011|Artículo 52]] — Protección de los niños, niñas y adolescentes en comercio electrónico
+- [[art. 53 Ley 1480 de 2011|Artículo 53]] — Portales de contacto
+- [[art. 54 Ley 1480 de 2011|Artículo 54]] — Medidas cautelares
 
 ---
 ← [[Ley 1480 de 2011 - Título VII - Capítulo V|Capítulo V]] · ↑ [[Ley 1480 de 2011 - Título VII|Título VII]] · [[Ley 1480 de 2011 - Título VII - Capítulo VII|Capítulo VII]] →

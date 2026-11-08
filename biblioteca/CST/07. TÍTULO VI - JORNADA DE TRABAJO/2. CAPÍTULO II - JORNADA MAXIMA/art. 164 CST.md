@@ -39,7 +39,7 @@ tags:
 
 Pueden repartirse las cuarenta y ocho (48) horas semanales de trabajo ampliando la jornada ordinaria hasta por dos (2) horas, por acuerdo entre las partes, pero con el fin exclusivo de permitir a los trabajadores el descanso durante todo el sábado. Esta ampliación no constituye trabajo suplementario o de horas extras.
 
-> [!note] Notas del Editor: Para la interpretación de este artículo tener en cuentas las modificaciones al artículo [[art. 161 CST|161]] del presente Código.
+> [!note] Notas del Editor: Para la interpretación de este artículo tener en cuentas las modificaciones al artículo 161 del presente Código.
 
 > [!info] Notas de Vigencia: Artículo modificado por el 23 de la Ley 50 de 1990, publicada en el Diario Oficial No 39.618 del 1o. de enero de 1991. - Este artículo corresponde al artículo [[art. 165 CST|165]] del Decreto 2663 de 1950, su numeración inicial fue variada por la edición oficial del Código Sustantivo del Trabajo, ordenada por el artículo [[art. 46 Decreto 3743 de 1950|46]] del Decreto 3743 de 1950.
 

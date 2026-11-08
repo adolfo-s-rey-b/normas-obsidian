@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "206"
-epigrafe: "CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD DE INTERMEDIACION"
+epigrafe: "Condiciones del Ejercicio de la Actividad de Intermediación"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo VII|CAPÍTULO VII - INTERMEDIARIOS DE SEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo VII|Capítulo VII]]
 
-## Artículo 206. CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD DE INTERMEDIACION
+## Artículo 206. Condiciones del Ejercicio de la Actividad de Intermediación
 
 1\. Representación de diversas compañías. La Superintendencia Bancaria se abstendrá de expedir una nueva autorización a las agencias o agentes que hayan sido previamente designados por otra compañía, a menos que no haya objeción de ésta o que la agencia o el agente respectivos hayan renunciado al derecho de continuar colocando seguros o títulos de capitalización para las compañías que inicialmente solicitaron su inscripción.
 

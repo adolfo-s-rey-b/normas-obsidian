@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "37"
-epigrafe: "PRUEBAS ANTICIPADAS"
+epigrafe: "Pruebas anticipadas"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 36 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 37. PRUEBAS ANTICIPADAS
+## Artículo 37. Pruebas anticipadas
 
 El artículo [[art. 284 CPP|284]] de la Ley 906 de 2004 tendrá un parágrafo cuarto, el cual quedará así:
 

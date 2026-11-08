@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "137"
-epigrafe: "ADVERTENCIA DE LA NULIDAD"
+epigrafe: "Advertencia de la nulidad"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 137. ADVERTENCIA DE LA NULIDAD
+## Artículo 137. Advertencia de la nulidad
 
 > [!info] Artículo corregido por el artículo [[art. 4 Decreto 1736 de 2012|4]] del Decreto 1736 de 2012. El nuevo texto es el siguiente:
 

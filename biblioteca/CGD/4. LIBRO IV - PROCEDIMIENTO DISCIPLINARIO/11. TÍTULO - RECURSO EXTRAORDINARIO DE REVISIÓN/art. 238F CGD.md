@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238F"
-epigrafe: "TRÁMITE"
+epigrafe: "Tramite"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título|TÍTULO - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título|Título]]
 
-## Artículo 238F. TRÁMITE
+## Artículo 238F. Tramite
 
 Una vez radicado el recurso y efectuado el reparto correspondiente, el magistrado al que le corresponda, resolverá sobre su admisión en el término máximo de diez (10) días.
 

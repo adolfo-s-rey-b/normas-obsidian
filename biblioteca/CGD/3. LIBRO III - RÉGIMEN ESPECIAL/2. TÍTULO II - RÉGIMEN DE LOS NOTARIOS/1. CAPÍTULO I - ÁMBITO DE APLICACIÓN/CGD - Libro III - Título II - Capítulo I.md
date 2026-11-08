@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 75 CGD|Artículo 75]] — NORMAS APLICABLES
-- [[art. 76 CGD|Artículo 76]] — ÓRGANO COMPETENTE
+- [[art. 75 CGD|Artículo 75]] — Normas aplicables
+- [[art. 76 CGD|Artículo 76]] — Órgano competente
 
 ---
 ↑ [[CGD - Libro III - Título II|Título II]] · [[CGD - Libro III - Título II - Capítulo II|Capítulo II]] →

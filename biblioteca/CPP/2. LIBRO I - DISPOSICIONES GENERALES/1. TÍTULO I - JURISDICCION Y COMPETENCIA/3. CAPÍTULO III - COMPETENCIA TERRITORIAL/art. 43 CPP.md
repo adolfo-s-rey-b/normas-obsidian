@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "43"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo III|CAPÍTULO III - COMPETENCIA TERRITORIAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 43. COMPETENCIA
+## Artículo 43. Competencia
 
 Es competente para conocer del juzgamiento el juez del lugar donde ocurrió el delito.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "67"
-epigrafe: "RETIRO DE LA DEMANDA"
+epigrafe: "Retiro de la demanda"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Primera|Sección Primera]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 67. RETIRO DE LA DEMANDA
+## Artículo 67. Retiro de la demanda
 
 El demandante podrá retirar la demanda mientras no se haya notificado a ninguno de los demandados. Si hubiere medidas cautelares practicadas, será necesario auto que autorice el retiro, en el cual se ordenará el levantamiento de aquellas y se condenará al demandante al pago de perjuicios, salvo acuerdo de las partes.
 

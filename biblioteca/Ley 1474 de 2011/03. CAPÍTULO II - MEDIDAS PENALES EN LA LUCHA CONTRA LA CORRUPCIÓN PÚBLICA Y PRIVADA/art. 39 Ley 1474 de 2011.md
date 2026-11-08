@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "39"
-epigrafe: "RESTRICCIÓN DE LA DETENCIÓN DOMICILIARIA"
+epigrafe: "Restricción de la detención domiciliaria"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 38 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 39. RESTRICCIÓN DE LA DETENCIÓN DOMICILIARIA
+## Artículo 39. Restricción de la detención domiciliaria
 
 El parágrafo del artículo [[art. 314 CPP|314]] de la Ley 906 de 2004 quedará así:
 

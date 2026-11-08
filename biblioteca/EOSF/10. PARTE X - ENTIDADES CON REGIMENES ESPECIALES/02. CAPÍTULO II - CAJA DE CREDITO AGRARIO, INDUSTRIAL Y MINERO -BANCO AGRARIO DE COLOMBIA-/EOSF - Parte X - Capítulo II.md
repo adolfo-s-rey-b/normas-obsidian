@@ -27,10 +27,10 @@ tags:
 - [[art. 233 EOSF|Artículo 233]] — NATURALEZA JURÍDICA BANCO AGRARIO DE COLOMBIA S.A
 - [[art. 234 EOSF|Artículo 234]] — OBJETO SOCIAL BANCO AGRARIO DE COLOMBIA S.A
 - [[art. 235 EOSF|Artículo 235]]
-- [[art. 236 EOSF|Artículo 236]] — OPERACIONES
-- [[art. 237 EOSF|Artículo 237]] — INVERSIONES EN FILIALES
-- [[art. 238 EOSF|Artículo 238]] — PRIVILEGIOS PROCESALES
-- [[art. 239 EOSF|Artículo 239]] — FINALIDAD DE LAS DISPOSICIONES
+- [[art. 236 EOSF|Artículo 236]] — Operaciones
+- [[art. 237 EOSF|Artículo 237]] — Inversiones en Filiales
+- [[art. 238 EOSF|Artículo 238]] — Privilegios Procesales
+- [[art. 239 EOSF|Artículo 239]] — Finalidad de las Disposiciones
 
 ---
 ← [[EOSF - Parte X - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo III|Capítulo III]] →

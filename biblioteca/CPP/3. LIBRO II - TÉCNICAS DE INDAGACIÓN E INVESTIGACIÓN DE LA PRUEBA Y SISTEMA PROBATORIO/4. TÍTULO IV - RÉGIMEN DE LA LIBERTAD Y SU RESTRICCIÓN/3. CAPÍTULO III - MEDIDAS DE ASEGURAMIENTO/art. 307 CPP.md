@@ -8,17 +8,15 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "307"
-epigrafe: "MEDIDAS DE ASEGURAMIENTO"
+epigrafe: "Medidas de aseguramiento"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo III|CAPÍTULO III - MEDIDAS DE ASEGURAMIENTO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 5 Ley 2375 de 2024]]"
   - "[[art. 1 Ley 1786 de 2016]]"
   - "[[art. 5 Ley 1760 de 2015]]"
-  - "[[art. 1 CPP]]"
-  - "[[art. 2 CPP]]"
   - "[[art. 1 Ley 1760 de 2015]]"
 derogado_por:
   - "[[art. 318 CPP]]"
@@ -35,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 307. MEDIDAS DE ASEGURAMIENTO
+## Artículo 307. Medidas de aseguramiento
 
 Son medidas de aseguramiento:
 
@@ -86,7 +84,7 @@ El juez podrá imponer una o varias de estas medidas de aseguramiento, conjunta 
 
 En los casos susceptibles de prórroga, los jueces de control de garantías, para resolver sobre la solicitud de levantamiento o prórroga de las medidas de aseguramiento privativas de la libertad, deberán considerar, además de los requisitos contemplados en el artículo [[art. 308 CPP|308]] del Código de Procedimiento Penal, el tiempo que haya transcurrido por causa de maniobras dilatorias atribuibles a la actividad procesal del interesado o su defensor, caso en el cual dicho tiempo no se contabilizará dentro del término máximo de la medida de aseguramiento privativa de la libertad contemplado en este artículo.
 
-> [!info] Notas de Vigencia: Parágrafo modificado por el artículo [[art. 1 Ley 1786 de 2016|1]] de la Ley 1786 de 2016, 'por medio de la cual se modifican algunas disposiciones de la Ley 1760 de 2015', publicada en el Diario Oficial No. 49.921 de 1 de julio de 2016. Establece el artículo [[art. 5 Ley 1760 de 2015|5]] : ' Los términos a los que hacen referencia el artículo [[art. 1 CPP|1]] o y el numeral 6 del artículo [[art. 2 CPP|2]] o de la presente ley, respecto de procesos ante justicia penal especializada, en los que sean tres (3) o más los acusados contra quienes estuviere vigente la detención preventiva, o cuando se trate de investigación o juicio de actos de corrupción de los que trata la Ley 1474 de 2011 o de cualquiera de las conductas previstas en el Título IV del Libro Segundo de la Ley 599 de 2000 (Código Penal), entrarán a regir en un (1) año contado a partir de la fecha de su promulgación.' - Parágrafo adicionado por el artículo [[art. 1 Ley 1760 de 2015|1]] de la Ley 1760 de 2015, 'por medio de la cual se modifica parcialmente la Ley 906 de 2004 en relación con las medidas de aseguramiento privativas de la libertad', publicada en el Diario Oficial No. 49.565 de 6 de julio de 2015. Entra a regir en un (1) año contado a partir de la fecha de su promulgación (Art. 5 ).
+> [!info] Notas de Vigencia: Parágrafo modificado por el artículo [[art. 1 Ley 1786 de 2016|1]] de la Ley 1786 de 2016, 'por medio de la cual se modifican algunas disposiciones de la Ley 1760 de 2015', publicada en el Diario Oficial No. 49.921 de 1 de julio de 2016. Establece el artículo [[art. 5 Ley 1760 de 2015|5]] : ' Los términos a los que hacen referencia el artículo 1 o y el numeral 6 del artículo 2 o de la presente ley, respecto de procesos ante justicia penal especializada, en los que sean tres (3) o más los acusados contra quienes estuviere vigente la detención preventiva, o cuando se trate de investigación o juicio de actos de corrupción de los que trata la Ley 1474 de 2011 o de cualquiera de las conductas previstas en el Título IV del Libro Segundo de la Ley 599 de 2000 (Código Penal), entrarán a regir en un (1) año contado a partir de la fecha de su promulgación.' - Parágrafo adicionado por el artículo [[art. 1 Ley 1760 de 2015|1]] de la Ley 1760 de 2015, 'por medio de la cual se modifica parcialmente la Ley 906 de 2004 en relación con las medidas de aseguramiento privativas de la libertad', publicada en el Diario Oficial No. 49.565 de 6 de julio de 2015. Entra a regir en un (1) año contado a partir de la fecha de su promulgación (Art. 5 ).
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre este parágrafo (parcial) por ineptitud de la demanda, mediante Sentencia C-234-16 de 11 de mayo de 2016, Magistrada Ponente Dra. María Victoria Calle Correa. 'En el año 2004, el legislador expidió el Código de Procedimiento Penal (Ley 906 de 2004), en el artículo [[art. 318 CPP|318]] se ocupó de la solicitud de revocatoria de la medida de aseguramiento. En la sentencia de C-456 de 2006 se resolvió declarar inexequibles las expresiones “…por una sola vez” y “contra esta decisión no procede recurso alguno”, contenidas en el artículo [[art. 318 CPP|318]] de la Ley 906 de 2004 Es claro entonces que en el orden legal vigente, la parte acusada puede solicitar la revocatoria o la sustitución de la medida de aseguramiento, con la posibilidad de controvertir decisiones adversas. Por tanto, es claro que el artículo [[art. 307 CPP|307]] del Código de Procedimiento Penal, leído en conjunto y sistemáticamente, no priva, en modo alguno, a la parte acusada de presentar la petición de sustitución de medida de aseguramiento, sin límite de veces, a lo largo del proceso.'.
 

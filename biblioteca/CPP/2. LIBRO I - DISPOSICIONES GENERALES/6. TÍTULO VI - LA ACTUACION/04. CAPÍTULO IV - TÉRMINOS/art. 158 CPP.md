@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "158"
-epigrafe: "PRÓRROGA DE TÉRMINOS"
+epigrafe: "Prórroga de términos"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IV|CAPÍTULO IV - TÉRMINOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 158. PRÓRROGA DE TÉRMINOS
+## Artículo 158. Prórroga de términos
 
 Los términos previstos por la ley, o en su defecto fijados por el juez, no son prorrogables. Sin embargo, de manera excepcional y con la debida justificación, cuando el fiscal, el acusado o su defensor lo soliciten para lograr una mejor preparación del caso, el juez podrá acceder a la petición siempre que no exceda el doble del término prorrogado.
 

@@ -21,11 +21,11 @@ tags:
 
 ### Contenido
 
-- [[art. 29 Ley 1480 de 2011|Artículo 29]] — FUERZA VINCULANTE
-- [[art. 30 Ley 1480 de 2011|Artículo 30]] — PROHIBICIONES Y RESPONSABILIDAD
-- [[art. 31 Ley 1480 de 2011|Artículo 31]] — PUBLICIDAD DE PRODUCTOS NOCIVOS
-- [[art. 32 Ley 1480 de 2011|Artículo 32]] — CAUSALES DE EXONERACIÓN DE RESPONSABILIDAD
-- [[art. 33 Ley 1480 de 2011|Artículo 33]] — PROMOCIONES Y OFERTAS
+- [[art. 29 Ley 1480 de 2011|Artículo 29]] — Fuerza vinculante
+- [[art. 30 Ley 1480 de 2011|Artículo 30]] — Prohibiciones y responsabilidad
+- [[art. 31 Ley 1480 de 2011|Artículo 31]] — Publicidad de productos nocivos
+- [[art. 32 Ley 1480 de 2011|Artículo 32]] — Causales de exoneración de responsabilidad
+- [[art. 33 Ley 1480 de 2011|Artículo 33]] — Promociones y ofertas
 
 ---
 ↑ [[Ley 1480 de 2011 - Título VI|Título VI]]

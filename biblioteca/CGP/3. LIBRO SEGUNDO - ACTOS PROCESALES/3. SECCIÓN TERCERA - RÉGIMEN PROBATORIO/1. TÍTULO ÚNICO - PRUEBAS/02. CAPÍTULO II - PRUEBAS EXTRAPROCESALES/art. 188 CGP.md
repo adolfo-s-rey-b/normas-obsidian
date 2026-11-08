@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "188"
-epigrafe: "TESTIMONIOS SIN CITACIÓN DE LA CONTRAPARTE"
+epigrafe: "Testimonios sin citación de la contraparte"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 188. TESTIMONIOS SIN CITACIÓN DE LA CONTRAPARTE
+## Artículo 188. Testimonios sin citación de la contraparte
 
 Los testimonios anticipados para fines judiciales o no judiciales podrán recibirse por una o ambas y se entenderán rendidos bajo la gravedad del juramento, circunstancia de la cual se dejará expresa constancia en el documento que contenga la declaración. Este documento, en lo pertinente, se sujetará a lo previsto en el artículo [[art. 221 CGP|221]].
 

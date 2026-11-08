@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "503"
-epigrafe: "PAGO DE DEUDAS"
+epigrafe: "Pago de deudas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 503. PAGO DE DEUDAS
+## Artículo 503. Pago de deudas
 
 En firme el inventario y los avalúos, si existe dinero disponible para el pago de alguna deuda y de consuno lo solicitan los interesados, el juez podrá autorizar el pago. Si no hubiere dinero suficiente para el pago de las deudas hereditarias o legados exigibles, el cónyuge, el albacea o cualquiera de los herederos podrá pedir la dación en pago o el remate de determinados bienes en pública subasta o en una bolsa de valores si fuere el caso.
 

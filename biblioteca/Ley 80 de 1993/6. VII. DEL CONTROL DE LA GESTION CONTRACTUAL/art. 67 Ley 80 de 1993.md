@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "67"
-epigrafe: "DE LA COLABORACIÓN DE LOS CUERPOS CONSULTIVOS DEL GOBIERNO"
+epigrafe: "De la Colaboración de los Cuerpos Consultivos del Gobierno"
 rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 66 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
 
-## Artículo 67. DE LA COLABORACIÓN DE LOS CUERPOS CONSULTIVOS DEL GOBIERNO
+## Artículo 67. De la Colaboración de los Cuerpos Consultivos del Gobierno
 
 Los organismos o entidades gremiales, profesionales o universitarios que tengan el carácter de cuerpos consultivos del Gobierno prestarán la colaboración que en la actividad contractual requieran las entidades estatales.
 

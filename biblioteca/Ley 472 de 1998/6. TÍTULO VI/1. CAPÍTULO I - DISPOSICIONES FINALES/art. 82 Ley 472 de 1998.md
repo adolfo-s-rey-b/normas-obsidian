@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "82"
-epigrafe: "MINISTERIO PUBLICO"
+epigrafe: "Ministerio Público"
 titulo: "[[Ley 472 de 1998 - Título VI|TÍTULO VI]]"
 capitulo: "[[Ley 472 de 1998 - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título VI|Título VI]] › [[Ley 472 de 1998 - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 82. MINISTERIO PUBLICO
+## Artículo 82. Ministerio Público
 
 De acuerdo con la presente ley, las actuaciones que correspondan al Procurador General de la Nación o el Defensor del Pueblo, podrán ser delegadas en sus representantes.
 

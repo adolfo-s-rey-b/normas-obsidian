@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "112"
-epigrafe: "ACTIVIDAD PROBATORIA"
+epigrafe: "Actividad probatoria"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título III|TÍTULO III - MINISTERIO PUBLICO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título III|Título III]]
 
-## Artículo 112. ACTIVIDAD PROBATORIA
+## Artículo 112. Actividad probatoria
 
 El Ministerio Público podrá solicitar pruebas anticipadas en aquellos asuntos en los cuales esté ejerciendo o haya ejercido funciones de policía judicial siempre y cuando se reúnan los requisitos previstos en el artículo [[art. 284 CPP|284]] del presente código.
 

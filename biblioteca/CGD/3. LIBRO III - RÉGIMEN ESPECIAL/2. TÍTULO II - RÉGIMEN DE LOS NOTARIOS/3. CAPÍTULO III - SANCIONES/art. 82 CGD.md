@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "82"
-epigrafe: "CRITERIOS PARA LA GRADUACIÓN DE LA FALTA Y LA SANCIÓN"
+epigrafe: "Criterios para la graduación de la falta y la sanción"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo III|CAPÍTULO III - SANCIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 82. CRITERIOS PARA LA GRADUACIÓN DE LA FALTA Y LA SANCIÓN
+## Artículo 82. Criterios para la graduación de la falta y la sanción
 
 Además de los criterios para la graduación de la falta y la sanción consagrados para los servidores públicos, respecto de los notarios se tendrá en cuenta la gravedad de la falta, el resarcimiento del perjuicio causado, la situación económica del sancionado, la cuantía de la remuneración percibida por el servicio prestado y los antecedentes en el servicio y en materia disciplinaria.
 

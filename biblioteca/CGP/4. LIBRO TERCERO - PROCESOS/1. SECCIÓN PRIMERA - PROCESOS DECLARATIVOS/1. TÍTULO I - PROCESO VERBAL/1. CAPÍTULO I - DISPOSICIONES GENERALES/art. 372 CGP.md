@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "372"
-epigrafe: "AUDIENCIA INICIAL"
+epigrafe: "Audiencia inicial"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 372. AUDIENCIA INICIAL
+## Artículo 372. Audiencia inicial
 
 El juez, salvo norma en contrario, convocará a las partes para que concurran personalmente a una audiencia con la prevención de las consecuencias por su inasistencia, y de que en ella se practicarán interrogatorios a las partes. La audiencia se sujetará a las siguientes reglas:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "308"
-epigrafe: "RÉGIMEN DE TRANSICIÓN Y VIGENCIA"
+epigrafe: "Régimen de transición y vigencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título XI|TÍTULO XI - PLAN ESPECIAL DE DESCONGESTIÓN, RÉGIMEN DE TRANSICIÓN, VIGENCIA Y DEROGATORIAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título XI|Título XI]]
 
-## Artículo 308. RÉGIMEN DE TRANSICIÓN Y VIGENCIA
+## Artículo 308. Régimen de transición y vigencia
 
 El presente Código comenzará a regir el dos (2) de julio del año 2012.
 

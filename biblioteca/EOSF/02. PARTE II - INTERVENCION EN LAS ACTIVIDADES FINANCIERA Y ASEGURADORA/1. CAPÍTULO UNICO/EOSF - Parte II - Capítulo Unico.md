@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 46 EOSF|Artículo 46]] — OBJETIVOS DE LA INTERVENCION
-- [[art. 47 EOSF|Artículo 47]] — COORDINACION DE POLITICAS
-- [[art. 48 EOSF|Artículo 48]] — INSTRUMENTOS DE LA INTERVENCION
-- [[art. 49 EOSF|Artículo 49]] — DEMOCRATIZACION DEL CREDITO
-- [[art. 50 EOSF|Artículo 50]] — ORIENTACION DE LOS RECURSOS DEL SISTEMA FINANCIERO
-- [[art. 51 EOSF|Artículo 51]] — LIMITES A LAS FACULTADES DE INTERVENCION
+- [[art. 46 EOSF|Artículo 46]] — Objetivos de la Intervención
+- [[art. 47 EOSF|Artículo 47]] — Coordinación de Políticas
+- [[art. 48 EOSF|Artículo 48]] — Instrumentos de la Intervención
+- [[art. 49 EOSF|Artículo 49]] — Democratización del Crédito
+- [[art. 50 EOSF|Artículo 50]] — Orientación de los Recursos del Sistema Financiero
+- [[art. 51 EOSF|Artículo 51]] — Límites a las Facultades de Intervención
 - [[art. 52 EOSF|Artículo 52]] — INTERVENCIÓN PARA EL DESARROLLO DE LA MEDIDA DE EXCLUSIÓN DE ACTIVOS Y PASIVOS
 
 ---

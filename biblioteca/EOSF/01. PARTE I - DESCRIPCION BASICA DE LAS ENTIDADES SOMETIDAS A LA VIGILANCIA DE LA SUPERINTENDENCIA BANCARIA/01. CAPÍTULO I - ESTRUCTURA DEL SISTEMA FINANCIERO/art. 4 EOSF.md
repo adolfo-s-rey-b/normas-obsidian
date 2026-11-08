@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "4"
-epigrafe: "SOCIEDADES DE CAPITALIZACION"
+epigrafe: "Sociedades de Capitalización"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo I|CAPÍTULO I - ESTRUCTURA DEL SISTEMA FINANCIERO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo I|Capítulo I]]
 
-## Artículo 4. SOCIEDADES DE CAPITALIZACION
+## Artículo 4. Sociedades de Capitalización
 
 Las sociedades de capitalización, son instituciones financieras cuyo objeto consiste en estimular el ahorro mediante la constitución, en cualquier forma, de capitales determinados, a cambio de desembolsos únicos o periódicos, con posibilidad o sin ella de reembolsos anticipados por medio de sorteos.
 

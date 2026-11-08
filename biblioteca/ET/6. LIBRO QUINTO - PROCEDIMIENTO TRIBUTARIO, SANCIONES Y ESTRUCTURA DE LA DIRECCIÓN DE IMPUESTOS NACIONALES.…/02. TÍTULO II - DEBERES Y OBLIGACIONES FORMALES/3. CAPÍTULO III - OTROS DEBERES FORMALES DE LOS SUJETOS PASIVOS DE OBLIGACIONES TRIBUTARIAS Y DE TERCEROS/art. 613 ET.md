@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "613"
-epigrafe: "INSCRIPCIÓN EN EL REGISTRO NACIONAL DE VENDEDORES*"
+epigrafe: "INSCRIPCIÓN EN EL REGISTRO NACIONAL DE VENDEDORES"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo III|CAPÍTULO III - OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 613. INSCRIPCIÓN EN EL REGISTRO NACIONAL DE VENDEDORES*
+## Artículo 613. INSCRIPCIÓN EN EL REGISTRO NACIONAL DE VENDEDORES
 
 Los responsables del impuesto sobre las ventas, deberán inscribirse de conformidad con lo señalado en el artículo [[art. 507 ET|507]].
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "31"
-epigrafe: "DE LA PUBLICACIÓN DE LOS ACTOS Y SENTENCIAS SANCIONATORIAS"
+epigrafe: "De la Publicación de los Actos y Sentencias Sancionatorias"
 rubro: "[[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|II. DE LOS PRINCIPIOS DE LA CONTRATACIÓN ESTATAL]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|Ii. de los principios de la contratación estatal]]
 
-## Artículo 31. DE LA PUBLICACIÓN DE LOS ACTOS Y SENTENCIAS SANCIONATORIAS
+## Artículo 31. De la Publicación de los Actos y Sentencias Sancionatorias
 
 La parte resolutiva de los actos que declaren Ia caducidad, impongan multas, sanciones o declaren el incumplimiento, una vez ejecutoriados, se publicarán en el SECOP y se comunicarán a Ia cámara de comercio en que se encuentre inscrito el contratista respectivo. También se comunicarán a Ia Procuraduría General de Ia Nación.
 

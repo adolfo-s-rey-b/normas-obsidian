@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "101"
-epigrafe: "SUSPENSIÓN Y CANCELACIÓN DE REGISTROS OBTENIDOS FRAUDULENTAMENTE"
+epigrafe: "Suspensión y cancelación de registros obtenidos fraudulentamente"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 101. SUSPENSIÓN Y CANCELACIÓN DE REGISTROS OBTENIDOS FRAUDULENTAMENTE
+## Artículo 101. Suspensión y cancelación de registros obtenidos fraudulentamente
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

@@ -14,7 +14,7 @@ articulo: "transitorio 16 (AL 1 de 2017)"
 epigrafe: "COMPETENCIA SOBRE TERCEROS"
 titulo: "[[CPol - Título Transitorio|TÍTULO TRANSITORIO - De las normas para la terminación del conflicto armado y la construcción de una paz estable y duradera]]"
 capitulo: "[[CPol - Título Transitorio - Capítulo III|CAPÍTULO III - Jurisdicción especial para la paz]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Acto Legislativo 1 de 2017]]"
 derogado_por:
@@ -34,7 +34,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título Transitorio|Título Transitorio]] › [[CPol - Título Transitorio - Capítulo III|Capítulo III]]

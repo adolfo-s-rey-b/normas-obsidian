@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "37"
-epigrafe: "INTERVENCIÓN DE OTRAS PARTES Y TERCEROS"
+epigrafe: "Intervención de otras partes y terceros"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo III|CAPÍTULO III - INTEGRACIÓN DEL CONTRADICTORIO, OTRAS PARTES Y TERCEROS]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo III|Capítulo III]]
 
-## Artículo 37. INTERVENCIÓN DE OTRAS PARTES Y TERCEROS
+## Artículo 37. Intervención de otras partes y terceros
 
 La intervención en el proceso arbitral del llamado en garantía, del denunciado en el pleito, del interviniente excluyente y demás partes, se someterá a lo previsto en las normas que regulan la materia en el Código de Procedimiento Civil. Los árbitros fijarán la cantidad adicional a su cargo por concepto de honorarios y gastos del tribunal, mediante providencia susceptible de recurso de reposición. La suma correspondiente deberá ser consignada dentro de los diez (10) días siguientes.
 

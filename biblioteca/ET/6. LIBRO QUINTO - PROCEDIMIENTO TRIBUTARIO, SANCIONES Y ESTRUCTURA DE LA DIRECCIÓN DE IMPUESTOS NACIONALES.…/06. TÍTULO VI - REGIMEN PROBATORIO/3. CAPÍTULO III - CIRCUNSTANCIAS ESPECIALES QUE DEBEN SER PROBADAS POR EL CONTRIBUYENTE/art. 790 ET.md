@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "790"
-epigrafe: "DE LOS ACTIVOS POSEIDOS A NOMBRE DE TERCEROS"
+epigrafe: "DE LOS ACTIVOS POSEÍDOS A NOMBRE DE TERCEROS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo III|CAPÍTULO III - CIRCUNSTANCIAS ESPECIALES QUE DEBEN SER PROBADAS POR EL CONTRIBUYENTE]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 790. DE LOS ACTIVOS POSEIDOS A NOMBRE DE TERCEROS
+## Artículo 790. DE LOS ACTIVOS POSEÍDOS A NOMBRE DE TERCEROS
 
 Cuando sobre la posesión de un activo, por un contribuyente, exista alguna prueba distinta de su declaración de renta y complementarios, y éste alega que el bien lo tiene a nombre de otra persona, debe probar este hecho.
 

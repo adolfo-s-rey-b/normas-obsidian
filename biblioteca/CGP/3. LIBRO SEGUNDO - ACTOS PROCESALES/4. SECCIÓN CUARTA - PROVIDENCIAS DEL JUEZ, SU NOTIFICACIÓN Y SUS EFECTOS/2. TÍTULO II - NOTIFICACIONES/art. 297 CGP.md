@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "297"
-epigrafe: "REQUERIMIENTOS Y ACTOS ANÁLOGOS"
+epigrafe: "Requerimientos y actos análogos"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 297. REQUERIMIENTOS Y ACTOS ANÁLOGOS
+## Artículo 297. Requerimientos y actos análogos
 
 Los requerimientos y otros actos análogos ordenados por el juez se entenderán surtidos con la notificación del respectivo auto y la exhibición de los documentos que en cada caso exija la ley.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "42"
-epigrafe: "DESESTIMACIÓN DE LA PERSONALIDAD JURÍDICA"
+epigrafe: "Desestimación de la personalidad jurídica"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 42. DESESTIMACIÓN DE LA PERSONALIDAD JURÍDICA
+## Artículo 42. Desestimación de la personalidad jurídica
 
 Cuando se utilice la sociedad por acciones simplificada en fraude a la ley o en perjuicio de terceros, los accionistas y los administradores que hubieren realizado, participado o facilitado los actos defraudatorios, responderán solidariamente por las obligaciones nacidas de tales actos y por los perjuicios causados.
 

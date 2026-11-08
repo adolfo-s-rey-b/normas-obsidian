@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "764-6"
-epigrafe: "DETERMINACIÓN Y DISCUSIÓN DE LAS ACTUACIONES QUE SE DERIVEN DE UNA LIQUIDACIÓN PROVISIONAL"
+epigrafe: "Determinación y discusión de las actuaciones que se deriven de una liquidación provisional"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -36,7 +36,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Determinación provisional del impuesto|Determinación provisional del impuesto]]
 
-## Artículo 764-6. DETERMINACIÓN Y DISCUSIÓN DE LAS ACTUACIONES QUE SE DERIVEN DE UNA LIQUIDACIÓN PROVISIONAL
+## Artículo 764-6. Determinación y discusión de las actuaciones que se deriven de una liquidación provisional
 
 Los términos de las actuaciones en las que se propongan impuestos, gravámenes, contribuciones, sobretasas, anticipos, retenciones y sanciones, derivadas de una Liquidación Provisional conforme lo establecen los artículos [[art. 764-1 ET|764-1]] y [[art. 764-2 ET|764-2]] de este Estatuto, en la determinación y discusión serán ratificados y notificados así:
 

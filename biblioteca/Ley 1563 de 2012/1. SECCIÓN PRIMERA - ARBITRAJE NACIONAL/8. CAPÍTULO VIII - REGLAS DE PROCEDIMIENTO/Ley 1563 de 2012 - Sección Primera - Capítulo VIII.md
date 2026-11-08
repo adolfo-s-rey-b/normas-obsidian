@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 58 Ley 1563 de 2012|Artículo 58]] — REGLAS DE PROCEDIMIENTO
+- [[art. 58 Ley 1563 de 2012|Artículo 58]] — Reglas de procedimiento
 
 ---
 ← [[Ley 1563 de 2012 - Sección Primera - Capítulo VII|Capítulo VII]] · ↑ [[Ley 1563 de 2012 - Sección Primera|Sección Primera]]

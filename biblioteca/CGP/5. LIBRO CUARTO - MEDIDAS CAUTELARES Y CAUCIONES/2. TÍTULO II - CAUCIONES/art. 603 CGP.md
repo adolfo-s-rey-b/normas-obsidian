@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "603"
-epigrafe: "CLASES, CUANTÍA Y OPORTUNIDAD PARA CONSTITUIRLAS"
+epigrafe: "Clases, cuantía y oportunidad para constituirlas"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título II|TÍTULO II - CAUCIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título II|Título II]]
 
-## Artículo 603. CLASES, CUANTÍA Y OPORTUNIDAD PARA CONSTITUIRLAS
+## Artículo 603. Clases, cuantía y oportunidad para constituirlas
 
 Las cauciones que ordena prestar la ley o este código pueden ser reales, bancarias u otorgadas por compañías de seguros, en dinero, títulos de deuda pública, certificados de depósito a término o títulos similares constituidos en instituciones financieras.
 

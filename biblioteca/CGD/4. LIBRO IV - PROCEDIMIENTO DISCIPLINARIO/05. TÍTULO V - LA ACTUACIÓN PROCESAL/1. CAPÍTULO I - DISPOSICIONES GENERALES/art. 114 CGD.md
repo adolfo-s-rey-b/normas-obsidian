@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "114"
-epigrafe: "PRINCIPIOS QUE RIGEN LA ACTUACIÓN PROCESAL"
+epigrafe: "Principios que rigen la actuación procesal"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 114. PRINCIPIOS QUE RIGEN LA ACTUACIÓN PROCESAL
+## Artículo 114. Principios que rigen la actuación procesal
 
 La actuación disciplinaria se desarrollará conforme a los principios rectores consagrados en la presente ley y en el Código de Procedimiento Administrativo y de lo Contencioso Administrativo en lo que no contravenga la naturaleza del derecho disciplinario.
 

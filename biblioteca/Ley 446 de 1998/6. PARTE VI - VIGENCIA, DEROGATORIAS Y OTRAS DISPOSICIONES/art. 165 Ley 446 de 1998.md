@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "165"
-epigrafe: "SEGUIMIENTO"
+epigrafe: "Seguimiento"
 parte: "[[Ley 446 de 1998 - Parte VI|PARTE VI - VIGENCIA, DEROGATORIAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 164 Ley 446 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte VI|Parte VI]]
 
-## Artículo 165. SEGUIMIENTO
+## Artículo 165. Seguimiento
 
 La Dirección General de Políticas Jurídicas y Desarrollo Legislativo del Ministerio de Justicia y del Derecho, hará el seguimiento de los efectos producidos por la aplicación de la presente ley. Dicha Dirección rendirá un informe al respecto dentro de los veinticuatro (24) meses siguientes a dicha vigencia, ante las Presidencias del Senado y la Cámara de Representantes.
 

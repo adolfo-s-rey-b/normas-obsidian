@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 122 CPACA|Artículo 122]] — JURISDICCIÓN
-- [[art. 123 CPACA|Artículo 123]] — SALA PLENA
+- [[art. 122 CPACA|Artículo 122]] — Jurisdicción
+- [[art. 123 CPACA|Artículo 123]] — Sala Plena
 
 ---
 ← [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo IV|Capítulo IV]] →

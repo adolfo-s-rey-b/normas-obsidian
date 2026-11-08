@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "5"
-epigrafe: "TÉRMINO DEL CONTRATO"
+epigrafe: "Término del Contrato"
 capitulo: "[[Ley 820 de 2003 - Capítulo II|CAPÍTULO II - FORMALIDADES DEL CONTRATO DE ARRENDAMIENTO DE VIVIENDA URBANA]]"
 vigencia: "vigente"
 anterior: "[[art. 4 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo II|Capítulo II]]
 
-## Artículo 5. TÉRMINO DEL CONTRATO
+## Artículo 5. Término del Contrato
 
 El término del contrato de arrendamiento será el que acuerden las partes. A falta de estipulación expresa, se entenderá por el término de un (1) año.
 

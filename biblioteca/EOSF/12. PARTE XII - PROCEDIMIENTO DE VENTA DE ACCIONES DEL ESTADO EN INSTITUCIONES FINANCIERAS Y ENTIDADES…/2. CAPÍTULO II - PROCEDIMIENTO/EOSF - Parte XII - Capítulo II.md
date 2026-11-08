@@ -22,15 +22,15 @@ tags:
 
 ### Contenido
 
-- [[art. 304 EOSF|Artículo 304]] — APROBACION DEL PROGRAMA
-- [[art. 305 EOSF|Artículo 305]] — REQUISITO PREVIO DE ADQUISICION
+- [[art. 304 EOSF|Artículo 304]] — Aprobación del Programa
+- [[art. 305 EOSF|Artículo 305]] — Requisito Previo de Adquisición
 - [[art. 306 EOSF|Artículo 306]] — Contenido del Programa
-- [[art. 307 EOSF|Artículo 307]] — DIVULGACION
-- [[art. 308 EOSF|Artículo 308]] — PARTICIPACION DE SUSCRIPTORES PROFESIONALES
-- [[art. 309 EOSF|Artículo 309]] — PROCEDIMIENTOS ALTERNATIVOS
-- [[art. 310 EOSF|Artículo 310]] — FUNCIONES DEL FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS
+- [[art. 307 EOSF|Artículo 307]] — Divulgación
+- [[art. 308 EOSF|Artículo 308]] — Participación de Suscriptores Profesionales
+- [[art. 309 EOSF|Artículo 309]] — Procedimientos Alternativos
+- [[art. 310 EOSF|Artículo 310]] — Funciones del Fondo de Garantías de Instituciones Financieras
 - [[art. 311 EOSF|Artículo 311]] — ACCIONES DE INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS DEL ESTADO
-- [[art. 312 EOSF|Artículo 312]] — REGIMEN DE LAS INSTITUCIONES FINANCIERAS PRIVATIZADAS
+- [[art. 312 EOSF|Artículo 312]] — Régimen de las Instituciones Financieras Privatizadas
 
 ---
 ← [[EOSF - Parte XII - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte XII|Parte XII]] · [[EOSF - Parte XII - Capítulo III|Capítulo III]] →

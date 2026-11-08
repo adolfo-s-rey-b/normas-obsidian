@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "102"
-epigrafe: "REGIMEN GENERAL"
+epigrafe: "Régimen General"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XVI|CAPÍTULO XVI - PREVENCION DE ACTIVIDADES DELICTIVAS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 102. REGIMEN GENERAL
+## Artículo 102. Régimen General
 
 1\. Obligación y control a actividades delictivas. Las instituciones sometidas al control y vigilancia de la Superintendencia Financiera o quien haga sus veces, estarán obligadas a adoptar medidas de control apropiadas y suficientes, orientadas a evitar que en la realización de sus operaciones puedan ser utilizadas como instrumento para el ocultamiento, manejo, inversión o aprovechamiento en cualquier forma de dinero u otros bienes provenientes de actividades delictivas o destinados a su financiación, o para dar apariencia de legalidad a las actividades delictivas o a las transacciones y fondos vinculados con las mismas.
 

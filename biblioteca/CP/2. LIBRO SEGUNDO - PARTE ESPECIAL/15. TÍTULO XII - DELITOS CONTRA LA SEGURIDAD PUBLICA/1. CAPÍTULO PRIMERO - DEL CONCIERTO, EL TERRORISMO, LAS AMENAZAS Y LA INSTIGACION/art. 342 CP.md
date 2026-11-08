@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "342"
-epigrafe: "CIRCUNSTANCIA DE AGRAVACIÓN"
+epigrafe: "Circunstancia de agravacion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XII|TÍTULO XII - DELITOS CONTRA LA SEGURIDAD PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XII - Capítulo Primero|CAPÍTULO PRIMERO - DEL CONCIERTO, EL TERRORISMO, LAS AMENAZAS Y LA INSTIGACION]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XII|Título XII]] › [[CP - Libro Segundo - Título XII - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 342. CIRCUNSTANCIA DE AGRAVACIÓN
+## Artículo 342. Circunstancia de agravacion
 
 Cuando las conductas descritas en los artículos anteriores sean cometidas por miembros activos o retirados de la Fuerza Pública o de organismos de seguridad del Estado, la pena se aumentará de una tercera parte a la mitad.
 

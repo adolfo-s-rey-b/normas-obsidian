@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "53"
-epigrafe: "ADMISION, NOTIFICACION Y TRASLADO"
+epigrafe: "Admisión, Notificación y Traslado"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 53. ADMISION, NOTIFICACION Y TRASLADO
+## Artículo 53. Admisión, Notificación y Traslado
 
 Dentro de los diez (10) días hábiles siguientes a la presentación de la demanda, el juez competente se pronunciará sobre su admisión. En el auto que admita la demanda, además de disponer su traslado al demandado por el término de diez (10) días, el juez ordenará la notificación personal a los demandados. A los miembros del grupo se les informará a través de un medio masivo de comunicación o de cualquier mecanismo eficaz, habida cuenta de los eventuales beneficiarios. Para este efecto el juez podrá utilizar simultáneamente diversos medios de comunicación.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "96"
-epigrafe: "TARIFAS"
+epigrafe: "Tarifas"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|CAPÍTULO 3 - DE LA CONCILIACION EXTRAJUDICIAL]]"
@@ -31,7 +31,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 5|Sección 5]]
 
-## Artículo 96. TARIFAS
+## Artículo 96. Tarifas
 
 > [!warning] Artículo derogado por el artículo [[art. 49 Ley 640 de 2001|49]] de la Ley 640 de 2001, a partir de 24 de enero de 2002
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "29"
-epigrafe: "PROCESOS SOMETIDOS A LA JUSTICIA ORDINARIA O CONTENCIOSO ADMINISTRATIVA"
+epigrafe: "Procesos sometidos a la justicia ordinaria o contencioso administrativa"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 29. PROCESOS SOMETIDOS A LA JUSTICIA ORDINARIA O CONTENCIOSO ADMINISTRATIVA
+## Artículo 29. Procesos sometidos a la justicia ordinaria o contencioso administrativa
 
 El tribunal de arbitraje es competente para resolver sobre su propia competencia y su decisión prevalece sobre cualquier otra proferida en sentido contrario por un juez ordinario o contencioso administrativo. Lo anterior, sin perjuicio de lo previsto en el recurso de anulación.
 

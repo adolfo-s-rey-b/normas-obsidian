@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "106"
-epigrafe: "INTEGRACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO"
+epigrafe: "Integración de la Jurisdicción de lo Contencioso Administrativo"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo I|CAPÍTULO I - INTEGRACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 106. INTEGRACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
+## Artículo 106. Integración de la Jurisdicción de lo Contencioso Administrativo
 
 La Jurisdicción de lo Contencioso Administrativo está integrada por el Consejo de Estado, los Tribunales Administrativos y los juzgados administrativos.
 

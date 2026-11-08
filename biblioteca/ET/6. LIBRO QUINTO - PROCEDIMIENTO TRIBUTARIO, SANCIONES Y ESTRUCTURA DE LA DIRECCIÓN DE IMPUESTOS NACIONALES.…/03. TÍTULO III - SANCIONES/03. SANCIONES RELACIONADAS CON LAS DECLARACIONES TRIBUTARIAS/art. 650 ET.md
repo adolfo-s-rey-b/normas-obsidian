@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "650"
-epigrafe: "SANCIÓN POR USO FRAUDULENTO DE CEDULAS"
+epigrafe: "SANCIÓN POR USO FRAUDULENTO DE CÉDULAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones relacionadas con las declaraciones…|SANCIONES RELACIONADAS CON LAS DECLARACIONES TRIBUTARIAS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones relacionadas con las declaraciones…|Sanciones relacionadas con las declaraciones…]]
 
-## Artículo 650. SANCIÓN POR USO FRAUDULENTO DE CEDULAS
+## Artículo 650. SANCIÓN POR USO FRAUDULENTO DE CÉDULAS
 
 El contribuyente o responsable que utilice fraudulentamente en sus informaciones tributarias cédulas de personas fallecidas o inexistentes, será denunciado como autor de fraude procesal.
 

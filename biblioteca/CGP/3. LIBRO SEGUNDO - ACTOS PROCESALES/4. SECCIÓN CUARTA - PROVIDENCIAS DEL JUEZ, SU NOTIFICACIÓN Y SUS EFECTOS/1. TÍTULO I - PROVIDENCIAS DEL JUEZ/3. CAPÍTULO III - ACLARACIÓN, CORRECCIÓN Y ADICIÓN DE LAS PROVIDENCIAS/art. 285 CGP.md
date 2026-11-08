@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "285"
-epigrafe: "ACLARACIÓN"
+epigrafe: "Aclaración"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título I|TÍTULO I - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] › [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 285. ACLARACIÓN
+## Artículo 285. Aclaración
 
 La sentencia no es revocable ni reformable por el juez que la pronunció. Sin embargo, podrá ser aclarada, de oficio o a solicitud de parte, cuando contenga conceptos o frases que ofrezcan verdadero motivo de duda, siempre que estén contenidas en la parte resolutiva de la sentencia o influyan en ella.
 

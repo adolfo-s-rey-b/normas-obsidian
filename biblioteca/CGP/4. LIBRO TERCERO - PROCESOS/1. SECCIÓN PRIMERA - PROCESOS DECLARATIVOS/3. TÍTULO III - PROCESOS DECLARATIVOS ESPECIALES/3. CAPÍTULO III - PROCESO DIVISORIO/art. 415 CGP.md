@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "415"
-epigrafe: "DESIGNACIÓN DE ADMINISTRADOR EN EL PROCESO DIVISORIO"
+epigrafe: "Designación de administrador en el proceso divisorio"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 415. DESIGNACIÓN DE ADMINISTRADOR EN EL PROCESO DIVISORIO
+## Artículo 415. Designación de administrador en el proceso divisorio
 
 Cuando no haya administrador de la comunidad y solo algunos de los comuneros exploten el inmueble común en virtud de contratos de tenencia, cualquiera de los comuneros podrá pedir en el proceso divisorio que se haga el nombramiento respectivo, siempre que en la demanda se haya pedido la división material.
 

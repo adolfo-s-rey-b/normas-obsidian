@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "62"
-epigrafe: "DERECHOS DE LOS ACCIONISTAS MINORITARIOS"
+epigrafe: "Derechos de los Accionistas Minoritarios"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 62. DERECHOS DE LOS ACCIONISTAS MINORITARIOS
+## Artículo 62. Derechos de los Accionistas Minoritarios
 
 1\. Solicitud de estudio independiente. Quienes sean conjunta o separadamente propietarios de no menos del cinco por ciento (5%) de las acciones suscritas de cualquier entidad interesada en participar en un proceso de fusión, tendrán derecho a solicitar que se efectúe un estudio técnico independiente para determinar el valor de las entidades participantes en la fusión y la relación e intercambio correspondiente.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "273"
-epigrafe: "CRITERIOS DE VALORACIÓN"
+epigrafe: "Criterios de valoración"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 273. CRITERIOS DE VALORACIÓN
+## Artículo 273. Criterios de valoración
 
 La valoración de los elementos materiales probatorios y evidencia física se hará teniendo en cuenta su legalidad, autenticidad, sometimiento a cadena de custodia y grado actual de aceptación científica, técnica o artística de los principios en que se funda el informe.
 

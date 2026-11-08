@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "192"
-epigrafe: "INFORMACIONES Y DOCUMENTOS RESERVADOS"
+epigrafe: "Informaciones y documentos reservados"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo V|CAPÍTULO V - DOCUMENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 192. INFORMACIONES Y DOCUMENTOS RESERVADOS
+## Artículo 192. Informaciones y documentos reservados
 
 Solo tendrán carácter reservado las informaciones y documentos expresamente sometidos a reserva por la Constitución o la ley, y en especial:
 

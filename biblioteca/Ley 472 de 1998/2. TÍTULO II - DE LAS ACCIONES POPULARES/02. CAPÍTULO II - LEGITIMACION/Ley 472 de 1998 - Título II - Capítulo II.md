@@ -19,9 +19,9 @@ tags:
 
 ### Contenido
 
-- [[art. 12 Ley 472 de 1998|Artículo 12]] — TITULARES DE LAS ACCIONES
-- [[art. 13 Ley 472 de 1998|Artículo 13]] — EJERCICIO DE LA ACCION POPULAR
-- [[art. 14 Ley 472 de 1998|Artículo 14]] — PERSONAS CONTRA QUIENES SE DIRIGE LA ACCION
+- [[art. 12 Ley 472 de 1998|Artículo 12]] — Titulares de las Acciones
+- [[art. 13 Ley 472 de 1998|Artículo 13]] — Ejercicio de la Acción Popular
+- [[art. 14 Ley 472 de 1998|Artículo 14]] — Personas Contra Quienes se Dirige la Acción
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo I|Capítulo I]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo III|Capítulo III]] →

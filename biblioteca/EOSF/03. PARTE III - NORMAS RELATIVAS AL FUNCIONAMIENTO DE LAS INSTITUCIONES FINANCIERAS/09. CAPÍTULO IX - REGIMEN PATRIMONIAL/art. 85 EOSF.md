@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "85"
-epigrafe: "RESERVA LEGAL"
+epigrafe: "Reserva Legal"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 85. RESERVA LEGAL
+## Artículo 85. Reserva Legal
 
 Los establecimientos de crédito, sociedades de servicios financieros y sociedades de capitalización deberán constituir una reserva legal que ascenderá por lo menos al cincuenta por ciento (50%) del capital suscrito, formada con el diez por ciento (10%) de las utilidades líquidas de cada ejercicio.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "207"
-epigrafe: "CONTROL DE LEGALIDAD"
+epigrafe: "Control de legalidad"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VIII|CAPÍTULO VIII - NULIDADES E INCIDENTES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 207. CONTROL DE LEGALIDAD
+## Artículo 207. Control de legalidad
 
 Agotada cada etapa del proceso, el juez ejercerá el control de legalidad para sanear los vicios que acarrean nulidades, los cuales, salvo que se trate de hechos nuevos, no se podrán alegar en las etapas siguientes.
 

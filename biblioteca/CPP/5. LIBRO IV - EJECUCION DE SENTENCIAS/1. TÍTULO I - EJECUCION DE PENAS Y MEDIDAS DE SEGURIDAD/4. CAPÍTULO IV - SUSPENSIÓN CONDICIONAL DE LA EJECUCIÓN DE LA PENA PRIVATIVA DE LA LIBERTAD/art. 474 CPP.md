@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "474"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo IV|CAPÍTULO IV - SUSPENSIÓN CONDICIONAL DE LA EJECUCIÓN DE LA PENA PRIVATIVA DE LA LIBERTAD]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 474. PROCEDENCIA
+## Artículo 474. Procedencia
 
 Para conceder la suspensión condicional de la ejecución de la pena, se dará cumplimiento a lo dispuesto en el Código Penal y se fijará el término dentro del cual el beneficiado debe reparar los daños ocasionados con el delito, salvo que haya bienes secuestrados, decomisados o embargados, que garanticen íntegramente la indemnización.
 

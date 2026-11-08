@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "84"
-epigrafe: "PLAZOS PERENTORIOS E IMPRORROGABLES"
+epigrafe: "Plazos Perentorios e Improrrogables"
 titulo: "[[Ley 472 de 1998 - Título VI|TÍTULO VI]]"
 capitulo: "[[Ley 472 de 1998 - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título VI|Título VI]] › [[Ley 472 de 1998 - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 84. PLAZOS PERENTORIOS E IMPRORROGABLES
+## Artículo 84. Plazos Perentorios e Improrrogables
 
 La inobservancia de los términos procesales establecidos en esta ley, hará incurrir al Juez en causal de mala conducta, sancionable con destitución del cargo.
 

@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 249 CP|Artículo 249]] — ABUSO DE CONFIANZA
+- [[art. 249 CP|Artículo 249]] — Abuso de confianza
 - [[art. 250 CP|Artículo 250]] — Abuso de confianza calificado
 - [[art. 250A CP|Artículo 250A]]
 - [[art. 250B CP|Artículo 250B]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "27"
-epigrafe: "PODERES CORRECCIONALES DEL JUEZ"
+epigrafe: "Poderes correccionales del juez"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Tercero|TÍTULO TERCERO - DEBERES Y PODERES DEL JUEZ]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Tercero|Título Tercero]]
 
-## Artículo 27. PODERES CORRECCIONALES DEL JUEZ
+## Artículo 27. Poderes correccionales del juez
 
 Sin perjuicio de la acción disciplinaria a que haya lugar, el juez tendrá los siguientes poderes correccionales:
 

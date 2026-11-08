@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "738-1"
-epigrafe: "TERMINO PARA RESOLVER LAS SOLICITUDES DE REVOCATORIA DIRECTA"
+epigrafe: "TÉRMINO PARA RESOLVER LAS SOLICITUDES DE REVOCATORIA DIRECTA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
 
-## Artículo 738-1. TERMINO PARA RESOLVER LAS SOLICITUDES DE REVOCATORIA DIRECTA
+## Artículo 738-1. TÉRMINO PARA RESOLVER LAS SOLICITUDES DE REVOCATORIA DIRECTA
 
 Las solicitudes de revocatoria directa deberán fallarse dentro del término de un (1) año contado a partir de su petición en debida forma. Si dentro de éste término no se profiere decisión, se entenderá resuelta a favor del solicitante, debiendo ser declarado de oficio o a petición de parte el silencio administrativo positivo.
 

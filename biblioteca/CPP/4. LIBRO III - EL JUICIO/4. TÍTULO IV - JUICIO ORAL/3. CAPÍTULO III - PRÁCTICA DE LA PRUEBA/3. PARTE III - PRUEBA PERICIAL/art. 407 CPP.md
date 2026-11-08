@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "407"
-epigrafe: "NÚMERO DE PERITOS"
+epigrafe: "Número de peritos"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]]
 
-## Artículo 407. NÚMERO DE PERITOS
+## Artículo 407. Número de peritos
 
 A menos que se trate de prueba impertinente, irrelevante o superflua, el juez no podrá limitar el número de peritos que sean llamados a declarar en la audiencia pública por las partes.
 

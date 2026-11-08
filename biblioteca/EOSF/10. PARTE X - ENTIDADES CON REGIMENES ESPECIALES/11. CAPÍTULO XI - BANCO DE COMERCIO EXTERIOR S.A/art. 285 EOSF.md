@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "285"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones Finales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 285. DISPOSICIONES FINALES
+## Artículo 285. Disposiciones Finales
 
 1\. Régimen para el ejercicio de las funciones de los servidores del Banco. Salvo en cuanto la Constitución Política o este capítulo dispongan expresamente otra cosa, los servidores del Banco ejercerán sus funciones, y asumirán responsabilidades, con sujeción a las normas aplicables a los particulares.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "126"
-epigrafe: "NOTIFICACIÓN EN ESTRADO"
+epigrafe: "Notificación en estrado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 126. NOTIFICACIÓN EN ESTRADO
+## Artículo 126. Notificación en estrado
 
 Las decisiones que se profieran en audiencia pública o en el curso de cualquier diligencia de carácter verbal se consideran notificadas a todos los sujetos procesales inmediatamente se haga el pronunciamiento, se encuentren o no presentes.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "252"
-epigrafe: "RECONOCIMIENTO POR MEDIO DE FOTOGRAFÍAS O VÍDEOS"
+epigrafe: "Reconocimiento por medio de fotografías o vídeos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo IV|CAPÍTULO IV - MÉTODOS DE IDENTIFICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 252. RECONOCIMIENTO POR MEDIO DE FOTOGRAFÍAS O VÍDEOS
+## Artículo 252. Reconocimiento por medio de fotografías o vídeos
 
 Cuando no exista un indiciado relacionado con el delito, o existiendo no estuviere disponible para la realización de reconocimiento en fila de personas, o se negare a participar en él, la policía judicial, para proceder a la respectiva identificación, podrá utilizar cualquier medio técnico disponible que permita mostrar imágenes reales, en fotografías, imágenes digitales o vídeos. Para realizar esta actuación se requiere la autorización previa del fiscal que dirige la investigación.
 

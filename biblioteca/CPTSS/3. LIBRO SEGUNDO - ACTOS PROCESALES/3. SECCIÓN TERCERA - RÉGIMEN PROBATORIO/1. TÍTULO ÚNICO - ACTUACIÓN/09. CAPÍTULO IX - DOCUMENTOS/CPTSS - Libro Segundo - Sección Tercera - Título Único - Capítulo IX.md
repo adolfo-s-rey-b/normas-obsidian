@@ -24,30 +24,30 @@ tags:
 
 ### Contenido
 
-- [[art. 174 CPTSS|Artículo 174]] — CLASES DE DOCUMENTOS
-- [[art. 175 CPTSS|Artículo 175]] — DOCUMENTO AUTÉNTICO
-- [[art. 176 CPTSS|Artículo 176]] — APORTACIÓN, INDIVISIBILIDAD Y ALCANCE PROBATORIO DE LOS DOCUMENTOS
-- [[art. 177 CPTSS|Artículo 177]] — VALOR PROBATORIO DE LAS COPIAS
-- [[art. 178 CPTSS|Artículo 178]] — VALORACIÓN DE MENSAJES DE DATOS
-- [[art. 179 CPTSS|Artículo 179]] — COPIAS REGISTRADAS
-- [[art. 180 CPTSS|Artículo 180]] — DOCUMENTOS EN IDIOMA EXTRANJERO Y OTORGADOS EN EL EXTRANJERO
-- [[art. 181 CPTSS|Artículo 181]] — DOCUMENTOS ROTOS O ALTERADOS
-- [[art. 182 CPTSS|Artículo 182]] — DOCUMENTOS QUE REQUIEREN SOLEMNIDAD PARA LA EXISTENCIA O VALIDEZ DE UN ACTO O CONTRATO
-- [[art. 183 CPTSS|Artículo 183]] — ALCANCE PROBATORIO
-- [[art. 184 CPTSS|Artículo 184]] — INSTRUMENTO PÚBLICO DEFECTUOSO
-- [[art. 185 CPTSS|Artículo 185]] — ALCANCE PROBATORIO DE LOS DOCUMENTOS PRIVADOS
-- [[art. 186 CPTSS|Artículo 186]] — DOCUMENTOS DECLARATIVOS EMANADOS DE TERCEROS
-- [[art. 187 CPTSS|Artículo 187]] — DOCUMENTOS SIN FIRMA, FIRMADOS EN BLANCO O CON ESPACIOS SIN LLENAR
-- [[art. 188 CPTSS|Artículo 188]] — LIBROS Y PAPELES DE COMERCIO
-- [[art. 189 CPTSS|Artículo 189]] — PROCEDENCIA DE LA EXHIBICIÓN
-- [[art. 190 CPTSS|Artículo 190]] — TRÁMITE DE LA EXHIBICIÓN
-- [[art. 191 CPTSS|Artículo 191]] — RENUENCIA Y OPOSICIÓN A LA EXHIBICIÓN
-- [[art. 192 CPTSS|Artículo 192]] — PROCEDENCIA DE LA TACHA DE FALSEDAD
-- [[art. 193 CPTSS|Artículo 193]] — TRÁMITE DE LA TACHA
-- [[art. 194 CPTSS|Artículo 194]] — EFECTOS DE LA DECLARACIÓN DE FALSEDAD
-- [[art. 195 CPTSS|Artículo 195]] — DESCONOCIMIENTO DEL DOCUMENTO
-- [[art. 196 CPTSS|Artículo 196]] — COTEJO DE LETRAS O FIRMAS
-- [[art. 197 CPTSS|Artículo 197]] — SANCIONES AL IMPUGNANTE VENCIDO
+- [[art. 174 CPTSS|Artículo 174]] — Clases de documentos
+- [[art. 175 CPTSS|Artículo 175]] — Documento auténtico
+- [[art. 176 CPTSS|Artículo 176]] — Aportación, indivisibilidad y alcance probatorio de los documentos
+- [[art. 177 CPTSS|Artículo 177]] — Valor probatorio de las copias
+- [[art. 178 CPTSS|Artículo 178]] — Valoración de mensajes de datos
+- [[art. 179 CPTSS|Artículo 179]] — Copias registradas
+- [[art. 180 CPTSS|Artículo 180]] — Documentos en idioma extranjero y otorgados en el extranjero
+- [[art. 181 CPTSS|Artículo 181]] — Documentos rotos o alterados
+- [[art. 182 CPTSS|Artículo 182]] — Documentos que requieren solemnidad para la existencia o validez de un acto o contrato
+- [[art. 183 CPTSS|Artículo 183]] — Alcance probatorio
+- [[art. 184 CPTSS|Artículo 184]] — Instrumento público defectuoso
+- [[art. 185 CPTSS|Artículo 185]] — Alcance probatorio de los documentos privados
+- [[art. 186 CPTSS|Artículo 186]] — Documentos declarativos emanados de terceros
+- [[art. 187 CPTSS|Artículo 187]] — Documentos sin firma, firmados en blanco o con espacios sin llenar
+- [[art. 188 CPTSS|Artículo 188]] — Libros y papeles de comercio
+- [[art. 189 CPTSS|Artículo 189]] — Procedencia de la exhibición
+- [[art. 190 CPTSS|Artículo 190]] — Trámite de la exhibición
+- [[art. 191 CPTSS|Artículo 191]] — Renuencia y oposición a la exhibición
+- [[art. 192 CPTSS|Artículo 192]] — Procedencia de la tacha de falsedad
+- [[art. 193 CPTSS|Artículo 193]] — Trámite de la tacha
+- [[art. 194 CPTSS|Artículo 194]] — Efectos de la declaración de falsedad
+- [[art. 195 CPTSS|Artículo 195]] — Desconocimiento del documento
+- [[art. 196 CPTSS|Artículo 196]] — Cotejo de letras o firmas
+- [[art. 197 CPTSS|Artículo 197]] — Sanciones al impugnante vencido
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VIII|Capítulo VIII]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo X|Capítulo X]] →

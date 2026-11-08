@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "263"
-epigrafe: "QUE SE ENTIENDE POR POSESIÓN"
+epigrafe: "QUÉ SE ENTIENDE POR POSESIÓN"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Bienes y derechos que lo integran|Bienes y derechos que lo integran]]
 
-## Artículo 263. QUE SE ENTIENDE POR POSESIÓN
+## Artículo 263. QUÉ SE ENTIENDE POR POSESIÓN
 
 (Fuente original compilada: D.2053/74 Art. [[art. 110 ET|110]]) Se entiende por posesión, el aprovechamiento económico, potencial o real, de cualquier bien en beneficio del contribuyente.
 

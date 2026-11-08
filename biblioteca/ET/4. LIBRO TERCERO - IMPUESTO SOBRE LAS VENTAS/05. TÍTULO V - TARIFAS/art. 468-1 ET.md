@@ -166,7 +166,7 @@ Los siguientes bienes están gravados con la tarifa del cinco por ciento (5%):
 
 Adicionalmente:
 
-1.
+1\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 122 Ley 1943 de 2018|122]] de la Ley 1943 de 2018 y el artículo [[art. 160 Ley 2010 de 2019|160]] de la Ley 2010 de 2019
 

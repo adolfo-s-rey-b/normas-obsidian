@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "230"
-epigrafe: "EXCEPCIONES AL REQUISITO DE LA ORDEN ESCRITA DE LA FISCALÍA GENERAL DE LA NACIÓN PARA PROCEDER AL REGISTRO Y ALLANAMIENTO"
+epigrafe: "Excepciones al requisito de la orden escrita de la Fiscalía General de la Nación para proceder al registro y allanamiento"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 51 Ley 1453 de 2011]]"
 anterior: "[[art. 229 CPP]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 230. EXCEPCIONES AL REQUISITO DE LA ORDEN ESCRITA DE LA FISCALÍA GENERAL DE LA NACIÓN PARA PROCEDER AL REGISTRO Y ALLANAMIENTO
+## Artículo 230. Excepciones al requisito de la orden escrita de la Fiscalía General de la Nación para proceder al registro y allanamiento
 
 Excepcionalmente podrá omitirse la obtención de la orden escrita de la Fiscalía General de la Nación para que la Policía Judicial pueda adelantar un registro y allanamiento, cuando:
 

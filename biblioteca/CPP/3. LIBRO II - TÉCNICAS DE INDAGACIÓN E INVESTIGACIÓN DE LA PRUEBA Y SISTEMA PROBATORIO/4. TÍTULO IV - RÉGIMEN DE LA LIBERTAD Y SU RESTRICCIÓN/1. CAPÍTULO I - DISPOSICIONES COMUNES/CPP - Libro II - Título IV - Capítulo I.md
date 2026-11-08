@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 295 CPP|Artículo 295]] — AFIRMACIÓN DE LA LIBERTAD
-- [[art. 296 CPP|Artículo 296]] — FINALIDAD DE LA RESTRICCIÓN DE LA LIBERTAD
+- [[art. 295 CPP|Artículo 295]] — Afirmación de la libertad
+- [[art. 296 CPP|Artículo 296]] — Finalidad de la restricción de la libertad
 
 ---
 ↑ [[CPP - Libro II - Título IV|Título IV]] · [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]] →

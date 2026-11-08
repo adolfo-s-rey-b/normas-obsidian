@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "104"
-epigrafe: "AUDIENCIA DE PRUEBAS Y ALEGACIONES"
+epigrafe: "Audiencia de pruebas y alegaciones"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo IV|CAPÍTULO IV - DEL EJERCICIO DEL INCIDENTE DE REPARACIÓN INTEGRAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 104. AUDIENCIA DE PRUEBAS Y ALEGACIONES
+## Artículo 104. Audiencia de pruebas y alegaciones
 
 El día y hora señalados el juez realizará la audiencia, la cual iniciará con una invitación a los intervinientes a conciliar. De lograrse el acuerdo su contenido se incorporará a la decisión. En caso contrario, se procederá a la práctica de la prueba ofrecida por cada parte y se oirá el fundamento de sus pretensiones.
 

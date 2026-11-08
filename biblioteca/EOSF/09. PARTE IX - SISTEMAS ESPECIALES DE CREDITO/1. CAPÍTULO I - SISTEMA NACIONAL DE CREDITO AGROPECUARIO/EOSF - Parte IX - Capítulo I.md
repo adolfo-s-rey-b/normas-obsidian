@@ -22,17 +22,17 @@ tags:
 
 ### Contenido
 
-- [[art. 216 EOSF|Artículo 216]] — CREACION Y OBJETO
-- [[art. 217 EOSF|Artículo 217]] — ENTIDADES INTEGRANTES DEL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
-- [[art. 218 EOSF|Artículo 218]] — COMISION NACIONAL DE CREDITO AGROPECUARIO
-- [[art. 219 EOSF|Artículo 219]] — CREDITO DE FOMENTO AGROPECUARIO Y CRITERIOS PARA SU PROGRAMACION
-- [[art. 220 EOSF|Artículo 220]] — DESTINACION DE LOS RECURSOS DEL CREDITO AGROPECUARIO
-- [[art. 221 EOSF|Artículo 221]] — BENEFICIARIOS DEL CREDITO AGROPECUARIO
-- [[art. 222 EOSF|Artículo 222]] — OBLIGACIONES DE LAS ENTIDADES QUE INTEGRAN EL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
-- [[art. 223 EOSF|Artículo 223]] — PROHIBICION A LAS ENTIDADES QUE INTEGRAN EL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
-- [[art. 224 EOSF|Artículo 224]] — RECURSOS COMPLEMENTARIOS DEL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
-- [[art. 225 EOSF|Artículo 225]] — VIGILANCIA Y CONTROL
-- [[art. 226 EOSF|Artículo 226]] — DISPOSICIONES FINALES
+- [[art. 216 EOSF|Artículo 216]] — Creación y Objeto
+- [[art. 217 EOSF|Artículo 217]] — Entidades Integrantes del Sistema Nacional de Crédito Agropecuario
+- [[art. 218 EOSF|Artículo 218]] — Comisión Nacional de Crédito Agropecuario
+- [[art. 219 EOSF|Artículo 219]] — Crédito de Fomento Agropecuario y Criterios para su Programación
+- [[art. 220 EOSF|Artículo 220]] — Destinación de los Recursos del Crédito Agropecuario
+- [[art. 221 EOSF|Artículo 221]] — Beneficiarios del Crédito Agropecuario
+- [[art. 222 EOSF|Artículo 222]] — Obligaciones de las Entidades que Integran el Sistema Nacional de Crédito Agropecuario
+- [[art. 223 EOSF|Artículo 223]] — Prohibición a las Entidades que integran el Sistema Nacional de Crédito Agropecuario
+- [[art. 224 EOSF|Artículo 224]] — Recursos Complementarios del Sistema Nacional de Crédito Agropecuario
+- [[art. 225 EOSF|Artículo 225]] — Vigilancia y Control
+- [[art. 226 EOSF|Artículo 226]] — Disposiciones Finales
 
 ---
 ↑ [[EOSF - Parte IX|Parte IX]]

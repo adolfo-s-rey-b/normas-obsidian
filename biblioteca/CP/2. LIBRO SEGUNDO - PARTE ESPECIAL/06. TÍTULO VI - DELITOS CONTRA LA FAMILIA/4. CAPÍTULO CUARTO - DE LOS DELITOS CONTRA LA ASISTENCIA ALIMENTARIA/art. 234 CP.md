@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "234"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VI|TÍTULO VI - DELITOS CONTRA LA FAMILIA]]"
 capitulo: "[[CP - Libro Segundo - Título VI - Capítulo Cuarto|CAPÍTULO CUARTO - DE LOS DELITOS CONTRA LA ASISTENCIA ALIMENTARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VI|Título VI]] › [[CP - Libro Segundo - Título VI - Capítulo Cuarto|Capítulo Cuarto]]
 
-## Artículo 234. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 234. Circunstancias de agravación punitiva
 
 La pena señalada en el artículo anterior se aumentará hasta en una tercera parte si el obligado, con el propósito de sustraerse a la prestación alimentaria, fraudulentamente oculta, disminuye o grava su renta o patrimonio.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "35"
-epigrafe: "EJERCICIO DE LA VEEDURIA CIUDADANA"
+epigrafe: "Ejercicio de la veeduría ciudadana"
 capitulo: "[[Ley 489 de 1998 - Capítulo VIII|CAPÍTULO VIII - DEMOCRATIZACION Y CONTROL SOCIAL DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 34 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 35. EJERCICIO DE LA VEEDURIA CIUDADANA
+## Artículo 35. Ejercicio de la veeduría ciudadana
 
 Para garantizar el ejercicio de las veedurías ciudadanas, las entidades y organismos de la administración pública deberán tener en cuenta los siguientes aspectos:
 

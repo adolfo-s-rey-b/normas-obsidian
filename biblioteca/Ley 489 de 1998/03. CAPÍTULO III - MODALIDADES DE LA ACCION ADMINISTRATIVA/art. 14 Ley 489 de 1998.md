@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "14"
-epigrafe: "DELEGACION ENTRE ENTIDADES PUBLICAS"
+epigrafe: "Delegación entre entidades públicas"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 13 Ley 489 de 1998]]"
 siguiente: "[[art. 15 Ley 489 de 1998]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0489_1998.html"
@@ -19,12 +19,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_489_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 14. DELEGACION ENTRE ENTIDADES PUBLICAS
+## Artículo 14. Delegación entre entidades públicas
 
 > [!note] Artículo CONDICIONALMENTE EXEQUIBLE
 

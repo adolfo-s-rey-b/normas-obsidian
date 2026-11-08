@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "754-1"
-epigrafe: "INDICIOS CON BASE EN ESTADISTICAS DE SECTORES ECONOMICOS"
+epigrafe: "INDICIOS CON BASE EN ESTADÍSTICAS DE SECTORES ECONÓMICOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Indicios y presunciones|Indicios y presunciones]]
 
-## Artículo 754-1. INDICIOS CON BASE EN ESTADISTICAS DE SECTORES ECONOMICOS
+## Artículo 754-1. INDICIOS CON BASE EN ESTADÍSTICAS DE SECTORES ECONÓMICOS
 
 Los datos estadísticos oficiales obtenidos o procesados por la Dirección General de Impuestos Nacionales sobre sectores económicos de contribuyentes, constituirán indicio para efectos de adelantar los procesos de determinación de los impuestos, retenciones y establecer la existencia y cuantía de los ingresos, costos, deducciones, impuestos descontables y activos patrimoniales.
 

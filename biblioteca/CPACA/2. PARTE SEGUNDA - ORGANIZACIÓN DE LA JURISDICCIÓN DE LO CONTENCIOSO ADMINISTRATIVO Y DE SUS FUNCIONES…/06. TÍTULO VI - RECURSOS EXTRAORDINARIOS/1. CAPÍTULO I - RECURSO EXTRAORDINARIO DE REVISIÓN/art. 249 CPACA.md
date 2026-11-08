@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "249"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo I|CAPÍTULO I - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 249. COMPETENCIA
+## Artículo 249. Competencia
 
 De los recursos de revisión contra las sentencias dictadas por las secciones o subsecciones del Consejo de Estado conocerá la Sala Plena de lo Contencioso Administrativo sin exclusión de la sección que profirió la decisión.
 

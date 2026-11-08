@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 93 CPACA|Artículo 93]] — CAUSALES DE REVOCACIÓN
+- [[art. 93 CPACA|Artículo 93]] — Causales de revocación
 - [[art. 94 CPACA|Artículo 94]] — Improcedencia
-- [[art. 95 CPACA|Artículo 95]] — OPORTUNIDAD
-- [[art. 96 CPACA|Artículo 96]] — EFECTOS
-- [[art. 97 CPACA|Artículo 97]] — REVOCACIÓN DE ACTOS DE CARÁCTER PARTICULAR Y CONCRETO
+- [[art. 95 CPACA|Artículo 95]] — Oportunidad
+- [[art. 96 CPACA|Artículo 96]] — Efectos
+- [[art. 97 CPACA|Artículo 97]] — Revocación de actos de carácter particular y concreto
 
 ---
 ← [[CPACA - Parte Primera - Título III - Capítulo VIII|Capítulo VIII]] · ↑ [[CPACA - Parte Primera - Título III|Título III]]

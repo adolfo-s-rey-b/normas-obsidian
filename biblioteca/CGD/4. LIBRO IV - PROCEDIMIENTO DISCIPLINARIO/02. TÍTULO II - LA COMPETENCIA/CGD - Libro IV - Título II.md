@@ -22,19 +22,19 @@ tags:
 
 ### Contenido
 
-- [[art. 91 CGD|Artículo 91]] — FACTORES QUE DETERMINAN LA COMPETENCIA
-- [[art. 92 CGD|Artículo 92]] — COMPETENCIA POR LA CALIDAD DEL SUJETO DISCIPLINABLE
-- [[art. 93 CGD|Artículo 93]] — CONTROL DISCIPLINARIO INTERNO
-- [[art. 94 CGD|Artículo 94]] — SIGNIFICADO DE CONTROL DISCIPLINARIO INTERNO
-- [[art. 95 CGD|Artículo 95]] — COMPETENCIA DE LA PROCURADURÍA GENERAL DE LA NACIÓN Y LAS PERSONERÍAS
-- [[art. 96 CGD|Artículo 96]] — FALTAS COMETIDAS POR FUNCIONARIOS DE DISTINTAS ENTIDADES
-- [[art. 97 CGD|Artículo 97]] — EL FACTOR TERRITORIAL
-- [[art. 98 CGD|Artículo 98]] — COMPETENCIA POR RAZÓN DE LA CONEXIDAD
-- [[art. 99 CGD|Artículo 99]] — CONFLICTO DE COMPETENCIAS
+- [[art. 91 CGD|Artículo 91]] — Factores que determinan la competencia
+- [[art. 92 CGD|Artículo 92]] — Competencia por la calidad del sujeto disciplinable
+- [[art. 93 CGD|Artículo 93]] — Control Disciplinario Interno
+- [[art. 94 CGD|Artículo 94]] — Significado de Control Disciplinario Interno
+- [[art. 95 CGD|Artículo 95]] — Competencia de la Procuraduría General de la Nación y las Personerías
+- [[art. 96 CGD|Artículo 96]] — Faltas cometidas por funcionarios de distintas entidades
+- [[art. 97 CGD|Artículo 97]] — El factor territorial
+- [[art. 98 CGD|Artículo 98]] — Competencia por razón de la conexidad
+- [[art. 99 CGD|Artículo 99]] — Conflicto de competencias
 - [[art. 100 CGD|Artículo 100]] — COMPETENCIA PARA EL PROCESO DISCIPLINARIO ADELANTADO CONTRA EL PROCURADOR GENERAL DE LA NACIÓN
-- [[art. 101 CGD|Artículo 101]] — COMPETENCIA DE LAS SALAS DISCIPLINARIAS DE LA PROCURADURÍA GENERAL DE LA NACIÓN
+- [[art. 101 CGD|Artículo 101]] — Competencia de las salas disciplinarias de la Procuraduría General de la Nación
 - [[art. 102 CGD|Artículo 102]] — COMPETENCIA DISCIPLINARIA DEL PROCURADOR GENERAL DE LA NACIÓN
-- [[art. 103 CGD|Artículo 103]] — TRÁMITE PROCESAL
+- [[art. 103 CGD|Artículo 103]] — Trámite Procesal
 
 ---
 ← [[CGD - Libro IV - Título I|Título I]] · ↑ [[CGD - Libro IV|Libro IV]] · [[CGD - Libro IV - Título III|Título III]] →

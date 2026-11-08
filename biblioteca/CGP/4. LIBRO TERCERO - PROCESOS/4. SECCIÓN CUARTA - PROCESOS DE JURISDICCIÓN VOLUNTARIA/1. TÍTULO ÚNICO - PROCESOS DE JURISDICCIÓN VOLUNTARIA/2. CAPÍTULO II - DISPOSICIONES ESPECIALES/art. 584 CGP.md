@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "584"
-epigrafe: "PRESUNCIÓN DE MUERTE POR DESAPARECIMIENTO"
+epigrafe: "Presunción de muerte por desaparecimiento"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Cuarta|SECCIÓN CUARTA - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
 titulo: "[[CGP - Libro Tercero - Sección Cuarta - Título Único|TÍTULO ÚNICO - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 584. PRESUNCIÓN DE MUERTE POR DESAPARECIMIENTO
+## Artículo 584. Presunción de muerte por desaparecimiento
 
 Para la declaración de muerte presuntiva de una persona, se observarán las siguientes reglas:
 

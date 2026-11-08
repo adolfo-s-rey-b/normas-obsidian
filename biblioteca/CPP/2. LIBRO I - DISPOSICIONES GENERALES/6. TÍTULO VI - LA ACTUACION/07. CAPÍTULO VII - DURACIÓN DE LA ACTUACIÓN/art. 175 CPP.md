@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "175"
-epigrafe: "DURACIÓN DE LOS PROCEDIMIENTOS"
+epigrafe: "Duración de los procedimientos"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo VII|CAPÍTULO VII - DURACIÓN DE LA ACTUACIÓN]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo VII|Capítulo VII]]
 
-## Artículo 175. DURACIÓN DE LOS PROCEDIMIENTOS
+## Artículo 175. Duración de los procedimientos
 
 El término de que dispone la Fiscalía para formular la acusación o solicitar la preclusión no podrá exceder de noventa (90) días contados desde el día siguiente a la formulación de la imputación, salvo lo previsto en el artículo [[art. 294 CPP|294]] de este código.
 

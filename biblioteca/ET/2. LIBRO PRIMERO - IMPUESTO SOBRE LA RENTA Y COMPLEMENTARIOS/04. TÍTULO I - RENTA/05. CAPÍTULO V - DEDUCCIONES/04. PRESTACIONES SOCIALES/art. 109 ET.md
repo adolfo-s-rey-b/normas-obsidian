@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "109"
-epigrafe: "DEDUCCIÓN DE CESANTIAS PAGADAS"
+epigrafe: "DEDUCCIÓN DE CESANTÍAS PAGADAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Prestaciones sociales|Prestaciones sociales]]
 
-## Artículo 109. DEDUCCIÓN DE CESANTIAS PAGADAS
+## Artículo 109. DEDUCCIÓN DE CESANTÍAS PAGADAS
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 50 ET|50]]) Son deducibles las cesantías efectivamente pagadas, siempre que no se trate de las consolidadas y deducidas en años o períodos gravables anteriores.
 

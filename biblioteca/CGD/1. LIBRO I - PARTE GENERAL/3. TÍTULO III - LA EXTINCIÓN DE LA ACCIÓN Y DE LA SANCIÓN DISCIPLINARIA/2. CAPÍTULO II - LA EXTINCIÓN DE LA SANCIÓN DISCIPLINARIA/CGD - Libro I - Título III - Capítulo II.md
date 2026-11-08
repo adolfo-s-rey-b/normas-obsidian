@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 35 CGD|Artículo 35]] — CAUSALES DE EXTINCIÓN DE LA SANCIÓN DISCIPLINARIA
-- [[art. 36 CGD|Artículo 36]] — TÉRMINO DE PRESCRIPCIÓN DE LA SANCIÓN DISCIPLINARIA
+- [[art. 35 CGD|Artículo 35]] — Causales de extinción de la sanción disciplinaria
+- [[art. 36 CGD|Artículo 36]] — Termino de prescripción de la sanción disciplinaria
 
 ---
 ← [[CGD - Libro I - Título III - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro I - Título III|Título III]]

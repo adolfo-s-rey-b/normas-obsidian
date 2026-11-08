@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "3"
-epigrafe: "DIRECCIÓN DEL PROCESO"
+epigrafe: "Dirección del proceso"
 titulo: "[[CPTSS - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 2 CPTSS]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Título Preliminar|Título Preliminar]]
 
-## Artículo 3. DIRECCIÓN DEL PROCESO
+## Artículo 3. Dirección del proceso
 
 El juez asumirá la dirección del proceso adoptando las medidas necesarias para garantizar el respeto de los derechos fundamentales y el equilibrio entre las partes, la agilidad y celeridad en su trámite, atendiendo los enfoques diferenciales.
 

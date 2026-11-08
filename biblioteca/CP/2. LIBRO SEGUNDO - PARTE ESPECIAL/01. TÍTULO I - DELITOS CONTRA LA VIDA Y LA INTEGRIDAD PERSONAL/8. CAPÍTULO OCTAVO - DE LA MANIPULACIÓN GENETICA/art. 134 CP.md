@@ -8,14 +8,13 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "134"
-epigrafe: "FECUNDACIÓN Y TRAFICO DE EMBRIONES HUMANOS"
+epigrafe: "Fecundación y trafico de embriones humanos"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Octavo|CAPÍTULO OCTAVO - DE LA MANIPULACIÓN GENETICA]]"
 vigencia: "modificado"
 modificado_por:
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 anterior: "[[art. 133 CP]]"
 siguiente: "[[art. 134A CP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
@@ -32,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Octavo|Capítulo Octavo]]
 
-## Artículo 134. FECUNDACIÓN Y TRAFICO DE EMBRIONES HUMANOS
+## Artículo 134. Fecundación y trafico de embriones humanos
 
 El que fecunde óvulos humanos con finalidad diferente a la procreación humana, sin perjuicio de la investigación científica, tratamiento o diagnóstico que tengan una finalidad terapéutica con respecto al ser humano objeto de la investigación, incurrirá en prisión de dieciséis (16) a cincuenta y cuatro (54) meses.
 
@@ -40,7 +39,7 @@ El que fecunde óvulos humanos con finalidad diferente a la procreación humana,
 
 En la misma pena incurrirá el que trafique con gametos, cigotos o embriones humanos, obtenidos de cualquier manera o a cualquier título.
 
-> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA sobre este artículo (parcial) por ineptitud de la demanda, mediante Sentencia C-669-14 de 10 de septiembre de 2014, Magistrado Ponente Dr. Luis Guillermo Guerrero Pérez. - La Corte Constitucional se declaró INHIBIDA de fallar sobre este artículo por ineptitud de la demanda, mediante Sentencia C-555-05 de 24 de mayo de 2005, Magistrada Ponente Dra. Clara Inés Vargas Hernández.
 

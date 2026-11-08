@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "52"
-epigrafe: "DE LA RESPONSABILIDAD DE LOS CONTRATISTAS"
+epigrafe: "De la Responsabilidad de los Contratistas"
 rubro: "[[Ley 80 de 1993 - V. de la responsabilidad contractual|V. DE LA RESPONSABILIDAD CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 51 Ley 80 de 1993]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - V. de la responsabilidad contractual|V. de la responsabilidad contractual]]
 
-## Artículo 52. DE LA RESPONSABILIDAD DE LOS CONTRATISTAS
+## Artículo 52. De la Responsabilidad de los Contratistas
 
 Los contratistas responderán civil y penalmente por sus acciones y omisiones en la actuación contractual en los términos de la ley.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "271"
-epigrafe: "MEDIDAS CAUTELARES, EMBARGO Y SECUESTRO"
+epigrafe: "Medidas cautelares, embargo y secuestro"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 271. MEDIDAS CAUTELARES, EMBARGO Y SECUESTRO
+## Artículo 271. Medidas cautelares, embargo y secuestro
 
 Desde la presentación de la demanda el ejecutante podrá solicitar el embargo y secuestro de bienes del ejecutado o cualquier otra medida que resulte viable para llevar a debido efecto la ejecución.
 

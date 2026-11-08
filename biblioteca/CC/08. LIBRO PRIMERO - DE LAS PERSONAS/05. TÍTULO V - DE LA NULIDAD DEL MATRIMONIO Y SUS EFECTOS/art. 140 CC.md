@@ -86,7 +86,7 @@ ARTÍCULO 39 . VALIDEZ DE LOS ACTOS ESTABLECIDOS EN LA SENTENCIA DE ADJUDICACIÓ
 
 9o) Cuando los contrayentes están en la misma línea de ascendientes y descendientes o son hermanos.
 
-10)
+10\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 45 Ley 57 de 1887|45]] de la Ley 57 de 1887.
 

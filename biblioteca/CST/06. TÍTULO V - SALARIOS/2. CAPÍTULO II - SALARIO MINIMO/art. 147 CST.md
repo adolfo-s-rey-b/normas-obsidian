@@ -11,7 +11,7 @@ articulo: "147"
 epigrafe: "PROCEDIMIENTO DE FIJACION"
 titulo: "[[CST - Título V|TÍTULO V - SALARIOS]]"
 capitulo: "[[CST - Título V - Capítulo II|CAPÍTULO II - SALARIO MINIMO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 19 Ley 50 de 1990]]"
   - "[[art. 8 Ley 278 de 1996]]"
@@ -35,7 +35,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título V|Título V]] › [[CST - Título V - Capítulo II|Capítulo II]]
@@ -46,7 +46,7 @@ tags:
 
 1\. El salario mínimo puede fijarse en pacto o convención colectiva o en fallo arbitral.
 
-2.
+2\. *(texto no vigente)*
 
 > [!info] Numeral 2o. subrogado por el artículo [[art. 8 Ley 278 de 1996|8]] de la Ley 278 de 1996. El nuevo texto es el siguiente:
 

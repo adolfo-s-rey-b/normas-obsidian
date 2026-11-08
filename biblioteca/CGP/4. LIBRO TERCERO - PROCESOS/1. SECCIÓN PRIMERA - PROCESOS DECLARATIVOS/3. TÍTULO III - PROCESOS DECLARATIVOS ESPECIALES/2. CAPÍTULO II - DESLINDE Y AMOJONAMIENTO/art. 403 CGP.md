@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "403"
-epigrafe: "DILIGENCIA DE DESLINDE"
+epigrafe: "Diligencia de deslinde"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 403. DILIGENCIA DE DESLINDE
+## Artículo 403. Diligencia de deslinde
 
 El juez señalará fecha y hora para el deslinde y en la misma providencia prevendrá a las partes para que presenten sus títulos a más tardar el día de la diligencia, a la cual deberán concurrir además los peritos.
 

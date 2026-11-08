@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "13"
-epigrafe: "EXCLUSIÓN DE BENEFICIOS EN LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA RELACIONADOS CON CORRUPCIÓN"
+epigrafe: "Exclusión de beneficios en los delitos contra la Administración Pública relacionados con corrupción"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 12 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 13. EXCLUSIÓN DE BENEFICIOS EN LOS DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA RELACIONADOS CON CORRUPCIÓN
+## Artículo 13. Exclusión de beneficios en los delitos contra la Administración Pública relacionados con corrupción
 
 El artículo [[art. 68A CP|68A]] del Código Penal quedará así:
 

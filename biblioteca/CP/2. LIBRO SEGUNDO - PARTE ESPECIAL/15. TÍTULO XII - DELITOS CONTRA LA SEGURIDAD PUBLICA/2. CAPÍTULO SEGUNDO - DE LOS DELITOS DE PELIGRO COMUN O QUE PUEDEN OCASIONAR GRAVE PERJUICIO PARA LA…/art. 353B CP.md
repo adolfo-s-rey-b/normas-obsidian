@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "353B"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XII|TÍTULO XII - DELITOS CONTRA LA SEGURIDAD PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XII - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LOS DELITOS DE PELIGRO COMUN O QUE PUEDEN OCASIONAR GRAVE PERJUICIO PARA LA COMUNIDAD Y OTRAS INFRACCIONES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XII|Título XII]] › [[CP - Libro Segundo - Título XII - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 353B. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 353B. Circunstancias de agravación punitiva
 
 La pena imponible para la conducta descrita en el artículo anterior se aumentará de la mitad a las dos terceras partes, si la conducta la realiza así:
 

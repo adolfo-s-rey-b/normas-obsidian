@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "50"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 50. TRÁMITE
+## Artículo 50. Trámite
 
 Si el juez halla procedente el llamamiento, ordenará notificar personalmente al convocado y correrle traslado del mismo y de la demanda con sus anexos por el término previsto para su contestación. Si la notificación no se logra dentro de los seis (6) meses siguientes, el llamamiento será ineficaz. La misma regla se aplicará en el caso contemplado en el inciso segundo del artículo anterior.
 

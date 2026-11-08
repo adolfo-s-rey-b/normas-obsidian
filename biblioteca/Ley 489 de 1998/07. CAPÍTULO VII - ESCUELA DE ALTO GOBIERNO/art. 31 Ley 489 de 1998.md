@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "31"
-epigrafe: "PARTICIPANTES"
+epigrafe: "Participantes"
 capitulo: "[[Ley 489 de 1998 - Capítulo VII|CAPÍTULO VII - ESCUELA DE ALTO GOBIERNO]]"
 vigencia: "vigente"
 anterior: "[[art. 30 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo VII|Capítulo VII]]
 
-## Artículo 31. PARTICIPANTES
+## Artículo 31. Participantes
 
 Los servidores públicos de los niveles que determine el Gobierno Nacional, deberán participar como mínimo, en los programas de inducción de la Escuela de Alto Gobierno, preferentemente antes de tomar posesión del cargo o durante el primer mes de ejercicio de sus funciones.
 

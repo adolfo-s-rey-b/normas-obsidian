@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "167"
-epigrafe: "INFORMACIÓN ACERCA DE LA EJECUCIÓN DE LA SENTENCIA"
+epigrafe: "Información acerca de la ejecución de la sentencia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo V|CAPÍTULO V - PROVIDENCIAS JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 167. INFORMACIÓN ACERCA DE LA EJECUCIÓN DE LA SENTENCIA
+## Artículo 167. Información acerca de la ejecución de la sentencia
 
 Los jueces de ejecución de penas y medidas de seguridad informarán a la Fiscalía General de la Nación acerca de las decisiones adoptadas por su despacho, que afecten la vigencia de la condena o redosifique la pena impuesta, con el fin de realizar las respectivas actualizaciones en las bases de datos que se lleven.
 

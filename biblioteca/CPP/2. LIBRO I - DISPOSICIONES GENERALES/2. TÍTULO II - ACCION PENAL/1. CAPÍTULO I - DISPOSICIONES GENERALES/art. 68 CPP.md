@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "68"
-epigrafe: "EXONERACIÓN DEL DEBER DE DENUNCIAR"
+epigrafe: "Exoneración del deber de denunciar"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 68. EXONERACIÓN DEL DEBER DE DENUNCIAR
+## Artículo 68. Exoneración del deber de denunciar
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

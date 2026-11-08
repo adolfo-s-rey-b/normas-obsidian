@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 45 Ley 1480 de 2011|Artículo 45]] — ESTIPULACIONES ESPECIALES
+- [[art. 45 Ley 1480 de 2011|Artículo 45]] — Estipulaciones especiales
 
 ---
 ← [[Ley 1480 de 2011 - Título VII - Capítulo III|Capítulo III]] · ↑ [[Ley 1480 de 2011 - Título VII|Título VII]] · [[Ley 1480 de 2011 - Título VII - Capítulo V|Capítulo V]] →

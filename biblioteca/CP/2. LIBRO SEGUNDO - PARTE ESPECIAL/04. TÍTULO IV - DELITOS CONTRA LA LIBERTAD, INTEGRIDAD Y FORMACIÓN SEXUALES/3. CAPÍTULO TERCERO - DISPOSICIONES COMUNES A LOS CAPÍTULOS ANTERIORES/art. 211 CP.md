@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "211"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA"
+epigrafe: "Circunstancias de agravación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IV|TÍTULO IV - DELITOS CONTRA LA LIBERTAD, INTEGRIDAD Y FORMACIÓN SEXUALES]]"
 capitulo: "[[CP - Libro Segundo - Título IV - Capítulo Tercero|CAPÍTULO TERCERO - DISPOSICIONES COMUNES A LOS CAPÍTULOS ANTERIORES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IV|Título IV]] › [[CP - Libro Segundo - Título IV - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 211. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
+## Artículo 211. Circunstancias de agravación punitiva
 
 Las penas para los delitos descritos en los artículos anteriores, se aumentarán de una tercera parte a la mitad, cuando:
 

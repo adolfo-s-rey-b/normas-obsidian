@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "55"
-epigrafe: "PROCESOS DE INTERDICCIÓN O INHABILITACIÓN EN CURSO"
+epigrafe: "Procesos de interdicción o inhabilitación en curso"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE TRANSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 54 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 55. PROCESOS DE INTERDICCIÓN O INHABILITACIÓN EN CURSO
+## Artículo 55. Procesos de interdicción o inhabilitación en curso
 
 Aquellos procesos de interdicción o inhabilitación que se hayan iniciado con anterioridad a la promulgación de la presente ley deberán ser suspendidos de forma inmediata. El juez podrá decretar, de manera excepcional, el levantamiento de la suspensión y la aplicación de medidas cautelares, nominadas o innominadas, cuando lo considere pertinente para garantizar la protección y disfrute de los derechos patrimoniales de la persona con discapacidad.
 

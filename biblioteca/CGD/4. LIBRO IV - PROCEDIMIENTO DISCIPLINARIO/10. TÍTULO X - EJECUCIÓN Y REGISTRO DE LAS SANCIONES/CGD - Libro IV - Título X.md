@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 236 CGD|Artículo 236]] — FUNCIONARIOS COMPETENTES PARA LA EJECUCIÓN DE LAS SANCIONES
-- [[art. 237 CGD|Artículo 237]] — PAGO Y PLAZO DE LA MULTA
-- [[art. 238 CGD|Artículo 238]] — REGISTRO DE SANCIONES
+- [[art. 236 CGD|Artículo 236]] — Funcionarios competentes para la ejecución de las sanciones
+- [[art. 237 CGD|Artículo 237]] — Pago y plazo de la multa
+- [[art. 238 CGD|Artículo 238]] — Registro de sanciones
 
 ---
 ← [[CGD - Libro IV - Título IX|Título IX]] · ↑ [[CGD - Libro IV|Libro IV]] · [[CGD - Libro IV - Título|Título]] →

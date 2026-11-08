@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "267"
-epigrafe: "OPERACIONES AUTORIZADAS"
+epigrafe: "Operaciones Autorizadas"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VII|CAPÍTULO VII - BANCO CAFETERO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VII|Capítulo VII]]
 
-## Artículo 267. OPERACIONES AUTORIZADAS
+## Artículo 267. Operaciones Autorizadas
 
 El Banco Cafetero podrá realizar todas las operaciones propias de los establecimientos bancarios de carácter comercial.
 

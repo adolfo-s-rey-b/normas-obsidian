@@ -34,14 +34,14 @@ tags:
 - [[art. 11 CST|Artículo 11]] — DERECHO AL TRABAJO
 - [[art. 12 CST|Artículo 12]] — DERECHOS DE ASOCIACION Y HUELGA
 - [[art. 13 CST|Artículo 13]] — MINIMO DE DERECHOS Y GARANTIAS
-- [[art. 14 CST|Artículo 14]] — CARACTER DE ORDEN PUBLICO. IRRENUNCIABILIDAD
+- [[art. 14 CST|Artículo 14]] — CARACTER DE ORDEN PÚBLICO. IRRENUNCIABILIDAD
 - [[art. 15 CST|Artículo 15]] — VALIDEZ DE LA TRANSACCION
 - [[art. 16 CST|Artículo 16]] — EFECTO
 - [[art. 17 CST|Artículo 17]] — ORGANOS DE CONTROL
 - [[art. 18 CST|Artículo 18]] — NORMA GENERAL DE INTERPRETACION
 - [[art. 19 CST|Artículo 19]] — NORMAS DE APLICACION SUPLETORIA
 - [[art. 20 CST|Artículo 20]] — CONFLICTOS DE LEYES
-- [[art. 21 CST|Artículo 21]] — NORMAS MAS FAVORABLES
+- [[art. 21 CST|Artículo 21]] — NORMAS MÁS FAVORABLES
 
 ---
 ↑ [[CST|CST]] · [[CST - Título I|Título I]] →

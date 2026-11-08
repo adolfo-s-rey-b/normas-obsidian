@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "528"
-epigrafe: "AUDIENCIA INICIAL"
+epigrafe: "Audiencia inicial"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título III|TÍTULO III - DISOLUCIÓN, NULIDAD Y LIQUIDACIÓN DE SOCIEDADES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título III|Título III]]
 
-## Artículo 528. AUDIENCIA INICIAL
+## Artículo 528. Audiencia inicial
 
 En la audiencia inicial el juez instará a los socios a conciliar las diferencias y a designar liquidador.
 

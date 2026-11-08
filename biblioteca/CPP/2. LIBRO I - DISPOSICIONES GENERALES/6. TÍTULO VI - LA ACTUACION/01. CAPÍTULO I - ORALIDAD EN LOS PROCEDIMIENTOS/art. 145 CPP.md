@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "145"
-epigrafe: "ORALIDAD EN LA ACTUACIÓN"
+epigrafe: "Oralidad en la actuación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo I|CAPÍTULO I - ORALIDAD EN LOS PROCEDIMIENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 145. ORALIDAD EN LA ACTUACIÓN
+## Artículo 145. Oralidad en la actuación
 
 Todos los procedimientos de la actuación, tanto preprocesales como procesales, serán orales.
 

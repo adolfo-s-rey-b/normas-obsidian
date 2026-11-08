@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "9"
-epigrafe: "SUSPENSIÓN Y AMPLIACIÓN DEL PLAZO DE LA GARANTÍA"
+epigrafe: "Suspensión y ampliación del plazo de la garantía"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 9. SUSPENSIÓN Y AMPLIACIÓN DEL PLAZO DE LA GARANTÍA
+## Artículo 9. Suspensión y ampliación del plazo de la garantía
 
 El término de la garantía se suspenderá mientras el consumidor esté privado del uso del producto con ocasión de la efectividad de la garantía.
 

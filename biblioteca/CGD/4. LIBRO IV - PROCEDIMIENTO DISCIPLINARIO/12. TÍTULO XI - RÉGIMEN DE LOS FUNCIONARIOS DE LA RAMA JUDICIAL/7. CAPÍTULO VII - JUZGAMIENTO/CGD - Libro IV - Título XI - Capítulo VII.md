@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 254 CGD|Artículo 254]] — JUZGAMIENTO DISCIPLINARIO JURISDICCIONAL
+- [[art. 254 CGD|Artículo 254]] — Juzgamiento disciplinario Jurisdiccional
 - [[art. 255 CGD|Artículo 255]]
 
 ---

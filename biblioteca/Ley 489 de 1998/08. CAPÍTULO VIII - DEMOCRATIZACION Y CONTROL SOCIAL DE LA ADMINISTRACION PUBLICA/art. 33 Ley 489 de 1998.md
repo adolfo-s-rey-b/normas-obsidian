@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "33"
-epigrafe: "AUDIENCIAS PUBLICAS"
+epigrafe: "Audiencias públicas"
 capitulo: "[[Ley 489 de 1998 - Capítulo VIII|CAPÍTULO VIII - DEMOCRATIZACION Y CONTROL SOCIAL DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 32 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 33. AUDIENCIAS PUBLICAS
+## Artículo 33. Audiencias públicas
 
 Cuando la administración lo considere conveniente y oportuno, se podrán convocar a audiencias públicas en las cuales se discutirán aspectos relacionados con la formulación, ejecución o evaluación de políticas y programas a cargo de la entidad, y en especial cuando esté de por medio la afectación de derechos o intereses colectivos.
 

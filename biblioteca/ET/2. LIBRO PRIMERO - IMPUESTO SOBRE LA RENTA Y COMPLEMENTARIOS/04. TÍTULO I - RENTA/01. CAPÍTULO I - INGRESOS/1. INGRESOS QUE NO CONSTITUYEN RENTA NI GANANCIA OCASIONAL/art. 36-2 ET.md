@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "36-2"
-epigrafe: "DISTRIBUCIÓN DE UTILIDADES O RESERVAS EN ACCIONES O CUOTAS DE INTERES SOCIAL"
+epigrafe: "DISTRIBUCIÓN DE UTILIDADES O RESERVAS EN ACCIONES O CUOTAS DE INTERÉS SOCIAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]
 
-## Artículo 36-2. DISTRIBUCIÓN DE UTILIDADES O RESERVAS EN ACCIONES O CUOTAS DE INTERES SOCIAL
+## Artículo 36-2. DISTRIBUCIÓN DE UTILIDADES O RESERVAS EN ACCIONES O CUOTAS DE INTERÉS SOCIAL
 
 El valor fiscal por el cual se reciben los dividendos o participaciones en acciones o cuotas de interés social, provenientes de la distribución de utilidades o reservas que sean susceptibles de distribuirse como no gravadas, es el valor de las utilidades o reservas distribuidas.
 

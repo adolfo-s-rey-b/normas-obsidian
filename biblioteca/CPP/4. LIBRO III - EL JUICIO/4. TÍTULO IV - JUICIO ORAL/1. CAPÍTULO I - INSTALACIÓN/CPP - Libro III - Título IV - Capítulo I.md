@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 366 CPP|Artículo 366]] — INICIO DEL JUICIO ORAL
-- [[art. 367 CPP|Artículo 367]] — ALEGACIÓN INICIAL
-- [[art. 368 CPP|Artículo 368]] — CONDICIONES DE VALIDEZ DE LA MANIFESTACIÓN
-- [[art. 369 CPP|Artículo 369]] — MANIFESTACIONES DE CULPABILIDAD PREACORDADAS
-- [[art. 370 CPP|Artículo 370]] — DECISIÓN DEL JUEZ
+- [[art. 366 CPP|Artículo 366]] — Inicio del juicio oral
+- [[art. 367 CPP|Artículo 367]] — Alegación inicial
+- [[art. 368 CPP|Artículo 368]] — Condiciones de validez de la manifestación
+- [[art. 369 CPP|Artículo 369]] — Manifestaciones de culpabilidad preacordadas
+- [[art. 370 CPP|Artículo 370]] — Decisión del juez
 
 ---
 ↑ [[CPP - Libro III - Título IV|Título IV]] · [[CPP - Libro III - Título IV - Capítulo II|Capítulo II]] →

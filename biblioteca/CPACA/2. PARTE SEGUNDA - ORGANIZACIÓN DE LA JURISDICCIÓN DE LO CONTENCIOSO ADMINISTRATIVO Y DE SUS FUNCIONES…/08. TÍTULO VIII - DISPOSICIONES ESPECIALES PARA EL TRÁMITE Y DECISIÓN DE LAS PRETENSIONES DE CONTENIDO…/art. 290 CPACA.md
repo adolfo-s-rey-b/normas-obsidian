@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "290"
-epigrafe: "ACLARACIÓN DE LA SENTENCIA"
+epigrafe: "Aclaración de la sentencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 290. ACLARACIÓN DE LA SENTENCIA
+## Artículo 290. Aclaración de la sentencia
 
 (sic) Hasta los dos (2) días siguientes a aquel en el cual quede notifica , podrán las partes o el Ministerio Público pedir que la sentencia se aclare. La aclaración se hará por medio de auto que se notificará por estado al día siguiente de dictado y contra él no será admisible recurso alguno. En la misma forma se procederá cuando la aclaración sea denegada.
 

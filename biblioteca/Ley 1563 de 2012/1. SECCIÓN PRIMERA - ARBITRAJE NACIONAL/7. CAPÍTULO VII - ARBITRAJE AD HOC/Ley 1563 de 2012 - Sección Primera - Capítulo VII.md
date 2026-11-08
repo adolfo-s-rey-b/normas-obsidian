@@ -21,11 +21,11 @@ tags:
 
 ### Contenido
 
-- [[art. 53 Ley 1563 de 2012|Artículo 53]] — DESIGNACIÓN DE ÁRBITROS EN EL ARBITRAJE AD HOC
-- [[art. 54 Ley 1563 de 2012|Artículo 54]] — ACEPTACIÓN DE LOS ÁRBITROS
-- [[art. 55 Ley 1563 de 2012|Artículo 55]] — DEBER DE INFORMACIÓN E IMPEDIMENTOS Y RECUSACIONES
-- [[art. 56 Ley 1563 de 2012|Artículo 56]] — INSTALACIÓN DEL TRIBUNAL
-- [[art. 57 Ley 1563 de 2012|Artículo 57]] — TRÁMITE
+- [[art. 53 Ley 1563 de 2012|Artículo 53]] — Designación de árbitros en el arbitraje ad hoc
+- [[art. 54 Ley 1563 de 2012|Artículo 54]] — Aceptación de los árbitros
+- [[art. 55 Ley 1563 de 2012|Artículo 55]] — Deber de información e impedimentos y recusaciones
+- [[art. 56 Ley 1563 de 2012|Artículo 56]] — Instalación del tribunal
+- [[art. 57 Ley 1563 de 2012|Artículo 57]] — Trámite
 
 ---
 ← [[Ley 1563 de 2012 - Sección Primera - Capítulo VI|Capítulo VI]] · ↑ [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] · [[Ley 1563 de 2012 - Sección Primera - Capítulo VIII|Capítulo VIII]] →

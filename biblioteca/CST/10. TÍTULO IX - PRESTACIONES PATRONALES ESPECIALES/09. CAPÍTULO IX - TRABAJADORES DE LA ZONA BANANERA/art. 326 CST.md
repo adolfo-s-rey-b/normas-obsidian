@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "326"
-epigrafe: "ASISTENCIA MEDICA"
+epigrafe: "ASISTENCIA MÉDICA"
 titulo: "[[CST - Título IX|TÍTULO IX - PRESTACIONES PATRONALES ESPECIALES]]"
 capitulo: "[[CST - Título IX - Capítulo IX|CAPÍTULO IX - TRABAJADORES DE LA ZONA BANANERA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título IX|Título IX]] › [[CST - Título IX - Capítulo IX|Capítulo IX]]
 
-## Artículo 326. ASISTENCIA MEDICA
+## Artículo 326. ASISTENCIA MÉDICA
 
 1\. Toda empresa agrícola de la zona bananera del departamento del Magdalena que tenga a su servicio más de cinco (5) trabajadores de carácter permanente tiene como obligación especial la de suministrar asistencia médica, quirúrgica, hospitalaria y farmacéutica, en caso de enfermedad no profesional, y hasta por seis (6) meses, cuando su capital exceda de doscientos mil pesos ($200.000), y hasta por tres (3) meses, cuando su capital sea igual o inferior a esa suma.
 

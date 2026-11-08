@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "601"
-epigrafe: "SECUESTRO DE BIENES SUJETOS A REGISTRO"
+epigrafe: "Secuestro de bienes sujetos a registro"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo II|CAPÍTULO II - MEDIDAS CAUTELARES EN PROCESOS EJECUTIVOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 601. SECUESTRO DE BIENES SUJETOS A REGISTRO
+## Artículo 601. Secuestro de bienes sujetos a registro
 
 El secuestro de bienes sujetos a registro sólo se practicará una vez se haya inscrito el embargo. En todo caso, debe perfeccionarse antes de que se ordene el remate; en el evento de levantarse el secuestro, se aplicará lo dispuesto en el numeral 3 del artículo [[art. 596 CGP|596]].
 

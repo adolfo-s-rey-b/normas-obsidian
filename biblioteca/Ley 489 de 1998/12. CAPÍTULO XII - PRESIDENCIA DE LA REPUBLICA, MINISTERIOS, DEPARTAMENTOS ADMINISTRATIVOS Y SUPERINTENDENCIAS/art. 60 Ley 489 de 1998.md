@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "60"
-epigrafe: "DIRECCION DE LOS MINISTERIOS"
+epigrafe: "Dirección de los ministerios"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 59 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 60. DIRECCION DE LOS MINISTERIOS
+## Artículo 60. Dirección de los ministerios
 
 La dirección de los ministerios corresponde al Ministro, quien la ejercerá con la inmediata colaboración del viceministro o viceministros.
 

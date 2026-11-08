@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "330"
-epigrafe: "VIGENCIA Y RÉGIMEN DE TRANSICIÓN"
+epigrafe: "Vigencia y Régimen de transición"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo VII|CAPÍTULO VII - VIGENCIA, TRANSICIÓN Y DEROGATORIAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo VII|Capítulo VII]]
 
-## Artículo 330. VIGENCIA Y RÉGIMEN DE TRANSICIÓN
+## Artículo 330. Vigencia y Régimen de transición
 
 El presente código entrará en vigencia un (1) año después de su publicación. Todos los procesos iniciados con anterioridad a la vigencia de este código se continuarán tramitando por las normas procesales anteriores.
 

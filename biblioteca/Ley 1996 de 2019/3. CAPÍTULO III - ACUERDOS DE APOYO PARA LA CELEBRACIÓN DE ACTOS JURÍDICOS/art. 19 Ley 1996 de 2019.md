@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "19"
-epigrafe: "ACUERDOS DE APOYO COMO REQUISITO DE VALIDEZ PARA LA REALIZACIÓN DE ACTOS JURÍDICOS"
+epigrafe: "Acuerdos de apoyo como requisito de validez para la realización de actos jurídicos"
 capitulo: "[[Ley 1996 de 2019 - Capítulo III|CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 18 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo III|Capítulo III]]
 
-## Artículo 19. ACUERDOS DE APOYO COMO REQUISITO DE VALIDEZ PARA LA REALIZACIÓN DE ACTOS JURÍDICOS
+## Artículo 19. Acuerdos de apoyo como requisito de validez para la realización de actos jurídicos
 
 La persona titular del acto jurídico que cuente con un acuerdo de apoyos vigente para la celebración de determinados actos jurídicos, deberá utilizarlos, al momento de la celebración de dichos actos jurídicos, como requisito de validez de los mismos.
 

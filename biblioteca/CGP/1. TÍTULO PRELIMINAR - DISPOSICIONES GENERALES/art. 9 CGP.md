@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "9"
-epigrafe: "INSTANCIAS"
+epigrafe: "Instancias"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 8 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 9. INSTANCIAS
+## Artículo 9. Instancias
 
 Los procesos tendrán dos instancias a menos que la ley establezca una sola.
 

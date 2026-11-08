@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "121"
-epigrafe: "ALIANZAS ESTRATÉGICAS"
+epigrafe: "Alianzas estratégicas"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|SECCIÓN SEGUNDA - MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|Sección Segunda]]
 
-## Artículo 121. ALIANZAS ESTRATÉGICAS
+## Artículo 121. Alianzas estratégicas
 
 Las Contralorías Territoriales realizarán alianzas estratégicas con la academia y otras organizaciones de estudios e investigación social para la conformación de equipos especializados de veedores ciudadanos, con el propósito de ejercer con fines preventivos el control fiscal social a la formulación y presupuestación de las políticas públicas y los recursos del erario comprometidos en su ejecución.
 

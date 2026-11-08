@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 161 CPACA|Artículo 161]] — REQUISITOS PREVIOS PARA DEMANDAR
+- [[art. 161 CPACA|Artículo 161]] — Requisitos previos para demandar
 
 ---
 ← [[CPACA - Parte Segunda - Título V - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo III|Capítulo III]] →

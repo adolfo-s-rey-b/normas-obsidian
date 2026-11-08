@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "11"
-epigrafe: "CONTROL Y VIGILANCIA EN EL SECTOR DE LA SEGURIDAD SOCIAL EN SALUD"
+epigrafe: "Control y vigilancia en el sector de la seguridad social en salud"
 capitulo: "[[Ley 1474 de 2011 - Capítulo I (2)|CAPÍTULO I - <sic, es II>]]"
 rubro: "[[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo I (2)|Capítulo I]] › [[Ley 1474 de 2011 - Capítulo I - Medidas administrativas para la lucha contra la…|Medidas administrativas para la lucha contra la…]]
 
-## Artículo 11. CONTROL Y VIGILANCIA EN EL SECTOR DE LA SEGURIDAD SOCIAL EN SALUD
+## Artículo 11. Control y vigilancia en el sector de la seguridad social en salud
 
 1\. Obligación y control. Las instituciones sometidas al control y vigilancia de la Superintendencia Nacional de Salud, estarán obligadas a adoptar medidas de control apropiadas y suficientes, orientadas a evitar que se generen fraudes en el sistema de seguridad social en salud.
 

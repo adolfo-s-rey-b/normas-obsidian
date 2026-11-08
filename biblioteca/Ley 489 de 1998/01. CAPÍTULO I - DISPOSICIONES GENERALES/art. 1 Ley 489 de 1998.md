@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "1"
-epigrafe: "OBJETO"
+epigrafe: "Objeto"
 capitulo: "[[Ley 489 de 1998 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 siguiente: "[[art. 2 Ley 489 de 1998]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo I|Capítulo I]]
 
-## Artículo 1. OBJETO
+## Artículo 1. Objeto
 
 La presente ley regula el ejercicio de la función administrativa, determina la estructura y define los principios y reglas básicas de la organización y funcionamiento de la Administración Pública.
 

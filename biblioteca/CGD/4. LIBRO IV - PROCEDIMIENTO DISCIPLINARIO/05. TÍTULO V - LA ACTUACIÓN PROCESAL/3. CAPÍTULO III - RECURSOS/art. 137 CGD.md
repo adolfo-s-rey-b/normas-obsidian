@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "137"
-epigrafe: "TRÁMITE DEL RECURSO DE QUEJA"
+epigrafe: "Trámite del recurso de queja"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo III|CAPÍTULO III - RECURSOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 137. TRÁMITE DEL RECURSO DE QUEJA
+## Artículo 137. Trámite del recurso de queja
 
 Dentro del término de ejecutoria de la decisión que niega el recurso de apelación, se podrá interponer y sustentar el recurso de queja. Si no se hiciere oportunamente, se rechazará.
 

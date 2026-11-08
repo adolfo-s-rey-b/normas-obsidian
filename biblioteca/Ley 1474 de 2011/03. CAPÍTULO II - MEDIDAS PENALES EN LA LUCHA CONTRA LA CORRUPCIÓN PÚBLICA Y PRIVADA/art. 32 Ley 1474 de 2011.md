@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "32"
-epigrafe: "SOBORNO EN LA ACTUACIÓN PENAL"
+epigrafe: "Soborno en la actuación penal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 31 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 32. SOBORNO EN LA ACTUACIÓN PENAL
+## Artículo 32. Soborno en la actuación penal
 
 Modifíquese el artículo [[art. 444 CP|444]]-A de la Ley 599 de 2000, que quedará así:
 

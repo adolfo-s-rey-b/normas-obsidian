@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 227 EOSF|Artículo 227]] — ORGANIZACION
-- [[art. 228 EOSF|Artículo 228]] — DIRECCION Y ADMINISTRACION
-- [[art. 229 EOSF|Artículo 229]] — REGIMEN PATRIMONIAL Y FINANCIERO
-- [[art. 230 EOSF|Artículo 230]] — OPERACIONES
-- [[art. 231 EOSF|Artículo 231]] — FONDO AGROPECUARIO DE GARANTIAS
-- [[art. 232 EOSF|Artículo 232]] — DISPOSICIONES FINALES
+- [[art. 227 EOSF|Artículo 227]] — Organización
+- [[art. 228 EOSF|Artículo 228]] — Dirección y Administración
+- [[art. 229 EOSF|Artículo 229]] — Régimen Patrimonial y Financiero
+- [[art. 230 EOSF|Artículo 230]] — Operaciones
+- [[art. 231 EOSF|Artículo 231]] — Fondo Agropecuario de Garantías
+- [[art. 232 EOSF|Artículo 232]] — Disposiciones Finales
 
 ---
 ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo II|Capítulo II]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "263"
-epigrafe: "CONSIDERACIÓN DE PRUEBAS PEDIDAS EN TIEMPO"
+epigrafe: "Consideración de pruebas pedidas en tiempo"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 263. CONSIDERACIÓN DE PRUEBAS PEDIDAS EN TIEMPO
+## Artículo 263. Consideración de pruebas pedidas en tiempo
 
 Las pruebas pedidas en tiempo y que habiendo sido decretadas, no se allegaron oportunamente en primera instancia, deberán ser consideradas por el superior cuando lleguen a su estudio por apelación o consulta, previo traslado a las partes.
 

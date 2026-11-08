@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "90"
-epigrafe: "TERMINACIÓN DEL PROCESO DISCIPLINARIO"
+epigrafe: "Terminación del proceso disciplinario"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título I|TÍTULO I - LA ACCIÓN DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título I|Título I]]
 
-## Artículo 90. TERMINACIÓN DEL PROCESO DISCIPLINARIO
+## Artículo 90. Terminación del proceso disciplinario
 
 En cualquier etapa de la actuación disciplinaria en que aparezca plenamente demostrado que el hecho atribuido no existió, que la conducta no está prevista en la ley como falta disciplinaria, que el disciplinado no la cometió, que existe una causal de exclusión de responsabilidad, o que la actuación no podía iniciarse o proseguirse, el funcionario del conocimiento, mediante decisión motivada, así lo declarará y ordenará el archivo definitivo de las diligencias, la que será comunicada al quejoso.
 

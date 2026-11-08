@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "207"
-epigrafe: "PROGRAMA METODOLÓGICO"
+epigrafe: "Programa metodológico"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 207. PROGRAMA METODOLÓGICO
+## Artículo 207. Programa metodológico
 
 Recibido el informe de que trata el artículo [[art. 205 CPP|205]], el fiscal encargado de coordinar la investigación dispondrá, si fuere el caso, la ratificación de los actos de investigación y la realización de reunión de trabajo con los miembros de la policía judicial. Si la complejidad del asunto lo amerita, el fiscal dispondrá, previa autorización del jefe de la unidad a que se encuentre adscrito, la ampliación del equipo investigativo.
 

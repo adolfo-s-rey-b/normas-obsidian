@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "843-2"
-epigrafe: "APLICACIÓN DE DEPOSITOS"
+epigrafe: "APLICACIÓN DE DEPÓSITOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VIII|TÍTULO VIII - COBRO COACTIVO]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VIII|Título VIII]]
 
-## Artículo 843-2. APLICACIÓN DE DEPOSITOS
+## Artículo 843-2. APLICACIÓN DE DEPÓSITOS
 
 Los títulos de depósito que se efectúen a favor de la Administración de Impuestos Nacionales y que correspondan a procesos administrativos de cobro, adelantados por dicha entidad, que no fueren reclamados por el contribuyente dentro del año siguiente a la terminación del proceso, así como aquellos de los cuales no se hubiere localizado su titular, ingresarán como recursos del Fondo de Gestión Tributaria.
 

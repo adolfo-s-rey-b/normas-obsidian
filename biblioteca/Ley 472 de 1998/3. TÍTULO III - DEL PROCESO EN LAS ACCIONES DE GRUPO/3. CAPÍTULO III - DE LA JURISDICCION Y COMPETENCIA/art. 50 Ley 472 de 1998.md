@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "50"
-epigrafe: "JURISDICCION"
+epigrafe: "Jurisdicción"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo III|CAPÍTULO III - DE LA JURISDICCION Y COMPETENCIA]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 50. JURISDICCION
+## Artículo 50. Jurisdicción
 
 La jurisdicción de lo Contencioso Administrativo conocerá de los procesos que se susciten con ocasión del ejercicio de las acciones de grupo originadas en la actividad de las entidades públicas y de las personas privadas que desempeñen funciones administrativas.
 

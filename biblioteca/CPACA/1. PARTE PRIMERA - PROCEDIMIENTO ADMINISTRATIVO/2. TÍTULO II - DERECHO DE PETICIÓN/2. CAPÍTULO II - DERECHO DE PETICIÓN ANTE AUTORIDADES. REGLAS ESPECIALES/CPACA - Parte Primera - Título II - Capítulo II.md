@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 24 CPACA|Artículo 24]] — INFORMACIONES Y DOCUMENTOS RESERVADOS
-- [[art. 25 CPACA|Artículo 25]] — RECHAZO DE LAS PETICIONES DE INFORMACIÓN POR MOTIVO DE RESERVA
-- [[art. 26 CPACA|Artículo 26]] — INSISTENCIA DEL SOLICITANTE EN CASO DE RESERVA
-- [[art. 27 CPACA|Artículo 27]] — INAPLICABILIDAD DE LAS EXCEPCIONES
-- [[art. 28 CPACA|Artículo 28]] — ALCANCE DE LOS CONCEPTOS
-- [[art. 29 CPACA|Artículo 29]] — REPRODUCCIÓN DE DOCUMENTOS
-- [[art. 30 CPACA|Artículo 30]] — PETICIONES ENTRE AUTORIDADES
-- [[art. 31 CPACA|Artículo 31]] — FALTA DISCIPLINARIA
+- [[art. 24 CPACA|Artículo 24]] — Informaciones y documentos reservados
+- [[art. 25 CPACA|Artículo 25]] — Rechazo de las peticiones de información por motivo de reserva
+- [[art. 26 CPACA|Artículo 26]] — Insistencia del solicitante en caso de reserva
+- [[art. 27 CPACA|Artículo 27]] — Inaplicabilidad de las excepciones
+- [[art. 28 CPACA|Artículo 28]] — Alcance de los conceptos
+- [[art. 29 CPACA|Artículo 29]] — Reproducción de documentos
+- [[art. 30 CPACA|Artículo 30]] — Peticiones entre autoridades
+- [[art. 31 CPACA|Artículo 31]] — Falta disciplinaria
 
 ---
 ← [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]] · ↑ [[CPACA - Parte Primera - Título II|Título II]] · [[CPACA - Parte Primera - Título II - Capítulo III|Capítulo III]] →

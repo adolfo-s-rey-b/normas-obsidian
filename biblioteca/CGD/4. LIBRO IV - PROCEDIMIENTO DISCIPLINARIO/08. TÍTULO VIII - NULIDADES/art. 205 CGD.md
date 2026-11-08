@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "205"
-epigrafe: "EFECTOS DE LA DECLARATORIA DE NULIDAD"
+epigrafe: "Efectos de la declaratoria de nulidad"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VIII|TÍTULO VIII - NULIDADES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VIII|Título VIII]]
 
-## Artículo 205. EFECTOS DE LA DECLARATORIA DE NULIDAD
+## Artículo 205. Efectos de la declaratoria de nulidad
 
 La declaratoria de nulidad afectará la actuación disciplinaria desde el momento en que se presente la causal. Así lo señalará el funcionario competente y ordenará que se reponga la actuación que dependa de la decisión declarada nula.
 

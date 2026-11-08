@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "72"
-epigrafe: "EXTENSIÓN DE LA QUERELLA"
+epigrafe: "Extensión de la querella"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 72. EXTENSIÓN DE LA QUERELLA
+## Artículo 72. Extensión de la querella
 
 Artículo modificado por el artículo [[art. 3 Ley 1826 de 2017|3]] de la Ley 1826 de 2017. El nuevo texto es el siguiente:> La querella se extiende de derecho contra todos los que hubieren participado en la conducta punible.
 

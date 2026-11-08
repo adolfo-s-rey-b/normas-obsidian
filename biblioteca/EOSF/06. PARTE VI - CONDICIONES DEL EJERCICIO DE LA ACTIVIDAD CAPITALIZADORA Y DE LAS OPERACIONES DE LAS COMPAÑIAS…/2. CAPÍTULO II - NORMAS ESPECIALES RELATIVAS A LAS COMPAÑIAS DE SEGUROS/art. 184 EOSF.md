@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "184"
-epigrafe: "REGIMEN DE POLIZAS Y TARIFAS"
+epigrafe: "Régimen de Pólizas y Tarifas"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo II|CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo II|Capítulo II]]
 
-## Artículo 184. REGIMEN DE POLIZAS Y TARIFAS
+## Artículo 184. Régimen de Pólizas y Tarifas
 
 1\. Modelos de pólizas y tarifas. La autorización previa de la Superinten-dencia Bancaria de los modelos de las pólizas y tarifas será necesaria cuando se trate de la autorización inicial a una entidad aseguradora o para la explotación de un nuevo ramo.
 

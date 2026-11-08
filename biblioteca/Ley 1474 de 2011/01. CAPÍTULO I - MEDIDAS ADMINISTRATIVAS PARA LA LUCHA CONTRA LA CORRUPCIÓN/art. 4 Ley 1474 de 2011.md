@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "4"
-epigrafe: "INHABILIDAD PARA QUE EX EMPLEADOS PÚBLICOS CONTRATEN CON EL ESTADO"
+epigrafe: "Inhabilidad para que ex empleados públicos contraten con el Estado"
 capitulo: "[[Ley 1474 de 2011 - Capítulo I|CAPÍTULO I - MEDIDAS ADMINISTRATIVAS PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 3 Ley 1474 de 2011]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo I|Capítulo I]]
 
-## Artículo 4. INHABILIDAD PARA QUE EX EMPLEADOS PÚBLICOS CONTRATEN CON EL ESTADO
+## Artículo 4. Inhabilidad para que ex empleados públicos contraten con el Estado
 
 Adiciónase un literal f) al numeral 2 del artículo [[art. 8 Ley 80 de 1993|8]]o de la Ley 80 de 1993, el cual quedará así:
 

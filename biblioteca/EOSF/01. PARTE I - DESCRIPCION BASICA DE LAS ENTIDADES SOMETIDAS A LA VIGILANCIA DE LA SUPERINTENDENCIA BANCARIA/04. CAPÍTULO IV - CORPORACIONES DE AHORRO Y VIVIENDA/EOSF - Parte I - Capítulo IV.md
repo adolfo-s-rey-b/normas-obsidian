@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 18 EOSF|Artículo 18]] — OBJETO
+- [[art. 18 EOSF|Artículo 18]] — Objeto
 - [[art. 19 EOSF|Artículo 19]] — Operaciones Activas de Crédito
 - [[art. 20 EOSF|Artículo 20]] — Inversiones. ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia
 - [[art. 21 EOSF|Artículo 21]] — Operaciones Pasivas. ARTÍCULO declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "755"
-epigrafe: "LA OMISION DEL NIT O DEL NOMBRE EN LA CORRESPONDENCIA, FACTURAS Y RECIBOS PERMITEN PRESUMIR INGRESOS"
+epigrafe: "LA OMISIÓN DEL NIT O DEL NOMBRE EN LA CORRESPONDENCIA, FACTURAS Y RECIBOS PERMITEN PRESUMIR INGRESOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Indicios y presunciones|Indicios y presunciones]]
 
-## Artículo 755. LA OMISION DEL NIT O DEL NOMBRE EN LA CORRESPONDENCIA, FACTURAS Y RECIBOS PERMITEN PRESUMIR INGRESOS
+## Artículo 755. LA OMISIÓN DEL NIT O DEL NOMBRE EN LA CORRESPONDENCIA, FACTURAS Y RECIBOS PERMITEN PRESUMIR INGRESOS
 
 El incumplimiento del deber contemplado en el artículo [[art. 619 ET|619]], hará presumir la omisión de pagos declarados por terceros, por parte del presunto beneficiario de los mismos.
 

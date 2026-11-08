@@ -12,7 +12,7 @@ epigrafe: "TÍTULOS NO JUSTOS"
 libro: "[[CC - Libro Segundo|LIBRO SEGUNDO - DE LOS BIENES Y DE SU DOMINIO, POSESION, USO Y GOCE]]"
 titulo: "[[CC - Libro Segundo - Título VII|TÍTULO VII - DE LA POSESIÓN]]"
 capitulo: "[[CC - Libro Segundo - Título VII - Capítulo I|CAPÍTULO I - DE LA POSESIÓN Y SUS DIFERENTES CALIDADES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 765 CC]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Segundo|Libro Segundo]] › [[CC - Libro Segundo - Título VII|Título VII]] › [[CC - Libro Segundo - Título VII - Capítulo I|Capítulo I]]

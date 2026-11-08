@@ -27,7 +27,7 @@ tags:
 - [[art. 807 ET|Artículo 807]] — CÁLCULO Y APLICACIÓN DEL ANTICIPO
 - [[art. 808 ET|Artículo 808]] — FACULTAD PARA REDUCIR EL ANTICIPO EN FORMA GENERAL
 - [[art. 809 ET|Artículo 809]] — AUTORIZACIÓN DE LA REDUCCIÓN EN CASOS INDIVIDUALES
-- [[art. 810 ET|Artículo 810]] — TERMINO PARA DECIDIR SOBRE LA SOLICITUD DE REDUCCIÓN
+- [[art. 810 ET|Artículo 810]] — TÉRMINO PARA DECIDIR SOBRE LA SOLICITUD DE REDUCCIÓN
 
 ---
 ← [[ET - Libro Quinto - Título VII - Capítulo II - Pago de impuestos con bonos y titulos|Pago de impuestos con bonos y titulos]] · ↑ [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] · [[ET - Libro Quinto - Título VII - Capítulo II - Plazos para el pago de los impuestos, anticipos y…|Plazos para el pago de los impuestos, anticipos y…]] →

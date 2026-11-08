@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "88"
-epigrafe: "DIRECCION Y ADMINISTRACION DE LAS EMPRESAS"
+epigrafe: "Dirección y administración de las empresas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 87 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 88. DIRECCION Y ADMINISTRACION DE LAS EMPRESAS
+## Artículo 88. Dirección y administración de las empresas
 
 La dirección y administración de las empresas industriales y comerciales del Estado estará a cargo de una Junta Directiva y de un Gerente o Presidente.
 

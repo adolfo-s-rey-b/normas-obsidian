@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "257"
-epigrafe: "DEBERES, PROHIBICIONES, INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES"
+epigrafe: "Deberes, prohibiciones, inhabilidades, impedimentos, incompatibilidades y conflicto de intereses"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE LOS CONJUECES Y JUECES DE PAZ]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 257. DEBERES, PROHIBICIONES, INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES
+## Artículo 257. Deberes, prohibiciones, inhabilidades, impedimentos, incompatibilidades y conflicto de intereses
 
 El régimen disciplinario para los Conjueces en la Rama Judicial ~~y los jueces de paz~~ comprende el catálogo de deberes y prohibiciones previstas en la Ley Estatutaria de la Administración de Justicia, en cuanto resulten compatibles con la función respecto del caso en que deban actuar, y el de inhabilidades, incompatibilidades, impedimentos y conflictos de intereses previstos en dicha ley y en las demás disposiciones que los regulen.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "168"
-epigrafe: "CRITERIO GENERAL"
+epigrafe: "Criterio general"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo VI|CAPÍTULO VI - NOTIFICACIÓN DE LAS PROVIDENCIAS, CITACIONES, Y COMUNICACIONES ENTRE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 168. CRITERIO GENERAL
+## Artículo 168. Criterio general
 
 Se notificarán las sentencias y los autos.
 

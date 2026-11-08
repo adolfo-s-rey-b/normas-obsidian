@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "63"
-epigrafe: "PRESIDENCIA DE LA COMISIÓN"
+epigrafe: "Presidencia de la Comisión"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 62 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 63. PRESIDENCIA DE LA COMISIÓN
+## Artículo 63. Presidencia de la Comisión
 
 La Presidencia de la Comisión Nacional para la Moralización corresponderá al Presidente de la República.
 

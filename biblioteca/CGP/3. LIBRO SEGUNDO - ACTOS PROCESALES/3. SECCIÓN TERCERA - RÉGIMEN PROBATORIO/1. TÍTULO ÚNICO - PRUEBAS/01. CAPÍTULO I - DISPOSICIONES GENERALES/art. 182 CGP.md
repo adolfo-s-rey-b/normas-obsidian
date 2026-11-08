@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "182"
-epigrafe: "PRUEBAS EN EL EXTERIOR"
+epigrafe: "Pruebas en el exterior"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 182. PRUEBAS EN EL EXTERIOR
+## Artículo 182. Pruebas en el exterior
 
 Cuando se requiera la práctica de pruebas en territorio extranjero y no puedan practicarse con el uso de los medios técnicos mencionados en el artículo [[art. 171 CGP|171]], se observará lo dispuesto en el artículo [[art. 41 CGP|41]].
 

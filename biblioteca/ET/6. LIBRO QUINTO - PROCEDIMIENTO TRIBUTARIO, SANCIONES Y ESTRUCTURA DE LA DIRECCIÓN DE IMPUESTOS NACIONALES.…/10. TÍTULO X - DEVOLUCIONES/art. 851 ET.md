@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "851"
-epigrafe: "FACULTAD PARA FIJAR TRAMITES DE DEVOLUCIÓN DE IMPUESTOS"
+epigrafe: "FACULTAD PARA FIJAR TRÁMITES DE DEVOLUCIÓN DE IMPUESTOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título X|TÍTULO X - DEVOLUCIONES]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título X|Título X]]
 
-## Artículo 851. FACULTAD PARA FIJAR TRAMITES DE DEVOLUCIÓN DE IMPUESTOS
+## Artículo 851. FACULTAD PARA FIJAR TRÁMITES DE DEVOLUCIÓN DE IMPUESTOS
 
 El Gobierno establecerá trámites especiales que agilicen la devolución de impuestos pagados y no causados o pagados en exceso.
 

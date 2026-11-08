@@ -11,7 +11,7 @@ articulo: "331"
 epigrafe: "FUNCIONES DE LAS DIVISIONES DE LAS AREAS DE SUPERVISION"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo II|CAPÍTULO II - SUPERINTENDENCIA BANCARIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 75 Ley 964 de 2005]]"
 anterior: "[[art. 330 EOSF]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo II|Capítulo II]]

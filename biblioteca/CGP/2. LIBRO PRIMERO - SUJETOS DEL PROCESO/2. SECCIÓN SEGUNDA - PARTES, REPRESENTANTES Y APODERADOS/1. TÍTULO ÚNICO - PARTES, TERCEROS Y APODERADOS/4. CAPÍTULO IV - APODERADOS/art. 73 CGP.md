@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "73"
-epigrafe: "DERECHO DE POSTULACIÓN"
+epigrafe: "Derecho de postulación"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 73. DERECHO DE POSTULACIÓN
+## Artículo 73. Derecho de postulación
 
 Las personas que hayan de comparecer al proceso deberán hacerlo por conducto de abogado legalmente autorizado, excepto en los casos en que la ley permita su intervención directa.
 

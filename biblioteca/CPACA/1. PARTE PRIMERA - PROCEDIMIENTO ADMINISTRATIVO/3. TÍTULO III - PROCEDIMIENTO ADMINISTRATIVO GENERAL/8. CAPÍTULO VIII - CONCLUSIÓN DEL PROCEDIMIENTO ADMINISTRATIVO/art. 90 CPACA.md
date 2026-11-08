@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "90"
-epigrafe: "EJECUCIÓN EN CASO DE RENUENCIA"
+epigrafe: "Ejecución en caso de renuencia"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VIII|CAPÍTULO VIII - CONCLUSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 90. EJECUCIÓN EN CASO DE RENUENCIA
+## Artículo 90. Ejecución en caso de renuencia
 
 Sin perjuicio de lo dispuesto en leyes especiales, cuando un acto administrativo imponga una obligación no dineraria a un particular y este se resistiere a cumplirla, la autoridad que expidió el acto le impondrá multas sucesivas mientras permanezca en rebeldía, concediéndole plazos razonables para que cumpla lo ordenado. Las multas podrán oscilar entre uno (1) y quinientos (500) salarios mínimos mensuales legales vigentes y serán impuestas con criterios de razonabilidad y proporcionalidad.
 

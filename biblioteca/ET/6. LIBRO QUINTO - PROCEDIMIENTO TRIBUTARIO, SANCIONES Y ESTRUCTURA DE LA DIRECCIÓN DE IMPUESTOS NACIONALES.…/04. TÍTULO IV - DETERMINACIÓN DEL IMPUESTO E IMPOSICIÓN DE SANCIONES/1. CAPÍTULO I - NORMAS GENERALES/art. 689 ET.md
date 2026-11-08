@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "689"
-epigrafe: "FACULTAD PARA ESTABLECER BENEFICIO DE AUDITORIA"
+epigrafe: "FACULTAD PARA ESTABLECER BENEFICIO DE AUDITORÍA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título IV|TÍTULO IV - DETERMINACIÓN DEL IMPUESTO E IMPOSICIÓN DE SANCIONES]]"
 capitulo: "[[ET - Libro Quinto - Título IV - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título IV|Título IV]] › [[ET - Libro Quinto - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 689. FACULTAD PARA ESTABLECER BENEFICIO DE AUDITORIA
+## Artículo 689. FACULTAD PARA ESTABLECER BENEFICIO DE AUDITORÍA
 
 Con el fin de estimular el cumplimiento voluntario de las obligaciones tributarias, el Gobierno Nacional señalará, mediante reglamentos, las condiciones y porcentajes en virtud de los cuales se garantice a los contribuyentes que incrementen su tributación, que la investigación que da origen a la liquidación de revisión, proviene de una selección basada en programas de computador.
 

@@ -23,17 +23,17 @@ tags:
 
 ### Contenido
 
-- [[art. 56 CPP|Artículo 56]] — CAUSALES DE IMPEDIMENTO
-- [[art. 57 CPP|Artículo 57]] — TRÁMITE PARA EL IMPEDIMENTO
-- [[art. 58 CPP|Artículo 58]] — IMPEDIMENTO DEL FISCAL GENERAL DE LA NACIÓN
+- [[art. 56 CPP|Artículo 56]] — Causales de impedimento
+- [[art. 57 CPP|Artículo 57]] — Trámite para el impedimento
+- [[art. 58 CPP|Artículo 58]] — Impedimento del Fiscal General de la Nación
 - [[art. 58A CPP|Artículo 58A]] — IMPEDIMENTO DE MAGISTRADO
-- [[art. 59 CPP|Artículo 59]] — IMPEDIMENTO CONJUNTO
-- [[art. 60 CPP|Artículo 60]] — REQUISITOS Y FORMAS DE RECUSACIÓN
-- [[art. 61 CPP|Artículo 61]] — IMPROCEDENCIA DEL IMPEDIMENTO Y DE LA RECUSACIÓN
-- [[art. 62 CPP|Artículo 62]] — SUSPENSIÓN DE LA ACTUACIÓN PROCESAL
-- [[art. 63 CPP|Artículo 63]] — IMPEDIMENTOS Y RECUSACIÓN DE OTROS FUNCIONARIOS Y EMPLEADOS
-- [[art. 64 CPP|Artículo 64]] — DESAPARICIÓN DE LA CAUSAL
-- [[art. 65 CPP|Artículo 65]] — IMPROCEDENCIA DE LA IMPUGNACIÓN
+- [[art. 59 CPP|Artículo 59]] — Impedimento conjunto
+- [[art. 60 CPP|Artículo 60]] — Requisitos y formas de recusación
+- [[art. 61 CPP|Artículo 61]] — Improcedencia del impedimento y de la recusación
+- [[art. 62 CPP|Artículo 62]] — Suspensión de la actuación procesal
+- [[art. 63 CPP|Artículo 63]] — Impedimentos y recusación de otros funcionarios y empleados
+- [[art. 64 CPP|Artículo 64]] — Desaparición de la causal
+- [[art. 65 CPP|Artículo 65]] — Improcedencia de la impugnación
 
 ---
 ← [[CPP - Libro I - Título I - Capítulo VI|Capítulo VI]] · ↑ [[CPP - Libro I - Título I|Título I]]

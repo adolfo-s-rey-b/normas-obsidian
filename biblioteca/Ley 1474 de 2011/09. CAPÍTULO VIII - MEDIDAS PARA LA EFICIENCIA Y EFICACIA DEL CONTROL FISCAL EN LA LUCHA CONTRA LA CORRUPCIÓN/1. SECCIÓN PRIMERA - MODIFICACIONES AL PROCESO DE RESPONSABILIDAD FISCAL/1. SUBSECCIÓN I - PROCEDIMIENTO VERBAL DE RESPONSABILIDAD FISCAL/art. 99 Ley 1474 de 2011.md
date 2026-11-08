@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "99"
-epigrafe: "AUDIENCIA DE DESCARGOS"
+epigrafe: "Audiencia de descargos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]]
 
-## Artículo 99. AUDIENCIA DE DESCARGOS
+## Artículo 99. Audiencia de descargos
 
 La Audiencia de Descargos deberá iniciarse en la fecha y hora determinada en el auto de apertura e imputación del proceso. La audiencia de descargos tiene como finalidad que los sujetos procesales puedan intervenir, con todas las garantías procesales, y que se realicen las siguientes actuaciones:
 

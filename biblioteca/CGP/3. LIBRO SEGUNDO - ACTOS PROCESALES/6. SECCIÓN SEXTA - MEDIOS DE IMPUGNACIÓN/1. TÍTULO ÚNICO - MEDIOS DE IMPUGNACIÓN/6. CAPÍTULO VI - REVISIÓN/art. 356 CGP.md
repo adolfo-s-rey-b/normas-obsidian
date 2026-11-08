@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "356"
-epigrafe: "TÉRMINO PARA INTERPONER EL RECURSO"
+epigrafe: "Término para interponer el recurso"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 356. TÉRMINO PARA INTERPONER EL RECURSO
+## Artículo 356. Término para interponer el recurso
 
 El recurso podrá interponerse dentro de los dos (2) años siguientes a la ejecutoria de la respectiva sentencia cuando se invoque alguna de las causales consagradas en los numerales 1, 6, 8 y 9 del artículo precedente.
 

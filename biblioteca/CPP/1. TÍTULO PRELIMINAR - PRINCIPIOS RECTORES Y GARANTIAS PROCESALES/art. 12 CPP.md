@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "12"
-epigrafe: "LEALTAD"
+epigrafe: "Lealtad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 11 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 12. LEALTAD
+## Artículo 12. Lealtad
 
 Todos los que intervienen en la actuación, sin excepción alguna, están en el deber de obrar con absoluta lealtad y buena fe.
 

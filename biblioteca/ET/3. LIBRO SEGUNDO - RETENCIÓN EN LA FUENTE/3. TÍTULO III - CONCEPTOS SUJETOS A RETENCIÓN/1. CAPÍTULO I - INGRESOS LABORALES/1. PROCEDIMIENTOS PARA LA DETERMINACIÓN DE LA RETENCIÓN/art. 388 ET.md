@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "388"
-epigrafe: "DEPURACIÓN DE LA BASE DEL CÁLCULO DE LA RETENCIÓN EN LA FUENTE"
+epigrafe: "Depuración de la base del cálculo de la retención en la fuente"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo I|CAPÍTULO I - INGRESOS LABORALES]]"
@@ -51,7 +51,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo I|Capítulo I]] › [[ET - Libro Segundo - Título III - Capítulo I - Procedimientos para la determinación de la…|Procedimientos para la determinación de la…]]
 
-## Artículo 388. DEPURACIÓN DE LA BASE DEL CÁLCULO DE LA RETENCIÓN EN LA FUENTE
+## Artículo 388. Depuración de la base del cálculo de la retención en la fuente
 
 Para obtener la base de retención en la fuente sobre los pagos o abonos en cuenta por concepto de rentas de trabajo efectuados a las personas naturales, se podrán detraer los siguientes factores:
 

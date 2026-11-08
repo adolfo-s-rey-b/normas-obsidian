@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "12"
-epigrafe: "TITULARES DE LAS ACCIONES"
+epigrafe: "Titulares de las Acciones"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo II|CAPÍTULO II - LEGITIMACION]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 12. TITULARES DE LAS ACCIONES
+## Artículo 12. Titulares de las Acciones
 
 Podrán ejercitar las acciones populares:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "23"
-epigrafe: "DEBERES ESPECIALES DE LOS PERSONEROS DISTRITALES Y MUNICIPALES Y DE LOS SERVIDORES DE LA PROCURADURÍA Y LA DEFENSORÍA DEL PUEBLO"
+epigrafe: "Deberes especiales de los Personeros Distritales y Municipales y de los servidores de la Procuraduría y la Defensoría del Pueblo"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 23. DEBERES ESPECIALES DE LOS PERSONEROS DISTRITALES Y MUNICIPALES Y DE LOS SERVIDORES DE LA PROCURADURÍA Y LA DEFENSORÍA DEL PUEBLO
+## Artículo 23. Deberes especiales de los Personeros Distritales y Municipales y de los servidores de la Procuraduría y la Defensoría del Pueblo
 
 Los servidores de la Procuraduría General de la Nación, de la Defensoría del Pueblo, así como los personeros distritales y municipales, según la órbita de competencia, tienen el deber de prestar asistencia eficaz e inmediata a toda persona que la solicite, para garantizarle el ejercicio del derecho constitucional de petición. Si fuere necesario, deberán intervenir ante las autoridades competentes con el objeto de exigirles, en cada caso concreto, el cumplimiento de sus deberes legales. Así mismo recibirán, en sustitución de dichas autoridades, las peticiones, quejas, reclamos o recursos que aquellas se hubieren abstenido de recibir, y se cerciorarán de su debida tramitación.
 

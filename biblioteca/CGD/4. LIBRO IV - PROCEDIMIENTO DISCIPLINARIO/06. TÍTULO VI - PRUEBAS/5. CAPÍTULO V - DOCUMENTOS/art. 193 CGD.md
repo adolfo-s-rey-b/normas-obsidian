@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "193"
-epigrafe: "INFORMES TÉCNICOS"
+epigrafe: "Informes técnicos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo V|CAPÍTULO V - DOCUMENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 193. INFORMES TÉCNICOS
+## Artículo 193. Informes técnicos
 
 Los funcionarios podrán requerir a entidades públicas o privadas informes sobre datos que aparezcan registrados en sus libros o consten en sus archivos, destinados a demostrar hechos que interesen a la investigación o al juzgamiento.
 

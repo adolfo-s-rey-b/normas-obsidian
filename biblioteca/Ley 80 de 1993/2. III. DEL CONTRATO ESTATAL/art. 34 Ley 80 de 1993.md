@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "34"
-epigrafe: "DE LA CONCESIÓN DEL SERVICIO DE TELEFONIA DE LARGA DISTANCIA NACIONAL E INTERNACIONAL"
+epigrafe: "De la Concesión del Servicio de Telefonía de Larga Distancia Nacional e Internacional"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
 vigencia: "derogado"
 derogado_por:
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 34. DE LA CONCESIÓN DEL SERVICIO DE TELEFONIA DE LARGA DISTANCIA NACIONAL E INTERNACIONAL
+## Artículo 34. De la Concesión del Servicio de Telefonía de Larga Distancia Nacional e Internacional
 
 La concesión para la prestación de los servicios de telefonía básica fija conmutada de larga distancia nacional e internacional, se otorgará conforme a lo dispuesto por el Decreto 2122 de 1992.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "52"
-epigrafe: "DE LA SUPRESION, DISOLUCION Y LIQUIDACION DE ENTIDADES U ORGANISMOS ADMINISTRATIVOS NACIONALES"
+epigrafe: "De la supresión, disolución y liquidación de entidades u organismos administrativos nacionales"
 capitulo: "[[Ley 489 de 1998 - Capítulo XI|CAPÍTULO XI - CREACION, FUSION, SUPRESION Y REESTRUCTURACION DE ORGANISMOS Y ENTIDADES]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 51 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XI|Capítulo XI]]
 
-## Artículo 52. DE LA SUPRESION, DISOLUCION Y LIQUIDACION DE ENTIDADES U ORGANISMOS ADMINISTRATIVOS NACIONALES
+## Artículo 52. De la supresión, disolución y liquidación de entidades u organismos administrativos nacionales
 
 El Presidente de la República podrá suprimir o disponer la disolución y la consiguiente liquidación de entidades y organismos administrativos del orden nacional previstos en el artículo [[art. 38 Ley 489 de 1998|38]] de la presente ley cuando:
 

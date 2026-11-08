@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "334A"
-epigrafe: "CONTAMINACIÓN AMBIENTAL POR EXPLOTACIÓN DE YACIMIENTO MINERO O HIDROCARBURO"
+epigrafe: "Contaminación ambiental por explotación de yacimiento minero o hidrocarburo"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo III|CAPÍTULO III - DE LA CONTAMINACIÓN AMBIENTAL]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo III|Capítulo III]]
 
-## Artículo 334A. CONTAMINACIÓN AMBIENTAL POR EXPLOTACIÓN DE YACIMIENTO MINERO O HIDROCARBURO
+## Artículo 334A. Contaminación ambiental por explotación de yacimiento minero o hidrocarburo
 
 El que provoque, contamine o realice directa o indirectamente en los recursos de agua, suelo, subsuelo o atmósfera, con ocasión a la extracción o excavación, exploración, construcción y montaje, explotación, beneficio, transformación, transporte de la actividad minera o de hidrocarburos, incurrirá en prisión de cinco (5) a diez (10) años, y multa de treinta mil (30.000) a cincuenta mil (50.000) salarios mínimos legales mensuales vigentes.
 

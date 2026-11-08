@@ -6,7 +6,7 @@ norma: "Ley 80 de 1993"
 articulo: "60"
 epigrafe: "DE LA OCURRENCIA Y CONTENIDO DE LA LIQUIDACIÓN"
 rubro: "[[Ley 80 de 1993 - Vi. de la liquidación de los contratos|VI. DE LA LIQUIDACIÓN DE LOS CONTRATOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 217 Decreto 19 de 2012]]"
 derogado_por:
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vi. de la liquidación de los contratos|Vi. de la liquidación de los contratos]]

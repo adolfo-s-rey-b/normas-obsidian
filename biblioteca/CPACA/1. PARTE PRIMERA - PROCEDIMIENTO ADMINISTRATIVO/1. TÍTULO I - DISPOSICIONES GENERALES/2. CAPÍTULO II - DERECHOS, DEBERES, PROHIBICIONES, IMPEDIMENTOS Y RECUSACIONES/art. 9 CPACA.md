@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "9"
-epigrafe: "PROHIBICIONES"
+epigrafe: "Prohibiciones"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 9. PROHIBICIONES
+## Artículo 9. Prohibiciones
 
 A las autoridades les queda especialmente prohibido:
 

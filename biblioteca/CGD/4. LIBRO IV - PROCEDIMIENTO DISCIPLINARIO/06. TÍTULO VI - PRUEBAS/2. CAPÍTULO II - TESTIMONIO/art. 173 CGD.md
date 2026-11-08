@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "173"
-epigrafe: "PROHIBICIÓN"
+epigrafe: "Prohibición"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 173. PROHIBICIÓN
+## Artículo 173. Prohibición
 
 El funcionario se abstendrá de sugerir respuestas, de formular preguntas capciosas y de ejercer violencia sobre el testigo o de preguntar su opinión salvo que se trate de testigo cualificado, técnica, científica o artísticamente.
 

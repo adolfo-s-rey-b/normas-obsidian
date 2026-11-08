@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "85"
-epigrafe: "SUSPENSIÓN DEL PODER DISPOSITIVO"
+epigrafe: "Suspensión del poder dispositivo"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 85. SUSPENSIÓN DEL PODER DISPOSITIVO
+## Artículo 85. Suspensión del poder dispositivo
 
 En la formulación de imputación o en audiencia preliminar el fiscal podrá solicitar la suspensión del poder dispositivo de bienes y recursos con fines de comiso, que se mantendrá hasta tanto se resuelva sobre el mismo con carácter definitivo o se disponga su devolución.
 

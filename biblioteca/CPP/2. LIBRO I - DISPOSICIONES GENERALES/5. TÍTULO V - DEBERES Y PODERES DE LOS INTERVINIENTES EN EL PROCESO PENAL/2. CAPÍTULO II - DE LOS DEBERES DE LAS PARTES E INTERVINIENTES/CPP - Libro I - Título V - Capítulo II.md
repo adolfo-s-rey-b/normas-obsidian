@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 140 CPP|Artículo 140]] — DEBERES
-- [[art. 141 CPP|Artículo 141]] — TEMERIDAD O MALA FE
+- [[art. 140 CPP|Artículo 140]] — Deberes
+- [[art. 141 CPP|Artículo 141]] — Temeridad o mala fe
 
 ---
 ← [[CPP - Libro I - Título V - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro I - Título V|Título V]] · [[CPP - Libro I - Título V - Capítulo III|Capítulo III]] →

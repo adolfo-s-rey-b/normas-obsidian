@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "538"
-epigrafe: "EL GOBIERNO ESTA FACULTADO PARA ESTABLECER RETENCIONES"
+epigrafe: "EL GOBIERNO ESTÁ FACULTADO PARA ESTABLECER RETENCIONES"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título VII|TÍTULO VII - FACULTADES DE LA ADMINISTRACIÓN PARA EL CONTROL Y RECAUDO DEL IMPUESTO DE TIMBRE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título VII|Título VII]]
 
-## Artículo 538. EL GOBIERNO ESTA FACULTADO PARA ESTABLECER RETENCIONES
+## Artículo 538. EL GOBIERNO ESTÁ FACULTADO PARA ESTABLECER RETENCIONES
 
 El Gobierno Nacional podrá establecer retenciones en la fuente para facilitar, acelerar y asegurar los recaudos a que se refiere el presente título, de acuerdo con las tarifas en él señaladas.
 

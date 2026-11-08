@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 577 CGP|Artículo 577]] — ASUNTOS SUJETOS A SU TRÁMITE
-- [[art. 578 CGP|Artículo 578]] — DEMANDA
-- [[art. 579 CGP|Artículo 579]] — PROCEDIMIENTO
-- [[art. 580 CGP|Artículo 580]] — EFECTOS DE LA SENTENCIA
+- [[art. 577 CGP|Artículo 577]] — Asuntos sujetos a su trámite
+- [[art. 578 CGP|Artículo 578]] — Demanda
+- [[art. 579 CGP|Artículo 579]] — Procedimiento
+- [[art. 580 CGP|Artículo 580]] — Efectos de la sentencia
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|Capítulo II]] →

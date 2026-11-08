@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "438"
-epigrafe: "RECURSOS CONTRA EL MANDAMIENTO EJECUTIVO"
+epigrafe: "Recursos contra el mandamiento ejecutivo"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 438. RECURSOS CONTRA EL MANDAMIENTO EJECUTIVO
+## Artículo 438. Recursos contra el mandamiento ejecutivo
 
 El mandamiento ejecutivo no es apelable; el auto que lo niegue total o parcialmente y el que por vía de reposición lo revoque, lo será en el suspensivo. Los recursos de reposición contra el mandamiento ejecutivo se tramitarán y resolverán conjuntamente cuando haya sido notificado a todos los ejecutados.
 

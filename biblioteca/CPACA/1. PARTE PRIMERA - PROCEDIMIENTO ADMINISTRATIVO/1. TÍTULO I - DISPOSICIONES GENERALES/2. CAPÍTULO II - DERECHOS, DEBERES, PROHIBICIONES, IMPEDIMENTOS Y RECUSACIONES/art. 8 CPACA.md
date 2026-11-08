@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "8"
-epigrafe: "DEBER DE INFORMACIÓN AL PÚBLICO"
+epigrafe: "Deber de información al público"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 8. DEBER DE INFORMACIÓN AL PÚBLICO
+## Artículo 8. Deber de información al público
 
 Las autoridades deberán mantener a disposición de toda persona información completa y actualizada, en el sitio de atención y en la página electrónica, y suministrarla a través de los medios impresos y electrónicos de que disponga, y por medio telefónico o por correo, sobre los siguientes aspectos:
 

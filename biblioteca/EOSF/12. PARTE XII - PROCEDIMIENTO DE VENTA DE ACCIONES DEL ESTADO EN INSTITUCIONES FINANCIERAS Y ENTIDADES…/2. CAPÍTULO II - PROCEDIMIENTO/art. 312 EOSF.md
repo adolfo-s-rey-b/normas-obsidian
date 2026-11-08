@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "312"
-epigrafe: "REGIMEN DE LAS INSTITUCIONES FINANCIERAS PRIVATIZADAS"
+epigrafe: "Régimen de las Instituciones Financieras Privatizadas"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo II|CAPÍTULO II - PROCEDIMIENTO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo II|Capítulo II]]
 
-## Artículo 312. REGIMEN DE LAS INSTITUCIONES FINANCIERAS PRIVATIZADAS
+## Artículo 312. Régimen de las Instituciones Financieras Privatizadas
 
 Las instituciones financieras privatizadas, no estarán sujetas a las obligaciones o restricciones establecidas por razón de la participación estatal en dichas instituciones, ni gozarán de las prerrogativas que les han sido concedidas en función de tal participación.
 

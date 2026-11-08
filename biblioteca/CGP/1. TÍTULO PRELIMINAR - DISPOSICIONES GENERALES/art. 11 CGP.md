@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "11"
-epigrafe: "INTERPRETACIÓN DE LAS NORMAS PROCESALES"
+epigrafe: "Interpretación de las normas procesales"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 10 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 11. INTERPRETACIÓN DE LAS NORMAS PROCESALES
+## Artículo 11. Interpretación de las normas procesales
 
 Al interpretar la ley procesal el juez deberá tener en cuenta que el objeto de los procedimientos es la efectividad de los derechos reconocidos por la ley sustancial. Las dudas que surjan en la interpretación de las normas del presente código deberán aclararse mediante la aplicación de los principios constitucionales y generales del derecho procesal garantizando en todo caso el debido proceso, el derecho de defensa, la igualdad de las partes y los demás derechos constitucionales fundamentales. El juez se abstendrá de exigir y de cumplir formalidades innecesarias.
 

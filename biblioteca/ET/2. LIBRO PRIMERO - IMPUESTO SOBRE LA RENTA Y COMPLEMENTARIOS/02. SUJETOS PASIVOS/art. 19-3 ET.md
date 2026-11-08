@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "19-3"
-epigrafe: "OTROS CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS"
+epigrafe: "Otros contribuyentes del impuesto sobre la renta y complementarios"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 19-3. OTROS CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS
+## Artículo 19-3. Otros contribuyentes del impuesto sobre la renta y complementarios
 
 Son contribuyentes del impuesto sobre la renta y complementarios, Fogafín y Fogacoop**.
 

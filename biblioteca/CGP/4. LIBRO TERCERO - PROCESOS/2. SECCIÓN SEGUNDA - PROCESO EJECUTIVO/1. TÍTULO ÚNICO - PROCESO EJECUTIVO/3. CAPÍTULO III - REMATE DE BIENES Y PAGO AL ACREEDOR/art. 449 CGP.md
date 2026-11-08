@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "449"
-epigrafe: "REMATE DE INTERÉS SOCIAL"
+epigrafe: "Remate de interés social"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 449. REMATE DE INTERÉS SOCIAL
+## Artículo 449. Remate de interés social
 
 Si lo embargado es el interés social en sociedad colectiva, de responsabilidad limitada, en comandita simple o en otra sociedad de personas, el juez, antes de fijar fecha para el remate, comunicará al representante de ella el avalúo de dicho interés a fin de que manifieste dentro de los diez (10) días siguientes si los consocios desean adquirirlo por dicho precio. En caso de que dentro de este término no se haga la anterior manifestación, se fijará fecha para el remate; si los consocios desearen hacer uso de tal derecho, el representante consignará a orden del juzgado el precio al hacer la manifestación, indicando el nombre de los socios adquirentes.
 

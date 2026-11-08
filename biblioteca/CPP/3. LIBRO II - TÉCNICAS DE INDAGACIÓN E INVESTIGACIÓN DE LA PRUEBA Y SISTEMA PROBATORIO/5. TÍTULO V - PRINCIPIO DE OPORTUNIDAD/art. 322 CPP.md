@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "322"
-epigrafe: "LEGALIDAD"
+epigrafe: "Legalidad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 322. LEGALIDAD
+## Artículo 322. Legalidad
 
 La Fiscalía General de la Nación está obligada a perseguir a los autores y partícipes en los hechos que revistan las características de una conducta punible que llegue a su conocimiento, excepto por la aplicación del principio de oportunidad, en los términos y condiciones previstos en este código.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "16"
-epigrafe: "CAMBIO DE CONTROL EN LA SOCIEDAD ACCIONISTA"
+epigrafe: "Cambio de control en la sociedad accionista"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 15 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 16. CAMBIO DE CONTROL EN LA SOCIEDAD ACCIONISTA
+## Artículo 16. Cambio de control en la sociedad accionista
 
 En los estatutos podrá establecerse la obligación a cargo de las sociedades accionistas en el sentido de informarle al representante legal de la respectiva sociedad por acciones simplificada acerca de cualquier operación que implique un cambio de control respecto de aquellas, según lo previsto en el artículo [[art. 260 CCo|260]] del Código de Comercio.
 

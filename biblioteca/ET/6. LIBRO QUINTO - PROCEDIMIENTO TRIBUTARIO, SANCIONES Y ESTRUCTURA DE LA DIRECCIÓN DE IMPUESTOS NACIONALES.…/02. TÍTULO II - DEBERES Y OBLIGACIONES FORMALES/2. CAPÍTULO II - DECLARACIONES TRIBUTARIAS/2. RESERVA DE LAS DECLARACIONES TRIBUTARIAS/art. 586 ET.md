@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "586"
-epigrafe: "GARANTIA DE LA RESERVA POR PARTE DE LAS ENTIDADES CONTRATADAS PARA EL MANEJO DE INFORMACIÓN TRIBUTARIA"
+epigrafe: "GARANTÍA DE LA RESERVA POR PARTE DE LAS ENTIDADES CONTRATADAS PARA EL MANEJO DE INFORMACIÓN TRIBUTARIA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo II|CAPÍTULO II - DECLARACIONES TRIBUTARIAS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título II - Capítulo II - Reserva de las declaraciones tributarias|Reserva de las declaraciones tributarias]]
 
-## Artículo 586. GARANTIA DE LA RESERVA POR PARTE DE LAS ENTIDADES CONTRATADAS PARA EL MANEJO DE INFORMACIÓN TRIBUTARIA
+## Artículo 586. GARANTÍA DE LA RESERVA POR PARTE DE LAS ENTIDADES CONTRATADAS PARA EL MANEJO DE INFORMACIÓN TRIBUTARIA
 
 Cuando se contrate para la Dirección General de Impuestos Nacionales, los servicios de entidades privadas para el procesamiento de datos, liquidación y contabilización de los gravámenes por sistemas electrónicos, podrá suministrarles informaciones globales sobre la renta y el patrimonio bruto de los contribuyentes, sus deducciones, rentas exentas, exenciones, pasivos, bienes exentos, que fueren estrictamente necesarios para la correcta determinación matemática de los impuestos, y para fines estadísticos.
 

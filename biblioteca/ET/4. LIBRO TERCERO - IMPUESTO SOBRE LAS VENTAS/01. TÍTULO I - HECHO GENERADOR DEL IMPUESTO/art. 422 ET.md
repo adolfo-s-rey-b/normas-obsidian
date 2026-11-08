@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "422"
-epigrafe: "LOS BIENES RESULTANTES DE PROCESOS DE MONTAJE, INSTALACION, O SIMILARES, SE CONSIDERAN MUEBLES"
+epigrafe: "LOS BIENES RESULTANTES DE PROCESOS DE MONTAJE, INSTALACIÓN, O SIMILARES, SE CONSIDERAN MUEBLES"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título I|TÍTULO I - HECHO GENERADOR DEL IMPUESTO]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título I|Título I]]
 
-## Artículo 422. LOS BIENES RESULTANTES DE PROCESOS DE MONTAJE, INSTALACION, O SIMILARES, SE CONSIDERAN MUEBLES
+## Artículo 422. LOS BIENES RESULTANTES DE PROCESOS DE MONTAJE, INSTALACIÓN, O SIMILARES, SE CONSIDERAN MUEBLES
 
 (Fuente original compilada: D. 3541/83 Art. [[art. 3 ET|3]]o.) Para los efectos del impuesto sobre las ventas también se consideran bienes corporales muebles, los bienes que adquieren su individualidad mediante procesos de montaje, instalación u otros similares y que se adhieran a inmuebles.
 

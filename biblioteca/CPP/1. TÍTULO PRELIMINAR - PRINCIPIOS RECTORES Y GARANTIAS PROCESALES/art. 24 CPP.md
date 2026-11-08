@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "24"
-epigrafe: "ÁMBITO DE LA JURISDICCIÓN PENAL"
+epigrafe: "Ámbito de la jurisdicción penal"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 23 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 24. ÁMBITO DE LA JURISDICCIÓN PENAL
+## Artículo 24. Ámbito de la jurisdicción penal
 
 Las indagaciones, investigaciones, imputaciones, acusaciones y juzgamientos por las conductas previstas en la ley penal como delito, serán adelantadas por los órganos y mediante los procedimientos establecidos en este código y demás disposiciones complementarias.
 

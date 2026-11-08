@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "65"
-epigrafe: "IMPROCEDENCIA DE LA IMPUGNACIÓN"
+epigrafe: "Improcedencia de la impugnación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 65. IMPROCEDENCIA DE LA IMPUGNACIÓN
+## Artículo 65. Improcedencia de la impugnación
 
 Las decisiones que se profieran en el trámite de un impedimento o recusación no tendrán recurso alguno.
 

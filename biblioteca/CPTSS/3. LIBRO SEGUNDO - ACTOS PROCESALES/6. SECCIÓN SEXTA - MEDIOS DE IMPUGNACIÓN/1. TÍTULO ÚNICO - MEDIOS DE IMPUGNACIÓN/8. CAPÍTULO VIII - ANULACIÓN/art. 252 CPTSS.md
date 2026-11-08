@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "252"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 252. TRÁMITE
+## Artículo 252. Trámite
 
 Recibido el expediente en el tribunal y efectuado el reparto, el magistrado sustanciador verificará si el recurso cumple con los presupuestos para su trámite, esto es, si el laudo fue emanado de la totalidad de los árbitros, si el recurso fue interpuesto dentro del tiempo establecido para el efecto, así como si se encuentra sustentado.
 

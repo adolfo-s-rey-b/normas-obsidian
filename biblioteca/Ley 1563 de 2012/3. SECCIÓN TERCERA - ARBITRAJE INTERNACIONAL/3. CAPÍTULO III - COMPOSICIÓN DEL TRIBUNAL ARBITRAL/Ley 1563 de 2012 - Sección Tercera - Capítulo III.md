@@ -21,13 +21,13 @@ tags:
 
 ### Contenido
 
-- [[art. 72 Ley 1563 de 2012|Artículo 72]] — NÚMERO DE ÁRBITROS
-- [[art. 73 Ley 1563 de 2012|Artículo 73]] — NOMBRAMIENTO DE LOS ÁRBITROS
-- [[art. 74 Ley 1563 de 2012|Artículo 74]] — ARBITRAJE ENTRE PARTES CON VARIOS SUJETOS O ENTRE MÁS DE DOS PARTES
-- [[art. 75 Ley 1563 de 2012|Artículo 75]] — MOTIVOS DE RECUSACIÓN
-- [[art. 76 Ley 1563 de 2012|Artículo 76]] — PROCEDIMIENTO DE RECUSACIÓN
-- [[art. 77 Ley 1563 de 2012|Artículo 77]] — FALTA O IMPOSIBILIDAD DE EJERCICIO DE LAS FUNCIONES
-- [[art. 78 Ley 1563 de 2012|Artículo 78]] — NOMBRAMIENTO DE ÁRBITRO SUSTITUTO
+- [[art. 72 Ley 1563 de 2012|Artículo 72]] — Número de árbitros
+- [[art. 73 Ley 1563 de 2012|Artículo 73]] — Nombramiento de los árbitros
+- [[art. 74 Ley 1563 de 2012|Artículo 74]] — Arbitraje entre partes con varios sujetos o entre más de dos partes
+- [[art. 75 Ley 1563 de 2012|Artículo 75]] — Motivos de recusación
+- [[art. 76 Ley 1563 de 2012|Artículo 76]] — Procedimiento de recusación
+- [[art. 77 Ley 1563 de 2012|Artículo 77]] — Falta o imposibilidad de ejercicio de las funciones
+- [[art. 78 Ley 1563 de 2012|Artículo 78]] — Nombramiento de árbitro sustituto
 
 ---
 ← [[Ley 1563 de 2012 - Sección Tercera - Capítulo II|Capítulo II]] · ↑ [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · [[Ley 1563 de 2012 - Sección Tercera - Capítulo IV|Capítulo IV]] →

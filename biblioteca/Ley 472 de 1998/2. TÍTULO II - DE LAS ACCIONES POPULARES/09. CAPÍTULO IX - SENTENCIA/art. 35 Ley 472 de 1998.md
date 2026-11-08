@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "35"
-epigrafe: "EFECTOS DE LA SENTENCIA"
+epigrafe: "Efectos de la Sentencia"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo IX|CAPÍTULO IX - SENTENCIA]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo IX|Capítulo IX]]
 
-## Artículo 35. EFECTOS DE LA SENTENCIA
+## Artículo 35. Efectos de la Sentencia
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

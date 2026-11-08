@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "10"
-epigrafe: "CLASES DE ACCIONES"
+epigrafe: "Clases de acciones"
 capitulo: "[[Ley 1258 de 2008 - Capítulo III|CAPÍTULO III - REGLAS ESPECIALES SOBRE EL CAPITAL Y LAS ACCIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 9 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo III|Capítulo III]]
 
-## Artículo 10. CLASES DE ACCIONES
+## Artículo 10. Clases de acciones
 
 Podrán crearse diversas clases y series de acciones, incluidas las siguientes, según los términos y condiciones previstos en las normas legales respectivas: (i) acciones privilegiadas; (ii) acciones con dividendo preferencial y sin derecho a voto; (iii) acciones con dividendo fijo anual y (iv) acciones de pago.
 

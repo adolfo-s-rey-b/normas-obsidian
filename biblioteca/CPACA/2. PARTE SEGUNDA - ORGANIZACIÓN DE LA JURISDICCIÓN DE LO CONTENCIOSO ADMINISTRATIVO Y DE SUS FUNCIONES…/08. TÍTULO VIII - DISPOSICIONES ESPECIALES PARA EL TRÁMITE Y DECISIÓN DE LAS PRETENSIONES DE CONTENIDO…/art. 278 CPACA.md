@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "278"
-epigrafe: "REFORMA DE LA DEMANDA"
+epigrafe: "Reforma de la demanda"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 278. REFORMA DE LA DEMANDA
+## Artículo 278. Reforma de la demanda
 
 La demanda podrá reformarse por una sola vez dentro de los tres (3) días siguientes a la notificación del auto admisorio de la demanda al demandante y se resolverá dentro de los tres (3) días siguientes. Podrán adicionarse cargos contra el acto cuya nulidad se pretende siempre que no haya operado la caducidad, en caso contrario se rechazará la reforma en relación con estos cargos. Contra el auto que resuelva sobre la admisión de la reforma de la demanda no procederá recurso.
 

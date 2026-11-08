@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "228"
-epigrafe: "LIQUIDACIÓN DEL PATRIMONIO SOCIAL - MECANISMOS - NOMBRAMIENTO DEL LIQUIDADOR"
+epigrafe: "LIQUIDACIÓN DEL PATRIMONIO SOCIAL- MECANISMOS- NOMBRAMIENTO DEL LIQUIDADOR"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título I|TÍTULO I - DEL CONTRATO DE SOCIEDAD]]"
 capitulo: "[[CCo - Libro Segundo - Título I - Capítulo X|CAPÍTULO X - LIQUIDACIÓN DEL PATRIMONIO SOCIAL]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título I|Título I]] › [[CCo - Libro Segundo - Título I - Capítulo X|Capítulo X]]
 
-## Artículo 228. LIQUIDACIÓN DEL PATRIMONIO SOCIAL - MECANISMOS - NOMBRAMIENTO DEL LIQUIDADOR
+## Artículo 228. LIQUIDACIÓN DEL PATRIMONIO SOCIAL- MECANISMOS- NOMBRAMIENTO DEL LIQUIDADOR
 
 La liquidación del patrimonio social se hará por un liquidador especial, nombrado conforme a los estatutos o a la ley.
 

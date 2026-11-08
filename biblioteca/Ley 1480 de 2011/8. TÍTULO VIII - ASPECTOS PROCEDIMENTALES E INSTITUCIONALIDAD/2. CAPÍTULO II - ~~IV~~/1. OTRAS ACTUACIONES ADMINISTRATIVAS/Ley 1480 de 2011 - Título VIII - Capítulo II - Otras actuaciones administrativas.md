@@ -24,15 +24,15 @@ tags:
 
 ### Contenido
 
-- [[art. 59 Ley 1480 de 2011|Artículo 59]] — FACULTADES ADMINISTRATIVAS DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO
-- [[art. 60 Ley 1480 de 2011|Artículo 60]] — PROCEDIMIENTO
-- [[art. 61 Ley 1480 de 2011|Artículo 61]] — SANCIONES
-- [[art. 62 Ley 1480 de 2011|Artículo 62]] — FACULTADES DE LOS ALCALDES
-- [[art. 63 Ley 1480 de 2011|Artículo 63]] — CADUCIDAD RESPECTO DE LAS SANCIONES
-- [[art. 64 Ley 1480 de 2011|Artículo 64]] — DESCONCENTRACIÓN Y APOYO
-- [[art. 65 Ley 1480 de 2011|Artículo 65]] — ARCHIVO DE EXPEDIENTES
+- [[art. 59 Ley 1480 de 2011|Artículo 59]] — Facultades administrativas de la Superintendencia de Industria y Comercio
+- [[art. 60 Ley 1480 de 2011|Artículo 60]] — Procedimiento
+- [[art. 61 Ley 1480 de 2011|Artículo 61]] — Sanciones
+- [[art. 62 Ley 1480 de 2011|Artículo 62]] — Facultades de los Alcaldes
+- [[art. 63 Ley 1480 de 2011|Artículo 63]] — Caducidad Respecto de las Sanciones
+- [[art. 64 Ley 1480 de 2011|Artículo 64]] — Desconcentración y apoyo
+- [[art. 65 Ley 1480 de 2011|Artículo 65]] — Archivo de Expedientes
 - [[art. 66 Ley 1480 de 2011|Artículo 66]] — NOTA: Artículo declarado INEXEQUIBLE, por la Corte Constitucional mediante Sentencia
-- [[art. 67 Ley 1480 de 2011|Artículo 67]] — CURADORES AD LÍTEM
+- [[art. 67 Ley 1480 de 2011|Artículo 67]] — Curadores ad lítem
 
 ---
 ↑ [[Ley 1480 de 2011 - Título VIII - Capítulo II|Capítulo II]]

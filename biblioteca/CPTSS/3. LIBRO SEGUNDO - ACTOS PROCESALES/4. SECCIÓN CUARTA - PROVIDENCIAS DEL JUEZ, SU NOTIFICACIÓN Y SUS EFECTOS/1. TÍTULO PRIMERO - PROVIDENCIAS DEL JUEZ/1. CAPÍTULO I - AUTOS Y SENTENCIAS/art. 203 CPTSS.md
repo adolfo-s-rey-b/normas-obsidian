@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "203"
-epigrafe: "CONTENIDO DE LA SENTENCIA"
+epigrafe: "Contenido de la sentencia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|TÍTULO PRIMERO - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo I|Capítulo I]]
 
-## Artículo 203. CONTENIDO DE LA SENTENCIA
+## Artículo 203. Contenido de la sentencia
 
 Las sentencias que resuelvan los recursos de casación, de revisión, de anulación, declaratoria de ilegalidad del cese de actividades y demás que dentro de sus competencias profieran la Sala de Casación Laboral de la Corte Suprema de Justicia y las salas laborales de los tribunales superiores de distrito judicial siempre constarán por escrito.
 

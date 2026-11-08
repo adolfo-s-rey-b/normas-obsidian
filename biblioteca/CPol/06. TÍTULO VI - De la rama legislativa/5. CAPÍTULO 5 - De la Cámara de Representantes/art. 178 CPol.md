@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "178"
 titulo: "[[CPol - Título VI|TÍTULO VI - De la rama legislativa]]"
 capitulo: "[[CPol - Título VI - Capítulo 5|CAPÍTULO 5 - De la Cámara de Representantes]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 7 Acto Legislativo 2 de 2015]]"
 anterior: "[[art. 177 CPol]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título VI|Título VI]] › [[CPol - Título VI - Capítulo 5|Capítulo 5]]

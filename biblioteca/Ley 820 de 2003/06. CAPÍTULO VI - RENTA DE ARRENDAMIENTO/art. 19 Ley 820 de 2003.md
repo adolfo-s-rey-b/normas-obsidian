@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "19"
-epigrafe: "FIJACIÓN DEL CANON DE ARRENDAMIENTO"
+epigrafe: "Fijación del canon de arrendamiento"
 capitulo: "[[Ley 820 de 2003 - Capítulo VI|CAPÍTULO VI - RENTA DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 18 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VI|Capítulo VI]]
 
-## Artículo 19. FIJACIÓN DEL CANON DE ARRENDAMIENTO
+## Artículo 19. Fijación del canon de arrendamiento
 
 El precio mensual del canon estipulado por las partes, puede ser fijado en cualquier moneda o divisa extranjera, pagándose en moneda legal colombiana a la tasa de cambio representativa del mercado en la fecha en que fue contraída la obligación, salvo que las partes hayan convenido una fecha o tasa de referencia diferente.
 

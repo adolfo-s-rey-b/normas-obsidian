@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "560"
-epigrafe: "INCUMPLIMIENTO DEL ACUERDO"
+epigrafe: "Incumplimiento del acuerdo"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 560. INCUMPLIMIENTO DEL ACUERDO
+## Artículo 560. Incumplimiento del acuerdo
 
 Si el deudor no cumple las obligaciones convenidas en el acuerdo de pago, cualquiera de los acreedores o el mismo deudor, informarán por escrito de dicha situación al conciliador, dando cuenta precisa de los hechos constitutivos de incumplimiento. Dentro de los diez (10) días hábiles siguientes al recibo de dicha solicitud el conciliador citará a audiencia a fin de revisar y estudiar por una sola vez la reforma del acuerdo de pago, de conformidad con el procedimiento previsto en el artículo [[art. 556 CGP|556]].
 

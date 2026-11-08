@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "462"
-epigrafe: "BASE GRAVABLE PARA EL SERVICIO TELEFONICO"
+epigrafe: "BASE GRAVABLE PARA EL SERVICIO TELEFÓNICO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 462. BASE GRAVABLE PARA EL SERVICIO TELEFONICO
+## Artículo 462. BASE GRAVABLE PARA EL SERVICIO TELEFÓNICO
 
 La base gravable en el servicio telefónico es la general, contemplada en el artículo [[art. 447 ET|447]] del Estatuto Tributario.
 

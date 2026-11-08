@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "60"
-epigrafe: "EFECTOS"
+epigrafe: "Efectos"
 seccion: "[[Ley 1563 de 2012 - Sección Segunda|SECCIÓN SEGUNDA - AMIGABLE COMPOSICIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 59 Ley 1563 de 2012]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Segunda|Sección Segunda]]
 
-## Artículo 60. EFECTOS
+## Artículo 60. Efectos
 
 El amigable componedor obrará como mandatario de las partes y, en su decisión, podrá precisar el alcance o forma de cumplimiento de las obligaciones derivadas de un negocio jurídico, determinar la existencia o no de un incumplimiento contractual y decidir sobre conflictos de responsabilidad suscitados entre las partes, entre otras determinaciones.
 

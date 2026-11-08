@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "378"
-epigrafe: "CONTRADICCIÓN"
+epigrafe: "Contradicción"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte I|Parte I]]
 
-## Artículo 378. CONTRADICCIÓN
+## Artículo 378. Contradicción
 
 Las partes tienen la facultad de controvertir, tanto los medios de prueba como los elementos materiales probatorios y evidencia física presentados en el juicio, o aquellos que se practiquen por fuera de la audiencia pública.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "9"
-epigrafe: "SECRETARIOS"
+epigrafe: "Secretarios"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 9. SECRETARIOS
+## Artículo 9. Secretarios
 
 Los árbitros designarán un secretario quien deberá ser abogado y no podrá ser cónyuge o compañero permanente, ni tener relación contractual, de subordinación o dependencia, de parentesco hasta cuarto grado de consanguinidad o civil o segundo de afinidad, con ninguno de los árbitros. El secretario deberá ser escogido de la lista del centro en la que se adelante el procedimiento arbitral.
 

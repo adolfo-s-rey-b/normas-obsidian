@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "230"
-epigrafe: "OPERACIONES"
+epigrafe: "Operaciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo I|CAPÍTULO I - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO FINAGRO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 4 Decreto 2371 de 2015]]"
   - "[[art. 63 Ley 1955 de 2019]]"
@@ -51,12 +51,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo I|Capítulo I]]
 
-## Artículo 230. OPERACIONES
+## Artículo 230. Operaciones
 
 > [!info] Artículo modificado por el artículo [[art. 4 Decreto 2371 de 2015|4]] del Decreto Ley 2371 de 2015. El nuevo texto es el siguiente:
 

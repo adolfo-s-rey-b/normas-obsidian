@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "58"
-epigrafe: "FACULTAD DE OBJECION"
+epigrafe: "Facultad de Objeción"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 58. FACULTAD DE OBJECION
+## Artículo 58. Facultad de Objeción
 
 1\. Término para ejercerla. Recibido el aviso de fusión, el Superintendente Bancario podrá objetarla dentro de los dos (2) meses siguientes a su presentación en debida forma. No obstante, cuando se trate del aviso anticipado que puede presentarse con un (1) mes de antelación, el Superintendente Bancario dispondrá de un término máximo de un (1) mes para formular objeción.
 

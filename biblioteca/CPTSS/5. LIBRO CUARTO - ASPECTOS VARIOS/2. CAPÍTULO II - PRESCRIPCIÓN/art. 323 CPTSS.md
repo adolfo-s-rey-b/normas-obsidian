@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "323"
-epigrafe: "RENUNCIA A LA PRESCRIPCIÓN"
+epigrafe: "Renuncia a la prescripción"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 323. RENUNCIA A LA PRESCRIPCIÓN
+## Artículo 323. Renuncia a la prescripción
 
 La prescripción puede ser renunciada expresa o tácitamente; pero sólo después de cumplida.
 

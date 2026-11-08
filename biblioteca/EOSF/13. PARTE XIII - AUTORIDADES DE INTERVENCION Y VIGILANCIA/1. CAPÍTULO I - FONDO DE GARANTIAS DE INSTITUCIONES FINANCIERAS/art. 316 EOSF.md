@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "316"
-epigrafe: "ORGANIZACION"
+epigrafe: "Organización"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 316. ORGANIZACION
+## Artículo 316. Organización
 
 1\. Naturaleza jurídica. El Fondo de Garantías de Instituciones Financieras, creado por el artículo [[art. 1 EOSF|1]]o. de la Ley 117 de 1985, es una persona jurídica autónoma de derecho público y de naturaleza única, sometida a la vigilancia de la Superintendencia Bancaria.
 

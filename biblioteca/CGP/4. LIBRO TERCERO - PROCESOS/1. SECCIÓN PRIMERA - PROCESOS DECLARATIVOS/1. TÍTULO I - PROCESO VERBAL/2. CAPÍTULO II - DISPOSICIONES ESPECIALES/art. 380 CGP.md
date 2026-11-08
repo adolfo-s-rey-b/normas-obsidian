@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "380"
-epigrafe: "RENDICIÓN ESPONTÁNEA DE CUENTAS"
+epigrafe: "Rendición espontánea de cuentas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 380. RENDICIÓN ESPONTÁNEA DE CUENTAS
+## Artículo 380. Rendición espontánea de cuentas
 
 Quien considere que debe rendir cuentas y pretenda hacerlo sin que se le hayan pedido, deberá acompañarlas a la demanda. Si dentro del traslado de aquellas el demandado no se opone a recibirlas, ni las objeta, ni propone excepciones previas, se prescindirá de la audiencia y el juez las aprobará mediante auto que no admite recurso y presta mérito ejecutivo.
 

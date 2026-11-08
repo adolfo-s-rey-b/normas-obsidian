@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "536"
-epigrafe: "TARIFAS PARA LOS CENTROS DE CONCILIACIÓN REMUNERADOS"
+epigrafe: "Tarifas para los Centros de Conciliación remunerados"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 536. TARIFAS PARA LOS CENTROS DE CONCILIACIÓN REMUNERADOS
+## Artículo 536. Tarifas para los Centros de Conciliación remunerados
 
 El Gobierno Nacional reglamentará las tarifas que podrán cobrar los centros de conciliación y las notarías para tramitar de los procedimientos de negociación de deudas y de convalidación de acuerdo. Dichas tarifas no pueden constituir una barrera de acceso al procedimiento aquí previsto, deben ser acordes con la situación de insolvencia de la persona natural y no deben impedir a los centros de conciliación privados prestar el servicio.
 

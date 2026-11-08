@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 91 Ley 446 de 1998|Artículo 91]] — CREACION
-- [[art. 92 Ley 446 de 1998|Artículo 92]] — CENTROS DE CONCILIACION DE CARACTER UNIVERSITARIO
+- [[art. 91 Ley 446 de 1998|Artículo 91]] — Creación
+- [[art. 92 Ley 446 de 1998|Artículo 92]] — Centros de conciliación de carácter universitario
 - [[art. 93 Ley 446 de 1998|Artículo 93]] — OBLIGACIONES DE LOS CENTROS DE CONCILIACION
-- [[art. 94 Ley 446 de 1998|Artículo 94]] — SANCIONES
+- [[art. 94 Ley 446 de 1998|Artículo 94]] — Sanciones
 - [[art. 95 Ley 446 de 1998|Artículo 95]] — CENTROS DE CONCILIACION DE FACULTADES DE DERECHO
-- [[art. 96 Ley 446 de 1998|Artículo 96]] — TARIFAS
+- [[art. 96 Ley 446 de 1998|Artículo 96]] — Tarifas
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 4|Sección 4]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]] · [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 6|Sección 6]] →

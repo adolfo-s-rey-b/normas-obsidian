@@ -21,12 +21,12 @@ tags:
 
 ### Contenido
 
-- [[art. 1 CPTSS|Artículo 1]] — APLICACIÓN DE ESTE CÓDIGO
-- [[art. 2 CPTSS|Artículo 2]] — LIBERTAD PROCESAL
-- [[art. 3 CPTSS|Artículo 3]] — DIRECCIÓN DEL PROCESO
-- [[art. 4 CPTSS|Artículo 4]] — LEALTAD PROCESAL
-- [[art. 5 CPTSS|Artículo 5]] — INMEDIACIÓN
-- [[art. 6 CPTSS|Artículo 6]] — FALLO EXTRA Y ULTRA PETITA
+- [[art. 1 CPTSS|Artículo 1]] — Aplicación de este código
+- [[art. 2 CPTSS|Artículo 2]] — Libertad procesal
+- [[art. 3 CPTSS|Artículo 3]] — Dirección del proceso
+- [[art. 4 CPTSS|Artículo 4]] — Lealtad procesal
+- [[art. 5 CPTSS|Artículo 5]] — Inmediación
+- [[art. 6 CPTSS|Artículo 6]] — Fallo extra y ultra petita
 
 ---
 ↑ [[CPTSS|CPTSS]] · [[CPTSS - Libro Primero|Libro Primero]] →

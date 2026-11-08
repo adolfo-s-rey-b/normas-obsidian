@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "256"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo VIII|CAPÍTULO VIII - RÉGIMEN DE LOS CONJUECES Y JUECES DE PAZ]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 256. COMPETENCIA
+## Artículo 256. Competencia
 
 Corresponde exclusivamente a las Comisiones Seccionales de Disciplina Judicial, juzgar disciplinariamente, en primera instancia, a los Jueces de Paz conforme a la Ley 497 de 1999 o normas que la modifiquen.
 

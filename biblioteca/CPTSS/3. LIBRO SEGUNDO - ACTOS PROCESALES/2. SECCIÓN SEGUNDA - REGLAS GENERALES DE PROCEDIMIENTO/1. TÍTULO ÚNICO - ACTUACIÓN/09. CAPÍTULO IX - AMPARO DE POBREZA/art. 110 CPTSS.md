@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "110"
-epigrafe: "OPORTUNIDAD, COMPETENCIA Y REQUISITOS"
+epigrafe: "Oportunidad, competencia y requisitos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 110. OPORTUNIDAD, COMPETENCIA Y REQUISITOS
+## Artículo 110. Oportunidad, competencia y requisitos
 
 El amparo podrá solicitarse por el presunto demandante antes o con la presentación de la demanda, o por cualquiera de las partes durante el curso del proceso. En tratándose de la solicitud presentada antes de la demanda deberá someterse a reparto, si fuere el caso.
 

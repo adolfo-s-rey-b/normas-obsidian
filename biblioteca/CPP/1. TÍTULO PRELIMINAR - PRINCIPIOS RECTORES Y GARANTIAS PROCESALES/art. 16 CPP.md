@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "16"
-epigrafe: "INMEDIACIÓN"
+epigrafe: "Inmediación"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 15 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 16. INMEDIACIÓN
+## Artículo 16. Inmediación
 
 En el juicio únicamente se estimará como prueba la que haya sido producida o incorporada en forma pública, oral, concentrada, y sujeta a confrontación y contradicción ante el juez de conocimiento. En ningún caso podrá comisionarse para la práctica de pruebas. Sin embargo, en las circunstancias excepcionalmente previstas en este código, podrá tenerse como prueba la producida o incorporada de forma anticipada durante la audiencia ante el juez de control de garantías.
 

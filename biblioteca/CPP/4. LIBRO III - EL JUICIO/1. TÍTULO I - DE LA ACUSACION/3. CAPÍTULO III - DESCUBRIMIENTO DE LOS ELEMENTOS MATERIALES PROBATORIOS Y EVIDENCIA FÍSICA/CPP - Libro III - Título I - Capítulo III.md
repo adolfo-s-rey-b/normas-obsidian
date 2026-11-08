@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 344 CPP|Artículo 344]] — INICIO DEL DESCUBRIMIENTO
-- [[art. 345 CPP|Artículo 345]] — RESTRICCIONES AL DESCUBRIMIENTO DE PRUEBA
-- [[art. 346 CPP|Artículo 346]] — SANCIONES POR EL INCUMPLIMIENTO DEL DEBER DE REVELACIÓN DE INFORMACIÓN DURANTE EL PROCEDIMIENTO DE DESCUBRIMIENTO
-- [[art. 347 CPP|Artículo 347]] — PROCEDIMIENTO PARA EXPOSICIONES
+- [[art. 344 CPP|Artículo 344]] — Inicio del descubrimiento
+- [[art. 345 CPP|Artículo 345]] — Restricciones al descubrimiento de prueba
+- [[art. 346 CPP|Artículo 346]] — Sanciones por el incumplimiento del deber de revelación de información durante el procedimiento de descubrimiento
+- [[art. 347 CPP|Artículo 347]] — Procedimiento para exposiciones
 
 ---
 ← [[CPP - Libro III - Título I - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro III - Título I|Título I]]

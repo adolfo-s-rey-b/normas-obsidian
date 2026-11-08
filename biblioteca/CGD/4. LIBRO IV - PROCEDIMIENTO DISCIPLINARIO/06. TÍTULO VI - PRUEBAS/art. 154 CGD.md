@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "154"
-epigrafe: "PRUEBA TRASLADADA"
+epigrafe: "Prueba trasladada"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 154. PRUEBA TRASLADADA
+## Artículo 154. Prueba trasladada
 
 Las pruebas practicadas válidamente en una actuación judicial o administrativa, dentro o fuera del país, podrán trasladarse a la actuación disciplinaria mediante copias autorizadas por el respectivo funcionario y serán apreciadas conforme a las reglas previstas en este código.
 

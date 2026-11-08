@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "411"
-epigrafe: "IMPEDIMENTOS Y RECUSACIONES"
+epigrafe: "Impedimentos y recusaciones"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]]
 
-## Artículo 411. IMPEDIMENTOS Y RECUSACIONES
+## Artículo 411. Impedimentos y recusaciones
 
 Respecto de los peritos serán aplicables las mismas causales de impedimento y recusación señaladas para el juez. El perito cuyo impedimento o recusación haya sido aceptada, será excluido por el juez, en la audiencia preparatoria o, excepcionalmente, en la audiencia del juicio oral y público.
 

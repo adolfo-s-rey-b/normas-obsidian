@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "224"
-epigrafe: "RECURSOS COMPLEMENTARIOS DEL SISTEMA NACIONAL DE CREDITO AGROPECUARIO"
+epigrafe: "Recursos Complementarios del Sistema Nacional de Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 224. RECURSOS COMPLEMENTARIOS DEL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
+## Artículo 224. Recursos Complementarios del Sistema Nacional de Crédito Agropecuario
 
 (Fuente Ley 16/90; Art. [[art. 35 Ley 16 de 1990|35]]) Serán recursos complementarios para el crédito agropecuario los que mediante contratos, y para fines específicos, pongan a disposición de cualquiera de las entidades integrantes del Sistema Nacional de Crédito Agropecuario organismos públicos o privados y en particular el Incora, el DRI o el Fondo Nacional del Café, instituciones estas últimas que a partir de la vigencia de la Ley 16 de 1990 no podrán otorgar créditos directamente.
 

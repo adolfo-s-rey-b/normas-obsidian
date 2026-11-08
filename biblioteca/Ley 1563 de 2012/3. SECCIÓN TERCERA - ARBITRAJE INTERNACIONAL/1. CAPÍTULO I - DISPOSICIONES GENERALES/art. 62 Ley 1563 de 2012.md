@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "62"
-epigrafe: "ÁMBITO DE APLICACIÓN"
+epigrafe: "Ámbito de aplicación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]]
 
-## Artículo 62. ÁMBITO DE APLICACIÓN
+## Artículo 62. Ámbito de aplicación
 
 Las normas contenidas en la presente sección se aplicarán al arbitraje internacional, sin perjuicio de cualquier tratado multilateral o bilateral vigente en Colombia.
 

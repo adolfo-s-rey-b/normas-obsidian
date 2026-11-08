@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "241"
-epigrafe: "ANÁLISIS E INFILTRACIÓN DE ORGANIZACIÓN CRIMINAL"
+epigrafe: "Análisis e infiltración de organización criminal"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 241. ANÁLISIS E INFILTRACIÓN DE ORGANIZACIÓN CRIMINAL
+## Artículo 241. Análisis e infiltración de organización criminal
 
 Cuando el fiscal tuviere motivos razonablemente fundados, de acuerdo con los medios cognoscitivos previstos en este código, para inferir que el indiciado o el imputado, en la indagación o investigación que se adelanta, pertenece o está relacionado con alguna organización criminal, ordenará a la policía judicial la realización del análisis de aquella con el fin de conocer su estructura organizativa, la agresividad de sus integrantes y los puntos débiles de la misma. Después, ordenará la planificación, preparación y manejo de una operación, para que agente o agentes encubiertos la infiltren con el fin de obtener información útil a la investigación que se adelanta, de conformidad con lo establecido en el artículo siguiente.
 

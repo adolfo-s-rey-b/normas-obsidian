@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 328 CPTSS|Artículo 328]] — PRINCIPIO DE TUTELA JUDICIAL EFECTIVA
-- [[art. 329 CPTSS|Artículo 329]] — PRINCIPIO DE GRATUIDAD
+- [[art. 328 CPTSS|Artículo 328]] — Principio de tutela judicial efectiva
+- [[art. 329 CPTSS|Artículo 329]] — Principio de gratuidad
 
 ---
 ← [[CPTSS - Libro Cuarto - Capítulo V|Capítulo V]] · ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]] · [[CPTSS - Libro Cuarto - Capítulo VII|Capítulo VII]] →

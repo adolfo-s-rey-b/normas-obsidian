@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "76"
-epigrafe: "REGIMEN DE INCOMPATIBILIDADES E INHABILIDADES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS"
+epigrafe: "Régimen de Incompatibilidades e Inhabilidades de las Sociedades de Servicios Financieros"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 76. REGIMEN DE INCOMPATIBILIDADES E INHABILIDADES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS
+## Artículo 76. Régimen de Incompatibilidades e Inhabilidades de las Sociedades de Servicios Financieros
 
 1\. Régimen aplicable a las sociedades de servicios financieros y comisionistas de bolsa Los administradores y representantes legales de las sociedades de servicios financieros y comisionistas de bolsa no podrán ser administradores o empleados del establecimiento matriz. Sin embargo, podrán formar parte de sus juntas directivas los directores de la matriz o sus representantes legales, aun en aquellos eventos en que la matriz posea títulos inscritos en bolsa.
 

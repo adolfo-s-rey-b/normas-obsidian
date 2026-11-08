@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "10"
-epigrafe: "RESIDENCIA PARA EFECTOS TRIBUTARIOS"
+epigrafe: "Residencia para efectos tributarios"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "modificado"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 10. RESIDENCIA PARA EFECTOS TRIBUTARIOS
+## Artículo 10. Residencia para efectos tributarios
 
 Se consideran residentes en Colombia para efectos tributarios las personas naturales que cumplan con cualquiera de las siguientes condiciones:
 

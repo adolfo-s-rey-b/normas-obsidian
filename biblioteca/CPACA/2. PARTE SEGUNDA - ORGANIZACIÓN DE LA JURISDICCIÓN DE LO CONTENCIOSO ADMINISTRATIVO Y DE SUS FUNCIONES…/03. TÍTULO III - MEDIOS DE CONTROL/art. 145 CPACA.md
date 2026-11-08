@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "145"
-epigrafe: "REPARACIÓN DE LOS PERJUICIOS CAUSADOS A UN GRUPO"
+epigrafe: "Reparación de los perjuicios causados a un grupo"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 145. REPARACIÓN DE LOS PERJUICIOS CAUSADOS A UN GRUPO
+## Artículo 145. Reparación de los perjuicios causados a un grupo
 
 Cualquier persona perteneciente a un número plural o a un conjunto de personas que reúnan condiciones uniformes respecto de una misma causa que les originó perjuicios individuales, puede solicitar en nombre del conjunto la declaratoria de responsabilidad patrimonial del Estado y el reconocimiento y pago de indemnización de los perjuicios causados al grupo, en los términos preceptuados por la norma especial que regula la materia.
 

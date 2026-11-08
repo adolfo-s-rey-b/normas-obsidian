@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "65"
-epigrafe: "PROCEDIMIENTO DE FORMALIZACION Y EFECTOS DE LA ADQUISICION"
+epigrafe: "Procedimiento de Formalización y Efectos de la Adquisición"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo III|CAPÍTULO III - ADQUISICIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo III|Capítulo III]]
 
-## Artículo 65. PROCEDIMIENTO DE FORMALIZACION Y EFECTOS DE LA ADQUISICION
+## Artículo 65. Procedimiento de Formalización y Efectos de la Adquisición
 
 1\. Certificación de la Superintendencia Bancaria. Cumplida la adquisición de la totalidad de las acciones de la entidad adquirida, el representante legal de la entidad adquirente lo informará así a la Superintendencia Bancaria para que ésta certifique la adquisición.
 

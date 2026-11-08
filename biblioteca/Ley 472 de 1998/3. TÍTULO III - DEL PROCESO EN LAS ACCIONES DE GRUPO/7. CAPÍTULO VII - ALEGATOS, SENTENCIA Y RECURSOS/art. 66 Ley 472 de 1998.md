@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "66"
-epigrafe: "EFECTOS DE LA SENTENCIA"
+epigrafe: "Efectos de la Sentencia"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo VII|CAPÍTULO VII - ALEGATOS, SENTENCIA Y RECURSOS]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 66. EFECTOS DE LA SENTENCIA
+## Artículo 66. Efectos de la Sentencia
 
 La sentencia tendrá efectos de cosa juzgada en relación con quienes fueron parte del proceso y de las personas que, perteneciendo al grupo interesado no manifestaron oportuna y expresamente su decisión de excluirse del grupo y de las resultas del proceso.
 

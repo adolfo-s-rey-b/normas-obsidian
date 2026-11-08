@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "434"
-epigrafe: "OBLIGACIÓN DE SUSCRIBIR DOCUMENTOS"
+epigrafe: "Obligación de suscribir documentos"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 434. OBLIGACIÓN DE SUSCRIBIR DOCUMENTOS
+## Artículo 434. Obligación de suscribir documentos
 
 Cuando el hecho debido consiste en suscribir una escritura pública o cualquier otro documento, el mandamiento ejecutivo, además de los perjuicios moratorios que se demanden, comprenderá la prevención al demandado de que en caso de no suscribir la escritura o el documento en el término de tres (3) días, contados a partir de la notificación del mandamiento, el juez procederá a hacerlo en su nombre como dispone el artículo [[art. 436 CGP|436]]. A la demanda se deberá acompañar, además del título ejecutivo, la minuta o el documento que debe ser suscrito por el ejecutado o, en su defecto, por el juez.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "294"
-epigrafe: "DOCUMENTO"
+epigrafe: "Documento"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título IX|TÍTULO IX - DELITOS CONTRA LA FE PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título IX - Capítulo Tercero|CAPÍTULO TERCERO - DE LA FALSEDAD EN DOCUMENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título IX|Título IX]] › [[CP - Libro Segundo - Título IX - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 294. DOCUMENTO
+## Artículo 294. Documento
 
 Para los efectos de la ley penal es documento toda expresión de persona conocida o conocible recogida por escrito o por cualquier medio mecánico o técnicamente impreso, soporte material que exprese o incorpore datos o hechos, que tengan capacidad probatoria.
 

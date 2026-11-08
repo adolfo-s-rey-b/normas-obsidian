@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 69 Ley 1563 de 2012|Artículo 69]] — DEFINICIÓN Y FORMA DEL ACUERDO DE ARBITRAJE
-- [[art. 70 Ley 1563 de 2012|Artículo 70]] — ACUERDO DE ARBITRAJE Y DEMANDA EN CUANTO AL FONDO ANTE UNA AUTORIDAD JUDICIAL
-- [[art. 71 Ley 1563 de 2012|Artículo 71]] — ACUERDO DE ARBITRAJE Y DECRETO DE MEDIDAS CAUTELARES POR UNA AUTORIDAD JUDICIAL
+- [[art. 69 Ley 1563 de 2012|Artículo 69]] — Definición y forma del acuerdo de arbitraje
+- [[art. 70 Ley 1563 de 2012|Artículo 70]] — Acuerdo de arbitraje y demanda en cuanto al fondo ante una autoridad judicial
+- [[art. 71 Ley 1563 de 2012|Artículo 71]] — Acuerdo de arbitraje y decreto de medidas cautelares por una autoridad judicial
 
 ---
 ← [[Ley 1563 de 2012 - Sección Tercera - Capítulo I|Capítulo I]] · ↑ [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] · [[Ley 1563 de 2012 - Sección Tercera - Capítulo III|Capítulo III]] →

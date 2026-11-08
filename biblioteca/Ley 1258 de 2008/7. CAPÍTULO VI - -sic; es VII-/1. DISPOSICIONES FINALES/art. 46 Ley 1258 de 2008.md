@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "46"
-epigrafe: "VIGENCIA Y DEROGATORIAS"
+epigrafe: "Vigencia y derogatorias"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 46. VIGENCIA Y DEROGATORIAS
+## Artículo 46. Vigencia y derogatorias
 
 La presente ley rige a partir del momento de su promulgación y deroga todas las disposiciones que le sean contrarias.
 

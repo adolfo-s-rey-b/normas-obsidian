@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "417"
-epigrafe: "DESIGNACIÓN DE ADMINISTRADOR FUERA DE PROCESO DIVISORIO"
+epigrafe: "Designación de administrador fuera de proceso divisorio"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 417. DESIGNACIÓN DE ADMINISTRADOR FUERA DE PROCESO DIVISORIO
+## Artículo 417. Designación de administrador fuera de proceso divisorio
 
 Para la designación judicial de administrador de una comunidad fuera del proceso divisorio, cuando los comuneros no se avinieren en el manejo del bien común, se procederá así:
 

@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 78 CGP|Artículo 78]] — DEBERES DE LAS PARTES Y SUS APODERADOS
-- [[art. 79 CGP|Artículo 79]] — TEMERIDAD O MALA FE
-- [[art. 80 CGP|Artículo 80]] — RESPONSABILIDAD PATRIMONIAL DE LAS PARTES
-- [[art. 81 CGP|Artículo 81]] — RESPONSABILIDAD PATRIMONIAL DE APODERADOS Y PODERDANTES
+- [[art. 78 CGP|Artículo 78]] — Deberes de las partes y sus apoderados
+- [[art. 79 CGP|Artículo 79]] — Temeridad o mala fe
+- [[art. 80 CGP|Artículo 80]] — Responsabilidad patrimonial de las partes
+- [[art. 81 CGP|Artículo 81]] — Responsabilidad patrimonial de apoderados y poderdantes
 
 ---
 ← [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]]

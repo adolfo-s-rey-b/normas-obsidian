@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 127 CP|Artículo 127]] — ABANDONO
-- [[art. 128 CP|Artículo 128]] — ABANDONO DE HIJO FRUTO DE ACCESO CARNAL VIOLENTO, ABUSIVO, O DE INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS
+- [[art. 127 CP|Artículo 127]] — Abandono
+- [[art. 128 CP|Artículo 128]] — Abandono de hijo fruto de acceso carnal violento, abusivo, o de inseminación artificial o transferencia de ovulo fecundado no consentidas
 - [[art. 129 CP|Artículo 129]] — Eximente de responsabilidad y atenuante punitivo
-- [[art. 130 CP|Artículo 130]] — CIRCUNSTANCIAS DE AGRAVACIÓN
+- [[art. 130 CP|Artículo 130]] — Circunstancias de agravacion
 
 ---
 ← [[CP - Libro Segundo - Título I - Capítulo Quinto|Capítulo Quinto]] · ↑ [[CP - Libro Segundo - Título I|Título I]] · [[CP - Libro Segundo - Título I - Capítulo Septimo|Capítulo Septimo]] →

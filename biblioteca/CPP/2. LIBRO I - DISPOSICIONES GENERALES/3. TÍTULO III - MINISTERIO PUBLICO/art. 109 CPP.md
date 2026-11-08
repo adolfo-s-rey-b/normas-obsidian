@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "109"
-epigrafe: "EL MINISTERIO PÚBLICO"
+epigrafe: "El Ministerio Público"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título III|TÍTULO III - MINISTERIO PUBLICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título III|Título III]]
 
-## Artículo 109. EL MINISTERIO PÚBLICO
+## Artículo 109. El Ministerio Público
 
 El Ministerio Público intervendrá en el proceso penal cuando sea necesario, en defensa del orden jurídico, del patrimonio público, o de los derechos y garantías fundamentales. El Procurador General de la Nación directamente o a través de sus delegados constituirá agencias especiales en los procesos de significativa y relevante importancia, de acuerdo con los criterios internos diseñados por su despacho, y sin perjuicio de que actúe en los demás procesos penales.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "428"
-epigrafe: "TRADUCCIÓN DE DOCUMENTOS"
+epigrafe: "Traducción de documentos"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
 
-## Artículo 428. TRADUCCIÓN DE DOCUMENTOS
+## Artículo 428. Traducción de documentos
 
 El documento manuscrito, mecanografiado, impreso o producido en idioma distinto del castellano, será traducido por orden del juez y por traductores oficiales. El texto original y el de la traducción constituirán el medio de prueba.
 

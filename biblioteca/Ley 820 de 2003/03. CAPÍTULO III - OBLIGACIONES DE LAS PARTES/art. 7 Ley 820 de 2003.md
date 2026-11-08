@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "7"
-epigrafe: "SOLIDARIDAD"
+epigrafe: "Solidaridad"
 capitulo: "[[Ley 820 de 2003 - Capítulo III|CAPÍTULO III - OBLIGACIONES DE LAS PARTES]]"
 vigencia: "vigente"
 anterior: "[[art. 6 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo III|Capítulo III]]
 
-## Artículo 7. SOLIDARIDAD
+## Artículo 7. Solidaridad
 
 Los derechos y las obligaciones derivadas del contrato de arrendamiento son solidarias, tanto entre arrendadores como entre arrendatarios. En consecuencia, la restitución del inmueble y las obligaciones económicas derivadas del contrato, pueden ser exigidas o cumplidas por todos o cualquiera de los arrendadores a todos o cualquiera de los arrendatarios, o viceversa.
 

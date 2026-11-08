@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "111"
-epigrafe: "FUNCIONES DEL MINISTERIO PÚBLICO"
+epigrafe: "Funciones del Ministerio Público"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título III|TÍTULO III - MINISTERIO PUBLICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título III|Título III]]
 
-## Artículo 111. FUNCIONES DEL MINISTERIO PÚBLICO
+## Artículo 111. Funciones del Ministerio Público
 
 Son funciones del Ministerio Público en la indagación, la investigación y el juzgamiento:
 

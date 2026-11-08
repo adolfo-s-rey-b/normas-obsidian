@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "271"
-epigrafe: "VALOR PATRIMONIAL DE LOS TITULOS, BONOS Y SEGUROS DE VIDA"
+epigrafe: "VALOR PATRIMONIAL DE LOS TÍTULOS, BONOS Y SEGUROS DE VIDA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|Valor patrimonial de los activos]]
 
-## Artículo 271. VALOR PATRIMONIAL DE LOS TITULOS, BONOS Y SEGUROS DE VIDA
+## Artículo 271. VALOR PATRIMONIAL DE LOS TÍTULOS, BONOS Y SEGUROS DE VIDA
 
 El valor de los títulos, bonos, certificados y otros documentos negociables que generan intereses y rendimientos financieros es el costo de adquisición más los descuentos o rendimientos causados y no cobrados hasta el último día del período gravable.
 

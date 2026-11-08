@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "159"
-epigrafe: "DICTAMEN APORTADO POR UNA DE LAS PARTES"
+epigrafe: "Dictamen aportado por una de las partes"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 159. DICTAMEN APORTADO POR UNA DE LAS PARTES
+## Artículo 159. Dictamen aportado por una de las partes
 
 La parte que pretenda valerse de un dictamen pericial deberá aportarlo en la respectiva oportunidad para pedir pruebas. Cuando el término previsto sea insuficiente para incorporar el dictamen, la parte interesada podrá anunciarlo en el escrito respectivo y deberá allegarlo dentro del término que el juez conceda, que en ningún caso podrá ser inferior a diez (10) días. En este evento el juez hará los requerimientos pertinentes a las partes y terceros que deban colaborar con la práctica de la prueba.
 

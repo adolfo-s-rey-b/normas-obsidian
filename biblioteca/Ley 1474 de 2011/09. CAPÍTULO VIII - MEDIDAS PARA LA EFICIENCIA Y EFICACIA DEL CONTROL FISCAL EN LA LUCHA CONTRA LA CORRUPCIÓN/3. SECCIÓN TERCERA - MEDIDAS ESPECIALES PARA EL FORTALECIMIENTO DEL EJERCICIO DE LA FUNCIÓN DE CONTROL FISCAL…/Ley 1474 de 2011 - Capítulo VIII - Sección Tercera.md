@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 129 Ley 1474 de 2011|Artículo 129]] — PLANEACIÓN ESTRATÉGICA EN LAS CONTRALORÍAS TERRITORIALES
-- [[art. 130 Ley 1474 de 2011|Artículo 130]] — METODOLOGÍA PARA EL PROCESO AUDITOR EN EL NIVEL TERRITORIAL
+- [[art. 129 Ley 1474 de 2011|Artículo 129]] — Planeación estratégica en las contralorías territoriales
+- [[art. 130 Ley 1474 de 2011|Artículo 130]] — Metodología para el proceso auditor en el nivel territorial
 
 ---
 ← [[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|Sección Segunda]] · ↑ [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]]

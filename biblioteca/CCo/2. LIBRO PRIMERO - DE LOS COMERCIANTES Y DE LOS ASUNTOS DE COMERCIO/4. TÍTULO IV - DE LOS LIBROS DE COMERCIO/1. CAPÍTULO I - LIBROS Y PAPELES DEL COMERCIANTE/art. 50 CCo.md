@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "50"
-epigrafe: "CONTABILIDAD - REQUISITOS"
+epigrafe: "CONTABILIDAD ? REQUISITOS"
 libro: "[[CCo - Libro Primero|LIBRO PRIMERO - DE LOS COMERCIANTES Y DE LOS ASUNTOS DE COMERCIO]]"
 titulo: "[[CCo - Libro Primero - Título IV|TÍTULO IV - DE LOS LIBROS DE COMERCIO]]"
 capitulo: "[[CCo - Libro Primero - Título IV - Capítulo I|CAPÍTULO I - LIBROS Y PAPELES DEL COMERCIANTE]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Primero|Libro Primero]] › [[CCo - Libro Primero - Título IV|Título IV]] › [[CCo - Libro Primero - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 50. CONTABILIDAD - REQUISITOS
+## Artículo 50. CONTABILIDAD ? REQUISITOS
 
 La contabilidad solamente podrá llevarse en idioma castellano, por el sistema de partida doble, en libros registrados, de manera que suministre una historia clara, completa y fidedigna de los negocios del comerciante, con sujeción a las reglamentaciones que expida el gobierno.
 

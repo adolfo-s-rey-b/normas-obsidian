@@ -7,7 +7,7 @@ articulo: "49"
 epigrafe: "IMPUGNACIÓN DE DECISIONES"
 titulo: "[[Ley 675 de 2001 - Título I|TÍTULO I - GENERALIDADES]]"
 capitulo: "[[Ley 675 de 2001 - Título I - Capítulo X|CAPÍTULO X - DE LA ASAMBLEA GENERAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 48 Ley 675 de 2001]]"
@@ -19,7 +19,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_675_de_2001
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 675 de 2001|Ley 675 de 2001]] › [[Ley 675 de 2001 - Título I|Título I]] › [[Ley 675 de 2001 - Título I - Capítulo X|Capítulo X]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "149"
-epigrafe: "COMPETENCIA DEL CONSEJO DE ESTADO EN ÚNICA INSTANCIA"
+epigrafe: "Competencia del Consejo de Estado en única instancia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo I|CAPÍTULO I - COMPETENCIA DEL CONSEJO DE ESTADO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 149. COMPETENCIA DEL CONSEJO DE ESTADO EN ÚNICA INSTANCIA
+## Artículo 149. Competencia del Consejo de Estado en única instancia
 
 El Consejo de Estado, en Sala Plena de lo Contencioso Administrativo, por intermedio de sus secciones, subsecciones o salas especiales, con arreglo a la distribución de trabajo que el reglamento disponga, conocerá en única instancia de los siguientes asuntos:
 

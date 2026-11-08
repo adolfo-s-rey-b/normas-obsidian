@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "492"
-epigrafe: "LOS CREDITOS O LAS DEUDAS INCOBRABLES NO DAN DERECHO A DESCUENTO"
+epigrafe: "LOS CRÉDITOS O LAS DEUDAS INCOBRABLES NO DAN DERECHO A DESCUENTO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título VII|TÍTULO VII - DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título VII|Título VII]]
 
-## Artículo 492. LOS CREDITOS O LAS DEUDAS INCOBRABLES NO DAN DERECHO A DESCUENTO
+## Artículo 492. LOS CRÉDITOS O LAS DEUDAS INCOBRABLES NO DAN DERECHO A DESCUENTO
 
 Los créditos y deudas incobrables en ningún caso darán derecho a descuento.
 

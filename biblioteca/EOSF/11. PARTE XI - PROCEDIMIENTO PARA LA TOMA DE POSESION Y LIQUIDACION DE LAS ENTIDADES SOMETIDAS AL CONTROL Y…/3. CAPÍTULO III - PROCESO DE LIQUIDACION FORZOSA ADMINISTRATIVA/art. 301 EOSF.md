@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "301"
-epigrafe: "OTRAS DISPOSICIONES"
+epigrafe: "Otras Disposiciones"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 301. OTRAS DISPOSICIONES
+## Artículo 301. Otras Disposiciones
 
 1\. Acuerdos de acreedores. En cualquier estado del proceso se podrá inducir o promover entre los acreedores acuerdos que se someterán, en lo que resulte pertinente, al régimen concordatario previsto en la ley; para su perfeccionamiento se requerirá del consentimiento de la mayoría absoluta de los acreedores reconocidos en la resolución que decidió sobre las reclamaciones, que a la vez represente no menos del setenta y cinco por ciento (75%) de los créditos reconocidos. En estos casos las decisiones podrán estar orientadas al restablecimiento de la intervenida, en cuyo caso el Fondo presentará a la Superintendencia Bancaria la respectiva solicitud. Igualmente se podrá acordar:
 

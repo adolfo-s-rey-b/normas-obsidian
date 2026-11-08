@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "141"
-epigrafe: "CONDICIONES DE ALGUNAS OPERACIONES DE LAS COMPAÑIAS DE FINANCIAMIENTO COMERCIAL*"
+epigrafe: "Condiciones de Algunas Operaciones de las Compañías de Financiamiento Comercial"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo V|CAPÍTULO V - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LAS COMPAÑIAS DE FINANCIAMIENTO COMERCIAL*]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 123 Ley 510 de 1999]]"
 anterior: "[[art. 140 EOSF]]"
@@ -26,18 +26,18 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo V|Capítulo V]]
 
-## Artículo 141. CONDICIONES DE ALGUNAS OPERACIONES DE LAS COMPAÑIAS DE FINANCIAMIENTO COMERCIAL*
+## Artículo 141. Condiciones de Algunas Operaciones de las Compañías de Financiamiento Comercial
 
 1\. Otorgamiento de aceptaciones. Las compañías de financiamiento comercial* sólo podrán otorgar aceptaciones previa presentación de documentos que reflejen que la relación causal que ha dado lugar a la emisión del título valor es una compraventa cierta de mercaderías, con identificación plena del girador y del tenedor inicial de aquél.
 
 Las compañías de financiamiento comercial* deberán dejar constancia en los registros respectivos del nombre completo y documento de identificación de las personas naturales giradoras del título valor, lo mismo que de los certificados de existencia y representación y de los poderes de quienes actúen como apoderados o representantes legales de las personas jurídicas giradoras de aquél.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 123 Ley 510 de 1999|123]] de la Ley 510 de 1999.
 

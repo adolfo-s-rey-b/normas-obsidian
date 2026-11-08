@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "141"
-epigrafe: "TEMERIDAD O MALA FE"
+epigrafe: "Temeridad o mala fe"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título V|TÍTULO V - DEBERES Y PODERES DE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
 capitulo: "[[CPP - Libro I - Título V - Capítulo II|CAPÍTULO II - DE LOS DEBERES DE LAS PARTES E INTERVINIENTES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título V|Título V]] › [[CPP - Libro I - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 141. TEMERIDAD O MALA FE
+## Artículo 141. Temeridad o mala fe
 
 Se considera que ha existido temeridad o mala fe, en los siguientes casos:
 

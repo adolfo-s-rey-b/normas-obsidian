@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 362 CGP|Artículo 362]] — ARANCEL
-- [[art. 363 CGP|Artículo 363]] — HONORARIOS DE AUXILIARES DE LA JUSTICIA Y SU COBRO EJECUTIVO
-- [[art. 364 CGP|Artículo 364]] — PAGO DE EXPENSAS Y HONORARIOS
+- [[art. 362 CGP|Artículo 362]] — Arancel
+- [[art. 363 CGP|Artículo 363]] — Honorarios de auxiliares de la justicia y su cobro ejecutivo
+- [[art. 364 CGP|Artículo 364]] — Pago de expensas y honorarios
 
 ---
 ← [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] · [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo III|Capítulo III]] →

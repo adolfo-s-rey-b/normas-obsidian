@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "35"
-epigrafe: "CESACIÓN DE FUNCIONES DEL TRIBUNAL"
+epigrafe: "Cesación de funciones del tribunal"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 35. CESACIÓN DE FUNCIONES DEL TRIBUNAL
+## Artículo 35. Cesación de funciones del tribunal
 
 El tribunal cesará en sus funciones:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "504"
-epigrafe: "ENTREGA DE LEGADOS EN ESPECIE"
+epigrafe: "Entrega de legados en especie"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 504. ENTREGA DE LEGADOS EN ESPECIE
+## Artículo 504. Entrega de legados en especie
 
 Los legados de especies muebles podrán entregarse al asignatario, teniendo en cuenta lo previsto en el artículo [[art. 1431 CC|1431]] del Código Civil, con la autorización del juez.
 

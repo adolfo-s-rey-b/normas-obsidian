@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "54"
-epigrafe: "MEDIDAS CAUTELARES"
+epigrafe: "Medidas cautelares"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo VI|CAPÍTULO VI - PROTECCIÓN AL CONSUMIDOR DE COMERCIO ELECTRÓNICO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo VI|Capítulo VI]]
 
-## Artículo 54. MEDIDAS CAUTELARES
+## Artículo 54. Medidas cautelares
 
 La Superintendencia de Industria y Comercio, de oficio o a petición de parte, podrá imponer una medida cautelar hasta por treinta (30) días calendario, prorrogables por treinta (30) días más, de bloqueo temporal de acceso al medio de comercio electrónico, cuando existan indicios graves que por ese medio se están violando los derechos de los consumidores, mientras se adelanta la investigación administrativa correspondiente.
 

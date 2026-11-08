@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "55"
-epigrafe: "ESPECULACIÓN, EL ACAPARAMIENTO Y LA USURA"
+epigrafe: "Especulación, el acaparamiento y la usura"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo VII|CAPÍTULO VII - DE LA ESPECULACIÓN, EL ACAPARAMIENTO Y LA USURA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo VII|Capítulo VII]]
 
-## Artículo 55. ESPECULACIÓN, EL ACAPARAMIENTO Y LA USURA
+## Artículo 55. Especulación, el acaparamiento y la usura
 
 Para los fines de la presente ley, se entenderá:
 

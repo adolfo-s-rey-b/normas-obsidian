@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 88 EOSF|Artículo 88]] — NEGOCIACION DE ACCIONES
-- [[art. 89 EOSF|Artículo 89]] — DEMOCRATIZACION DE LAS ACCIONES DE LAS ADMINISTRADORAS
-- [[art. 90 EOSF|Artículo 90]] — RESTRICCIONES A LA PARTICIPACION EN LAS SOCIEDADES CORREDORAS DE REASEGUROS
-- [[art. 91 EOSF|Artículo 91]] — INVERSION EXTRANJERA
+- [[art. 88 EOSF|Artículo 88]] — Negociación de Acciones
+- [[art. 89 EOSF|Artículo 89]] — Democratización de las Acciones de las Administradoras
+- [[art. 90 EOSF|Artículo 90]] — Restricciones a la Participación en las Sociedades Corredoras de Reaseguros
+- [[art. 91 EOSF|Artículo 91]] — Inversión Extranjera
 
 ---
 ← [[EOSF - Parte III - Capítulo IX|Capítulo IX]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XI|Capítulo XI]] →

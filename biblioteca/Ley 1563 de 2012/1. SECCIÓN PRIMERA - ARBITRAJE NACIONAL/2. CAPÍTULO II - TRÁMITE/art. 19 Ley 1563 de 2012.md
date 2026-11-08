@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "19"
-epigrafe: "CONTROL DISCIPLINARIO"
+epigrafe: "Control disciplinario"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "modificado"
@@ -29,7 +29,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 19. CONTROL DISCIPLINARIO
+## Artículo 19. Control disciplinario
 
 En los términos de la Ley Estatutaria de la Administración de Justicia, el control disciplinario de los árbitros, los secretarios y los auxiliares de los tribunales arbitrales, se regirá por las normas disciplinarias de los servidores judiciales y auxiliares de la justicia.
 

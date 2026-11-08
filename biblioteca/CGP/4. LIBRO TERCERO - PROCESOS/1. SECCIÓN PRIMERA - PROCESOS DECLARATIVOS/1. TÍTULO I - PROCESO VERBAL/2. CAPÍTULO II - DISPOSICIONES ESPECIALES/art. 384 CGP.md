@@ -8,12 +8,12 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "384"
-epigrafe: "RESTITUCIÓN DE INMUEBLE ARRENDADO"
+epigrafe: "Restitución de inmueble arrendado"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
 capitulo: "[[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 146 Ley 2220 de 2022]]"
 anterior: "[[art. 383 CGP]]"
@@ -28,12 +28,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 384. RESTITUCIÓN DE INMUEBLE ARRENDADO
+## Artículo 384. Restitución de inmueble arrendado
 
 Cuando el arrendador demande para que el arrendatario le restituya el inmueble arrendado se aplicarán las siguientes reglas:
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "457"
-epigrafe: "BASE GRAVABLE MINIMA EN LA VENTA DE ACTIVOS FIJOS POR INTERMEDIARIOS"
+epigrafe: "BASE GRAVABLE MÍNIMA EN LA VENTA DE ACTIVOS FIJOS POR INTERMEDIARIOS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 457. BASE GRAVABLE MINIMA EN LA VENTA DE ACTIVOS FIJOS POR INTERMEDIARIOS
+## Artículo 457. BASE GRAVABLE MÍNIMA EN LA VENTA DE ACTIVOS FIJOS POR INTERMEDIARIOS
 
 Para los efectos de lo previsto en el artículo anterior, en ningún caso, la base gravable será inferior al tres por ciento (3%) del precio de venta. Cuando se trate de automotores producidos o ensamblados en el país que tengan un año o menos de salida de fábrica, o de automotores que tengan un año o menos de nacionalizados, la base gravable no podrá ser inferior al cinco por ciento (5%) del precio de venta.
 

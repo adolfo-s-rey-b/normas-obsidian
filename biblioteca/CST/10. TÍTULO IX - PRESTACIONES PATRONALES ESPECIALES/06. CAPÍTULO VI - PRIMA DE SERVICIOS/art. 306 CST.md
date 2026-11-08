@@ -11,7 +11,7 @@ articulo: "306"
 epigrafe: "DE LA PRIMA DE SERVICIOS A FAVOR DE TODO EMPLEADO"
 titulo: "[[CST - Título IX|TÍTULO IX - PRESTACIONES PATRONALES ESPECIALES]]"
 capitulo: "[[CST - Título IX - Capítulo VI|CAPÍTULO VI - PRIMA DE SERVICIOS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Ley 1788 de 2016]]"
   - "[[art. 320 CST]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título IX|Título IX]] › [[CST - Título IX - Capítulo VI|Capítulo VI]]

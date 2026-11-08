@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "40"
-epigrafe: "PODERES DEL COMISIONADO"
+epigrafe: "Poderes del comisionado"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título II|TÍTULO II - COMISI]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título II|Título II]]
 
-## Artículo 40. PODERES DEL COMISIONADO
+## Artículo 40. Poderes del comisionado
 
 El comisionado tendrá las mismas facultades del comitente en relación con la diligencia que se le delegue, inclusive las de resolver reposiciones y conceder apelaciones contra las providencias que dicte, susceptibles de esos recursos. Sobre la concesión de las apelaciones que se interpongan se resolverá al final de la diligencia.
 

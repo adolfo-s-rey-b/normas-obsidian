@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "74"
-epigrafe: "CALIDAD DE LOS MIEMBROS DE LOS CONSEJOS DIRECTIVOS"
+epigrafe: "Calidad de los miembros de los consejos directivos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 73 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 74. CALIDAD DE LOS MIEMBROS DE LOS CONSEJOS DIRECTIVOS
+## Artículo 74. Calidad de los miembros de los consejos directivos
 
 Los particulares miembros de los consejos directivos o asesores de los establecimientos públicos, aunque ejercen funciones públicas, no adquieren por ese solo hecho la calidad de empleados públicos. Su responsabilidad, lo mismo que sus incompatibilidades e inhabilidades, se regirán por las leyes de la materia y los estatutos internos del respectivo organismo.
 

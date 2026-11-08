@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "314"
-epigrafe: "RELACIONES LABORALES DE LA ENTIDAD NACIONALIZADA"
+epigrafe: "Relaciones Laborales de la Entidad Nacionalizada"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo III|CAPÍTULO III - DISPOSICIONES TRANSITORIAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo III|Capítulo III]]
 
-## Artículo 314. RELACIONES LABORALES DE LA ENTIDAD NACIONALIZADA
+## Artículo 314. Relaciones Laborales de la Entidad Nacionalizada
 
 Las relaciones laborales en las instituciones financieras nacionalizadas, seguirán rigiéndose por las normas del Código Sustantivo del Trabajo, y por las disposiciones legales y convencionales vigentes, sin que los derechos sociales de los trabajadores puedan ser desmejorados como consecuencia de la nacionalización. Se atenderá especialmente a los intereses de los trabajadores, para proteger a quienes están cumpliendo correctamente sus deberes.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "1"
-epigrafe: "DEL APOYO DE LOS ESTUDIANTES A LOS DESPACHOS JUDICIALES"
+epigrafe: "Del apoyo de los estudiantes a los despachos judiciales"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 1|CAPÍTULO 1 - DE LOS DESPACHOS JUDICIALES]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 1|Capítulo 1]]
 
-## Artículo 1. DEL APOYO DE LOS ESTUDIANTES A LOS DESPACHOS JUDICIALES
+## Artículo 1. Del apoyo de los estudiantes a los despachos judiciales
 
 Con el fin de colaborar en la descongestión de los despachos judiciales y de conformidad con las normas relativas a los estudios de derecho, el Consejo Superior de la Judicatura podrá dictar los acuerdos pertinentes para reglamentar la realización de ciertas actividades por parte de los estudiantes de derecho, como equivalentes a las prácticas, que correspondan a cada pénsum académico.
 

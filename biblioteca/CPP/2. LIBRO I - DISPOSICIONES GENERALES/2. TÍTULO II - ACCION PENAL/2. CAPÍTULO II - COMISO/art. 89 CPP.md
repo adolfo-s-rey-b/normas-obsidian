@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "89"
-epigrafe: "BIENES O RECURSOS NO RECLAMADOS"
+epigrafe: "Bienes o recursos no reclamados"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 89. BIENES O RECURSOS NO RECLAMADOS
+## Artículo 89. Bienes o recursos no reclamados
 
 Ordenada la devolución de bienes o recursos, se comunicará de la manera más inmediata o en el término de la distancia a quien tenga derecho a recibirlos para que los reclame dentro de los quince (15) días siguientes a la efectiva recepción de la comunicación. Transcurrido el término anterior sin que los bienes sean reclamados, se dejarán a disposición del Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación.
 

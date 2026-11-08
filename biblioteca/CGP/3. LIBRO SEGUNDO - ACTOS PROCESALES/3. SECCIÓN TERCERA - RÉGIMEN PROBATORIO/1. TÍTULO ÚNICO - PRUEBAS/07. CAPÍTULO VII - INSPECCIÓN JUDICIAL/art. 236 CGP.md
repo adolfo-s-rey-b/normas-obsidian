@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "236"
-epigrafe: "PROCEDENCIA DE LA INSPECCIÓN"
+epigrafe: "Procedencia de la inspección"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 236. PROCEDENCIA DE LA INSPECCIÓN
+## Artículo 236. Procedencia de la inspección
 
 Para la verificación o el esclarecimiento de hechos materia del proceso podrá ordenarse, de oficio o a petición de parte, el examen de personas, lugares, cosas o documentos.
 

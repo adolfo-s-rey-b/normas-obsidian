@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "208"
-epigrafe: "PROCEDENCIA, OBJETIVO Y TRÁMITE DE LA INDAGACIÓN PREVIA"
+epigrafe: "Procedencia, objetivo y trámite de la indagación previa"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo I|CAPÍTULO I - INDAGACIÓN PREVIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo I|Capítulo I]]
 
-## Artículo 208. PROCEDENCIA, OBJETIVO Y TRÁMITE DE LA INDAGACIÓN PREVIA
+## Artículo 208. Procedencia, objetivo y trámite de la indagación previa
 
 En caso de duda sobre la identificación o individualización del posible autor de una falta disciplinaria, se adelantará indagación previa.
 

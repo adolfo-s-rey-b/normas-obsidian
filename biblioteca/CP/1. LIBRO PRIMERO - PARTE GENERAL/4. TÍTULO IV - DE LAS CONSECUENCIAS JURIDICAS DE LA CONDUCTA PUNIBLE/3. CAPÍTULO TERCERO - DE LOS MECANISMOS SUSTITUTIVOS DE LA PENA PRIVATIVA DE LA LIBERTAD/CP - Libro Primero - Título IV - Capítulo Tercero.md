@@ -24,8 +24,8 @@ tags:
 ### Contenido
 
 - [[art. 63 CP|Artículo 63]] — SUSPENSIÓN DE LA EJECUCIÓN DE LA PENA
-- [[art. 64 CP|Artículo 64]] — LIBERTAD CONDICIONAL
-- [[art. 65 CP|Artículo 65]] — OBLIGACIONES
+- [[art. 64 CP|Artículo 64]] — Libertad Condicional
+- [[art. 65 CP|Artículo 65]] — Obligaciones
 - [[art. 66 CP|Artículo 66]] — Revocación de la suspensión de la ejecución condicional de la pena y de la libertad condicional
 - [[art. 67 CP|Artículo 67]] — Extinción y liberacion
 - [[art. 68 CP|Artículo 68]] — RECLUSIÓN DOMICILIARIA U HOSPITALARIA POR ENFERMEDAD

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "253"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo I|CAPÍTULO I - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 253. TRÁMITE
+## Artículo 253. Trámite
 
 Recibido el expediente, el magistrado ponente resolverá sobre la admisión del recurso. Si este se inadmite por no reunir los requisitos formales exigidos en el artículo [[art. 252 CPACA|252]], se concederá al recurrente un plazo de cinco (5) días para subsanar los defectos advertidos.
 

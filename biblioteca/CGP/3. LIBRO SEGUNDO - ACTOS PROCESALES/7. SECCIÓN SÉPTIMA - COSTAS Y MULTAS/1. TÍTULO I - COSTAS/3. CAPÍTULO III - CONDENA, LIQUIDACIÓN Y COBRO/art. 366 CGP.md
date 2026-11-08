@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "366"
-epigrafe: "LIQUIDACIÓN"
+epigrafe: "Liquidación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título I|TÍTULO I - COSTAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]] › [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 366. LIQUIDACIÓN
+## Artículo 366. Liquidación
 
 Las costas y agencias en derecho serán liquidadas de manera concentrada en el juzgado que haya conocido del proceso en primera o única instancia, inmediatamente quede ejecutoriada la providencia que le ponga fin al proceso o notificado el auto de obedecimiento a lo dispuesto por el superior, con sujeción a las siguientes reglas:
 

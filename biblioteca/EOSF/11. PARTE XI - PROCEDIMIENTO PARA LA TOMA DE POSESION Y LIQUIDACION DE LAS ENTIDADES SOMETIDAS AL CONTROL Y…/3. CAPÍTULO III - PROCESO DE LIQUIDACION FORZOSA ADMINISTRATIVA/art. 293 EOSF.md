@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "293"
-epigrafe: "NATURALEZA Y NORMAS APLICABLES DE LA LIQUIDACION FORZOSA ADMINISTRATIVA"
+epigrafe: "Naturaleza y Normas Aplicables de la Liquidación Forzosa Administrativa"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 293. NATURALEZA Y NORMAS APLICABLES DE LA LIQUIDACION FORZOSA ADMINISTRATIVA
+## Artículo 293. Naturaleza y Normas Aplicables de la Liquidación Forzosa Administrativa
 
 1\. Naturaleza y objeto del proceso. El proceso de liquidación forzosa administrativa de una entidad vigilada por la Superintendencia Bancaria es un proceso concursal y universal, tiene por finalidad esencial la pronta realización de los activos y el pago gradual y rápido del pasivo externo a cargo de la respectiva entidad hasta la concurrencia de sus activos, preservando la igualdad entre los acreedores sin perjuicio de las disposiciones legales que confieren privilegios de exclusión y preferencia a determinada clase de créditos.
 

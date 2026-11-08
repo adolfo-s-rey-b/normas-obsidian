@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "338"
-epigrafe: "INCORPORACION DE LAS NORMAS DICTADAS EN DESARROLLO DE LAS FACULTADES OTORGADAS POR LA LEY 35 DE 1993"
+epigrafe: "Incorporación de las Normas Dictadas en Desarrollo de las Facultades Otorgadas por la Ley 35 de 1993"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo II|CAPÍTULO II - SUPERINTENDENCIA BANCARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo II|Capítulo II]]
 
-## Artículo 338. INCORPORACION DE LAS NORMAS DICTADAS EN DESARROLLO DE LAS FACULTADES OTORGADAS POR LA LEY 35 DE 1993
+## Artículo 338. Incorporación de las Normas Dictadas en Desarrollo de las Facultades Otorgadas por la Ley 35 de 1993
 
 Sin perjuicio de lo dispuesto en el artículo siguiente, el presente Estatuto incorpora y sustituye los Decretos 654, 655 y 656, todos del 1o. de abril de 1993, en virtud de los cuales se ejercieron las facultades extraordinarias otorgadas al Gobierno Nacional por los artículos [[art. 19 Ley 35 de 1993|19]], [[art. 36 Ley 35 de 1993|36]] y [[art. 38 Ley 35 de 1993|38]] de la Ley 35 de 1993.
 

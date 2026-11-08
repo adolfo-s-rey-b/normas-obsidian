@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "496"
-epigrafe: "ADMINISTRACIÓN DE LA HERENCIA"
+epigrafe: "Administración de la herencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 496. ADMINISTRACIÓN DE LA HERENCIA
+## Artículo 496. Administración de la herencia
 
 Desde la apertura del proceso de sucesión, hasta cuando se ejecutoríe la sentencia aprobatoria de la partición o adjudicación de bienes, la administración de estos se sujetará a las siguientes reglas:
 

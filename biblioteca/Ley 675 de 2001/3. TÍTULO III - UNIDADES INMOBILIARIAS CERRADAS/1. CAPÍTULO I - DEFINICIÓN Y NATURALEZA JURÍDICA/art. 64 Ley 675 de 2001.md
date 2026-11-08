@@ -7,7 +7,7 @@ articulo: "64"
 epigrafe: "CONSTITUCIÓN DE UNIDADES INMOBILIARIAS CERRADAS"
 titulo: "[[Ley 675 de 2001 - Título III|TÍTULO III - UNIDADES INMOBILIARIAS CERRADAS]]"
 capitulo: "[[Ley 675 de 2001 - Título III - Capítulo I|CAPÍTULO I - DEFINICIÓN Y NATURALEZA JURÍDICA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 63 Ley 675 de 2001]]"
 siguiente: "[[art. 65 Ley 675 de 2001]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0675_2001.html"
@@ -17,7 +17,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_675_de_2001
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 675 de 2001|Ley 675 de 2001]] › [[Ley 675 de 2001 - Título III|Título III]] › [[Ley 675 de 2001 - Título III - Capítulo I|Capítulo I]]

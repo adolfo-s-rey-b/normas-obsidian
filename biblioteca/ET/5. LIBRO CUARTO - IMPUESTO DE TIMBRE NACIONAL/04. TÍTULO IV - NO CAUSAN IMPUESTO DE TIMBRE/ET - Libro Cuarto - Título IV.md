@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 529 ET|Artículo 529]] — LAS OBLIGACIONES RELACIONADAS CON EL CREDITO EXTERNO
+- [[art. 529 ET|Artículo 529]] — LAS OBLIGACIONES RELACIONADAS CON EL CRÉDITO EXTERNO
 
 ---
 ← [[ET - Libro Cuarto - Título III|Título III]] · ↑ [[ET - Libro Cuarto|Libro Cuarto]] · [[ET - Libro Cuarto - Título V|Título V]] →

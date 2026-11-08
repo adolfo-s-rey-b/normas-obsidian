@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "135"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 capitulo: "[[Ley 1474 de 2011 - Capítulo X|CAPÍTULO X - VIGENCIA]]"
 vigencia: "vigente"
 anterior: "[[art. 134 Ley 1474 de 2011]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo X|Capítulo X]]
 
-## Artículo 135. VIGENCIA
+## Artículo 135. Vigencia
 
 La presente ley rige a partir de su promulgación y deroga las normas que le sean contrarias.
 

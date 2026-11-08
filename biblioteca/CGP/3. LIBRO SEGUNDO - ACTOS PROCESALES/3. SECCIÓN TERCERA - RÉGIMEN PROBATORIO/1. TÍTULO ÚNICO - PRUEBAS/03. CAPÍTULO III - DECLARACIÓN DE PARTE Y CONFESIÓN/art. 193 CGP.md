@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "193"
-epigrafe: "CONFESIÓN POR APODERADO JUDICIAL"
+epigrafe: "Confesión por apoderado judicial"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 193. CONFESIÓN POR APODERADO JUDICIAL
+## Artículo 193. Confesión por apoderado judicial
 
 La confesión por apoderado judicial valdrá cuando para hacerla haya recibido autorización de su poderdante, la cual se entiende otorgada para la demanda y las excepciones, las correspondientes contestaciones, la audiencia inicial y la audiencia del proceso verbal sumario. Cualquier estipulación en contrario se tendrá por no escrita.
 

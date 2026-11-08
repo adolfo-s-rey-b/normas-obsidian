@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 204 CPTSS|Artículo 204]] — CONDENA EN CONCRETO
+- [[art. 204 CPTSS|Artículo 204]] — Condena en concreto
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] · [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo III|Capítulo III]] →

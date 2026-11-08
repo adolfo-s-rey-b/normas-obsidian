@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "328B"
-epigrafe: "CAZA ILEGAL"
+epigrafe: "Caza Ilegal"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XI|TÍTULO XI - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES Y EL MEDIO AMBI ENTE]]"
 capitulo: "[[CP - Libro Segundo - Título XI - Capítulo I|CAPÍTULO I - DE LOS DELITOS CONTRA LOS RECURSOS NATURALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XI|Título XI]] › [[CP - Libro Segundo - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 328B. CAZA ILEGAL
+## Artículo 328B. Caza Ilegal
 
 El que sin permiso de autoridad competente o con incumplimiento de la normatividad existente, cazare, excediere el número de piezas permitidas o cazare en épocas de vedas, incurrirá en prisión de dieciséis (16) a cincuenta y cuatro (54) meses y multa de treinta y tres (33) a novecientos treinta y siete (937) salarios mínimos legales mensuales vigentes, siempre que la conducta no constituya delito sancionado con pena mayor.
 

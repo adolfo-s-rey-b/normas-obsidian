@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "32"
-epigrafe: "MEDIDAS CAUTELARES"
+epigrafe: "Medidas cautelares"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 32. MEDIDAS CAUTELARES
+## Artículo 32. Medidas cautelares
 
 A petición de cualquiera de las partes, el tribunal podrá ordenar las medidas cautelares que serían procedentes de tramitarse el proceso ante la justicia ordinaria o la contencioso administrativa, cuyos decretos, práctica y levantamiento se someterán a las normas del Código de Procedimiento Civil, el Código de Procedimiento Administrativo y de lo Contencioso Administrativo y a las disposiciones especiales pertinentes. El tribunal podrá comisionar al juez civil municipal o del circuito del lugar en donde deba practicarse la medida cautelar. Cuando se trate de procesos arbitrales en que sea parte una entidad pública o quien desempeñe funciones administrativas, además de la posibilidad de comisionar a los referidos jueces civiles, el tribunal de arbitraje podrá comisionar al juez administrativo, si lo considera conveniente.
 

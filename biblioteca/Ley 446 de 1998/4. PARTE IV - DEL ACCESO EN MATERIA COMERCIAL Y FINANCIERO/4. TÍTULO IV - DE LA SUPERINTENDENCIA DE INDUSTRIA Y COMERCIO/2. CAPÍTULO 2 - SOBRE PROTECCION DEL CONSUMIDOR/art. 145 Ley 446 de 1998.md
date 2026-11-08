@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "145"
-epigrafe: "ATRIBUCIONES EN MATERIA DE PROTECCION AL CONSUMIDOR"
+epigrafe: "Atribuciones en materia de protección al consumidor"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título IV|TÍTULO IV - DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 2|CAPÍTULO 2 - SOBRE PROTECCION DEL CONSUMIDOR]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título IV|Título IV]] › [[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 2|Capítulo 2]]
 
-## Artículo 145. ATRIBUCIONES EN MATERIA DE PROTECCION AL CONSUMIDOR
+## Artículo 145. Atribuciones en materia de protección al consumidor
 
 La Superintendencia de Industria y Comercio ejercerá, a prevención, las siguientes atribuciones en materia de protección del consumidor, sin perjuicio de otras facultades que por disposición legal le correspondan:
 

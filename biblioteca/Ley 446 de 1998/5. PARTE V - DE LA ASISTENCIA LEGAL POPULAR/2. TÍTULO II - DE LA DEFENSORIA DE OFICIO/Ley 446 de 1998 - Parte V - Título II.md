@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 161 Ley 446 de 1998|Artículo 161]] — ABOGADOS INSCRITOS
+- [[art. 161 Ley 446 de 1998|Artículo 161]] — Abogados inscritos
 
 ---
 ← [[Ley 446 de 1998 - Parte V - Título I|Título I]] · ↑ [[Ley 446 de 1998 - Parte V|Parte V]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "222"
-epigrafe: "OBLIGACIONES DE LAS ENTIDADES QUE INTEGRAN EL SISTEMA NACIONAL DE CREDITO AGROPECUARIO"
+epigrafe: "Obligaciones de las Entidades que Integran el Sistema Nacional de Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 222. OBLIGACIONES DE LAS ENTIDADES QUE INTEGRAN EL SISTEMA NACIONAL DE CREDITO AGROPECUARIO
+## Artículo 222. Obligaciones de las Entidades que Integran el Sistema Nacional de Crédito Agropecuario
 
 1\. Control de inversiones en los créditos agropecuarios El control de inversiones en los créditos agropecuarios, quedará sujeto a las reglamentaciones que para tal efecto determine la Comisión Nacional de Crédito Agropecuario; así mismo, esta última reglamentará una línea especial de crédito, para financiar la prestación del servicio de asistencia técnica en los créditos agropecuarios.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 126 CGP|Artículo 126]] — TRÁMITE PARA LA RECONSTRUCCIÓN
+- [[art. 126 CGP|Artículo 126]] — Trámite para la reconstrucción
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título III - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título III|Título III]]

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "21"
-epigrafe: "TERMINACIÓN POR MUTUO ACUERDO"
+epigrafe: "Terminación por mutuo acuerdo"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 20 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 21. TERMINACIÓN POR MUTUO ACUERDO
+## Artículo 21. Terminación por mutuo acuerdo
 
 Las partes, en cualquier tiempo, y de común acuerdo podrán dar por terminado el contrato de vivienda urbana.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "274"
-epigrafe: "SOLICITUD DE PRUEBA ANTICIPADA"
+epigrafe: "Solicitud de prueba anticipada"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 274. SOLICITUD DE PRUEBA ANTICIPADA
+## Artículo 274. Solicitud de prueba anticipada
 
 El imputado o su defensor, podrán solicitar al juez de control de garantías, la práctica anticipada de cualquier medio de prueba, en casos de extrema necesidad y urgencia, para evitar la pérdida o alteración del medio probatorio. Se efectuará una audiencia, previa citación al fiscal correspondiente para garantizar el contradictorio.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "166"
-epigrafe: "RETIRO DE SUMAS ABONADAS"
+epigrafe: "Retiro de Sumas Abonadas"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 166. RETIRO DE SUMAS ABONADAS
+## Artículo 166. Retiro de Sumas Abonadas
 
 1\. Procedencia ordinaria del retiro. El trabajador afiliado a un fondo de cesantía sólo podrá retirar las sumas abonadas en su cuenta en los siguientes casos:
 
@@ -54,7 +54,7 @@ c. Para financiar los pagos por concepto de matrículas del trabajador, su cóny
 
 **PARAGRAFO.** El Gobierno fijará el procedimiento que deba seguirse para efectos del traslado de los saldos de cesantía por parte de todo trabajador de un fondo a otro de la misma naturaleza.
 
-> [!note] Notas del Editor: Adicional a lo dispuesto en este artículo destaca el editor lo dispuesto en el artículo [[art. 11 Ley 226 de 1995|11]] Num. 4 de la Ley 226 de 1995 'por la cual se desarrolla el artículo [[art. 60 CPol|60]] de la Constitución Política en cuanto a la enajenación de la propiedad accionaria estatal, se toman medidas para su democratización y se dictan otras disposiciones', publicada en el Diario Oficial No. 42.159, de 21 de diciembre de 1995. (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 11 . La enajenación accionaria que se apruebe para cada caso particular, comprenderá las siguientes condiciones especiales, de las cuales serán destinatarios exclusivos los mencionados en el artículo [[art. 3 EOSF|3]] o., de la presente Ley: (...) 4. Cuando los adquirentes sean personas naturales, podrán utilizar las cesantías que tengan acumuladas, con el objeto de adquirir estas acciones. '.
+> [!note] Notas del Editor: Adicional a lo dispuesto en este artículo destaca el editor lo dispuesto en el artículo [[art. 11 Ley 226 de 1995|11]] Num. 4 de la Ley 226 de 1995 'por la cual se desarrolla el artículo [[art. 60 CPol|60]] de la Constitución Política en cuanto a la enajenación de la propiedad accionaria estatal, se toman medidas para su democratización y se dictan otras disposiciones', publicada en el Diario Oficial No. 42.159, de 21 de diciembre de 1995. (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 11 . La enajenación accionaria que se apruebe para cada caso particular, comprenderá las siguientes condiciones especiales, de las cuales serán destinatarios exclusivos los mencionados en el artículo 3 o., de la presente Ley: (...) 4. Cuando los adquirentes sean personas naturales, podrán utilizar las cesantías que tengan acumuladas, con el objeto de adquirir estas acciones. '.
 
 ---
 ← [[art. 165 EOSF]] · ↑ [[EOSF - Parte V - Capítulo V|Capítulo V]] · [[art. 167 EOSF]] →

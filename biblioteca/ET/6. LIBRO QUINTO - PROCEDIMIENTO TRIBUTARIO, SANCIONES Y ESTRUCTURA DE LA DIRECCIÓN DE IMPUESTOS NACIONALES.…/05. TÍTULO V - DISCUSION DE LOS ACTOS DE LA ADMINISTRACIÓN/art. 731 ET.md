@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "731"
-epigrafe: "TERMINO PARA ALEGARLAS"
+epigrafe: "TÉRMINO PARA ALEGARLAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
 
-## Artículo 731. TERMINO PARA ALEGARLAS
+## Artículo 731. TÉRMINO PARA ALEGARLAS
 
 Dentro del término señalado para interponer el recurso, deberán alegarse las nulidades del acto impugnado, en el escrito de interposición del recurso o mediante adición del mismo.
 

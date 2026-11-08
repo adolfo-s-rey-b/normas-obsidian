@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "77"
-epigrafe: "REGIMEN DE INCOMPATIBILIDADES E INHABILIDADES DE LAS SOCIEDADES DE CAPITALIZACION, ASEGURADORAS E INTERMEDIARIOS"
+epigrafe: "Régimen de Incompatibilidades e Inhabilidades de las Sociedades de Capitalización, Aseguradoras e Intermediarios"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 77. REGIMEN DE INCOMPATIBILIDADES E INHABILIDADES DE LAS SOCIEDADES DE CAPITALIZACION, ASEGURADORAS E INTERMEDIARIOS
+## Artículo 77. Régimen de Incompatibilidades e Inhabilidades de las Sociedades de Capitalización, Aseguradoras e Intermediarios
 
 1\. Régimen aplicable para las entidades aseguradoras. No podrán desempeñarse como administradores o personas que a cualquier título dirijan las entidades aseguradoras quienes tengan la calidad de socios o administradores de sociedades intermediarias de seguros, o quienes sean administradores de otra entidad aseguradora que explote el mismo ramo de negocios.
 

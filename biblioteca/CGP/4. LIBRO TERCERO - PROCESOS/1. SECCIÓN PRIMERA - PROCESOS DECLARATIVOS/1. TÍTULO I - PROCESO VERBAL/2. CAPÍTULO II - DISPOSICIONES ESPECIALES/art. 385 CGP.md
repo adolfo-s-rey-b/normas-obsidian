@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "385"
-epigrafe: "OTROS PROCESOS DE RESTITUCIÓN DE TENENCIA"
+epigrafe: "Otros procesos de restitución de tenencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 385. OTROS PROCESOS DE RESTITUCIÓN DE TENENCIA
+## Artículo 385. Otros procesos de restitución de tenencia
 
 Lo dispuesto en el artículo precedente se aplicará a la restitución de bienes subarrendados, a la de muebles dados en arrendamiento y a la de cualquier clase de bienes dados en tenencia a título distinto de arrendamiento, lo mismo que a la solicitada por el adquirente que no esté obligado a respetar el arriendo.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "117"
-epigrafe: "MOTIVACIÓN DE LAS DECISIONES DISCIPLINARÍAS, TÉRMINO PARA ADOPTAR DECISIONES"
+epigrafe: "Motivación de las decisiones disciplinarias, termino para adoptar decisiones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 117. MOTIVACIÓN DE LAS DECISIONES DISCIPLINARÍAS, TÉRMINO PARA ADOPTAR DECISIONES
+## Artículo 117. Motivación de las decisiones disciplinarias, termino para adoptar decisiones
 
 Salvo lo dispuesto en normas especiales de este código, todas las decisiones interlocutorias y los fallos que se profieran en el curso de la actuación deberán motivarse.
 

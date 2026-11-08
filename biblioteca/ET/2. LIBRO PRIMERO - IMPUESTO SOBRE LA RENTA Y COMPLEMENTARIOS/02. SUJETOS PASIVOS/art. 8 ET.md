@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "8"
-epigrafe: "LOS CONYUGES SE GRAVAN EN FORMA INDIVIDUAL"
+epigrafe: "LOS CÓNYUGES SE GRAVAN EN FORMA INDIVIDUAL"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 rubro: "[[ET - Libro Primero - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 8. LOS CONYUGES SE GRAVAN EN FORMA INDIVIDUAL
+## Artículo 8. LOS CÓNYUGES SE GRAVAN EN FORMA INDIVIDUAL
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

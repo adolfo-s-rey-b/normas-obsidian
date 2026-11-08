@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "55"
-epigrafe: "DESIGNACIÓN Y SUSTITUCIÓN DE APODERADOS"
+epigrafe: "Designación y sustitución de apoderados"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 55. DESIGNACIÓN Y SUSTITUCIÓN DE APODERADOS
+## Artículo 55. Designación y sustitución de apoderados
 
 Podrá conferirse poder a uno o varios abogados, pero en ningún caso podrá actuar simultáneamente más de un apoderado judicial de una misma persona.
 

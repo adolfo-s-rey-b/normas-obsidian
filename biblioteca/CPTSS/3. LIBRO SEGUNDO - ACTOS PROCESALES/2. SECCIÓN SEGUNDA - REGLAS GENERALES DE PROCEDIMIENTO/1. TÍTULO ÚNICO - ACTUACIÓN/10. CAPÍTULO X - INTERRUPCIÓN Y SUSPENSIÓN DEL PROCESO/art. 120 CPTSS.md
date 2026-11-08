@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "120"
-epigrafe: "DECRETO DE LA SUSPENSIÓN Y SUS EFECTOS"
+epigrafe: "Decreto de la suspensión y sus efectos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo X|Capítulo X]]
 
-## Artículo 120. DECRETO DE LA SUSPENSIÓN Y SUS EFECTOS
+## Artículo 120. Decreto de la suspensión y sus efectos
 
 Corresponderá al juez que conoce del proceso resolver sobre la procedencia de la suspensión.
 

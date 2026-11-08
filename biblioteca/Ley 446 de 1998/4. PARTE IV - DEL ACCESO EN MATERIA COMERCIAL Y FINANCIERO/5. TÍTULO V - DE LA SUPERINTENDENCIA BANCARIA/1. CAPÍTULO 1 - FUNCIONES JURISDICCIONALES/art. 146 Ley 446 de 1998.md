@@ -8,7 +8,7 @@ epigrafe: "ATRIBUCION EXCEPCIONAL DE COMPETENCIA A LA SUPERINTENDENCIA BANCARIA"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título V|TÍTULO V - DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título V - Capítulo 1|CAPÍTULO 1 - FUNCIONES JURISDICCIONALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 51 Ley 510 de 1999]]"
   - "[[art. 1 EOSF]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título V|Título V]] › [[Ley 446 de 1998 - Parte IV - Título V - Capítulo 1|Capítulo 1]]

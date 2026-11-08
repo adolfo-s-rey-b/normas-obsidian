@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "125"
-epigrafe: "NOTIFICACIÓN POR ESTADO ELECTRÓNICO"
+epigrafe: "Notificación por estado electrónico"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 125. NOTIFICACIÓN POR ESTADO ELECTRÓNICO
+## Artículo 125. Notificación por estado electrónico
 
 Se surtirá mediante anotación e inserción en estado electrónico, en el que deberá constar:
 

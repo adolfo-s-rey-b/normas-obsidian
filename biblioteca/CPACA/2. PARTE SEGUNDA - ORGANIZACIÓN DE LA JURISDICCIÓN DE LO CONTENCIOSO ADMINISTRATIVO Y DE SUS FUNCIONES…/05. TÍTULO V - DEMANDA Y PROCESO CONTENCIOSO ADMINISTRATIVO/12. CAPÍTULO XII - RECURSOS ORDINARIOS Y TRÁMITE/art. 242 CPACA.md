@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "242"
-epigrafe: "REPOSICIÓN"
+epigrafe: "Reposición"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XII|CAPÍTULO XII - RECURSOS ORDINARIOS Y TRÁMITE]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XII|Capítulo XII]]
 
-## Artículo 242. REPOSICIÓN
+## Artículo 242. Reposición
 
 El recurso de reposición procede contra todos los autos, salvo norma legal en contrario. En cuanto a su oportunidad y trámite, se aplicará lo dispuesto en el Código General del Proceso.
 

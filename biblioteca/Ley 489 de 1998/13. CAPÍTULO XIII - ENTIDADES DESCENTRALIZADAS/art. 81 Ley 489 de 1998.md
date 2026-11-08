@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "81"
-epigrafe: "REGIMEN DE LOS ACTOS Y CONTRATOS"
+epigrafe: "Régimen de los actos y contratos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 80 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 81. REGIMEN DE LOS ACTOS Y CONTRATOS
+## Artículo 81. Régimen de los actos y contratos
 
 Los actos unilaterales que expidan los establecimientos públicos en ejercicio de funciones administrativas son actos administrativos y se sujetan a las disposiciones del Código Contencioso Administrativo.
 

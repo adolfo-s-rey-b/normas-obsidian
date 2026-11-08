@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "11"
-epigrafe: "DERECHOS DE LAS VÍCTIMAS"
+epigrafe: "Derechos de las víctimas"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 10 CPP]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 11. DERECHOS DE LAS VÍCTIMAS
+## Artículo 11. Derechos de las víctimas
 
 El Estado garantizará el acceso de las víctimas a la administración de justicia, en los términos establecidos en este código.
 

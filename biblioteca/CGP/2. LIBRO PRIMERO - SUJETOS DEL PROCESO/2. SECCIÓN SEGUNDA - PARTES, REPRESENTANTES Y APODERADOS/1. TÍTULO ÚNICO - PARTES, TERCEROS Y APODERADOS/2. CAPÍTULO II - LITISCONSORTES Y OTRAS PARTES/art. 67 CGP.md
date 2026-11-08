@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "67"
-epigrafe: "LLAMAMIENTO AL POSEEDOR O TENEDOR"
+epigrafe: "Llamamiento al poseedor o tenedor"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 67. LLAMAMIENTO AL POSEEDOR O TENEDOR
+## Artículo 67. Llamamiento al poseedor o tenedor
 
 El que tenga una cosa a nombre de otro y sea demandado como poseedor de ella, deberá expresarlo así en el término de traslado de la demanda, con la indicación del sitio donde pueda ser notificado el poseedor, so pena de ser condenado en el mismo proceso a pagar los perjuicios que su silencio cause al demandante y una multa de quince (15) a treinta (30) salarios mínimos legales mensuales. El juez ordenará notificar al poseedor designado.
 

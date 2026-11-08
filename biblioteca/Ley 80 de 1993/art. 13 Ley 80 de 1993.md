@@ -5,7 +5,7 @@ tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "13"
 epigrafe: "DE LA NORMATIVIDAD APLICABLE A LOS CONTRATOS ESTATALES"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 32 Ley 1150 de 2007]]"
 anterior: "[[art. 12 Ley 80 de 1993]]"
@@ -20,7 +20,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]]

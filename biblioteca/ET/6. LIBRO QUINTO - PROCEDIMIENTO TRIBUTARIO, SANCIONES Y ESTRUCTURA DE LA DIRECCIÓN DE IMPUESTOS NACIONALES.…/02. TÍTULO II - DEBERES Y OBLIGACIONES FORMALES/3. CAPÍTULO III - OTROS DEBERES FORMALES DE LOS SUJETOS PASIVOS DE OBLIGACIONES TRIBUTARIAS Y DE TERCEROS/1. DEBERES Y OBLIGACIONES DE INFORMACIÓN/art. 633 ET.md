@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "633"
-epigrafe: "INFORMACIÓN EN MEDIOS MAGNETICOS"
+epigrafe: "INFORMACIÓN EN MEDIOS MAGNÉTICOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo III|CAPÍTULO III - OTROS DEBERES FORMALES DE LOS SUJETOS PASIVOS DE OBLIGACIONES TRIBUTARIAS Y DE TERCEROS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo III|Capítulo III]] › [[ET - Libro Quinto - Título II - Capítulo III - Deberes y obligaciones de información|Deberes y obligaciones de información]]
 
-## Artículo 633. INFORMACIÓN EN MEDIOS MAGNETICOS
+## Artículo 633. INFORMACIÓN EN MEDIOS MAGNÉTICOS
 
 Para efectos del envío de la información que deba suministrarse en medios magnéticos, la Dirección General de Impuestos Nacionales prescribirá las especificaciones técnicas que deban cumplirse.
 

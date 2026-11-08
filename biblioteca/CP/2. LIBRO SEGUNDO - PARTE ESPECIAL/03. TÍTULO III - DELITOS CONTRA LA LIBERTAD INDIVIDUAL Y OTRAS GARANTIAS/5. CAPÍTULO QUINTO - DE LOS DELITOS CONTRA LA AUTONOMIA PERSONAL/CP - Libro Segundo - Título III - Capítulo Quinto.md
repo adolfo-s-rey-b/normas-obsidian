@@ -23,18 +23,18 @@ tags:
 
 ### Contenido
 
-- [[art. 178 CP|Artículo 178]] — TORTURA
-- [[art. 179 CP|Artículo 179]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA
-- [[art. 180 CP|Artículo 180]] — DESPLAZAMIENTO FORZADO
+- [[art. 178 CP|Artículo 178]] — Tortura
+- [[art. 179 CP|Artículo 179]] — Circunstancias de agravación punitiva
+- [[art. 180 CP|Artículo 180]] — Desplazamiento forzado
 - [[art. 181 CP|Artículo 181]] — Circunstancias de agravación punitiva
-- [[art. 182 CP|Artículo 182]] — CONSTREÑIMIENTO ILEGAL
+- [[art. 182 CP|Artículo 182]] — Constreñimiento ilegal
 - [[art. 182A CP|Artículo 182A]] — CONSTREÑIMIENTO ILEGAL POR PARTE DE MIEMBROS DE GRUPOS DELICTIVOS ORGANIZADOS Y GRUPOS ARMADOS ORGANIZADOS
 - [[art. 183 CP|Artículo 183]] — Circunstancias de agravación punitiva
-- [[art. 184 CP|Artículo 184]] — CONSTREÑIMIENTO PARA DELINQUIR
+- [[art. 184 CP|Artículo 184]] — Constreñimiento para delinquir
 - [[art. 185 CP|Artículo 185]] — Circunstancias de agravación punitiva
 - [[art. 185A CP|Artículo 185A]] — INTIMIDACIÓN O AMENAZA CON ARMA DE FUEGO; ARMAS, ELEMENTOS O DISPOSITIVOS MENOS LETALES; ARMAS DE FUEGO HECHIZAS; Y ARMA BLANCA
-- [[art. 186 CP|Artículo 186]] — FRAUDULENTA INTERNACIÓN EN ASILO, CLINICA O ESTABLECIMIENTO SIMILAR
-- [[art. 187 CP|Artículo 187]] — INSEMINACIÓN ARTIFICIAL O TRANSFERENCIA DE OVULO FECUNDADO NO CONSENTIDAS
+- [[art. 186 CP|Artículo 186]] — Fraudulenta internación en asilo, clinica o establecimiento similar
+- [[art. 187 CP|Artículo 187]] — Inseminación artificial o transferencia de ovulo fecundado no consentidas
 - [[art. 188 CP|Artículo 188]] — DEL TRÁFICO DE MIGRANTES
 - [[art. 188A CP|Artículo 188A]]
 - [[art. 188B CP|Artículo 188B]]

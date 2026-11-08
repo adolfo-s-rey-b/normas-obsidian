@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "197"
-epigrafe: "DIRECCIÓN ELECTRÓNICA PARA EFECTOS DE NOTIFICACIONES"
+epigrafe: "Dirección electrónica para efectos de notificaciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VII|CAPÍTULO VII - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VII|Capítulo VII]]
 
-## Artículo 197. DIRECCIÓN ELECTRÓNICA PARA EFECTOS DE NOTIFICACIONES
+## Artículo 197. Dirección electrónica para efectos de notificaciones
 
 Las entidades públicas de todos los niveles, las privadas que cumplan funciones públicas y el Ministerio Público que actúe ante esta jurisdicción, deben tener un buzón de correo electrónico exclusivamente para recibir notificaciones judiciales.
 

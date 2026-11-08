@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "118"
-epigrafe: "REORGANIZACION"
+epigrafe: "Reorganización"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVII|CAPÍTULO XVII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 117 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVII|Capítulo XVII]]
 
-## Artículo 118. REORGANIZACION
+## Artículo 118. Reorganización
 
 Sin perjuicio de sus facultades permanentes, dentro de los doce meses siguientes a la vigencia de la presente ley, las entidades a las que ella se aplica efectuarán y promoverán las reformas necesarias para adecuar la organización y funcionamiento a sus principios y reglas.
 

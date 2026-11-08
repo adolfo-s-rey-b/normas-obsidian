@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 206 EOSF|Artículo 206]] — CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD DE INTERMEDIACION
-- [[art. 207 EOSF|Artículo 207]] — DISPOSICIONES RELATIVAS A SU ACTIVIDAD Y OPERACIONES
+- [[art. 206 EOSF|Artículo 206]] — Condiciones del Ejercicio de la Actividad de Intermediación
+- [[art. 207 EOSF|Artículo 207]] — Disposiciones Relativas a su Actividad y Operaciones
 
 ---
 ← [[EOSF - Parte VI - Capítulo VI|Capítulo VI]] · ↑ [[EOSF - Parte VI|Parte VI]]

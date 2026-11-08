@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "44"
-epigrafe: "EFECTOS DE LA NULIDAD O DE LA INEFICACIA"
+epigrafe: "Efectos de la nulidad o de la ineficacia"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo III|CAPÍTULO III - CLÁUSULAS ABUSIVAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo III|Capítulo III]]
 
-## Artículo 44. EFECTOS DE LA NULIDAD O DE LA INEFICACIA
+## Artículo 44. Efectos de la nulidad o de la ineficacia
 
 La nulidad o ineficacia de una cláusula no afectará la totalidad del contrato, en la medida en que este pueda subsistir sin las cláusulas nulas o ineficaces.
 

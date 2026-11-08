@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "238"
-epigrafe: "PROCEDIMIENTO EN CASO DE REPRODUCCIÓN DEL ACTO SUSPENDIDO"
+epigrafe: "Procedimiento en caso de reproducción del acto suspendido"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 87 Ley 2080 de 2021]]"
 derogado_por:
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 238. PROCEDIMIENTO EN CASO DE REPRODUCCIÓN DEL ACTO SUSPENDIDO
+## Artículo 238. Procedimiento en caso de reproducción del acto suspendido
 
 Si se trata de la reproducción del acto suspendido, bastará solicitar la suspensión de los efectos del nuevo acto, acompañando al proceso copia de este. Esta solicitud se decidirá inmediatamente, cualquiera que sea el estado del proceso y en la sentencia definitiva se resolverá si se declara o no la nulidad de ambos actos.
 

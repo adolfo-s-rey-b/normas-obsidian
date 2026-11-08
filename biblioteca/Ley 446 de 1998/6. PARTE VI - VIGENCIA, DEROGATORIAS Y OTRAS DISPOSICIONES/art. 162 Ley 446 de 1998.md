@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "162"
-epigrafe: "LEGISLACION PERMANENTE"
+epigrafe: "Legislación permanente"
 parte: "[[Ley 446 de 1998 - Parte VI|PARTE VI - VIGENCIA, DEROGATORIAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 161 Ley 446 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte VI|Parte VI]]
 
-## Artículo 162. LEGISLACION PERMANENTE
+## Artículo 162. Legislación permanente
 
 Adóptase como legislación permanente los artículos [[art. 9 Decreto 2651 de 1991|9]]o., 12 a 15, 19, 20, 21 salvo sus numerales 4 y 5, 23, 24, 33 a 37, 41, 46 a 48, 50, 51, 56 y 58 del Decreto 2651 de 1991.
 

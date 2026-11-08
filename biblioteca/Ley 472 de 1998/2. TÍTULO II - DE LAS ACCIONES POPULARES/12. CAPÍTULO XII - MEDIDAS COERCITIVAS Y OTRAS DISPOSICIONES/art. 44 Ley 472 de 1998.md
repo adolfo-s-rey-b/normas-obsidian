@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "44"
-epigrafe: "ASPECTOS NO REGULADOS"
+epigrafe: "Aspectos no Regulados"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo XII|CAPÍTULO XII - MEDIDAS COERCITIVAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo XII|Capítulo XII]]
 
-## Artículo 44. ASPECTOS NO REGULADOS
+## Artículo 44. Aspectos no Regulados
 
 En los procesos por acciones populares se aplicarán las disposiciones del Código de Procedimiento Civil y del Código Contencioso Administrativo dependiendo de la jurisdicción que le corresponda, en los aspectos no regulados en la presente ley, mientras no se opongan a la naturaleza y la finalidad de tales acciones.
 

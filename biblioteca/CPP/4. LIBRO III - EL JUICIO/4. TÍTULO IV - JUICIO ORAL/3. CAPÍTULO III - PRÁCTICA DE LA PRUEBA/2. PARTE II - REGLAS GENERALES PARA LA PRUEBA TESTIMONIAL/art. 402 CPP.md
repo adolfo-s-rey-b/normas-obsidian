@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "402"
-epigrafe: "CONOCIMIENTO PERSONAL"
+epigrafe: "Conocimiento personal"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 402. CONOCIMIENTO PERSONAL
+## Artículo 402. Conocimiento personal
 
 El testigo únicamente podrá declarar sobre aspectos que en forma directa y personal hubiese tenido la ocasión de observar o percibir. En caso de mediar controversia sobre el fundamento del conocimiento personal podrá objetarse la declaración mediante el procedimiento de impugnación de la credibilidad del testigo.
 

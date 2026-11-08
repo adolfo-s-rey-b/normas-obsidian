@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "605"
-epigrafe: "EFECTOS DE LAS SENTENCIAS EXTRANJERAS"
+epigrafe: "Efectos de las sentencias extranjeras"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título I|TÍTULO I - SENTENCIAS Y LAUDOS PROFERIDOS EN EL EXTERIOR Y COMISIONES DE JUECES EXTRANJEROS]]"
 capitulo: "[[CGP - Libro Quinto - Título I - Capítulo I|CAPÍTULO I - SENTENCIAS Y LAUDOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título I|Título I]] › [[CGP - Libro Quinto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 605. EFECTOS DE LAS SENTENCIAS EXTRANJERAS
+## Artículo 605. Efectos de las sentencias extranjeras
 
 Las sentencias y otras providencias que revistan tal carácter, pronunciadas por autoridades extranjeras, en procesos contenciosos o de jurisdicción voluntaria, tendrán en Colombia la fuerza que les concedan los tratados existentes con ese país, y en su defecto la que allí se reconozca a las proferidas en Colombia.
 

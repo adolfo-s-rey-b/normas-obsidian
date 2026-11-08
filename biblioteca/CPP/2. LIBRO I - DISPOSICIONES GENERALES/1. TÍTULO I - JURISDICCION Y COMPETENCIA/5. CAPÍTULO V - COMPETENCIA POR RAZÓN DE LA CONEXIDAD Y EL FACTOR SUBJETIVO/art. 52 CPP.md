@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "52"
-epigrafe: "COMPETENCIA POR CONEXIDAD"
+epigrafe: "Competencia por conexidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo V|CAPÍTULO V - COMPETENCIA POR RAZÓN DE LA CONEXIDAD Y EL FACTOR SUBJETIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 52. COMPETENCIA POR CONEXIDAD
+## Artículo 52. Competencia por conexidad
 
 Cuando deban juzgarse delitos conexos conocerá de ellos el juez de mayor jerarquía de acuerdo con la competencia por razón del fuero legal o la naturaleza del asunto; si corresponden a la misma jerarquía será factor de competencia el territorio, en forma excluyente y preferente, en el siguiente orden: donde se haya cometido el delito más grave; donde se haya realizado el mayor número de delitos; donde se haya producido la primera aprehensión o donde se haya formulado primero la imputación.
 

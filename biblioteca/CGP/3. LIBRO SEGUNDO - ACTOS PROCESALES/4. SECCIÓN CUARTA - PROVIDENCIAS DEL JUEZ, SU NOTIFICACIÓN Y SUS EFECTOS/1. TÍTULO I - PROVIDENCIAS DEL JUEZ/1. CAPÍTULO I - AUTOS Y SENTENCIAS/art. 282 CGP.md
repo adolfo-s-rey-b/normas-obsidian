@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "282"
-epigrafe: "RESOLUCIÓN SOBRE EXCEPCIONES"
+epigrafe: "Resolución sobre excepciones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título I|TÍTULO I - PROVIDENCIAS DEL JUEZ]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] › [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 282. RESOLUCIÓN SOBRE EXCEPCIONES
+## Artículo 282. Resolución sobre excepciones
 
 En cualquier tipo de proceso, cuando el juez halle probados los hechos que constituyen una excepción deberá reconocerla oficiosamente en la sentencia, salvo las de prescripción, compensación y nulidad relativa, que deberán alegarse en la contestación de la demanda.
 

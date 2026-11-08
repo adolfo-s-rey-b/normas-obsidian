@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "168"
-epigrafe: "FALTA DE JURISDICCIÓN O DE COMPETENCIA"
+epigrafe: "Falta de jurisdicción o de competencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IV|CAPÍTULO IV - TRÁMITE DE LA DEMANDA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 168. FALTA DE JURISDICCIÓN O DE COMPETENCIA
+## Artículo 168. Falta de jurisdicción o de competencia
 
 En caso de falta de jurisdicción o de competencia, mediante decisión motivada el Juez ordenará remitir el expediente al competente, en caso de que existiere, a la mayor brevedad posible. Para todos los efectos legales se tendrá en cuenta la presentación inicial hecha ante la corporación o juzgado que ordena la remisión.
 

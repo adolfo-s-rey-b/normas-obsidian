@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "91"
-epigrafe: "INVERSION EXTRANJERA"
+epigrafe: "Inversión Extranjera"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo X|CAPÍTULO X - PROPIEDAD ACCIONARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo X|Capítulo X]]
 
-## Artículo 91. INVERSION EXTRANJERA
+## Artículo 91. Inversión Extranjera
 
 1\. Participación de inversionistas extranjeros. Los inversionistas extranjeros podrán participar en el capital de las instituciones sometidas al control y vigilancia de la Superintendencia Bancaria, suscribiendo o adquiriendo acciones, bonos obligatoriamente convertibles en acciones o aportes sociales de carácter cooperativo, en cualquier proporción.
 

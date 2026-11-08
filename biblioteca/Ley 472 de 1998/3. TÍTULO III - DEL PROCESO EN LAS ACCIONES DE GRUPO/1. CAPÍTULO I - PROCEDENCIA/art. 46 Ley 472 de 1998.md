@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "46"
-epigrafe: "PROCEDENCIA DE LAS ACCIONES DE GRUPO"
+epigrafe: "Procedencia de las Acciones de Grupo"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo I|CAPÍTULO I - PROCEDENCIA]]"
 vigencia: "parcialmente inexequible"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 46. PROCEDENCIA DE LAS ACCIONES DE GRUPO
+## Artículo 46. Procedencia de las Acciones de Grupo
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

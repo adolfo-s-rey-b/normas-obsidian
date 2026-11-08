@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "453"
-epigrafe: "REQUERIMIENTO POR OTRA AUTORIDAD"
+epigrafe: "Requerimiento por otra autoridad"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo V|CAPÍTULO V - DECISIÓN O SENTIDO DEL FALLO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo V|Capítulo V]]
 
-## Artículo 453. REQUERIMIENTO POR OTRA AUTORIDAD
+## Artículo 453. Requerimiento por otra autoridad
 
 En caso de que el acusado fuere requerido por otra autoridad judicial, emitido el fallo absolutorio, será puesto a disposición de quien corresponda.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "589"
-epigrafe: "MEDIDAS CAUTELARES EN LA PRÁCTICA DE PRUEBAS EXTRAPROCESALES"
+epigrafe: "Medidas cautelares en la práctica de pruebas extraprocesales"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título I|TÍTULO I - MEDIDAS CAUTELARES]]"
 capitulo: "[[CGP - Libro Cuarto - Título I - Capítulo I|CAPÍTULO I - NORMAS GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título I|Título I]] › [[CGP - Libro Cuarto - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 589. MEDIDAS CAUTELARES EN LA PRÁCTICA DE PRUEBAS EXTRAPROCESALES
+## Artículo 589. Medidas cautelares en la práctica de pruebas extraprocesales
 
 En los asuntos relacionados con violaciones a la propiedad intelectual, la competencia desleal y en los demás en que expresamente una ley especial permita la práctica de medidas cautelares extraprocesales, estas podrán solicitarse, decretarse y practicarse en el curso de una prueba extraprocesal.
 

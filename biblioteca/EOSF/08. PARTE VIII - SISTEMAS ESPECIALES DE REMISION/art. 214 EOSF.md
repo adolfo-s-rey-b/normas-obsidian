@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "214"
-epigrafe: "NORMAS APLICABLES A LAS SOCIEDADES DE CAPITALIZACION"
+epigrafe: "Normas Aplicables a las Sociedades de Capitalización"
 parte: "[[EOSF - Parte VIII|PARTE VIII - SISTEMAS ESPECIALES DE REMISION]]"
 vigencia: "vigente"
 anterior: "[[art. 213 EOSF]]"
@@ -27,7 +27,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VIII|Parte VIII]]
 
-## Artículo 214. NORMAS APLICABLES A LAS SOCIEDADES DE CAPITALIZACION
+## Artículo 214. Normas Aplicables a las Sociedades de Capitalización
 
 Serán aplicables a las sociedades de capitalizaciólas normas que regulan los establecimientos bancarios y compañías de seguros, en todo lo que no resulte contrario a sus disposiciones especiales.
 

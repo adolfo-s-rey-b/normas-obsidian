@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "204"
 titulo: "[[CPol - Título VII|TÍTULO VII - De la rama ejecutiva]]"
 capitulo: "[[CPol - Título VII - Capítulo 3|CAPÍTULO 3 - Del Vicepresidente]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 3 Acto Legislativo 2 de 2004]]"
   - "[[art. 241 CPol]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título VII|Título VII]] › [[CPol - Título VII - Capítulo 3|Capítulo 3]]

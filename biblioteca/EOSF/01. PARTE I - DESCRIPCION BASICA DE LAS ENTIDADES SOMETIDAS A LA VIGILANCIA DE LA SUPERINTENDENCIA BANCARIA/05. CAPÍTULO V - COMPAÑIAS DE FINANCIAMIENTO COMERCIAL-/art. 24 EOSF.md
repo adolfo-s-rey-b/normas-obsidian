@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "24"
-epigrafe: "OPERACIONES AUTORIZADAS"
+epigrafe: "Operaciones Autorizadas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo V|CAPÍTULO V - COMPAÑIAS DE FINANCIAMIENTO COMERCIAL*]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo V|Capítulo V]]
 
-## Artículo 24. OPERACIONES AUTORIZADAS
+## Artículo 24. Operaciones Autorizadas
 
 Las compañías de financiamiento comercial* en desarrollo de su objeto principal podrán:
 

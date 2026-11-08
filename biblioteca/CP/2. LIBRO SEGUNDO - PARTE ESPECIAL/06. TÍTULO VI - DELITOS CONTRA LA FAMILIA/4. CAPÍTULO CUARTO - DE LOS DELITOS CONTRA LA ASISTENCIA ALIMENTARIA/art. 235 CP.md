@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "235"
-epigrafe: "REITERACIÓN"
+epigrafe: "Reiteracion"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título VI|TÍTULO VI - DELITOS CONTRA LA FAMILIA]]"
 capitulo: "[[CP - Libro Segundo - Título VI - Capítulo Cuarto|CAPÍTULO CUARTO - DE LOS DELITOS CONTRA LA ASISTENCIA ALIMENTARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título VI|Título VI]] › [[CP - Libro Segundo - Título VI - Capítulo Cuarto|Capítulo Cuarto]]
 
-## Artículo 235. REITERACIÓN
+## Artículo 235. Reiteracion
 
 La sentencia condenatoria ejecutoriada no impide la iniciación de otro proceso si el responsable incurre nuevamente en inasistencia alimentaria.
 

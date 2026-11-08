@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "220"
-epigrafe: "ALEGATOS PRECALIFICATORIOS"
+epigrafe: "Alegatos precalificatorios"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo IV|CAPÍTULO IV - CIERRE DE LA INVESTIGACIÓN Y EVALUACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo IV|Capítulo IV]]
 
-## Artículo 220. ALEGATOS PRECALIFICATORIOS
+## Artículo 220. Alegatos precalificatorios
 
 Cuando se hayan recaudado las pruebas ordenadas en la investigación disciplinaria, o vencido el término de esta, el funcionario de conocimiento, mediante decisión de sustanciación, declarará cerrada la investigación y ordenará correr traslado por el término de diez (10) días para que los sujetos procesales puedan presentar alegatos previos a la evaluación de la investigación.
 

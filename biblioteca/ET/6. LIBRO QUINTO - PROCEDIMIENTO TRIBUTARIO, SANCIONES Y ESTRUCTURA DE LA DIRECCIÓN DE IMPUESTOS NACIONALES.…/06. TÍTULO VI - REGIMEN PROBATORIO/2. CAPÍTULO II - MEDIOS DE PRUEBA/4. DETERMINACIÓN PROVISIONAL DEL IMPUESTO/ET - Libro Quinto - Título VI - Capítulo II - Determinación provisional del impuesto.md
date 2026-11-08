@@ -30,7 +30,7 @@ tags:
 - [[art. 764-3 ET|Artículo 764-3]] — SANCIONES EN LA LIQUIDACIÓN PROVISIONAL
 - [[art. 764-4 ET|Artículo 764-4]] — FIRMEZA DE LAS DECLARACIONES TRIBUTARIAS PRODUCTO DE LA ACEPTACIÓN DE LA LIQUIDACIÓN PROVISIONAL
 - [[art. 764-5 ET|Artículo 764-5]] — NOTIFICACIÓN DE LA LIQUIDACIÓN PROVISIONAL Y DEMÁS ACTOS
-- [[art. 764-6 ET|Artículo 764-6]] — DETERMINACIÓN Y DISCUSIÓN DE LAS ACTUACIONES QUE SE DERIVEN DE UNA LIQUIDACIÓN PROVISIONAL
+- [[art. 764-6 ET|Artículo 764-6]] — Determinación y discusión de las actuaciones que se deriven de una liquidación provisional
 
 ---
 ← [[ET - Libro Quinto - Título VI - Capítulo II - Facultad para presumir ingresos|Facultad para presumir ingresos]] · ↑ [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] · [[ET - Libro Quinto - Título VI - Capítulo II - Prueba documental|Prueba documental]] →

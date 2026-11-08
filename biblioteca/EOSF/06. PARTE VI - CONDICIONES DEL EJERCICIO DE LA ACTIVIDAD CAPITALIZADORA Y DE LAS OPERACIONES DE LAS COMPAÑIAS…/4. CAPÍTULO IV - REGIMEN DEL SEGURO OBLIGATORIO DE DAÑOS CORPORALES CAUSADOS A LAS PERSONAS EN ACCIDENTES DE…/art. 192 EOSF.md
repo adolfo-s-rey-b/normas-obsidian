@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "192"
-epigrafe: "ASPECTOS GENERALES"
+epigrafe: "Aspectos Generales"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo IV|CAPÍTULO IV - REGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRANSITO]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 192. ASPECTOS GENERALES
+## Artículo 192. Aspectos Generales
 
 1\. Obligatoriedad. Para transitar por el territorio nacional todo vehículo automotor debe estar amparado por un seguro obligatorio vigente que cubra los daños corporales que se causen a las personas en accidentes de tránsito. Quedan comprendidos dentro de lo previsto por este numeral los automotores extranjeros en tránsito por el territorio nacional.
 

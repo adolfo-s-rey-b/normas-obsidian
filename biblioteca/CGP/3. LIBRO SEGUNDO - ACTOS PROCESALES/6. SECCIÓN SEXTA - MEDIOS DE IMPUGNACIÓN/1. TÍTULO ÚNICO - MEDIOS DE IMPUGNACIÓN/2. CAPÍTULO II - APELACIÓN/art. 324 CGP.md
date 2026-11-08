@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "324"
-epigrafe: "REMISIÓN DEL EXPEDIENTE O DE SUS COPIAS"
+epigrafe: "Remisión del expediente o de sus copias"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 324. REMISIÓN DEL EXPEDIENTE O DE SUS COPIAS
+## Artículo 324. Remisión del expediente o de sus copias
 
 Tratándose de apelación de autos, la remisión del expediente o de sus copias al superior, se hará una vez surtido el traslado del escrito de sustentación, según lo previsto en el artículo [[art. 326 CGP|326]]. En el caso de las sentencias, el envío se hará una vez presentado el escrito al que se refiere el numeral 3 del artículo [[art. 322 CGP|322]].
 

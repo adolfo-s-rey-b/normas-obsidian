@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "38"
-epigrafe: "DEBERES"
+epigrafe: "Deberes"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título IV|TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO]]"
 capitulo: "[[CGD - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEBERES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título IV|Título IV]] › [[CGD - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 38. DEBERES
+## Artículo 38. Deberes
 
 Son deberes de todo servidor público:
 

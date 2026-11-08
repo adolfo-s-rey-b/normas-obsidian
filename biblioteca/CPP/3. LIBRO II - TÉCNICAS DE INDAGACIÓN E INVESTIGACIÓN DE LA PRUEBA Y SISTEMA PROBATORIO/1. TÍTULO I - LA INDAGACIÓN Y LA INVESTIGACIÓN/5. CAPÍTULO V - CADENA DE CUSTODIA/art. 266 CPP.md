@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "266"
-epigrafe: "DESTINO DE MACROELEMENTOS"
+epigrafe: "Destino de macroelementos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo V|CAPÍTULO V - CADENA DE CUSTODIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo V|Capítulo V]]
 
-## Artículo 266. DESTINO DE MACROELEMENTOS
+## Artículo 266. Destino de macroelementos
 
 Salvo lo previsto en este código en relación con las medidas cautelares sobre bienes susceptibles de comiso, los macroelementos materiales probatorios, mencionados en este capítulo, después de que sean examinados, fotografiados, grabados o filmados, serán devueltos al propietario, poseedor o al tenedor legítimo según el caso, previa demostración de la calidad invocada, siempre y cuando no hayan sido medios eficaces para la comisión del delito.
 

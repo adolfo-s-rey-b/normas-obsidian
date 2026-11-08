@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "24"
-epigrafe: "AUDIENCIA DE CONCILIACIÓN"
+epigrafe: "Audiencia de conciliación"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 24. AUDIENCIA DE CONCILIACIÓN
+## Artículo 24. Audiencia de conciliación
 
 Vencido el término de traslado de las excepciones de mérito propuestas contra la demanda inicial o la de reconvención, o contestadas sin que se hubieren propuesto excepciones, o vencido sin contestación el término de traslado de la demanda, el tribunal señalará día y hora para celebrar la audiencia de conciliación, a la que deberán concurrir tanto las partes como sus apoderados.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "228"
-epigrafe: "IMPUTACIONES DE LITIGANTES"
+epigrafe: "Imputaciones de litigantes"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título V|TÍTULO V - DELITOS CONTRA LA INTEGRIDAD MORAL]]"
 capitulo: "[[CP - Libro Segundo - Título V - Capítulo Unico|CAPÍTULO UNICO - DE LA INJURIA Y LA CALUMNIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título V|Título V]] › [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 228. IMPUTACIONES DE LITIGANTES
+## Artículo 228. Imputaciones de litigantes
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

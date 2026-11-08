@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "76"
-epigrafe: "ÓRGANO COMPETENTE"
+epigrafe: "Órgano competente"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título II|TÍTULO II - RÉGIMEN DE LOS NOTARIOS]]"
 capitulo: "[[CGD - Libro III - Título II - Capítulo I|CAPÍTULO I - ÁMBITO DE APLICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título II|Título II]] › [[CGD - Libro III - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 76. ÓRGANO COMPETENTE
+## Artículo 76. Órgano competente
 
 El régimen especial para los notarios se aplica por la Superintendencia de Notariado y Registro como órgano de control especial con todos sus requisitos y consecuencias, sin perjuicio del poder preferente que podrá ejercer la Procuraduría General de la Nación.
 

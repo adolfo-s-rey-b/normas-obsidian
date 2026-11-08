@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "389"
-epigrafe: "CONTENIDO DE LA SENTENCIA DE NULIDAD O DE DIVORCIO"
+epigrafe: "Contenido de la sentencia de nulidad o de divorcio"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título I|TÍTULO I - PROCESO VERBAL]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 389. CONTENIDO DE LA SENTENCIA DE NULIDAD O DE DIVORCIO
+## Artículo 389. Contenido de la sentencia de nulidad o de divorcio
 
 La sentencia que decrete la nulidad del matrimonio civil, el divorcio o la cesación de efectos civiles de matrimonio católico dispondrá:
 

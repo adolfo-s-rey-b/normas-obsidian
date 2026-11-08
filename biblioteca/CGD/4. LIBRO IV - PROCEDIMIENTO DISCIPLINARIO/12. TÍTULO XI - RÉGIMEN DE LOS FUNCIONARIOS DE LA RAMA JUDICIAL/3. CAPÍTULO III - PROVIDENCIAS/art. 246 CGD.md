@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "246"
-epigrafe: "EJECUTORIA"
+epigrafe: "Ejecutoria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo III|CAPÍTULO III - PROVIDENCIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo III|Capítulo III]]
 
-## Artículo 246. EJECUTORIA
+## Artículo 246. Ejecutoria
 
 La sentencia que resuelve los recursos de apelación, de queja, la consulta y aquellas no susceptibles de recurso, quedarán ejecutoriadas al momento de su notificación.
 

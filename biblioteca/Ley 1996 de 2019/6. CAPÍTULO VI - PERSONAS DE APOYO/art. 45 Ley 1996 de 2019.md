@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "45"
-epigrafe: "INHABILIDADES PARA SER PERSONA DE APOYO"
+epigrafe: "Inhabilidades para ser persona de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 44 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 45. INHABILIDADES PARA SER PERSONA DE APOYO
+## Artículo 45. Inhabilidades para ser persona de apoyo
 
 Son causales de inhabilidad para asumir el cargo de persona de apoyo las siguientes:
 

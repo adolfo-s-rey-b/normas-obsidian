@@ -11,7 +11,7 @@ articulo: "236"
 epigrafe: "LICENCIA EN LA ÉPOCA DEL PARTO E INCENTIVOS PARA LA ADECUADA ATENCIÓN Y CUIDADO DEL RECIÉN NACIDO"
 titulo: "[[CST - Título VIII|TÍTULO VIII - PRESTACIONES PATRONALES COMUNES]]"
 capitulo: "[[CST - Título VIII - Capítulo V|CAPÍTULO V - PROTECCION A LA MATERNIDAD Y PROTECCION DE MENORES]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 2 Ley 2114 de 2021]]"
   - "[[art. 236 CST]]"
@@ -44,7 +44,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título VIII|Título VIII]] › [[CST - Título VIII - Capítulo V|Capítulo V]]

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "50"
-epigrafe: "RESPONSABILIDAD DE LAS PERSONAS DE APOYO"
+epigrafe: "Responsabilidad de las personas de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 49 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 50. RESPONSABILIDAD DE LAS PERSONAS DE APOYO
+## Artículo 50. Responsabilidad de las personas de apoyo
 
 La responsabilidad de las personas de apoyo, frente a sus funciones como apoyo, será individual solo cuando en su actuar hayan contravenido los mandatos de la presente ley, las demás normas civiles y comerciales vigentes en Colombia, o hayan ido en contravía manifiesta de las indicaciones convenidas en los acuerdos de apoyo, las directivas anticipadas o la sentencia de apoyos, y por ello se hayan causado daños al titular del acto jurídico o frente a terceros.
 

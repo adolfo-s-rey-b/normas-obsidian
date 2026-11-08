@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "284"
-epigrafe: "ADICIÓN DE LA CONDENA EN CONCRETO"
+epigrafe: "Adición de la condena en concreto"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título I|TÍTULO I - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] › [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 284. ADICIÓN DE LA CONDENA EN CONCRETO
+## Artículo 284. Adición de la condena en concreto
 
 Si no se hiciere en la sentencia la condena en concreto, la parte favorecida podrá solicitar dentro del término de su ejecutoria, que se pronuncie sentencia complementaria.
 

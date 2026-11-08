@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 140 CGP|Artículo 140]] — DECLARACIÓN DE IMPEDIMENTOS
-- [[art. 141 CGP|Artículo 141]] — CAUSALES DE RECUSACIÓN
-- [[art. 142 CGP|Artículo 142]] — OPORTUNIDAD Y PROCEDENCIA DE LA RECUSACIÓN
-- [[art. 143 CGP|Artículo 143]] — FORMULACIÓN Y TRÁMITE DE LA RECUSACIÓN
-- [[art. 144 CGP|Artículo 144]] — JUEZ O MAGISTRADO QUE DEBE REEMPLAZAR AL IMPEDIDO O RECUSADO
-- [[art. 145 CGP|Artículo 145]] — SUSPENSIÓN DEL PROCESO POR IMPEDIMENTO O RECUSACIÓN
-- [[art. 146 CGP|Artículo 146]] — IMPEDIMENTOS Y RECUSACIONES DE LOS SECRETARIOS
-- [[art. 147 CGP|Artículo 147]] — SANCIONES AL RECUSANTE
+- [[art. 140 CGP|Artículo 140]] — Declaración de impedimentos
+- [[art. 141 CGP|Artículo 141]] — Causales de recusación
+- [[art. 142 CGP|Artículo 142]] — Oportunidad y procedencia de la recusación
+- [[art. 143 CGP|Artículo 143]] — Formulación y trámite de la recusación
+- [[art. 144 CGP|Artículo 144]] — Juez o magistrado que debe reemplazar al impedido o recusado
+- [[art. 145 CGP|Artículo 145]] — Suspensión del proceso por impedimento o recusación
+- [[art. 146 CGP|Artículo 146]] — Impedimentos y recusaciones de los secretarios
+- [[art. 147 CGP|Artículo 147]] — Sanciones al recusante
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] · [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo III|Capítulo III]] →

@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 26 CGD|Artículo 26]] — LA FALTA DISCIPLINARIA
-- [[art. 27 CGD|Artículo 27]] — ACCIÓN Y OMISIÓN
-- [[art. 28 CGD|Artículo 28]] — DOLO
-- [[art. 29 CGD|Artículo 29]] — CULPA
-- [[art. 30 CGD|Artículo 30]] — AUTORES
-- [[art. 31 CGD|Artículo 31]] — CAUSALES DE EXCLUSIÓN DE LA RESPONSABILIDAD DISCIPLINARIA
+- [[art. 26 CGD|Artículo 26]] — La falta disciplinaria
+- [[art. 27 CGD|Artículo 27]] — Acción y omisión
+- [[art. 28 CGD|Artículo 28]] — Dolo
+- [[art. 29 CGD|Artículo 29]] — Culpa
+- [[art. 30 CGD|Artículo 30]] — Autores
+- [[art. 31 CGD|Artículo 31]] — Causales de exclusión de la responsabilidad disciplinaria
 
 ---
 ← [[CGD - Libro I - Título II - Capítulo III|Capítulo III]] · ↑ [[CGD - Libro I - Título II|Título II]]

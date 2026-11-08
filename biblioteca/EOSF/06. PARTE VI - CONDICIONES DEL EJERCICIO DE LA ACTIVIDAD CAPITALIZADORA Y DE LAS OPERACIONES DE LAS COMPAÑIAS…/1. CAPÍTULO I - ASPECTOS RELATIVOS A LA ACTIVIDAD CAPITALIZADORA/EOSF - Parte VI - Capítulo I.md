@@ -22,11 +22,11 @@ tags:
 
 ### Contenido
 
-- [[art. 178 EOSF|Artículo 178]] — CONDICIONES GENERALES PARA EL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA
-- [[art. 179 EOSF|Artículo 179]] — CONDICIONES RELATIVAS A LOS CONTRATOS
-- [[art. 180 EOSF|Artículo 180]] — CONDICIONES DE LOS TITULOS DE CAPITALIZACION Y ACCIONES
-- [[art. 181 EOSF|Artículo 181]] — RESERVAS Y QUEBRANTO DE CAPITAL
-- [[art. 182 EOSF|Artículo 182]] — REGIMEN DE INVERSION DE LAS SOCIEDADES DE CAPITALIZACION
+- [[art. 178 EOSF|Artículo 178]] — Condiciones Generales para el Ejercicio de la Actividad Capitalizadora
+- [[art. 179 EOSF|Artículo 179]] — Condiciones Relativas a los Contratos
+- [[art. 180 EOSF|Artículo 180]] — Condiciones de los Títulos de Capitalización y Acciones
+- [[art. 181 EOSF|Artículo 181]] — Reservas y Quebranto de Capital
+- [[art. 182 EOSF|Artículo 182]] — Régimen de Inversión de las Sociedades de Capitalización
 
 ---
 ↑ [[EOSF - Parte VI|Parte VI]] · [[EOSF - Parte VI - Capítulo II|Capítulo II]] →

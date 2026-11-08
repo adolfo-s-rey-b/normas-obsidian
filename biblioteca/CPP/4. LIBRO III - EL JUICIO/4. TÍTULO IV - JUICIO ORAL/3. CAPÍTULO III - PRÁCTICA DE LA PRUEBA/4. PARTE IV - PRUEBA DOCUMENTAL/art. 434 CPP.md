@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "434"
-epigrafe: "EXCEPCIONES A LA REGLA DE LA MEJOR EVIDENCIA"
+epigrafe: "Excepciones a la regla de la mejor evidencia"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
 
-## Artículo 434. EXCEPCIONES A LA REGLA DE LA MEJOR EVIDENCIA
+## Artículo 434. Excepciones a la regla de la mejor evidencia
 
 Se exceptúa de lo anterior los documentos públicos, o los duplicados auténticos, o aquellos cuyo original se hubiere extraviado o que se encuentran en poder de uno de los intervinientes, o se trata de documentos voluminosos y sólo se requiere una parte o fracción del mismo, o, finalmente, se estipule la innecesariedad de la presentación del original.
 

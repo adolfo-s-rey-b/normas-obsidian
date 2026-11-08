@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 203 ET|Artículo 203]] — DETERMINACIÓN DE LA RENTA LIQUIDA
+- [[art. 203 ET|Artículo 203]] — DETERMINACIÓN DE LA RENTA LÍQUIDA
 
 ---
 ← [[ET - Libro Primero - Título I - Capítulo VI - Contratos de servicios autonomos|Contratos de servicios autonomos]] · ↑ [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]] · [[ET - Libro Primero - Título I - Capítulo VI - Explotación de peliculas y programas de computador|Explotación de peliculas y programas de computador]] →

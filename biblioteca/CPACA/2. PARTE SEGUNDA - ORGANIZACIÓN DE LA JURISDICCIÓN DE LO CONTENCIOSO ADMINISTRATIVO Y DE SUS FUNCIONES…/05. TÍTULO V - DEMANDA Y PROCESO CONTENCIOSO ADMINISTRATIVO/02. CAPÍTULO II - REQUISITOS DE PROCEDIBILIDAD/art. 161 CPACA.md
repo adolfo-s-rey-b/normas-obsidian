@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "161"
-epigrafe: "REQUISITOS PREVIOS PARA DEMANDAR"
+epigrafe: "Requisitos previos para demandar"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo II|CAPÍTULO II - REQUISITOS DE PROCEDIBILIDAD]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 34 Ley 2080 de 2021]]"
 anterior: "[[art. 160 CPACA]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 161. REQUISITOS PREVIOS PARA DEMANDAR
+## Artículo 161. Requisitos previos para demandar
 
 La presentación de la demanda se someterá al cumplimiento de requisitos previos en los siguientes casos:
 
@@ -64,7 +64,7 @@ Si las autoridades administrativas no hubieran dado oportunidad de interponer lo
 
 5\. Cuando el Estado pretenda recuperar lo pagado por una condena, conciliación u otra forma de terminación de un conflicto, se requiere que previamente haya realizado dicho pago.
 
-6.
+6\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

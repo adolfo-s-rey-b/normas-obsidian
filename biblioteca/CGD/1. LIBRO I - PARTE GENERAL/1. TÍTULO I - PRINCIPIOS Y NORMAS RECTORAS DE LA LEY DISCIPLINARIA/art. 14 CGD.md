@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "14"
-epigrafe: "PRESUNCIÓN DE INOCENCIA"
+epigrafe: "Presunción de inocencia"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "parcialmente inexequible"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 14. PRESUNCIÓN DE INOCENCIA
+## Artículo 14. Presunción de inocencia
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

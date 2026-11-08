@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "114"
-epigrafe: "ATRIBUCIONES"
+epigrafe: "Atribuciones"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo I|CAPÍTULO I - FISCALÍA GENERAL DE LA NACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo I|Capítulo I]]
 
-## Artículo 114. ATRIBUCIONES
+## Artículo 114. Atribuciones
 
 La Fiscalía General de la Nación, para el cumplimiento de sus funciones constitucionales y legales, tiene las siguientes atribuciones:
 

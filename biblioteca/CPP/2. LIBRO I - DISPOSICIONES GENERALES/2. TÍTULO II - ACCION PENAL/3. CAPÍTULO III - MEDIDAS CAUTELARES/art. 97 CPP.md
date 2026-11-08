@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "97"
-epigrafe: "PROHIBICIÓN DE ENAJENAR"
+epigrafe: "Prohibición de enajenar"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo III|CAPÍTULO III - MEDIDAS CAUTELARES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 97. PROHIBICIÓN DE ENAJENAR
+## Artículo 97. Prohibición de enajenar
 
 El imputado dentro del proceso penal no podrá enajenar bienes sujetos a registro durante los seis (6) meses siguientes a la formulación de la imputación, a no ser que antes se garantice la indemnización de perjuicios o haya pronunciamiento de fondo sobre su inocencia.
 

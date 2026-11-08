@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "229"
-epigrafe: "REGIMEN PATRIMONIAL Y FINANCIERO"
+epigrafe: "Régimen Patrimonial y Financiero"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo I|CAPÍTULO I - FONDO PARA EL FINANCIAMIENTO DEL SECTOR AGROPECUARIO FINAGRO]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo I|Capítulo I]]
 
-## Artículo 229. REGIMEN PATRIMONIAL Y FINANCIERO
+## Artículo 229. Régimen Patrimonial y Financiero
 
 1\. Capital. El capital del Fondo para el Financiamiento del Sector Agropecuario, FINAGRO, estará constituido por:
 

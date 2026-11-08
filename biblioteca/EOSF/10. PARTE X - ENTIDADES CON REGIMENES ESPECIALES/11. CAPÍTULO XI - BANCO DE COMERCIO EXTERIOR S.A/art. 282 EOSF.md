@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "282"
-epigrafe: "FUNCIONES DEL BANCO"
+epigrafe: "Funciones del Banco"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 14 Ley 1753 de 2015]]"
 derogado_por:
@@ -35,12 +35,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 282. FUNCIONES DEL BANCO
+## Artículo 282. Funciones del Banco
 
 El Banco cumplirá las siguientes funciones:
 

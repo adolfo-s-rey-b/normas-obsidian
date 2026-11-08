@@ -6,7 +6,7 @@ norma: "Ley 1150 de 2007"
 articulo: "32"
 epigrafe: "DEROGATORIA"
 titulo: "[[Ley 1150 de 2007 - Título III|TÍTULO III - DISPOSICIONES VARIAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 31 Ley 1150 de 2007]]"
 siguiente: "[[art. 33 Ley 1150 de 2007]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1150_2007.html"
@@ -16,7 +16,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1150_de_2007
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 1150 de 2007|Ley 1150 de 2007]] › [[Ley 1150 de 2007 - Título III|Título III]]

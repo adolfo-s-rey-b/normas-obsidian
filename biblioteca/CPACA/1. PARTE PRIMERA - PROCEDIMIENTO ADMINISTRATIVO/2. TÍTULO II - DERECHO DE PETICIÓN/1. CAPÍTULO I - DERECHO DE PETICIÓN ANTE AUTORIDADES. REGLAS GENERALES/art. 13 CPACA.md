@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "13"
-epigrafe: "OBJETO Y MODALIDADES DEL DERECHO DE PETICIÓN ANTE AUTORIDADES"
+epigrafe: "Objeto y modalidades del derecho de petición ante autoridades"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 13. OBJETO Y MODALIDADES DEL DERECHO DE PETICIÓN ANTE AUTORIDADES
+## Artículo 13. Objeto y modalidades del derecho de petición ante autoridades
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

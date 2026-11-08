@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "49"
-epigrafe: "DEL SANEAMIENTO DE LOS VICIOS DE PROCEDIMIENTO O DE FORMA"
+epigrafe: "Del Saneamiento de los Vicios de Procedimiento o de Forma"
 rubro: "[[Ley 80 de 1993 - Iv. de la nulidad de los contratos|IV. DE LA NULIDAD DE LOS CONTRATOS]]"
 vigencia: "vigente"
 anterior: "[[art. 48 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iv. de la nulidad de los contratos|Iv. de la nulidad de los contratos]]
 
-## Artículo 49. DEL SANEAMIENTO DE LOS VICIOS DE PROCEDIMIENTO O DE FORMA
+## Artículo 49. Del Saneamiento de los Vicios de Procedimiento o de Forma
 
 Ante la ocurrencia de vicios que no constituyan causales de nulidad y cuando las necesidades del servicio lo exijan o las reglas de la buena administración lo aconsejen, el jefe o representante legal de la entidad, en acto motivado, podrá sanear el correspondiente vicio.
 

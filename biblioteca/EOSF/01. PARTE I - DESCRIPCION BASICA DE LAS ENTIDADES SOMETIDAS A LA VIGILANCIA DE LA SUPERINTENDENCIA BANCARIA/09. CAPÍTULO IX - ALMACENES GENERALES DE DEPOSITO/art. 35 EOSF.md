@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "35"
-epigrafe: "INVERSIONES"
+epigrafe: "Inversiones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo IX|CAPÍTULO IX - ALMACENES GENERALES DE DEPOSITO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo IX|Capítulo IX]]
 
-## Artículo 35. INVERSIONES
+## Artículo 35. Inversiones
 
 1\. Inversiones en activos fijos. Las empresas de almacenes generales de depósito sólo podrán poseer en propiedad aquellos inmuebles que sean necesarios para el logro adecuado de sus fines y de su objeto social; los muebles e inmuebles que se vean obligados a recibir por cuenta de obligaciones constituidas a su favor; los valores que deban adquirir conforme a sus disposiciones legales, y las acciones en entidades que no persigan fines de lucro; los enseres, útiles, herramientas, maquinaria y en general, el equipo necesario para el funcionamiento y para prestar un adecuado servicio.
 

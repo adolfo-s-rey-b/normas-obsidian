@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 73 CPTSS|Artículo 73]] — EXCEPCIONES PREVIAS
-- [[art. 74 CPTSS|Artículo 74]] — OPORTUNIDAD Y TRÁMITE DE LAS MEDIDAS DE DEPURACIÓN O SANEAMIENTO
-- [[art. 75 CPTSS|Artículo 75]] — INOPONIBILIDAD POSTERIOR DE LOS MISMOS HECHOS
+- [[art. 73 CPTSS|Artículo 73]] — Excepciones previas
+- [[art. 74 CPTSS|Artículo 74]] — Oportunidad y trámite de las medidas de depuración o saneamiento
+- [[art. 75 CPTSS|Artículo 75]] — Inoponibilidad posterior de los mismos hechos
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]] · ↑ [[CPTSS - Libro Segundo - Sección Primera - Título Único|Título Único]]

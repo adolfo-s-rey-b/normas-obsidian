@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "124"
-epigrafe: "NOTIFICACIÓN POR FUNCIONARIO COMISIONADO"
+epigrafe: "Notificación por funcionario comisionado"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 124. NOTIFICACIÓN POR FUNCIONARIO COMISIONADO
+## Artículo 124. Notificación por funcionario comisionado
 
 En los casos en que la notificación del pliego de cargos y su variación deba realizarse en sede diferente a la del competente, este podrá comisionar para tal efecto a otro funcionario de la Procuraduría o al jefe de la entidad a la que esté vinculado el investigado o, en su defecto, al personero distrital o municipal del lugar donde se encuentre el disciplinable o su defensor, según el caso. Si no se pudiere realizar la notificación personal, se fijará edicto en lugar visible de la secretaría del despacho comisionado, por el término de cinco (5) días. Cumplido lo anterior, el comisionado devolverá inmediatamente al comitente la actuación, con las constancias correspondientes.
 

@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 212 EOSF|Artículo 212]] — INTERESES
+- [[art. 212 EOSF|Artículo 212]] — Intereses
 
 ---
 ← [[EOSF - Parte VII - Capítulo III|Capítulo III]] · ↑ [[EOSF - Parte VII|Parte VII]]

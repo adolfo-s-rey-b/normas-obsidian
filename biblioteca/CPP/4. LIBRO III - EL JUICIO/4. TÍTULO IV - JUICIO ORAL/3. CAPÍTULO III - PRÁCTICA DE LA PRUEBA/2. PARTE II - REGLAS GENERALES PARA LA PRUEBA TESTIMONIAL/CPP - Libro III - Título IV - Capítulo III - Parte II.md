@@ -24,28 +24,28 @@ tags:
 
 ### Contenido
 
-- [[art. 383 CPP|Artículo 383]] — OBLIGACIÓN DE RENDIR TESTIMONIO
-- [[art. 384 CPP|Artículo 384]] — MEDIDAS ESPECIALES PARA ASEGURAR LA COMPARECENCIA DE TESTIGOS
-- [[art. 385 CPP|Artículo 385]] — EXCEPCIONES CONSTITUCIONALES
-- [[art. 386 CPP|Artículo 386]] — IMPEDIMENTO DEL TESTIGO PARA CONCURRIR
-- [[art. 387 CPP|Artículo 387]] — TESTIMONIOS ESPECIALES
-- [[art. 388 CPP|Artículo 388]] — TESTIMONIO DE AGENTE DIPLOMÁTICO
-- [[art. 389 CPP|Artículo 389]] — JURAMENTO
-- [[art. 390 CPP|Artículo 390]] — EXAMEN DE LOS TESTIGOS
-- [[art. 391 CPP|Artículo 391]] — INTERROGATORIO CRUZADO DEL TESTIGO
-- [[art. 392 CPP|Artículo 392]] — REGLAS SOBRE EL INTERROGATORIO
-- [[art. 393 CPP|Artículo 393]] — REGLAS SOBRE EL CONTRAINTERROGATORIO
-- [[art. 394 CPP|Artículo 394]] — ACUSADO Y COACUSADO COMO TESTIGO
-- [[art. 395 CPP|Artículo 395]] — OPOSICIONES DURANTE EL INTERROGATORIO
-- [[art. 396 CPP|Artículo 396]] — EXAMEN SEPARADO DE TESTIGOS
+- [[art. 383 CPP|Artículo 383]] — Obligación de rendir testimonio
+- [[art. 384 CPP|Artículo 384]] — Medidas especiales para asegurar la comparecencia de testigos
+- [[art. 385 CPP|Artículo 385]] — Excepciones constitucionales
+- [[art. 386 CPP|Artículo 386]] — Impedimento del testigo para concurrir
+- [[art. 387 CPP|Artículo 387]] — Testimonios especiales
+- [[art. 388 CPP|Artículo 388]] — Testimonio de agente diplomático
+- [[art. 389 CPP|Artículo 389]] — Juramento
+- [[art. 390 CPP|Artículo 390]] — Examen de los testigos
+- [[art. 391 CPP|Artículo 391]] — Interrogatorio cruzado del testigo
+- [[art. 392 CPP|Artículo 392]] — Reglas sobre el interrogatorio
+- [[art. 393 CPP|Artículo 393]] — Reglas sobre el contrainterrogatorio
+- [[art. 394 CPP|Artículo 394]] — Acusado y coacusado como testigo
+- [[art. 395 CPP|Artículo 395]] — Oposiciones durante el interrogatorio
+- [[art. 396 CPP|Artículo 396]] — Examen separado de testigos
 - [[art. 397 CPP|Artículo 397]] — INTERROGATORIO POR EL JUEZ
-- [[art. 398 CPP|Artículo 398]] — TESTIGO PRIVADO DE LIBERTAD
-- [[art. 399 CPP|Artículo 399]] — TESTIMONIO DE POLICÍA JUDICIAL
-- [[art. 400 CPP|Artículo 400]] — TESTIGO SORDOMUDO
-- [[art. 401 CPP|Artículo 401]] — TESTIGO DE LENGUA EXTRANJERA
-- [[art. 402 CPP|Artículo 402]] — CONOCIMIENTO PERSONAL
-- [[art. 403 CPP|Artículo 403]] — IMPUGNACIÓN DE LA CREDIBILIDAD DEL TESTIGO
-- [[art. 404 CPP|Artículo 404]] — APRECIACIÓN DEL TESTIMONIO
+- [[art. 398 CPP|Artículo 398]] — Testigo privado de libertad
+- [[art. 399 CPP|Artículo 399]] — Testimonio de policía judicial
+- [[art. 400 CPP|Artículo 400]] — Testigo sordomudo
+- [[art. 401 CPP|Artículo 401]] — Testigo de lengua extranjera
+- [[art. 402 CPP|Artículo 402]] — Conocimiento personal
+- [[art. 403 CPP|Artículo 403]] — Impugnación de la credibilidad del testigo
+- [[art. 404 CPP|Artículo 404]] — Apreciación del testimonio
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo III - Parte I|Parte I]] · ↑ [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] · [[CPP - Libro III - Título IV - Capítulo III - Parte III|Parte III]] →

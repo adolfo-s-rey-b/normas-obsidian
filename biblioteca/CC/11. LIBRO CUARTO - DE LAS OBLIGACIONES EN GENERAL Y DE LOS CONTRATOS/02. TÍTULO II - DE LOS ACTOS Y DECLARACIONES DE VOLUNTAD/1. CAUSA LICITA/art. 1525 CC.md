@@ -12,7 +12,7 @@ epigrafe: "ACCIÓN DE REPETICIÓN POR OBJETO O CAUSA ILICITA"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título II|TÍTULO II - DE LOS ACTOS Y DECLARACIONES DE VOLUNTAD]]"
 rubro: "[[CC - Libro Cuarto - Título II - Causa licita|CAUSA LICITA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 48 Ley 80 de 1993]]"
   - "[[art. 13 Ley 80 de 1993]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título II|Título II]] › [[CC - Libro Cuarto - Título II - Causa licita|Causa licita]]

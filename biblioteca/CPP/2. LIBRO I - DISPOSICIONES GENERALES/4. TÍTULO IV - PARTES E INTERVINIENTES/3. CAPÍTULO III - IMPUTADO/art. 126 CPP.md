@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "126"
-epigrafe: "CALIFICACIÓN"
+epigrafe: "Calificación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo III|CAPÍTULO III - IMPUTADO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]]
 
-## Artículo 126. CALIFICACIÓN
+## Artículo 126. Calificación
 
 El carácter de parte como imputado se adquiere desde su vinculación a la actuación mediante la formulación de la imputación o desde la captura, si esta ocurriere primero. A partir de la presentación de la acusación adquirirá la condición de acusado.
 

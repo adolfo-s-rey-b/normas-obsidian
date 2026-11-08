@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "22"
-epigrafe: "OMISIÓN DE CONTROL EN EL SECTOR DE LA SALUD"
+epigrafe: "Omisión de control en el sector de la salud"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 21 Ley 1474 de 2011]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 22. OMISIÓN DE CONTROL EN EL SECTOR DE LA SALUD
+## Artículo 22. Omisión de control en el sector de la salud
 
 La Ley 599 de 2000 tendrá un artículo [[art. 325B CP|325B]], el cual quedará así:
 

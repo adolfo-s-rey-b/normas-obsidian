@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "176"
-epigrafe: "RECURSOS ORDINARIOS"
+epigrafe: "Recursos ordinarios"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo VIII|CAPÍTULO VIII - RECURSOS ORDINARIOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 176. RECURSOS ORDINARIOS
+## Artículo 176. Recursos ordinarios
 
 Son recursos ordinarios la reposición y la apelación.
 

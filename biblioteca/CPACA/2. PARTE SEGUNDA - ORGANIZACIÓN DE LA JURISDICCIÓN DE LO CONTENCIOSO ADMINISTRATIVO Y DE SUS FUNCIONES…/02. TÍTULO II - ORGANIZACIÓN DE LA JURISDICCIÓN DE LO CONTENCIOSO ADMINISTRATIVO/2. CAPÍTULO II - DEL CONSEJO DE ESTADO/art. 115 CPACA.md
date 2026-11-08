@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "115"
-epigrafe: "CONJUECES"
+epigrafe: "Conjueces"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 115. CONJUECES
+## Artículo 115. Conjueces
 
 Los conjueces suplirán las faltas de los Magistrados por impedimento o recusación, dirimirán los empates que se presenten en la Sala Plena de lo Contencioso Administrativo, en la Sala de lo Contencioso Administrativo en sus diferentes secciones y en Sala de Consulta y Servicio Civil, e intervendrán en las mismas para completar la mayoría decisoria, cuando esta no se hubiere logrado.
 

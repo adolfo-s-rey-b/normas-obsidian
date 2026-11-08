@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "28"
-epigrafe: "REVISORÍA FISCAL"
+epigrafe: "Revisoría fiscal"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 27 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 28. REVISORÍA FISCAL
+## Artículo 28. Revisoría fiscal
 
 En caso de que por exigencia de la ley se tenga que proveer el cargo de revisor fiscal, la persona que ocupe dicho cargo deberá ser contador público titulado con tarjeta profesional vigente.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "245"
-epigrafe: "EXÁMENES DE ADN QUE INVOLUCREN AL INDICIADO O AL IMPUTADO"
+epigrafe: "Exámenes de ADN que involucren al indiciado o al imputado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 245. EXÁMENES DE ADN QUE INVOLUCREN AL INDICIADO O AL IMPUTADO
+## Artículo 245. Exámenes de ADN que involucren al indiciado o al imputado
 
 Cuando la policía judicial requiera la realización de exámenes de ADN, en virtud de la presencia de fluidos corporales, cabellos, vello púbico, semen, sangre u otro vestigio que permita determinar datos como la raza, el tipo de sangre y, en especial, la huella dactilar genética, se requerirá orden expresa del fiscal que dirige la investigación.
 

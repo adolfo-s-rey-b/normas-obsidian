@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "263"
-epigrafe: "CUANTÍA DEL INTERÉS PARA RECURRIR"
+epigrafe: "Cuantía del interés para recurrir"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VI|TÍTULO VI - RECURSOS EXTRAORDINARIOS]]"
 capitulo: "[[CPACA - Parte Segunda - Título VI - Capítulo II|CAPÍTULO II - RECURSO EXTRAORDINARIO DE UNIFICACIÓN DE JURISPRUDENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VI|Título VI]] › [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 263. CUANTÍA DEL INTERÉS PARA RECURRIR
+## Artículo 263. Cuantía del interés para recurrir
 
 Cuando sea necesario tener en cuenta el valor del interés para recurrir y este no aparezca determinado, antes de resolver sobre la concesión del recurso, el ponente, en el Tribunal Administrativo, dispondrá que aquel se justiprecie por un perito, dentro del término que le señale y a costa del recurrente. Si por culpa de este, no se practica el dictamen, se declarará desierto el recurso. El dictamen no es objetable. Denegado el recurso por el Tribunal Administrativo o declarado desierto, el interesado podrá recurrir en queja ante el Consejo de Estado.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "58"
-epigrafe: "OBJETIVOS DE LOS MINISTERIOS Y DEPARTAMENTOS ADMINISTRATIVOS"
+epigrafe: "Objetivos de los ministerios y departamentos administrativos"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 57 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 58. OBJETIVOS DE LOS MINISTERIOS Y DEPARTAMENTOS ADMINISTRATIVOS
+## Artículo 58. Objetivos de los ministerios y departamentos administrativos
 
 Conforme a la Constitución, al acto de creación y a la presente ley, los ministerios y los departamentos administrativos tienen como objetivos primordiales la formulación y adopción de las políticas, planes generales, programas y proyectos del Sector Administrativo que dirigen.
 

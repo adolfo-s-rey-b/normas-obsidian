@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "81"
-epigrafe: "PAGO Y REPRESENTACION DEL CAPITAL"
+epigrafe: "Pago y Representación del Capital"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 81. PAGO Y REPRESENTACION DEL CAPITAL
+## Artículo 81. Pago y Representación del Capital
 
 1\. Pago del capital inicial. En las entidades sometidas al control y vigilancia de la Superintendencia Bancaria, con excepción de los intermediarios de seguros, a lo menos el cincuenta por ciento (50%) del capital suscrito deberá pagarse en dinero al tiempo de la constitución, como requisito para que le sea expedido el certificado de autorización, sin perjuicio del monto de capital mínimo que deben acreditar.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "5"
-epigrafe: "COMPETENCIA ADMINISTRATIVA"
+epigrafe: "Competencia Administrativa"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 4 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 5. COMPETENCIA ADMINISTRATIVA
+## Artículo 5. Competencia Administrativa
 
 Los organismos y entidades administrativos deberán ejercer con exclusividad las potestades y atribuciones inherentes, de manera directa e inmediata, respecto de los asuntos que les hayan sido asignados expresamente por la ley, la ordenanza, el acuerdo o el reglamento ejecutivo.
 

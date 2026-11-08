@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "159"
-epigrafe: "ASPECTOS GENERALES"
+epigrafe: "Aspectos Generales"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 159. ASPECTOS GENERALES
+## Artículo 159. Aspectos Generales
 
 1\. Definición. El fondo de cesantía es un patrimonio autónomo independiente del de la sociedad administradora, constituído con el aporte del auxilio de cesantía previsto en el capítulo VII, título VIII, parte primera, del Código Sustantivo del Trabajo, en los artículos [[art. 98 Ley 50 de 1990|98]] a [[art. 106 Ley 50 de 1990|106]] de la Ley 50 de 1990 y en el presente capítulo de este Estatuto.
 

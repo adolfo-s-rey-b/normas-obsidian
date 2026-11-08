@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 286 EOSF|Artículo 286]] — ORGANIZACION
-- [[art. 287 EOSF|Artículo 287]] — DIRECCION Y ADMINISTRACION
-- [[art. 288 EOSF|Artículo 288]] — FUNCIONES
-- [[art. 289 EOSF|Artículo 289]] — VIGILANCIA Y CONTROL
+- [[art. 286 EOSF|Artículo 286]] — Organización
+- [[art. 287 EOSF|Artículo 287]] — Dirección y Administración
+- [[art. 288 EOSF|Artículo 288]] — Funciones
+- [[art. 289 EOSF|Artículo 289]] — Vigilancia y Control
 
 ---
 ← [[EOSF - Parte X - Capítulo XI|Capítulo XI]] · ↑ [[EOSF - Parte X|Parte X]]

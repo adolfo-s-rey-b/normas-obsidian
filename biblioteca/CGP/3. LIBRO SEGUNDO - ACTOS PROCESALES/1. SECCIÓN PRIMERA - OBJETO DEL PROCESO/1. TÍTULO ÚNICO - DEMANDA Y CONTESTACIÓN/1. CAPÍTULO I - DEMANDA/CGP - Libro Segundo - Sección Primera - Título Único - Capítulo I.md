@@ -24,20 +24,20 @@ tags:
 
 ### Contenido
 
-- [[art. 82 CGP|Artículo 82]] — REQUISITOS DE LA DEMANDA
-- [[art. 83 CGP|Artículo 83]] — REQUISITOS ADICIONALES
-- [[art. 84 CGP|Artículo 84]] — ANEXOS DE LA DEMANDA
-- [[art. 85 CGP|Artículo 85]] — PRUEBA DE LA EXISTENCIA, REPRESENTACIÓN LEGAL O CALIDAD EN QUE ACTÚAN LAS PARTES
-- [[art. 86 CGP|Artículo 86]] — SANCIONES EN CASO DE INFORMACIONES FALSAS
-- [[art. 87 CGP|Artículo 87]] — DEMANDA CONTRA HEREDEROS DETERMINADOS E INDETERMINADOS, DEMÁS ADMINISTRADORES DE LA HERENCIA Y EL CÓNYUGE
-- [[art. 88 CGP|Artículo 88]] — ACUMULACIÓN DE PRETENSIONES
-- [[art. 89 CGP|Artículo 89]] — PRESENTACIÓN DE LA DEMANDA
-- [[art. 90 CGP|Artículo 90]] — ADMISIÓN, INADMISIÓN Y RECHAZO DE LA DEMANDA
-- [[art. 91 CGP|Artículo 91]] — TRASLADO DE LA DEMANDA
-- [[art. 92 CGP|Artículo 92]] — RETIRO DE LA DEMANDA
-- [[art. 93 CGP|Artículo 93]] — CORRECCIÓN, ACLARACIÓN Y REFORMA DE LA DEMANDA
-- [[art. 94 CGP|Artículo 94]] — INTERRUPCIÓN DE LA PRESCRIPCIÓN, INOPERANCIA DE LA CADUCIDAD Y CONSTITUCIÓN EN MORA
-- [[art. 95 CGP|Artículo 95]] — INEFICACIA DE LA INTERRUPCIÓN DE LA PRESCRIPCIÓN Y OPERANCIA DE LA CADUCIDAD
+- [[art. 82 CGP|Artículo 82]] — Requisitos de la demanda
+- [[art. 83 CGP|Artículo 83]] — Requisitos adicionales
+- [[art. 84 CGP|Artículo 84]] — Anexos de la demanda
+- [[art. 85 CGP|Artículo 85]] — Prueba de la existencia, representación legal o calidad en que actúan las partes
+- [[art. 86 CGP|Artículo 86]] — Sanciones en caso de informaciones falsas
+- [[art. 87 CGP|Artículo 87]] — Demanda contra herederos determinados e indeterminados, demás administradores de la herencia y el cónyuge
+- [[art. 88 CGP|Artículo 88]] — Acumulación de pretensiones
+- [[art. 89 CGP|Artículo 89]] — Presentación de la demanda
+- [[art. 90 CGP|Artículo 90]] — Admisión, inadmisión y rechazo de la demanda
+- [[art. 91 CGP|Artículo 91]] — Traslado de la demanda
+- [[art. 92 CGP|Artículo 92]] — Retiro de la demanda
+- [[art. 93 CGP|Artículo 93]] — Corrección, aclaración y reforma de la demanda
+- [[art. 94 CGP|Artículo 94]] — Interrupción de la prescripción, inoperancia de la caducidad y constitución en mora
+- [[art. 95 CGP|Artículo 95]] — Ineficacia de la interrupción de la prescripción y operancia de la caducidad
 
 ---
 ↑ [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] · [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]] →

@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 109 CPTSS|Artículo 109]] — PROCEDENCIA
-- [[art. 110 CPTSS|Artículo 110]] — OPORTUNIDAD, COMPETENCIA Y REQUISITOS
-- [[art. 111 CPTSS|Artículo 111]] — TRÁMITE
-- [[art. 112 CPTSS|Artículo 112]] — EFECTOS
-- [[art. 113 CPTSS|Artículo 113]] — REMUNERACIÓN DEL APODERADO
-- [[art. 114 CPTSS|Artículo 114]] — FACULTADES Y RESPONSABILIDAD DEL APODERADO
-- [[art. 115 CPTSS|Artículo 115]] — REMUNERACIÓN DE AUXILIARES DE LA JUSTICIA
-- [[art. 116 CPTSS|Artículo 116]] — TERMINACIÓN DEL AMPARO
+- [[art. 109 CPTSS|Artículo 109]] — Procedencia
+- [[art. 110 CPTSS|Artículo 110]] — Oportunidad, competencia y requisitos
+- [[art. 111 CPTSS|Artículo 111]] — Trámite
+- [[art. 112 CPTSS|Artículo 112]] — Efectos
+- [[art. 113 CPTSS|Artículo 113]] — Remuneración del apoderado
+- [[art. 114 CPTSS|Artículo 114]] — Facultades y responsabilidad del apoderado
+- [[art. 115 CPTSS|Artículo 115]] — Remuneración de auxiliares de la justicia
+- [[art. 116 CPTSS|Artículo 116]] — Terminación del amparo
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VIII|Capítulo VIII]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo X|Capítulo X]] →

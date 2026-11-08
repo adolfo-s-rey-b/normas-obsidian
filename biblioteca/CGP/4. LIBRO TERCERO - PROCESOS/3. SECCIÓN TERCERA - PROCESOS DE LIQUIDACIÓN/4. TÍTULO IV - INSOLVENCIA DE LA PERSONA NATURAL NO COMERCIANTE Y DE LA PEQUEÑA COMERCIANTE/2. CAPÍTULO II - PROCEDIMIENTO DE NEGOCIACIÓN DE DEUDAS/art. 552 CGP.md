@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "552"
-epigrafe: "DECISIÓN SOBRE OBJECIONES"
+epigrafe: "Decisión sobre objeciones"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 552. DECISIÓN SOBRE OBJECIONES
+## Artículo 552. Decisión sobre objeciones
 
 Si no se conciliaren las objeciones en la audiencia, el conciliador la suspenderá por una única vez, durante diez (10) días, para que dentro de los cinco (5) primeros días inmediatamente siguientes a la suspensión, los objetantes presenten ante él y por escrito la objeción, junto con las pruebas que pretendan hacer valer y las que pidan al juez. Vencido este término, correrá uno igual para que el deudor y los titulares de los créditos objetados se pronuncien por escrito sobre la objeción formulada y aporten y pidan las pruebas a que hubiere lugar. Dentro del mismo término, los restantes acreedores podrán pronunciarse por escrito sobre las objeciones y aportar las pruebas que pretendan hacer valer, pero no podrán pedir otras. La sustentación no podrá versar sobre objeciones diferentes a las manifestadas de manera precisa en la audiencia.
 

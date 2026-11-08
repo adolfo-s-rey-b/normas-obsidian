@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 371 CPP|Artículo 371]] — DECLARACIÓN INICIAL
+- [[art. 371 CPP|Artículo 371]] — Declaración inicial
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro III - Título IV|Título IV]] · [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] →

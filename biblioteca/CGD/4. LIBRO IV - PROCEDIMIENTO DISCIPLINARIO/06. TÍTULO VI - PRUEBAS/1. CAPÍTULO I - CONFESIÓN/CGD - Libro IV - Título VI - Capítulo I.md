@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 161 CGD|Artículo 161]] — REQUISITOS DE LA CONFESIÓN O ACEPTACIÓN DE CARGOS
-- [[art. 162 CGD|Artículo 162]] — OPORTUNIDAD Y BENEFICIOS DE LA CONFESIÓN Y DE LA ACEPTACIÓN DE CARGOS
-- [[art. 163 CGD|Artículo 163]] — CRITERIOS PARA LA APRECIACIÓN
+- [[art. 161 CGD|Artículo 161]] — Requisitos de la confesión o aceptación de cargos
+- [[art. 162 CGD|Artículo 162]] — Oportunidad y beneficios de la confesión y de la aceptación de cargos
+- [[art. 163 CGD|Artículo 163]] — Criterios para la apreciación
 
 ---
 ↑ [[CGD - Libro IV - Título VI|Título VI]] · [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]] →

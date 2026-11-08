@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "150"
-epigrafe: "PÉRDIDAS SUFRIDAS POR PERSONAS NATURALES EN ACTIVIDADES AGRICOLAS"
+epigrafe: "PÉRDIDAS SUFRIDAS POR PERSONAS NATURALES EN ACTIVIDADES AGRÍCOLAS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Pérdidas|Pérdidas]]
 
-## Artículo 150. PÉRDIDAS SUFRIDAS POR PERSONAS NATURALES EN ACTIVIDADES AGRICOLAS
+## Artículo 150. PÉRDIDAS SUFRIDAS POR PERSONAS NATURALES EN ACTIVIDADES AGRÍCOLAS
 
 Las pérdidas de personas naturales y sucesiones ilíquidas en empresas agropecuarias serán deducibles en los cinco años siguientes a su ocurrencia, siempre y cuando que se deduzcan exclusivamente de rentas de igual naturaleza y las operaciones de la empresa estén contabilizadas de conformidad con los principios de contabilidad generalmente aceptados. Esta deducción se aplicará sin perjuicio de la renta presuntiva
 

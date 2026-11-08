@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "68"
-epigrafe: "UNIDADES LEGALES DE MEDIDA"
+epigrafe: "Unidades Legales de Medida"
 titulo: "[[Ley 1480 de 2011 - Título IX|TÍTULO IX - ASPECTOS RELACIONADOS CON EL SUBSISTEMA NACIONAL DE CALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título IX - Capítulo I|CAPÍTULO I - METROLOGÍA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título IX|Título IX]] › [[Ley 1480 de 2011 - Título IX - Capítulo I|Capítulo I]]
 
-## Artículo 68. UNIDADES LEGALES DE MEDIDA
+## Artículo 68. Unidades Legales de Medida
 
 De conformidad con la normativa andina sobre la materia, las unidades legales de medida comprenden:
 

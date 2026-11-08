@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "217"
-epigrafe: "EXHUMACIÓN"
+epigrafe: "Exhumación"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 217. EXHUMACIÓN
+## Artículo 217. Exhumación
 
 Cuando fuere necesario exhumar un cadáver o sus restos, para fines de la investigación, el fiscal así lo dispondrá. La policía judicial establecerá y revisará las condiciones del sitio preciso donde se encuentran los despojos a que se refiere la inspección. Técnicamente hará la exhumación del cadáver o los restos y los trasladará al centro de Medicina Legal, en donde será identificado técnico-científicamente, y se realizarán las investigaciones y análisis para descubrir lo que motivó la exhumación.
 

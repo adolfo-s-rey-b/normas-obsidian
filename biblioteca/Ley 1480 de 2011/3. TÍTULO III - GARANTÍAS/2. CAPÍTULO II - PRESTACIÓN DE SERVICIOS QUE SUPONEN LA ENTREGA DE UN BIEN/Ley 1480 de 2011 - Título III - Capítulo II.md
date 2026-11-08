@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 18 Ley 1480 de 2011|Artículo 18]] — PRESTACIÓN DE SERVICIOS QUE SUPONEN LA ENTREGA DE UN BIEN
+- [[art. 18 Ley 1480 de 2011|Artículo 18]] — Prestación de servicios que suponen la entrega de un bien
 
 ---
 ← [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]] · ↑ [[Ley 1480 de 2011 - Título III|Título III]]

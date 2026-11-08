@@ -10,10 +10,10 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "508-1"
-epigrafe: "CAMBIO DE REGIMEN POR LA ADMINISTRACIÓN"
+epigrafe: "CAMBIO DE RÉGIMEN POR LA ADMINISTRACIÓN"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IX|TÍTULO IX - PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 16 Ley 2010 de 2019]]"
   - "[[art. 14 Ley 1943 de 2018]]"
@@ -32,12 +32,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IX|Título IX]]
 
-## Artículo 508-1. CAMBIO DE REGIMEN POR LA ADMINISTRACIÓN
+## Artículo 508-1. CAMBIO DE RÉGIMEN POR LA ADMINISTRACIÓN
 
 Para efectos de control tributario, la Administración Tributaria podrá oficiosamente reclasificar a los no responsables en responsables, cuando cuente con información objetiva que evidencie que son responsables del impuesto , entre otras circunstancias, que:
 

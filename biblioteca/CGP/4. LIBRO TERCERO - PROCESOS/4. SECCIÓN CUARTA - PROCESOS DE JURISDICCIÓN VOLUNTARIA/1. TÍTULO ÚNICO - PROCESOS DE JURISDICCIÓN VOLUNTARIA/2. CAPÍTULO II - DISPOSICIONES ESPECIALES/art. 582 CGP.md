@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "582"
-epigrafe: "RECONOCIMIENTO DEL GUARDADOR TESTAMENTARIO Y POSESIÓN DEL CARGO"
+epigrafe: "Reconocimiento del guardador testamentario y posesión del cargo"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Cuarta|SECCIÓN CUARTA - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
 titulo: "[[CGP - Libro Tercero - Sección Cuarta - Título Único|TÍTULO ÚNICO - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 582. RECONOCIMIENTO DEL GUARDADOR TESTAMENTARIO Y POSESIÓN DEL CARGO
+## Artículo 582. Reconocimiento del guardador testamentario y posesión del cargo
 
 En los procesos para el reconocimiento de guardador testamentario y posesión del cargo, se observarán las siguientes reglas.
 

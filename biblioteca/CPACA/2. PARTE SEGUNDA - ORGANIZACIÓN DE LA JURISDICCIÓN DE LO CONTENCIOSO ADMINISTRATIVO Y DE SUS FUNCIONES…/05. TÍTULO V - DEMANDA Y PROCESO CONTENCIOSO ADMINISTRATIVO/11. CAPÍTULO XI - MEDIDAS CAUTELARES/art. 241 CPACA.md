@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "241"
-epigrafe: "SANCIONES"
+epigrafe: "Sanciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 241. SANCIONES
+## Artículo 241. Sanciones
 
 El incumplimiento de una medida cautelar dará lugar a la apertura de un incidente de desacato como consecuencia del cual se podrán imponer multas sucesivas por cada día de retardo en el cumplimiento hasta por el monto de dos (2) salarios mínimos mensuales legales vigentes a cargo del renuente, sin que sobrepase cincuenta (50) salarios mínimos mensuales legales vigentes.
 

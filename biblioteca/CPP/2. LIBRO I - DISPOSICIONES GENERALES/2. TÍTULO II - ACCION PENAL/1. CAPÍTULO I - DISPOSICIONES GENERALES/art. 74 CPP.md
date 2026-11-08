@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "74"
-epigrafe: "CONDUCTAS PUNIBLES QUE REQUIEREN QUERELLA"
+epigrafe: "Conductas punibles que requieren querella"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -44,7 +44,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 74. CONDUCTAS PUNIBLES QUE REQUIEREN QUERELLA
+## Artículo 74. Conductas punibles que requieren querella
 
 Para iniciar la acción penal será necesario querella en las siguientes conductas punibles:
 

@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 275 EOSF|Artículo 275]] — ORGANIZACION
-- [[art. 276 EOSF|Artículo 276]] — OPERACIONES
+- [[art. 275 EOSF|Artículo 275]] — Organización
+- [[art. 276 EOSF|Artículo 276]] — Operaciones
 
 ---
 ← [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]] · ↑ [[EOSF - Parte X|Parte X]] · [[EOSF - Parte X - Capítulo X|Capítulo X]] →

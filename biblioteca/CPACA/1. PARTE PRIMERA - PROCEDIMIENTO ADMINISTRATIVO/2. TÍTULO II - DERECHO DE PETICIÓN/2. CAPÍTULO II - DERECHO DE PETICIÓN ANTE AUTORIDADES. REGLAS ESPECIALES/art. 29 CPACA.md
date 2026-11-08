@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "29"
-epigrafe: "REPRODUCCIÓN DE DOCUMENTOS"
+epigrafe: "Reproducción de documentos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 29. REPRODUCCIÓN DE DOCUMENTOS
+## Artículo 29. Reproducción de documentos
 
 En ningún caso el precio de las copias podrá exceder el valor de la reproducción. Los costos de la expedición de las copias correrán por cuenta del interesado en obtenerlas.
 

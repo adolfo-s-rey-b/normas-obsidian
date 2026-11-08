@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "359"
-epigrafe: "SENTENCIA"
+epigrafe: "Sentencia"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 359. SENTENCIA
+## Artículo 359. Sentencia
 
 Si la Corte o el tribunal encuentra fundada alguna de las causales de los numerales 1 a 6 o 9 del artículo [[art. 355 CGP|355]] invalidará la sentencia revisada y dictará la que en derecho corresponde; si halla fundada la del numeral 8 declarará sin valor la sentencia y devolverá el proceso al tribunal o juzgado de origen para que la dicte de nuevo; y si encuentra fundada la del numeral 7 declarará la nulidad de lo actuado en el proceso que dio lugar a la revisión.
 

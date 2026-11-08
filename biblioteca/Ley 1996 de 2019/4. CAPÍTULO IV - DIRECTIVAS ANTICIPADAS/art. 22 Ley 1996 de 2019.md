@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "22"
-epigrafe: "SUSCRIPCIÓN DE LA DIRECTIVA ANTICIPADA"
+epigrafe: "Suscripción de la directiva anticipada"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 21 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 22. SUSCRIPCIÓN DE LA DIRECTIVA ANTICIPADA
+## Artículo 22. Suscripción de la directiva anticipada
 
 La directiva anticipada deberá suscribirse mediante escritura pública ante notario o mediante acta de conciliación ante conciliadores extrajudiciales en derecho, siguiendo el trámite señalado en los artículos [[art. 16 Ley 1996 de 2019|16]] o [[art. 17 Ley 1996 de 2019|17]] de la presente ley, según el caso, para ser válida.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "51"
-epigrafe: "DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS"
+epigrafe: "De la Responsabilidad de los Servidores Públicos"
 rubro: "[[Ley 80 de 1993 - V. de la responsabilidad contractual|V. DE LA RESPONSABILIDAD CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 50 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - V. de la responsabilidad contractual|V. de la responsabilidad contractual]]
 
-## Artículo 51. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+## Artículo 51. De la Responsabilidad de los Servidores Públicos
 
 El servidor público responderá disciplinaria, civil y penalmente por sus acciones y omisiones en la actuación contractual en los términos de la Constitución y de la ley.
 

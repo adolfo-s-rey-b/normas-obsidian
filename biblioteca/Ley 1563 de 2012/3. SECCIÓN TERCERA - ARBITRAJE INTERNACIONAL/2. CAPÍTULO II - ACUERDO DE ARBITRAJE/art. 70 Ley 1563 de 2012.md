@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "70"
-epigrafe: "ACUERDO DE ARBITRAJE Y DEMANDA EN CUANTO AL FONDO ANTE UNA AUTORIDAD JUDICIAL"
+epigrafe: "Acuerdo de arbitraje y demanda en cuanto al fondo ante una autoridad judicial"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo II|CAPÍTULO II - ACUERDO DE ARBITRAJE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo II|Capítulo II]]
 
-## Artículo 70. ACUERDO DE ARBITRAJE Y DEMANDA EN CUANTO AL FONDO ANTE UNA AUTORIDAD JUDICIAL
+## Artículo 70. Acuerdo de arbitraje y demanda en cuanto al fondo ante una autoridad judicial
 
 La autoridad judicial a la que se someta un litigio sobre un asunto que es objeto de un acuerdo de arbitraje remitirá a las partes al arbitraje si lo solicita cualquiera de ellas, a más tardar, en la oportunidad para la contestación de la demanda.
 

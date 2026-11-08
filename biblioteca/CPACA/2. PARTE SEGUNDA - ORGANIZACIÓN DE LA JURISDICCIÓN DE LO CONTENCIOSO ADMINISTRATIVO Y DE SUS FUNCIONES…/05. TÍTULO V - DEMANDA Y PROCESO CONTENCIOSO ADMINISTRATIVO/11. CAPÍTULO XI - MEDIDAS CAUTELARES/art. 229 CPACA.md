@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "229"
-epigrafe: "PROCEDENCIA DE MEDIDAS CAUTELARES"
+epigrafe: "Procedencia de medidas cautelares"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 229. PROCEDENCIA DE MEDIDAS CAUTELARES
+## Artículo 229. Procedencia de medidas cautelares
 
 En todos los procesos declarativos que se adelanten ante esta jurisdicción, antes de ser notificado, el auto admisorio de la demanda o en cualquier estado del proceso, a petición de parte debidamente sustentada, podrá el Juez o Magistrado Ponente decretar, en providencia motivada, las medidas cautelares que considere necesarias para proteger y garantizar, provisionalmente, el objeto del proceso y la efectividad de la sentencia, de acuerdo con lo regulado en el presente capítulo.
 

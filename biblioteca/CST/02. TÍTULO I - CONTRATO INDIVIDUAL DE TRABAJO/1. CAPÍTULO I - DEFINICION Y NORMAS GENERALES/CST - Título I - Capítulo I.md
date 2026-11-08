@@ -28,7 +28,7 @@ tags:
 - [[art. 25 CST|Artículo 25]] — CONCURRENCIA DE CONTRATOS
 - [[art. 26 CST|Artículo 26]] — COEXISTENCIA DE CONTRATOS
 - [[art. 27 CST|Artículo 27]] — REMUNERACION DEL TRABAJO
-- [[art. 28 CST|Artículo 28]] — UTILIDADES Y PERDIDAS
+- [[art. 28 CST|Artículo 28]] — UTILIDADES Y PÉRDIDAS
 
 ---
 ↑ [[CST - Título I|Título I]] · [[CST - Título I - Capítulo II|Capítulo II]] →

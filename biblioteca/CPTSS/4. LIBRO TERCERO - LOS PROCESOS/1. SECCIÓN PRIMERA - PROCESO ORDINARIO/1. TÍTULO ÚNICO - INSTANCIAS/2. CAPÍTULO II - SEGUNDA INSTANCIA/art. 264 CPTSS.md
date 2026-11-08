@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "264"
-epigrafe: "EXTENSIÓN DEL TRÁMITE DEL PROCESO ORDINARIO"
+epigrafe: "Extensión del trámite del proceso ordinario"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESO ORDINARIO]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Primera - Título Único|TÍTULO ÚNICO - INSTANCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único|Título Único]] › [[CPTSS - Libro Tercero - Sección Primera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 264. EXTENSIÓN DEL TRÁMITE DEL PROCESO ORDINARIO
+## Artículo 264. Extensión del trámite del proceso ordinario
 
 Todo otro asunto que no tenga estipulado un trámite especial en este código, seguirá las reglas del proceso ordinario establecido en precedencia.
 

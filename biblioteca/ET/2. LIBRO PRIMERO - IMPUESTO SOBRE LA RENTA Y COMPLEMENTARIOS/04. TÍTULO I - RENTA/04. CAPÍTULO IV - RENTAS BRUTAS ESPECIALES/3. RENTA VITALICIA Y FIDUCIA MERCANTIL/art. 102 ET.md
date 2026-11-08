@@ -66,7 +66,7 @@ Cuando los beneficiarios o fideicomitentes sean personas naturales no obligadas 
 
 4\. Se causará el impuesto sobre la renta o ganancia ocasional en cabeza del constituyente, siempre que los bienes que conforman el patrimonio autónomo o los derechos sobre el mismo se transfieran a personas o entidades diferentes del constituyente. Si la transferencia es a título gratuito, el impuesto se causa en cabeza del beneficiario de los respectivos bienes o derechos. Para estos fines se aplicarán las normas generales sobre la determinación de la renta o la ganancia ocasional, así como las relativas a las donaciones y las previstas en los artículos [[art. 90 ET|90]] y [[art. 90-1 ET|90-1]] de este Estatuto.
 
-5.
+5\. *(texto no vigente)*
 
 > [!info] Numeral modificado por el artículo [[art. 82 Ley 488 de 1998|82]] de la Ley 488 de 1998. El nuevo texto es el siguiente:
 

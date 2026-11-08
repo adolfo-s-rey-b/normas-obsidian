@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 148 CGP|Artículo 148]] — PROCEDENCIA DE LA ACUMULACIÓN EN LOS PROCESOS DECLARATIVOS
-- [[art. 149 CGP|Artículo 149]] — COMPETENCIA
-- [[art. 150 CGP|Artículo 150]] — TRÁMITE
+- [[art. 148 CGP|Artículo 148]] — Procedencia de la acumulación en los procesos declarativos
+- [[art. 149 CGP|Artículo 149]] — Competencia
+- [[art. 150 CGP|Artículo 150]] — Trámite
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] · [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo IV|Capítulo IV]] →

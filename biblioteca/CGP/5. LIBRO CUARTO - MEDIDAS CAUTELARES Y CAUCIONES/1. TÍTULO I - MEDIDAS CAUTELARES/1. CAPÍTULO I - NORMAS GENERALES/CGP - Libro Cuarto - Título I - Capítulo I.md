@@ -21,17 +21,17 @@ tags:
 
 ### Contenido
 
-- [[art. 588 CGP|Artículo 588]] — PRONUNCIAMIENTO Y COMUNICACIÓN SOBRE MEDIDAS CAUTELARES
-- [[art. 589 CGP|Artículo 589]] — MEDIDAS CAUTELARES EN LA PRÁCTICA DE PRUEBAS EXTRAPROCESALES
-- [[art. 590 CGP|Artículo 590]] — MEDIDAS CAUTELARES EN PROCESOS DECLARATIVOS
-- [[art. 591 CGP|Artículo 591]] — INSCRIPCIÓN DE LA DEMANDA
-- [[art. 592 CGP|Artículo 592]] — INSCRIPCIÓN DE LA DEMANDA EN OTROS PROCESOS
-- [[art. 593 CGP|Artículo 593]] — EMBARGOS
-- [[art. 594 CGP|Artículo 594]] — BIENES INEMBARGABLES
-- [[art. 595 CGP|Artículo 595]] — SECUESTRO
-- [[art. 596 CGP|Artículo 596]] — OPOSICIONES AL SECUESTRO
-- [[art. 597 CGP|Artículo 597]] — LEVANTAMIENTO DEL EMBARGO Y SECUESTRO
-- [[art. 598 CGP|Artículo 598]] — MEDIDAS CAUTELARES EN PROCESOS DE FAMILIA
+- [[art. 588 CGP|Artículo 588]] — Pronunciamiento y comunicación sobre medidas cautelares
+- [[art. 589 CGP|Artículo 589]] — Medidas cautelares en la práctica de pruebas extraprocesales
+- [[art. 590 CGP|Artículo 590]] — Medidas cautelares en procesos declarativos
+- [[art. 591 CGP|Artículo 591]] — Inscripción de la demanda
+- [[art. 592 CGP|Artículo 592]] — Inscripción de la demanda en otros procesos
+- [[art. 593 CGP|Artículo 593]] — Embargos
+- [[art. 594 CGP|Artículo 594]] — Bienes inembargables
+- [[art. 595 CGP|Artículo 595]] — Secuestro
+- [[art. 596 CGP|Artículo 596]] — Oposiciones al secuestro
+- [[art. 597 CGP|Artículo 597]] — Levantamiento del embargo y secuestro
+- [[art. 598 CGP|Artículo 598]] — Medidas cautelares en procesos de familia
 
 ---
 ↑ [[CGP - Libro Cuarto - Título I|Título I]] · [[CGP - Libro Cuarto - Título I - Capítulo II|Capítulo II]] →

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 32 CPACA|Artículo 32]] — DERECHO DE PETICIÓN ANTE ORGANIZACIONES PRIVADAS PARA GARANTIZAR LOS DERECHOS FUNDAMENTALES
-- [[art. 33 CPACA|Artículo 33]] — DERECHO DE PETICIÓN DE LOS USUARIOS ANTE INSTITUCIONES PRIVADAS
+- [[art. 32 CPACA|Artículo 32]] — Derecho de petición ante organizaciones privadas para garantizar los derechos fundamentales
+- [[art. 33 CPACA|Artículo 33]] — Derecho de petición de los usuarios ante instituciones privadas
 
 ---
 ← [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]] · ↑ [[CPACA - Parte Primera - Título II|Título II]]

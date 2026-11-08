@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "276"
-epigrafe: "OPERACIONES"
+epigrafe: "Operaciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo IX|CAPÍTULO IX - FIDUCIARIA LA PREVISORA]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo IX|Capítulo IX]]
 
-## Artículo 276. OPERACIONES
+## Artículo 276. Operaciones
 
 1\. Operaciones autorizadas. En desarrollo de su objeto social, la sociedad fiduciaria podrá ejecutar las siguientes operaciones de carácter especial:
 

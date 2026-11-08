@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "41"
-epigrafe: "CORRECCIÓN DE IRREGULARIDADES EN LA ACTUACIÓN ADMINISTRATIVA"
+epigrafe: "Corrección de irregularidades en la actuación administrativa"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 41. CORRECCIÓN DE IRREGULARIDADES EN LA ACTUACIÓN ADMINISTRATIVA
+## Artículo 41. Corrección de irregularidades en la actuación administrativa
 
 La autoridad, en cualquier momento anterior a la expedición del acto, de oficio o a petición de parte, corregirá las irregularidades que se hayan presentado en la actuación administrativa para ajustarla a derecho, y adoptará las medidas necesarias para concluirla.
 

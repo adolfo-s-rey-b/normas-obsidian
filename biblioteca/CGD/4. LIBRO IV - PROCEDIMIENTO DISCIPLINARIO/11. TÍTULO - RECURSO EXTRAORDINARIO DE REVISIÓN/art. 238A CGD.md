@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "238A"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título|TÍTULO - RECURSO EXTRAORDINARIO DE REVISIÓN]]"
 vigencia: "parcialmente inexequible"
@@ -36,7 +36,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título|Título]]
 
-## Artículo 238A. PROCEDENCIA
+## Artículo 238A. Procedencia
 
 El recurso extraordinario de revisión procede contra las decisiones sancionatoria ~~ejecutorias~~ dictadas por la Procuraduría General de la Nación en ejercicio de la potestad disciplinaria ~~jurisdiccional~~. Igualmente, contra los fallos absolutorios y los archivos, cuando se trate de violaciones a los derechos humanos o el derecho internacional humanitario. Igualmente, contra las decisiones producto de la doble conformidad dictadas por el Procurador General de la Nación.
 

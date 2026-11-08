@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "24"
-epigrafe: "INFORMACIONES Y DOCUMENTOS RESERVADOS"
+epigrafe: "Informaciones y documentos reservados"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 24. INFORMACIONES Y DOCUMENTOS RESERVADOS
+## Artículo 24. Informaciones y documentos reservados
 
 Solo tendrán carácter reservado las informaciones y documentos expresamente sometidos a reserva por la Constitución Política o la ley, y en especial:
 

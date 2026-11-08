@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "170"
-epigrafe: "TESTIMONIO POR CERTIFICACIÓN JURADA"
+epigrafe: "Testimonio por certificación jurada"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 170. TESTIMONIO POR CERTIFICACIÓN JURADA
+## Artículo 170. Testimonio por certificación jurada
 
 El testimonio por certificación jurada se recaudará mediante la formulación de cuestionario dirigido al declarante, indicando de manera sucinta los hechos materia de investigación. El juramento se entenderá prestado por el solo hecho de la firma de la certificación.
 

@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 469 CGP|Artículo 469]] — TÍTULOS EJECUTIVOS
-- [[art. 470 CGP|Artículo 470]] — EMBARGOS
-- [[art. 471 CGP|Artículo 471]] — ACUMULACIÓN DE DEMANDAS Y PROCESOS, Y CITACIÓN DE ACREEDORES HIPOTECARIOS
-- [[art. 472 CGP|Artículo 472]] — COMISIONES
+- [[art. 469 CGP|Artículo 469]] — Títulos ejecutivos
+- [[art. 470 CGP|Artículo 470]] — Embargos
+- [[art. 471 CGP|Artículo 471]] — Acumulación de demandas y procesos, y citación de acreedores hipotecarios
+- [[art. 472 CGP|Artículo 472]] — Comisiones
 
 ---
 ← [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VI|Capítulo VI]] · ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]]

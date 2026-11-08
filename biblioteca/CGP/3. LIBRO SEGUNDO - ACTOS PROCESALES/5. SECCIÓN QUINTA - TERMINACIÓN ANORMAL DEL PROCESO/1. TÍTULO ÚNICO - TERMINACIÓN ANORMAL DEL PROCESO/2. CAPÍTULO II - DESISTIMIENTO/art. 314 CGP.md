@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "314"
-epigrafe: "DESISTIMIENTO DE LAS PRETENSIONES"
+epigrafe: "Desistimiento de las pretensiones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CGP - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 314. DESISTIMIENTO DE LAS PRETENSIONES
+## Artículo 314. Desistimiento de las pretensiones
 
 El demandante podrá desistir de las pretensiones mientras no se haya pronunciado sentencia que ponga fin al proceso. Cuando el desistimiento se presente ante el superior por haberse interpuesto por el demandante apelación de la sentencia o casación, se entenderá que comprende el del recurso.
 

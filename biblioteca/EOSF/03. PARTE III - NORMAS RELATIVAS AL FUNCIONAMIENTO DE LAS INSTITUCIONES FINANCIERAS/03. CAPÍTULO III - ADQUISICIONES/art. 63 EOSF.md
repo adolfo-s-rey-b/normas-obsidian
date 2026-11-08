@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "63"
-epigrafe: "ASPECTOS GENERALES DE LA ADQUISICION"
+epigrafe: "Aspectos Generales de la Adquisición"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo III|CAPÍTULO III - ADQUISICIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo III|Capítulo III]]
 
-## Artículo 63. ASPECTOS GENERALES DE LA ADQUISICION
+## Artículo 63. Aspectos Generales de la Adquisición
 
 1\. Normas aplicables. La adquisición de entidades financieras y aseguradoras se sujetará a las normas de este capítulo y, en lo no previsto, a las demás normas de este Estatuto.
 

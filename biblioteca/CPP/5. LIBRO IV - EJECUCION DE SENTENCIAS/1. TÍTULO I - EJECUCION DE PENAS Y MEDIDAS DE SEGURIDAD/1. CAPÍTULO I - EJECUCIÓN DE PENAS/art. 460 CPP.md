@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "460"
-epigrafe: "ACUMULACIÓN JURÍDICA"
+epigrafe: "Acumulación jurídica"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo I|CAPÍTULO I - EJECUCIÓN DE PENAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 460. ACUMULACIÓN JURÍDICA
+## Artículo 460. Acumulación jurídica
 
 Las normas que regulan la dosificación de la pena, en caso de concurso de conductas punibles, se aplicarán también cuando los delitos conexos se hubieren fallado independientemente. Igualmente, cuando se hubieren proferido varias sentencias en diferentes procesos. En estos casos la pena impuesta en la primera decisión se tendrá como parte de la sanción a imponer.
 

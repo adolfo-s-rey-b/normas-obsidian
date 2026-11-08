@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "231"
-epigrafe: "PRÁCTICA Y CONTRADICCIÓN DEL DICTAMEN DECRETADO DE OFICIO"
+epigrafe: "Práctica y contradicción del dictamen decretado de oficio"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 231. PRÁCTICA Y CONTRADICCIÓN DEL DICTAMEN DECRETADO DE OFICIO
+## Artículo 231. Práctica y contradicción del dictamen decretado de oficio
 
 Rendido el dictamen permanecerá en secretaría a disposición de las partes hasta la fecha de la audiencia respectiva, la cual solo podrá realizarse cuando hayan pasado por lo menos diez (10) días desde la presentación del dictamen.
 

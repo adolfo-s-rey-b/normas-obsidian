@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "10"
-epigrafe: "AGOTAMIENTO OPCIONAL DE LA VIA GUBERNATIVA"
+epigrafe: "Agotamiento Opcional de la Vía Gubernativa"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo I|CAPÍTULO I - PROCEDENCIA Y CADUCIDAD]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 10. AGOTAMIENTO OPCIONAL DE LA VIA GUBERNATIVA
+## Artículo 10. Agotamiento Opcional de la Vía Gubernativa
 
 Cuando el derecho o interés colectivo se vea amenazado o vulnerado por la actividad de la administración, no será necesario interponer previamente los recursos administrativos como requisito para intentar la acción popular.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "158"
-epigrafe: "CONFLICTOS DE COMPETENCIA"
+epigrafe: "Conflictos de competencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IV|TÍTULO IV - DISTRIBUCIÓN DE LAS COMPETENCIAS]]"
 capitulo: "[[CPACA - Parte Segunda - Título IV - Capítulo IV|CAPÍTULO IV - DETERMINACIÓN DE COMPETENCIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IV|Título IV]] › [[CPACA - Parte Segunda - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 158. CONFLICTOS DE COMPETENCIA
+## Artículo 158. Conflictos de competencia
 
 Los conflictos de competencia entre los tribunales administrativos y entre estos y los jueces administrativos, de diferentes distritos judiciales, serán decididos, de oficio o a petición de parte, por el magistrado ponente del Consejo de Estado conforme al siguiente procedimiento:
 

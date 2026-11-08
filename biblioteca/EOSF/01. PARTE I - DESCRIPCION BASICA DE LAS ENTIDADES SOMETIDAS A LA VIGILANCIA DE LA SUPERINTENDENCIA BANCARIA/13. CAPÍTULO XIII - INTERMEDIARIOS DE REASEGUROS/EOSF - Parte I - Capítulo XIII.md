@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 44 EOSF|Artículo 44]] — ASPECTOS GENERALES
-- [[art. 45 EOSF|Artículo 45]] — CONDICION PARA EL EJERCICIO DE LA ACTIVIDAD
+- [[art. 44 EOSF|Artículo 44]] — Aspectos Generales
+- [[art. 45 EOSF|Artículo 45]] — Condición para el Ejercicio de la Actividad
 
 ---
 ← [[EOSF - Parte I - Capítulo XII|Capítulo XII]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo XIV|Capítulo XIV]] →

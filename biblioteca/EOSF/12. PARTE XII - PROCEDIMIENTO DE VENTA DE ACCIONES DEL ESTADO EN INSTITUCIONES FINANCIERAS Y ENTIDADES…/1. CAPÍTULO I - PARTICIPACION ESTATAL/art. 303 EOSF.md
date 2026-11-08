@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "303"
-epigrafe: "PRIVATIZACION DE ENTIDADES CON PARTICIPACION ESTATAL"
+epigrafe: "Privatización de Entidades con Participación Estatal"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo I|CAPÍTULO I - PARTICIPACION ESTATAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 114 Ley 795 de 2003]]"
 anterior: "[[art. 302 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo I|Capítulo I]]
 
-## Artículo 303. PRIVATIZACION DE ENTIDADES CON PARTICIPACION ESTATAL
+## Artículo 303. Privatización de Entidades con Participación Estatal
 
 1\. Privatización de entidades con participación del Fondo de Garantías deInstituciones Financieras en su capital. Cuando no se produzca fusión o absorción por otras entidades, en un plazo razonable, contado desde la suscripción o adquisición por el Fondo de Garantías de Instituciones Financieras de las acciones de una institución financiera y en condiciones suficientes de publicidad y concurrencia y sin perjuicio de lo establecido en el numeral 5. del artículo [[art. 113 EOSF|113]] del presente Estatuto, el Fondo ofrecerá en venta las acciones adquiridas, decidiendo a favor de quien presente condiciones de adquisición más ventajosas.
 

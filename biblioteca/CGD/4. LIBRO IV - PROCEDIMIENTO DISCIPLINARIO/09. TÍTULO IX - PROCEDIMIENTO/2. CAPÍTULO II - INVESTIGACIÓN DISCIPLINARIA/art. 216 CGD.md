@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "216"
-epigrafe: "INFORME DE LA INICIACIÓN DE LA INVESTIGACIÓN"
+epigrafe: "Informe de la iniciación de la investigación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo II|CAPÍTULO II - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 216. INFORME DE LA INICIACIÓN DE LA INVESTIGACIÓN
+## Artículo 216. Informe de la iniciación de la investigación
 
 Si la investigación disciplinaria se inicia por una Oficina de Control Disciplinario Interno, esta dará aviso inmediato a la Viceprocuraduría General de la Nación y al funcionario competente de esa entidad o de la personería correspondiente, para que decida sobre el ejercicio del poder disciplinario preferente. La Procuraduría establecerá los mecanismos electrónicos y las condiciones para que se suministre dicha información.
 

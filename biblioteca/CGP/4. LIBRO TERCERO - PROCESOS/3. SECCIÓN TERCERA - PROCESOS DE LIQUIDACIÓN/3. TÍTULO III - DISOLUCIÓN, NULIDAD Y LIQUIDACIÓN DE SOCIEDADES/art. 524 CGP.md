@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "524"
-epigrafe: "LEGITIMACIÓN"
+epigrafe: "Legitimación"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título III|TÍTULO III - DISOLUCIÓN, NULIDAD Y LIQUIDACIÓN DE SOCIEDADES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título III|Título III]]
 
-## Artículo 524. LEGITIMACIÓN
+## Artículo 524. Legitimación
 
 Cualquiera de los socios podrá demandar la declaratoria de nulidad del contrato social o la disolución de la sociedad, invocando cualquiera de las causales previstas en la ley o en el contrato.
 

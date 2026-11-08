@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "302"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones Finales"
 parte: "[[EOSF - Parte XI|PARTE XI - PROCEDIMIENTO PARA LA TOMA DE POSESION Y LIQUIDACION DE LAS ENTIDADES SOMETIDAS AL CONTROL Y VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte XI - Capítulo III|CAPÍTULO III - PROCESO DE LIQUIDACION FORZOSA ADMINISTRATIVA]]"
 vigencia: "modificado"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XI|Parte XI]] › [[EOSF - Parte XI - Capítulo III|Capítulo III]]
 
-## Artículo 302. DISPOSICIONES FINALES
+## Artículo 302. Disposiciones Finales
 
 1\. Disposiciones transitorias. En ejercicio de las facultades conferidas por el artículo [[art. 69 CCA|69]] y siguientes del Código Contencioso Administrativo, el liquidador no podrá revocar directamente los actos administrativos expedidos dentro del proceso liquidatorio por la Superintendenica Bancaria o el Fondo de Garantías de Instituciones Financieras, sin perjuicio de las acciones que puedan existir contra los actos de tales autoridades conforme a las leyes, y de lo establecido en el numeral 16 del artículo [[art. 300 EOSF|300]] del presente Estatuto.
 

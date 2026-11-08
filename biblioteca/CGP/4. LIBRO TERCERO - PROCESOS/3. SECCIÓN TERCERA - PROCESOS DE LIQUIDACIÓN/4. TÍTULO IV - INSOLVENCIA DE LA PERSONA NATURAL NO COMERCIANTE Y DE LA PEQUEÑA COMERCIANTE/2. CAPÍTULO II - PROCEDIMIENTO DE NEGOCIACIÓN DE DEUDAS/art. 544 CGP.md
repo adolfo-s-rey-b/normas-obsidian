@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "544"
-epigrafe: "DURACIÓN DEL PROCEDIMIENTO DE NEGOCIACIÓN DE DEUDAS"
+epigrafe: "Duración del procedimiento de negociación de deudas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 544. DURACIÓN DEL PROCEDIMIENTO DE NEGOCIACIÓN DE DEUDAS
+## Artículo 544. Duración del procedimiento de negociación de deudas
 
 El término para llevar a cabo el procedimiento de negociación de deudas es de sesenta (60) días, contados a partir de la fecha en la que quede en firme la aceptación de la solicitud. A solicitud conjunta del deudor y de cualquiera de los acreedores con quienes se hayan conciliado definitivamente sus derechos, este término podrá ser prorrogado por treinta (30) días más, y, para el deudor comerciante, con el voto favorable de la Mayoría de los votos se podrá prorrogar hasta por otros noventa (90) días.
 

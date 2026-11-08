@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "494"
-epigrafe: "REPUDIACIÓN DE ASIGNACIONES A FAVOR DE INCAPACES O AUSENTES"
+epigrafe: "Repudiación de asignaciones a favor de incapaces o ausentes"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 494. REPUDIACIÓN DE ASIGNACIONES A FAVOR DE INCAPACES O AUSENTES
+## Artículo 494. Repudiación de asignaciones a favor de incapaces o ausentes
 
 La solicitud de autorización para repudiar asignaciones a favor de incapaces o ausentes se tramitará como incidente, con intervención del Ministerio Público y del defensor de familia. El auto que lo decida es apelable en el efecto diferido.
 

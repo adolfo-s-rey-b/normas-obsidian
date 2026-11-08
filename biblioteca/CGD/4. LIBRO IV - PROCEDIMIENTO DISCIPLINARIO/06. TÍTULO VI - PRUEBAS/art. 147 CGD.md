@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "147"
-epigrafe: "NECESIDAD Y CARGA DE LA PRUEBA"
+epigrafe: "Necesidad y carga de la prueba"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 147. NECESIDAD Y CARGA DE LA PRUEBA
+## Artículo 147. Necesidad y carga de la prueba
 
 Toda decisión interlocutoria y el fallo disciplinario deben fundarse en pruebas legalmente producidas y aportadas al proceso por petición de cualquier sujeto procesal o en forma oficiosa. La carga de la prueba corresponde al Estado.
 

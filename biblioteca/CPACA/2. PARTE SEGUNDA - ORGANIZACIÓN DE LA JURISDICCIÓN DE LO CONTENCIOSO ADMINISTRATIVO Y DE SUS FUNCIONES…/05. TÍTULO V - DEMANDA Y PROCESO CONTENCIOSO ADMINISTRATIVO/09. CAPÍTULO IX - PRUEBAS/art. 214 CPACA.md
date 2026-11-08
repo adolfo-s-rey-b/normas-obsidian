@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "214"
-epigrafe: "EXCLUSIÓN DE LA PRUEBA POR LA VIOLACIÓN AL DEBIDO PROCESO"
+epigrafe: "Exclusión de la prueba por la violación al debido proceso"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - PRUEBAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]]
 
-## Artículo 214. EXCLUSIÓN DE LA PRUEBA POR LA VIOLACIÓN AL DEBIDO PROCESO
+## Artículo 214. Exclusión de la prueba por la violación al debido proceso
 
 Toda prueba obtenida con violación al debido proceso será nula de pleno derecho, por lo que deberá excluirse de la actuación procesal.
 

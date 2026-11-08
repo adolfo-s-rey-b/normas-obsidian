@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "104B"
-epigrafe: "CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA DEL FEMINICIDIO"
+epigrafe: "Circunstancias De Agravación Punitiva Del Feminicidio"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Segundo|CAPÍTULO SEGUNDO - DEL HOMICIDIO]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 104B. CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA DEL FEMINICIDIO
+## Artículo 104B. Circunstancias De Agravación Punitiva Del Feminicidio
 
 La pena será de quinientos (500) meses a seiscientos (600) meses de prisión, si el feminicidio se cometiere:
 

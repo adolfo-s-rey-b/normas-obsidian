@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "482"
-epigrafe: "DECLARACIÓN DE YACENCIA"
+epigrafe: "Declaración de yacencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 482. DECLARACIÓN DE YACENCIA
+## Artículo 482. Declaración de yacencia
 
 Si pasados quince (15) días desde la apertura de la sucesión no se hubiere aceptado la herencia o una cuota de ella, ni hubiere albacea con tenencia de bienes y que haya aceptado el cargo, el juez, de oficio o a petición del cónyuge, del compañero permanente, de cualquiera de los parientes o dependientes del difunto, o de quien pretenda promover demanda respecto de ella, declarará yacente la herencia y le designará administrador.
 

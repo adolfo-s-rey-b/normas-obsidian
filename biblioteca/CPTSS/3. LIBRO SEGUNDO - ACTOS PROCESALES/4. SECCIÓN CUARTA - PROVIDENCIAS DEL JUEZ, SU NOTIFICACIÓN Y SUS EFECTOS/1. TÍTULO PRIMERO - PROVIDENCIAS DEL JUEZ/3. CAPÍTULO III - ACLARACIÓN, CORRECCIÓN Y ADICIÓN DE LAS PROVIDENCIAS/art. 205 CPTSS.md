@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "205"
-epigrafe: "ACLARACIÓN DE PROVIDENCIAS"
+epigrafe: "Aclaración de providencias"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|TÍTULO PRIMERO - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero|Título Primero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Primero - Capítulo III|Capítulo III]]
 
-## Artículo 205. ACLARACIÓN DE PROVIDENCIAS
+## Artículo 205. Aclaración de providencias
 
 La sentencia no es revocable ni reformable por el juez que la pronunció. Sin embargo, podrá ser aclarada, de oficio o a solicitud de parte, cuando contenga conceptos o frases que ofrezcan verdadero motivo de duda, siempre que estén contenidas en la parte resolutiva de la sentencia o influyan en ella.
 

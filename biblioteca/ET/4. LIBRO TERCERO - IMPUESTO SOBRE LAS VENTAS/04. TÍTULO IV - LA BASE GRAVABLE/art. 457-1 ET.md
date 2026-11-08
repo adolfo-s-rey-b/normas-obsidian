@@ -10,10 +10,10 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "457-1"
-epigrafe: "BASE GRAVABLE EN LA VENTA DE VEHíCULOS USADOS"
+epigrafe: "BASE GRAVABLE EN LA VENTA DE VEHÍCULOS USADOS"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IV|TÍTULO IV - LA BASE GRAVABLE]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 97 Ley 488 de 1998]]"
   - "[[art. 70 Ley 1111 de 2006]]"
@@ -32,12 +32,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IV|Título IV]]
 
-## Artículo 457-1. BASE GRAVABLE EN LA VENTA DE VEHíCULOS USADOS
+## Artículo 457-1. BASE GRAVABLE EN LA VENTA DE VEHÍCULOS USADOS
 
 En el caso de la venta de vehículos usados adquiridos de propietarios para quienes los mismos constituían activos fijos, la base gravable estará conformada por la diferencia entre el valor total de la operación, determinado de acuerdo con lo previsto en el artículo [[art. 447 ET|447]] de este estatuto, y el precio de compra.
 

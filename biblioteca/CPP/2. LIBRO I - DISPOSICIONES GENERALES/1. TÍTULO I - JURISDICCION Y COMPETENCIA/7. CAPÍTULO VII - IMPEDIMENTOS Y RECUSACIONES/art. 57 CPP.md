@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "57"
-epigrafe: "TRÁMITE PARA EL IMPEDIMENTO"
+epigrafe: "Trámite para el impedimento"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 57. TRÁMITE PARA EL IMPEDIMENTO
+## Artículo 57. Trámite para el impedimento
 
 Cuando el funcionario judicial se encuentre incurso en una de las causales de impedimento deberá manifestarlo a quien le sigue en turno, o, si en el sitio no hubiere más de uno de la categoría del impedido o todos estuvieren impedidos, a otro del lugar más cercano, para que en el término improrrogable de tres (3) días se pronuncie por escrito.
 

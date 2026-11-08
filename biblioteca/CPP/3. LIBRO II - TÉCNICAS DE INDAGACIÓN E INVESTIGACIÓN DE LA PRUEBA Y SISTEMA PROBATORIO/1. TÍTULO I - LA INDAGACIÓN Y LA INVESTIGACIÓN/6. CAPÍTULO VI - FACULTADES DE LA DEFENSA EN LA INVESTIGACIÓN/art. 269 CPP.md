@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "269"
-epigrafe: "CONTENIDO DE LA SOLICITUD"
+epigrafe: "Contenido de la solicitud"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 269. CONTENIDO DE LA SOLICITUD
+## Artículo 269. Contenido de la solicitud
 
 La solicitud deberá contener en forma separada, con claridad y precisión, las preguntas que en relación con el elemento material probatorio y evidencia física entregada, se requiere que responda el perito o peritos, previa la investigación y análisis que corresponda.
 

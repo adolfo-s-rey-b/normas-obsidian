@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "55"
-epigrafe: "DEBER DE INFORMACIÓN E IMPEDIMENTOS Y RECUSACIONES"
+epigrafe: "Deber de información e impedimentos y recusaciones"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VII|CAPÍTULO VII - ARBITRAJE AD HOC]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VII|Capítulo VII]]
 
-## Artículo 55. DEBER DE INFORMACIÓN E IMPEDIMENTOS Y RECUSACIONES
+## Artículo 55. Deber de información e impedimentos y recusaciones
 
 Las reglas sobre el deber de información, impedimentos y recusaciones previstas para el arbitraje institucional son aplicables a los árbitros y secretarios de tribunales ad hoc.
 

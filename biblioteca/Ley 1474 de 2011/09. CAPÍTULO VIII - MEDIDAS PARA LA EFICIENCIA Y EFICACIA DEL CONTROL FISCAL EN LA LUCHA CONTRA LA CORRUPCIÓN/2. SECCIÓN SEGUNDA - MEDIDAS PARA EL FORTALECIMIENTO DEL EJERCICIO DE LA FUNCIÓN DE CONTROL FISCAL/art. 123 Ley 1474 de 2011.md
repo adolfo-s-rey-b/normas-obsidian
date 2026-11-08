@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "123"
-epigrafe: "ARTICULACIÓN CON EL EJERCICIO DEL CONTROL POLÍTICO"
+epigrafe: "Articulación con el ejercicio del control político"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|SECCIÓN SEGUNDA - MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|Sección Segunda]]
 
-## Artículo 123. ARTICULACIÓN CON EL EJERCICIO DEL CONTROL POLÍTICO
+## Artículo 123. Articulación con el ejercicio del control político
 
 Los informes de auditoría definitivos producidos por las contralorías serán remitidos a las Corporaciones de elección popular que ejerzan el control político sobre las entidades vigiladas. En las citaciones que dichas entidades hagan a servidores públicos para debates sobre temas que hayan sido materia de vigilancia en el proceso auditor deberá invitarse al respectivo contralor para que exponga los resultados de la auditoría.
 

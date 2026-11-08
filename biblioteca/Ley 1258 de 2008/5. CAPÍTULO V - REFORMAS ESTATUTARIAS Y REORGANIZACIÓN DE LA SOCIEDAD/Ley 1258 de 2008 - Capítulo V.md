@@ -20,11 +20,11 @@ tags:
 
 ### Contenido
 
-- [[art. 29 Ley 1258 de 2008|Artículo 29]] — REFORMAS ESTATUTARIAS
-- [[art. 30 Ley 1258 de 2008|Artículo 30]] — NORMAS APLICABLES A LA TRANSFORMACIÓN, FUSIÓN Y ESCISIÓN
-- [[art. 31 Ley 1258 de 2008|Artículo 31]] — TRANSFORMACIÓN
-- [[art. 32 Ley 1258 de 2008|Artículo 32]] — ENAJENACIÓN GLOBAL DE ACTIVOS
-- [[art. 33 Ley 1258 de 2008|Artículo 33]] — FUSIÓN ABREVIADA
+- [[art. 29 Ley 1258 de 2008|Artículo 29]] — Reformas estatutarias
+- [[art. 30 Ley 1258 de 2008|Artículo 30]] — Normas aplicables a la transformación, fusión y escisión
+- [[art. 31 Ley 1258 de 2008|Artículo 31]] — Transformación
+- [[art. 32 Ley 1258 de 2008|Artículo 32]] — Enajenación global de activos
+- [[art. 33 Ley 1258 de 2008|Artículo 33]] — Fusión abreviada
 
 ---
 ← [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]] · ↑ [[Ley 1258 de 2008|Ley 1258 de 2008]] · [[Ley 1258 de 2008 - Capítulo VI|Capítulo VI]] →

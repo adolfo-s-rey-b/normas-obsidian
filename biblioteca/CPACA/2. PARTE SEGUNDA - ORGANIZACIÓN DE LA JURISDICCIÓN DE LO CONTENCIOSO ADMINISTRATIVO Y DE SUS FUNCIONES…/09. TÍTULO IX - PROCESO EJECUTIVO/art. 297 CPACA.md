@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "297"
-epigrafe: "TÍTULO EJECUTIVO"
+epigrafe: "Título Ejecutivo"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título IX|TÍTULO IX - PROCESO EJECUTIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título IX|Título IX]]
 
-## Artículo 297. TÍTULO EJECUTIVO
+## Artículo 297. Título Ejecutivo
 
 Para los efectos de este Código, constituyen título ejecutivo:
 

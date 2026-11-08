@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "262"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VI|CAPÍTULO VI - FINANCIERA ENERGETICA NACIONAL -FEN-]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VI|Capítulo VI]]
 
-## Artículo 262. VIGILANCIA Y CONTROL
+## Artículo 262. Vigilancia y Control
 
 La Superintendencia Bancaria ejercerá las funciones de inspección y vigilancia de las operaciones que realice la Financiera Energética Nacional S.A., FEN*, con iguales facultades a las concedidas y que en el futuro le conceda la Ley en relación con las entidades del sistema financiero.
 

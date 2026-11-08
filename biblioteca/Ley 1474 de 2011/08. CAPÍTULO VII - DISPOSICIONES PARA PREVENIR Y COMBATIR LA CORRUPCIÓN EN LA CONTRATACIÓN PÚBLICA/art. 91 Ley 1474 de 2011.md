@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "91"
-epigrafe: "ANTICIPOS"
+epigrafe: "Anticipos"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 90 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 91. ANTICIPOS
+## Artículo 91. Anticipos
 
 En los contratos de obra, concesión, salud, o los que se realicen por licitación pública, el contratista deberá constituir una fiducia o un patrimonio autónomo irrevocable para el manejo de los recursos que reciba a título de anticipo, con el fin de garantizar que dichos recursos se apliquen exclusivamente a la ejecución del contrato correspondiente, salvo que el contrato sea de menor o mínima cuantía.
 

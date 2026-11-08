@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "11"
-epigrafe: "ASPECTOS INCLUIDOS EN LA GARANTÍA LEGAL"
+epigrafe: "Aspectos incluidos en la garantía legal"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 11. ASPECTOS INCLUIDOS EN LA GARANTÍA LEGAL
+## Artículo 11. Aspectos incluidos en la garantía legal
 
 Corresponden a la garantía legal las siguientes obligaciones:
 

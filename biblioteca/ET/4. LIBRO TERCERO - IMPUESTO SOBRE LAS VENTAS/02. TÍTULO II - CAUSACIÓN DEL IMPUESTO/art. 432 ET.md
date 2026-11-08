@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "432"
-epigrafe: "EN EL SERVICIO DE TELEFONOS SE CAUSA AL MOMENTO DEL PAGO"
+epigrafe: "EN EL SERVICIO DE TELÉFONOS SE CAUSA AL MOMENTO DEL PAGO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título II|TÍTULO II - CAUSACIÓN DEL IMPUESTO]]"
 vigencia: "vigente"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título II|Título II]]
 
-## Artículo 432. EN EL SERVICIO DE TELEFONOS SE CAUSA AL MOMENTO DEL PAGO
+## Artículo 432. EN EL SERVICIO DE TELÉFONOS SE CAUSA AL MOMENTO DEL PAGO
 
 En el caso del servicio de teléfonos de que trata el artículo [[art. 476 ET|476]] numerales 10 y 11, el gravamen se causa en el momento del pago correspondiente hecho por el usuario.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "124"
-epigrafe: "REGULACIÓN DEL PROCESO AUDITOR"
+epigrafe: "Regulación del proceso auditor"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|SECCIÓN SEGUNDA - MEDIDAS PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Segunda|Sección Segunda]]
 
-## Artículo 124. REGULACIÓN DEL PROCESO AUDITOR
+## Artículo 124. Regulación del proceso auditor
 
 La regulación de la metodología del proceso auditor por parte de la Contraloría General de la República y de las demás contralorías, tendrá en cuenta la condición instrumental de las auditorías de regularidad respecto de las auditorías de desempeño, con miras a garantizar un ejercicio integral de la función auditora.
 

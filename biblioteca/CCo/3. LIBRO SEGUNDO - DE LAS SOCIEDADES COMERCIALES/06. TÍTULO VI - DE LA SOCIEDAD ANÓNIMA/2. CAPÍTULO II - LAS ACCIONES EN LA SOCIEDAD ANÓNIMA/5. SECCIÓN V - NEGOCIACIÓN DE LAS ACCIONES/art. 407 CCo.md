@@ -17,8 +17,6 @@ vigencia: "modificado"
 modificado_por:
   - "[[art. 435 CPC]]"
   - "[[art. 1 Decreto 2282 de 1989]]"
-  - "[[art. 2026 CCo]]"
-  - "[[art. 2032 CCo]]"
 anterior: "[[art. 406 CCo]]"
 siguiente: "[[art. 408 CCo]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/codigo_comercio.html"
@@ -41,7 +39,7 @@ Si las acciones fueren nominativas y los estatutos estipularen el derecho de pre
 
 Mientras la sociedad tenga inscrita sus acciones en bolsas de valores, se tendrá por no escrita la cláusula que consagre cualquier restricción a la libre negociabilidad de las acciones.
 
-> [!info] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 435 CPC|435]] l Código de Procedimiento Civil, modificado por el artículo [[art. 1 Decreto 2282 de 1989|1]]o., numeral 239, del Decreto 2282 de 1989, el cual establece los asuntos que se tramitarán por el procedimiento establecido para el proceso verbal sumario en única instancia, entre ellos, en el parágrafo 1o., numeral 8, expresamente incluye los que contemplan los artículos [[art. 2026 CCo|2026]] a [[art. 2032 CCo|2032]] de este Código, que tratan de la peritación (Libro Sexto 'PROCEDIMIENTOS', Título IV 'DE LA REGULACIÓN POR EXPERTOS O PERITOS').
+> [!info] Notas del Editor: En criterio del editor, para la interpretación de este artículo debe tenerse en cuenta lo dispuesto en el artículo [[art. 435 CPC|435]] l Código de Procedimiento Civil, modificado por el artículo [[art. 1 Decreto 2282 de 1989|1]]o., numeral 239, del Decreto 2282 de 1989, el cual establece los asuntos que se tramitarán por el procedimiento establecido para el proceso verbal sumario en única instancia, entre ellos, en el parágrafo 1o., numeral 8, expresamente incluye los que contemplan los artículos 2026 a 2032 de este Código, que tratan de la peritación (Libro Sexto 'PROCEDIMIENTOS', Título IV 'DE LA REGULACIÓN POR EXPERTOS O PERITOS').
 
 ---
 ← [[art. 406 CCo]] · ↑ [[CCo - Libro Segundo - Título VI - Capítulo II - Sección V|Sección V]] · [[art. 408 CCo]] →

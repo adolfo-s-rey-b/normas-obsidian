@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "224"
-epigrafe: "DECLARACIÓN DE TESTIGOS RESIDENTES FUERA DE LA SEDE DEL JUZGADO"
+epigrafe: "Declaración de testigos residentes fuera de la sede del juzgado"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 224. DECLARACIÓN DE TESTIGOS RESIDENTES FUERA DE LA SEDE DEL JUZGADO
+## Artículo 224. Declaración de testigos residentes fuera de la sede del juzgado
 
 El juez, de oficio o a petición de cualquiera de las partes, podrá ordenar que los testigos residentes fuera de la sede del juzgado declaren a través de medios técnicos o comparezcan a este. En este último caso el juez señalará los gastos de transporte y permanencia que serán consignados por cualquiera de las partes dentro de la ejecutoria del respectivo auto, salvo que los testigos asuman el gasto.
 

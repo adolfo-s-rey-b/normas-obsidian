@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "116"
-epigrafe: "EJECUCIÓN"
+epigrafe: "Ejecución"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|CAPÍTULO IX - RECONOCIMIENTO Y EJECUCIÓN DE LOS LAUDOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|Capítulo IX]]
 
-## Artículo 116. EJECUCIÓN
+## Artículo 116. Ejecución
 
 Reconocido el laudo en todo o en parte, de su ejecución conocerá la autoridad judicial competente.
 

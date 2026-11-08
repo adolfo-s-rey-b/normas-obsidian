@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "76"
-epigrafe: "COLABORACION PARA LA EVALUACION DE LA PRUEBA"
+epigrafe: "Colaboración para la evaluación de la prueba"
 titulo: "[[Ley 472 de 1998 - Título V|TÍTULO V]]"
 capitulo: "[[Ley 472 de 1998 - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES COMUNES A ACCIONES POPULARES Y DE GRUPO, EN MATERIA PROBATORIA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título V|Título V]] › [[Ley 472 de 1998 - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 76. COLABORACION PARA LA EVALUACION DE LA PRUEBA
+## Artículo 76. Colaboración para la evaluación de la prueba
 
 Para la práctica de pruebas, además de las disposiciones generales contenidas en el Código de Procedimiento Civil, se dará aplicación a las siguientes reglas:
 

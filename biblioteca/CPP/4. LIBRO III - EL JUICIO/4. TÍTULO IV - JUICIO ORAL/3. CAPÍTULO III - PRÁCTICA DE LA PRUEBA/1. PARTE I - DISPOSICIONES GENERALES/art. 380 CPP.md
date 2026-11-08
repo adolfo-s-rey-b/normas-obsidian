@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "380"
-epigrafe: "CRITERIOS DE VALORACIÓN"
+epigrafe: "Criterios de valoración"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte I|Parte I]]
 
-## Artículo 380. CRITERIOS DE VALORACIÓN
+## Artículo 380. Criterios de valoración
 
 Los medios de prueba, los elementos materiales probatorios y la evidencia física, se apreciarán en conjunto. Los criterios para apreciar cada uno de ellos serán señalados en el respectivo capítulo.
 

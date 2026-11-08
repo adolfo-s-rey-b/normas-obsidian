@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "191"
-epigrafe: "CREACION DE SEGUROS OBLIGATORIOS"
+epigrafe: "Creación de Seguros Obligatorios"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo III|CAPÍTULO III - SEGUROS OBLIGATORIOS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo III|Capítulo III]]
 
-## Artículo 191. CREACION DE SEGUROS OBLIGATORIOS
+## Artículo 191. Creación de Seguros Obligatorios
 
 Solamente por ley podrán crearse seguros obligatorios.
 

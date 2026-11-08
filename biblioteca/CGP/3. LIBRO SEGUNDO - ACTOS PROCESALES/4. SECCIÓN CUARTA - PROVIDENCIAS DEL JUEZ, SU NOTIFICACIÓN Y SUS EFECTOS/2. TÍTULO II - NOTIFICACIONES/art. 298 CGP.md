@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "298"
-epigrafe: "CUMPLIMIENTO Y NOTIFICACIÓN DE MEDIDAS CAUTELARES"
+epigrafe: "Cumplimiento y notificación de medidas cautelares"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 298. CUMPLIMIENTO Y NOTIFICACIÓN DE MEDIDAS CAUTELARES
+## Artículo 298. Cumplimiento y notificación de medidas cautelares
 
 Las medidas cautelares se cumplirán inmediatamente, antes de la notificación a la parte contraria del auto que las decrete. Si fueren previas al proceso se entenderá que dicha parte queda notificada el día en que se apersone en aquel o actúe en ellas o firme la respectiva diligencia.
 

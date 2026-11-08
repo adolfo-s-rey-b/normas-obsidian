@@ -20,7 +20,7 @@ tags:
 
 ### Contenido
 
-- [[art. 6 Ley 1480 de 2011|Artículo 6]] — CALIDAD, IDONEIDAD Y SEGURIDAD DE LOS PRODUCTOS
+- [[art. 6 Ley 1480 de 2011|Artículo 6]] — Calidad, idoneidad y seguridad de los productos
 
 ---
 ← [[Ley 1480 de 2011 - Título I|Título I]] · ↑ [[Ley 1480 de 2011|Ley 1480 de 2011]] · [[Ley 1480 de 2011 - Título III|Título III]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "217"
-epigrafe: "SUSPENSIÓN PROVISIONAL"
+epigrafe: "Suspensión provisional"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo III|CAPÍTULO III - SUSPENSIÓN PROVISIONAL Y OTRAS MEDIDAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo III|Capítulo III]]
 
-## Artículo 217. SUSPENSIÓN PROVISIONAL
+## Artículo 217. Suspensión provisional
 
 Durante la investigación disciplinaría o el juzgamiento por faltas calificadas como gravísimas o graves, el funcionario que la esté adelantando podrá ordenar motivadamente la suspensión provisional del servidor público, sin derecho a remuneración alguna, siempre y cuando se evidencien serios elementos de juicio que permitan establecer que la permanencia en el cargo, función o servicio público posibilita la interferencia del autor de la falta en el trámite de la investigación o permite que continúe cometiéndola o que la reitere.
 

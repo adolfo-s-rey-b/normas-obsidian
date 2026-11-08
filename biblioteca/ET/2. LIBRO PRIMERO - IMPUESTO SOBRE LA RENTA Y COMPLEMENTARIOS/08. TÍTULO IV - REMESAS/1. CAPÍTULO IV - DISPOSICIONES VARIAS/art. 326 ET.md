@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "326"
-epigrafe: "REQUISITOS PARA LA AUTORIZACIÓN DE CAMBIO DE TITULAR DE INVERSION EXTRANJERA"
+epigrafe: "REQUISITOS PARA LA AUTORIZACIÓN DE CAMBIO DE TITULAR DE INVERSIÓN EXTRANJERA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título IV (2)|TÍTULO IV - REMESAS]]"
 capitulo: "[[ET - Libro Primero - Título IV - Capítulo IV|CAPÍTULO IV - DISPOSICIONES VARIAS]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título IV (2)|Título IV]] › [[ET - Libro Primero - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 326. REQUISITOS PARA LA AUTORIZACIÓN DE CAMBIO DE TITULAR DE INVERSION EXTRANJERA
+## Artículo 326. REQUISITOS PARA LA AUTORIZACIÓN DE CAMBIO DE TITULAR DE INVERSIÓN EXTRANJERA
 
 Para autorizar el cambio de titular de una inversión extranjera, el organismo nacional competente deberá exigir que se haya acreditado, ante la Dirección General de Impuestos Nacionales, el pago de los impuestos correspondientes a la respectiva transacción o se haya otorgado garantía del pago de dicho impuesto.
 

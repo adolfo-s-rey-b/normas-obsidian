@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "39"
-epigrafe: "COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS QUE DISTRIBUYAN LOS FONDOS DE INVERSION, MUTUOS DE INVERSION Y DE VALORES"
+epigrafe: "COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS QUE DISTRIBUYAN LOS FONDOS DE INVERSIÓN, MUTUOS DE INVERSIÓN Y DE VALORES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -37,7 +37,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título I - Capítulo I - Ingresos que no constituyen renta ni ganancia…|Ingresos que no constituyen renta ni ganancia…]]
 
-## Artículo 39. COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS QUE DISTRIBUYAN LOS FONDOS DE INVERSION, MUTUOS DE INVERSION Y DE VALORES
+## Artículo 39. COMPONENTE INFLACIONARIO DE LOS RENDIMIENTOS FINANCIEROS QUE DISTRIBUYAN LOS FONDOS DE INVERSIÓN, MUTUOS DE INVERSIÓN Y DE VALORES
 
 Las utilidades que los fondos mutuos de inversión, los fondos de inversión y los fondos de valores distribuyan o abonen en cuenta a sus afiliados, no constituyen renta ni ganancia ocasional en la parte que corresponda al componente inflacionario de los rendimientos financieros recibidos por el fondo cuando éstos provengan de:
 

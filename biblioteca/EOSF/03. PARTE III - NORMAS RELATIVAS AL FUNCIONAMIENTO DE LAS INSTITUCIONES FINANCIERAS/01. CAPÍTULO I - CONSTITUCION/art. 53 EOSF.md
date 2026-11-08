@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "53"
-epigrafe: "PROCEDIMIENTO"
+epigrafe: "Procedimiento"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo I|CAPÍTULO I - CONSTITUCION]]"
 vigencia: "modificado"
@@ -35,7 +35,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo I|Capítulo I]]
 
-## Artículo 53. PROCEDIMIENTO
+## Artículo 53. Procedimiento
 
 1\. Forma social. Las entidades que, conforme al presente Estatuto, deban quedar sometidas a la inspección y vigilancia de la Superintendencia Financiera de Colombia se constituirán bajo la forma de sociedades anónimas mercantiles o de asociaciones cooperativas, con excepción de los bancos y compañías de seguros del exterior que operen en el país por medio de sucursales, las cuales podrán operar bajo la forma jurídica que tengan.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "143"
-epigrafe: "FUNCIONES SOBRE COMPETENCIA DESLEAL"
+epigrafe: "Funciones sobre competencia desleal"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título IV|TÍTULO IV - DE LA SUPERINTENDENCIA DE INDUSTRIA Y COMERCIO]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 1|CAPÍTULO 1 - SOBRE COMPETENCIA DESLEAL]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título IV|Título IV]] › [[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 1|Capítulo 1]]
 
-## Artículo 143. FUNCIONES SOBRE COMPETENCIA DESLEAL
+## Artículo 143. Funciones sobre competencia desleal
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

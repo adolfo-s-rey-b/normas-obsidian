@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 482 CGP|Artículo 482]] — DECLARACIÓN DE YACENCIA
-- [[art. 483 CGP|Artículo 483]] — TRÁMITE
-- [[art. 484 CGP|Artículo 484]] — ATRIBUCIONES Y DEBERES DEL ADMINISTRADOR
-- [[art. 485 CGP|Artículo 485]] — DECLARACIÓN DE VACANCIA
-- [[art. 486 CGP|Artículo 486]] — TRANSFORMACIÓN DE LAS DILIGENCIAS EN PROCESO DE SUCESIÓN
+- [[art. 482 CGP|Artículo 482]] — Declaración de yacencia
+- [[art. 483 CGP|Artículo 483]] — Trámite
+- [[art. 484 CGP|Artículo 484]] — Atribuciones y deberes del administrador
+- [[art. 485 CGP|Artículo 485]] — Declaración de vacancia
+- [[art. 486 CGP|Artículo 486]] — Transformación de las diligencias en proceso de sucesión
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] · [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]] →

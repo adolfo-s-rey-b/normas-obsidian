@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "257"
 titulo: "[[CPol - Título VIII|TÍTULO VIII - De la rama judicial]]"
 capitulo: "[[CPol - Título VIII - Capítulo 7|CAPÍTULO 7 - Gobierno y administración de la rama judicial]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 257 Acto Legislativo 2 de 2015]]"
   - "[[art. 19 Acto Legislativo 2 de 2015]]"
@@ -33,7 +33,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título VIII|Título VIII]] › [[CPol - Título VIII - Capítulo 7|Capítulo 7]]

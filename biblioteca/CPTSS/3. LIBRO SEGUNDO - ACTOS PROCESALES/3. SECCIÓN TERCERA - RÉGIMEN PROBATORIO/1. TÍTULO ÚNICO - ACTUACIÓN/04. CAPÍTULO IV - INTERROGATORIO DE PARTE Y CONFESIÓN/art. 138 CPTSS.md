@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "138"
-epigrafe: "CONFESIÓN POR APODERADO JUDICIAL"
+epigrafe: "Confesión por apoderado judicial"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 138. CONFESIÓN POR APODERADO JUDICIAL
+## Artículo 138. Confesión por apoderado judicial
 
 La confesión por apoderado judicial valdrá cuando para hacerla haya recibido autorización de su poderdante, la cual se entiende otorgada para la demanda y las excepciones, las correspondientes contestaciones y las audiencias. Cualquier estipulación en contrario se tendrá por no escrita.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "54"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VI|CAPÍTULO VI - DEFINICIÓN DE COMPETENCIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 54. TRÁMITE
+## Artículo 54. Trámite
 
 Cuando el juez ante el cual se haya presentado la acusación manifieste su incompetencia, así lo hará saber a las partes en la misma audiencia y remitirá el asunto inmediatamente al funcionario que deba definirla, quien en el término improrrogable de tres (3) días decidirá de plano. Igual procedimiento se aplicará cuando se trate de lo previsto en el artículo [[art. 286 CPP|286]] de este código y cuando la incompetencia la proponga la defensa.
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "746-1"
-epigrafe: "PRACTICA DE PRUEBAS EN VIRTUD DE CONVENIOS DE INTERCAMBIO DE INFORMACIÓN"
+epigrafe: "PRÁCTICA DE PRUEBAS EN VIRTUD DE CONVENIOS DE INTERCAMBIO DE INFORMACIÓN"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 746-1. PRACTICA DE PRUEBAS EN VIRTUD DE CONVENIOS DE INTERCAMBIO DE INFORMACIÓN
+## Artículo 746-1. PRÁCTICA DE PRUEBAS EN VIRTUD DE CONVENIOS DE INTERCAMBIO DE INFORMACIÓN
 
 Cuando en virtud del cumplimiento de un convenio de intercambio de información para efectos de control tributario y financiero, se requiera la obtención de pruebas por parte de la Administración Tributaria Colombiana, serán competentes para ello los mismos funcionarios que de acuerdo con las normas vigentes son competentes para adelantar el proceso de fiscalización.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "20"
-epigrafe: "CONVOCATORIA A LA ASAMBLEA DE ACCIONISTAS"
+epigrafe: "Convocatoria a la asamblea de accionistas"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 19 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 20. CONVOCATORIA A LA ASAMBLEA DE ACCIONISTAS
+## Artículo 20. Convocatoria a la asamblea de accionistas
 
 Salvo estipulación estatutaria en contrario, la asamblea será convocada por el representante legal de la sociedad, mediante comunicación escrita dirigida a cada accionista con una antelación mínima de cinco (5) días hábiles. En el aviso de convocatoria se insertará el orden del día correspondiente a la reunión.
 

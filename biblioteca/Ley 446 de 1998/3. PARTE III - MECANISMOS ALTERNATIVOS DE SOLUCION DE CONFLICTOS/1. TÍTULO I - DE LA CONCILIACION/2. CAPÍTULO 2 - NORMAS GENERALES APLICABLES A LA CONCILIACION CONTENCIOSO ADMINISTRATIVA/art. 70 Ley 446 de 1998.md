@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "70"
-epigrafe: "ASUNTOS SUSCEPTIBLES DE CONCILIACION"
+epigrafe: "Asuntos susceptibles de conciliación"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 2|CAPÍTULO 2 - NORMAS GENERALES APLICABLES A LA CONCILIACION CONTENCIOSO ADMINISTRATIVA]]"
@@ -28,7 +28,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 70. ASUNTOS SUSCEPTIBLES DE CONCILIACION
+## Artículo 70. Asuntos susceptibles de conciliación
 
 > [!warning] Artículo derogado a partir del 30 de diciembre de 2022 por el artículo [[art. 146 Ley 2220 de 2022|146]] de la Ley 2220 de 2022
 

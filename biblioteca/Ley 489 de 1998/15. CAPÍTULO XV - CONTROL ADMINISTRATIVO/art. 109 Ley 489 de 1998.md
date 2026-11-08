@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "109"
-epigrafe: "CONTROL DE LAS ENTIDADES DESCENTRALIZADAS INDIRECTAS Y DE LAS FILIALES DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO"
+epigrafe: "Control de las entidades descentralizadas indirectas y de las filiales de las empresas industriales y comerciales del Estado"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 108 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 109. CONTROL DE LAS ENTIDADES DESCENTRALIZADAS INDIRECTAS Y DE LAS FILIALES DE LAS EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO
+## Artículo 109. Control de las entidades descentralizadas indirectas y de las filiales de las empresas industriales y comerciales del Estado
 
 El control administrativo sobre las actividades y programas de las entidades descentralizadas indirectas se ejercerá mediante la intervención de los representantes legales de los organismos y entidades participantes o sus delegados, en los órganos internos de deliberación y dirección de la entidad.
 

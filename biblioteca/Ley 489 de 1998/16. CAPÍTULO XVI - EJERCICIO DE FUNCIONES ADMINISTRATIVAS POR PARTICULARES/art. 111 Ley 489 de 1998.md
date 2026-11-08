@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "111"
-epigrafe: "REQUISITOS Y PROCEDIMIENTOS DE LOS ACTOS ADMINISTRATIVOS Y CONVENIOS PARA CONFERIR FUNCIONES ADMINISTRATIVAS A PARTICULARES"
+epigrafe: "Requisitos y procedimientos de los actos administrativos y convenios para conferir funciones administrativas a particulares"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVI|CAPÍTULO XVI - EJERCICIO DE FUNCIONES ADMINISTRATIVAS POR PARTICULARES]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 110 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 111. REQUISITOS Y PROCEDIMIENTOS DE LOS ACTOS ADMINISTRATIVOS Y CONVENIOS PARA CONFERIR FUNCIONES ADMINISTRATIVAS A PARTICULARES
+## Artículo 111. Requisitos y procedimientos de los actos administrativos y convenios para conferir funciones administrativas a particulares
 
 Las entidades o autoridades administrativas podrán conferir el ejercicio de funciones administrativas a particulares, bajo las condiciones de que trata el artículo anterior, cumpliendo los requisitos y observando el procedimiento que se describe a continuación:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "253"
-epigrafe: "RECURSO DE ANULACIÓN EN CONFLICTOS DE INTERESES"
+epigrafe: "Recurso de anulación en conflictos de intereses"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 253. RECURSO DE ANULACIÓN EN CONFLICTOS DE INTERESES
+## Artículo 253. Recurso de anulación en conflictos de intereses
 
 Contra los laudos arbitrales procede el recurso extraordinario de anulación que será conocido por la Sala de Casación Laboral de la Corte Suprema de Justicia.
 

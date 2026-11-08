@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "68"
-epigrafe: "ASPECTOS GENERALES DE LA CESION DE ACTIVOS, PASIVOS Y CONTRATOS"
+epigrafe: "Aspectos Generales de la Cesión de Activos, Pasivos y Contratos"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo V|CAPÍTULO V - CESION DE ACTIVOS, PASIVOS Y CONTRATOS]]"
 vigencia: "parcialmente derogado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo V|Capítulo V]]
 
-## Artículo 68. ASPECTOS GENERALES DE LA CESION DE ACTIVOS, PASIVOS Y CONTRATOS
+## Artículo 68. Aspectos Generales de la Cesión de Activos, Pasivos y Contratos
 
 1\. Facultad de ceder. Las entidades sometidas al control y vigilancia de la Superintendencia Bancaria, ~~con excepción de los intermediarios de seguros~~, por disposición legal o decisión de la asamblea general de accionistas o del órgano que haga sus veces, podrán ceder la totalidad de sus activos y pasivos, así como de los contratos que les hayan dado origen, con sujeción a las reglas que a continuación se indican.
 

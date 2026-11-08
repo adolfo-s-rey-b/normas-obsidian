@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "52"
-epigrafe: "COADYUVANCIA"
+epigrafe: "Coadyuvancia"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 52. COADYUVANCIA
+## Artículo 52. Coadyuvancia
 
 Quien tenga con una de las partes determinada relación sustancial a la cual no se extiendan los efectos jurídicos de la sentencia, pero que pueda afectarse si dicha parte es vencida, podrá intervenir en el proceso como coadyuvante de ella, mientras no se haya dictado sentencia de segunda instancia.
 

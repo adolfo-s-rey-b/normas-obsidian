@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "41"
-epigrafe: "DESACATO"
+epigrafe: "Desacato"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo XII|CAPÍTULO XII - MEDIDAS COERCITIVAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo XII|Capítulo XII]]
 
-## Artículo 41. DESACATO
+## Artículo 41. Desacato
 
 La persona que incumpliere una orden judicial proferida por la autoridad competente en los procesos que se adelanten por acciones populares, incurrirá en multa hasta de cincuenta (50) salarios mínimos mensuales con destino al Fondo para la Defensa de los Derechos e Intereses Colectivos, conmutables en arresto hasta de seis (6) meses, sin perjuicio de las sanciones penales a que hubiere lugar.
 

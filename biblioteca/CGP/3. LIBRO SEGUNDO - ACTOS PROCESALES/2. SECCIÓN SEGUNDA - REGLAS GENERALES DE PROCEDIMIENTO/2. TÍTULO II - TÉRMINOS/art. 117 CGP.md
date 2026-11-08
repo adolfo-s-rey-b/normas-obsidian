@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "117"
-epigrafe: "PERENTORIEDAD DE LOS TÉRMINOS Y OPORTUNIDADES PROCESALES"
+epigrafe: "Perentoriedad de los términos y oportunidades procesales"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título II|TÍTULO II - TÉRMINOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título II|Título II]]
 
-## Artículo 117. PERENTORIEDAD DE LOS TÉRMINOS Y OPORTUNIDADES PROCESALES
+## Artículo 117. Perentoriedad de los términos y oportunidades procesales
 
 Los términos señalados en este código para la realización de los actos procesales de las partes y los auxiliares de la justicia, son perentorios e improrrogables, salvo disposición en contrario.
 

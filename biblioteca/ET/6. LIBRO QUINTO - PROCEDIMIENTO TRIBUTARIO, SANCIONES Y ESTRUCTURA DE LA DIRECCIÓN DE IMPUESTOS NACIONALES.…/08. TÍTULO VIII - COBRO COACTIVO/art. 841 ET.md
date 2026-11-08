@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "841"
-epigrafe: "SUSPENSION POR ACUERDO DE PAGO"
+epigrafe: "SUSPENSIÓN POR ACUERDO DE PAGO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VIII|TÍTULO VIII - COBRO COACTIVO]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VIII|Título VIII]]
 
-## Artículo 841. SUSPENSION POR ACUERDO DE PAGO
+## Artículo 841. SUSPENSIÓN POR ACUERDO DE PAGO
 
 En cualquier etapa del procedimiento administrativo coactivo el deudor podrá celebrar un acuerdo de pago con la Administración, en cuyo caso se suspenderá el procedimiento y se podrán levantar las medidas preventivas que hubieren sido decretadas.
 

@@ -23,15 +23,15 @@ tags:
 
 ### Contenido
 
-- [[art. 187 CGD|Artículo 187]] — NATURALEZA DE LA QUEJA Y DEL INFORME
-- [[art. 188 CGD|Artículo 188]] — APORTE
-- [[art. 189 CGD|Artículo 189]] — OBLIGACIÓN DE ENTREGAR DOCUMENTOS
-- [[art. 190 CGD|Artículo 190]] — DOCUMENTO TACHADO DE FALSO
-- [[art. 191 CGD|Artículo 191]] — PRESUNCIÓN DE AUTENTICIDAD
-- [[art. 192 CGD|Artículo 192]] — INFORMACIONES Y DOCUMENTOS RESERVADOS
-- [[art. 193 CGD|Artículo 193]] — INFORMES TÉCNICOS
-- [[art. 194 CGD|Artículo 194]] — REQUISITOS
-- [[art. 195 CGD|Artículo 195]] — TRASLADO
+- [[art. 187 CGD|Artículo 187]] — Naturaleza de la queja y del informe
+- [[art. 188 CGD|Artículo 188]] — Aporte
+- [[art. 189 CGD|Artículo 189]] — Obligación de entregar documentos
+- [[art. 190 CGD|Artículo 190]] — Documento tachado de falso
+- [[art. 191 CGD|Artículo 191]] — Presunción de autenticidad
+- [[art. 192 CGD|Artículo 192]] — Informaciones y documentos reservados
+- [[art. 193 CGD|Artículo 193]] — Informes técnicos
+- [[art. 194 CGD|Artículo 194]] — Requisitos
+- [[art. 195 CGD|Artículo 195]] — Traslado
 
 ---
 ← [[CGD - Libro IV - Título VI - Capítulo IV|Capítulo IV]] · ↑ [[CGD - Libro IV - Título VI|Título VI]] · [[CGD - Libro IV - Título VI - Capítulo VI|Capítulo VI]] →

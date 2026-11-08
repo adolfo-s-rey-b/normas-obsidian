@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "46"
-epigrafe: "LITISCONSORTES CUASINECESARIOS"
+epigrafe: "Litisconsortes cuasinecesarios"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 46. LITISCONSORTES CUASINECESARIOS
+## Artículo 46. Litisconsortes cuasinecesarios
 
 Podrán intervenir en un proceso como litisconsortes de una parte y con las mismas facultades de esta, quienes sean titulares de una determinada relación sustancial a la cual se extiendan los efectos jurídicos de la sentencia, y que por ello estaban legitimados para demandar o ser demandados en el proceso.
 

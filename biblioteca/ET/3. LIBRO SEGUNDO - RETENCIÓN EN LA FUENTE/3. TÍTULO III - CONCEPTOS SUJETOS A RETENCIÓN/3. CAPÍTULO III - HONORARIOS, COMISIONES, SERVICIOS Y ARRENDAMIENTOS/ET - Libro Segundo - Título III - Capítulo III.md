@@ -25,7 +25,7 @@ tags:
 
 - [[art. 392 ET|Artículo 392]] — SE EFECTUA SOBRE LOS PAGOS O ABONOS EN CUENTA
 - [[art. 393 ET|Artículo 393]] — COMISIONES POR TRANSACCIONES REALIZADAS EN LA BOLSA
-- [[art. 394 ET|Artículo 394]] — COMO OPERA LA RETENCIÓN POR ARRENDAMIENTOS CUANDO HAY INTERMEDIACIÓN
+- [[art. 394 ET|Artículo 394]] — CÓMO OPERA LA RETENCIÓN POR ARRENDAMIENTOS CUANDO HAY INTERMEDIACIÓN
 
 ---
 ← [[ET - Libro Segundo - Título III - Capítulo II|Capítulo II]] · ↑ [[ET - Libro Segundo - Título III|Título III]] · [[ET - Libro Segundo - Título III - Capítulo IV|Capítulo IV]] →

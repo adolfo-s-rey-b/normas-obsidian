@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "281"
-epigrafe: "DIRECCION Y ADMINISTRACION"
+epigrafe: "Dirección y Administración"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 12 Decreto 1962 de 2023]]"
   - "[[art. 2 Decreto 1962 de 2023]]"
@@ -28,12 +28,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 281. DIRECCION Y ADMINISTRACION
+## Artículo 281. Dirección y Administración
 
 1\. Administración del Banco. La administración del Banco estará a cargo de la Asamblea General de Accionistas, la Junta Directiva, el Presidente y los demás órganos que prevean sus estatutos.
 

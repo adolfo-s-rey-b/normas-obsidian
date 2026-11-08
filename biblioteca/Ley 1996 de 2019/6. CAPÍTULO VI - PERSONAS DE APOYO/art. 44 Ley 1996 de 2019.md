@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "44"
-epigrafe: "REQUISITOS PARA SER PERSONA DE APOYO"
+epigrafe: "Requisitos para ser persona de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 43 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 44. REQUISITOS PARA SER PERSONA DE APOYO
+## Artículo 44. Requisitos para ser persona de apoyo
 
 Para asumir el cargo de persona de apoyo se requiere:
 

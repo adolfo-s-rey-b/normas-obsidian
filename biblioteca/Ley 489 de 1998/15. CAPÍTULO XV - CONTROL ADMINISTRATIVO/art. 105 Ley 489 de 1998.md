@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "105"
-epigrafe: "CONTROL ADMINISTRATIVO"
+epigrafe: "Control administrativo"
 capitulo: "[[Ley 489 de 1998 - Capítulo XV|CAPÍTULO XV - CONTROL ADMINISTRATIVO]]"
 vigencia: "vigente"
 anterior: "[[art. 104 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]]
 
-## Artículo 105. CONTROL ADMINISTRATIVO
+## Artículo 105. Control administrativo
 
 El control administrativo sobre las entidades descentralizadas no comprenderá la autorización o aprobación de los actos específicos que conforme a la ley competa expedir a los órganos internos de esos organismos y entidades.
 

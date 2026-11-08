@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225C"
-epigrafe: "TÉRMINO PROBATORIO"
+epigrafe: "Termino probatorio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio ordinario-|-juicio ordinario-]]
 
-## Artículo 225C. TÉRMINO PROBATORIO
+## Artículo 225C. Termino probatorio
 
 Vencido el término para presentar descargos, así como para aportar y solicitar pruebas, el funcionario competente resolverá sobre las nulidades propuestas y ordenará la práctica de las pruebas que hubieren sido solicitadas de acuerdo con los criterios de conducencia, pertinencia y necesidad. Además, ordenará de oficio las que considere necesarias. Las pruebas ordenadas se practicarán en un término no mayor de noventa (90) días.
 

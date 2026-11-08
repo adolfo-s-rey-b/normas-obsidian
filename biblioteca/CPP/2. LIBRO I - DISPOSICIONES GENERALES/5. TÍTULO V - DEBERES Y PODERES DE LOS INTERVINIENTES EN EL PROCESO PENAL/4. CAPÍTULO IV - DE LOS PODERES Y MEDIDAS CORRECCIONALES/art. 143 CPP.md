@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "143"
-epigrafe: "PODERES Y MEDIDAS CORRECCIONALES"
+epigrafe: "Poderes y medidas correccionales"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título V|TÍTULO V - DEBERES Y PODERES DE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
 capitulo: "[[CPP - Libro I - Título V - Capítulo IV|CAPÍTULO IV - DE LOS PODERES Y MEDIDAS CORRECCIONALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título V|Título V]] › [[CPP - Libro I - Título V - Capítulo IV|Capítulo IV]]
 
-## Artículo 143. PODERES Y MEDIDAS CORRECCIONALES
+## Artículo 143. Poderes y medidas correccionales
 
 El juez, de oficio o a solicitud de parte, podrá tomar las siguientes medidas correccionales:
 

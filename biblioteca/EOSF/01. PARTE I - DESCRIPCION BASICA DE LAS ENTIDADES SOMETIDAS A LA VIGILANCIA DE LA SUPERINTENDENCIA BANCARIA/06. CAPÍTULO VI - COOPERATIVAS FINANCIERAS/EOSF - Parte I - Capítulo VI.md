@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 27 EOSF|Artículo 27]] — OPERACIONES AUTORIZADAS
-- [[art. 28 EOSF|Artículo 28]] — INVERSIONES
+- [[art. 27 EOSF|Artículo 27]] — Operaciones Autorizadas
+- [[art. 28 EOSF|Artículo 28]] — Inversiones
 
 ---
 ← [[EOSF - Parte I - Capítulo V|Capítulo V]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo VII|Capítulo VII]] →

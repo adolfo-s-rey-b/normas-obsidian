@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "10"
-epigrafe: "REQUISITOS DE LA DELEGACION"
+epigrafe: "Requisitos de la delegación"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 9 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 10. REQUISITOS DE LA DELEGACION
+## Artículo 10. Requisitos de la delegación
 
 En el acto de delegación, que siempre será escrito, se determinará la autoridad delegataria y las funciones o asuntos específicos cuya atención y decisión se transfieren.
 

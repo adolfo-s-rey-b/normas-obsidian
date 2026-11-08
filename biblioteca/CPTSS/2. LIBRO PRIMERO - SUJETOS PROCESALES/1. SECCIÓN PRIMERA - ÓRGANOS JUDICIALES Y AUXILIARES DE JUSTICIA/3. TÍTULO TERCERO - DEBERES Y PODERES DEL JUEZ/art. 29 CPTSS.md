@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "29"
-epigrafe: "PODERES DE ORDENACIÓN E INSTRUCCIÓN"
+epigrafe: "Poderes de ordenación e instrucción"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Tercero|TÍTULO TERCERO - DEBERES Y PODERES DEL JUEZ]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Tercero|Título Tercero]]
 
-## Artículo 29. PODERES DE ORDENACIÓN E INSTRUCCIÓN
+## Artículo 29. Poderes de ordenación e instrucción
 
 El juez tendrá los siguientes poderes de ordenación e instrucción:
 

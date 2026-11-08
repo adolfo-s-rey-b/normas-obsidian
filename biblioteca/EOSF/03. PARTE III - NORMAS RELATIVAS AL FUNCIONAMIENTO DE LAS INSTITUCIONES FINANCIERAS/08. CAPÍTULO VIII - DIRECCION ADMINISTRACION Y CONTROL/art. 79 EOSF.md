@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "79"
-epigrafe: "REVISORIA FISCAL"
+epigrafe: "Revisoría Fiscal"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 79. REVISORIA FISCAL
+## Artículo 79. Revisoría Fiscal
 
 1\. Obligatoriedad y funciones. Toda entidad sometida al control y vigilancia de la Superintendencia Bancaria, cualquiera sea su naturaleza, con excepción de los intermediarios de seguros, de acuerdo con el artículo [[art. 20 Ley 45 de 1990|20]] de la Ley 45 de 1990, deberá tener un revisor fiscal designado por la asamblea general de accionistas o por el órgano competente. El revisor fiscal cumplirá las funciones previstas en el (libro segundo, título I, capítulo VIII del) Código de Comercio y se sujetará a lo allí dispuesto, sin perjuicio de lo prescrito en otras normas.
 

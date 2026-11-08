@@ -22,12 +22,12 @@ tags:
 ### Contenido
 
 - [[art. 5 Ley 1474 de 2011|Artículo 5]]
-- [[art. 6 Ley 1474 de 2011|Artículo 6]] — ACCIÓN DE REPETICIÓN
+- [[art. 6 Ley 1474 de 2011|Artículo 6]] — Acción de repetición
 - [[art. 7 Ley 1474 de 2011|Artículo 7]] — Responsabilidad de los Revisores Fiscales
-- [[art. 8 Ley 1474 de 2011|Artículo 8]] — DESIGNACIÓN DE RESPONSABLE DEL CONTROL INTERNO
+- [[art. 8 Ley 1474 de 2011|Artículo 8]] — Designación de responsable del control interno
 - [[art. 9 Ley 1474 de 2011|Artículo 9]] — Reportes del responsable de control interno
-- [[art. 10 Ley 1474 de 2011|Artículo 10]] — PRESUPUESTO DE PUBLICIDAD
-- [[art. 11 Ley 1474 de 2011|Artículo 11]] — CONTROL Y VIGILANCIA EN EL SECTOR DE LA SEGURIDAD SOCIAL EN SALUD
+- [[art. 10 Ley 1474 de 2011|Artículo 10]] — Presupuesto de publicidad
+- [[art. 11 Ley 1474 de 2011|Artículo 11]] — Control y vigilancia en el sector de la seguridad social en salud
 - [[art. 12 Ley 1474 de 2011|Artículo 12]] — SISTEMA PREVENTIVO DE PRÁCTICAS RIESGOSAS FINANCIERAS Y DE ATENCIÓN EN SALUD DEL SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD
 
 ---

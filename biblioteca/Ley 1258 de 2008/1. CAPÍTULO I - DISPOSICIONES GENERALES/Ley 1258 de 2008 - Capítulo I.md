@@ -20,9 +20,9 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 1258 de 2008|Artículo 1]] — CONSTITUCIÓN
-- [[art. 2 Ley 1258 de 2008|Artículo 2]] — PERSONALIDAD JURÍDICA
-- [[art. 3 Ley 1258 de 2008|Artículo 3]] — NATURALEZA
+- [[art. 1 Ley 1258 de 2008|Artículo 1]] — Constitución
+- [[art. 2 Ley 1258 de 2008|Artículo 2]] — Personalidad jurídica
+- [[art. 3 Ley 1258 de 2008|Artículo 3]] — Naturaleza
 - [[art. 4 Ley 1258 de 2008|Artículo 4]] — IMPOSIBILIDAD DE NEGOCIAR VALORES EN EL MERCADO PÚBLICO
 
 ---

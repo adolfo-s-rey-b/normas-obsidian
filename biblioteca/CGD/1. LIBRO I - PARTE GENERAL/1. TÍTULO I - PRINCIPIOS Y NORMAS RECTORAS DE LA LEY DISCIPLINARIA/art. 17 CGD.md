@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "17"
-epigrafe: "GRATUIDAD DE LA ACTUACIÓN DISCIPLINARIA"
+epigrafe: "Gratuidad de la actuación disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "parcialmente derogado"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 17. GRATUIDAD DE LA ACTUACIÓN DISCIPLINARIA
+## Artículo 17. Gratuidad de la actuación disciplinaria
 
 Ninguna actuación procesal causará erogación a quien intervenga en el proceso, salvo el costo de las copias solicitadas por los sujetos procesales.
 

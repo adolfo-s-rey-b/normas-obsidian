@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "46"
-epigrafe: "OBLIGACIONES DE LAS PERSONAS DE APOYO"
+epigrafe: "Obligaciones de las personas de apoyo"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 45 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 46. OBLIGACIONES DE LAS PERSONAS DE APOYO
+## Artículo 46. Obligaciones de las personas de apoyo
 
 Las personas de apoyo tienen las siguientes obligaciones:
 

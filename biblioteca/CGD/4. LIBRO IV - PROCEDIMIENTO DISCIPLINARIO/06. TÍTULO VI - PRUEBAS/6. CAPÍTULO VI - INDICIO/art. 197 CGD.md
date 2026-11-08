@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "197"
-epigrafe: "UNIDAD DE INDICIO"
+epigrafe: "Unidad de indicio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo VI|CAPÍTULO VI - INDICIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 197. UNIDAD DE INDICIO
+## Artículo 197. Unidad de indicio
 
 El hecho indicador es indivisible. Sus elementos constitutivos no pueden tomarse separadamente como indicadores.
 

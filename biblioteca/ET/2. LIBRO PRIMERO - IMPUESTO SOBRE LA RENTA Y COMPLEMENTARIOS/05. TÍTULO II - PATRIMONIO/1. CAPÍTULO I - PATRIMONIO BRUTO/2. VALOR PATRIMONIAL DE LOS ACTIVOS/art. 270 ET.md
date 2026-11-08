@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "270"
-epigrafe: "VALOR PATRIMONIAL DE LOS CREDITOS"
+epigrafe: "VALOR PATRIMONIAL DE LOS CRÉDITOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|Valor patrimonial de los activos]]
 
-## Artículo 270. VALOR PATRIMONIAL DE LOS CREDITOS
+## Artículo 270. VALOR PATRIMONIAL DE LOS CRÉDITOS
 
 (Fuente original compilada: D.2053/74 Art. [[art. 115 ET|115]]) El valor de los créditos será el nominal. Sin embargo, pueden estimarse por un valor inferior cuando el contribuyente demuestre satisfactoriamente la insolvencia del deudor, o que le ha sido imposible obtener el pago, no obstante haber agotado los recursos usuales.
 

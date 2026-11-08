@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 338 CPP|Artículo 338]] — CITACIÓN
-- [[art. 339 CPP|Artículo 339]] — TRÁMITE
-- [[art. 340 CPP|Artículo 340]] — LA VÍCTIMA
+- [[art. 338 CPP|Artículo 338]] — Citación
+- [[art. 339 CPP|Artículo 339]] — Trámite
+- [[art. 340 CPP|Artículo 340]] — La víctima
 - [[art. 341 CPP|Artículo 341]] — TRÁMITE DE IMPUGNACIÓN DE COMPETENCIA
-- [[art. 342 CPP|Artículo 342]] — MEDIDAS DE PROTECCIÓN
-- [[art. 343 CPP|Artículo 343]] — FECHA DE LA AUDIENCIA PREPARATORIA
+- [[art. 342 CPP|Artículo 342]] — Medidas de protección
+- [[art. 343 CPP|Artículo 343]] — Fecha de la audiencia preparatoria
 
 ---
 ← [[CPP - Libro III - Título I - Capítulo I|Capítulo I]] · ↑ [[CPP - Libro III - Título I|Título I]] · [[CPP - Libro III - Título I - Capítulo III|Capítulo III]] →

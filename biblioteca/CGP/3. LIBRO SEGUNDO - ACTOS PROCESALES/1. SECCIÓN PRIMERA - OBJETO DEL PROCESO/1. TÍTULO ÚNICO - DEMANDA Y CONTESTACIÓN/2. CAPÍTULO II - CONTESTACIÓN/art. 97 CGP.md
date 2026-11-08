@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "97"
-epigrafe: "FALTA DE CONTESTACIÓN O CONTESTACIÓN DEFICIENTE DE LA DEMANDA"
+epigrafe: "Falta de contestación o contestación deficiente de la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 97. FALTA DE CONTESTACIÓN O CONTESTACIÓN DEFICIENTE DE LA DEMANDA
+## Artículo 97. Falta de contestación o contestación deficiente de la demanda
 
 La falta de contestación de la demanda o de pronunciamiento expreso sobre los hechos y pretensiones de ella, o las afirmaciones o negaciones contrarias a la realidad, harán presumir ciertos los hechos susceptibles de confesión contenidos en la demanda, salvo que la ley le atribuya otro efecto.
 

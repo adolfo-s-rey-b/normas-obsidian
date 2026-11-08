@@ -21,12 +21,12 @@ tags:
 
 ### Contenido
 
-- [[art. 114 CGD|Artículo 114]] — PRINCIPIOS QUE RIGEN LA ACTUACIÓN PROCESAL
-- [[art. 115 CGD|Artículo 115]] — RESERVA DE LA ACTUACIÓN DISCIPLINARIA
-- [[art. 116 CGD|Artículo 116]] — REQUISITOS FORMALES DE LA ACTUACIÓN
-- [[art. 117 CGD|Artículo 117]] — MOTIVACIÓN DE LAS DECISIONES DISCIPLINARÍAS, TÉRMINO PARA ADOPTAR DECISIONES
-- [[art. 118 CGD|Artículo 118]] — UTILIZACIÓN DE MEDIOS TÉCNICOS
-- [[art. 119 CGD|Artículo 119]] — RECONSTRUCCIÓN DE EXPEDIENTES
+- [[art. 114 CGD|Artículo 114]] — Principios que rigen la actuación procesal
+- [[art. 115 CGD|Artículo 115]] — Reserva de la actuación disciplinaria
+- [[art. 116 CGD|Artículo 116]] — Requisitos formales de la actuación
+- [[art. 117 CGD|Artículo 117]] — Motivación de las decisiones disciplinarias, termino para adoptar decisiones
+- [[art. 118 CGD|Artículo 118]] — Utilización de medios técnicos
+- [[art. 119 CGD|Artículo 119]] — Reconstrucción de expedientes
 
 ---
 ↑ [[CGD - Libro IV - Título V|Título V]] · [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]] →

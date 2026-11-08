@@ -37,7 +37,7 @@ Modifíquese el numeral 4 del artículo [[art. 2 CPT|2]]o del Código Procesal d
 
 "4. Las controversias relativas a la prestación de los servicios de la seguridad social que se susciten entre los afiliados, beneficiarios o usuarios, los empleadores y las entidades administradoras o prestadoras, salvo los de responsabilidad médica y los relacionados con contratos".
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 621 CGP]] · ↑ [[CGP - Libro Quinto - Título V|Título V]] · [[art. 623 CGP]] →

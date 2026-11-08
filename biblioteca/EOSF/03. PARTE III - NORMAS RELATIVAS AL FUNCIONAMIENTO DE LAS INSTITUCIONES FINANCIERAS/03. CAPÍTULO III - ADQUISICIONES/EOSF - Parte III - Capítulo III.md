@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 63 EOSF|Artículo 63]] — ASPECTOS GENERALES DE LA ADQUISICION
-- [[art. 64 EOSF|Artículo 64]] — AVISO Y OBJECION
-- [[art. 65 EOSF|Artículo 65]] — PROCEDIMIENTO DE FORMALIZACION Y EFECTOS DE LA ADQUISICION
+- [[art. 63 EOSF|Artículo 63]] — Aspectos Generales de la Adquisición
+- [[art. 64 EOSF|Artículo 64]] — Aviso y Objeción
+- [[art. 65 EOSF|Artículo 65]] — Procedimiento de Formalización y Efectos de la Adquisición
 
 ---
 ← [[EOSF - Parte III - Capítulo II|Capítulo II]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo IV|Capítulo IV]] →

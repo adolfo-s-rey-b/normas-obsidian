@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "146"
-epigrafe: "DEDUCCIÓN POR DEUDAS MANIFIESTAMENTE PÉRDIDAS O SIN VALOR"
+epigrafe: "DEDUCCIÓN POR DEUDAS MANIFIESTAMENTE PERDIDAS O SIN VALOR"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Cartera morosa o pérdida|Cartera morosa o pérdida]]
 
-## Artículo 146. DEDUCCIÓN POR DEUDAS MANIFIESTAMENTE PÉRDIDAS O SIN VALOR
+## Artículo 146. DEDUCCIÓN POR DEUDAS MANIFIESTAMENTE PERDIDAS O SIN VALOR
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 61 ET|61]]) Son deducibles para los contribuyentes que lleven contabilidad por el sistema de causación, las deudas manifiestamente perdidas o sin valor que se hayan descargado durante el año o período gravable, siempre que se demuestre la realidad de la deuda, se justifique su descargo y se pruebe que se ha originado en operaciones productoras de renta. Cuando se establezca que una deuda es cobrable sólo en parte, puede aceptarse la cantidad correspondiente a la parte no cobrable. Cuando los contribuyentes no lleven la contabilidad indicada, tienen derecho a esta deducción conservando el documento concerniente a la deuda con constancia de su anulación.
 

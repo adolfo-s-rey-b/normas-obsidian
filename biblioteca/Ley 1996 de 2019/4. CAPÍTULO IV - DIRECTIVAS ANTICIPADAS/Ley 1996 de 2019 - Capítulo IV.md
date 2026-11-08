@@ -20,17 +20,17 @@ tags:
 
 ### Contenido
 
-- [[art. 21 Ley 1996 de 2019|Artículo 21]] — DIRECTIVAS ANTICIPADAS
-- [[art. 22 Ley 1996 de 2019|Artículo 22]] — SUSCRIPCIÓN DE LA DIRECTIVA ANTICIPADA
-- [[art. 23 Ley 1996 de 2019|Artículo 23]] — CONTENIDO DE LAS DIRECTIVAS ANTICIPADAS
-- [[art. 24 Ley 1996 de 2019|Artículo 24]] — AJUSTES RAZONABLES RELACIONADOS CON LAS DIRECTIVAS ANTICIPADAS
-- [[art. 25 Ley 1996 de 2019|Artículo 25]] — PERSONAS DE APOYO EN DIRECTIVAS ANTICIPADAS
-- [[art. 26 Ley 1996 de 2019|Artículo 26]] — OBLIGATORIEDAD DE LAS DECISIONES EXPRESADAS POR MEDIO DE UNA DIRECTIVA ANTICIPADA
-- [[art. 27 Ley 1996 de 2019|Artículo 27]] — PREVALENCIA DE LA VOLUNTAD POSTERIOR DE LA PERSONA TITULAR DEL ACTO
-- [[art. 28 Ley 1996 de 2019|Artículo 28]] — CLÁUSULA DE VOLUNTAD PERENNE
-- [[art. 29 Ley 1996 de 2019|Artículo 29]] — PUBLICIDAD DE LA DIRECTIVA ANTICIPADA
-- [[art. 30 Ley 1996 de 2019|Artículo 30]] — INCORPORACIÓN DE LA DIRECTIVA ANTICIPADA EN LA HISTORIA CLÍNICA
-- [[art. 31 Ley 1996 de 2019|Artículo 31]] — MODIFICACIÓN, SUSTITUCIÓN Y REVOCACIÓN
+- [[art. 21 Ley 1996 de 2019|Artículo 21]] — Directivas anticipadas
+- [[art. 22 Ley 1996 de 2019|Artículo 22]] — Suscripción de la directiva anticipada
+- [[art. 23 Ley 1996 de 2019|Artículo 23]] — Contenido de las directivas anticipadas
+- [[art. 24 Ley 1996 de 2019|Artículo 24]] — Ajustes razonables relacionados con las directivas anticipadas
+- [[art. 25 Ley 1996 de 2019|Artículo 25]] — Personas de apoyo en directivas anticipadas
+- [[art. 26 Ley 1996 de 2019|Artículo 26]] — Obligatoriedad de las decisiones expresadas por medio de una directiva anticipada
+- [[art. 27 Ley 1996 de 2019|Artículo 27]] — Prevalencia de la voluntad posterior de la persona titular del acto
+- [[art. 28 Ley 1996 de 2019|Artículo 28]] — Cláusula de voluntad perenne
+- [[art. 29 Ley 1996 de 2019|Artículo 29]] — Publicidad de la directiva anticipada
+- [[art. 30 Ley 1996 de 2019|Artículo 30]] — Incorporación de la directiva anticipada en la historia clínica
+- [[art. 31 Ley 1996 de 2019|Artículo 31]] — Modificación, sustitución y revocación
 
 ---
 ← [[Ley 1996 de 2019 - Capítulo III|Capítulo III]] · ↑ [[Ley 1996 de 2019|Ley 1996 de 2019]] · [[Ley 1996 de 2019 - Capítulo V|Capítulo V]] →

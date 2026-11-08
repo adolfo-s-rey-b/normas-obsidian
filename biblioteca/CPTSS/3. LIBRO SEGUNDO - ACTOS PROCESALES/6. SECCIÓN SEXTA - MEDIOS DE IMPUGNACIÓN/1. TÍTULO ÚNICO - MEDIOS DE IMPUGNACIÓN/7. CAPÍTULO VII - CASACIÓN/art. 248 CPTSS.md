@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "248"
-epigrafe: "AUDIENCIA"
+epigrafe: "Audiencia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 248. AUDIENCIA
+## Artículo 248. Audiencia
 
 Si durante la discusión del proyecto de sentencia, la Sala estimare conveniente aclarar puntos de hecho, podrá citar a las partes para ser oídas en audiencia, quienes depondrán sobre lo que única y exclusivamente determinen los magistrados en su interrogatorio o disponer que aquellas rindan informes y alleguen la documentación que tengan en su poder y se estime necesaria para los referidos fines.
 

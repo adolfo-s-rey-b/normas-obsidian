@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "3"
-epigrafe: "DERECHOS Y DEBERES DE LOS CONSUMIDORES Y USUARIOS"
+epigrafe: "Derechos y deberes de los consumidores y usuarios"
 titulo: "[[Ley 1480 de 2011 - Título I|TÍTULO I - <No incluido en documento oficial>]]"
 capitulo: "[[Ley 1480 de 2011 - Título I - Capítulo II|CAPÍTULO II - OBJETO, ÁMBITO DE APLICACIÓN, CARÁCTER DE LAS NORMAS Y DEFINICIONES]]"
 vigencia: "parcialmente derogado"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título I|Título I]] › [[Ley 1480 de 2011 - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 3. DERECHOS Y DEBERES DE LOS CONSUMIDORES Y USUARIOS
+## Artículo 3. Derechos y deberes de los consumidores y usuarios
 
 Se tendrán como derechos y deberes generales de los consumidores y usuarios, sin perjuicio de los que les reconozcan leyes especiales, los siguientes:
 

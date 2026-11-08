@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "178"
-epigrafe: "CONDICIONES GENERALES PARA EL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA"
+epigrafe: "Condiciones Generales para el Ejercicio de la Actividad Capitalizadora"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo I|CAPÍTULO I - ASPECTOS RELATIVOS A LA ACTIVIDAD CAPITALIZADORA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo I|Capítulo I]]
 
-## Artículo 178. CONDICIONES GENERALES PARA EL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA
+## Artículo 178. Condiciones Generales para el Ejercicio de la Actividad Capitalizadora
 
 1\. Autorización de planes. Los planes y proyectos de contratos, así como las bases técnicas, tarifas, fórmulas para el cálculo de las cuotas, reservas matemáticas, valores de rescate, participación de beneficios y sorteos de amortización y demás elementos técnicos de las sociedades de capitalización deben someterse a la aprobación del Superintendente Bancario, sin la cual no podrán ponerse en vigencia.
 

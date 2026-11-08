@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 130 CPACA|Artículo 130]] — CAUSALES
-- [[art. 131 CPACA|Artículo 131]] — TRÁMITE DE LOS IMPEDIMENTOS
-- [[art. 132 CPACA|Artículo 132]] — TRÁMITE DE LAS RECUSACIONES
+- [[art. 130 CPACA|Artículo 130]] — Causales
+- [[art. 131 CPACA|Artículo 131]] — Trámite de los impedimentos
+- [[art. 132 CPACA|Artículo 132]] — Trámite de las recusaciones
 
 ---
 ← [[CPACA - Parte Segunda - Título II - Capítulo V|Capítulo V]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo VII|Capítulo VII]] →

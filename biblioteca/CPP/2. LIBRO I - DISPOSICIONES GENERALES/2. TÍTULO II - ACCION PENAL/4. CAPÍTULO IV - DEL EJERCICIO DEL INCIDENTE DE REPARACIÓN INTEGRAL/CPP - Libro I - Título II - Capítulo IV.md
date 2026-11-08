@@ -23,13 +23,13 @@ tags:
 
 ### Contenido
 
-- [[art. 102 CPP|Artículo 102]] — PROCEDENCIA Y EJERCICIO DEL INCIDENTE DE REPARACIÓN INTEGRAL
-- [[art. 103 CPP|Artículo 103]] — TRÁMITE DEL INCIDENTE DE REPARACIÓN INTEGRAL
-- [[art. 104 CPP|Artículo 104]] — AUDIENCIA DE PRUEBAS Y ALEGACIONES
-- [[art. 105 CPP|Artículo 105]] — DECISIÓN DE REPARACIÓN INTEGRAL
-- [[art. 106 CPP|Artículo 106]] — CADUCIDAD
-- [[art. 107 CPP|Artículo 107]] — TERCERO CIVILMENTE RESPONSABLE
-- [[art. 108 CPP|Artículo 108]] — CITACIÓN DEL ASEGURADOR
+- [[art. 102 CPP|Artículo 102]] — Procedencia y ejercicio del incidente de reparación integral
+- [[art. 103 CPP|Artículo 103]] — Trámite del incidente de reparación integral
+- [[art. 104 CPP|Artículo 104]] — Audiencia de pruebas y alegaciones
+- [[art. 105 CPP|Artículo 105]] — Decisión de reparación integral
+- [[art. 106 CPP|Artículo 106]] — Caducidad
+- [[art. 107 CPP|Artículo 107]] — Tercero civilmente responsable
+- [[art. 108 CPP|Artículo 108]] — Citación del asegurador
 
 ---
 ← [[CPP - Libro I - Título II - Capítulo III|Capítulo III]] · ↑ [[CPP - Libro I - Título II|Título II]]

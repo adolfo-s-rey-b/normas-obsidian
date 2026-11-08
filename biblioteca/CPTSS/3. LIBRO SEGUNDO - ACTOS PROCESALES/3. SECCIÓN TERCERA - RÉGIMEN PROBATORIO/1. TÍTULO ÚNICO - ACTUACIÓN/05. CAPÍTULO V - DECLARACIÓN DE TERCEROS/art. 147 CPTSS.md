@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "147"
-epigrafe: "INHABILIDADES PARA TESTIMONIAR"
+epigrafe: "Inhabilidades para testimoniar"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 147. INHABILIDADES PARA TESTIMONIAR
+## Artículo 147. Inhabilidades para testimoniar
 
 Son inhábiles para testimoniar en un proceso determinado quienes al momento de declarar sufran alteración mental o perturbaciones sicológicas graves, o se encuentren en estado de embriaguez, sugestión hipnótica o bajo el efecto del alcohol o sustancias estupefacientes o alucinógenas y las demás personas que el juez considere inhábiles para testimoniar en un momento determinado, de acuerdo con la libre formación de su convencimiento.
 

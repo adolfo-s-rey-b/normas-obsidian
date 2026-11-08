@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "234"
-epigrafe: "PERITACIONES DE ENTIDADES Y DEPENDENCIAS OFICIALES"
+epigrafe: "Peritaciones de entidades y dependencias oficiales"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 234. PERITACIONES DE ENTIDADES Y DEPENDENCIAS OFICIALES
+## Artículo 234. Peritaciones de entidades y dependencias oficiales
 
 Los jueces podrán solicitar, de oficio o a petición de parte los servicios de entidades y dependencias oficiales para peritaciones que versen sobre materias propias de la actividad de aquellas. Con tal fin las decretará y ordenará librar el oficio respectivo para que el director de las mismas designe el funcionario o los funcionarios que deben rendir el dictamen.
 

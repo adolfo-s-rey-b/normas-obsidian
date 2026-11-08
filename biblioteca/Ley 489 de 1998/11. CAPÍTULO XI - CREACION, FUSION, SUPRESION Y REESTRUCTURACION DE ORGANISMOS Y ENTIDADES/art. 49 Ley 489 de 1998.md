@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "49"
-epigrafe: "CREACION DE ORGANISMOS Y ENTIDADES ADMINISTRATIVAS"
+epigrafe: "Creación de organismos y entidades administrativas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XI|CAPÍTULO XI - CREACION, FUSION, SUPRESION Y REESTRUCTURACION DE ORGANISMOS Y ENTIDADES]]"
 vigencia: "vigente"
 anterior: "[[art. 48 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XI|Capítulo XI]]
 
-## Artículo 49. CREACION DE ORGANISMOS Y ENTIDADES ADMINISTRATIVAS
+## Artículo 49. Creación de organismos y entidades administrativas
 
 Corresponde a la ley, por iniciativa del Gobierno, la creación de los ministerios, departamentos administrativos, superintendencias, establecimientos públicos y los demás organismos y entidades administrativas nacionales.
 

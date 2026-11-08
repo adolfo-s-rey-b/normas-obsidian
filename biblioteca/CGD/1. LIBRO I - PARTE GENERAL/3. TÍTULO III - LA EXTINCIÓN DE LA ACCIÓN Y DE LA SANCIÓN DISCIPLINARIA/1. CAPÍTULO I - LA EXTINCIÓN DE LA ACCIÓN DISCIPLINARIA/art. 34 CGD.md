@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "34"
-epigrafe: "RENUNCIA A LA PRESCRIPCIÓN"
+epigrafe: "Renuncia a la prescripción"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título III|TÍTULO III - LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN DISCIPLINARIA]]"
 capitulo: "[[CGD - Libro I - Título III - Capítulo I|CAPÍTULO I - LA EXTINCIÓN DE LA ACCIÓN DISCIPLINARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título III|Título III]] › [[CGD - Libro I - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 34. RENUNCIA A LA PRESCRIPCIÓN
+## Artículo 34. Renuncia a la prescripción
 
 El sujeto disciplinable podrá renunciar a la prescripción de la acción disciplinaria. En este caso la acción solo podrá proseguirse por un término máximo de dos (2) años contados a partir de la presentación personal de la solicitud, vencido el cual, sin que se hubiese proferido y ejecutoriado el respectivo fallo, no procederá decisión distinta a la de la declaración de la prescripción.
 

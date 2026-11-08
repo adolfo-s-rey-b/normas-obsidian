@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "20"
-epigrafe: "COMPETENCIA DE LOS JUECES CIVILES DEL CIRCUITO EN PRIMERA INSTANCIA"
+epigrafe: "Competencia de los jueces civiles del circuito en primera instancia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -34,7 +34,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 20. COMPETENCIA DE LOS JUECES CIVILES DEL CIRCUITO EN PRIMERA INSTANCIA
+## Artículo 20. Competencia de los jueces civiles del circuito en primera instancia
 
 Los jueces civiles del circuito conocen en primera instancia de los siguientes asuntos:
 

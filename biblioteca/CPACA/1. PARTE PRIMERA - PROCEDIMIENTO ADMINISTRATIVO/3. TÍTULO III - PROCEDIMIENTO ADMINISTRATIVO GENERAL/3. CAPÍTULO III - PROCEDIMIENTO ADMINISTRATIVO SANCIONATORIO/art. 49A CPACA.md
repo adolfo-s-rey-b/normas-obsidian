@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "49A"
-epigrafe: "RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO FISCAL"
+epigrafe: "Recursos en el procedimiento administrativo sancionatorio fiscal"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo III|CAPÍTULO III - PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 49A. RECURSOS EN EL PROCEDIMIENTO ADMINISTRATIVO SANCIONATORIO FISCAL
+## Artículo 49A. Recursos en el procedimiento administrativo sancionatorio fiscal
 
 Contra las decisiones que imponen una sanción fiscal proceden los recursos de reposición, apelación y queja. Los recursos de reposición y apelación se podrán interponer y sustentar dentro de los cinco (5) días siguientes a la notificación de la respectiva decisión al interesado.
 

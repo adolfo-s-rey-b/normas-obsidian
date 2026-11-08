@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "34"
-epigrafe: "INASISTENCIA DE LOS ÁRBITROS"
+epigrafe: "Inasistencia de los árbitros"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 34. INASISTENCIA DE LOS ÁRBITROS
+## Artículo 34. Inasistencia de los árbitros
 
 El árbitro que deje de asistir por dos (2) veces a las audiencias sin justificación, o en tres (3) ocasiones con excusa justificada, quedará, sin más, relevado del cargo. Los árbitros restantes darán aviso a quien lo designó para que proceda a su reemplazo.
 

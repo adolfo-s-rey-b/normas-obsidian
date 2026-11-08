@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "transitorio (AL 1 de 2016) 1"
 epigrafe: "PROCEDIMIENTO LEGISLATIVO ESPECIAL PARA LA PAZ"
 titulo: "[[CPol - Título|TÍTULO - Disposiciones transitorias]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Acto Legislativo 1 de 2016]]"
 anterior: "[[art. transitorio 67 CPol]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título|Título]]

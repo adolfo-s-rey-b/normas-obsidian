@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 221 CPTSS|Artículo 221]] — TRÁMITE
-- [[art. 222 CPTSS|Artículo 222]] — TRANSACCIÓN POR ENTIDADES PÚBLICAS
+- [[art. 221 CPTSS|Artículo 221]] — Trámite
+- [[art. 222 CPTSS|Artículo 222]] — Transacción por entidades públicas
 
 ---
 ↑ [[CPTSS - Libro Segundo - Sección Quinta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]] →

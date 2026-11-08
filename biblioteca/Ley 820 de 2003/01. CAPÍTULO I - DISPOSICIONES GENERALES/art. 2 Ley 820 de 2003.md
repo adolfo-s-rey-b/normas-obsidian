@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "2"
-epigrafe: "DEFINICIÓN"
+epigrafe: "Definición"
 capitulo: "[[Ley 820 de 2003 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 1 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo I|Capítulo I]]
 
-## Artículo 2. DEFINICIÓN
+## Artículo 2. Definición
 
 El contrato de arrendamiento de vivienda urbana es aquel por el cual dos partes se obligan recíprocamente, la una a conceder el goce de un inmueble urbano destinado a vivienda, total o parcialmente, y la otra a pagar por este goce un precio determinado.
 

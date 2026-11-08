@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "448"
-epigrafe: "SEÑALAMIENTO DE FECHA PARA REMATE"
+epigrafe: "Señalamiento de fecha para remate"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 448. SEÑALAMIENTO DE FECHA PARA REMATE
+## Artículo 448. Señalamiento de fecha para remate
 
 Ejecutoriada la providencia que ordene seguir adelante la ejecución, el ejecutante podrá pedir que se señale fecha para el remate de los bienes que lo permitan, siempre que se hayan embargado, secuestrado y avaluado, aun cuando no esté en firme la liquidación del crédito. En firme esta, cualquiera de las partes podrá pedir el remate de dichos bienes.
 

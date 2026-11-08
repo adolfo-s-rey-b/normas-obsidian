@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "353"
-epigrafe: "INTERPOSICIÓN Y TRÁMITE"
+epigrafe: "Interposición y trámite"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo V|Capítulo V]]
 
-## Artículo 353. INTERPOSICIÓN Y TRÁMITE
+## Artículo 353. Interposición y trámite
 
 El recurso de queja deberá interponerse en subsidio del de reposición contra el auto que denegó la apelación o la casación, salvo cuando este sea consecuencia de la reposición interpuesta por la parte contraria, caso en el cual deberá interponerse directamente dentro de la ejecutoria.
 

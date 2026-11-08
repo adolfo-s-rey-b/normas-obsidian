@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "745"
-epigrafe: "LAS DUDAS PROVENIENTES DE VACIOS PROBATORIOS SE RESUELVEN A FAVOR DEL CONTRIBUYENTE"
+epigrafe: "LAS DUDAS PROVENIENTES DE VACÍOS PROBATORIOS SE RESUELVEN A FAVOR DEL CONTRIBUYENTE"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo I|Capítulo I]]
 
-## Artículo 745. LAS DUDAS PROVENIENTES DE VACIOS PROBATORIOS SE RESUELVEN A FAVOR DEL CONTRIBUYENTE
+## Artículo 745. LAS DUDAS PROVENIENTES DE VACÍOS PROBATORIOS SE RESUELVEN A FAVOR DEL CONTRIBUYENTE
 
 Las dudas provenientes de vacíos probatorios existentes en el momento de practicar las liquidaciones o de fallar los recursos, deben resolverse, si no hay modo de eliminarlas, a favor del contribuyente, cuando éste no se encuentre obligado a probar determinados hechos de acuerdo con las normas del capítulo III de este título.
 

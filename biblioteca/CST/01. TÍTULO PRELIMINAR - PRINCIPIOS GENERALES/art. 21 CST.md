@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 2663 de 1950"
 sigla: "CST"
 articulo: "21"
-epigrafe: "NORMAS MAS FAVORABLES"
+epigrafe: "NORMAS MÁS FAVORABLES"
 titulo: "[[CST - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 20 CST]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CST|CST]] › [[CST - Título Preliminar|Título Preliminar]]
 
-## Artículo 21. NORMAS MAS FAVORABLES
+## Artículo 21. NORMAS MÁS FAVORABLES
 
 En caso de conflicto o duda sobre la aplicación de normas vigentes de trabajo, prevalece la más favorable al trabajador. La norma que se adopte debe aplicarse en su integridad.
 

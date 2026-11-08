@@ -24,7 +24,7 @@ tags:
 ### Contenido
 
 - [[art. 102 Ley 446 de 1998|Artículo 102]] — PROCESOS DE EJECUCION
-- [[art. 103 Ley 446 de 1998|Artículo 103]] — SANCIONES POR INASISTENCIA
+- [[art. 103 Ley 446 de 1998|Artículo 103]] — Sanciones por inasistencia
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 1|Sección 1]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4|Capítulo 4]] · [[Ley 446 de 1998 - Parte III - Título I - Capítulo 4 - Sección 3|Sección 3]] →

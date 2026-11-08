@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "613"
-epigrafe: "AUDIENCIA DE CONCILIACIÓN EXTRAJUDICIAL EN LOS ASUNTOS CONTENCIOSO ADMINISTRATIVOS"
+epigrafe: "Audiencia de conciliación extrajudicial en los asuntos contencioso administrativos"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título II|TÍTULO II - DISPOSICIONES RELATIVAS A LA AGENCIA NACIONAL DE DEFENSA JURÍDICA DEL ESTADO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título II|Título II]]
 
-## Artículo 613. AUDIENCIA DE CONCILIACIÓN EXTRAJUDICIAL EN LOS ASUNTOS CONTENCIOSO ADMINISTRATIVOS
+## Artículo 613. Audiencia de conciliación extrajudicial en los asuntos contencioso administrativos
 
 Cuando se solicite conciliación extrajudicial, el peticionario deberá acreditar la entrega de copia a la Agencia Nacional de Defensa Jurídica de la Nación, en los mismos términos previstos para el convocado, con el fin de que la Agencia Nacional de Defensa Jurídica del Estado resuelva sobre su intervención o no en el Comité de Conciliación de la entidad convocada, así como en la audiencia de conciliación correspondiente.
 
@@ -39,7 +39,7 @@ No será necesario agotar el requisito de procedibilidad en los procesos ejecuti
 
 Las entidades públicas en los procesos declarativos que se tramitan ante la jurisdicción de lo contencioso administrativo contra particulares, podrán solicitar las medidas cautelares previstas para los procesos declarativos en el Código General del Proceso.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 612 CGP]] · ↑ [[CGP - Libro Quinto - Título II|Título II]] · [[art. 614 CGP]] →

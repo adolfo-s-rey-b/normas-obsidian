@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "42"
-epigrafe: "OTRAS INHABILIDADES"
+epigrafe: "Otras inhabilidades"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título IV|TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO]]"
 capitulo: "[[CGD - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 anterior: "[[art. 41 CGD]]"
 siguiente: "[[art. 43 CGD]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_1952_2019.html"
@@ -25,12 +25,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título IV|Título IV]] › [[CGD - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 42. OTRAS INHABILIDADES
+## Artículo 42. Otras inhabilidades
 
 También constituyen inhabilidades para desempeñar cargos públicos, a partir de la ejecutoria del fallo, las siguientes:
 

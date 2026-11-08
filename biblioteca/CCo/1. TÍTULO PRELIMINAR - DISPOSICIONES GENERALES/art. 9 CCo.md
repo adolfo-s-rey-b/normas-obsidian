@@ -10,7 +10,7 @@ sigla: "CCo"
 articulo: "9"
 epigrafe: "PRUEBA DE COSTUMBRE MERCANTIL INTERNACIONAL - ACREDITACIÓN"
 titulo: "[[CCo - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 8 CCo]]"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Título Preliminar|Título Preliminar]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "244"
-epigrafe: "TRÁMITE DEL RECURSO DE APELACIÓN CONTRA AUTOS"
+epigrafe: "Trámite del recurso de apelación contra autos"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XII|CAPÍTULO XII - RECURSOS ORDINARIOS Y TRÁMITE]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XII|Capítulo XII]]
 
-## Artículo 244. TRÁMITE DEL RECURSO DE APELACIÓN CONTRA AUTOS
+## Artículo 244. Trámite del recurso de apelación contra autos
 
 La interposición y decisión del recurso de apelación contra autos se sujetará a las siguientes reglas:
 

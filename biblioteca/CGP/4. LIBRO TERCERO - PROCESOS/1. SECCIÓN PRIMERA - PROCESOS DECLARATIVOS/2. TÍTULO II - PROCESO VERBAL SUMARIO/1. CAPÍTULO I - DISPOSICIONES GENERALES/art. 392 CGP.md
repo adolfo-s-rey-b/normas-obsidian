@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "392"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 392. TRÁMITE
+## Artículo 392. Trámite
 
 En firme el auto admisorio de la demanda y vencido el término de traslado de la demanda, el juez en una sola audiencia practicará las actividades previstas en los artículos [[art. 372 CGP|372]] y [[art. 373 CGP|373]] de este código, en lo pertinente. En el mismo auto en el que el juez cite a la audiencia decretará las pruebas pedidas por las partes y las que de oficio considere.
 

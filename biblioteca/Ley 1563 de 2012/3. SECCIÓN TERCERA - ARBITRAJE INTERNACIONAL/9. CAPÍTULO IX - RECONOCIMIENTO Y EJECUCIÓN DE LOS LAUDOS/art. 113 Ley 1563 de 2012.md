@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "113"
-epigrafe: "COMPETENCIA FUNCIONAL"
+epigrafe: "Competencia funcional"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|CAPÍTULO IX - RECONOCIMIENTO Y EJECUCIÓN DE LOS LAUDOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|Capítulo IX]]
 
-## Artículo 113. COMPETENCIA FUNCIONAL
+## Artículo 113. Competencia funcional
 
 La decisión adoptada por la autoridad judicial competente en el trámite de reconocimiento de los laudos que conforme a la presente sección demanden del mismo se tramitará en única instancia y contra ella no procederá recurso o acción alguna.
 

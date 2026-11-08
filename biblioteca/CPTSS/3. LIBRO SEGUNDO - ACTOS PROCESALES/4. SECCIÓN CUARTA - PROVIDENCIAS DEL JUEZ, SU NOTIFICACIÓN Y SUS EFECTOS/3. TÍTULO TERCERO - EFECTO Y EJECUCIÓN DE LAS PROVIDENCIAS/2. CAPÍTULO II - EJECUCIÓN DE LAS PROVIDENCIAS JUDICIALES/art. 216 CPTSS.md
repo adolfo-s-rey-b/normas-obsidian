@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "216"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|TÍTULO TERCERO - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero|Título Tercero]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Tercero - Capítulo II|Capítulo II]]
 
-## Artículo 216. PROCEDENCIA
+## Artículo 216. Procedencia
 
 Podrá exigirse la ejecución de las providencias una vez ejecutoriadas o a partir del día siguiente al de la notificación del auto de obedecimiento a lo resuelto por el superior, según fuere el caso, y cuando contra ellas se haya concedido apelación en el efecto devolutivo.
 

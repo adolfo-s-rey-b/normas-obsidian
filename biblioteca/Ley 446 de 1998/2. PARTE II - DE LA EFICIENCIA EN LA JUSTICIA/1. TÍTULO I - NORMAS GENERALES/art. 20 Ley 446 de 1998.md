@@ -7,7 +7,7 @@ articulo: "20"
 epigrafe: "Sentencia anticipada"
 parte: "[[Ley 446 de 1998 - Parte II|PARTE II - DE LA EFICIENCIA EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte II - Título I|TÍTULO I - NORMAS GENERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 19 Ley 446 de 1998]]"
@@ -21,7 +21,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte II|Parte II]] › [[Ley 446 de 1998 - Parte II - Título I|Título I]]

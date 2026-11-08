@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "227"
-epigrafe: "INSTALACIÓN DE LA AUDIENCIA"
+epigrafe: "Instalación de la audiencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 227. INSTALACIÓN DE LA AUDIENCIA
+## Artículo 227. Instalación de la audiencia
 
 El funcionario competente instalará la audiencia, verificará la presencia del disciplinable o de su defensor y hará una presentación sucinta de los hechos y los cargos formulados.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "604"
-epigrafe: "CALIFICACIÓN Y CANCELACIÓN"
+epigrafe: "Calificación y cancelación"
 libro: "[[CGP - Libro Cuarto|LIBRO CUARTO - MEDIDAS CAUTELARES Y CAUCIONES]]"
 titulo: "[[CGP - Libro Cuarto - Título II|TÍTULO II - CAUCIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Cuarto|Libro Cuarto]] › [[CGP - Libro Cuarto - Título II|Título II]]
 
-## Artículo 604. CALIFICACIÓN Y CANCELACIÓN
+## Artículo 604. Calificación y cancelación
 
 Prestada la caución, el juez calificará su suficiencia y la aceptará o rechazará, para lo cual observará las siguientes reglas:
 

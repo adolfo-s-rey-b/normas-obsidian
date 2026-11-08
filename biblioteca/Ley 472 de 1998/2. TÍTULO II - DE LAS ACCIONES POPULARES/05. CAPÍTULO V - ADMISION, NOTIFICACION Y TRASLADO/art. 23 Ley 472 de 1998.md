@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "23"
-epigrafe: "EXCEPCIONES"
+epigrafe: "Excepciones"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo V|CAPÍTULO V - ADMISION, NOTIFICACION Y TRASLADO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 23. EXCEPCIONES
+## Artículo 23. Excepciones
 
 (sic) En la contestación de la demanda sólo podrá proponerse las excepciones de mérito y las previas de falta de jurisdicción y cosa juzgada, las cuales serán resueltas por el juez en la sentencia.
 

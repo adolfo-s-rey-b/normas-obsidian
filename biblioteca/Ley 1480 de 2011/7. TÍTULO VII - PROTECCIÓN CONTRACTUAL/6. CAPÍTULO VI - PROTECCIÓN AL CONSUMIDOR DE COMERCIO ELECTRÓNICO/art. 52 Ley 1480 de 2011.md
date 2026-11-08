@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "52"
-epigrafe: "PROTECCIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES EN COMERCIO ELECTRÓNICO"
+epigrafe: "Protección de los niños, niñas y adolescentes en comercio electrónico"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo VI|CAPÍTULO VI - PROTECCIÓN AL CONSUMIDOR DE COMERCIO ELECTRÓNICO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo VI|Capítulo VI]]
 
-## Artículo 52. PROTECCIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES EN COMERCIO ELECTRÓNICO
+## Artículo 52. Protección de los niños, niñas y adolescentes en comercio electrónico
 
 Cuando la venta se haga utilizando herramientas de comercio electrónico, el proveedor deberá tomar las medidas posibles para verificar la edad del consumidor. En caso de que el producto vaya a ser adquirido por un menor de edad, el proveedor deberá dejar constancia de la autorización expresa de los padres para realizar la transacción.
 

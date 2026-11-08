@@ -17,7 +17,6 @@ rubro: "[[ET - Libro Quinto - Título III - Sanciones especiales contempladas po
 vigencia: "vigente"
 derogado_por:
   - "[[art. 177 CDU]]"
-  - "[[art. 175 ET]]"
 anterior: "[[art. 679 ET]]"
 siguiente: "[[art. 681 ET]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/estatuto_tributario.html"
@@ -40,7 +39,7 @@ tags:
 
 **PARAGRAFO.** La Administración de Impuestos estará obligada, a petición del contribuyente interesado, a suministrarle el nombre del liquidador para los efectos de este artículo, y a solicitud comprobada de aquel, deberá aplicar las sanciones en él previstas.
 
-> [!warning] Notas del Editor: Sobre las sanciones disciplinarias dispuestas en este artículo, en criterio del editor debe tenerse en cuenta que a partir de la expedición de la Ley 200 de 1995 -Código Disciplinario Unico- según lo dispuesto en el artículo [[art. 177 CDU|177]] '... sin excepción alguna y deroga las disposiciones generales o especiales que regulen materias disciplinarias a nivel nacional, departamental, distrital o municipal, o que le sean contrarias, salvo los regímenes especiales de la fuerza pública, de acuerdo con lo establecido en el artículo [[art. 175 ET|175]] de este Código' .
+> [!warning] Notas del Editor: Sobre las sanciones disciplinarias dispuestas en este artículo, en criterio del editor debe tenerse en cuenta que a partir de la expedición de la Ley 200 de 1995 -Código Disciplinario Unico- según lo dispuesto en el artículo [[art. 177 CDU|177]] '... sin excepción alguna y deroga las disposiciones generales o especiales que regulen materias disciplinarias a nivel nacional, departamental, distrital o municipal, o que le sean contrarias, salvo los regímenes especiales de la fuerza pública, de acuerdo con lo establecido en el artículo 175 de este Código' .
 
 ---
 ← [[art. 679 ET]] · ↑ [[ET - Libro Quinto - Título III - Sanciones especiales contempladas por normas…|Sanciones especiales contempladas por normas…]] · [[art. 681 ET]] →

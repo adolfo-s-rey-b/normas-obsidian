@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "151"
-epigrafe: "NO SON DEDUCIBLES LAS PÉRDIDAS, POR ENAJENACIÓN DE ACTIVOS A VINCULADOS ECONOMICOS"
+epigrafe: "NO SON DEDUCIBLES LAS PÉRDIDAS, POR ENAJENACIÓN DE ACTIVOS A VINCULADOS ECONÓMICOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Pérdidas|Pérdidas]]
 
-## Artículo 151. NO SON DEDUCIBLES LAS PÉRDIDAS, POR ENAJENACIÓN DE ACTIVOS A VINCULADOS ECONOMICOS
+## Artículo 151. NO SON DEDUCIBLES LAS PÉRDIDAS, POR ENAJENACIÓN DE ACTIVOS A VINCULADOS ECONÓMICOS
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 66 ET|66]]) No se aceptan pérdidas por enajenación de activos fijos o movibles, cuando la respectiva transacción tenga lugar entre una sociedad u otra entidad asimilada y personas naturales o sucesiones ilíquidas, que sean económicamente vinculadas a la sociedad o entidad.
 

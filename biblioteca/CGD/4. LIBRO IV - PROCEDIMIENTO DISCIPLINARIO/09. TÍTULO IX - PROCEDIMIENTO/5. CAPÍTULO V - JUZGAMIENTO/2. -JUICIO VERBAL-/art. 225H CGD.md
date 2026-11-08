@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "225H"
-epigrafe: "CITACIÓN A AUDIENCIA DE PRUEBAS Y DESCARGOS"
+epigrafe: "Citación a audiencia de pruebas y descargos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -37,7 +37,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 225H. CITACIÓN A AUDIENCIA DE PRUEBAS Y DESCARGOS
+## Artículo 225H. Citación a audiencia de pruebas y descargos
 
 En el auto en el que el funcionario de conocimiento decida adelantar el juicio verbal, de conformidad con las reglas establecidas en esta ley, fijará la fecha y la hora para la celebración de la audiencia de descargos y pruebas, la cual se realizará en un término no menor a los diez (10) días ni mayor a los veinte (20) días de la fecha del auto de citación. Contra esta decisión no procede recurso alguno.
 

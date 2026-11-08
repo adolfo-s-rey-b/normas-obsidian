@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "33"
-epigrafe: "FUNCIONES"
+epigrafe: "Funciones"
 capitulo: "[[Ley 820 de 2003 - Capítulo IX|CAPÍTULO IX - INSPECCIÓN, CONTROL Y VIGILANCIA EN MATERIA DE ARRENDAMIENTOS]]"
 vigencia: "vigente"
 anterior: "[[art. 32 Ley 820 de 2003]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo IX|Capítulo IX]]
 
-## Artículo 33. FUNCIONES
+## Artículo 33. Funciones
 
 Las entidades territoriales determinadas en el artículo anterior ejercerán las siguientes funciones:
 

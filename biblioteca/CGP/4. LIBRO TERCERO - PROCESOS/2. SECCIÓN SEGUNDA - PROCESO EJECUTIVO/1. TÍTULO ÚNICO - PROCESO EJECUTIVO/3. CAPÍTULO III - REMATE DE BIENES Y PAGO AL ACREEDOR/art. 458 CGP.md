@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "458"
-epigrafe: "VENTA DE TÍTULOS INSCRITOS EN BOLSA"
+epigrafe: "Venta de títulos inscritos en bolsa"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 458. VENTA DE TÍTULOS INSCRITOS EN BOLSA
+## Artículo 458. Venta de títulos inscritos en bolsa
 
 En firme la liquidación del crédito, a petición de cualquiera de las partes, podrá el juez ordenar la venta de títulos inscritos en las bolsas de valores debidamente autorizados, por conducto de las mismas; pero si se trata de títulos nominativos, para autorizar la venta se requiere que el embargo esté inscrito en el registro del emisor.
 

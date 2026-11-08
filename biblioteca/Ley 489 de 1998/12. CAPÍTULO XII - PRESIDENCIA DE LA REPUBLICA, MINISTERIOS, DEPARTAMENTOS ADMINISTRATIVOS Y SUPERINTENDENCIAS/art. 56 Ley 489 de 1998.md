@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "56"
-epigrafe: "PRESIDENCIA DE LA REPUBLICA"
+epigrafe: "Presidencia de la República"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 55 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 56. PRESIDENCIA DE LA REPUBLICA
+## Artículo 56. Presidencia de la República
 
 Corresponde al Presidente de la República la suprema dirección y la coordinación y control de la actividad de los organismos y entidades administrativos, al tenor del artículo [[art. 189 CPol|189]] de la Constitución Política.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "7"
-epigrafe: "DESCENTRALIZACION ADMINISTRATIVA"
+epigrafe: "Descentralización administrativa"
 capitulo: "[[Ley 489 de 1998 - Capítulo III|CAPÍTULO III - MODALIDADES DE LA ACCION ADMINISTRATIVA]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 6 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo III|Capítulo III]]
 
-## Artículo 7. DESCENTRALIZACION ADMINISTRATIVA
+## Artículo 7. Descentralización administrativa
 
 > [!warning] Aparte tachado INEXEQUIBLE
 

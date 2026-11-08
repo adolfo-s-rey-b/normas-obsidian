@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 410 de 1971"
 sigla: "CCo"
 articulo: "1640"
-epigrafe: "RECIBO DE MERCADERÍAS ANTES DEL EMBARQUE"
+epigrafe: "RECIBO DE MERCADERIAS ANTES DEL EMBARQUE"
 libro: "[[CCo - Libro Quinto|LIBRO QUINTO - DE LA NAVEGACIÓN]]"
 titulo: "[[CCo - Libro Quinto - Título IX|TÍTULO IX - DEL TRANSPORTE MARÍTIMO]]"
 capitulo: "[[CCo - Libro Quinto - Título IX - Capítulo III|CAPÍTULO III - TRANSPORTE DE COSAS POR MAR]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CCo|CCo]] › [[CCo - Libro Quinto|Libro Quinto]] › [[CCo - Libro Quinto - Título IX|Título IX]] › [[CCo - Libro Quinto - Título IX - Capítulo III|Capítulo III]] › [[CCo - Libro Quinto - Título IX - Capítulo III - Sección II|Sección II]]
 
-## Artículo 1640. RECIBO DE MERCADERÍAS ANTES DEL EMBARQUE
+## Artículo 1640. RECIBO DE MERCADERIAS ANTES DEL EMBARQUE
 
 Cuando se haya dado al remitente, antes del embarque, un recibo de las mercaderías, tal recibo será cambiado después del embarque, a solicitud del cargador, por el conocimiento respectivo. El transportador o el capitán podrán negarse a entregar el conocimiento mientras no le sea devuelto el mencionado recibo. Pero si el cargador lo exige, el transportador o el capitán pondrá en dicho recibo la anotación "embarcado", el nombre o nombres de las naves en que las cosas hayan sido cargadas y la fecha del embarque. Si el referido documento reúne todos los requisitos del conocimiento, será considerado como equivalente a éste con la constancia "embarcado".
 

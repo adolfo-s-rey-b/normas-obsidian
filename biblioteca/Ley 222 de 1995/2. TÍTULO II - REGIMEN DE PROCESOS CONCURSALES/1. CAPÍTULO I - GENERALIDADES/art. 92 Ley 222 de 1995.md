@@ -4,10 +4,10 @@ aliases:
 tipo: articulo
 norma: "Ley 222 de 1995"
 articulo: "92"
-epigrafe: "APERTURA DEL TRAMITE"
+epigrafe: "APERTURA DEL TRÁMITE"
 titulo: "[[Ley 222 de 1995 - Título II|TÍTULO II - REGIMEN DE PROCESOS CONCURSALES]]"
 capitulo: "[[Ley 222 de 1995 - Título II - Capítulo I|CAPÍTULO I - GENERALIDADES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 126 Ley 1116 de 2006]]"
 anterior: "[[art. 91 Ley 222 de 1995]]"
@@ -22,12 +22,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título II|Título II]] › [[Ley 222 de 1995 - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 92. APERTURA DEL TRAMITE
+## Artículo 92. APERTURA DEL TRÁMITE
 
 Presentada la solicitud de concordato, la Superintendencia la admitirá dentro de los tres (3) días siguientes.
 

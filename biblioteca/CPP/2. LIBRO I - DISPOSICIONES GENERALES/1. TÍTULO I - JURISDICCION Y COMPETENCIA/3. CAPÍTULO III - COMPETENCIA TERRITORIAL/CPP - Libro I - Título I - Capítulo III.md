@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 42 CPP|Artículo 42]] — DIVISIÓN TERRITORIAL PARA EFECTO DEL JUZGAMIENTO
-- [[art. 43 CPP|Artículo 43]] — COMPETENCIA
-- [[art. 44 CPP|Artículo 44]] — COMPETENCIA EXCEPCIONAL
-- [[art. 45 CPP|Artículo 45]] — DE LA FISCALÍA GENERAL DE LA NACIÓN
+- [[art. 42 CPP|Artículo 42]] — División territorial para efecto del juzgamiento
+- [[art. 43 CPP|Artículo 43]] — Competencia
+- [[art. 44 CPP|Artículo 44]] — Competencia excepcional
+- [[art. 45 CPP|Artículo 45]] — De la Fiscalía General de la Nación
 
 ---
 ← [[CPP - Libro I - Título I - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro I - Título I|Título I]] · [[CPP - Libro I - Título I - Capítulo IV|Capítulo IV]] →

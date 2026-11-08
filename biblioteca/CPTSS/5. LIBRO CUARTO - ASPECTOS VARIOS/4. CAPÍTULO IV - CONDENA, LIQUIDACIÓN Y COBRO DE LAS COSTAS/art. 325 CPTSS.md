@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "325"
-epigrafe: "CONDENA EN COSTAS"
+epigrafe: "Condena en costas"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo IV|CAPÍTULO IV - CONDENA, LIQUIDACIÓN Y COBRO DE LAS COSTAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo IV|Capítulo IV]]
 
-## Artículo 325. CONDENA EN COSTAS
+## Artículo 325. Condena en costas
 
 En los procesos y en las actuaciones posteriores a aquellos en que haya controversia la condena en costas se sujetará a las siguientes reglas:
 

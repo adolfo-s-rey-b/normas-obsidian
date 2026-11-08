@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "18"
-epigrafe: "PRESTACIÓN DE SERVICIOS QUE SUPONEN LA ENTREGA DE UN BIEN"
+epigrafe: "Prestación de servicios que suponen la entrega de un bien"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo II|CAPÍTULO II - PRESTACIÓN DE SERVICIOS QUE SUPONEN LA ENTREGA DE UN BIEN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 18. PRESTACIÓN DE SERVICIOS QUE SUPONEN LA ENTREGA DE UN BIEN
+## Artículo 18. Prestación de servicios que suponen la entrega de un bien
 
 Cuando se exija la entrega de un bien respecto del cual se desarrollará una prestación de servicios, estará sometido a las siguientes reglas:
 

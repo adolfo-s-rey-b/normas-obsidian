@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "309"
-epigrafe: "DONACIONES A DAMNIFICADOS POR LA ACTIVIDAD VOLCANICA DEL NEVADO DEl RUIZ"
+epigrafe: "DONACIONES A DAMNIFICADOS POR LA ACTIVIDAD VOLCÁNICA DEL NEVADO DEL RUIZ"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título III|TÍTULO III - GANANCIAS OCASIONALES]]"
 capitulo: "[[ET - Libro Primero - Título III - Capítulo II|CAPÍTULO II - GANANCIAS OCASIONALES EXENTAS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título III|Título III]] › [[ET - Libro Primero - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 309. DONACIONES A DAMNIFICADOS POR LA ACTIVIDAD VOLCANICA DEL NEVADO DEl RUIZ
+## Artículo 309. DONACIONES A DAMNIFICADOS POR LA ACTIVIDAD VOLCÁNICA DEL NEVADO DEL RUIZ
 
 Las donaciones en favor de personas damnificadas por la actividad volcánica del nevado del Ruiz que hagan el Fondo de Reconstrucción, "RESURGIR', o las entidades que laboran en la rehabilitación de las zonas afectadas por aquélla, estarán exentas del impuesto de ganancia ocasional.
 

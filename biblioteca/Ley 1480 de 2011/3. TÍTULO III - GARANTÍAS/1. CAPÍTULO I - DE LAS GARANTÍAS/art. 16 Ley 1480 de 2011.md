@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "16"
-epigrafe: "EXONERACIÓN DE RESPONSABILIDAD DE LA GARANTÍA"
+epigrafe: "Exoneración de responsabilidad de la garantía"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 16. EXONERACIÓN DE RESPONSABILIDAD DE LA GARANTÍA
+## Artículo 16. Exoneración de responsabilidad de la garantía
 
 El productor o proveedor se exonerará de la responsabilidad que se deriva de la garantía, cuando demuestre que el defecto proviene de:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "391"
-epigrafe: "INTERROGATORIO CRUZADO DEL TESTIGO"
+epigrafe: "Interrogatorio cruzado del testigo"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 391. INTERROGATORIO CRUZADO DEL TESTIGO
+## Artículo 391. Interrogatorio cruzado del testigo
 
 Todo declarante, luego de las formalidades indicadas en el artículo anterior, en primer término será interrogado por la parte que hubiere ofrecido su testimonio como prueba. Este interrogatorio, denominado directo, se limitará a los aspectos principales de la controversia, se referirá a los hechos objeto del juicio o relativos a la credibilidad de otro declarante. No se podrán formular preguntas sugestivas ni se insinuará el sentido de las respuestas.
 

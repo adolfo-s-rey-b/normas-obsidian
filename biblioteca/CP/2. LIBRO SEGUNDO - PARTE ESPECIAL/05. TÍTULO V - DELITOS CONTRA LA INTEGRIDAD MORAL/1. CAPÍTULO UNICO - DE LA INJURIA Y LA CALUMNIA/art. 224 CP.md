@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "224"
-epigrafe: "EXIMENTE DE RESPONSABILIDAD"
+epigrafe: "Eximente de responsabilidad"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título V|TÍTULO V - DELITOS CONTRA LA INTEGRIDAD MORAL]]"
 capitulo: "[[CP - Libro Segundo - Título V - Capítulo Unico|CAPÍTULO UNICO - DE LA INJURIA Y LA CALUMNIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 20 CPol]]"
 anterior: "[[art. 223 CP]]"
@@ -26,18 +26,18 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título V|Título V]] › [[CP - Libro Segundo - Título V - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 224. EXIMENTE DE RESPONSABILIDAD
+## Artículo 224. Eximente de responsabilidad
 
 No será responsable de las conductas descritas en los artículos anteriores quien probare la veracidad de las imputaciones.
 
 Sin embargo, en ningún caso se admitirá prueba:
 
-1.
+1\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "73"
-epigrafe: "SANCIÓN"
+epigrafe: "Sanción"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título I|TÍTULO I - RÉGIMEN DE LOS PARTICULARES]]"
 capitulo: "[[CGD - Libro III - Título I - Capítulo III|CAPÍTULO III - SUJETOS, FALTAS Y SANCIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título I|Título I]] › [[CGD - Libro III - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 73. SANCIÓN
+## Artículo 73. Sanción
 
 Los particulares destinatarios de la ley disciplinaria estarán sometidos a las siguientes sanciones principales:
 

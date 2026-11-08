@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 98 EOSF|Artículo 98]] — REGLAS GENERALES
-- [[art. 99 EOSF|Artículo 99]] — PUBLICIDAD Y PROMOCION COMERCIAL MEDIANTE INCENTIVOS
-- [[art. 100 EOSF|Artículo 100]] — REGIMEN DE PROTECCION A TOMADORES DE SEGUROS Y ASEGURADOS
+- [[art. 98 EOSF|Artículo 98]] — Reglas Generales
+- [[art. 99 EOSF|Artículo 99]] — Publicidad y Promoción Comercial mediante Incentivos
+- [[art. 100 EOSF|Artículo 100]] — Régimen de Protección a Tomadores de Seguros y Asegurados
 
 ---
 ← [[EOSF - Parte III - Capítulo XIII|Capítulo XIII]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XV|Capítulo XV]] →

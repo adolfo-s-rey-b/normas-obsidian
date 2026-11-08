@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "138"
-epigrafe: "EFECTOS DE LA DECLARACIÓN DE FALTA DE JURISDICCIÓN O COMPETENCIA Y DE LA NULIDAD DECLARADA"
+epigrafe: "Efectos de la declaración de falta de jurisdicción o competencia y de la nulidad declarada"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 138. EFECTOS DE LA DECLARACIÓN DE FALTA DE JURISDICCIÓN O COMPETENCIA Y DE LA NULIDAD DECLARADA
+## Artículo 138. Efectos de la declaración de falta de jurisdicción o competencia y de la nulidad declarada
 
 Cuando se declare la falta de jurisdicción, o la falta de competencia por el factor funcional o subjetivo, lo actuado conservará su validez y el proceso se enviará de inmediato al juez competente; pero si se hubiere dictado sentencia, esta se invalidará.
 

@@ -8,7 +8,7 @@ epigrafe: "Competencia especial de los jueces de familia"
 parte: "[[Ley 446 de 1998 - Parte II|PARTE II - DE LA EFICIENCIA EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte II - Título II|TÍTULO II - DE LA EFICIENCIA EN MATERIA DE FAMILIA]]"
 capitulo: "[[Ley 446 de 1998 - Parte II - Título II - Capítulo 1|CAPÍTULO 1 - DE LA COMPETENCIA EN MATERIA DE FAMILIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 25 Ley 446 de 1998]]"
@@ -22,7 +22,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte II|Parte II]] › [[Ley 446 de 1998 - Parte II - Título II|Título II]] › [[Ley 446 de 1998 - Parte II - Título II - Capítulo 1|Capítulo 1]]

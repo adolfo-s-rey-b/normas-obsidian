@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "102"
-epigrafe: "EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A TERCEROS POR PARTE DE LAS AUTORIDADES"
+epigrafe: "Extensión de la jurisprudencia del Consejo de Estado a terceros por parte de las autoridades"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título V|TÍTULO V - EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 17 Ley 2080 de 2021]]"
 derogado_por:
@@ -31,12 +31,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título V|Título V]]
 
-## Artículo 102. EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A TERCEROS POR PARTE DE LAS AUTORIDADES
+## Artículo 102. Extensión de la jurisprudencia del Consejo de Estado a terceros por parte de las autoridades
 
 > [!info] Artículo modificado por el artículo [[art. 17 Ley 2080 de 2021|17]] de la Ley 2080 de 2021. El nuevo texto es el siguiente:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "138"
-epigrafe: "DEBERES"
+epigrafe: "Deberes"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título V|TÍTULO V - DEBERES Y PODERES DE LOS INTERVINIENTES EN EL PROCESO PENAL]]"
 capitulo: "[[CPP - Libro I - Título V - Capítulo I|CAPÍTULO I - DE LOS DEBERES DE LOS SERVIDORES JUDICIALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título V|Título V]] › [[CPP - Libro I - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 138. DEBERES
+## Artículo 138. Deberes
 
 Son deberes comunes de todos los servidores públicos, funcionarios judiciales e intervinientes en el proceso penal, en el ámbito de sus respectivas competencias y atribuciones, los siguientes:
 

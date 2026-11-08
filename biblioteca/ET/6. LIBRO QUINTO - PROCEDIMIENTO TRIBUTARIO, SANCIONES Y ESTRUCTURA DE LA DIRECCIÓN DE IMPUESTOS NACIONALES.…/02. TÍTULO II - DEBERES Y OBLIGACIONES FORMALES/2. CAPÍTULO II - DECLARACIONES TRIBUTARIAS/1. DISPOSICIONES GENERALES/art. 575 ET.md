@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "575"
-epigrafe: "LAS DECLARACIONES DEBEN COINCIDIR CON EL PERIODO FISCAL"
+epigrafe: "LAS DECLARACIONES DEBEN COINCIDIR CON EL PERÍODO FISCAL"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título II|TÍTULO II - DEBERES Y OBLIGACIONES FORMALES]]"
 capitulo: "[[ET - Libro Quinto - Título II - Capítulo II|CAPÍTULO II - DECLARACIONES TRIBUTARIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título II|Título II]] › [[ET - Libro Quinto - Título II - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título II - Capítulo II - Disposiciones generales|Disposiciones generales]]
 
-## Artículo 575. LAS DECLARACIONES DEBEN COINCIDIR CON EL PERIODO FISCAL
+## Artículo 575. LAS DECLARACIONES DEBEN COINCIDIR CON EL PERÍODO FISCAL
 
 Las declaraciones corresponderán al período o ejercicio gravable.
 

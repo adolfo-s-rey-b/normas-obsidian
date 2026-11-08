@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "130"
-epigrafe: "DISPOSICIONES RELATIVAS A LAS CEDULAS HIPOTECARIAS"
+epigrafe: "Disposiciones Relativas a las Cédulas Hipotecarias"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo II|CAPÍTULO II - DISPOSICIONES ESPECIALES RELATIVAS A LAS OPERACIONES DE LOS ESTABLECIMIENTOS]]"
 rubro: "[[EOSF - Parte IV - Capítulo II - Bancarios|BANCARIOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo II|Capítulo II]] › [[EOSF - Parte IV - Capítulo II - Bancarios|Bancarios]]
 
-## Artículo 130. DISPOSICIONES RELATIVAS A LAS CEDULAS HIPOTECARIAS
+## Artículo 130. Disposiciones Relativas a las Cédulas Hipotecarias
 
 1\. Naturaleza de las cédulas. Las cédulas emitidas por los bancos hipotecarios serán únicamente cédulas hipotecarias, con el carácter de documentos de inversión.
 

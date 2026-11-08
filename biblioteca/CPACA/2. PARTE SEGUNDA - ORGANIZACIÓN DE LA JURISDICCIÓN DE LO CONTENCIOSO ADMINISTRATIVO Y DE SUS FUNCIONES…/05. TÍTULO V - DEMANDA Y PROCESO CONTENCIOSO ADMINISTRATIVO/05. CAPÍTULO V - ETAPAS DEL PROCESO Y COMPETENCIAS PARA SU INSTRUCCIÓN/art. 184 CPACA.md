@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "184"
-epigrafe: "PROCESO ESPECIAL PARA LA NULIDAD POR INCONSTITUCIONALIDAD"
+epigrafe: "Proceso especial para la nulidad por inconstitucionalidad"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo V|CAPÍTULO V - ETAPAS DEL PROCESO Y COMPETENCIAS PARA SU INSTRUCCIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo V|Capítulo V]]
 
-## Artículo 184. PROCESO ESPECIAL PARA LA NULIDAD POR INCONSTITUCIONALIDAD
+## Artículo 184. Proceso especial para la nulidad por inconstitucionalidad
 
 La sustanciación y ponencia de los procesos contenciosos de nulidad por inconstitucionalidad corresponderá a uno de los Magistrados de la Sección respectiva, según la materia, y el fallo a la Sala Plena. Se tramitará según las siguientes reglas y procedimiento:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "439"
-epigrafe: "PRUEBA DE REFERENCIA MÚLTIPLE"
+epigrafe: "Prueba de referencia múltiple"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte VI|Parte VI]]
 
-## Artículo 439. PRUEBA DE REFERENCIA MÚLTIPLE
+## Artículo 439. Prueba de referencia múltiple
 
 Cuando una declaración contenga apartes que constituya prueba de referencia admisible y no admisible, deberán suprimirse aquellos no cobijados por las excepciones previstas en los artículos anteriores, salvo que de proceder de esa manera la declaración se torne ininteligible, en cuyo caso se excluirá la declaración en su integridad.
 

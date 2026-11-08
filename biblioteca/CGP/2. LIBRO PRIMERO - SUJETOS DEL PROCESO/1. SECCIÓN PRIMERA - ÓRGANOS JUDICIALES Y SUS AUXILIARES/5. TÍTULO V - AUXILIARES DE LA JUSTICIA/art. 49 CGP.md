@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "49"
-epigrafe: "COMUNICACIÓN DEL NOMBRAMIENTO, ACEPTACIÓN DEL CARGO Y RELEVO DEL AUXILIAR DE LA JUSTICIA"
+epigrafe: "Comunicación del nombramiento, aceptación del cargo y relevo del auxiliar de la justicia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título V|TÍTULO V - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título V|Título V]]
 
-## Artículo 49. COMUNICACIÓN DEL NOMBRAMIENTO, ACEPTACIÓN DEL CARGO Y RELEVO DEL AUXILIAR DE LA JUSTICIA
+## Artículo 49. Comunicación del nombramiento, aceptación del cargo y relevo del auxiliar de la justicia
 
 El nombramiento del auxiliar de la justicia se le comunicará por telegrama enviado a la dirección que figure en la lista oficial, o por otro medio más expedito, o de preferencia a través de mensajes de datos. De ello se dejará constancia en el expediente. En la comunicación se indicará el día y la hora de la diligencia a la cual deba concurrir el auxiliar designado. En la misma forma se hará cualquier otra comunicación.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "285"
-epigrafe: "CRÉDITOS LABORALES EN PROCESOS DE INSOLVENCIA EMPRESARIAL"
+epigrafe: "Créditos laborales en procesos de insolvencia empresarial"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 285. CRÉDITOS LABORALES EN PROCESOS DE INSOLVENCIA EMPRESARIAL
+## Artículo 285. Créditos laborales en procesos de insolvencia empresarial
 
 Cuando el crédito de naturaleza laboral sea reconocido judicialmente al interior del proceso concursal, el promotor o liquidador procurarán la obtención de los recursos necesarios para la cancelación de éstos, pudiendo solicitar autorización al juez del concurso para la venta anticipada de activos, si fuere necesario, siempre que la disposición de dichos recursos no afecte la viabilidad de la continuación del giro del deudor.
 

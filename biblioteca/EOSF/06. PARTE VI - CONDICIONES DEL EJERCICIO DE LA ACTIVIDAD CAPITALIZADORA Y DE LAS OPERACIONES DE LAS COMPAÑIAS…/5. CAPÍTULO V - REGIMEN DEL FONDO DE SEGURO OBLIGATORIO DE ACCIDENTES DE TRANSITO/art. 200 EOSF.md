@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "200"
-epigrafe: "ORGANOS DE DIRECCION Y CONTROL"
+epigrafe: "Órganos de Dirección y Control"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo V|CAPÍTULO V - REGIMEN DEL FONDO DE SEGURO OBLIGATORIO DE ACCIDENTES DE TRANSITO]]"
 vigencia: "derogado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo V|Capítulo V]]
 
-## Artículo 200. ORGANOS DE DIRECCION Y CONTROL
+## Artículo 200. Órganos de Dirección y Control
 
 1\. Junta Asesora del fondo. El Fondo del Seguro Obligatorio de Accidentes de Tránsito "FONSAT", contará con una Junta Asesora, integrada de la siguiente manera:
 

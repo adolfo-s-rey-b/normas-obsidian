@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 1 Ley 489 de 1998|Artículo 1]] — OBJETO
-- [[art. 2 Ley 489 de 1998|Artículo 2]] — AMBITO DE APLICACION
+- [[art. 1 Ley 489 de 1998|Artículo 1]] — Objeto
+- [[art. 2 Ley 489 de 1998|Artículo 2]] — Ámbito de aplicación
 
 ---
 ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo II|Capítulo II]] →

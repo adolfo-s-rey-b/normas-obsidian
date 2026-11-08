@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 390 CGP|Artículo 390]] — ASUNTOS QUE COMPRENDE
-- [[art. 391 CGP|Artículo 391]] — DEMANDA Y CONTESTACIÓN
-- [[art. 392 CGP|Artículo 392]] — TRÁMITE
+- [[art. 390 CGP|Artículo 390]] — Asuntos que comprende
+- [[art. 391 CGP|Artículo 391]] — Demanda y contestación
+- [[art. 392 CGP|Artículo 392]] — Trámite
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] · [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|Capítulo II]] →

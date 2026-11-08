@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "216"
-epigrafe: "ASEGURAMIENTO Y CUSTODIA"
+epigrafe: "Aseguramiento y custodia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 216. ASEGURAMIENTO Y CUSTODIA
+## Artículo 216. Aseguramiento y custodia
 
 Cada elemento material probatorio y evidencia física recogidos en alguna de las inspecciones reguladas en los artículos anteriores, será asegurado, embalado y custodiado para evitar la suplantación o la alteración del mismo. Ello se hará observando las reglas de cadena de custodia.
 

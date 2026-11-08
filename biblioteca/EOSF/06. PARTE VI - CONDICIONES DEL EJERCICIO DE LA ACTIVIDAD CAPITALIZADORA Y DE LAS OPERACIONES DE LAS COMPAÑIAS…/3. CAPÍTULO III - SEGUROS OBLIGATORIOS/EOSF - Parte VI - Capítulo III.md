@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 191 EOSF|Artículo 191]] — CREACION DE SEGUROS OBLIGATORIOS
+- [[art. 191 EOSF|Artículo 191]] — Creación de Seguros Obligatorios
 
 ---
 ← [[EOSF - Parte VI - Capítulo II|Capítulo II]] · ↑ [[EOSF - Parte VI|Parte VI]] · [[EOSF - Parte VI - Capítulo IV|Capítulo IV]] →

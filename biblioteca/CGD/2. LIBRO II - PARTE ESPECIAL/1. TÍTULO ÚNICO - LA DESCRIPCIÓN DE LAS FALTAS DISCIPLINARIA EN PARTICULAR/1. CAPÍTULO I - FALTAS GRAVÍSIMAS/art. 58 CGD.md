@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "58"
-epigrafe: "FALTA RELACIONADA CON LA ACCIÓN DE REPETICIÓN"
+epigrafe: "Falta relacionada con la acción de repetición"
 libro: "[[CGD - Libro II|LIBRO II - PARTE ESPECIAL]]"
 titulo: "[[CGD - Libro II - Título Único|TÍTULO ÚNICO - LA DESCRIPCIÓN DE LAS FALTAS DISCIPLINARIA EN PARTICULAR]]"
 capitulo: "[[CGD - Libro II - Título Único - Capítulo I|CAPÍTULO I - FALTAS GRAVÍSIMAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro II|Libro II]] › [[CGD - Libro II - Título Único|Título Único]] › [[CGD - Libro II - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 58. FALTA RELACIONADA CON LA ACCIÓN DE REPETICIÓN
+## Artículo 58. Falta relacionada con la acción de repetición
 
 No instaurarse en forma oportuna por parte del representante legal de la entidad, en el evento de proceder, la acción de repetición contra el funcionario, exfuncionario o particular en ejercicio de funciones públicas, cuya conducta haya generado conciliación o condena de responsabilidad contra el Estado.
 

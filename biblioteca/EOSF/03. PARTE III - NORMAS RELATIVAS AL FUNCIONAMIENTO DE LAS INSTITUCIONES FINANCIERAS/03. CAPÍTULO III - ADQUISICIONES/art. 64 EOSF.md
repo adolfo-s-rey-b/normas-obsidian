@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "64"
-epigrafe: "AVISO Y OBJECION"
+epigrafe: "Aviso y Objeción"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo III|CAPÍTULO III - ADQUISICIONES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo III|Capítulo III]]
 
-## Artículo 64. AVISO Y OBJECION
+## Artículo 64. Aviso y Objeción
 
 El Superintendente Bancario podrá objetar la adquisición de entidades financieras y aseguradoras a la cual se refiere el numeral 2. del artículo [[art. 63 EOSF|63]] del presente Estatuto, previamente a la iniciación de la misma, por las razones previstas para objetar fusiones. En este caso, será necesario oír el concepto previo del Consejo Asesor, y obtener la aprobación del Ministro de Hacienda y Crédito Público cuando sea pertinente.
 

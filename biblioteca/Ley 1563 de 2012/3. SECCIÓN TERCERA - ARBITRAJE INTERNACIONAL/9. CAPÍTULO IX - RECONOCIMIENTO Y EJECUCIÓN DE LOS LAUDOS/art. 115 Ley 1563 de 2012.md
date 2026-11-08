@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "115"
-epigrafe: "TRÁMITE DEL RECONOCIMIENTO"
+epigrafe: "Trámite del reconocimiento"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|CAPÍTULO IX - RECONOCIMIENTO Y EJECUCIÓN DE LOS LAUDOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo IX|Capítulo IX]]
 
-## Artículo 115. TRÁMITE DEL RECONOCIMIENTO
+## Artículo 115. Trámite del reconocimiento
 
 La parte que pida el reconocimiento presentará la solicitud ante la autoridad judicial competente acompañada de los documentos a que se refiere el artículo [[art. 111 Ley 1563 de 2012|111]].
 

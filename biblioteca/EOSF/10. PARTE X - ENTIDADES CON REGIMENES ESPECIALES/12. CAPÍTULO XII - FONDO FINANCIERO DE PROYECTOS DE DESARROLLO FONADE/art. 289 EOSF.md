@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "289"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XII|CAPÍTULO XII - FONDO FINANCIERO DE PROYECTOS DE DESARROLLO FONADE]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XII|Capítulo XII]]
 
-## Artículo 289. VIGILANCIA Y CONTROL
+## Artículo 289. Vigilancia y Control
 
 La Superintendencia Bancaria ejercerá las funciones de vigilancia y control de acuerdo con las disposiciones legales vigentes sobre la materia.
 

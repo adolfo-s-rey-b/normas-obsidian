@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "32"
-epigrafe: "EXCLUSIÓN DE LA LISTA"
+epigrafe: "Exclusión de la lista"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Cuarto|TÍTULO CUARTO - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Cuarto|Título Cuarto]]
 
-## Artículo 32. EXCLUSIÓN DE LA LISTA
+## Artículo 32. Exclusión de la lista
 
 El Consejo Superior de la Judicatura excluirá de las listas de auxiliares de la justicia:
 

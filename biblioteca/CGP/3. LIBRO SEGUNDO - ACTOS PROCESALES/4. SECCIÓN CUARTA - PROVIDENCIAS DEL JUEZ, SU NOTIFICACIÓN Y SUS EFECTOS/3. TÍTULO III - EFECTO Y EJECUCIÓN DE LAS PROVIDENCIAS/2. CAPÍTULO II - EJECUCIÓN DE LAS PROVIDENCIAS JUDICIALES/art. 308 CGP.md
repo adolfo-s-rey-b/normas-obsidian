@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "308"
-epigrafe: "ENTREGA DE BIENES"
+epigrafe: "Entrega de bienes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título III|TÍTULO III - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] › [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 308. ENTREGA DE BIENES
+## Artículo 308. Entrega de bienes
 
 Para la entrega de bienes se observarán las siguientes reglas:
 

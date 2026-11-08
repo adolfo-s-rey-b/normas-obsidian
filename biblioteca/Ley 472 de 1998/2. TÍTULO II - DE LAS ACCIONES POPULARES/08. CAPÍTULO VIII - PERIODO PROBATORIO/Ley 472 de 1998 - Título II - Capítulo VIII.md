@@ -21,11 +21,11 @@ tags:
 
 ### Contenido
 
-- [[art. 28 Ley 472 de 1998|Artículo 28]] — PRUEBAS
-- [[art. 29 Ley 472 de 1998|Artículo 29]] — CLASES Y MEDIOS DE PRUEBA
-- [[art. 30 Ley 472 de 1998|Artículo 30]] — CARGA DE LA PRUEBA
-- [[art. 31 Ley 472 de 1998|Artículo 31]] — PRUEBAS ANTICIPADAS
-- [[art. 32 Ley 472 de 1998|Artículo 32]] — PRUEBA PERICIAL
+- [[art. 28 Ley 472 de 1998|Artículo 28]] — Pruebas
+- [[art. 29 Ley 472 de 1998|Artículo 29]] — Clases y Medios de Prueba
+- [[art. 30 Ley 472 de 1998|Artículo 30]] — Carga de la Prueba
+- [[art. 31 Ley 472 de 1998|Artículo 31]] — Pruebas Anticipadas
+- [[art. 32 Ley 472 de 1998|Artículo 32]] — Prueba Pericial
 
 ---
 ← [[Ley 472 de 1998 - Título II - Capítulo VII|Capítulo VII]] · ↑ [[Ley 472 de 1998 - Título II|Título II]] · [[Ley 472 de 1998 - Título II - Capítulo IX|Capítulo IX]] →

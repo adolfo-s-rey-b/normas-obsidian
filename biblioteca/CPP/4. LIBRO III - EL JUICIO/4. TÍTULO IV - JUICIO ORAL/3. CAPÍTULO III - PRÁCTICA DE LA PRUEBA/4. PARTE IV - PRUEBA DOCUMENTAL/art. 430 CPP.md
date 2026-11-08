@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "430"
-epigrafe: "DOCUMENTOS ANÓNIMOS"
+epigrafe: "Documentos anónimos"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
 
-## Artículo 430. DOCUMENTOS ANÓNIMOS
+## Artículo 430. Documentos anónimos
 
 Los documentos, cuya autenticación o identificación no sea posible establecer por alguno de los procedimientos previstos en este capítulo, se considerarán anónimos y no podrán admitirse como medio probatorio.
 

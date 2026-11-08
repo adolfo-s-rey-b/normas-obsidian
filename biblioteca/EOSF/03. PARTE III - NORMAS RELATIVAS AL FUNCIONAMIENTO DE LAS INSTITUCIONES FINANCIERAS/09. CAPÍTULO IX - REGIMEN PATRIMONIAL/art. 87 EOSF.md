@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "87"
-epigrafe: "PERIODO DE DIVIDENDOS"
+epigrafe: "Período de Dividendos"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 87. PERIODO DE DIVIDENDOS
+## Artículo 87. Período de Dividendos
 
 Se denomina período de dividendo el tiempo comprendido entre la fecha en que se declaró el último dividendo y la señalada para la declaración del próximo; o el período comprendido entre la fecha en que empiece la existencia de la respectiva entidad y la fecha en que se decrete el primer dividendo.
 

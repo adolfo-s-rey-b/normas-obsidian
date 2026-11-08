@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 38 CGD|Artículo 38]] — DEBERES
+- [[art. 38 CGD|Artículo 38]] — Deberes
 
 ---
 ← [[CGD - Libro I - Título IV - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro I - Título IV|Título IV]] · [[CGD - Libro I - Título IV - Capítulo III|Capítulo III]] →

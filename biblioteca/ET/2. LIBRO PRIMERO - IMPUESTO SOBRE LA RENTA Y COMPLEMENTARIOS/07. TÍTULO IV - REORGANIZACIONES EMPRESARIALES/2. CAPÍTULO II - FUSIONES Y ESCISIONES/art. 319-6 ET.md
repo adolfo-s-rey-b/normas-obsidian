@@ -14,7 +14,7 @@ epigrafe: "EFECTOS EN LAS FUSIONES Y ESCISIONES REORGANIZATIVAS ENTRE ENTIDADES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título IV|TÍTULO IV - REORGANIZACIONES EMPRESARIALES]]"
 capitulo: "[[ET - Libro Primero - Título IV - Capítulo II|CAPÍTULO II - FUSIONES Y ESCISIONES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 98 Ley 1607 de 2012]]"
 derogado_por:
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título IV|Título IV]] › [[ET - Libro Primero - Título IV - Capítulo II|Capítulo II]]

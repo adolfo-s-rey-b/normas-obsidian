@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "245"
-epigrafe: "DIRECCION Y ADMINISTRACION"
+epigrafe: "Dirección y Administración"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo IV|CAPÍTULO IV - BANCO CENTRAL HIPOTECARIO B.C.H]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 189 CPol]]"
   - "[[art. 121 CPol]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo IV|Capítulo IV]]
 
-## Artículo 245. DIRECCION Y ADMINISTRACION
+## Artículo 245. Dirección y Administración
 
 1\. Organos de dirección y administración. La dirección y administración del Banco Central Hipotecario corresponderá a la Asamblea General de Accionistas, la Junta Directiva y el Presidente, quien será su representante legal.
 

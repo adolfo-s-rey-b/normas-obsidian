@@ -8,7 +8,7 @@ epigrafe: "LEVANTAMIENTO DE MEDIDAS CAUTELARES Y CANCELACION DE GRAVAMENES"
 titulo: "[[Ley 222 de 1995 - Título II|TÍTULO II - REGIMEN DE PROCESOS CONCURSALES]]"
 capitulo: "[[Ley 222 de 1995 - Título II - Capítulo III|CAPÍTULO III - DE LA LIQUIDACION OBLIGATORIA]]"
 seccion: "[[Ley 222 de 1995 - Título II - Capítulo III - Sección X|SECCIÓN X - REALIZACION DE ACTIVOS Y PAGO A LOS ACREEDORES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 126 Ley 1116 de 2006]]"
 anterior: "[[art. 195 Ley 222 de 1995]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título II|Título II]] › [[Ley 222 de 1995 - Título II - Capítulo III|Capítulo III]] › [[Ley 222 de 1995 - Título II - Capítulo III - Sección X|Sección X]]

@@ -20,16 +20,16 @@ tags:
 
 ### Contenido
 
-- [[art. 5 Ley 489 de 1998|Artículo 5]] — COMPETENCIA ADMINISTRATIVA
-- [[art. 6 Ley 489 de 1998|Artículo 6]] — PRINCIPIO DE COORDINACION
-- [[art. 7 Ley 489 de 1998|Artículo 7]] — DESCENTRALIZACION ADMINISTRATIVA
-- [[art. 8 Ley 489 de 1998|Artículo 8]] — DESCONCENTRACION ADMINISTRATIVA
-- [[art. 9 Ley 489 de 1998|Artículo 9]] — DELEGACION
-- [[art. 10 Ley 489 de 1998|Artículo 10]] — REQUISITOS DE LA DELEGACION
-- [[art. 11 Ley 489 de 1998|Artículo 11]] — FUNCIONES QUE NO SE PUEDEN DELEGAR
-- [[art. 12 Ley 489 de 1998|Artículo 12]] — REGIMEN DE LOS ACTOS DEL DELEGATARIO
-- [[art. 13 Ley 489 de 1998|Artículo 13]] — DELEGACION DEL EJERCICIO DE FUNCIONES PRESIDENCIALES
-- [[art. 14 Ley 489 de 1998|Artículo 14]] — DELEGACION ENTRE ENTIDADES PUBLICAS
+- [[art. 5 Ley 489 de 1998|Artículo 5]] — Competencia Administrativa
+- [[art. 6 Ley 489 de 1998|Artículo 6]] — Principio de coordinación
+- [[art. 7 Ley 489 de 1998|Artículo 7]] — Descentralización administrativa
+- [[art. 8 Ley 489 de 1998|Artículo 8]] — Desconcentración administrativa
+- [[art. 9 Ley 489 de 1998|Artículo 9]] — Delegación
+- [[art. 10 Ley 489 de 1998|Artículo 10]] — Requisitos de la delegación
+- [[art. 11 Ley 489 de 1998|Artículo 11]] — Funciones que no se pueden delegar
+- [[art. 12 Ley 489 de 1998|Artículo 12]] — Régimen de los actos del delegatario
+- [[art. 13 Ley 489 de 1998|Artículo 13]] — Delegación del ejercicio de funciones presidenciales
+- [[art. 14 Ley 489 de 1998|Artículo 14]] — Delegación entre entidades públicas
 
 ---
 ← [[Ley 489 de 1998 - Capítulo II|Capítulo II]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo IV|Capítulo IV]] →

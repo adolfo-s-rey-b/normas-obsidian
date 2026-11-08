@@ -22,13 +22,13 @@ tags:
 
 ### Contenido
 
-- [[art. 183 EOSF|Artículo 183]] — OPERACIONES AUTORIZADAS
-- [[art. 184 EOSF|Artículo 184]] — REGIMEN DE POLIZAS Y TARIFAS
-- [[art. 185 EOSF|Artículo 185]] — CONDICIONES ESPECIALES APLICABLES AL CONTRATO DE SEGURO
-- [[art. 186 EOSF|Artículo 186]] — REGIMEN DE RESERVAS TECNICAS E INVERSIONES
-- [[art. 187 EOSF|Artículo 187]] — REGIMEN DE INVERSIONES
+- [[art. 183 EOSF|Artículo 183]] — Operaciones Autorizadas
+- [[art. 184 EOSF|Artículo 184]] — Régimen de Pólizas y Tarifas
+- [[art. 185 EOSF|Artículo 185]] — Condiciones Especiales aplicables al Contrato de Seguro
+- [[art. 186 EOSF|Artículo 186]] — Régimen de Reservas Técnicas e Inversiones
+- [[art. 187 EOSF|Artículo 187]] — Régimen de Inversiones
 - [[art. 188 EOSF|Artículo 188]] — Prohibiciones y Limitaciones
-- [[art. 189 EOSF|Artículo 189]] — REVOCACION O SUSPENSION DEL CERTIFICADO DE AUTORIZACION
+- [[art. 189 EOSF|Artículo 189]] — Revocación o Suspensión del Certificado de Autorización
 - [[art. 190 EOSF|Artículo 190]] — Disolución
 
 ---

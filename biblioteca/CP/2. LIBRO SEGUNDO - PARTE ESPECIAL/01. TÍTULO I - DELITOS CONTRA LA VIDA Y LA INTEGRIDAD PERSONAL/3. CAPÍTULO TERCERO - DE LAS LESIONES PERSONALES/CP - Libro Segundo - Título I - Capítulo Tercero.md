@@ -24,18 +24,18 @@ tags:
 ### Contenido
 
 - [[art. 111 CP|Artículo 111]] — Lesiones
-- [[art. 112 CP|Artículo 112]] — INCAPACIDAD PARA TRABAJAR O ENFERMEDAD
+- [[art. 112 CP|Artículo 112]] — Incapacidad para trabajar o enfermedad
 - [[art. 113 CP|Artículo 113]] — Deformidad
-- [[art. 114 CP|Artículo 114]] — PERTURBACIÓN FUNCIONAL
-- [[art. 115 CP|Artículo 115]] — PERTURBACIÓN PSIQUICA
-- [[art. 116 CP|Artículo 116]] — PÉRDIDA ANATOMICA O FUNCIONAL DE UN ORGANO O MIEMBRO
-- [[art. 116A CP|Artículo 116A]] — LESIONES CON AGENTES QUÍMICOS, ÁCIDO Y/O SUSTANCIAS SIMILARES
+- [[art. 114 CP|Artículo 114]] — Perturbación funcional
+- [[art. 115 CP|Artículo 115]] — Perturbación psiquica
+- [[art. 116 CP|Artículo 116]] — Perdida anatomica o funcional de un organo o miembro
+- [[art. 116A CP|Artículo 116A]] — Lesiones con agentes químicos, ácido y/o sustancias similares
 - [[art. 116B CP|Artículo 116B]] — Lesiones con sustancias modelantes no permitidas
 - [[art. 117 CP|Artículo 117]] — Unidad punitiva
-- [[art. 118 CP|Artículo 118]] — PARTO O ABORTO PRETERINTENCIONAL
+- [[art. 118 CP|Artículo 118]] — Parto o aborto preterintencional
 - [[art. 119 CP|Artículo 119]] — Circunstancias de agravación punitiva
-- [[art. 120 CP|Artículo 120]] — LESIONES CULPOSAS
-- [[art. 121 CP|Artículo 121]] — CIRCUNSTANCIAS DE AGRAVACIÓN PUNITIVA POR LESIONES CULPOSAS
+- [[art. 120 CP|Artículo 120]] — Lesiones culposas
+- [[art. 121 CP|Artículo 121]] — Circunstancias de agravación punitiva por lesiones culposas
 
 ---
 ← [[CP - Libro Segundo - Título I - Capítulo Segundo|Capítulo Segundo]] · ↑ [[CP - Libro Segundo - Título I|Título I]] · [[CP - Libro Segundo - Título I - Capítulo Cuarto|Capítulo Cuarto]] →

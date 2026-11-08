@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "27"
-epigrafe: "INAPLICABILIDAD DE LAS EXCEPCIONES"
+epigrafe: "Inaplicabilidad de las excepciones"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 27. INAPLICABILIDAD DE LAS EXCEPCIONES
+## Artículo 27. Inaplicabilidad de las excepciones
 
 El carácter reservado de una información o de determinados documentos, no será oponible a las autoridades judiciales, legislativas, ni a las autoridades administrativas que siendo constitucional o legalmente competentes para ello, los soliciten para el debido ejercicio de sus funciones. Corresponde a dichas autoridades asegurar la reserva de las informaciones y documentos que lleguen a conocer en desarrollo de lo previsto en este artículo.
 

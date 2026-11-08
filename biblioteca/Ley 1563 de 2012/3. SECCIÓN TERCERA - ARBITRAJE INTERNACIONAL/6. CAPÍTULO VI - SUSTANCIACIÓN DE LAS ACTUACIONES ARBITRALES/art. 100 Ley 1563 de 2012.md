@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "100"
-epigrafe: "COLABORACIÓN DE LAS AUTORIDADES JUDICIALES PARA LA PRÁCTICA DE PRUEBAS"
+epigrafe: "Colaboración de las autoridades judiciales para la práctica de pruebas"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 100. COLABORACIÓN DE LAS AUTORIDADES JUDICIALES PARA LA PRÁCTICA DE PRUEBAS
+## Artículo 100. Colaboración de las autoridades judiciales para la práctica de pruebas
 
 Tanto el tribunal arbitral como cualquiera de las partes con la aprobación de aquel, podrán pedir la colaboración de la autoridad judicial de cualquier país para la práctica de pruebas. La autoridad judicial atenderá dicha solicitud dentro del ámbito de su competencia territorial y con arreglo al régimen del respectivo medio probatorio. La autoridad judicial colombiana procederá al efecto de la misma forma que si se tratara de una comisión judicial.
 

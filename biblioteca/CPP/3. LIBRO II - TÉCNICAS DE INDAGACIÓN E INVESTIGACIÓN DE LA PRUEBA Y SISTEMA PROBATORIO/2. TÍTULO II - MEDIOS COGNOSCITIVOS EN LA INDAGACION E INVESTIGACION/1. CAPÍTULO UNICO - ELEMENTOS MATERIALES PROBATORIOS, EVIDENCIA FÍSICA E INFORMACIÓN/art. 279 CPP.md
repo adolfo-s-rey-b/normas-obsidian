@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "279"
-epigrafe: "ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA RECOGIDOS POR AGENTE ENCUBIERTO O POR AGENTE INFILTRADO"
+epigrafe: "Elemento material probatorio y evidencia física recogidos por agente encubierto o por agente infiltrado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título II|TÍTULO II - MEDIOS COGNOSCITIVOS EN LA INDAGACION E INVESTIGACION]]"
 capitulo: "[[CPP - Libro II - Título II - Capítulo Unico|CAPÍTULO UNICO - ELEMENTOS MATERIALES PROBATORIOS, EVIDENCIA FÍSICA E INFORMACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título II|Título II]] › [[CPP - Libro II - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 279. ELEMENTO MATERIAL PROBATORIO Y EVIDENCIA FÍSICA RECOGIDOS POR AGENTE ENCUBIERTO O POR AGENTE INFILTRADO
+## Artículo 279. Elemento material probatorio y evidencia física recogidos por agente encubierto o por agente infiltrado
 
 El elemento material probatorio y evidencia física, recogidos por agente encubierto o agente infiltrado, en desarrollo de operación legalmente programada, sólo podrá ser utilizado como fuente de actividad investigativa. Pero establecida su autenticidad y sometido a cadena de custodia, tiene el valor de cualquier otro elemento material probatorio y evidencia física.
 

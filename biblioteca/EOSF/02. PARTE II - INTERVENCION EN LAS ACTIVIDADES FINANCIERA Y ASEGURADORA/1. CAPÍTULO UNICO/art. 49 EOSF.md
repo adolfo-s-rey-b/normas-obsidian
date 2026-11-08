@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "49"
-epigrafe: "DEMOCRATIZACION DEL CREDITO"
+epigrafe: "Democratización del Crédito"
 parte: "[[EOSF - Parte II|PARTE II - INTERVENCION EN LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 capitulo: "[[EOSF - Parte II - Capítulo Unico|CAPÍTULO UNICO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte II|Parte II]] › [[EOSF - Parte II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 49. DEMOCRATIZACION DEL CREDITO
+## Artículo 49. Democratización del Crédito
 
 El Gobierno Nacional intervendrá para promover la democratización del crédito. Para este efecto fijará a las entidades objeto de intervención límites máximos de crédito o de concentración de riesgo para cada persona natural o jurídica, en forma directa o indirecta, y las reglas para su cálculo.
 

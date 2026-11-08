@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 114 EOSF|Artículo 114]] — CAUSALES
-- [[art. 115 EOSF|Artículo 115]] — PROCEDENCIA DE LA MEDIDA
-- [[art. 116 EOSF|Artículo 116]] — TOMA DE POSESION PARA LIQUIDAR
+- [[art. 114 EOSF|Artículo 114]] — Causales
+- [[art. 115 EOSF|Artículo 115]] — Procedencia de la Medida
+- [[art. 116 EOSF|Artículo 116]] — Toma de Posesión para Liquidar
 - [[art. 117 EOSF|Artículo 117]] — LIQUIDACIÓN COMO CONSECUENCIA DE LA TOMA DE POSESIÓN
 
 ---

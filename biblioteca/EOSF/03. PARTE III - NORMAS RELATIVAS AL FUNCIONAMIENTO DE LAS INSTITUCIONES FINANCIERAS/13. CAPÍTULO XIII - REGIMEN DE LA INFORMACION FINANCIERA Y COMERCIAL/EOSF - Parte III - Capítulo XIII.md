@@ -22,9 +22,9 @@ tags:
 
 ### Contenido
 
-- [[art. 95 EOSF|Artículo 95]] — CONTABILIDAD
-- [[art. 96 EOSF|Artículo 96]] — CONSERVACION DE ARCHIVOS Y DOCUMENTOS
-- [[art. 97 EOSF|Artículo 97]] — INFORMACION
+- [[art. 95 EOSF|Artículo 95]] — Contabilidad
+- [[art. 96 EOSF|Artículo 96]] — Conservación de Archivos y Documentos
+- [[art. 97 EOSF|Artículo 97]] — Información
 
 ---
 ← [[EOSF - Parte III - Capítulo XII|Capítulo XII]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XIV|Capítulo XIV]] →

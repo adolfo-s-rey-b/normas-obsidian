@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "31"
-epigrafe: "VALOR DE LOS INGRESOS EN ACCIONES Y OTROS TITULOS"
+epigrafe: "VALOR DE LOS INGRESOS EN ACCIONES Y OTROS TÍTULOS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 31. VALOR DE LOS INGRESOS EN ACCIONES Y OTROS TITULOS
+## Artículo 31. VALOR DE LOS INGRESOS EN ACCIONES Y OTROS TÍTULOS
 
 Siempre que la distribución de dividendos o utilidades se haga en acciones y otros títulos, el valor de los dividendos o utilidades realizados se establece de acuerdo con el valor patrimonial de los mismos.
 

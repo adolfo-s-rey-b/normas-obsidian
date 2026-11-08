@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "754"
-epigrafe: "DATOS ESTADISTICOS QUE CONSTITUYEN INDICIO"
+epigrafe: "DATOS ESTADÍSTICOS QUE CONSTITUYEN INDICIO"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Indicios y presunciones|Indicios y presunciones]]
 
-## Artículo 754. DATOS ESTADISTICOS QUE CONSTITUYEN INDICIO
+## Artículo 754. DATOS ESTADÍSTICOS QUE CONSTITUYEN INDICIO
 
 Los datos estadísticos producidos por la Dirección General de Impuestos Nacionales, por el Departamento Administrativo Nacional de Estadística y por el Banco de la República, constituyen indicio grave en caso de ausencia absoluta de pruebas directas, para establecer el valor de ingresos, costos, deducciones y activos patrimoniales, cuya existencia haya sido probada.
 

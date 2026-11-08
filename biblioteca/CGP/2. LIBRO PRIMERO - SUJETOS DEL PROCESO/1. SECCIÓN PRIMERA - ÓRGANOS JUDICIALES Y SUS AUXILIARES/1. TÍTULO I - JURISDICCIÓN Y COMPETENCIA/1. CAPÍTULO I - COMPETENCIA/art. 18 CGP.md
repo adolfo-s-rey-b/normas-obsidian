@@ -8,12 +8,12 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "18"
-epigrafe: "COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN PRIMERA INSTANCIA"
+epigrafe: "Competencia de los jueces civiles municipales en primera instancia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
 capitulo: "[[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|CAPÍTULO I - COMPETENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 1 Decreto 1736 de 2012]]"
 derogado_por:
@@ -30,12 +30,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 18. COMPETENCIA DE LOS JUECES CIVILES MUNICIPALES EN PRIMERA INSTANCIA
+## Artículo 18. Competencia de los jueces civiles municipales en primera instancia
 
 Los jueces civiles municipales conocen en primera instancia:
 

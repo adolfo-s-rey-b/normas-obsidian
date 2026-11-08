@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "43"
-epigrafe: "SISTEMAS ADMINISTRATIVOS"
+epigrafe: "Sistemas Administrativos"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 42 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 43. SISTEMAS ADMINISTRATIVOS
+## Artículo 43. Sistemas Administrativos
 
 El Gobierno Nacional podrá organizar sistemas administrativos nacionales con el fin de coordinar las actividades estatales y de los particulares. Para tal efecto preverá los órganos o entidades a los cuales corresponde desarrollar las actividades de dirección, programación, ejecución y evaluación.
 

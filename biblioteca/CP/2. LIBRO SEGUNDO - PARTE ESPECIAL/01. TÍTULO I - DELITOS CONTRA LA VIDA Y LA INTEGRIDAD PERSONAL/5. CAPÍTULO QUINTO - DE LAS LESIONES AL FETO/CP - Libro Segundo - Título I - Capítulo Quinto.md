@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 125 CP|Artículo 125]] — LESIONES AL FETO
-- [[art. 126 CP|Artículo 126]] — LESIONES CULPOSAS AL FETO
+- [[art. 125 CP|Artículo 125]] — Lesiones al feto
+- [[art. 126 CP|Artículo 126]] — Lesiones culposas al feto
 
 ---
 ← [[CP - Libro Segundo - Título I - Capítulo Cuarto|Capítulo Cuarto]] · ↑ [[CP - Libro Segundo - Título I|Título I]] · [[CP - Libro Segundo - Título I - Capítulo Sexto|Capítulo Sexto]] →

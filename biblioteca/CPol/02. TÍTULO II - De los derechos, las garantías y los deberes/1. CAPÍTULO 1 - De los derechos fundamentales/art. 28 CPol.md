@@ -13,11 +13,10 @@ sigla: "CPol"
 articulo: "28"
 titulo: "[[CPol - Título II|TÍTULO II - De los derechos, las garantías y los deberes]]"
 capitulo: "[[CPol - Título II - Capítulo 1|CAPÍTULO 1 - De los derechos fundamentales]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 3 Acto Legislativo 2 de 2003]]"
   - "[[art. 5 Acto Legislativo 2 de 2003]]"
-  - "[[art. 250 CPol]]"
 anterior: "[[art. 27 CPol]]"
 siguiente: "[[art. 29 CPol]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
@@ -30,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título II|Título II]] › [[CPol - Título II - Capítulo 1|Capítulo 1]]
@@ -43,7 +42,7 @@ La persona detenida preventivamente será puesta a disposición del juez compete
 
 En ningún caso podrá haber detención, prisión ni arresto por deudas, ni penas y medidas de seguridad imprescriptibles.
 
-> [!warning] Notas de Vigencia: Artículo modificado por el artículo [[art. 3 Acto Legislativo 2 de 2003|3]] del Acto Legislativo 2 de 2003, publicado en el Diario Oficial No. 45.406, de 19 de diciembre de 2003. INEXEQUIBLE El artículo [[art. 5 Acto Legislativo 2 de 2003|5]] establece: 'VIGENCIA. ... Las facultades especiales a las cuales se refieren los artículos 1 o., 2 o. y 3 o. se ejercerán con estricta observancia de lo dispuesto en ellos y de acuerdo con la ley estatutaria que a iniciativa del Gobierno Nacional expedirá el Congreso de la República antes del 20 de junio del año 2004. 'El Gobierno presentará el proyecto a más tardar el 1o. de marzo del mismo año, con mensaje de urgencia e insistencia. 'Los términos para todo el trámite de control previo de constitucionalidad que hará la Corte Constitucional se reducen a la mitad, en este caso. 'En caso de que esta ley Estatutaria no entrara en vigencia en los nueve (9) meses siguientes a la promulgación de este acto legislativo, el Gobierno Nacional podrá expedir un reglamento que regule en forma transitoria la materia. 'Las funciones a que se refieren el inciso 4o. del artículo 15 , el inciso 4o. del artículo 28 y el parágrafo 2o. del artículo [[art. 250 CPol|250]] que se introducen por el presente acto legislativo se conferirán por el término de cuatro (4) años prorrogables por la mayoría absoluta del Congreso de la República. 'Los actos terroristas a que se refiere este Proyecto serán los definidos como tales por la legislación penal vigente.'
+> [!warning] Notas de Vigencia: Artículo modificado por el artículo [[art. 3 Acto Legislativo 2 de 2003|3]] del Acto Legislativo 2 de 2003, publicado en el Diario Oficial No. 45.406, de 19 de diciembre de 2003. INEXEQUIBLE El artículo [[art. 5 Acto Legislativo 2 de 2003|5]] establece: 'VIGENCIA. ... Las facultades especiales a las cuales se refieren los artículos 1 o., 2 o. y 3 o. se ejercerán con estricta observancia de lo dispuesto en ellos y de acuerdo con la ley estatutaria que a iniciativa del Gobierno Nacional expedirá el Congreso de la República antes del 20 de junio del año 2004. 'El Gobierno presentará el proyecto a más tardar el 1o. de marzo del mismo año, con mensaje de urgencia e insistencia. 'Los términos para todo el trámite de control previo de constitucionalidad que hará la Corte Constitucional se reducen a la mitad, en este caso. 'En caso de que esta ley Estatutaria no entrara en vigencia en los nueve (9) meses siguientes a la promulgación de este acto legislativo, el Gobierno Nacional podrá expedir un reglamento que regule en forma transitoria la materia. 'Las funciones a que se refieren el inciso 4o. del artículo 15 , el inciso 4o. del artículo 28 y el parágrafo 2o. del artículo 250 que se introducen por el presente acto legislativo se conferirán por el término de cuatro (4) años prorrogables por la mayoría absoluta del Congreso de la República. 'Los actos terroristas a que se refiere este Proyecto serán los definidos como tales por la legislación penal vigente.'
 
 > [!warning] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-816-04, mediante Sentencia C-818-04 de 30 de agosto de 2004, Magistrado Ponente Dr. Rodrigo Escobar Gil. - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-816-04, mediante Sentencia C-817-04 de 30 de agosto de 2004, Magistrado Ponente Dr. Jaime Córdoba Triviño. - Acto Legislativo 2 de 2003 declarado INEXEQUIBLE por la Corte Constitucional mediante Sentencia C-816-04 de 30 de agosto de 2004, Magistrado Ponente Dr. Jaime Córdoba Triviño y Rodrigo Uprimny Yepes.
 

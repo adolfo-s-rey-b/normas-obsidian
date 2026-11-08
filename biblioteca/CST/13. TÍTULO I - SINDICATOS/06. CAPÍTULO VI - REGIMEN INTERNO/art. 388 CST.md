@@ -11,7 +11,7 @@ articulo: "388"
 epigrafe: "CONDICIONES PARA LOS MIEMBROS DE LA JUNTA DIRECTIVA"
 titulo: "[[CST - Título I (2)|TÍTULO I - SINDICATOS]]"
 capitulo: "[[CST - Título I - Capítulo VI (2)|CAPÍTULO VI - REGIMEN INTERNO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 10 Ley 584 de 2000]]"
   - "[[art. 405 CST]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I (2)|Título I]] › [[CST - Título I - Capítulo VI (2)|Capítulo VI]]

@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 283 ET|Artículo 283]] — DEUDAS
-- [[art. 284 ET|Artículo 284]] — PASIVOS DE COMPAÑIAS DE SEGUROS
+- [[art. 283 ET|Artículo 283]] — Deudas
+- [[art. 284 ET|Artículo 284]] — PASIVOS DE COMPAÑÍAS DE SEGUROS
 - [[art. 285 ET|Artículo 285]] — PASIVOS EN MONEDA EXTRANJERA
 - [[art. 286 ET|Artículo 286]] — NO SON DEUDAS
 - [[art. 287 ET|Artículo 287]] — VALOR PATRIMONIAL DE LAS DEUDAS

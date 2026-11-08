@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "205"
-epigrafe: "SEGURO DE CREDITO A LA EXPORTACION"
+epigrafe: "Seguro de Crédito a la Exportación"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo VI|CAPÍTULO VI - SEGUROS ESPECIALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 205. SEGURO DE CREDITO A LA EXPORTACION
+## Artículo 205. Seguro de Crédito a la Exportación
 
 1\. Organización y amparos. El Gobierno Nacional establecerá un sistema de seguro a la exportación, destinado a cubrir los riesgos comerciales, políticos y extraordinarios inherentes a esta clase de operaciones.
 

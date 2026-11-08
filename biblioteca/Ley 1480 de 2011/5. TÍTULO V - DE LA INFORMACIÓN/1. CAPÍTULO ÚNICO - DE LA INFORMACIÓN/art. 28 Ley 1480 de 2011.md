@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "28"
-epigrafe: "DERECHO A LA INFORMACIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES"
+epigrafe: "Derecho a la información de los niños, niñas y adolescentes"
 titulo: "[[Ley 1480 de 2011 - Título V|TÍTULO V - DE LA INFORMACIÓN]]"
 capitulo: "[[Ley 1480 de 2011 - Título V - Capítulo Único|CAPÍTULO ÚNICO - DE LA INFORMACIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título V|Título V]] › [[Ley 1480 de 2011 - Título V - Capítulo Único|Capítulo Único]]
 
-## Artículo 28. DERECHO A LA INFORMACIÓN DE LOS NIÑOS, NIÑAS Y ADOLESCENTES
+## Artículo 28. Derecho a la información de los niños, niñas y adolescentes
 
 El Gobierno Nacional reglamentará, en el término de un año a partir de la entrada en vigencia de la presente ley, los casos, el contenido y la forma en que deba ser presentada la información que se suministre a los niños, niñas y adolescentes en su calidad de consumidores, en desarrollo del derecho de información consagrado en el artículo [[art. 34 Ley 1098 de 2006|34]] de la Ley 1098 de 2006.
 

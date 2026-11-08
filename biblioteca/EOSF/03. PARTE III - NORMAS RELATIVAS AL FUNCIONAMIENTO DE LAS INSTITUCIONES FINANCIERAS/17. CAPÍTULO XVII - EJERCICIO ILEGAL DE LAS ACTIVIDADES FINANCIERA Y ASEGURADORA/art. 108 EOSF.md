@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "108"
-epigrafe: "PRINCIPIOS GENERALES"
+epigrafe: "Principios Generales"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XVII|CAPÍTULO XVII - EJERCICIO ILEGAL DE LAS ACTIVIDADES FINANCIERA Y ASEGURADORA]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XVII|Capítulo XVII]]
 
-## Artículo 108. PRINCIPIOS GENERALES
+## Artículo 108. Principios Generales
 
 1\. Medidas cautelares. Corresponde a la Superintendencia Bancaria imponer una o varias de las siguientes medidas cautelares a las personas naturales o jurídicas que realicen actividades exclusivas de las instituciones vigiladas sin contar con la debida autorización:
 

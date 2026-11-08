@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "118"
-epigrafe: "INTEGRACIÓN Y DESIGNACIÓN"
+epigrafe: "Integración y designación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo II|CAPÍTULO II - DEFENSA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 118. INTEGRACIÓN Y DESIGNACIÓN
+## Artículo 118. Integración y designación
 
 La defensa estará a cargo del abogado principal que libremente designe el imputado o, en su defecto, por el que le sea asignado por el Sistema Nacional de Defensoría Pública.
 

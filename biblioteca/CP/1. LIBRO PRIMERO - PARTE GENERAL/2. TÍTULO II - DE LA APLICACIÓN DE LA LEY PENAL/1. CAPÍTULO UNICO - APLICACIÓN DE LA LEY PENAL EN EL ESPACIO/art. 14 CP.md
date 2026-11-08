@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "14"
-epigrafe: "TERRITORIALIDAD"
+epigrafe: "Territorialidad"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título II|TÍTULO II - DE LA APLICACIÓN DE LA LEY PENAL]]"
 capitulo: "[[CP - Libro Primero - Título II - Capítulo Unico|CAPÍTULO UNICO - APLICACIÓN DE LA LEY PENAL EN EL ESPACIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título II|Título II]] › [[CP - Libro Primero - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 14. TERRITORIALIDAD
+## Artículo 14. Territorialidad
 
 La ley penal colombiana se aplicará a toda persona que la infrinja en el territorio nacional, salvo las excepciones consagradas en el derecho internacional.
 

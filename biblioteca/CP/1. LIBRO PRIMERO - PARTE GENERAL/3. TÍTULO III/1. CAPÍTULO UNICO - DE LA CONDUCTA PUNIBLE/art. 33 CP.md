@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "33"
-epigrafe: "INIMPUTABILIDAD"
+epigrafe: "Inimputabilidad"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título III|TÍTULO III]]"
 capitulo: "[[CP - Libro Primero - Título III - Capítulo Unico|CAPÍTULO UNICO - DE LA CONDUCTA PUNIBLE]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título III|Título III]] › [[CP - Libro Primero - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 33. INIMPUTABILIDAD
+## Artículo 33. Inimputabilidad
 
 Es inimputable quien en el momento de ejecutar la conducta típica y antijurídica no tuviera la capacidad de comprender su ilicitud o de determinarse de acuerdo con esa comprensión, por inmadurez sicológica, trastorno mental, diversidad sociocultural o estados similares.
 

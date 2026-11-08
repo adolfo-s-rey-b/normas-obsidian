@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "51"
-epigrafe: "REVERSIÓN DEL PAGO"
+epigrafe: "Reversión del pago"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo VI|CAPÍTULO VI - PROTECCIÓN AL CONSUMIDOR DE COMERCIO ELECTRÓNICO]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo VI|Capítulo VI]]
 
-## Artículo 51. REVERSIÓN DEL PAGO
+## Artículo 51. Reversión del pago
 
 Cuando las ventas de bienes se realicen mediante mecanismos de comercio electrónico, tales como Internet, PSE y/o call center y/o cualquier otro mecanismo de televenta o tienda virtual, y se haya utilizado para realizar el pago una tarjeta de crédito, débito o cualquier otro instrumento de pago electrónico, los participantes del proceso de pago deberán reversar los pagos que solicite el consumidor cuando sea objeto de fraude, o corresponda a una operación no solicitada, o el producto adquirido no sea recibido, o el producto entregado no corresponda a lo solicitado o sea defectuoso.
 

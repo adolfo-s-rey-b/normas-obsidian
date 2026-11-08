@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "187"
-epigrafe: "NATURALEZA DE LA QUEJA Y DEL INFORME"
+epigrafe: "Naturaleza de la queja y del informe"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo V|CAPÍTULO V - DOCUMENTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo V|Capítulo V]]
 
-## Artículo 187. NATURALEZA DE LA QUEJA Y DEL INFORME
+## Artículo 187. Naturaleza de la queja y del informe
 
 Ni la queja ni el informe ni otros medios que contengan la noticia disciplinaria constituyen por sí mismos prueba de los hechos o de la responsabilidad. Con todo, con ellos se podrá encauzar la actividad probatoria.
 

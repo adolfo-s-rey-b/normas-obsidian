@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "106"
-epigrafe: "NOTIFICACIONES"
+epigrafe: "Notificaciones"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|SUBSECCIÓN II - MODIFICACIONES A LA REGULACIÓN DEL PROCEDIMIENTO ORDINARIO DE RESPONSABILIDAD FISCAL]]"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|Subsección II]]
 
-## Artículo 106. NOTIFICACIONES
+## Artículo 106. Notificaciones
 
 En los procesos de responsabilidad fiscal que se tramiten en su integridad por lo dispuesto en la Ley 610 de 2000 únicamente deberán notificarse personalmente las siguientes providencias: el auto de apertura del proceso de responsabilidad fiscal, el auto de imputación de responsabilidad fiscal y el fallo de primera o única instancia; para estas providencias se aplicará el sistema de notificación personal y por aviso previsto para las actuaciones administrativas en la Ley 1437 de 2011. Las demás decisiones que se profieran dentro del proceso serán notificadas por estado.
 

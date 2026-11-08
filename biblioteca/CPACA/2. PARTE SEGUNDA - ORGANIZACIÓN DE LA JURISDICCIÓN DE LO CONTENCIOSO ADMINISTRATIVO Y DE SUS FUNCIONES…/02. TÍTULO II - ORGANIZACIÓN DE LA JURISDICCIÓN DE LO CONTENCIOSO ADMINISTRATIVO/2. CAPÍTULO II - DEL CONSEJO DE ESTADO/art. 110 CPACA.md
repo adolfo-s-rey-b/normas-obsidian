@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "110"
-epigrafe: "INTEGRACIÓN DE LA SALA DE LO CONTENCIOSO ADMINISTRATIVO"
+epigrafe: "Integración de la Sala de lo Contencioso Administrativo"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo II|CAPÍTULO II - DEL CONSEJO DE ESTADO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 110. INTEGRACIÓN DE LA SALA DE LO CONTENCIOSO ADMINISTRATIVO
+## Artículo 110. Integración de la Sala de lo Contencioso Administrativo
 
 La Sala de lo Contencioso Administrativo se dividirá en cinco (5) secciones, cada una de las cuales ejercerá separadamente las funciones que de conformidad con su especialidad y cantidad de trabajo le asigne la Sala Plena del Consejo de Estado, de acuerdo con la ley y el reglamento interno de la Corporación y estarán integradas de la siguiente manera:
 

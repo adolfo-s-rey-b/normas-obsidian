@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "248"
-epigrafe: "INVERSIONES Y ENCAJE"
+epigrafe: "Inversiones y Encaje"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo IV|CAPÍTULO IV - BANCO CENTRAL HIPOTECARIO B.C.H]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo IV|Capítulo IV]]
 
-## Artículo 248. INVERSIONES Y ENCAJE
+## Artículo 248. Inversiones y Encaje
 
 1\. Inversiones en el IFI. El Banco Central Hipotecario (BCH) podrá suscribir hasta $1.000.000.oo en acciones del Instituto de Fomento Industrial.
 

@@ -8,7 +8,7 @@ epigrafe: "Posesorios especiales y acciones populares"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 5|CAPÍTULO 5 - DISPOSICION ESPECIAL]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 14 Ley 446 de 1998]]"
@@ -22,7 +22,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 5|Capítulo 5]]

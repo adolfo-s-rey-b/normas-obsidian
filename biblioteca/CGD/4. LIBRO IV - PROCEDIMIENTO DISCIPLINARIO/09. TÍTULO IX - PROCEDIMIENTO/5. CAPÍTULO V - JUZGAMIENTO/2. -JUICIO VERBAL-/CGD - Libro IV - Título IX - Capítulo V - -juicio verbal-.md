@@ -24,15 +24,15 @@ tags:
 
 ### Contenido
 
-- [[art. 225H CGD|Artículo 225H]] — CITACIÓN A AUDIENCIA DE PRUEBAS Y DESCARGOS
-- [[art. 226 CGD|Artículo 226]] — FORMALIDADES
-- [[art. 227 CGD|Artículo 227]] — INSTALACIÓN DE LA AUDIENCIA
-- [[art. 228 CGD|Artículo 228]] — RENUENCIA
-- [[art. 229 CGD|Artículo 229]] — VARIACIÓN DE LOS CARGOS
-- [[art. 230 CGD|Artículo 230]] — TRASLADO PARA ALEGATOS PREVIOS AL FALLO
-- [[art. 231 CGD|Artículo 231]] — CONTENIDO DEL FALLO
-- [[art. 232 CGD|Artículo 232]] — EJECUTORIA DE LA DECISIÓN
-- [[art. 233 CGD|Artículo 233]] — RECURSO CONTRA EL FALLO DE PRIMERA INSTANCIA
+- [[art. 225H CGD|Artículo 225H]] — Citación a audiencia de pruebas y descargos
+- [[art. 226 CGD|Artículo 226]] — Formalidades
+- [[art. 227 CGD|Artículo 227]] — Instalación de la audiencia
+- [[art. 228 CGD|Artículo 228]] — Renuencia
+- [[art. 229 CGD|Artículo 229]] — Variación de los cargos
+- [[art. 230 CGD|Artículo 230]] — Traslado para alegatos previos al fallo
+- [[art. 231 CGD|Artículo 231]] — Contenido del fallo
+- [[art. 232 CGD|Artículo 232]] — Ejecutoria de la decisión
+- [[art. 233 CGD|Artículo 233]] — Recurso contra el fallo de primera instancia
 
 ---
 ← [[CGD - Libro IV - Título IX - Capítulo V - -juicio ordinario-|-juicio ordinario-]] · ↑ [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]]

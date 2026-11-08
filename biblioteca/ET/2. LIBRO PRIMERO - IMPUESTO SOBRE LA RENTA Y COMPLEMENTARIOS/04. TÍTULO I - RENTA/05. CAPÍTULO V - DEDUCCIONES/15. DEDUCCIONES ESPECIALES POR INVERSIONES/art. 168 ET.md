@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "168"
-epigrafe: "QUIENES TIENEN DERECHO A LA DEDUCCIÓN"
+epigrafe: "QUIÉNES TIENEN DERECHO A LA DEDUCCIÓN"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Deducciones especiales por inversiones|Deducciones especiales por inversiones]]
 
-## Artículo 168. QUIENES TIENEN DERECHO A LA DEDUCCIÓN
+## Artículo 168. QUIÉNES TIENEN DERECHO A LA DEDUCCIÓN
 
 El arrendamiento, la concesión, el aporte o el permiso para la explotación de minas, de gases distintos de los hidrocarburos, y de depósitos naturales, se estimarán, para los efectos del agotamiento, como un contrato especial en que tanto el arrendador u otorgante de la concesión, permiso, aporte, según el caso, como el arrendatario o concesionario o beneficiario del permiso o del aporte, conservan o retienen un interés económico en la propiedad agotable; interés que es la fuente de su respectiva renta. En consecuencia, la deducción por agotamiento se concederá tanto al arrendador o propietario como al arrendatario o concesionario o beneficiario mencionado, sobre la base de sus respectivos costos, determinados conforme a las reglas establecidas en el artículo siguiente.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "427"
-epigrafe: "EJECUCIÓN POR OBLIGACIÓN DE NO HACER Y POR OBLIGACIÓN CONDICIONAL"
+epigrafe: "Ejecución por obligación de no hacer y por obligación condicional"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 427. EJECUCIÓN POR OBLIGACIÓN DE NO HACER Y POR OBLIGACIÓN CONDICIONAL
+## Artículo 427. Ejecución por obligación de no hacer y por obligación condicional
 
 Cuando se pida ejecución por perjuicios derivados del incumplimiento de una obligación de no hacer, o la destrucción de lo hecho, a la demanda deberá acompañarse el documento privado que provenga del deudor, el documento público, la inspección o la confesión judicial extraprocesal, o la sentencia que pruebe la contravención.
 

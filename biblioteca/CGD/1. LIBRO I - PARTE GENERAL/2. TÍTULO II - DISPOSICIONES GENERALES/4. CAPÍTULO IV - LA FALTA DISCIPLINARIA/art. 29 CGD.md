@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "29"
-epigrafe: "CULPA"
+epigrafe: "Culpa"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título II|TÍTULO II - DISPOSICIONES GENERALES]]"
 capitulo: "[[CGD - Libro I - Título II - Capítulo IV|CAPÍTULO IV - LA FALTA DISCIPLINARIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título II|Título II]] › [[CGD - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 29. CULPA
+## Artículo 29. Culpa
 
 La conducta es culposa cuando el sujeto disciplinable incurre en los hechos constitutivos de falta disciplinaria, por la infracción al deber objetivo de cuidado funcionalmente exigible y debió haberla previsto por ser previsible o habiéndola previsto confió en poder evitarla.
 

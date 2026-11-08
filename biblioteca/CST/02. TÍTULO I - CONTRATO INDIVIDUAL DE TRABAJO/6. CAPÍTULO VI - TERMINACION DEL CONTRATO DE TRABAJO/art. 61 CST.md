@@ -11,7 +11,7 @@ articulo: "61"
 epigrafe: "TERMINACION DEL CONTRATO"
 titulo: "[[CST - Título I|TÍTULO I - CONTRATO INDIVIDUAL DE TRABAJO]]"
 capitulo: "[[CST - Título I - Capítulo VI|CAPÍTULO VI - TERMINACION DEL CONTRATO DE TRABAJO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 5 Ley 50 de 1990]]"
   - "[[art. 62 CST]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título I|Título I]] › [[CST - Título I - Capítulo VI|Capítulo VI]]

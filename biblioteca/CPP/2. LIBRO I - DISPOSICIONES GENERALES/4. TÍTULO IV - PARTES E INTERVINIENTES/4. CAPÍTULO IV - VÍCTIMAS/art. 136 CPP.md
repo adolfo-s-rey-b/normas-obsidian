@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "136"
-epigrafe: "DERECHO A RECIBIR INFORMACIÓN"
+epigrafe: "Derecho a recibir información"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - VÍCTIMAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 136. DERECHO A RECIBIR INFORMACIÓN
+## Artículo 136. Derecho a recibir información
 
 A quien demuestre sumariamente su calidad de víctima, la policía judicial y la Fiscalía General de la Nación le suministrarán información sobre:
 

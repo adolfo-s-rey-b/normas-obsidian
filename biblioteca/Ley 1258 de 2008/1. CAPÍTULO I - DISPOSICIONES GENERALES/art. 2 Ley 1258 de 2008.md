@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "2"
-epigrafe: "PERSONALIDAD JURÍDICA"
+epigrafe: "Personalidad jurídica"
 capitulo: "[[Ley 1258 de 2008 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 1 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo I|Capítulo I]]
 
-## Artículo 2. PERSONALIDAD JURÍDICA
+## Artículo 2. Personalidad jurídica
 
 La sociedad por acciones simplificada, una vez inscrita en el Registro Mercantil, formará una persona jurídica distinta de sus accionistas.
 

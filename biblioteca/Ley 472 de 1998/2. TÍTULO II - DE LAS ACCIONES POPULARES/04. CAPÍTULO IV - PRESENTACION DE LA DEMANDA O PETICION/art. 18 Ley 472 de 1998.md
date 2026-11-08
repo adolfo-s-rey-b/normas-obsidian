@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "18"
-epigrafe: "REQUISITOS DE LA DEMANDA O PETICION"
+epigrafe: "Requisitos de la Demanda o Petición"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo IV|CAPÍTULO IV - PRESENTACION DE LA DEMANDA O PETICION]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 18. REQUISITOS DE LA DEMANDA O PETICION
+## Artículo 18. Requisitos de la Demanda o Petición
 
 Para promover una acción popular se presentará una demanda o petición con los siguientes requisitos:
 

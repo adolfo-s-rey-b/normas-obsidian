@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "38"
-epigrafe: "COSTAS"
+epigrafe: "Costas"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo X|CAPÍTULO X - RECURSOS Y COSTAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo X|Capítulo X]]
 
-## Artículo 38. COSTAS
+## Artículo 38. Costas
 
 El juez aplicará las normas de procedimiento civil relativas a las costas. Sólo podrá condenar al demandante a sufragar los honorarios, gastos y costos ocasionados al demandado, cuando la acción presentada sea temeraria o de mala fe. En caso de mala fe de cualquiera de las partes, el juez podrá imponer una multa hasta de veinte (20) salarios mínimos mensuales, los cuales serán destinados al Fondo para la Defensa de los Derechos e Intereses Colectivos, sin perjuicio de las demás acciones a que haya lugar.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "16"
-epigrafe: "IMPEDIMENTOS Y RECUSACIONES"
+epigrafe: "Impedimentos y recusaciones"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo II|CAPÍTULO II - TRÁMITE]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo II|Capítulo II]]
 
-## Artículo 16. IMPEDIMENTOS Y RECUSACIONES
+## Artículo 16. Impedimentos y recusaciones
 
 Los árbitros y los secretarios están impedidos y son recusables por las mismas causales previstas para los jueces en el Código de Procedimiento Civil, por las inhabilidades, prohibiciones y conflictos de intereses señalados en el Código Disciplinario Único, y por el incumplimiento del deber de información indicado en el artículo anterior.
 

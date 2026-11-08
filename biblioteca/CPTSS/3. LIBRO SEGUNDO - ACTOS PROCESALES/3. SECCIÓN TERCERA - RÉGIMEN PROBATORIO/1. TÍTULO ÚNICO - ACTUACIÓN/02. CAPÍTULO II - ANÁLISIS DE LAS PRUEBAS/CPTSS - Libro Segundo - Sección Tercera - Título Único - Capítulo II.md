@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 133 CPTSS|Artículo 133]] — LIBRE FORMACIÓN DEL CONVENCIMIENTO
-- [[art. 134 CPTSS|Artículo 134]] — PRUEBA DE LAS NORMAS JURÍDICAS
+- [[art. 133 CPTSS|Artículo 133]] — Libre formación del convencimiento
+- [[art. 134 CPTSS|Artículo 134]] — Prueba de las normas jurídicas
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo III|Capítulo III]] →

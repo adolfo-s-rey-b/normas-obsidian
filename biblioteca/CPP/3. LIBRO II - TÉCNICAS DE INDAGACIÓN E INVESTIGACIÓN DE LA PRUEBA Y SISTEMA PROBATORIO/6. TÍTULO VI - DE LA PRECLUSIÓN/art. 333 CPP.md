@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "333"
-epigrafe: "TRÁMITE"
+epigrafe: "Trámite"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título VI|TÍTULO VI - DE LA PRECLUSIÓN]]"
 vigencia: "parcialmente inexequible"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título VI|Título VI]]
 
-## Artículo 333. TRÁMITE
+## Artículo 333. Trámite
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

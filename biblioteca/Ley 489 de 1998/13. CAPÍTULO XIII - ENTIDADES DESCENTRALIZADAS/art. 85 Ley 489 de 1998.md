@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "85"
-epigrafe: "EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO"
+epigrafe: "Empresas industriales y comerciales del Estado"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 84 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 85. EMPRESAS INDUSTRIALES Y COMERCIALES DEL ESTADO
+## Artículo 85. Empresas industriales y comerciales del Estado
 
 Las empresas industriales y comerciales del Estado son organismos creados por la ley o autorizados por ésta, que desarrollan actividades de naturaleza industrial o comercial y de gestión económica conforme a las reglas del Derecho Privado, salvo las excepciones que consagra la ley, y que reúnen las siguientes características:
 

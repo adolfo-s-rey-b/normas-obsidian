@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 132 EOSF|Artículo 132]] — ASPECTOS GENERALES
-- [[art. 133 EOSF|Artículo 133]] — REGIMEN DE LA EMISION DE BONOS DE GARANTIA GENERAL
+- [[art. 132 EOSF|Artículo 132]] — Aspectos Generales
+- [[art. 133 EOSF|Artículo 133]] — Régimen de la Emisión de Bonos de Garantía General
 
 ---
 ↑ [[EOSF - Parte IV - Capítulo III|Capítulo III]]

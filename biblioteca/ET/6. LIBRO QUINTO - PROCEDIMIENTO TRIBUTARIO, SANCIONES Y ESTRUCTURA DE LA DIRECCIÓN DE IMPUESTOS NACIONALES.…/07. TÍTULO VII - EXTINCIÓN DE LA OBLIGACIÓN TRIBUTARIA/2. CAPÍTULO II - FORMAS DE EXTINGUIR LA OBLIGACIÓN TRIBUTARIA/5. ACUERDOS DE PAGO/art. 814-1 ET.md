@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "814-1"
-epigrafe: "COMPETENCIA PARA CELEBRAR CONTRATOS DE GARANTIA"
+epigrafe: "COMPETENCIA PARA CELEBRAR CONTRATOS DE GARANTÍA"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VII|TÍTULO VII - EXTINCIÓN DE LA OBLIGACIÓN TRIBUTARIA]]"
 capitulo: "[[ET - Libro Quinto - Título VII - Capítulo II|CAPÍTULO II - FORMAS DE EXTINGUIR LA OBLIGACIÓN TRIBUTARIA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VII|Título VII]] › [[ET - Libro Quinto - Título VII - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VII - Capítulo II - Acuerdos de pago|Acuerdos de pago]]
 
-## Artículo 814-1. COMPETENCIA PARA CELEBRAR CONTRATOS DE GARANTIA
+## Artículo 814-1. COMPETENCIA PARA CELEBRAR CONTRATOS DE GARANTÍA
 
 El Subdirector de Cobranzas y los Administradores de Impuestos Nacionales Regionales y Especiales, tendrán la facultad de celebrar los contratos relativos a las garantías a que se refiere el artículo anterior.
 

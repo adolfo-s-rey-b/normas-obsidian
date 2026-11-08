@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "169"
-epigrafe: "PRUEBA DE OFICIO YA PETICIÓN DE PARTE"
+epigrafe: "Prueba de oficio ya petición de parte"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 169. PRUEBA DE OFICIO YA PETICIÓN DE PARTE
+## Artículo 169. Prueba de oficio ya petición de parte
 
 Las pruebas pueden ser decretadas a petición de parte o de oficio cuando sean útiles para la verificación de los hechos relacionados con las alegaciones de las partes. Sin embargo, para decretar de oficio la declaración de testigos será necesario que estos aparezcan mencionados en otras pruebas o en cualquier acto procesal de las partes.
 

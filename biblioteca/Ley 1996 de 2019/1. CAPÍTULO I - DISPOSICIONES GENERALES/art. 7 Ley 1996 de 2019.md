@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "7"
-epigrafe: "NIÑOS, NIÑAS Y ADOLESCENTES"
+epigrafe: "°. Niños, niñas y adolescentes"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 6 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 7. NIÑOS, NIÑAS Y ADOLESCENTES
+## Artículo 7. °. Niños, niñas y adolescentes
 
 Las personas con discapacidad que no hayan alcanzado la mayoría de edad tendrán derecho a los mismos apoyos consagrados en la presente ley para aquellos actos jurídicos que la ley les permita realizar de manera autónoma y de conformidad con el principio de autonomía progresiva, o en aquellos casos en los que debe tenerse en cuenta la voluntad y preferencias del menor para el ejercicio digno de la patria potestad.
 

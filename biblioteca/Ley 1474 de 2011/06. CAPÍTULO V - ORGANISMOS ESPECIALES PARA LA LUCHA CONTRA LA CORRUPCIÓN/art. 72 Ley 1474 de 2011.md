@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "72"
-epigrafe: "FUNCIONES DEL PROGRAMA PRESIDENCIAL DE MODERNIZACIÓN, EFICIENCIA, TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCIÓN"
+epigrafe: "Funciones del Programa Presidencial de Modernización, Eficiencia, Transparencia y Lucha contra la Corrupción"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 34 Ley 1778 de 2016]]"
 derogado_por:
@@ -24,12 +24,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1474_de_2011
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 72. FUNCIONES DEL PROGRAMA PRESIDENCIAL DE MODERNIZACIÓN, EFICIENCIA, TRANSPARENCIA Y LUCHA CONTRA LA CORRUPCIÓN
+## Artículo 72. Funciones del Programa Presidencial de Modernización, Eficiencia, Transparencia y Lucha contra la Corrupción
 
 El Programa Presidencial de Modernización, Eficiencia, Transparencia y Lucha contra la Corrupción, o quien haga sus veces, tendrá las siguientes funciones:
 

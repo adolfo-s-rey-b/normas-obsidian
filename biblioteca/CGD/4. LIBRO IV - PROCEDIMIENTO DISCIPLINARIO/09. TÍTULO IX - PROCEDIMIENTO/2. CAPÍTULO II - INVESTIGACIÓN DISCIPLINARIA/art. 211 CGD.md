@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "211"
-epigrafe: "PROCEDENCIA DE LA INVESTIGACIÓN DISCIPLINARIA"
+epigrafe: "Procedencia de la investigación disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo II|CAPÍTULO II - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 211. PROCEDENCIA DE LA INVESTIGACIÓN DISCIPLINARIA
+## Artículo 211. Procedencia de la investigación disciplinaria
 
 Cuando, con fundamento en la queja, en la información recibida o en la indagación previa se identifique al posible autor o autores de la falta disciplinaria, el funcionario iniciará la investigación disciplinaria.
 

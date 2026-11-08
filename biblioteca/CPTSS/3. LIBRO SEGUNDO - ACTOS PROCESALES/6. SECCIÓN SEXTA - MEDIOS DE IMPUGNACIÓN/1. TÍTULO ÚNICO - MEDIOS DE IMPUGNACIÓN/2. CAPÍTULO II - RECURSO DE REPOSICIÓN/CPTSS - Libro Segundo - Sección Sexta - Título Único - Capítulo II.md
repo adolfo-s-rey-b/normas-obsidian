@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 227 CPTSS|Artículo 227]] — RECURSO DE REPOSICIÓN
+- [[art. 227 CPTSS|Artículo 227]] — Recurso de reposición
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo III|Capítulo III]] →

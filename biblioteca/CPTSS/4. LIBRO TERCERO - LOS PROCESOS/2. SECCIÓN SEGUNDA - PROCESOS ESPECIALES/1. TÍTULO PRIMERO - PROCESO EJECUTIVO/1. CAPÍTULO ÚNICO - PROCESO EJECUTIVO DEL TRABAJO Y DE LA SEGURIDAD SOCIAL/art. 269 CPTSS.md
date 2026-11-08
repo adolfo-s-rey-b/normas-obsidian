@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "269"
-epigrafe: "OBLIGACIONES DE DAR Y HACER"
+epigrafe: "Obligaciones de dar y hacer"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 269. OBLIGACIONES DE DAR Y HACER
+## Artículo 269. Obligaciones de dar y hacer
 
 Si la obligación es de dar, el ejecutante podrá exigir la ejecución de los perjuicios moratorios desde que la obligación se hizo exigible hasta que la entrega se efectúe. De la misma manera se procederá si demanda una obligación de hacer y pide perjuicios por la demora en la ejecución del hecho. Si la tasa legal o convencional es variable, no será necesario indicar el porcentaje de la misma.
 

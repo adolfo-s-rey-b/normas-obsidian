@@ -13,9 +13,8 @@ articulo: "366"
 epigrafe: "FACULTAD PARA ESTABLECER NUEVAS RETENCIONES"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
-  - "[[art. 401 ET]]"
   - "[[art. 376 Ley 1819 de 2016]]"
   - "[[art. 18 Ley 633 de 2000]]"
 anterior: "[[art. 365 ET]]"
@@ -30,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título I|Título I]]
@@ -41,7 +40,7 @@ Sin perjuicio de las retenciones contempladas en las disposiciones vigentes el 2
 
 Los porcentajes de retención no podrán exceder del tres por ciento (3%) del respectivo pago o abono en cuenta. En todo lo demás, se aplicarán las disposiciones vigentes sobre la materia.
 
-> [!warning] Notas del Editor: Destaca el editor que el tope para establecer nuevos porcentajes de retención que establecía el inciso 2o. del artículo [[art. 401 ET|401]] de este Estatuto, fue derogado por el artículo [[art. 376 Ley 1819 de 2016|376]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016. - Destaca el editor que mediante el artículo [[art. 18 Ley 633 de 2000|18]] de la Ley 633 de 2000, publicado en el Diario Oficial No. 44.275, del 29 de diciembre de 2000, se modificó el inciso 2o. del artículo [[art. 401 ET|401]] de este estatuto, estableciendo como tope para los porcentajes de retención sobre otros ingresos tributarios el 3.5%.
+> [!warning] Notas del Editor: Destaca el editor que el tope para establecer nuevos porcentajes de retención que establecía el inciso 2o. del artículo 401 de este Estatuto, fue derogado por el artículo [[art. 376 Ley 1819 de 2016|376]] de la Ley 1819 de 2016, 'por medio de la cual se adopta una reforma tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones', publicada en el Diario Oficial No. 50.101 de 29 de diciembre de 2016. - Destaca el editor que mediante el artículo [[art. 18 Ley 633 de 2000|18]] de la Ley 633 de 2000, publicado en el Diario Oficial No. 44.275, del 29 de diciembre de 2000, se modificó el inciso 2o. del artículo 401 de este estatuto, estableciendo como tope para los porcentajes de retención sobre otros ingresos tributarios el 3.5%.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional: - Artículo declarado EXEQUIBLE por la Corte Constitucional, mediante Sentencia No. C-421-95 del 21 de septiembre de 1995, Magistrado Ponente, Dr. Jorge Arango Mejía, 'solamente en cuanto estas disposiciones no desconocen el derecho al debido proceso, consagrado en el artículo [[art. 29 CPol|29]] de la Constitución'.
 

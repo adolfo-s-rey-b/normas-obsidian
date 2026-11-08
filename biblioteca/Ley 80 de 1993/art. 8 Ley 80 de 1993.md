@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "8"
-epigrafe: "DE LAS INHABILIDADES E INCOMPATIBILIDADES PARA CONTRATAR"
+epigrafe: "De las Inhabilidades e Incompatibilidades para Contratar"
 vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 2 Ley 2014 de 2019]]"
@@ -42,7 +42,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 8. DE LAS INHABILIDADES E INCOMPATIBILIDADES PARA CONTRATAR
+## Artículo 8. De las Inhabilidades e Incompatibilidades para Contratar
 
 1o. Son inhábiles para participar en licitaciones ~~o concursos~~ y para celebrar contratos con las entidades estatales:
 

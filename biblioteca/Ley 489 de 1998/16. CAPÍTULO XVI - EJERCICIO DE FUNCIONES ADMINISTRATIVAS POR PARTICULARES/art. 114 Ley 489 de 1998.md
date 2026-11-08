@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "114"
-epigrafe: "CONTROL SOBRE LAS FUNCIONES"
+epigrafe: "Control sobre las funciones"
 capitulo: "[[Ley 489 de 1998 - Capítulo XVI|CAPÍTULO XVI - EJERCICIO DE FUNCIONES ADMINISTRATIVAS POR PARTICULARES]]"
 vigencia: "vigente"
 anterior: "[[art. 113 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XVI|Capítulo XVI]]
 
-## Artículo 114. CONTROL SOBRE LAS FUNCIONES
+## Artículo 114. Control sobre las funciones
 
 Sin perjuicio de los controles pertinentes por razón de la naturaleza de la actividad, la entidad pública que confiera la atribución de las funciones ejercerá directamente un control sobre el cumplimiento de las finalidades, objetivos, políticas y programas que deban ser observados por el particular.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "10"
-epigrafe: "PROCEDIMIENTO DE PAGO POR CONSIGNACIÓN EXTRAJUDICIAL DEL CANON DE ARRENDAMIENTO"
+epigrafe: "Procedimiento de pago por consignación extrajudicial del canon de arrendamiento"
 capitulo: "[[Ley 820 de 2003 - Capítulo III|CAPÍTULO III - OBLIGACIONES DE LAS PARTES]]"
 vigencia: "vigente"
 anterior: "[[art. 9 Ley 820 de 2003]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo III|Capítulo III]]
 
-## Artículo 10. PROCEDIMIENTO DE PAGO POR CONSIGNACIÓN EXTRAJUDICIAL DEL CANON DE ARRENDAMIENTO
+## Artículo 10. Procedimiento de pago por consignación extrajudicial del canon de arrendamiento
 
 Cuando el arrendador se rehúse a recibir el pago en las condiciones y en el lugar acordados, se aplicarán las siguientes reglas:
 

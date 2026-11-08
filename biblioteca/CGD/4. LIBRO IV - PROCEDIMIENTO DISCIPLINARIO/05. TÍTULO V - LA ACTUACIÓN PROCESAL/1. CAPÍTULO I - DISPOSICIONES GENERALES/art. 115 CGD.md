@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "115"
-epigrafe: "RESERVA DE LA ACTUACIÓN DISCIPLINARIA"
+epigrafe: "Reserva de la actuación disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 115. RESERVA DE LA ACTUACIÓN DISCIPLINARIA
+## Artículo 115. Reserva de la actuación disciplinaria
 
 En el procedimiento disciplinario las actuaciones disciplinarias serán reservadas hasta cuando se cite a audiencia y se formule pliego de cargos o se emita la providencia que ordene el archivo definitivo, sin perjuicio de los derechos de los sujetos procesales.
 

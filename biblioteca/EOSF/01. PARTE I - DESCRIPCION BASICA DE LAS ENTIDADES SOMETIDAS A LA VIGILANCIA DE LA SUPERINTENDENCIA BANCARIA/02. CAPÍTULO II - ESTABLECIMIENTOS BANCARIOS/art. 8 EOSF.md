@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "8"
-epigrafe: "INVERSIONES AUTORIZADAS"
+epigrafe: "Inversiones Autorizadas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo II|CAPÍTULO II - ESTABLECIMIENTOS BANCARIOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 123 Ley 510 de 1999]]"
 anterior: "[[art. 7 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo II|Capítulo II]]
 
-## Artículo 8. INVERSIONES AUTORIZADAS
+## Artículo 8. Inversiones Autorizadas
 
 1\. 2. y 3.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "214"
-epigrafe: "RUPTURA DE LA UNIDAD PROCESAL"
+epigrafe: "Ruptura de la unidad procesal"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo II|CAPÍTULO II - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 214. RUPTURA DE LA UNIDAD PROCESAL
+## Artículo 214. Ruptura de la unidad procesal
 
 Procederá en los siguientes casos:
 

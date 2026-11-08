@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "80"
-epigrafe: "CAPITAL"
+epigrafe: "Capital"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IX|CAPÍTULO IX - REGIMEN PATRIMONIAL]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IX|Capítulo IX]]
 
-## Artículo 80. CAPITAL
+## Artículo 80. Capital
 
 1\. Capitales mínimos de las instituciones financieras. 1. Capitales mínimos de las instituciones financieras. Los montos mínimos de capital que deberán acreditarse para solicitar la constitución de las entidades sometidas al control y vigilancia de la Superintendencia Bancaria, con excepción de los intermediarios de seguros, serán de cuarenta y cinco mil ochenta y cinco millones de pesos ($45.085.000.000) para los establecimientos bancarios; de dieciséis mil trescientos noventa y cinco millones de pesos ($16.395.000.000.) para las corporaciones financieras; de once mil seiscientos trece millones de pesos ($11.613.000.000) para las compañías de financiamiento comercial*; de tres mil cuatrocientos diecisiete millones de pesos ($3.417.000.000) para las sociedades fiduciarias; de seis mil ochocientos treinta y un millones de pesos ($6.831.000.000) para las sociedades administradoras de Fondos de Pensiones; de tres mil cuatrocientos diecisiete millones de pesos ($3.417.000.000) para las sociedades administradoras de fondos de cesantías, el cual se acumulará al requerido para las sociedades administradoras de fondos de pensiones, cuando la sociedad administre fondos de pensiones y de cesantías, y de dos mil setecientos treinta y tres millones de pesos ($2.733.000.000) para las demás entidades financieras. Estos montos se ajustarán anualmente en forma automática en el mismo sentido y porcentaje en que varíe el índice de precios al consumidor que suministre el DANE. El valor resultante se aproximará al múltiplo en millones de pesos inmediatamente superior. El primer ajuste se realizará en enero de 2003, tomando como base la variación del índice de precios al consumidor durante 2002.
 

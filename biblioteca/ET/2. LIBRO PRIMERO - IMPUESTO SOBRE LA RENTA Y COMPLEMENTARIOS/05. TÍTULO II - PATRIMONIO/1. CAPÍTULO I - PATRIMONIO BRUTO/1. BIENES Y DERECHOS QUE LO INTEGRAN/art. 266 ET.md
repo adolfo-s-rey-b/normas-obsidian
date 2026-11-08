@@ -10,12 +10,12 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "266"
-epigrafe: "BIENES NO POSEIDOS EN EL PAIS"
+epigrafe: "BIENES NO POSEÍDOS EN EL PAÍS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
 rubro: "[[ET - Libro Primero - Título II - Capítulo I - Bienes y derechos que lo integran|BIENES Y DERECHOS QUE LO INTEGRAN]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 130 Ley 1607 de 2012]]"
   - "[[art. 56 Ley 1430 de 2010]]"
@@ -33,12 +33,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Bienes y derechos que lo integran|Bienes y derechos que lo integran]]
 
-## Artículo 266. BIENES NO POSEIDOS EN EL PAIS
+## Artículo 266. BIENES NO POSEÍDOS EN EL PAÍS
 
 No se entienden poseídos en Colombia los siguientes créditos obtenidos en el exterior:
 
@@ -54,7 +54,7 @@ No se entienden poseídos en Colombia los siguientes créditos obtenidos en el e
 
 4\. Los créditos para operaciones de comercio exterior, realizados por intermedio de las corporaciones financieras y los bancos constituidos conforme a las leyes colombianas vigentes.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 67 Ley 1430 de 2010|67]] de la Ley 1430 de 2010
 

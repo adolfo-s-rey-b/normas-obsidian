@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "165"
-epigrafe: "ACUMULACIÓN DE PRETENSIONES"
+epigrafe: "Acumulación de pretensiones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo III|CAPÍTULO III - REQUISITOS DE LA DEMANDA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo III|Capítulo III]]
 
-## Artículo 165. ACUMULACIÓN DE PRETENSIONES
+## Artículo 165. Acumulación de pretensiones
 
 En la demanda se podrán acumular pretensiones de nulidad, de nulidad y de restablecimiento del derecho, relativas a contratos y de reparación directa, siempre que sean conexas y concurran los siguientes requisitos:
 

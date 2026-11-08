@@ -12,7 +12,7 @@ epigrafe: "LAVADO DE ACTIVOS"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título X|TÍTULO X - DELITOS CONTRA EL ORDEN ECONOMICO SOCIAL]]"
 capitulo: "[[CP - Libro Segundo - Título X - Capítulo Quinto|CAPÍTULO QUINTO - DEL LAVADO DE ACTIVOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 322-1 CP]]"
 siguiente: "[[art. 324 CP]]"
 fuente: "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6388#323"
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título X|Título X]] › [[CP - Libro Segundo - Título X - Capítulo Quinto|Capítulo Quinto]]

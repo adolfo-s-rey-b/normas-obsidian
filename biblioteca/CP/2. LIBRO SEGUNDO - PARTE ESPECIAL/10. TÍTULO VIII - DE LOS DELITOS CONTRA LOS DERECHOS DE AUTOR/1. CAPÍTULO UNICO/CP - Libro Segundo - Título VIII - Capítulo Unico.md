@@ -21,7 +21,7 @@ tags:
 
 ### Contenido
 
-- [[art. 270 CP|Artículo 270]] — VIOLACIÓN A LOS DERECHOS MORALES DE AUTOR
+- [[art. 270 CP|Artículo 270]] — Violación a los derechos morales de autor
 - [[art. 271 CP|Artículo 271]] — VIOLACIÓN A LOS DERECHOS PATRIMONIALES DE AUTOR Y DERECHOS CONEXOS
 - [[art. 272 CP|Artículo 272]] — Violación a los mecanismos de protección de los derechos patrimoniales de autor y otras defraudaciones
 

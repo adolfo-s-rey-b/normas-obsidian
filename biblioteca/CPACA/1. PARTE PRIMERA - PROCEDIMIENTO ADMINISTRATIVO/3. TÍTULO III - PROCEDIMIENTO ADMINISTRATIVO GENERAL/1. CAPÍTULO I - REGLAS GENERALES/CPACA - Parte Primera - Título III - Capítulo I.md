@@ -23,18 +23,18 @@ tags:
 
 ### Contenido
 
-- [[art. 34 CPACA|Artículo 34]] — PROCEDIMIENTO ADMINISTRATIVO COMÚN Y PRINCIPAL
-- [[art. 35 CPACA|Artículo 35]] — TRÁMITE DE LA ACTUACIÓN Y AUDIENCIAS
-- [[art. 36 CPACA|Artículo 36]] — FORMACIÓN Y EXAMEN DE EXPEDIENTES
-- [[art. 37 CPACA|Artículo 37]] — DEBER DE COMUNICAR LAS ACTUACIONES ADMINISTRATIVAS A TERCEROS
-- [[art. 38 CPACA|Artículo 38]] — INTERVENCIÓN DE TERCEROS
-- [[art. 39 CPACA|Artículo 39]] — CONFLICTOS DE COMPETENCIA ADMINISTRATIVA
-- [[art. 40 CPACA|Artículo 40]] — PRUEBAS
-- [[art. 41 CPACA|Artículo 41]] — CORRECCIÓN DE IRREGULARIDADES EN LA ACTUACIÓN ADMINISTRATIVA
-- [[art. 42 CPACA|Artículo 42]] — CONTENIDO DE LA DECISIÓN
-- [[art. 43 CPACA|Artículo 43]] — ACTOS DEFINITIVOS
-- [[art. 44 CPACA|Artículo 44]] — DECISIONES DISCRECIONALES
-- [[art. 45 CPACA|Artículo 45]] — CORRECCIÓN DE ERRORES FORMALES
+- [[art. 34 CPACA|Artículo 34]] — Procedimiento administrativo común y principal
+- [[art. 35 CPACA|Artículo 35]] — Trámite de la actuación y audiencias
+- [[art. 36 CPACA|Artículo 36]] — Formación y examen de expedientes
+- [[art. 37 CPACA|Artículo 37]] — Deber de comunicar las actuaciones administrativas a terceros
+- [[art. 38 CPACA|Artículo 38]] — Intervención de terceros
+- [[art. 39 CPACA|Artículo 39]] — Conflictos de competencia administrativa
+- [[art. 40 CPACA|Artículo 40]] — Pruebas
+- [[art. 41 CPACA|Artículo 41]] — Corrección de irregularidades en la actuación administrativa
+- [[art. 42 CPACA|Artículo 42]] — Contenido de la decisión
+- [[art. 43 CPACA|Artículo 43]] — Actos definitivos
+- [[art. 44 CPACA|Artículo 44]] — Decisiones discrecionales
+- [[art. 45 CPACA|Artículo 45]] — Corrección de errores formales
 
 ---
 ↑ [[CPACA - Parte Primera - Título III|Título III]] · [[CPACA - Parte Primera - Título III - Capítulo II|Capítulo II]] →

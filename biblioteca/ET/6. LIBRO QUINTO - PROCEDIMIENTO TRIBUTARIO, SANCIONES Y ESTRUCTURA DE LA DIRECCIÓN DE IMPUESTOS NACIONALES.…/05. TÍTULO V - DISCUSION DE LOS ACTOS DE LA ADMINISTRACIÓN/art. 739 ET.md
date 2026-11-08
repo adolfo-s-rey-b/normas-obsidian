@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "739"
-epigrafe: "RECURSO CONTRA PROVIDENCIAS QUE SANCIONAN A CONTADORES PUBLICOS O REVISORES FISCALES"
+epigrafe: "RECURSO CONTRA PROVIDENCIAS QUE SANCIONAN A CONTADORES PÚBLICOS O REVISORES FISCALES"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
 
-## Artículo 739. RECURSO CONTRA PROVIDENCIAS QUE SANCIONAN A CONTADORES PUBLICOS O REVISORES FISCALES
+## Artículo 739. RECURSO CONTRA PROVIDENCIAS QUE SANCIONAN A CONTADORES PÚBLICOS O REVISORES FISCALES
 
 Contra la providencia que impone la sanción de que tratan los artículos [[art. 660 ET|660]] y [[art. 661 ET|661]], procede únicamente el recurso de reposición por la vía gubernativa, el cual deberá interponerse dentro de los diez (10) días siguientes a la notificación de la providencia respectiva. Este recurso deberá ser resuelto por un comité integrado por el jefe de la División de Programación y Control de la Subdirección Jurídica, y por el Jefe de la División de Programación y Control de la Subdirección de Fiscalización, o quienes hagan sus veces.
 

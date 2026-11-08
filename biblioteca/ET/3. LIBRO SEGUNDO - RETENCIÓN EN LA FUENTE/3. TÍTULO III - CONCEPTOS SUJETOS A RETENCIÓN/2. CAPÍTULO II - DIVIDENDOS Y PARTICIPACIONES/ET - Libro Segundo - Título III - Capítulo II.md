@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 389 ET|Artículo 389]] — CUALES ESTAN SOMETIDOS A RETENCIÓN
+- [[art. 389 ET|Artículo 389]] — CUÁLES ESTÁN SOMETIDOS A RETENCIÓN
 - [[art. 390 ET|Artículo 390]] — RETENCIÓN SOBRE DIVIDENDOS Y PARTICIPACIONES
 - [[art. 391 ET|Artículo 391]] — TARIFA SOBRE OTRAS RENTAS
 

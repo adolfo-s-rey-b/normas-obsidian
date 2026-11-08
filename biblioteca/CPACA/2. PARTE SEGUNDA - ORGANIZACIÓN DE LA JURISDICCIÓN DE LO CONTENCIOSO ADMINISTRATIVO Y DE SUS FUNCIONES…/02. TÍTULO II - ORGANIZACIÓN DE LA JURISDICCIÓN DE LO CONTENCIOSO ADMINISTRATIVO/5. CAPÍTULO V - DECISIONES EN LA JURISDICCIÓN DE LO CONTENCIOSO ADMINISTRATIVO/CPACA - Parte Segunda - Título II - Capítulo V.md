@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 125 CPACA|Artículo 125]] — DE LA EXPEDICIÓN DE PROVIDENCIAS
-- [[art. 126 CPACA|Artículo 126]] — QUÓRUM DELIBERATORIO EN EL CONSEJO DE ESTADO
-- [[art. 127 CPACA|Artículo 127]] — QUÓRUM PARA ELECCIONES EN EL CONSEJO DE ESTADO
-- [[art. 128 CPACA|Artículo 128]] — QUÓRUM PARA OTRAS DECISIONES EN EL CONSEJO DE ESTADO
-- [[art. 129 CPACA|Artículo 129]] — FIRMA DE PROVIDENCIAS, CONCEPTOS, DICTÁMENES, SALVAMENTOS DE VOTO Y ACLARACIONES DE VOTO
+- [[art. 125 CPACA|Artículo 125]] — De la expedición de providencias
+- [[art. 126 CPACA|Artículo 126]] — Quórum deliberatorio en el Consejo de Estado
+- [[art. 127 CPACA|Artículo 127]] — Quórum para elecciones en el Consejo de Estado
+- [[art. 128 CPACA|Artículo 128]] — Quórum para otras decisiones en el Consejo de Estado
+- [[art. 129 CPACA|Artículo 129]] — Firma de providencias, conceptos, dictámenes, salvamentos de voto y aclaraciones de voto
 
 ---
 ← [[CPACA - Parte Segunda - Título II - Capítulo IV|Capítulo IV]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo VI|Capítulo VI]] →

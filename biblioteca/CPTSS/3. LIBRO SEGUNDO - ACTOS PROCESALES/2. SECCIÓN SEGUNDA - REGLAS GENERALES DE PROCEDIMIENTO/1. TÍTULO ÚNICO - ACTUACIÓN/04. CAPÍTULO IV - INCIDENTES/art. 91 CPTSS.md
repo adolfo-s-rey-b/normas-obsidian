@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "91"
-epigrafe: "IRREVERSIBILIDAD DEL PROCESO"
+epigrafe: "Irreversibilidad del proceso"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 91. IRREVERSIBILIDAD DEL PROCESO
+## Artículo 91. Irreversibilidad del proceso
 
 Las partes, los terceros intervinientes y sucesores de que trata este código tomarán el proceso en el estado en que se halle en el momento de su intervención o comparecencia, garantizando los derechos aquí consagrados.
 

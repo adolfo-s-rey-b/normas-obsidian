@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 242 CPACA|Artículo 242]] — REPOSICIÓN
-- [[art. 243 CPACA|Artículo 243]] — APELACIÓN
+- [[art. 242 CPACA|Artículo 242]] — Reposición
+- [[art. 243 CPACA|Artículo 243]] — Apelación
 - [[art. 243A CPACA|Artículo 243A]] — Providencias no susceptibles de recursos ordinarios
-- [[art. 244 CPACA|Artículo 244]] — TRÁMITE DEL RECURSO DE APELACIÓN CONTRA AUTOS
-- [[art. 245 CPACA|Artículo 245]] — QUEJA
-- [[art. 246 CPACA|Artículo 246]] — SÚPLICA
+- [[art. 244 CPACA|Artículo 244]] — Trámite del recurso de apelación contra autos
+- [[art. 245 CPACA|Artículo 245]] — Queja
+- [[art. 246 CPACA|Artículo 246]] — Súplica
 - [[art. 247 CPACA|Artículo 247]] — Trámite del recurso de apelación contra sentencias
 
 ---

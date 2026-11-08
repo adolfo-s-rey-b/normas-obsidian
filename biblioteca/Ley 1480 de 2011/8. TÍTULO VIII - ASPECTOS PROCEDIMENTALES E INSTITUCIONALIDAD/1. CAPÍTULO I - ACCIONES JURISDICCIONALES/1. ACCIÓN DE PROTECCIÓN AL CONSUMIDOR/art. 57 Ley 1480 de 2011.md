@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "57"
-epigrafe: "ATRIBUCIÓN DE FACULTADES JURISDICCIONALES A LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA"
+epigrafe: "Atribución de facultades jurisdiccionales a la Superintendencia Financiera de Colombia"
 titulo: "[[Ley 1480 de 2011 - Título VIII|TÍTULO VIII - ASPECTOS PROCEDIMENTALES E INSTITUCIONALIDAD]]"
 capitulo: "[[Ley 1480 de 2011 - Título VIII - Capítulo I|CAPÍTULO I - ACCIONES JURISDICCIONALES]]"
 rubro: "[[Ley 1480 de 2011 - Título VIII - Capítulo I - Acción de protección al consumidor|ACCIÓN DE PROTECCIÓN AL CONSUMIDOR]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VIII|Título VIII]] › [[Ley 1480 de 2011 - Título VIII - Capítulo I|Capítulo I]] › [[Ley 1480 de 2011 - Título VIII - Capítulo I - Acción de protección al consumidor|Acción de protección al consumidor]]
 
-## Artículo 57. ATRIBUCIÓN DE FACULTADES JURISDICCIONALES A LA SUPERINTENDENCIA FINANCIERA DE COLOMBIA
+## Artículo 57. Atribución de facultades jurisdiccionales a la Superintendencia Financiera de Colombia
 
 En aplicación del artículo [[art. 116 CPol|116]] de la Constitución Política, los consumidores financieros de las entidades vigiladas por la Superintendencia Financiera de Colombia podrán a su elección someter a conocimiento de esa autoridad, los asuntos contenciosos que se susciten entre ellos y las entidades vigiladas sobre las materias a que se refiere el presente artículo para que sean fallados en derecho, con carácter definitivo y con las facultades propias de un juez.
 

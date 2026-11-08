@@ -7,7 +7,7 @@ articulo: "84"
 epigrafe: "VIGILANCIA"
 titulo: "[[Ley 222 de 1995 - Título I|TÍTULO I - REGIMEN DE SOCIEDADES]]"
 capitulo: "[[Ley 222 de 1995 - Título I - Capítulo IX|CAPÍTULO IX - DE LA INSPECCION, VIGILANCIA Y CONTROL DE LA SUPERINTENDENCIA DE SOCIEDADES]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 149 Decreto 19 de 2012]]"
 derogado_por:
@@ -24,7 +24,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título I|Título I]] › [[Ley 222 de 1995 - Título I - Capítulo IX|Capítulo IX]]
@@ -69,7 +69,7 @@ Respecto de estas sociedades vigiladas, la Superintendencia de Sociedades, adem�
 
 10\. Ordenar la modificación de las cláusulas estatutarias cuando no se ajusten a la ley.
 
-11.
+11\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 149 Decreto 19 de 2012|149]] del Decreto 19 de 2012
 

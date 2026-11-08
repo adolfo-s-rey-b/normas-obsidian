@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "72"
-epigrafe: "SUJETOS Y FALTAS GRAVÍSIMAS"
+epigrafe: "Sujetos y faltas gravísimas"
 libro: "[[CGD - Libro III|LIBRO III - RÉGIMEN ESPECIAL]]"
 titulo: "[[CGD - Libro III - Título I|TÍTULO I - RÉGIMEN DE LOS PARTICULARES]]"
 capitulo: "[[CGD - Libro III - Título I - Capítulo III|CAPÍTULO III - SUJETOS, FALTAS Y SANCIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro III|Libro III]] › [[CGD - Libro III - Título I|Título I]] › [[CGD - Libro III - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 72. SUJETOS Y FALTAS GRAVÍSIMAS
+## Artículo 72. Sujetos y faltas gravísimas
 
 Los sujetos disciplinables por este título solo responderán de las faltas gravísimas aquí descritas; son faltas gravísimas las siguientes conductas:
 

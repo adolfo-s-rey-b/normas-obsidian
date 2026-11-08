@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "484"
-epigrafe: "ATRIBUCIONES Y DEBERES DEL ADMINISTRADOR"
+epigrafe: "Atribuciones y deberes del administrador"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 484. ATRIBUCIONES Y DEBERES DEL ADMINISTRADOR
+## Artículo 484. Atribuciones y deberes del administrador
 
 El administrador representa la herencia yacente y tendrá atribuciones y deberes de secuestre, además de los especiales que la ley le asigna. Estará sujeto a las causas de remoción del administrador y a las del secuestre, y el trámite de las cuentas que deba rendir se sujetará a lo establecido para los secuestres.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "17"
-epigrafe: "ADMINISTRACIÓN DESLEAL"
+epigrafe: "Administración desleal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 16 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 17. ADMINISTRACIÓN DESLEAL
+## Artículo 17. Administración desleal
 
 La Ley 599 de 2000 tendrá un artículo [[art. 250B CP|250B]], el cual quedará así:
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "31"
-epigrafe: "TRANSFORMACIÓN"
+epigrafe: "Transformación"
 capitulo: "[[Ley 1258 de 2008 - Capítulo V|CAPÍTULO V - REFORMAS ESTATUTARIAS Y REORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 30 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo V|Capítulo V]]
 
-## Artículo 31. TRANSFORMACIÓN
+## Artículo 31. Transformación
 
 Cualquier sociedad podrán transformarse en sociedad por acciones simplificada, antes de la disolución, 1258
 

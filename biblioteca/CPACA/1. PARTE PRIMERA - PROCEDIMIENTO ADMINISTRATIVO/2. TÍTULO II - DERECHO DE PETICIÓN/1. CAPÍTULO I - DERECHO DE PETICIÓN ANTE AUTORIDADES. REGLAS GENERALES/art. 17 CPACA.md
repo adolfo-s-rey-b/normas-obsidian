@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "17"
-epigrafe: "PETICIONES INCOMPLETAS Y DESISTIMIENTO TÁCITO"
+epigrafe: "Peticiones incompletas y desistimiento tácito"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo I|CAPÍTULO I - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS GENERALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 17. PETICIONES INCOMPLETAS Y DESISTIMIENTO TÁCITO
+## Artículo 17. Peticiones incompletas y desistimiento tácito
 
 En virtud del principio de eficacia, cuando la autoridad constate que una petición ya radicada está incompleta o que el peticionario deba realizar una gestión de trámite a su cargo, necesaria para adoptar una decisión de fondo, y que la actuación pueda continuar sin oponerse a la ley, requerirá al peticionario dentro de los diez (10) días siguientes a la fecha de radicación para que la complete en el término máximo de un (1) mes.
 

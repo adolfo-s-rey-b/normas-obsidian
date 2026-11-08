@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "47"
-epigrafe: "CADUCIDAD"
+epigrafe: "Caducidad"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo I|CAPÍTULO I - PROCEDENCIA]]"
 vigencia: "modificado"
@@ -28,7 +28,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 47. CADUCIDAD
+## Artículo 47. Caducidad
 
 Sin perjuicio de la acción individual que corresponda por la indemnización de perjuicios, la acción de grupo deberá promoverse dentro de los dos (2) años siguientes a la fecha en que se causó el daño o cesó la acción vulnerante causante del mismo.
 

@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 113 CPP|Artículo 113]] — COMPOSICIÓN
-- [[art. 114 CPP|Artículo 114]] — ATRIBUCIONES
-- [[art. 115 CPP|Artículo 115]] — PRINCIPIO DE OBJETIVIDAD
-- [[art. 116 CPP|Artículo 116]] — ATRIBUCIONES ESPECIALES DEL FISCAL GENERAL DE LA NACIÓN
-- [[art. 117 CPP|Artículo 117]] — LA POLICÍA JUDICIAL
+- [[art. 113 CPP|Artículo 113]] — Composición
+- [[art. 114 CPP|Artículo 114]] — Atribuciones
+- [[art. 115 CPP|Artículo 115]] — Principio de objetividad
+- [[art. 116 CPP|Artículo 116]] — Atribuciones especiales del Fiscal General de la Nación
+- [[art. 117 CPP|Artículo 117]] — La policía judicial
 
 ---
 ↑ [[CPP - Libro I - Título IV|Título IV]] · [[CPP - Libro I - Título IV - Capítulo II|Capítulo II]] →

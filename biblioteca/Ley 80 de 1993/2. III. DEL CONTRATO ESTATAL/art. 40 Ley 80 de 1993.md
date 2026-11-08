@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "40"
-epigrafe: "DEL CONTENIDO DEL CONTRATO ESTATAL"
+epigrafe: "Del Contenido del Contrato Estatal"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 40. DEL CONTENIDO DEL CONTRATO ESTATAL
+## Artículo 40. Del Contenido del Contrato Estatal
 
 Las estipulaciones de los contratos serán las que de acuerdo con las normas civiles, comerciales y las previstas en esta ley, correspondan a su esencia y naturaleza.
 

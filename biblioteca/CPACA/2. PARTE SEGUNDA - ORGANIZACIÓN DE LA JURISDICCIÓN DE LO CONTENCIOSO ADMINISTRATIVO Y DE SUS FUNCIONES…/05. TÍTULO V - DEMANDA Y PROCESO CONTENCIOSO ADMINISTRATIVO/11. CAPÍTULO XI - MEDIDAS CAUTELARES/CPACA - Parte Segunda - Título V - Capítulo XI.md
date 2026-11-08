@@ -23,19 +23,19 @@ tags:
 
 ### Contenido
 
-- [[art. 229 CPACA|Artículo 229]] — PROCEDENCIA DE MEDIDAS CAUTELARES
-- [[art. 230 CPACA|Artículo 230]] — CONTENIDO Y ALCANCE DE LAS MEDIDAS CAUTELARES
-- [[art. 231 CPACA|Artículo 231]] — REQUISITOS PARA DECRETAR LAS MEDIDAS CAUTELARES
-- [[art. 232 CPACA|Artículo 232]] — CAUCIÓN
-- [[art. 233 CPACA|Artículo 233]] — PROCEDIMIENTO PARA LA ADOPCIÓN DE LAS MEDIDAS CAUTELARES
-- [[art. 234 CPACA|Artículo 234]] — MEDIDAS CAUTELARES DE URGENCIA
-- [[art. 235 CPACA|Artículo 235]] — LEVANTAMIENTO, MODIFICACIÓN Y REVOCATORIA DE LA MEDIDA CAUTELAR
+- [[art. 229 CPACA|Artículo 229]] — Procedencia de medidas cautelares
+- [[art. 230 CPACA|Artículo 230]] — Contenido y alcance de las medidas cautelares
+- [[art. 231 CPACA|Artículo 231]] — Requisitos para decretar las medidas cautelares
+- [[art. 232 CPACA|Artículo 232]] — Caución
+- [[art. 233 CPACA|Artículo 233]] — Procedimiento para la adopción de las medidas cautelares
+- [[art. 234 CPACA|Artículo 234]] — Medidas cautelares de urgencia
+- [[art. 235 CPACA|Artículo 235]] — Levantamiento, modificación y revocatoria de la medida cautelar
 - [[art. 236 CPACA|Artículo 236]] — Término para resolver los recursos
-- [[art. 237 CPACA|Artículo 237]] — PROHIBICIÓN DE REPRODUCCIÓN DEL ACTO SUSPENDIDO O ANULADO
-- [[art. 238 CPACA|Artículo 238]] — PROCEDIMIENTO EN CASO DE REPRODUCCIÓN DEL ACTO SUSPENDIDO
-- [[art. 239 CPACA|Artículo 239]] — PROCEDIMIENTO EN CASO DE REPRODUCCIÓN DEL ACTO ANULADO
-- [[art. 240 CPACA|Artículo 240]] — RESPONSABILIDAD
-- [[art. 241 CPACA|Artículo 241]] — SANCIONES
+- [[art. 237 CPACA|Artículo 237]] — Prohibición de reproducción del acto suspendido o anulado
+- [[art. 238 CPACA|Artículo 238]] — Procedimiento en caso de reproducción del acto suspendido
+- [[art. 239 CPACA|Artículo 239]] — Procedimiento en caso de reproducción del acto anulado
+- [[art. 240 CPACA|Artículo 240]] — Responsabilidad
+- [[art. 241 CPACA|Artículo 241]] — Sanciones
 
 ---
 ← [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]] · ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo XII|Capítulo XII]] →

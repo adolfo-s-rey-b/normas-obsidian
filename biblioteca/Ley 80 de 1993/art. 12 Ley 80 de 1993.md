@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "12"
-epigrafe: "DE LA DELEGACIÓN PARA CONTRATAR"
+epigrafe: "De la Delegación para Contratar"
 vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 21 Ley 1150 de 2007]]"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 12. DE LA DELEGACIÓN PARA CONTRATAR
+## Artículo 12. De la Delegación para Contratar
 
 Los jefes y los representantes legales de las entidades estatales podrán delegar total o parcialmente la competencia para celebrar contratos y desconcentrar la realización de licitaciones ~~o concursos~~ en los servidores públicos que desempeñen cargos del nivel directivo o ejecutivo o en sus equivalentes.
 

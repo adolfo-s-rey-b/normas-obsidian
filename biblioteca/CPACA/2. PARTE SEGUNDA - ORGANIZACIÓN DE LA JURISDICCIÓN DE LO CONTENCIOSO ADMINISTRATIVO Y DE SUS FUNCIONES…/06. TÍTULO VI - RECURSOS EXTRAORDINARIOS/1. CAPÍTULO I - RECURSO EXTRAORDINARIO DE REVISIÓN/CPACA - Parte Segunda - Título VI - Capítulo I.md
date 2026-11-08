@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 248 CPACA|Artículo 248]] — PROCEDENCIA
-- [[art. 249 CPACA|Artículo 249]] — COMPETENCIA
-- [[art. 250 CPACA|Artículo 250]] — CAUSALES DE REVISIÓN
-- [[art. 251 CPACA|Artículo 251]] — TÉRMINO PARA INTERPONER EL RECURSO
-- [[art. 252 CPACA|Artículo 252]] — REQUISITOS DEL RECURSO
-- [[art. 253 CPACA|Artículo 253]] — TRÁMITE
-- [[art. 254 CPACA|Artículo 254]] — PRUEBAS
-- [[art. 255 CPACA|Artículo 255]] — SENTENCIA
+- [[art. 248 CPACA|Artículo 248]] — Procedencia
+- [[art. 249 CPACA|Artículo 249]] — Competencia
+- [[art. 250 CPACA|Artículo 250]] — Causales de revisión
+- [[art. 251 CPACA|Artículo 251]] — Término para interponer el recurso
+- [[art. 252 CPACA|Artículo 252]] — Requisitos del recurso
+- [[art. 253 CPACA|Artículo 253]] — Trámite
+- [[art. 254 CPACA|Artículo 254]] — Pruebas
+- [[art. 255 CPACA|Artículo 255]] — Sentencia
 
 ---
 ↑ [[CPACA - Parte Segunda - Título VI|Título VI]] · [[CPACA - Parte Segunda - Título VI - Capítulo II|Capítulo II]] →

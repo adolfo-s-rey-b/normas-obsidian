@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 143 Ley 446 de 1998|Artículo 143]] — FUNCIONES SOBRE COMPETENCIA DESLEAL
-- [[art. 144 Ley 446 de 1998|Artículo 144]] — FACULTADES SOBRE COMPETENCIA DESLEAL
+- [[art. 143 Ley 446 de 1998|Artículo 143]] — Funciones sobre competencia desleal
+- [[art. 144 Ley 446 de 1998|Artículo 144]] — Facultades sobre competencia desleal
 
 ---
 ↑ [[Ley 446 de 1998 - Parte IV - Título IV|Título IV]] · [[Ley 446 de 1998 - Parte IV - Título IV - Capítulo 2|Capítulo 2]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "110"
-epigrafe: "FACULTADES DE LOS SUJETOS PROCESALES"
+epigrafe: "Facultades de los sujetos procesales"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IV|TÍTULO IV - SUJETOS PROCESALES]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IV|Título IV]]
 
-## Artículo 110. FACULTADES DE LOS SUJETOS PROCESALES
+## Artículo 110. Facultades de los sujetos procesales
 
 Los sujetos procesales podrán:
 

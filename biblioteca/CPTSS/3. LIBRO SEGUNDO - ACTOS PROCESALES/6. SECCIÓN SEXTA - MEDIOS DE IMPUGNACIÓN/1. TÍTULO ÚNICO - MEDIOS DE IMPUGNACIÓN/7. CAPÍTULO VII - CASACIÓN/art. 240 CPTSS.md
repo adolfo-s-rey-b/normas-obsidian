@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "240"
-epigrafe: "TRÁMITE PARA LA SELECCIÓN DE LAS SENTENCIAS REMITIDAS POR LOS TRIBUNALES"
+epigrafe: "Trámite para la selección de las sentencias remitidas por los Tribunales"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 240. TRÁMITE PARA LA SELECCIÓN DE LAS SENTENCIAS REMITIDAS POR LOS TRIBUNALES
+## Artículo 240. Trámite para la selección de las sentencias remitidas por los Tribunales
 
 En los eventos en que los tribunales superiores evidencien la ocurrencia de alguno de los criterios descritos en el numeral 2 de este artículo, podrán solicitar la selección de la sentencia de segunda instancia.
 

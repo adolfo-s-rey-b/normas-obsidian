@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "733"
-epigrafe: "SUSPENSION DEL TERMINO PARA RESOLVER"
+epigrafe: "SUSPENSIÓN DEL TÉRMINO PARA RESOLVER"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título V|TÍTULO V - DISCUSION DE LOS ACTOS DE LA ADMINISTRACIÓN]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título V|Título V]]
 
-## Artículo 733. SUSPENSION DEL TERMINO PARA RESOLVER
+## Artículo 733. SUSPENSIÓN DEL TÉRMINO PARA RESOLVER
 
 Cuando se practique inspección tributaria, el término para fallar los recursos, se suspenderá mientras dure la inspección, si ésta se practica a solicitud del contribuyente, responsable, agente retenedor o declarante, y hasta por tres (3) meses cuando se practica de oficio.
 

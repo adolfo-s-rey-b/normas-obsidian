@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "216"
-epigrafe: "CREACION Y OBJETO"
+epigrafe: "Creación y Objeto"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 216. CREACION Y OBJETO
+## Artículo 216. Creación y Objeto
 
 (Fuente Ley 16/90; Art. [[art. 1 Ley 16 de 1990|1]]o.) Para proveer y mantener un adecuado financiamiento de las actividades del sector agropecuario, de conformidad con las políticas sectoriales establecidas en los planes y programas de desarrollo que adopte el Congreso o el Gobierno, según el caso, la Ley 16 de 1990 creó el Sistema Nacional de Crédito Agropecuario, cuyos objetivos principales son la formulación de la política de crédito para el sector agropecuario y la coordinación y nacionalización del uso de sus recursos financieros.
 

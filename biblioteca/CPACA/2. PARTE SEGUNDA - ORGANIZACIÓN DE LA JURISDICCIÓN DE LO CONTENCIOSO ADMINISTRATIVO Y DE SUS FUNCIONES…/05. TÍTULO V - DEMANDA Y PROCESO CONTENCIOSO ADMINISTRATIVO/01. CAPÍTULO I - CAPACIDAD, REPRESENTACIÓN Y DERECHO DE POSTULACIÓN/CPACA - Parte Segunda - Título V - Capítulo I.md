@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 159 CPACA|Artículo 159]] — CAPACIDAD Y REPRESENTACIÓN
-- [[art. 160 CPACA|Artículo 160]] — DERECHO DE POSTULACIÓN
+- [[art. 159 CPACA|Artículo 159]] — Capacidad y representación
+- [[art. 160 CPACA|Artículo 160]] — Derecho de postulación
 
 ---
 ↑ [[CPACA - Parte Segunda - Título V|Título V]] · [[CPACA - Parte Segunda - Título V - Capítulo II|Capítulo II]] →

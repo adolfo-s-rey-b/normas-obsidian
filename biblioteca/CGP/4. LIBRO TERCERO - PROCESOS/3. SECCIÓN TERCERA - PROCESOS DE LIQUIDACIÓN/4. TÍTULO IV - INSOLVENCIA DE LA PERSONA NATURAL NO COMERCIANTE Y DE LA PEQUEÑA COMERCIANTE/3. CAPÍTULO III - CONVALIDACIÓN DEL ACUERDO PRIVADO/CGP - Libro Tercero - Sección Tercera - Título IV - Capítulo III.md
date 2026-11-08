@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 562 CGP|Artículo 562]] — CONVALIDACIÓN DEL ACUERDO PRIVADO
+- [[art. 562 CGP|Artículo 562]] — Convalidación del acuerdo privado
 
 ---
 ← [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] · [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo IV|Capítulo IV]] →

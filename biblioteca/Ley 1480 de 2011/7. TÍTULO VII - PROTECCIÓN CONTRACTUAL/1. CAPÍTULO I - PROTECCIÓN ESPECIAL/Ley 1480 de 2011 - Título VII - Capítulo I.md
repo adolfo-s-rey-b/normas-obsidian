@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 34 Ley 1480 de 2011|Artículo 34]] — INTERPRETACIÓN FAVORABLE
-- [[art. 35 Ley 1480 de 2011|Artículo 35]] — PRODUCTOS NO REQUERIDOS
-- [[art. 36 Ley 1480 de 2011|Artículo 36]] — PROHIBICIÓN DE VENTAS ATADAS
+- [[art. 34 Ley 1480 de 2011|Artículo 34]] — Interpretación favorable
+- [[art. 35 Ley 1480 de 2011|Artículo 35]] — Productos no requeridos
+- [[art. 36 Ley 1480 de 2011|Artículo 36]] — Prohibición de ventas atadas
 
 ---
 ↑ [[Ley 1480 de 2011 - Título VII|Título VII]] · [[Ley 1480 de 2011 - Título VII - Capítulo II|Capítulo II]] →

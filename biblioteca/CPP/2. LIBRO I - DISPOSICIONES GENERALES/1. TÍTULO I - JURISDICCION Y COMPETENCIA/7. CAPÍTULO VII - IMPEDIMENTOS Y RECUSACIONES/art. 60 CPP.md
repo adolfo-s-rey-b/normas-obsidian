@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "60"
-epigrafe: "REQUISITOS Y FORMAS DE RECUSACIÓN"
+epigrafe: "Requisitos y formas de recusación"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 60. REQUISITOS Y FORMAS DE RECUSACIÓN
+## Artículo 60. Requisitos y formas de recusación
 
 Si el funcionario en quien se dé una causal de impedimento no la declarare, cualquiera de las partes podrá recusarlo.
 

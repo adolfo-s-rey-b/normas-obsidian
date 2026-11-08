@@ -23,10 +23,10 @@ tags:
 ### Contenido
 
 - [[art. 201 EOSF|Artículo 201]] — SEGURO DE VIDA DE AHORRO CON PARTICIPACION
-- [[art. 202 EOSF|Artículo 202]] — SEGURO DE VIDA PARA FUNCIONARIOS Y EMPLEADOS DE LA RAMA JURISDICCIONAL Y DEL MINISTERIO PUBLICO
-- [[art. 203 EOSF|Artículo 203]] — SEGURO DE MANEJO O DE CUMPLIMIENTO
-- [[art. 204 EOSF|Artículo 204]] — SEGUROS EN DIVISAS
-- [[art. 205 EOSF|Artículo 205]] — SEGURO DE CREDITO A LA EXPORTACION
+- [[art. 202 EOSF|Artículo 202]] — Seguro de Vida para Funcionarios y Empleados de la Rama Jurisdiccional y del Ministerio Público
+- [[art. 203 EOSF|Artículo 203]] — Seguro de Manejo o de Cumplimiento
+- [[art. 204 EOSF|Artículo 204]] — Seguros en Divisas
+- [[art. 205 EOSF|Artículo 205]] — Seguro de Crédito a la Exportación
 
 ---
 ← [[EOSF - Parte VI - Capítulo V|Capítulo V]] · ↑ [[EOSF - Parte VI|Parte VI]] · [[EOSF - Parte VI - Capítulo VII|Capítulo VII]] →

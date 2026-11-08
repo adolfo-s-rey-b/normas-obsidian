@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "198"
-epigrafe: "PRUEBA DEL HECHO INDICADOR"
+epigrafe: "Prueba del hecho indicador"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo VI|CAPÍTULO VI - INDICIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 198. PRUEBA DEL HECHO INDICADOR
+## Artículo 198. Prueba del hecho indicador
 
 El hecho indicador debe estar probado.
 

@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 156 CPP|Artículo 156]] — REGLA GENERAL
-- [[art. 157 CPP|Artículo 157]] — OPORTUNIDAD
-- [[art. 158 CPP|Artículo 158]] — PRÓRROGA DE TÉRMINOS
-- [[art. 159 CPP|Artículo 159]] — TÉRMINO JUDICIAL
-- [[art. 160 CPP|Artículo 160]] — TÉRMINO PARA ADOPTAR DECISIONES
+- [[art. 156 CPP|Artículo 156]] — Regla general
+- [[art. 157 CPP|Artículo 157]] — Oportunidad
+- [[art. 158 CPP|Artículo 158]] — Prórroga de términos
+- [[art. 159 CPP|Artículo 159]] — Término judicial
+- [[art. 160 CPP|Artículo 160]] — Término para adoptar decisiones
 
 ---
 ← [[CPP - Libro I - Título VI - Capítulo III|Capítulo III]] · ↑ [[CPP - Libro I - Título VI|Título VI]] · [[CPP - Libro I - Título VI - Capítulo V|Capítulo V]] →

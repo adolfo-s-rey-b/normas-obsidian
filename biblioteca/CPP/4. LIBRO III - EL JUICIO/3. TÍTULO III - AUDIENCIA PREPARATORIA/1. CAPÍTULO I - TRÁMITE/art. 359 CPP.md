@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "359"
-epigrafe: "EXCLUSIÓN, RECHAZO E INADMISIBILIDAD DE LOS MEDIOS DE PRUEBA"
+epigrafe: "Exclusión, rechazo e inadmisibilidad de los medios de prueba"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título III|TÍTULO III - AUDIENCIA PREPARATORIA]]"
 capitulo: "[[CPP - Libro III - Título III - Capítulo I|CAPÍTULO I - TRÁMITE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título III|Título III]] › [[CPP - Libro III - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 359. EXCLUSIÓN, RECHAZO E INADMISIBILIDAD DE LOS MEDIOS DE PRUEBA
+## Artículo 359. Exclusión, rechazo e inadmisibilidad de los medios de prueba
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

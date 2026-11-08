@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "275"
-epigrafe: "CAUSALES DE ANULACIÓN ELECTORAL"
+epigrafe: "Causales de anulación electoral"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VIII|TÍTULO VIII - DISPOSICIONES ESPECIALES PARA EL TRÁMITE Y DECISIÓN DE LAS PRETENSIONES DE CONTENIDO ELECTORAL]]"
 vigencia: "parcialmente inexequible"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VIII|Título VIII]]
 
-## Artículo 275. CAUSALES DE ANULACIÓN ELECTORAL
+## Artículo 275. Causales de anulación electoral
 
 Los actos de elección o de nombramiento son nulos en los eventos previstos en el artículo [[art. 137 CPACA|137]] de este Código y, además, cuando:
 

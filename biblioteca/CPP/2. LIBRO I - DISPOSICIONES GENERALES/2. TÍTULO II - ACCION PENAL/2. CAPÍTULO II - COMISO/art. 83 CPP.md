@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "83"
-epigrafe: "MEDIDAS CAUTELARES SOBRE BIENES SUSCEPTIBLES DE COMISO"
+epigrafe: "Medidas cautelares sobre bienes susceptibles de comiso"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 83. MEDIDAS CAUTELARES SOBRE BIENES SUSCEPTIBLES DE COMISO
+## Artículo 83. Medidas cautelares sobre bienes susceptibles de comiso
 
 Se tendrán como medidas materiales con el fin de garantizar el comiso la incautación y ocupación, y como medida jurídica la suspensión del poder dispositivo.
 

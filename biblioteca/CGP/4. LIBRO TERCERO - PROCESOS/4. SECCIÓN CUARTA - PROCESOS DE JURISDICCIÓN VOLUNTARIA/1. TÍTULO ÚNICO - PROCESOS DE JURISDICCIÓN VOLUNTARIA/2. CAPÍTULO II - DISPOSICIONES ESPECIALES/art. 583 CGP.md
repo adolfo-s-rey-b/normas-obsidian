@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "583"
-epigrafe: "DECLARACIÓN DE AUSENCIA"
+epigrafe: "Declaración de ausencia"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Cuarta|SECCIÓN CUARTA - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
 titulo: "[[CGP - Libro Tercero - Sección Cuarta - Título Único|TÍTULO ÚNICO - PROCESOS DE JURISDICCIÓN VOLUNTARIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Cuarta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 583. DECLARACIÓN DE AUSENCIA
+## Artículo 583. Declaración de ausencia
 
 Para la declaración de ausencia de una persona se observarán las siguientes reglas:
 

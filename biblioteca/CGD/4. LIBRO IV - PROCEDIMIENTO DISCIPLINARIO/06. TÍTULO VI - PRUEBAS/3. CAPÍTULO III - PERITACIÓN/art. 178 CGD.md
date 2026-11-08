@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "178"
-epigrafe: "IMPEDIMENTOS Y RECUSACIONES DEL PERITO"
+epigrafe: "Impedimentos y recusaciones del perito"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 178. IMPEDIMENTOS Y RECUSACIONES DEL PERITO
+## Artículo 178. Impedimentos y recusaciones del perito
 
 Los peritos están impedidos y son recusables por las mismas causales que la autoridad disciplinaria competente. El perito en quien concurra alguna causal de impedimento deberá manifestarla antes de su posesión, acompañando, de ser posible, la prueba que lo sustente y el competente procederá a reemplazarlo si la acepta.
 

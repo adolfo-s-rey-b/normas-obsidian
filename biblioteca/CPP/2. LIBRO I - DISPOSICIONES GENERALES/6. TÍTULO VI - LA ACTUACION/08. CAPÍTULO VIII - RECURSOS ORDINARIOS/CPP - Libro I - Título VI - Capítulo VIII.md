@@ -23,10 +23,10 @@ tags:
 
 ### Contenido
 
-- [[art. 176 CPP|Artículo 176]] — RECURSOS ORDINARIOS
-- [[art. 177 CPP|Artículo 177]] — EFECTOS
-- [[art. 178 CPP|Artículo 178]] — TRÁMITE DEL RECURSO DE APELACIÓN CONTRA AUTOS
-- [[art. 179 CPP|Artículo 179]] — TRÁMITE DEL RECURSO DE APELACIÓN CONTRA SENTENCIAS
+- [[art. 176 CPP|Artículo 176]] — Recursos ordinarios
+- [[art. 177 CPP|Artículo 177]] — Efectos
+- [[art. 178 CPP|Artículo 178]] — Trámite del recurso de apelación contra autos
+- [[art. 179 CPP|Artículo 179]] — Trámite del recurso de apelación contra sentencias
 - [[art. 179A CPP|Artículo 179A]]
 - [[art. 179B CPP|Artículo 179B]] — PROCEDENCIA DEL RECURSO DE QUEJA
 - [[art. 179C CPP|Artículo 179C]] — INTERPOSICIÓN

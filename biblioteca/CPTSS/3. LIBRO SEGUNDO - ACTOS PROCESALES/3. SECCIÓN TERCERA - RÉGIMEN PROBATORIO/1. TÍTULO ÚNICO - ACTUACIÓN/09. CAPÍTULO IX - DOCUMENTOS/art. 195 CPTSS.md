@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "195"
-epigrafe: "DESCONOCIMIENTO DEL DOCUMENTO"
+epigrafe: "Desconocimiento del documento"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 195. DESCONOCIMIENTO DEL DOCUMENTO
+## Artículo 195. Desconocimiento del documento
 
 En la misma oportunidad para formular la tacha de falsedad, la parte a quien se le atribuya algún tipo de documento de los consignados en el presente código, no firmado, ni manuscrito por ella, podrá desconocerlo. La misma regla se aplicará a los documentos dispositivos y representativos emanados de terceros. Para tal efecto, expresará con claridad los motivos del desconocimiento.
 

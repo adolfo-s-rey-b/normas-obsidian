@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "96"
-epigrafe: "RENTA BRUTA EN COMPAÑIAS DE SEGUROS DE VIDA"
+epigrafe: "RENTA BRUTA EN COMPAÑÍAS DE SEGUROS DE VIDA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo IV|CAPÍTULO IV - RENTAS BRUTAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo IV|Capítulo IV]] › [[ET - Libro Primero - Título I - Capítulo IV - Activos biológicos|Activos biológicos]]
 
-## Artículo 96. RENTA BRUTA EN COMPAÑIAS DE SEGUROS DE VIDA
+## Artículo 96. RENTA BRUTA EN COMPAÑÍAS DE SEGUROS DE VIDA
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 37 ET|37]]) La renta bruta de las compañías de seguros de vida se determina de la manera siguiente: Al total de los ingresos netos obtenidos durante el año o período gravable, se suma el importe que al final del año o período gravable anterior haya tenido la reserva matemática, y del resultado de esa suma se restan las partidas correspondientes a los siguientes conceptos:
 

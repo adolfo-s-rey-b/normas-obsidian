@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "1"
-epigrafe: "OBJETO"
+epigrafe: "Objeto"
 capitulo: "[[Ley 820 de 2003 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 siguiente: "[[art. 2 Ley 820 de 2003]]"
@@ -22,7 +22,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo I|Capítulo I]]
 
-## Artículo 1. OBJETO
+## Artículo 1. Objeto
 
 La presente ley tiene como objeto fijar los criterios que deben servir de base para regular los contratos de arrendamiento de los inmuebles urbanos destinados a vivienda, en desarrollo de los derechos de los colombianos a una vivienda digna y a la propiedad con función social.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "62"
-epigrafe: "SUSPENSIÓN DE LA ACTUACIÓN PROCESAL"
+epigrafe: "Suspensión de la actuación procesal"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo VII|CAPÍTULO VII - IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]]
 
-## Artículo 62. SUSPENSIÓN DE LA ACTUACIÓN PROCESAL
+## Artículo 62. Suspensión de la actuación procesal
 
 Desde cuando se presente la recusación o se manifieste el impedimento del funcionario judicial hasta que se resuelva definitivamente, se suspenderá la actuación.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "300"
-epigrafe: "NOTIFICACIÓN AL REPRESENTANTE DE VARIAS PARTES"
+epigrafe: "Notificación al representante de varias partes"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 300. NOTIFICACIÓN AL REPRESENTANTE DE VARIAS PARTES
+## Artículo 300. Notificación al representante de varias partes
 
 Siempre que una persona figure en el proceso como representante de varias, o actúe en su propio nombre y como representante de otra, se considerará como una sola para los efectos de las citaciones, notificaciones, traslados, requerimientos y diligencias semejantes.
 

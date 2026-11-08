@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "24"
-epigrafe: "BANCO DE EXITOS"
+epigrafe: "Banco de éxitos"
 capitulo: "[[Ley 489 de 1998 - Capítulo V|CAPÍTULO V - INCENTIVOS A LA GESTION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 23 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo V|Capítulo V]]
 
-## Artículo 24. BANCO DE EXITOS
+## Artículo 24. Banco de éxitos
 
 El Departamento Administrativo de la Función Pública organizará el Banco de Exitos de la Administración Pública. En él, de conformidad con la reglamentación que para el efecto expida el Gobierno Nacional, se registrarán, documentarán y divulgarán las experiencias exitosas de desarrollo de la Administración y se promoverá y coordinará la cooperación entre las entidades exitosas y las demás que puedan aprovechar tales experiencias.
 

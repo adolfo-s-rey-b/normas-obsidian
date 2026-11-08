@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 192 EOSF|Artículo 192]] — ASPECTOS GENERALES
-- [[art. 193 EOSF|Artículo 193]] — ASPECTOS ESPECIFICOS RELATIVOS A LA POLIZA
-- [[art. 194 EOSF|Artículo 194]] — PAGO DE INDEMNIZACIONES
-- [[art. 195 EOSF|Artículo 195]] — ATENCION DE LAS VICTIMAS
-- [[art. 196 EOSF|Artículo 196]] — ENTIDADES ASEGURADORAS HABILITADAS PARA OFRECER EL SEGURO OBLIGATORIO DE ACCIDENTES DE TRANSITO
-- [[art. 197 EOSF|Artículo 197]] — CONTROL Y ACTUALIZACION DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES POR ACCIDENTES DE TRANSITO
+- [[art. 192 EOSF|Artículo 192]] — Aspectos Generales
+- [[art. 193 EOSF|Artículo 193]] — Aspectos Específicos Relativos a la Póliza
+- [[art. 194 EOSF|Artículo 194]] — Pago de Indemnizaciones
+- [[art. 195 EOSF|Artículo 195]] — Atención de las Víctimas
+- [[art. 196 EOSF|Artículo 196]] — Entidades Aseguradoras Habilitadas para Ofrecer el Seguro Obligatorio de Accidentes de Tránsito
+- [[art. 197 EOSF|Artículo 197]] — Control y Actualización del Seguro Obligatorio de Daños Corporales por Accidentes de Tránsito
 
 ---
 ← [[EOSF - Parte VI - Capítulo III|Capítulo III]] · ↑ [[EOSF - Parte VI|Parte VI]] · [[EOSF - Parte VI - Capítulo V|Capítulo V]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "267"
-epigrafe: "FACULTADES DE QUIEN NO ES IMPUTADO"
+epigrafe: "Facultades de quien no es imputado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo VI|CAPÍTULO VI - FACULTADES DE LA DEFENSA EN LA INVESTIGACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 267. FACULTADES DE QUIEN NO ES IMPUTADO
+## Artículo 267. Facultades de quien no es imputado
 
 Quien sea informado o advierta que se adelanta investigación en su contra, podrá asesorarse de abogado. Aquel o este, podrán buscar, identificar empíricamente, recoger y embalar los elementos materiales probatorios, y hacerlos examinar por peritos particulares a su costa, o solicitar a la policía judicial que lo haga. Tales elementos, el informe sobre ellos y las entrevistas que hayan realizado con el fin de descubrir información útil, podrá utilizarlos en su defensa ante las autoridades judiciales.
 

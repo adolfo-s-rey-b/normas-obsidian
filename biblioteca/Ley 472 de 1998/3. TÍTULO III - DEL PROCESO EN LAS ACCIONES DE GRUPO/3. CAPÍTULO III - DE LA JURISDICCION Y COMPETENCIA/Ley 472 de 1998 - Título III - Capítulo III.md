@@ -19,8 +19,8 @@ tags:
 
 ### Contenido
 
-- [[art. 50 Ley 472 de 1998|Artículo 50]] — JURISDICCION
-- [[art. 51 Ley 472 de 1998|Artículo 51]] — COMPETENCIA
+- [[art. 50 Ley 472 de 1998|Artículo 50]] — Jurisdicción
+- [[art. 51 Ley 472 de 1998|Artículo 51]] — Competencia
 
 ---
 ← [[Ley 472 de 1998 - Título III - Capítulo II|Capítulo II]] · ↑ [[Ley 472 de 1998 - Título III|Título III]] · [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]] →

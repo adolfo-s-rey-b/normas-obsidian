@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "9"
-epigrafe: "ORALIDAD"
+epigrafe: "Oralidad"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 8 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 9. ORALIDAD
+## Artículo 9. Oralidad
 
 La actuación procesal será oral y en su realización se utilizarán los medios técnicos disponibles que permitan imprimirle mayor agilidad y fidelidad, sin perjuicio de conservar registro de lo acontecido. A estos efectos se dejará constancia de la actuación.
 

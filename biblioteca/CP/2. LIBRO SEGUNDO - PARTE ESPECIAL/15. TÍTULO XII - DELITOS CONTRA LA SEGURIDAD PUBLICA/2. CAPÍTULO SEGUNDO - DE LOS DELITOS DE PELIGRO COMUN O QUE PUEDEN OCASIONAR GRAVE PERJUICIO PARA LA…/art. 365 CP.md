@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "365"
-epigrafe: "FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS DE FUEGO O MUNICIONES"
+epigrafe: "Fabricacion, trafico y porte de armas de fuego o municiones"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XII|TÍTULO XII - DELITOS CONTRA LA SEGURIDAD PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XII - Capítulo Segundo|CAPÍTULO SEGUNDO - DE LOS DELITOS DE PELIGRO COMUN O QUE PUEDEN OCASIONAR GRAVE PERJUICIO PARA LA COMUNIDAD Y OTRAS INFRACCIONES]]"
@@ -19,7 +19,6 @@ modificado_por:
   - "[[art. 17 Ley 2197 de 2022]]"
   - "[[art. 38 Ley 1142 de 2007]]"
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 anterior: "[[art. 364 CP]]"
 siguiente: "[[art. 366 CP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
@@ -36,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XII|Título XII]] › [[CP - Libro Segundo - Título XII - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 365. FABRICACIÓN, TRÁFICO Y PORTE DE ARMAS DE FUEGO O MUNICIONES
+## Artículo 365. Fabricacion, trafico y porte de armas de fuego o municiones
 
 El que sin permiso de autoridad competente importe, trafique, fabrique, transporte, almacene, distribuya, venda, suministre, repare, porte o tenga en un lugar armas de fuego de defensa personal, sus partes esenciales, accesorios esenciales o municiones, incurrirá en prisión de nueve (9) a doce (12) años.
 
@@ -74,7 +73,7 @@ La pena anteriormente dispuesta se duplicará cuando la conducta se cometa en la
 
 > [!info] Notas del Editor: Destaca el editor que el numeral 9 que se pretendía adicionar por el Proyecto de Ley S266 de 2021 (Ley 2197 de 2022), era el siguiente: '9. Cuando las armas, elementos, dispositivos o municiones menos letales hayan sido modificadas en sus características de fabricación u origen, que aumenten su letalidad.'.
 
-> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 17 Ley 2197 de 2022|17]] de la Ley 2197 de 2022, 'por medio de la cual se dictan normas tendientes al fortalecimiento de la seguridad ciudadana y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.928 de 25 de enero de 2022. Cambia únicamente el título del artículo, el orden de los numerales 7 y 8) . El numeral 9 que ordena adicionar, no se adiciona. Ver Notas del Editor. - Artículo modificado por el artículo [[art. 19 Ley 1453 de 2011|19]] de la Ley 1453 de 2011, publicada en el Diario Oficial No. 48.110 de 24 de junio de 2011. - Artículo modificado por el artículo [[art. 38 Ley 1142 de 2007|38]] de la Ley 1142 de 2007, publicada en el Diario Oficial No. 46.673 de 28 de julio de 2007. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 17 Ley 2197 de 2022|17]] de la Ley 2197 de 2022, 'por medio de la cual se dictan normas tendientes al fortalecimiento de la seguridad ciudadana y se dictan otras disposiciones', publicada en el Diario Oficial No. 51.928 de 25 de enero de 2022. Cambia únicamente el título del artículo, el orden de los numerales 7 y 8) . El numeral 9 que ordena adicionar, no se adiciona. Ver Notas del Editor. - Artículo modificado por el artículo [[art. 19 Ley 1453 de 2011|19]] de la Ley 1453 de 2011, publicada en el Diario Oficial No. 48.110 de 24 de junio de 2011. - Artículo modificado por el artículo [[art. 38 Ley 1142 de 2007|38]] de la Ley 1142 de 2007, publicada en el Diario Oficial No. 46.673 de 28 de julio de 2007. - Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional: - El texto subrayado del inciso 1o. del texto original corresponde en similar sentido al texto del artículo [[art. 201 Ley 100 de 1980|201]] del Decreto-Ley 100 de 1980, sobre el cual la Corte Constitucional se pronunció declarándolo EXEQUIBLE mediante Sentencia C-038-95 de 9 de febrero de 1995, Magistrado Ponente Dr. Alejandro Martínez Caballero.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "204"
-epigrafe: "SEGUROS EN DIVISAS"
+epigrafe: "Seguros en Divisas"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo VI|CAPÍTULO VI - SEGUROS ESPECIALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 204. SEGUROS EN DIVISAS
+## Artículo 204. Seguros en Divisas
 
 De conformidad con las regulaciones del Gobierno Nacional podrán contratarse seguros denominados en divisas sobre personas y sobre aquellos bienes que, con carácter general, se califiquen como riesgos especiales.
 

@@ -8,7 +8,7 @@ epigrafe: "REUNIONES NO PRESENCIALES"
 titulo: "[[Ley 222 de 1995 - Título I|TÍTULO I - REGIMEN DE SOCIEDADES]]"
 capitulo: "[[Ley 222 de 1995 - Título I - Capítulo IV|CAPÍTULO IV - ORGANOS SOCIALES]]"
 seccion: "[[Ley 222 de 1995 - Título I - Capítulo IV - Sección I|SECCIÓN I - ASAMBLEA O JUNTA DE SOCIOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 148 Decreto 19 de 2012]]"
 anterior: "[[art. 18 Ley 222 de 1995]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título I|Título I]] › [[Ley 222 de 1995 - Título I - Capítulo IV|Capítulo IV]] › [[Ley 222 de 1995 - Título I - Capítulo IV - Sección I|Sección I]]

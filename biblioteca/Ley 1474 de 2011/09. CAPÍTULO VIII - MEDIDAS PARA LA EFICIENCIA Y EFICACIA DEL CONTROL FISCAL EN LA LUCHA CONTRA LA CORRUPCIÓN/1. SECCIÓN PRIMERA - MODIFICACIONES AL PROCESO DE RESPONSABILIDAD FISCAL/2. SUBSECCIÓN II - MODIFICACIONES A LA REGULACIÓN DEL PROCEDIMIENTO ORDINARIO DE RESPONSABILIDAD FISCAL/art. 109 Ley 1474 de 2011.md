@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "109"
-epigrafe: "OPORTUNIDAD Y REQUISITOS DE LA SOLICITUD DE NULIDAD"
+epigrafe: "Oportunidad y requisitos de la solicitud de nulidad"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|SUBSECCIÓN II - MODIFICACIONES A LA REGULACIÓN DEL PROCEDIMIENTO ORDINARIO DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|Subsección II]]
 
-## Artículo 109. OPORTUNIDAD Y REQUISITOS DE LA SOLICITUD DE NULIDAD
+## Artículo 109. Oportunidad y requisitos de la solicitud de nulidad
 
 La solicitud de nulidad podrá formularse hasta antes de proferirse la decisión final, la cual se resolverá dentro de los cinco (5) días siguientes a la fecha de su presentación.
 

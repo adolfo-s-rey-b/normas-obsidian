@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "89"
-epigrafe: "JUNTAS DIRECTIVAS DE LAS EMPRESAS ESTATALES"
+epigrafe: "Juntas directivas de las empresas estatales"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 88 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 89. JUNTAS DIRECTIVAS DE LAS EMPRESAS ESTATALES
+## Artículo 89. Juntas directivas de las empresas estatales
 
 La integración de las juntas directivas de las empresas industriales y comerciales del Estado, la calidad y los deberes de sus miembros, su remuneración y el régimen de sus inhabilidades e incompatibilidades se regirán por las disposiciones aplicables a los establecimientos públicos conforme a la presente ley.
 

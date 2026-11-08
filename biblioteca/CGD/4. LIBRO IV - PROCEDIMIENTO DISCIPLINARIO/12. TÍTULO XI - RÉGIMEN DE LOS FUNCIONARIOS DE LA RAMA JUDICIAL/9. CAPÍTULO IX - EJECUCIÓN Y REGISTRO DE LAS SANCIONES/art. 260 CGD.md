@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "260"
-epigrafe: "COMUNICACIONES"
+epigrafe: "Comunicaciones"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo IX|CAPÍTULO IX - EJECUCIÓN Y REGISTRO DE LAS SANCIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo IX|Capítulo IX]]
 
-## Artículo 260. COMUNICACIONES
+## Artículo 260. Comunicaciones
 
 Ejecutoriada la sentencia sancionatoria, se comunicará por la Sala de primera o única instancia, según el caso, a la Oficina de Registro y Control de la Procuraduría General de la Nación, a la Gerencia de la Rama Judicial* o quien haga sus veces, y al nominador del funcionario sancionado.
 

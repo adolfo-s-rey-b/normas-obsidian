@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "7"
-epigrafe: "PRESUNCIÓN DE INOCENCIA E IN DUBIO PRO REO"
+epigrafe: "Presunción de inocencia e in dubio pro reo"
 titulo: "[[CPP - Título Preliminar|TÍTULO PRELIMINAR - PRINCIPIOS RECTORES Y GARANTIAS PROCESALES]]"
 vigencia: "vigente"
 anterior: "[[art. 6 CPP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Título Preliminar|Título Preliminar]]
 
-## Artículo 7. PRESUNCIÓN DE INOCENCIA E IN DUBIO PRO REO
+## Artículo 7. Presunción de inocencia e in dubio pro reo
 
 Toda persona se presume inocente y debe ser tratada como tal, mientras no quede en firme decisión judicial definitiva sobre su responsabilidad penal.
 

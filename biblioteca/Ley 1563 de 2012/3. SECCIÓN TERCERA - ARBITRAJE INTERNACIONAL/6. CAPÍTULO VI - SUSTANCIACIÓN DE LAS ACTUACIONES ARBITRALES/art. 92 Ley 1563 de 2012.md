@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "92"
-epigrafe: "DETERMINACIÓN DEL PROCEDIMIENTO"
+epigrafe: "Determinación del procedimiento"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 92. DETERMINACIÓN DEL PROCEDIMIENTO
+## Artículo 92. Determinación del procedimiento
 
 Las partes, con sujeción a las disposiciones de la presente sección, podrán convenir el procedimiento, directamente o por referencia a un reglamento arbitral.
 

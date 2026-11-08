@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "107"
-epigrafe: "PRECLUSIVIDAD DE LOS PLAZOS EN EL TRÁMITE DE LOS PROCESOS DE RESPONSABILIDAD FISCAL"
+epigrafe: "Preclusividad de los plazos en el trámite de los procesos de responsabilidad fiscal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|SUBSECCIÓN II - MODIFICACIONES A LA REGULACIÓN DEL PROCEDIMIENTO ORDINARIO DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección II|Subsección II]]
 
-## Artículo 107. PRECLUSIVIDAD DE LOS PLAZOS EN EL TRÁMITE DE LOS PROCESOS DE RESPONSABILIDAD FISCAL
+## Artículo 107. Preclusividad de los plazos en el trámite de los procesos de responsabilidad fiscal
 
 Los plazos previstos legalmente para la práctica de las pruebas en la indagación preliminar y en la etapa de investigación en los procesos de responsabilidad fiscal serán preclusivos y por lo tanto carecerán de valor las pruebas practicadas por fuera de los mismos. La práctica de pruebas en el proceso ordinario de responsabilidad fiscal no podrá exceder de dos años contados a partir del momento en que se notifique la providencia que las decreta. En el proceso verbal dicho término no podrá exceder de un año.
 

@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 114 CGP|Artículo 114]] — COPIAS DE ACTUACIONES JUDICIALES
-- [[art. 115 CGP|Artículo 115]] — CERTIFICACIONES
-- [[art. 116 CGP|Artículo 116]] — DESGLOSES
+- [[art. 114 CGP|Artículo 114]] — Copias de actuaciones judiciales
+- [[art. 115 CGP|Artículo 115]] — Certificaciones
+- [[art. 116 CGP|Artículo 116]] — Desgloses
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]]

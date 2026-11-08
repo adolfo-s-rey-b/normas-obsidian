@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "141"
-epigrafe: "PROTECCION DE LOS ACCIONISTAS MINORITARIOS"
+epigrafe: "Protección de los accionistas minoritarios"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título III|TÍTULO III - DE LA SUPERINTENDENCIA DE VALORES < 1 >]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título III - Capítulo 1|CAPÍTULO 1 - PROTECCION DE ACCIONISTAS MINORITARIOS]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título III|Título III]] › [[Ley 446 de 1998 - Parte IV - Título III - Capítulo 1|Capítulo 1]]
 
-## Artículo 141. PROTECCION DE LOS ACCIONISTAS MINORITARIOS
+## Artículo 141. Protección de los accionistas minoritarios
 
 Cualquier número de accionistas de una sociedad que participe en el mercado público de valores que represente una cantidad de acciones no superior al diez por ciento (10%) de las acciones en circulación y que no tenga representación dentro de la administración de una sociedad, podrá acudir ante la Superintendencia de Valores cuando considere que sus derechos hayan sido lesionados directa o indirectamente por las decisiones de la Asamblea General de Accionistas o de la Junta Directiva o representantes legales de la sociedad.
 

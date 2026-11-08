@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 446 CP|Artículo 446]] — FAVORECIMIENTO
+- [[art. 446 CP|Artículo 446]] — Favorecimiento
 - [[art. 447 CP|Artículo 447]] — RECEPTACIÓN
 - [[art. 447A CP|Artículo 447A]] — COMERCIALIZACIÓN DE AUTOPARTES HURTADAS
 

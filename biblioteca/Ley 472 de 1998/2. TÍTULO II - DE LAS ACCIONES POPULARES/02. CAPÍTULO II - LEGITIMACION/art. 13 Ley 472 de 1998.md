@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "13"
-epigrafe: "EJERCICIO DE LA ACCION POPULAR"
+epigrafe: "Ejercicio de la Acción Popular"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo II|CAPÍTULO II - LEGITIMACION]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 13. EJERCICIO DE LA ACCION POPULAR
+## Artículo 13. Ejercicio de la Acción Popular
 
 Los legitimados para ejercer acciones populares pueden hacerlo por sí mismos o por quien actúe en su nombre.
 

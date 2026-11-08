@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "107"
-epigrafe: "LA ANULACIÓN COMO ÚNICO RECURSO JUDICIAL CONTRA UN LAUDO ARBITRAL"
+epigrafe: "La anulación como único recurso judicial contra un laudo arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|CAPÍTULO VIII - IMPUGNACIÓN DEL LAUDO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 107. LA ANULACIÓN COMO ÚNICO RECURSO JUDICIAL CONTRA UN LAUDO ARBITRAL
+## Artículo 107. La anulación como único recurso judicial contra un laudo arbitral
 
 Contra el laudo arbitral solamente procederá el recurso de anulación por las causales taxativamente establecidas en esta sección. En consecuencia, la autoridad judicial no se pronunciará sobre el fondo de la controversia ni calificará los criterios, valoraciones probatorias, motivaciones o interpretaciones expuestas por el tribunal arbitral.
 

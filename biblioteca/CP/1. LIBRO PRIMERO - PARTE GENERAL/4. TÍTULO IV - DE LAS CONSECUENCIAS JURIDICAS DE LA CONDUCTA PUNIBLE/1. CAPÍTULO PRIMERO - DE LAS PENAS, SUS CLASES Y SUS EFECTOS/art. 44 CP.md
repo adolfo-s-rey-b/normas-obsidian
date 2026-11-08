@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "44"
-epigrafe: "LA INHABILITACIÓN PARA EL EJERCICIO DE DERECHOS Y FUNCIONES PÚBLICAS"
+epigrafe: "La inhabilitación para el ejercicio de derechos y funciones públicas"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Primero|CAPÍTULO PRIMERO - DE LAS PENAS, SUS CLASES Y SUS EFECTOS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 44. LA INHABILITACIÓN PARA EL EJERCICIO DE DERECHOS Y FUNCIONES PÚBLICAS
+## Artículo 44. La inhabilitación para el ejercicio de derechos y funciones públicas
 
 La pena de inhabilitación para el ejercicio de derechos y funciones públicas priva al penado de la facultad de elegir y ser elegido, del ejercicio de cualquier otro derecho político, función pública, dignidades y honores que confieren las entidades oficiales.
 

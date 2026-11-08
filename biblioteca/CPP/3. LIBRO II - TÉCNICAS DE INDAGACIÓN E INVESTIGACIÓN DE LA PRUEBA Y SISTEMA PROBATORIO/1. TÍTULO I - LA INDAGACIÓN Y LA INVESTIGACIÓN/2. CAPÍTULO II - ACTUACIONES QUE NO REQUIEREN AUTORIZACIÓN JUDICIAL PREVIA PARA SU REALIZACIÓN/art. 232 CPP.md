@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "232"
-epigrafe: "CLÁUSULA DE EXCLUSIÓN EN MATERIA DE REGISTROS Y ALLANAMIENTOS"
+epigrafe: "Cláusula de exclusión en materia de registros y allanamientos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 232. CLÁUSULA DE EXCLUSIÓN EN MATERIA DE REGISTROS Y ALLANAMIENTOS
+## Artículo 232. Cláusula de exclusión en materia de registros y allanamientos
 
 > [!warning] Apartes tachados INEXEQUIBLES
 

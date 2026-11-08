@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "283"
-epigrafe: "PROMOCION DE EXPORTACIONES"
+epigrafe: "Promoción de Exportaciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 283. PROMOCION DE EXPORTACIONES
+## Artículo 283. Promoción de Exportaciones
 
 1\. Contrato de fiducia para promoción de exportaciones. Con el objeto de desarrollar la función de promoción de las exportaciones prevista en el artículo [[art. 21 Ley 7 de 1991|21]] de la Ley 7 de 1991, el Banco queda obligado a constituir o a hacerse socio de una sociedad fiduciaria, y a celebrar con ella, en representación de la Nación, un contrato para formar un patrimonio autónomo con los bienes a los que se refiere el literal a. del numeral 4. del artículo [[art. 280 EOSF|280]] de este Decreto, con destino a la promoción de exportaciones. Tal sociedad quedará facultada para realizar, entre otros, el contrato que aquí se describe.
 

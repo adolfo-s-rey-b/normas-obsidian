@@ -24,13 +24,13 @@ tags:
 
 ### Contenido
 
-- [[art. 354 CGP|Artículo 354]] — PROCEDENCIA
-- [[art. 355 CGP|Artículo 355]] — CAUSALES
-- [[art. 356 CGP|Artículo 356]] — TÉRMINO PARA INTERPONER EL RECURSO
-- [[art. 357 CGP|Artículo 357]] — FORMULACIÓN DEL RECURSO
-- [[art. 358 CGP|Artículo 358]] — TRÁMITE
-- [[art. 359 CGP|Artículo 359]] — SENTENCIA
-- [[art. 360 CGP|Artículo 360]] — MEDIDAS CAUTELARES
+- [[art. 354 CGP|Artículo 354]] — Procedencia
+- [[art. 355 CGP|Artículo 355]] — Causales
+- [[art. 356 CGP|Artículo 356]] — Término para interponer el recurso
+- [[art. 357 CGP|Artículo 357]] — Formulación del recurso
+- [[art. 358 CGP|Artículo 358]] — Trámite
+- [[art. 359 CGP|Artículo 359]] — Sentencia
+- [[art. 360 CGP|Artículo 360]] — Medidas cautelares
 
 ---
 ← [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo V|Capítulo V]] · ↑ [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]]

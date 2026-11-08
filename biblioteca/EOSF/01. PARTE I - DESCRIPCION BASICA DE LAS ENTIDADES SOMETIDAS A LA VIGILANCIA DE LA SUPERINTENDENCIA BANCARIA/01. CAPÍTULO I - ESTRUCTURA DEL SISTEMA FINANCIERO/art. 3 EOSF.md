@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "3"
-epigrafe: "SOCIEDADES DE SERVICIOS FINANCIEROS"
+epigrafe: "Sociedades de Servicios Financieros"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo I|CAPÍTULO I - ESTRUCTURA DEL SISTEMA FINANCIERO]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo I|Capítulo I]]
 
-## Artículo 3. SOCIEDADES DE SERVICIOS FINANCIEROS
+## Artículo 3. Sociedades de Servicios Financieros
 
 > [!info] Artículo modificado por el artículo [[art. 35 Ley 1328 de 2009|35]] de la Ley 1328 de 2009. Entra a regir el 15 de octubre de 2009. El nuevo texto es el siguiente:
 

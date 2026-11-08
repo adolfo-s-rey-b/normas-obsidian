@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 178 ET|Artículo 178]] — DETERMINACIÓN DE LA RENTA LIQUIDA
-- [[art. 179 ET|Artículo 179]] — LA UTILIDAD EN LA ENAJENACIÓN DE ACTIVOS FIJOS POSEIDOS POR MENOS DE DOS AÑOS ES RENTA LIQUIDA
+- [[art. 178 ET|Artículo 178]] — DETERMINACIÓN DE LA RENTA LÍQUIDA
+- [[art. 179 ET|Artículo 179]] — LA UTILIDAD EN LA ENAJENACIÓN DE ACTIVOS FIJOS POSEÍDOS POR MENOS DE DOS AÑOS ES RENTA LÍQUIDA
 - [[ET - Libro Primero - Título I - Capítulo VI - Normas aplicables para 1989|NORMAS APLICABLES PARA 1989]] (arts. 180 a 187)
 - [[ET - Libro Primero - Título I - Capítulo VI - Normas aplicables a partir de 1990|NORMAS APLICABLES A PARTIR DE 1990]] (arts. 188 a 194)
 - [[ET - Libro Primero - Título I - Capítulo VI - Recuperación de deducciones|RECUPERACIÓN DE DEDUCCIONES]] (arts. 195 a 199)

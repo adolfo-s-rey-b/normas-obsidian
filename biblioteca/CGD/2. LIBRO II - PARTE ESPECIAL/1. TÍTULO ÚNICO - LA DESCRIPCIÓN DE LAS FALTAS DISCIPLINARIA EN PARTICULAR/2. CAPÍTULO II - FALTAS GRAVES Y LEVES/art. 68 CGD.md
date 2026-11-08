@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "68"
-epigrafe: "PRESERVACIÓN DEL ORDEN INTERNO"
+epigrafe: "Preservación del orden interno"
 libro: "[[CGD - Libro II|LIBRO II - PARTE ESPECIAL]]"
 titulo: "[[CGD - Libro II - Título Único|TÍTULO ÚNICO - LA DESCRIPCIÓN DE LAS FALTAS DISCIPLINARIA EN PARTICULAR]]"
 capitulo: "[[CGD - Libro II - Título Único - Capítulo II|CAPÍTULO II - FALTAS GRAVES Y LEVES]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 51 Ley 734 de 2002]]"
 anterior: "[[art. 67 CGD]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CGD|CGD]] › [[CGD - Libro II|Libro II]] › [[CGD - Libro II - Título Único|Título Único]] › [[CGD - Libro II - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 68. PRESERVACIÓN DEL ORDEN INTERNO
+## Artículo 68. Preservación del orden interno
 
 Cuando se trate de hechos que contraríen en menor grado el orden administrativo al interior de cada dependencia sin afectar sustancialmente los deberes funcionales, el jefe inmediato adoptará las medidas correctivas pertinentes sin necesidad de acudir a formalismo procesal alguno. Dichas medidas no generarán antecedente disciplinario.
 

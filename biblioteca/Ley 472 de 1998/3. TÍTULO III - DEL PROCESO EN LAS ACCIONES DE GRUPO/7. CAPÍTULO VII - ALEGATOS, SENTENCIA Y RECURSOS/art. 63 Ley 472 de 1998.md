@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "63"
-epigrafe: "ALEGATOS"
+epigrafe: "Alegatos"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo VII|CAPÍTULO VII - ALEGATOS, SENTENCIA Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 63. ALEGATOS
+## Artículo 63. Alegatos
 
 Vencido el término para practicar pruebas, el Juez dará traslado a las partes para alegar de conclusión por el término común de cinco (5) días.
 

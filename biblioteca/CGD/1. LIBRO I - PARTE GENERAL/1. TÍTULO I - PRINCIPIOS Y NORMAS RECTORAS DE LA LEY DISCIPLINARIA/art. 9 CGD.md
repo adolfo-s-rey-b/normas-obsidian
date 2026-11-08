@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "9"
-epigrafe: "ILICITUD SUSTANCIAL"
+epigrafe: "Ilicitud sustancial"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 9. ILICITUD SUSTANCIAL
+## Artículo 9. Ilicitud sustancial
 
 La conducta del disciplinable será ilícita cuando afecte sustancialmente el deber funcional sin justificación alguna.
 

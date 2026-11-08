@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "43"
-epigrafe: "TRÁNSITO DE LEGISLACIÓN, VIGENCIA Y DEROGATORIA"
+epigrafe: "Tránsito de legislación, vigencia y derogatoria"
 capitulo: "[[Ley 820 de 2003 - Capítulo XII|CAPÍTULO XII - DISPOSICIONES FINALES]]"
 vigencia: "vigente"
 anterior: "[[art. 42 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo XII|Capítulo XII]]
 
-## Artículo 43. TRÁNSITO DE LEGISLACIÓN, VIGENCIA Y DEROGATORIA
+## Artículo 43. Tránsito de legislación, vigencia y derogatoria
 
 La presente ley en cuanto a sus disposiciones sustanciales se aplica a los contratos que se suscriban con posterioridad a su entrada en vigencia, y las disposiciones procesales contenidas en los artículos [[art. 12 Ley 820 de 2003|12]] y [[art. 35 Ley 820 de 2003|35]] a [[art. 40 Ley 820 de 2003|40]] serán de aplicación inmediata para los procesos de restitución sin importar la fecha en que se celebró el contrato. Para efectos del tránsito de legislación, deberá estarse a lo establecido en el artículo [[art. 40 Ley 153 de 1887|40]] de la Ley 153 de 1887 y en el artículo [[art. 699 CPC|699]] del Código de Procedimiento Civil.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "95"
-epigrafe: "CONTABILIDAD"
+epigrafe: "Contabilidad"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIII|CAPÍTULO XIII - REGIMEN DE LA INFORMACION FINANCIERA Y COMERCIAL]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 95. CONTABILIDAD
+## Artículo 95. Contabilidad
 
 1o. Régimen general. La Superintendencia Bancaria se encuentra facultada para dictar las normas generales que en materia contable deban observar las entidades vigiladas, sin perjuicio de la autonomía de estas últimas para escoger y utilizar métodos accesorios, de conformidad con la ley.
 

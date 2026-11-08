@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "6"
-epigrafe: "PRESUNCIÓN DE CAPACIDAD"
+epigrafe: "Presunción de capacidad"
 capitulo: "[[Ley 1996 de 2019 - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 5 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo I|Capítulo I]]
 
-## Artículo 6. PRESUNCIÓN DE CAPACIDAD
+## Artículo 6. Presunción de capacidad
 
 Todas las personas con discapacidad son sujetos de derecho y obligaciones, y tienen capacidad legal en igualdad de condiciones, sin distinción alguna e independientemente de si usan o no apoyos para la realización de actos jurídicos.
 

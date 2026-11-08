@@ -4,11 +4,11 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "135"
-epigrafe: "DICTAMEN PERICIAL"
+epigrafe: "Dictamen pericial"
 parte: "[[Ley 446 de 1998 - Parte IV|PARTE IV - DEL ACCESO EN MATERIA COMERCIAL Y FINANCIERO]]"
 titulo: "[[Ley 446 de 1998 - Parte IV - Título I|TÍTULO I - DEL EJERCICIO DE FUNCIONES JURISDICCIONALES POR LAS SUPERINTENDENCIAS]]"
 capitulo: "[[Ley 446 de 1998 - Parte IV - Título I - Capítulo 2|CAPÍTULO 2 - PERITOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 anterior: "[[art. 134 Ley 446 de 1998]]"
 siguiente: "[[art. 136 Ley 446 de 1998]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0446_1998.html"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_446_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte IV|Parte IV]] › [[Ley 446 de 1998 - Parte IV - Título I|Título I]] › [[Ley 446 de 1998 - Parte IV - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 135. DICTAMEN PERICIAL
+## Artículo 135. Dictamen pericial
 
 (Artículo incorporado en el Artículo [[art. 326 Ley 446 de 1998|326]] Numeral 8o. del Estatuto Orgánico del Sistema Financiero)
 

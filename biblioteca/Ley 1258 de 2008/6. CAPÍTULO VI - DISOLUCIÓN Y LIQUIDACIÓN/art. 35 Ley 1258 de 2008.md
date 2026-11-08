@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "35"
-epigrafe: "ENERVAMIENTO DE CAUSALES DE DISOLUCIÓN"
+epigrafe: "Enervamiento de causales de disolución"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI|CAPÍTULO VI - DISOLUCIÓN Y LIQUIDACIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 34 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI|Capítulo VI]]
 
-## Artículo 35. ENERVAMIENTO DE CAUSALES DE DISOLUCIÓN
+## Artículo 35. Enervamiento de causales de disolución
 
 Podrá evitarse la disolución de la sociedad mediante la adopción de las medidas a que hubiere lugar, según la causal ocurrida, siempre que el enervamiento de la causal ocurra durante los seis (6) meses siguientes a la fecha en que la asamblea reconozca su acaecimiento. Sin embargo, este plazo será de dieciocho (18) meses en el caso de la causal prevista en el ordinal 7o del artículo anterior.
 

@@ -22,10 +22,10 @@ tags:
 
 ### Contenido
 
-- [[art. 455 CPP|Artículo 455]] — NULIDAD DERIVADA DE LA PRUEBA ILÍCITA
-- [[art. 456 CPP|Artículo 456]] — NULIDAD POR INCOMPETENCIA DEL JUEZ
-- [[art. 457 CPP|Artículo 457]] — NULIDAD POR VIOLACIÓN A GARANTÍAS FUNDAMENTALES
-- [[art. 458 CPP|Artículo 458]] — PRINCIPIO DE TAXATIVIDAD
+- [[art. 455 CPP|Artículo 455]] — Nulidad derivada de la prueba ilícita
+- [[art. 456 CPP|Artículo 456]] — Nulidad por incompetencia del juez
+- [[art. 457 CPP|Artículo 457]] — Nulidad por violación a garantías fundamentales
+- [[art. 458 CPP|Artículo 458]] — Principio de taxatividad
 
 ---
 ← [[CPP - Libro III - Título V|Título V]] · ↑ [[CPP - Libro III|Libro III]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "89"
-epigrafe: "PROPOSICIÓN Y TRÁMITE DE INCIDENTES"
+epigrafe: "Proposición y trámite de incidentes"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 89. PROPOSICIÓN Y TRÁMITE DE INCIDENTES
+## Artículo 89. Proposición y trámite de incidentes
 
 Los incidentes podrán proponerse en la audiencia inicial, a menos de que se trate de hechos ocurridos con posterioridad. Quien los propone deberá aportar las pruebas en la misma audiencia; se decidirán en la sentencia definitiva, salvo los que por su naturaleza y fines requieren de una decisión previa.
 

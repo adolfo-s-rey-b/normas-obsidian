@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "217"
-epigrafe: "DECLARACIÓN DE REPRESENTANTES DE LAS ENTIDADES PÚBLICAS"
+epigrafe: "Declaración de representantes de las entidades públicas"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - PRUEBAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]]
 
-## Artículo 217. DECLARACIÓN DE REPRESENTANTES DE LAS ENTIDADES PÚBLICAS
+## Artículo 217. Declaración de representantes de las entidades públicas
 
 No valdrá la confesión de los representantes de las entidades públicas cualquiera que sea el orden al que pertenezcan o el régimen jurídico al que estén sometidas.
 

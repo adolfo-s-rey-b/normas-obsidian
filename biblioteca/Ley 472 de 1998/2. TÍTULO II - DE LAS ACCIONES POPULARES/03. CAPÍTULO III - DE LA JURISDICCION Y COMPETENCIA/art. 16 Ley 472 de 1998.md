@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "16"
-epigrafe: "COMPETENCIA"
+epigrafe: "Competencia"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo III|CAPÍTULO III - DE LA JURISDICCION Y COMPETENCIA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 16. COMPETENCIA
+## Artículo 16. Competencia
 
 De las Acciones Populares conocerán en primera instancia los jueces administrativos y los jueces civiles de circuito. En segunda instancia la competencia corresponderá a la sección primera del Tribunal Contencioso Administrativo o a la Sala Civil del Tribunal de Distrito Judicial al que pertenezca el Juez de primera instancia.
 

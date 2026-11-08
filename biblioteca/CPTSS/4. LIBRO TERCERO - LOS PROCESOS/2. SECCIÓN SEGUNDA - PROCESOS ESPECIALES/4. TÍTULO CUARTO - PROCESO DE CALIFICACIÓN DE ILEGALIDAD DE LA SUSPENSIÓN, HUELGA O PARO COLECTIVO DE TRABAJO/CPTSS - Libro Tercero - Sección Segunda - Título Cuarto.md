@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 301 CPTSS|Artículo 301]] — CALIFICACIÓN DE LA SUSPENSIÓN O PARO COLECTIVO DEL TRABAJO
+- [[art. 301 CPTSS|Artículo 301]] — Calificación de la suspensión o paro colectivo del trabajo
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Quinto|Título Quinto]] →

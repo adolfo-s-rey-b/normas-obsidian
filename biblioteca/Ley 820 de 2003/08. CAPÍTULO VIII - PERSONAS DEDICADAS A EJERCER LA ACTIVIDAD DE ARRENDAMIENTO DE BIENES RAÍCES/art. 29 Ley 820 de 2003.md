@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "29"
-epigrafe: "REQUISITOS PARA OBTENER LA MATRÍCULA"
+epigrafe: "Requisitos para obtener la matrícula"
 capitulo: "[[Ley 820 de 2003 - Capítulo VIII|CAPÍTULO VIII - PERSONAS DEDICADAS A EJERCER LA ACTIVIDAD DE ARRENDAMIENTO DE BIENES RAÍCES]]"
 vigencia: "vigente"
 anterior: "[[art. 28 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 29. REQUISITOS PARA OBTENER LA MATRÍCULA
+## Artículo 29. Requisitos para obtener la matrícula
 
 Para obtener la matrícula de arrendador, el interesado deberá cumplir los siguientes requisitos:
 

@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "760"
-epigrafe: "PRESUNCIÓN DE INGRESOS POR OMISION DEL REGISTRO DE COMPRAS"
+epigrafe: "PRESUNCIÓN DE INGRESOS POR OMISIÓN DEL REGISTRO DE COMPRAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Facultad para presumir ingresos|Facultad para presumir ingresos]]
 
-## Artículo 760. PRESUNCIÓN DE INGRESOS POR OMISION DEL REGISTRO DE COMPRAS
+## Artículo 760. PRESUNCIÓN DE INGRESOS POR OMISIÓN DEL REGISTRO DE COMPRAS
 
 Cuando se constate que el responsable ha omitido registrar compras destinadas a las operaciones gravadas, se presumirá como ingreso gravado omitido el resultado que se obtenga al efectuar el siguiente cálculo: se tomará el valor de las compras omitidas y se dividirá por el porcentaje que resulte de restar del ciento por ciento (100%), el porcentaje de utilidad bruta registrado por el contribuyente en la declaración de renta del mismo ejercicio fiscal o del inmediatamente anterior.
 

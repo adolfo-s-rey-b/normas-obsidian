@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "4"
-epigrafe: "CARÁCTER DE LAS NORMAS"
+epigrafe: "Carácter de las normas"
 titulo: "[[Ley 1480 de 2011 - Título I|TÍTULO I - <No incluido en documento oficial>]]"
 capitulo: "[[Ley 1480 de 2011 - Título I - Capítulo II|CAPÍTULO II - OBJETO, ÁMBITO DE APLICACIÓN, CARÁCTER DE LAS NORMAS Y DEFINICIONES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título I|Título I]] › [[Ley 1480 de 2011 - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 4. CARÁCTER DE LAS NORMAS
+## Artículo 4. Carácter de las normas
 
 Las disposiciones contenidas en esta ley son de orden público. Cualquier estipulación en contrario se tendrá por no escrita, salvo en los casos específicos a los que se refiere la presente ley.
 

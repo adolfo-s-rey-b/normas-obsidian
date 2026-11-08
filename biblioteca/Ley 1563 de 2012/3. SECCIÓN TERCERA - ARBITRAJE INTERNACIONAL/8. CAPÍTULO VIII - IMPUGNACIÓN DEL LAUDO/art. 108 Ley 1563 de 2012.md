@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "108"
-epigrafe: "CAUSALES DE ANULACIÓN"
+epigrafe: "Causales de anulación"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|CAPÍTULO VIII - IMPUGNACIÓN DEL LAUDO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 108. CAUSALES DE ANULACIÓN
+## Artículo 108. Causales de anulación
 
 La autoridad judicial podrá anular el laudo arbitral a solicitud de parte o de oficio:
 

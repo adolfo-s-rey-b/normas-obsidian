@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "354"
-epigrafe: "REGLAS COMUNES"
+epigrafe: "Reglas comunes"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título II|TÍTULO II - PREACUERDOS Y NEGOCIACIONES ENTRE LA FISCALIA Y EL IMPUTADO O ACUSADO]]"
 capitulo: "[[CPP - Libro III - Título II - Capítulo Unico|CAPÍTULO UNICO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título II|Título II]] › [[CPP - Libro III - Título II - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 354. REGLAS COMUNES
+## Artículo 354. Reglas comunes
 
 Son inexistentes los acuerdos realizados sin la asistencia del defensor. Prevalecerá lo que decida el imputado o acusado en caso de discrepancia con su defensor, de lo cual quedará constancia.
 

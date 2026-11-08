@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 467 CGP|Artículo 467]] — ADJUDICACIÓN O REALIZACIÓN ESPECIAL DE LA GARANTÍA REAL
+- [[art. 467 CGP|Artículo 467]] — Adjudicación o realización especial de la garantía real
 
 ---
 ← [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] · [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo VI|Capítulo VI]] →

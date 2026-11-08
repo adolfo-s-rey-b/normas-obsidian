@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "284"
-epigrafe: "DISOLUCION Y LIQUIDACION"
+epigrafe: "Disolución y Liquidación"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XI|CAPÍTULO XI - BANCO DE COMERCIO EXTERIOR S.A]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XI|Capítulo XI]]
 
-## Artículo 284. DISOLUCION Y LIQUIDACION
+## Artículo 284. Disolución y Liquidación
 
 La disolución y liquidación del Banco se harán por las mismas causales y en la misma oportunidad y forma previstas en la ley para los demás establecimientos bancarios.
 

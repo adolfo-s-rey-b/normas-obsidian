@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "158"
-epigrafe: "NORMAS ESPECIALES DE LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA"
+epigrafe: "Normas Especiales de las Sociedades Administradoras de Fondos de Pensiones y de Cesantía"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo IV|CAPÍTULO IV - DISPOSICIONES RELATIVAS A LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo IV|Capítulo IV]]
 
-## Artículo 158. NORMAS ESPECIALES DE LAS SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA
+## Artículo 158. Normas Especiales de las Sociedades Administradoras de Fondos de Pensiones y de Cesantía
 
 1\. Conflictos de interés. Las administradoras y sus directores, representantes legales o cualquier funcionario con acceso a información privilegiada deberán abstenerse de realizar cualquier operación que de lugar a conflictos de interés entre ellas o sus accionistas y aportantes de capital y los fondos o patrimonios que administran. La Superintendencia Bancaria determinará y calificará en la forma prevista en los incisos 2o. y 3o. del numeral 6 del artículo [[art. 98 EOSF|98]] del presente Estatuto, la existencia de tales conflictos. Así mismo, podrá establecer mecanismos a través de los cuales se subsane la situación de conflicto de interés, si a ello hubiere lugar.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "63"
-epigrafe: "UNIDADES MINISTERIALES"
+epigrafe: "Unidades ministeriales"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "parcialmente inexequible"
 anterior: "[[art. 62 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 63. UNIDADES MINISTERIALES
+## Artículo 63. Unidades ministeriales
 
 > [!warning] Artículo CONDICIONALMENTE EXEQUIBLE, aparte tachado INEXEQUIBLE
 

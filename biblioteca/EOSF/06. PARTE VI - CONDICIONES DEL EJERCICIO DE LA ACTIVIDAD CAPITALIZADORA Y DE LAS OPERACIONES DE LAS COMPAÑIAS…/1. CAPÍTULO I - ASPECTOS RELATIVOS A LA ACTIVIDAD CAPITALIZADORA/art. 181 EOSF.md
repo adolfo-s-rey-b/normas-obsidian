@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "181"
-epigrafe: "RESERVAS Y QUEBRANTO DE CAPITAL"
+epigrafe: "Reservas y Quebranto de Capital"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo I|CAPÍTULO I - ASPECTOS RELATIVOS A LA ACTIVIDAD CAPITALIZADORA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo I|Capítulo I]]
 
-## Artículo 181. RESERVAS Y QUEBRANTO DE CAPITAL
+## Artículo 181. Reservas y Quebranto de Capital
 
 1\. Reservas técnicas. Las sociedades de capitalización deberán formar y mantener reservas técnicas correspondientes a su responsabilidad para con los depositantes, cuya cuantía será calculada de acuerdo con las normas que establezca el Gobierno Nacional.
 

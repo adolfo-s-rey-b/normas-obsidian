@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "86"
-epigrafe: "ADMINISTRACIÓN DE LOS BIENES"
+epigrafe: "Administración de los bienes"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 86. ADMINISTRACIÓN DE LOS BIENES
+## Artículo 86. Administración de los bienes
 
 Los bienes y recursos que sean objeto de medidas con fines de comiso quedarán a disposición del Fondo Especial para la Administración de Bienes de la Fiscalía General de la Nación para su administración de acuerdo con los sistemas que para tal efecto desarrolle el Fiscal General de la Nación, y deberán ser relacionados en un Registro Público Nacional de Bienes. Tales medidas deberán inscribirse dentro de los tres (3) días siguientes a su adopción en las oficinas de registro correspondientes cuando la naturaleza del bien lo permita.
 

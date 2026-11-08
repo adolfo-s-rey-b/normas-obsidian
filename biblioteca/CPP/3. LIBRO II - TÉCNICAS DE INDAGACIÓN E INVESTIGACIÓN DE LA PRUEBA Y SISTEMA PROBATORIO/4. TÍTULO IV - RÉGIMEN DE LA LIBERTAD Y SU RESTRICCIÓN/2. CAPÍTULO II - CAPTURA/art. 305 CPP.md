@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "305"
-epigrafe: "REGISTRO DE PERSONAS CAPTURADAS Y DETENIDAS"
+epigrafe: "Registro de personas capturadas y detenidas"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título IV|TÍTULO IV - RÉGIMEN DE LA LIBERTAD Y SU RESTRICCIÓN]]"
 capitulo: "[[CPP - Libro II - Título IV - Capítulo II|CAPÍTULO II - CAPTURA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título IV|Título IV]] › [[CPP - Libro II - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 305. REGISTRO DE PERSONAS CAPTURADAS Y DETENIDAS
+## Artículo 305. Registro de personas capturadas y detenidas
 
 Los organismos con atribuciones de policía judicial, llevarán un registro actualizado de las capturas de todo tipo que realicen, con los siguientes datos: identificación del capturado, lugar, fecha y hora en la que se llevó a cabo su captura, razones que la motivaron, funcionario que realizó o formalizó la captura y la autoridad ante la cual fue puesto a disposición.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "372"
-epigrafe: "FINES"
+epigrafe: "Fines"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte I|Parte I]]
 
-## Artículo 372. FINES
+## Artículo 372. Fines
 
 Las pruebas tienen por fin llevar al conocimiento del juez, más allá de duda razonable, los hechos y circunstancias materia del juicio y los de la responsabilidad penal del acusado, como autor o partícipe.
 

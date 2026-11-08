@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "11"
-epigrafe: "CONFLICTOS DE INTERÉS Y CAUSALES DE IMPEDIMENTO Y RECUSACIÓN"
+epigrafe: "Conflictos de interés y causales de impedimento y recusación"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 11. CONFLICTOS DE INTERÉS Y CAUSALES DE IMPEDIMENTO Y RECUSACIÓN
+## Artículo 11. Conflictos de interés y causales de impedimento y recusación
 
 Cuando el interés general propio de la función pública entre en conflicto con el interés particular y directo del servidor público, este deberá declararse impedido. Todo servidor público que deba adelantar o sustanciar actuaciones administrativas, realizar investigaciones, practicar pruebas o pronunciar decisiones definitivas podrá ser recusado si no manifiesta su impedimento por:
 

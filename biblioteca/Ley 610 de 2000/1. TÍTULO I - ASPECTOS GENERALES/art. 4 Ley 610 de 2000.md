@@ -6,7 +6,7 @@ norma: "Ley 610 de 2000"
 articulo: "4"
 epigrafe: "OBJETO DE LA RESPONSABILIDAD FISCAL"
 titulo: "[[Ley 610 de 2000 - Título I|TÍTULO I - ASPECTOS GENERALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 derogado_por:
   - "[[art. 124 Decreto 403 de 2020]]"
   - "[[art. 95 Ley 270 de 1996]]"
@@ -19,7 +19,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_610_de_2000
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 610 de 2000|Ley 610 de 2000]] › [[Ley 610 de 2000 - Título I|Título I]]

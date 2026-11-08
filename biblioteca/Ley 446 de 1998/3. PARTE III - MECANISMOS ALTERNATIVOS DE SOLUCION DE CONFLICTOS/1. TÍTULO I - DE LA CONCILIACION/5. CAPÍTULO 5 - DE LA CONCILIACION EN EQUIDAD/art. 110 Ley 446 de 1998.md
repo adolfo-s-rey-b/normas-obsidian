@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "110"
-epigrafe: "COPIA DEL NOMBRAMIENTO"
+epigrafe: "Copia del nombramiento"
 parte: "[[Ley 446 de 1998 - Parte III|PARTE III - MECANISMOS ALTERNATIVOS DE SOLUCION DE CONFLICTOS]]"
 titulo: "[[Ley 446 de 1998 - Parte III - Título I|TÍTULO I - DE LA CONCILIACION]]"
 capitulo: "[[Ley 446 de 1998 - Parte III - Título I - Capítulo 5|CAPÍTULO 5 - DE LA CONCILIACION EN EQUIDAD]]"
@@ -28,7 +28,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte III|Parte III]] › [[Ley 446 de 1998 - Parte III - Título I|Título I]] › [[Ley 446 de 1998 - Parte III - Título I - Capítulo 5|Capítulo 5]]
 
-## Artículo 110. COPIA DEL NOMBRAMIENTO
+## Artículo 110. Copia del nombramiento
 
 > [!warning] Artículo derogado a partir del 30 de diciembre de 2022 por el artículo [[art. 146 Ley 2220 de 2022|146]] de la Ley 2220 de 2022
 

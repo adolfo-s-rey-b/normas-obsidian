@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "461"
-epigrafe: "TERMINACIÓN DEL PROCESO POR PAGO"
+epigrafe: "Terminación del proceso por pago"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 461. TERMINACIÓN DEL PROCESO POR PAGO
+## Artículo 461. Terminación del proceso por pago
 
 Si antes de iniciada la audiencia de remate, se presentare escrito proveniente del ejecutante o de su apoderado con facultad para recibir, que acredite el pago de la obligación demandada y las costas, el juez declarará terminado el proceso y dispondrá la cancelación de los embargos y secuestros, si no estuviere embargado el remanente.
 

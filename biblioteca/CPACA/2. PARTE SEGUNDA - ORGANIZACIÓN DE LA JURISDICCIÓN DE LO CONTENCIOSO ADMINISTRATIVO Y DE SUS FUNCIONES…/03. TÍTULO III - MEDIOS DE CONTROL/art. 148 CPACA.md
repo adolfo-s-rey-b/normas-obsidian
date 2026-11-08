@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "148"
-epigrafe: "CONTROL POR VÍA DE EXCEPCIÓN"
+epigrafe: "Control por vía de excepción"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 148. CONTROL POR VÍA DE EXCEPCIÓN
+## Artículo 148. Control por vía de excepción
 
 En los procesos que se adelanten ante la Jurisdicción de lo Contencioso Administrativo, el juez podrá, de oficio o a petición de parte, inaplicar con efectos interpartes los actos administrativos cuando vulneren la Constitución Política o la ley.
 

@@ -52,7 +52,7 @@ Se deben alimentos:
 
 > [!info] Numeral modificado por el artículo 23 de la Ley 1a. de 1976. El nuevo texto es el siguiente:
 
-> [!note] Notas del Editor: Destaca el editor que la Corte Constitucional mediante Sentencia C-096-24 de 3 de abril de 2024, Magistrada Ponente Dra. Paola Andrea Meneses Mosquera, declaró la exequibilidad del numeral 5 del artículo [[art. 154 CC|154]] de este código 'en el entendido de que no da lugar al pago de alimentos previsto en el numeral 4 del artículo [[art. 411 CC|411]] del Código Civil (...)' .
+> [!note] Notas del Editor: Destaca el editor que la Corte Constitucional mediante Sentencia C-096-24 de 3 de abril de 2024, Magistrada Ponente Dra. Paola Andrea Meneses Mosquera, declaró la exequibilidad del numeral 5 del artículo 154 de este código 'en el entendido de que no da lugar al pago de alimentos previsto en el numeral 4 del artículo [[art. 411 CC|411]] del Código Civil (...)' .
 
 > [!info] Notas de Vigencia: Numeral modificado por el artículo 23 de la Ley 1a. de 1976, publicada en el Diario Oficial No. 34.492, de 18 de febrero de 1976.
 

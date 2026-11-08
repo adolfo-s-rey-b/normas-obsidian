@@ -25,7 +25,7 @@ tags:
 
 - [[art. 88 Ley 446 de 1998|Artículo 88]] — PROCEDIBILIDAD
 - [[art. 89 Ley 446 de 1998|Artículo 89]] — MEDIDAS PROVISIONALES
-- [[art. 90 Ley 446 de 1998|Artículo 90]] — SERVICIO SOCIAL
+- [[art. 90 Ley 446 de 1998|Artículo 90]] — Servicio social
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 3|Sección 3]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]] · [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 5|Sección 5]] →

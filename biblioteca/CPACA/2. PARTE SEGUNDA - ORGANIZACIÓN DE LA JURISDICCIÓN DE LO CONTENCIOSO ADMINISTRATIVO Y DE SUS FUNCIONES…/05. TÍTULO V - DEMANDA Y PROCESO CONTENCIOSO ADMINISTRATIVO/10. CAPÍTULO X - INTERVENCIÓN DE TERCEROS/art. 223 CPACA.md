@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "223"
-epigrafe: "COADYUVANCIA EN LOS PROCESOS DE SIMPLE NULIDAD"
+epigrafe: "Coadyuvancia en los procesos de simple nulidad"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]]
 
-## Artículo 223. COADYUVANCIA EN LOS PROCESOS DE SIMPLE NULIDAD
+## Artículo 223. Coadyuvancia en los procesos de simple nulidad
 
 En los procesos que se tramiten con ocasión de pretensiones de simple nulidad, desde la admisión de la demanda y hasta en la audiencia inicial, cualquier persona podrá pedir que se la tenga como coadyuvante del demandante o del demandado.
 

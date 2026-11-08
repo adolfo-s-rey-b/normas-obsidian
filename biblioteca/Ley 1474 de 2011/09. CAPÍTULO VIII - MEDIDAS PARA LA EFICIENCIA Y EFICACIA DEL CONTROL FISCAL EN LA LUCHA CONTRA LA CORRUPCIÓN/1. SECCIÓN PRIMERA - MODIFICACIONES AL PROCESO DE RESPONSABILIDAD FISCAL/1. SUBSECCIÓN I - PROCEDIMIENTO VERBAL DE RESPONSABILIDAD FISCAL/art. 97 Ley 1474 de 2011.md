@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "97"
-epigrafe: "PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL"
+epigrafe: "Procedimiento verbal de responsabilidad fiscal"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|SUBSECCIÓN I - PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección I|Subsección I]]
 
-## Artículo 97. PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL
+## Artículo 97. Procedimiento verbal de responsabilidad fiscal
 
 El proceso de responsabilidad fiscal se tramitará por el procedimiento verbal que crea esta ley cuando del análisis del dictamen del proceso auditor, de una denuncia o de la aplicación de cualquiera de los sistemas de control, se determine que están dados los elementos para proferir auto de apertura e imputación. En todos los demás casos se continuará aplicando el trámite previsto en la Ley 610 de 2000.
 

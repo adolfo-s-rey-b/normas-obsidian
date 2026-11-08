@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "178"
-epigrafe: "PRUEBA DE USOS Y COSTUMBRES"
+epigrafe: "Prueba de usos y costumbres"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 178. PRUEBA DE USOS Y COSTUMBRES
+## Artículo 178. Prueba de usos y costumbres
 
 Los usos y costumbres aplicables conforme a la ley sustancial deberán acreditarse con documentos, copia de decisiones judiciales definitivas que demuestren su existencia y vigencia o con un conjunto de testimonios.
 

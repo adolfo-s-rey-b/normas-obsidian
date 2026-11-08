@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "101"
-epigrafe: "OPORTUNIDAD Y TRÁMITE DE LAS EXCEPCIONES PREVIAS"
+epigrafe: "Oportunidad y trámite de las excepciones previas"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo III|Capítulo III]]
 
-## Artículo 101. OPORTUNIDAD Y TRÁMITE DE LAS EXCEPCIONES PREVIAS
+## Artículo 101. Oportunidad y trámite de las excepciones previas
 
 Las excepciones previas se formularán en el término del traslado de la demanda en escrito separado que deberá expresar las razones y hechos en que se fundamentan. Al escrito deberán acompañarse todas las pruebas que se pretenda hacer valer y que se encuentren en poder del demandado.
 

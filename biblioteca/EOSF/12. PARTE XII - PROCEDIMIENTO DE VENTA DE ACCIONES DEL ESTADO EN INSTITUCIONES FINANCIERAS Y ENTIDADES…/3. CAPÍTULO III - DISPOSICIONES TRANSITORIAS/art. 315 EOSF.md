@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "315"
-epigrafe: "ADMINISTRACION"
+epigrafe: "Administración"
 parte: "[[EOSF - Parte XII|PARTE XII - PROCEDIMIENTO DE VENTA DE ACCIONES DEL ESTADO EN INSTITUCIONES FINANCIERAS Y ENTIDADES ASEGURADORAS]]"
 capitulo: "[[EOSF - Parte XII - Capítulo III|CAPÍTULO III - DISPOSICIONES TRANSITORIAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XII|Parte XII]] › [[EOSF - Parte XII - Capítulo III|Capítulo III]]
 
-## Artículo 315. ADMINISTRACION
+## Artículo 315. Administración
 
 Las instituciones financieras que se nacionalicen estando sujetas a la intervención de la Superintendencia Bancaria, o que hayan sido objeto de convenciones fiduciarias autorizadas por ésta, continuarán bajo dicho régimen hasta cuando, a juicio del Superintendente Bancario, convenga entregar la administración a la nueva junta directiva y al nuevo representante legal.
 

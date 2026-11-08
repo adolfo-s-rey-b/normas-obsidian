@@ -24,9 +24,9 @@ tags:
 - [[art. 58 Ley 1996 de 2019|Artículo 58]]
 - [[art. 59 Ley 1996 de 2019|Artículo 59]]
 - [[art. 60 Ley 1996 de 2019|Artículo 60]]
-- [[art. 61 Ley 1996 de 2019|Artículo 61]] — DEROGATORIAS
+- [[art. 61 Ley 1996 de 2019|Artículo 61]] — Derogatorias
 - [[art. 62 Ley 1996 de 2019|Artículo 62]]
-- [[art. 63 Ley 1996 de 2019|Artículo 63]] — VIGENCIA
+- [[art. 63 Ley 1996 de 2019|Artículo 63]] — Vigencia
 
 ---
 ← [[Ley 1996 de 2019 - Capítulo VIII|Capítulo VIII]] · ↑ [[Ley 1996 de 2019|Ley 1996 de 2019]]

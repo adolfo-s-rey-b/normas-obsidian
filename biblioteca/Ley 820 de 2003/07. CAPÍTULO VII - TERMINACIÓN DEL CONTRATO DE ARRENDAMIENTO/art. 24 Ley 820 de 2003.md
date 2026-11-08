@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "24"
-epigrafe: "TERMINACIÓN POR PARTE DEL ARRENDATARIO"
+epigrafe: "Terminación por parte del arrendatario"
 capitulo: "[[Ley 820 de 2003 - Capítulo VII|CAPÍTULO VII - TERMINACIÓN DEL CONTRATO DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 23 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VII|Capítulo VII]]
 
-## Artículo 24. TERMINACIÓN POR PARTE DEL ARRENDATARIO
+## Artículo 24. Terminación por parte del arrendatario
 
 Son causales para que el arrendatario pueda pedir unilateralmente la terminación del contrato, las siguientes:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "230"
-epigrafe: "TRASLADO PARA ALEGATOS PREVIOS AL FALLO"
+epigrafe: "Traslado para alegatos previos al fallo"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo V|CAPÍTULO V - JUZGAMIENTO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] › [[CGD - Libro IV - Título IX - Capítulo V - -juicio verbal-|-juicio verbal-]]
 
-## Artículo 230. TRASLADO PARA ALEGATOS PREVIOS AL FALLO
+## Artículo 230. Traslado para alegatos previos al fallo
 
 Si no hubiere pruebas que practicar o habiéndose practicado las decretadas, se suspenderá la audiencia por el término de diez (10) días para que los sujetos procesales preparen sus alegatos previos a la decisión.
 

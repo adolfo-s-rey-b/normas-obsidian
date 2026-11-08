@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "618"
-epigrafe: "PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO"
+epigrafe: "Plan de Acción para la Implementación del Código General del Proceso"
 libro: "[[CGP - Libro Quinto|LIBRO QUINTO - CUESTIONES VARIAS]]"
 titulo: "[[CGP - Libro Quinto - Título IV|TÍTULO IV - PLAN DE IMPLEMENTACIÓN DEL CÓDIGO Y COMISIÓN DE SEGUIMIENTO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Quinto|Libro Quinto]] › [[CGP - Libro Quinto - Título IV|Título IV]]
 
-## Artículo 618. PLAN DE ACCIÓN PARA LA IMPLEMENTACIÓN DEL CÓDIGO GENERAL DEL PROCESO
+## Artículo 618. Plan de Acción para la Implementación del Código General del Proceso
 
 La Sala Administrativa del Consejo Superior de la Judicatura, con la colaboración armónica del Ministerio de Justicia y del Derecho, dentro de los seis (6) meses siguientes a la promulgación de la presente ley, elaborará el correspondiente Plan de Acción para la Implementación del Código General del Proceso que incluirá, como mínimo, los siguientes componentes respecto de los despachos judiciales con competencias en lo civil, comercial, de familia y agrario:
 
@@ -54,7 +54,7 @@ La Sala Administrativa del Consejo Superior de la Judicatura, con la colaboraci�
 
 11\. Sistema de seguimiento y control a la ejecución del plan de acción.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 617 CGP]] · ↑ [[CGP - Libro Quinto - Título IV|Título IV]] · [[art. 619 CGP]] →

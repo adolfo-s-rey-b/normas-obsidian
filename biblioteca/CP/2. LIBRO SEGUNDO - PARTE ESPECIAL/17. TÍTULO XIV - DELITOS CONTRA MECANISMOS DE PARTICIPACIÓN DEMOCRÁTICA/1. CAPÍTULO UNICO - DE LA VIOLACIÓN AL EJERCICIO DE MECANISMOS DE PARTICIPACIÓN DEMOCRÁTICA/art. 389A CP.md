@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "389A"
-epigrafe: "ELECCIÓN ILÍCITA DE CANDIDATOS"
+epigrafe: "Elección ilícita de candidatos"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XIV|TÍTULO XIV - DELITOS CONTRA MECANISMOS DE PARTICIPACIÓN DEMOCRÁTICA]]"
 capitulo: "[[CP - Libro Segundo - Título XIV - Capítulo Unico|CAPÍTULO UNICO - DE LA VIOLACIÓN AL EJERCICIO DE MECANISMOS DE PARTICIPACIÓN DEMOCRÁTICA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XIV|Título XIV]] › [[CP - Libro Segundo - Título XIV - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 389A. ELECCIÓN ILÍCITA DE CANDIDATOS
+## Artículo 389A. Elección ilícita de candidatos
 
 El que sea elegido para un cargo de elección popular estando inhabilitado para desempeñarlo por decisión judicial, disciplinaria o fiscal incurrirá en prisión de cuatro (4) a nueve (9) años y multa de doscientos (200) a ochocientos (800) salarios mínimos legales mensuales vigentes.
 

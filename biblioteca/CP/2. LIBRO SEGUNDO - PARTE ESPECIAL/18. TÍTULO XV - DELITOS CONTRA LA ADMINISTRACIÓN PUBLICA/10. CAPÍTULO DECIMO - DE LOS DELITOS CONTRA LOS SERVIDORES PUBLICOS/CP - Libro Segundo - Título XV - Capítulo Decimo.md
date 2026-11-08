@@ -26,7 +26,7 @@ tags:
 - [[art. 429 CP|Artículo 429]] — Violencia contra servidor público
 - [[art. 429B CP|Artículo 429B]]
 - [[art. 429C CP|Artículo 429C]] — Circunstancias de agravación punitiva
-- [[art. 429D CP|Artículo 429D]] — OBSTRUCCIÓN A LA FUNCIÓN PÚBLICA
+- [[art. 429D CP|Artículo 429D]] — Obstrucción a la función pública
 - [[art. 430 CP|Artículo 430]] — Perturbación de actos oficiales
 - [[CP - Libro Segundo - Título XV - Capítulo Decimo - De la utilización indebida de información y de…|DE LA UTILIZACIÓN INDEBIDA DE INFORMACIÓN Y DE INFLUENCIAS DERIVADAS DEL EJERCICIO DE FUNCIÓN PUBLICA]] (arts. 431 a 434)
 

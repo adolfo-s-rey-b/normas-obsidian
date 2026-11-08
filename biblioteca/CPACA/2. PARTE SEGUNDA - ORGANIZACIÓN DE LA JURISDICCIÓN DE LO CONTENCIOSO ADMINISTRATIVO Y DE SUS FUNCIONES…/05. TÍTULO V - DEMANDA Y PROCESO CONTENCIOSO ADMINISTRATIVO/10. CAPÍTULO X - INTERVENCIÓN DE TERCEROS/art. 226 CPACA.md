@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "226"
-epigrafe: "IMPUGNACIÓN DE LAS DECISIONES SOBRE INTERVENCIÓN DE TERCEROS"
+epigrafe: "Impugnación de las decisiones sobre intervención de terceros"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo X|CAPÍTULO X - INTERVENCIÓN DE TERCEROS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo X|Capítulo X]]
 
-## Artículo 226. IMPUGNACIÓN DE LAS DECISIONES SOBRE INTERVENCIÓN DE TERCEROS
+## Artículo 226. Impugnación de las decisiones sobre intervención de terceros
 
 > [!warning] Artículo derogado por el artículo [[art. 87 Ley 2080 de 2021|87]] de la Ley 2080 de 2021
 

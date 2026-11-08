@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "176"
-epigrafe: "CRITERIOS PARA LA APRECIACIÓN DEL TESTIMONIO"
+epigrafe: "Criterios para la apreciación del testimonio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 176. CRITERIOS PARA LA APRECIACIÓN DEL TESTIMONIO
+## Artículo 176. Criterios para la apreciación del testimonio
 
 Para apreciar el testimonio, el funcionario tendrá en cuenta los principios de la sana crítica y especialmente lo relativo a la naturaleza del objeto percibido, al estado de sanidad del sentido o sentidos por los cuales se tuvo la percepción, las circunstancias de lugar, tiempo y modo en que se percibió, a la personalidad del declarante, a la forma como hubiere declarado y las singularidades que puedan observarse en el testimonio.
 

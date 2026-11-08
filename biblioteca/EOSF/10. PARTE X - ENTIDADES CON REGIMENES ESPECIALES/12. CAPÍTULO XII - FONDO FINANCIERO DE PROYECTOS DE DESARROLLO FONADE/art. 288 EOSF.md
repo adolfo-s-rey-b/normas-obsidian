@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "288"
-epigrafe: "FUNCIONES"
+epigrafe: "Funciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo XII|CAPÍTULO XII - FONDO FINANCIERO DE PROYECTOS DE DESARROLLO FONADE]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo XII|Capítulo XII]]
 
-## Artículo 288. FUNCIONES
+## Artículo 288. Funciones
 
 1\. Funciones. En desarrollo de su objeto el Fondo Financiero de Proyectos de Desarrollo - FONADE- podrá realizar las siguientes funciones:
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "218"
-epigrafe: "AVISO DE INGRESO DE PRESUNTAS VÍCTIMAS"
+epigrafe: "Aviso de ingreso de presuntas víctimas"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 218. AVISO DE INGRESO DE PRESUNTAS VÍCTIMAS
+## Artículo 218. Aviso de ingreso de presuntas víctimas
 
 Quien en hospital, puesto de salud, clínica, consultorio médico u otro establecimiento similar, público o particular, reciba o dé entrada a persona a la cual se le hubiese ocasionado daño en el cuerpo o en la salud, dará aviso inmediatamente a la dependencia de policía judicial que le sea más próxima o, en su defecto, a la primera autoridad del lugar.
 

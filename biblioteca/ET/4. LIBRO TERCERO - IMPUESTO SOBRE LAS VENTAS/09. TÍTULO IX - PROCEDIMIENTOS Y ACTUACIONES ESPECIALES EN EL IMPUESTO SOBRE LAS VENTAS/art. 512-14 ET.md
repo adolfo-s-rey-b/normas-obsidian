@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "512-14"
-epigrafe: "OBLIGACIONES DE LOS RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO"
+epigrafe: "OBLIGACIONES DE LOS RESPONSABLES del impuesto nacional al consumo"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título IX|TÍTULO IX - PROCEDIMIENTOS Y ACTUACIONES ESPECIALES EN EL IMPUESTO SOBRE LAS VENTAS]]"
 vigencia: "parcialmente derogado"
@@ -34,7 +34,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título IX|Título IX]]
 
-## Artículo 512-14. OBLIGACIONES DE LOS RESPONSABLES DEL IMPUESTO NACIONAL AL CONSUMO
+## Artículo 512-14. OBLIGACIONES DE LOS RESPONSABLES del impuesto nacional al consumo
 
 > [!info] Artículo adicionado por el artículo [[art. 206 Ley 1819 de 2016|206]] de la Ley 1819 de 2016. El nuevo texto es el siguiente:
 

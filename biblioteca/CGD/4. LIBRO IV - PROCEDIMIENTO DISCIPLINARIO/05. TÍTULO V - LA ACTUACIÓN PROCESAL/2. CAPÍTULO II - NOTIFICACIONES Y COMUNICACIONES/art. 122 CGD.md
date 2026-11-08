@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "122"
-epigrafe: "NOTIFICACIÓN POR MEDIOS DE COMUNICACIÓN ELECTRÓNICOS"
+epigrafe: "Notificación por medios de comunicación electrónicos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo II|CAPÍTULO II - NOTIFICACIONES Y COMUNICACIONES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 122. NOTIFICACIÓN POR MEDIOS DE COMUNICACIÓN ELECTRÓNICOS
+## Artículo 122. Notificación por medios de comunicación electrónicos
 
 > [!note] Apartes subrayados CONDICIONALMENTE exequibles
 

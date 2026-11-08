@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 234 CGD|Artículo 234]] — TRÁMITE DE LA SEGUNDA INSTANCIA
-- [[art. 235 CGD|Artículo 235]] — PRUEBAS EN SEGUNDA INSTANCIA O EN ETAPA DE DOBLE CONFORMIDAD
+- [[art. 234 CGD|Artículo 234]] — Tramite de la segunda instancia
+- [[art. 235 CGD|Artículo 235]] — Pruebas en segunda instancia o en etapa de doble conformidad
 
 ---
 ← [[CGD - Libro IV - Título IX - Capítulo V|Capítulo V]] · ↑ [[CGD - Libro IV - Título IX|Título IX]]

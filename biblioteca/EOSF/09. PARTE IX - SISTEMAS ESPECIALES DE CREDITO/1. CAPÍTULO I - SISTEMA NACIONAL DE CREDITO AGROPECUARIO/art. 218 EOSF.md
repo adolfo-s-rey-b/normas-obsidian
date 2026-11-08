@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "218"
-epigrafe: "COMISION NACIONAL DE CREDITO AGROPECUARIO"
+epigrafe: "Comisión Nacional de Crédito Agropecuario"
 parte: "[[EOSF - Parte IX|PARTE IX - SISTEMAS ESPECIALES DE CREDITO]]"
 capitulo: "[[EOSF - Parte IX - Capítulo I|CAPÍTULO I - SISTEMA NACIONAL DE CREDITO AGROPECUARIO]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 220 Ley 2294 de 2023]]"
   - "[[art. 157 CPol]]"
@@ -51,12 +51,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte IX|Parte IX]] › [[EOSF - Parte IX - Capítulo I|Capítulo I]]
 
-## Artículo 218. COMISION NACIONAL DE CREDITO AGROPECUARIO
+## Artículo 218. Comisión Nacional de Crédito Agropecuario
 
 1\. Integración. La administración del Sistema Nacional de Crédito Agropecuario estará a cargo de la Comisión Nacional de Crédito Agropecuario, la cual se integrará de la siguiente manera:
 

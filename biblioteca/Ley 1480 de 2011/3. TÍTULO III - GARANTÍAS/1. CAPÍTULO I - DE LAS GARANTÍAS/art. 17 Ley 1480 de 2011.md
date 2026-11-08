@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "17"
-epigrafe: "OBLIGACIÓN ESPECIAL"
+epigrafe: "Obligación especial"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 17. OBLIGACIÓN ESPECIAL
+## Artículo 17. Obligación especial
 
 Sin perjuicio de la obligación de demostrar el cumplimiento del reglamento técnico y lo establecido en normas especiales, todo productor deberá previamente a la puesta en circulación o a la importación de los productos sujetos a reglamento técnico, informar ante la autoridad de control: el nombre del productor o importador y el de su representante legal o agente residenciado en el país y la dirección para efecto de notificaciones, así como la información adicional que determinen los reguladores de producto.
 

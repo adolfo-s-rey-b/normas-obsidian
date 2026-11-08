@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "20"
-epigrafe: "REAJUSTE DEL CANON DE ARRENDAMIENTO"
+epigrafe: "Reajuste del canon de arrendamiento"
 capitulo: "[[Ley 820 de 2003 - Capítulo VI|CAPÍTULO VI - RENTA DE ARRENDAMIENTO]]"
 vigencia: "vigente"
 anterior: "[[art. 19 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo VI|Capítulo VI]]
 
-## Artículo 20. REAJUSTE DEL CANON DE ARRENDAMIENTO
+## Artículo 20. Reajuste del canon de arrendamiento
 
 Cada doce (12) meses de ejecución del contrato bajo un mismo precio, el arrendador podrá incrementar el canon hasta en una proporción que no sea superior al ciento por ciento (100%) del incremento que haya tenido el índice de precios al consumidor en el año calendario inmediatamente anterior a aquél en que deba efectuarse el reajuste del canon, siempre y cuando el nuevo canon no exceda lo previsto en el artículo [[art. 18 Ley 820 de 2003|18]] de la presente ley.
 

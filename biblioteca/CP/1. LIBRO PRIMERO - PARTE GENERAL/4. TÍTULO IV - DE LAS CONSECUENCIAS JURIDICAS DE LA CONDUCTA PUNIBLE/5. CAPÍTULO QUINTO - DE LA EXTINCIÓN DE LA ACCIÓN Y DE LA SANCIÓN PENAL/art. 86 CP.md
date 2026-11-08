@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "86"
-epigrafe: "INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO PRESCRIPTIVO DE LA ACCIÓN"
+epigrafe: "Interrupción y suspensión del termino prescriptivo de la accion"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Quinto|CAPÍTULO QUINTO - DE LA EXTINCIÓN DE LA ACCIÓN Y DE LA SANCIÓN PENAL]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Quinto|Capítulo Quinto]]
 
-## Artículo 86. INTERRUPCIÓN Y SUSPENSIÓN DEL TÉRMINO PRESCRIPTIVO DE LA ACCIÓN
+## Artículo 86. Interrupción y suspensión del termino prescriptivo de la accion
 
 La prescripción de la acción penal se interrumpe con la formulación de la imputación.
 

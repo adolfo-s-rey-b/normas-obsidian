@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "4"
-epigrafe: "DESIGNACION Y CALIDADES DE LOS SECUESTRES"
+epigrafe: "Designación y calidades de los secuestres"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|CAPÍTULO 2 - DE LOS AUXILIARES Y COLABORADORES DE LA JUSTICIA]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 4. DESIGNACION Y CALIDADES DE LOS SECUESTRES
+## Artículo 4. Designación y calidades de los secuestres
 
 El inciso 4 del artículo [[art. 10 CPC|10]] del Código de Procedimiento Civil, quedará así:
 

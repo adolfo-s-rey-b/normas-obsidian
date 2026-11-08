@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "114"
-epigrafe: "FACULTADES Y RESPONSABILIDAD DEL APODERADO"
+epigrafe: "Facultades y responsabilidad del apoderado"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 114. FACULTADES Y RESPONSABILIDAD DEL APODERADO
+## Artículo 114. Facultades y responsabilidad del apoderado
 
 El apoderado que designe el juez tendrá las facultades de los curadores ad litem y las que el amparado le confiera, y podrá sustituir por su cuenta y bajo su responsabilidad la representación del amparado.
 

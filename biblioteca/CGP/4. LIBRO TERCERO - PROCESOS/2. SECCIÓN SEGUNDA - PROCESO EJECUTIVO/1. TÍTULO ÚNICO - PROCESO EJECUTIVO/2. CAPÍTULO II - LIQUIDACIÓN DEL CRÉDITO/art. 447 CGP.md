@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "447"
-epigrafe: "ENTREGA DE DINERO AL EJECUTANTE"
+epigrafe: "Entrega de dinero al ejecutante"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 447. ENTREGA DE DINERO AL EJECUTANTE
+## Artículo 447. Entrega de dinero al ejecutante
 
 Cuando lo embargado fuere dinero, una vez ejecutoriado el auto que apruebe cada liquidación del crédito o las costas, el juez ordenará su entrega al acreedor hasta la concurrencia del valor liquidado. Si lo embargado fuere sueldo, renta o pensión periódica, se ordenará entregar al acreedor lo retenido, y que en lo sucesivo se le entreguen los dineros que se retengan hasta cubrir la totalidad de la obligación.
 

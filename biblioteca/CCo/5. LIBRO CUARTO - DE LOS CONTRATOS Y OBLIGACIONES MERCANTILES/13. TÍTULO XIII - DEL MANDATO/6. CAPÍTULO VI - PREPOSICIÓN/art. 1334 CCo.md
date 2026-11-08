@@ -12,7 +12,7 @@ epigrafe: "DE QUIENES PUEDEN SER FACTORES"
 libro: "[[CCo - Libro Cuarto|LIBRO CUARTO - DE LOS CONTRATOS Y OBLIGACIONES MERCANTILES]]"
 titulo: "[[CCo - Libro Cuarto - Título XIII|TÍTULO XIII - DEL MANDATO]]"
 capitulo: "[[CCo - Libro Cuarto - Título XIII - Capítulo VI|CAPÍTULO VI - PREPOSICIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 242 Ley 222 de 1995]]"
   - "[[art. 149 Ley 222 de 1995]]"
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Cuarto|Libro Cuarto]] › [[CCo - Libro Cuarto - Título XIII|Título XIII]] › [[CCo - Libro Cuarto - Título XIII - Capítulo VI|Capítulo VI]]

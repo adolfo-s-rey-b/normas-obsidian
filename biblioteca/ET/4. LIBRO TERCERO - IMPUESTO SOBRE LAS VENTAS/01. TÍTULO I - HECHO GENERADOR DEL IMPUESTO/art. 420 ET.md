@@ -13,7 +13,7 @@ articulo: "420"
 epigrafe: "HECHOS SOBRE LOS QUE RECAE EL IMPUESTO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título I|TÍTULO I - HECHO GENERADOR DEL IMPUESTO]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 173 Ley 1819 de 2016]]"
   - "[[art. 71 Ley 2277 de 2022]]"
@@ -49,7 +49,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título I|Título I]]

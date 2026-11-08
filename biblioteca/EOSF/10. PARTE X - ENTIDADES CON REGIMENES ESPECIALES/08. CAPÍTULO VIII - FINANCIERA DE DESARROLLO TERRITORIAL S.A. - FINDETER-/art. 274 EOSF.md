@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "274"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones Finales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VIII|CAPÍTULO VIII - FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER-]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 274. DISPOSICIONES FINALES
+## Artículo 274. Disposiciones Finales
 
 1\. Aportes al capital. El Gobierno Nacional está autorizado para destinar recursos de crédito externo hasta por la cantidad en pesos equivalente a ciento cincuenta millones de dólares de los Estados Unidos de América ( US$ 150.000.000.oo), con el objeto de financiar aportes al capital de la Financiera de Desarrollo Territorial S.A., Findeter, en la siguiente forma:
 

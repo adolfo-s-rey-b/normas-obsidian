@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "40"
-epigrafe: "APLICACIÓN"
+epigrafe: "Aplicación"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo II|CAPÍTULO II - CONDICIONES NEGOCIALES GENERALES Y CONTRATOS DE ADHESIÓN]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo II|Capítulo II]]
 
-## Artículo 40. APLICACIÓN
+## Artículo 40. Aplicación
 
 El hecho de que algunas cláusulas de un contrato hayan sido negociadas, no obsta para la aplicación de lo previsto en este capítulo.
 

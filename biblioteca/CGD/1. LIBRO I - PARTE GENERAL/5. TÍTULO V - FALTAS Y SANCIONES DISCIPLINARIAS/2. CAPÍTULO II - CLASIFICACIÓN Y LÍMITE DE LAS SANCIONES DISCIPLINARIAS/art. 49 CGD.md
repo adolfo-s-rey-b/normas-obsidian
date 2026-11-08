@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "49"
-epigrafe: "DEFINICIÓN DE LAS SANCIONES"
+epigrafe: "Definición de las sanciones"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título V|TÍTULO V - FALTAS Y SANCIONES DISCIPLINARIAS]]"
 capitulo: "[[CGD - Libro I - Título V - Capítulo II|CAPÍTULO II - CLASIFICACIÓN Y LÍMITE DE LAS SANCIONES DISCIPLINARIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 10 Ley 2094 de 2021]]"
 anterior: "[[art. 48 CGD]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgd
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título V|Título V]] › [[CGD - Libro I - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 49. DEFINICIÓN DE LAS SANCIONES
+## Artículo 49. Definición de las sanciones
 
 > [!info] Artículo modificado por el artículo [[art. 10 Ley 2094 de 2021|10]] de la Ley 2094 de 2021. El nuevo texto es el siguiente:
 

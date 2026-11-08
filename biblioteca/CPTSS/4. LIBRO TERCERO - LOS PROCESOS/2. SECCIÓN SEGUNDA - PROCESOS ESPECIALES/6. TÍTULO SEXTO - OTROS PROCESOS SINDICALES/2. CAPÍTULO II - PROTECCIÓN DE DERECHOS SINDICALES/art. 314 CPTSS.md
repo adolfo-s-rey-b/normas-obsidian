@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "314"
-epigrafe: "PROTECCIÓN DE LOS DERECHOS SINDICALES"
+epigrafe: "Protección de los Derechos Sindicales"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|TÍTULO SEXTO - OTROS PROCESOS SINDICALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|Título Sexto]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo II|Capítulo II]]
 
-## Artículo 314. PROTECCIÓN DE LOS DERECHOS SINDICALES
+## Artículo 314. Protección de los Derechos Sindicales
 
 1\. Los trabajadores y las organizaciones de trabajadores podrán acudir ante el juez del trabajo del lugar en el que ocurrieron los hechos, a fin de obtener protección judicial frente a actos de discriminación sindical, para lo cual se seguirá el procedimiento establecido en los artículos [[art. 293 CPTSS|293]] a [[art. 297 CPTSS|297]] para los fueros especiales.
 

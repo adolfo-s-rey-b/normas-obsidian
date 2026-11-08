@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "490"
-epigrafe: "LOS IMPUESTOS DESCONTABLES EN LAS OPERACIONES GRAVADAS, EXCLUIDAS Y EXENTAS SE IMPUTARAN PROPORCIONALMENTE"
+epigrafe: "LOS IMPUESTOS DESCONTABLES EN LAS OPERACIONES GRAVADAS, EXCLUIDAS Y EXENTAS SE IMPUTARÁN PROPORCIONALMENTE"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título VII|TÍTULO VII - DETERMINACIÓN DEL IMPUESTO A CARGO DEL RESPONSABLE DEL REGIMEN COMUN]]"
 vigencia: "vigente"
@@ -30,7 +30,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título VII|Título VII]]
 
-## Artículo 490. LOS IMPUESTOS DESCONTABLES EN LAS OPERACIONES GRAVADAS, EXCLUIDAS Y EXENTAS SE IMPUTARAN PROPORCIONALMENTE
+## Artículo 490. LOS IMPUESTOS DESCONTABLES EN LAS OPERACIONES GRAVADAS, EXCLUIDAS Y EXENTAS SE IMPUTARÁN PROPORCIONALMENTE
 
 Cuando los bienes y servicios que otorgan derecho a descuento se destinen indistintamente a operaciones gravadas, exentas, o excluidas del impuesto y no fuere posible establecer su imputación directa a unas y otras, el cómputo de dicho descuento se efectuará en proporción al monto de tales operaciones del período fiscal correspondiente. La inexistencia de operaciones determinará la postergación del cómputo al período fiscal siguiente en el que se verifique alguna de ellas.
 

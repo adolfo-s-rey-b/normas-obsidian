@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "251"
-epigrafe: "MÉTODOS"
+epigrafe: "Métodos"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo IV|CAPÍTULO IV - MÉTODOS DE IDENTIFICACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 251. MÉTODOS
+## Artículo 251. Métodos
 
 Para la identificación de personas se podrán utilizar los diferentes métodos que el estado de la ciencia aporte, y que la criminalística establezca en sus manuales, tales como las características morfológicas de las huellas digitales, la carta dental y el perfil genético presente en el ADN, los cuales deberán cumplir con los requisitos del artículo [[art. 420 CPP|420]] de este código respecto de la prueba pericial.
 

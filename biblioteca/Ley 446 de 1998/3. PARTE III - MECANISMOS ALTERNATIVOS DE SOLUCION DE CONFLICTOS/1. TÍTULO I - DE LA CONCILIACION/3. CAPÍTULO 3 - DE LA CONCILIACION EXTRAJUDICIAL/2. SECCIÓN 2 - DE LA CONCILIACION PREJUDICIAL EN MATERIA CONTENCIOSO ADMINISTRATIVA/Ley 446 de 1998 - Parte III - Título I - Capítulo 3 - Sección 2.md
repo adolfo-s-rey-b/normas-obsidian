@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 80 Ley 446 de 1998|Artículo 80]] — SOLICITUD
-- [[art. 81 Ley 446 de 1998|Artículo 81]] — PROCEDIBILIDAD
+- [[art. 80 Ley 446 de 1998|Artículo 80]] — Solicitud
+- [[art. 81 Ley 446 de 1998|Artículo 81]] — Procedibilidad
 
 ---
 ← [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 1|Sección 1]] · ↑ [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3|Capítulo 3]] · [[Ley 446 de 1998 - Parte III - Título I - Capítulo 3 - Sección 3|Sección 3]] →

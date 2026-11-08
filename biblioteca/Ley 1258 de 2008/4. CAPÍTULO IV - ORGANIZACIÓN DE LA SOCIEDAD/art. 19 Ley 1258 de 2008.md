@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "19"
-epigrafe: "REUNIONES POR COMUNICACIÓN SIMULTÁNEA Y POR CONSENTIMIENTO ESCRITO"
+epigrafe: "Reuniones por comunicación simultánea y por consentimiento escrito"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 18 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 19. REUNIONES POR COMUNICACIÓN SIMULTÁNEA Y POR CONSENTIMIENTO ESCRITO
+## Artículo 19. Reuniones por comunicación simultánea y por consentimiento escrito
 
 Se podrán realizar reuniones por comunicación simultánea o sucesiva y por consentimiento escrito. En caso de no establecerse mecanismos estatutarios para la realización de reuniones por comunicación simultánea o sucesiva y por consentimiento escrito, se seguirán las reglas previstas en los artículos [[art. 19 Ley 222 de 1995|19]] a [[art. 21 Ley 222 de 1995|21]] de la Ley 222 de 1995. En ningún caso se requerirá delegado de la Superintendencia de Sociedades para este efecto.
 

@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 314 CPTSS|Artículo 314]] — PROTECCIÓN DE LOS DERECHOS SINDICALES
+- [[art. 314 CPTSS|Artículo 314]] — Protección de los Derechos Sindicales
 
 ---
 ← [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Tercero - Sección Segunda - Título Sexto|Título Sexto]]

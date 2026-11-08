@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "57"
-epigrafe: "ACTO ADMINISTRATIVO ELECTRÓNICO"
+epigrafe: "Acto administrativo electrónico"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 57. ACTO ADMINISTRATIVO ELECTRÓNICO
+## Artículo 57. Acto administrativo electrónico
 
 Las autoridades, en el ejercicio de sus funciones, podrán emitir válidamente actos administrativos por medios electrónicos siempre y cuando se asegure su autenticidad, integridad y disponibilidad de acuerdo con la ley.
 

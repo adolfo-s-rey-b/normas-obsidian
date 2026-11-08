@@ -12,7 +12,7 @@ epigrafe: "CAUSALES DE DISOLUCIÓN EN LA SOCIEDAD ANÓNIMA"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título VI|TÍTULO VI - DE LA SOCIEDAD ANÓNIMA]]"
 capitulo: "[[CCo - Libro Segundo - Título VI - Capítulo V|CAPÍTULO V - DISOLUCIÓN Y LIQUIDACIÓN DE LA SOCIEDAD ANÓNIMA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 4 Ley 2069 de 2020]]"
 anterior: "[[art. 456 CCo]]"
@@ -27,7 +27,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título VI|Título VI]] › [[CCo - Libro Segundo - Título VI - Capítulo V|Capítulo V]]
@@ -38,7 +38,7 @@ La sociedad anónima se disolverá:
 
 1\. Por las causales indicadas en el artículo [[art. 218 CCo|218]] ;
 
-2)
+2\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el parágrafo 2 del artículo [[art. 4 Ley 2069 de 2020|4]] de la Ley 2069 de 2020. En adelante consultar el mismo artículo 4 - Causal de disolución por no cumplimiento de la hipótesis de negocio en marcha-
 

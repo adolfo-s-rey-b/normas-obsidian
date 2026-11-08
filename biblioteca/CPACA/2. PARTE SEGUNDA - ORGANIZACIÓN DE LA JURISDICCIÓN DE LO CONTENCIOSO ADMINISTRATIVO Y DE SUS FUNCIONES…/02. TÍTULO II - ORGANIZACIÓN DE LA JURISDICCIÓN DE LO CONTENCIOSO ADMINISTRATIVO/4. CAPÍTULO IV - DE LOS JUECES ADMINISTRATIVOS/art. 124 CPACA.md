@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "124"
-epigrafe: "RÉGIMEN"
+epigrafe: "Régimen"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo IV|CAPÍTULO IV - DE LOS JUECES ADMINISTRATIVOS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 124. RÉGIMEN
+## Artículo 124. Régimen
 
 Los juzgados administrativos que de conformidad con las necesidades de la administración de justicia establezca la Sala Administrativa del Consejo Superior de la Judicatura para el cumplimiento de las funciones que prevea la ley procesal en cada circuito o municipio, integran la Jurisdicción de lo Contencioso Administrativo. Sus características, denominación y número serán fijados por esa misma Corporación, de conformidad con lo dispuesto en la Ley Estatutaria de la Administración de Justicia.
 

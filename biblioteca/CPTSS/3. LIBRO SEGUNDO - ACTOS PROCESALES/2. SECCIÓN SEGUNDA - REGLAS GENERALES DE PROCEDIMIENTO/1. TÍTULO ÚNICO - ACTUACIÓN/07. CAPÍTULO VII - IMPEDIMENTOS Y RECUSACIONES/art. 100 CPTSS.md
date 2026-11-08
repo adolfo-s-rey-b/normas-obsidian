@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "100"
-epigrafe: "OPORTUNIDAD Y PROCEDENCIA DE LA RECUSACIÓN"
+epigrafe: "Oportunidad y procedencia de la recusación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 100. OPORTUNIDAD Y PROCEDENCIA DE LA RECUSACIÓN
+## Artículo 100. Oportunidad y procedencia de la recusación
 
 Podrá formularse la recusación en cualquier momento del proceso, de la ejecución de la sentencia, de la complementación de la condena en concreto o de la actuación para practicar pruebas o medidas cautelares extraprocesales.
 

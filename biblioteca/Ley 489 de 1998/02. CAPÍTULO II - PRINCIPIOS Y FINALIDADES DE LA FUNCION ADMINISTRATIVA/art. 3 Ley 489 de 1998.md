@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "3"
-epigrafe: "PRINCIPIOS DE LA FUNCION ADMINISTRATIVA"
+epigrafe: "Principios de la función administrativa"
 capitulo: "[[Ley 489 de 1998 - Capítulo II|CAPÍTULO II - PRINCIPIOS Y FINALIDADES DE LA FUNCION ADMINISTRATIVA]]"
 vigencia: "vigente"
 anterior: "[[art. 2 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo II|Capítulo II]]
 
-## Artículo 3. PRINCIPIOS DE LA FUNCION ADMINISTRATIVA
+## Artículo 3. Principios de la función administrativa
 
 La función administrativa se desarrollará conforme a los principios constitucionales, en particular los atinentes a la buena fe, igualdad, moralidad, celeridad, economía, imparcialidad, eficacia, eficiencia, participación, publicidad, responsabilidad y transparencia. Los principios anteriores se aplicarán, igualmente, en la prestación de servicios públicos, en cuanto fueren compatibles con su naturaleza y régimen.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "88"
-epigrafe: "NEGOCIACION DE ACCIONES"
+epigrafe: "Negociación de Acciones"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo X|CAPÍTULO X - PROPIEDAD ACCIONARIA]]"
 vigencia: "modificado"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo X|Capítulo X]]
 
-## Artículo 88. NEGOCIACION DE ACCIONES
+## Artículo 88. Negociación de Acciones
 
 1\. Negociación de acciones. Toda transacción de inversionistas nacionales o extranjeros que tenga por objeto la adquisición del diez por ciento (10%) o más de las acciones suscritas de cualquier entidad sometida a la vigilancia de la Superintendencia Bancaria, ya se realice mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas o aquellas por medio de las cuales se incremente dicho porcentaje, requerirá so pena de ineficacia, la aprobación del Superintendente Bancario, quien examinará la idoneidad, responsabilidad y carácter de las personas interesadas en adquirirlas. El Superintendente, además, se cerciorará que el bienestar público será fomentado con la transferencia de acciones.
 

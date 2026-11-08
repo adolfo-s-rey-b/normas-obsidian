@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 48 Ley 1563 de 2012|Artículo 48]] — PÉRDIDA Y REEMBOLSO DE HONORARIOS
-- [[art. 49 Ley 1563 de 2012|Artículo 49]] — INTERVENCIÓN DEL MINISTERIO PÚBLICO
+- [[art. 48 Ley 1563 de 2012|Artículo 48]] — Pérdida y reembolso de honorarios
+- [[art. 49 Ley 1563 de 2012|Artículo 49]] — Intervención del Ministerio Público
 
 ---
 ← [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]] · ↑ [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] · [[Ley 1563 de 2012 - Sección Primera - Capítulo VI|Capítulo VI]] →

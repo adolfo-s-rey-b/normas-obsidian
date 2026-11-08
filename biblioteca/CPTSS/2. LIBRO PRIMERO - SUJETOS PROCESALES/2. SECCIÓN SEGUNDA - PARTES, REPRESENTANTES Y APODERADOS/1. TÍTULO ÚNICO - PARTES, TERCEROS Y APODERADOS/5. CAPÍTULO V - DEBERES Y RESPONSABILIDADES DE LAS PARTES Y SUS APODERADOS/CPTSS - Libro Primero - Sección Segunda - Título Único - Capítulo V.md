@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 57 CPTSS|Artículo 57]] — DEBERES DE LAS PARTES Y SUS APODERADOS
-- [[art. 58 CPTSS|Artículo 58]] — TEMERIDAD O MALA FE
-- [[art. 59 CPTSS|Artículo 59]] — RESPONSABILIDAD PATRIMONIAL DE LAS PARTES
-- [[art. 60 CPTSS|Artículo 60]] — RESPONSABILIDAD PATRIMONIAL DE APODERADOS Y PODERDANTES
+- [[art. 57 CPTSS|Artículo 57]] — Deberes de las partes y sus apoderados
+- [[art. 58 CPTSS|Artículo 58]] — Temeridad o mala fe
+- [[art. 59 CPTSS|Artículo 59]] — Responsabilidad patrimonial de las partes
+- [[art. 60 CPTSS|Artículo 60]] — Responsabilidad patrimonial de apoderados y poderdantes
 
 ---
 ← [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]]

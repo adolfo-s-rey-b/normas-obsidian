@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "17"
-epigrafe: "ORGANIZACIÓN DE LA SOCIEDAD"
+epigrafe: "Organización de la sociedad"
 capitulo: "[[Ley 1258 de 2008 - Capítulo IV|CAPÍTULO IV - ORGANIZACIÓN DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 16 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo IV|Capítulo IV]]
 
-## Artículo 17. ORGANIZACIÓN DE LA SOCIEDAD
+## Artículo 17. Organización de la sociedad
 
 En los estatutos de la sociedad por acciones simplificada se determinará libremente la estructura orgánica de la sociedad y demás normas que rijan su funcionamiento. A falta de estipulación estatutaria, se entenderá que todas las funciones previstas en el artículo [[art. 420 CCo|420]] del Código de Comercio serán ejercidas por la asamblea o el accionista único y que las de administración estarán a cargo del representante legal.
 

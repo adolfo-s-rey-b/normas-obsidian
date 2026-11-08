@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "134"
-epigrafe: "MEDIDAS DE ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS"
+epigrafe: "Medidas de atención y protección a las víctimas"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título IV|TÍTULO IV - PARTES E INTERVINIENTES]]"
 capitulo: "[[CPP - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - VÍCTIMAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título IV|Título IV]] › [[CPP - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 134. MEDIDAS DE ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS
+## Artículo 134. Medidas de atención y protección a las víctimas
 
 Las víctimas, en garantía de su seguridad y el respeto a su intimidad, podrán por conducto del fiscal solicitar al juez de control de garantías las medidas indispensables para su atención y protección.
 

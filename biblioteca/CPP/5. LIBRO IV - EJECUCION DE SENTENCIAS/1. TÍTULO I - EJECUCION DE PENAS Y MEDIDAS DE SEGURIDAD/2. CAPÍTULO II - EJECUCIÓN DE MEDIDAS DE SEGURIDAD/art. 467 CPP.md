@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "467"
-epigrafe: "LIBERTAD VIGILADA"
+epigrafe: "Libertad vigilada"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo II|CAPÍTULO II - EJECUCIÓN DE MEDIDAS DE SEGURIDAD]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 467. LIBERTAD VIGILADA
+## Artículo 467. Libertad vigilada
 
 Impuesta la libertad vigilada, el juez de ejecución de penas y medidas de seguridad comunicará tal medida a las autoridades policivas del lugar, para el cumplimiento de lo dispuesto en el Código Penal, y señalará los controles respectivos.
 

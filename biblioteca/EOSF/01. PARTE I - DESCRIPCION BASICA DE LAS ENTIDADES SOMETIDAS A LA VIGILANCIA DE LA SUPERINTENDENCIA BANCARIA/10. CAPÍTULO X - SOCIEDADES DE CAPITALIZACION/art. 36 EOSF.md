@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "36"
-epigrafe: "OBJETO"
+epigrafe: "Objeto"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo X|CAPÍTULO X - SOCIEDADES DE CAPITALIZACION]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo X|Capítulo X]]
 
-## Artículo 36. OBJETO
+## Artículo 36. Objeto
 
 Las sociedades de capitalización tienen por objeto estimular el ahorro mediante la constitución, en cualquier forma, de capitales determinados, a cambio de desembolsos únicos o periódicos, con posibilidad o sin ella de reembolsos anticipados por medio de sorteos.
 

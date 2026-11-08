@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "95"
-epigrafe: "APLICACIÓN DEL ESTATUTO CONTRACTUAL"
+epigrafe: "Aplicación del Estatuto Contractual"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 94 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 95. APLICACIÓN DEL ESTATUTO CONTRACTUAL
+## Artículo 95. Aplicación del Estatuto Contractual
 
 Modifíquese el inciso 2o del literal c) del numeral 4 del artículo [[art. 2 Ley 1150 de 2007|2]]o de la Ley 1150 de 2007, el cual quedará así:
 

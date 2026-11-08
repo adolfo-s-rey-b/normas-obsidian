@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "207"
-epigrafe: "DISPOSICIONES RELATIVAS A SU ACTIVIDAD Y OPERACIONES"
+epigrafe: "Disposiciones Relativas a su Actividad y Operaciones"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo VII|CAPÍTULO VII - INTERMEDIARIOS DE SEGUROS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo VII|Capítulo VII]]
 
-## Artículo 207. DISPOSICIONES RELATIVAS A SU ACTIVIDAD Y OPERACIONES
+## Artículo 207. Disposiciones Relativas a su Actividad y Operaciones
 
 1\. Disposiciones especiales. Son aplicables a los intermediarios de seguros el numeral 1. del artículo [[art. 91 EOSF|91]] , [[art. 1 EOSF|1]]. y 2. del artículo [[art. 98 Ley 45 de 1990|98]] y el artículo [[art. 75 Ley 45 de 1990|75]] de la Ley 45 de 1990.
 

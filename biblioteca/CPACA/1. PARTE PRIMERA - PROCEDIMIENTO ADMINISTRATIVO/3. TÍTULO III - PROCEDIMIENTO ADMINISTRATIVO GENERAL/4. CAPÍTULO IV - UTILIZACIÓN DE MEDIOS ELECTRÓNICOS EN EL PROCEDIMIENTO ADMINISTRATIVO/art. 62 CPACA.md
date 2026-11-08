@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "62"
-epigrafe: "PRUEBA DE RECEPCIÓN Y ENVÍO DE MENSAJES DE DATOS POR LA AUTORIDAD"
+epigrafe: "Prueba de recepción y envío de mensajes de datos por la autoridad"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo IV|CAPÍTULO IV - UTILIZACIÓN DE MEDIOS ELECTRÓNICOS EN EL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 62. PRUEBA DE RECEPCIÓN Y ENVÍO DE MENSAJES DE DATOS POR LA AUTORIDAD
+## Artículo 62. Prueba de recepción y envío de mensajes de datos por la autoridad
 
 Para efectos de demostrar el envío y la recepción de comunicaciones, se aplicarán las siguientes reglas:
 

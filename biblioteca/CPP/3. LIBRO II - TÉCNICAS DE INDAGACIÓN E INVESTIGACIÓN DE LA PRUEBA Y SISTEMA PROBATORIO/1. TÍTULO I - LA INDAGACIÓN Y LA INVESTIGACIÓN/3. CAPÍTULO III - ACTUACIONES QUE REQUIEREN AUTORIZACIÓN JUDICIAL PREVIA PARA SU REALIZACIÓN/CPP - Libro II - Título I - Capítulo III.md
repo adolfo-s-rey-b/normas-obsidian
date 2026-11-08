@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 246 CPP|Artículo 246]] — REGLA GENERAL
-- [[art. 247 CPP|Artículo 247]] — INSPECCIÓN CORPORAL
-- [[art. 248 CPP|Artículo 248]] — REGISTRO PERSONAL
-- [[art. 249 CPP|Artículo 249]] — OBTENCIÓN DE MUESTRAS QUE INVOLUCREN AL IMPUTADO
-- [[art. 250 CPP|Artículo 250]] — PROCEDIMIENTO EN CASO DE LESIONADOS O DE VÍCTIMAS DE AGRESIONES SEXUALES
+- [[art. 246 CPP|Artículo 246]] — Regla general
+- [[art. 247 CPP|Artículo 247]] — Inspección corporal
+- [[art. 248 CPP|Artículo 248]] — Registro personal
+- [[art. 249 CPP|Artículo 249]] — Obtención de muestras que involucren al imputado
+- [[art. 250 CPP|Artículo 250]] — Procedimiento en caso de lesionados o de víctimas de agresiones sexuales
 
 ---
 ← [[CPP - Libro II - Título I - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro II - Título I|Título I]] · [[CPP - Libro II - Título I - Capítulo IV|Capítulo IV]] →

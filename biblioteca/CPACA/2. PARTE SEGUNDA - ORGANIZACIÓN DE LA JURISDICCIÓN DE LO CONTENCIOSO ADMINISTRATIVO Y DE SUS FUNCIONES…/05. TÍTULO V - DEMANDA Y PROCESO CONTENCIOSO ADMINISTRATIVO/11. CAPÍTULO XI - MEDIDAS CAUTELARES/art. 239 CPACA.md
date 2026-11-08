@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "239"
-epigrafe: "PROCEDIMIENTO EN CASO DE REPRODUCCIÓN DEL ACTO ANULADO"
+epigrafe: "Procedimiento en caso de reproducción del acto anulado"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo XI|CAPÍTULO XI - MEDIDAS CAUTELARES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo XI|Capítulo XI]]
 
-## Artículo 239. PROCEDIMIENTO EN CASO DE REPRODUCCIÓN DEL ACTO ANULADO
+## Artículo 239. Procedimiento en caso de reproducción del acto anulado
 
 El interesado podrá pedir la suspensión provisional y la nulidad del acto que reproduce un acto anulado, mediante escrito razonado dirigido al juez que decretó la anulación, con el que acompañará la copia del nuevo acto.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "68"
-epigrafe: "ENTIDADES DESCENTRALIZADAS"
+epigrafe: "Entidades descentralizadas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 67 Ley 489 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 68. ENTIDADES DESCENTRALIZADAS
+## Artículo 68. Entidades descentralizadas
 
 Son entidades descentralizadas del orden nacional, los establecimientos públicos, las empresas industriales y comerciales del Estado, las sociedades públicas y las sociedades de economía mixta, las superintendencias y las unidades administrativas especiales con personería jurídica, las empresas sociales del Estado, las empresas oficiales de servicios públicos y las demás entidades creadas por la ley o con su autorización, cuyo objeto principal sea el ejercicio de funciones administrativas, la prestación de servicios públicos o la realización de actividades industriales o comerciales con personería jurídica, autonomía administrativa y patrimonio propio. Como órganos del Estado aun cuando gozan de autonomía administrativa están sujetas al control político y a la suprema dirección del órgano de la administración al cual están adscritas.
 

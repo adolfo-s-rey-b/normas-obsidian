@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "34"
-epigrafe: "INTERPRETACIÓN FAVORABLE"
+epigrafe: "Interpretación favorable"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo I|CAPÍTULO I - PROTECCIÓN ESPECIAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo I|Capítulo I]]
 
-## Artículo 34. INTERPRETACIÓN FAVORABLE
+## Artículo 34. Interpretación favorable
 
 Las condiciones generales de los contratos serán interpretadas de la manera más favorable al consumidor. En caso de duda, prevalecerán las cláusulas más favorables al consumidor sobre aquellas que no lo sean.
 

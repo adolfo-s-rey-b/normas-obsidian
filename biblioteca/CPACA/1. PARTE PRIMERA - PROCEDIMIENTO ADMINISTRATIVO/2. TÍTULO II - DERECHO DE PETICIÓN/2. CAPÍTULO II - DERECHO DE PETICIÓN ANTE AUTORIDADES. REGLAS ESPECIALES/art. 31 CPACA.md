@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "31"
-epigrafe: "FALTA DISCIPLINARIA"
+epigrafe: "Falta disciplinaria"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 31. FALTA DISCIPLINARIA
+## Artículo 31. Falta disciplinaria
 
 La falta de atención a las peticiones y a los términos para resolver, la contravención a las prohibiciones y el desconocimiento de los derechos de las personas de que trata esta Parte Primera del Código, constituirán falta para el servidor público y darán lugar a las sanciones correspondientes de acuerdo con el régimen disciplinario.
 

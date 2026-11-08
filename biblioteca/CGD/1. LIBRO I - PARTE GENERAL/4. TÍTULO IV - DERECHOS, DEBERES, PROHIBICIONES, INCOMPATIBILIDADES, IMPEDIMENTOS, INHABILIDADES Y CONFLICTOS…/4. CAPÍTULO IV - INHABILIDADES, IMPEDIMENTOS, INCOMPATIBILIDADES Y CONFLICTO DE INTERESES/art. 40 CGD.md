@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "40"
-epigrafe: "INCORPORACIÓN DE INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES"
+epigrafe: "Incorporación de inhabilidades, impedimentos, incompatibilidades y conflicto de intereses"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título IV|TÍTULO IV - DERECHOS, DEBERES, PROHIBICIONES, INCOMPATIBILIDADES, IMPEDIMENTOS, INHABILIDADES Y CONFLICTOS DE INTERESES DEL SERVIDOR PÚBLICO]]"
 capitulo: "[[CGD - Libro I - Título IV - Capítulo IV|CAPÍTULO IV - INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título IV|Título IV]] › [[CGD - Libro I - Título IV - Capítulo IV|Capítulo IV]]
 
-## Artículo 40. INCORPORACIÓN DE INHABILIDADES, IMPEDIMENTOS, INCOMPATIBILIDADES Y CONFLICTO DE INTERESES
+## Artículo 40. Incorporación de inhabilidades, impedimentos, incompatibilidades y conflicto de intereses
 
 Se entienden incorporados a este código las inhabilidades, impedimentos, incompatibilidades y conflicto de intereses señalados en la Constitución y en la ley.
 

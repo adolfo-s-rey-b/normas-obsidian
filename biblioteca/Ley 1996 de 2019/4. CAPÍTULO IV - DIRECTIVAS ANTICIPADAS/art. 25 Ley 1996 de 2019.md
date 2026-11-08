@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "25"
-epigrafe: "PERSONAS DE APOYO EN DIRECTIVAS ANTICIPADAS"
+epigrafe: "Personas de apoyo en directivas anticipadas"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 24 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 25. PERSONAS DE APOYO EN DIRECTIVAS ANTICIPADAS
+## Artículo 25. Personas de apoyo en directivas anticipadas
 
 Aquellas personas distintas a la persona titular del acto que adquieran obligaciones de hacer en cumplimiento de la voluntad y preferencias expresadas por medio de una directiva anticipada, y que suscriban la misma, se entenderán como personas de apoyo y estarán sujetas a las reglas de responsabilidad establecidas para estos efectos en la presente ley.
 

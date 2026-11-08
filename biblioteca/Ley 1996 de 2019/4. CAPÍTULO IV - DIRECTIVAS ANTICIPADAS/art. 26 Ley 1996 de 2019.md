@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "26"
-epigrafe: "OBLIGATORIEDAD DE LAS DECISIONES EXPRESADAS POR MEDIO DE UNA DIRECTIVA ANTICIPADA"
+epigrafe: "Obligatoriedad de las decisiones expresadas por medio de una directiva anticipada"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 25 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 26. OBLIGATORIEDAD DE LAS DECISIONES EXPRESADAS POR MEDIO DE UNA DIRECTIVA ANTICIPADA
+## Artículo 26. Obligatoriedad de las decisiones expresadas por medio de una directiva anticipada
 
 Las decisiones expresadas con anterioridad al acto jurídico por medio de una directiva anticipada son de obligatorio cumplimiento para las personas de apoyo designadas a través de la directiva anticipada y que hayan asumido dicho cargo conforme a las reglas del artículo [[art. 46 Ley 1996 de 2019|46]] de la presente ley.
 

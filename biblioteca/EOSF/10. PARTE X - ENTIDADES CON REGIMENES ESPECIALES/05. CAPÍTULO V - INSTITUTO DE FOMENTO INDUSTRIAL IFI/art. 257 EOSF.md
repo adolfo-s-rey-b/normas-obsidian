@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "257"
-epigrafe: "DISPOSICIONES FINALES"
+epigrafe: "Disposiciones Finales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo V|CAPÍTULO V - INSTITUTO DE FOMENTO INDUSTRIAL IFI]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo V|Capítulo V]]
 
-## Artículo 257. DISPOSICIONES FINALES
+## Artículo 257. Disposiciones Finales
 
 1\. Destinación de las utilidades en Cerro Matoso. Las utilidades que correspondan al Instituto de Fomento Industrial, IFI, en Cerro Matoso S.A., se destinarán a la Nación en un ochenta por ciento (80%) hasta la concurrencia de las sumas asumidas y condonadas en virtud de los artículos [[art. 1 EOSF|1]]o. y 2o. de la Ley 23 de 1987.
 

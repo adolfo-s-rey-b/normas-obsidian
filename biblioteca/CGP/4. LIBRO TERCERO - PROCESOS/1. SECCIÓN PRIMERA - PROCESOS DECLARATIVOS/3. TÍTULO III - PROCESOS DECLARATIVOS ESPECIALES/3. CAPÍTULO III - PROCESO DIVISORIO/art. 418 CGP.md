@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "418"
-epigrafe: "DIFERENCIAS ENTRE EL ADMINISTRADOR Y LOS COMUNEROS"
+epigrafe: "Diferencias entre el administrador y los comuneros"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título III|TÍTULO III - PROCESOS DECLARATIVOS ESPECIALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título III|Título III]] › [[CGP - Libro Tercero - Sección Primera - Título III - Capítulo III|Capítulo III]]
 
-## Artículo 418. DIFERENCIAS ENTRE EL ADMINISTRADOR Y LOS COMUNEROS
+## Artículo 418. Diferencias entre el administrador y los comuneros
 
 Las diferencias entre el administrador y los comuneros sobre la forma de ejercer aquel sus funciones, se tramitarán como incidente en el respectivo proceso divisorio o a continuación de la audiencia en que se hizo el nombramiento, según fuere el caso, previa notificación personal de los comuneros.
 

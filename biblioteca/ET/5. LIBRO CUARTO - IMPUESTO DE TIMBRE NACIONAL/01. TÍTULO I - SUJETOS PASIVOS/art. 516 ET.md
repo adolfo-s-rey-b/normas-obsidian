@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "516"
-epigrafe: "QUIENES SON RESPONSABLES"
+epigrafe: "QUIÉNES SON RESPONSABLES"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título I|TÍTULO I - SUJETOS PASIVOS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título I|Título I]]
 
-## Artículo 516. QUIENES SON RESPONSABLES
+## Artículo 516. QUIÉNES SON RESPONSABLES
 
 Son responsables por el impuesto y las sanciones todos los agentes de retención, incluidos aquellos, que aún sin tener el carácter de contribuyentes, deben cumplir las obligaciones de éstos por disposición expresa de la ley.
 

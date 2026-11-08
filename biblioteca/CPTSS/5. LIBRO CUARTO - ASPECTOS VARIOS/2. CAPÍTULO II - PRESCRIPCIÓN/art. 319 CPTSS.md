@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "319"
-epigrafe: "INTERRUPCIÓN DEL ACREEDOR"
+epigrafe: "Interrupción del acreedor"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 319. INTERRUPCIÓN DEL ACREEDOR
+## Artículo 319. Interrupción del acreedor
 
 La interrupción de la prescripción por parte del acreedor, también operará con:
 

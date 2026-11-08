@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "71"
-epigrafe: "REUNIONES DE LA COMISIÓN NACIONAL DE MORALIZACIÓN Y LA COMISIÓN CIUDADANA"
+epigrafe: "Reuniones de la Comisión Nacional de Moralización y la Comisión Ciudadana"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "modificado"
 modificado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 71. REUNIONES DE LA COMISIÓN NACIONAL DE MORALIZACIÓN Y LA COMISIÓN CIUDADANA
+## Artículo 71. Reuniones de la Comisión Nacional de Moralización y la Comisión Ciudadana
 
 La Comisión Nacional de Moralización y la Comisión Ciudadana deberán reunirse al menos dos (2) veces al año y entregar a fin de año un informe de sus actividades y resultados, el cual será público y podrá ser consultado en la página de Internet de todas las entidades que conforman esta Comisión.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "251"
-epigrafe: "RECURSO DE ANULACIÓN"
+epigrafe: "Recurso de anulación"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 251. RECURSO DE ANULACIÓN
+## Artículo 251. Recurso de anulación
 
 Contra los laudos arbitrales de que tratan los artículos [[art. 302 CPTSS|302]] y [[art. 307 CPTSS|307]] de este código, procede el recurso extraordinario de Anulación que será conocido por la Sala Laboral del respectivo Tribunal Superior de Distrito Judicial donde se constituyó.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "106"
-epigrafe: "CADUCIDAD"
+epigrafe: "Caducidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo IV|CAPÍTULO IV - DEL EJERCICIO DEL INCIDENTE DE REPARACIÓN INTEGRAL]]"
@@ -20,7 +20,6 @@ modificado_por:
   - "[[art. 86 Ley 1395 de 2010]]"
   - "[[art. 103 CPP]]"
   - "[[art. 87 Ley 1395 de 2010]]"
-  - "[[art. 28 CPP]]"
   - "[[art. 106 CPP]]"
 anterior: "[[art. 105 CPP]]"
 siguiente: "[[art. 107 CPP]]"
@@ -39,13 +38,13 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 106. CADUCIDAD
+## Artículo 106. Caducidad
 
 La solicitud para la reparación integral por medio de este procedimiento especial caduca treinta (30) días después de haber quedado en firme el fallo condenatorio.
 
 > [!info] Artículo modificado por el artículo [[art. 89 Ley 1395 de 2010|89]] de la Ley 1395 de 2010. El nuevo texto es el siguiente:
 
-> [!info] Notas del Editor: En criterio del editor, en los casos de violencia sexual con ocación del conflicto armado, debe tenerse en cuenta lo dispuesto en el numeral 6 del artículo [[art. 27 Ley 1719 de 2014|27]] de la Ley 1719 de 2014, 'por la cual se modifican algunos artículos de las Leyes 599 de 2000, 906 de 2004 y se adoptan medidas para garantizar el acceso a la justicia de las víctimas de violencia sexual, en especial la violencia sexual con ocasión del conflicto armado, y se dictan otras disposiciones', publicada en el Diario Oficial No. 49.186 de 18 de junio de 2014: (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 27 . REGLAS ESPECIALES PARA EL TRÁMITE DEL INCIDENTE DE REPARACIÓN INTEGRAL EN LOS CASOS DE VIOLENCIA SEXUAL CON OCASIÓN DEL CONFLICTO ARMADA BAJO EL PROCEDIMIENTO DE LA LEY 906 DE 2004. En los casos de violencia sexual con ocasión del conflicto armado, se seguirán las siguientes reglas para el ejercicio e impulso del incidente de reparación integral: (...) 2. Cuando se trate de víctimas menores de edad, que carecen de representación legal, o cuyos representantes se abstienen de solicitar el inicio del incidente el fiscal deberá solicitar su inicio dentro de los cinco (5) días siguientes al vencimiento del término dispuesto en el artículo [[art. 102 CPP|102]] de la Ley 906 de 2004, modificado por el artículo [[art. 86 Ley 1395 de 2010|86]] de la Ley 1395 de 2010. A la audiencia que convoque el juez para el inicio del incidente, deberán ser citados, además, el agente del Ministerio Público, el defensor de familia cuya designación se solicitará al ICBF, y el representante judicial de víctimas designado por la Defensoría del Pueblo. 3. En la audiencia pública establecida en el artículo [[art. 103 CPP|103]] de la Ley 906 de 2004, modificado por el artículo [[art. 87 Ley 1395 de 2010|87]] de la Ley 1395 de 2010, el juez deberá examinar si las pretensiones formuladas recogen suficientemente los criterios de reparación integral y diferenciales establecidos en el artículo [[art. 28 CPP|28]] de la presente ley. Al verificar que las pretensiones no incorporan tales criterios, el juez inadmitirá la solicitud, y concederá al representante judicial de víctimas la oportunidad dentro de la misma audiencia de adicionar a la solicitud medidas complementarias. (...) 6. El término de caducidad previsto en el artículo [[art. 106 CPP|106]] de la Ley 906 de 2004, modificado por el artículo [[art. 89 Ley 1395 de 2010|89]] de la Ley 1395 de 2010, se entenderá ampliado, por la suma de los plazos previstos en los numerales 2 y 3 del presente artículo, cuando haya lugar a aplicarlos. (...)'
+> [!info] Notas del Editor: En criterio del editor, en los casos de violencia sexual con ocación del conflicto armado, debe tenerse en cuenta lo dispuesto en el numeral 6 del artículo [[art. 27 Ley 1719 de 2014|27]] de la Ley 1719 de 2014, 'por la cual se modifican algunos artículos de las Leyes 599 de 2000, 906 de 2004 y se adoptan medidas para garantizar el acceso a la justicia de las víctimas de violencia sexual, en especial la violencia sexual con ocasión del conflicto armado, y se dictan otras disposiciones', publicada en el Diario Oficial No. 49.186 de 18 de junio de 2014: (Por favor remitirse a la norma original para comprobar la vigencia del texto que se transcribe a continuación:) 'ARTÍCULO 27 . REGLAS ESPECIALES PARA EL TRÁMITE DEL INCIDENTE DE REPARACIÓN INTEGRAL EN LOS CASOS DE VIOLENCIA SEXUAL CON OCASIÓN DEL CONFLICTO ARMADA BAJO EL PROCEDIMIENTO DE LA LEY 906 DE 2004. En los casos de violencia sexual con ocasión del conflicto armado, se seguirán las siguientes reglas para el ejercicio e impulso del incidente de reparación integral: (...) 2. Cuando se trate de víctimas menores de edad, que carecen de representación legal, o cuyos representantes se abstienen de solicitar el inicio del incidente el fiscal deberá solicitar su inicio dentro de los cinco (5) días siguientes al vencimiento del término dispuesto en el artículo [[art. 102 CPP|102]] de la Ley 906 de 2004, modificado por el artículo [[art. 86 Ley 1395 de 2010|86]] de la Ley 1395 de 2010. A la audiencia que convoque el juez para el inicio del incidente, deberán ser citados, además, el agente del Ministerio Público, el defensor de familia cuya designación se solicitará al ICBF, y el representante judicial de víctimas designado por la Defensoría del Pueblo. 3. En la audiencia pública establecida en el artículo [[art. 103 CPP|103]] de la Ley 906 de 2004, modificado por el artículo [[art. 87 Ley 1395 de 2010|87]] de la Ley 1395 de 2010, el juez deberá examinar si las pretensiones formuladas recogen suficientemente los criterios de reparación integral y diferenciales establecidos en el artículo 28 de la presente ley. Al verificar que las pretensiones no incorporan tales criterios, el juez inadmitirá la solicitud, y concederá al representante judicial de víctimas la oportunidad dentro de la misma audiencia de adicionar a la solicitud medidas complementarias. (...) 6. El término de caducidad previsto en el artículo [[art. 106 CPP|106]] de la Ley 906 de 2004, modificado por el artículo [[art. 89 Ley 1395 de 2010|89]] de la Ley 1395 de 2010, se entenderá ampliado, por la suma de los plazos previstos en los numerales 2 y 3 del presente artículo, cuando haya lugar a aplicarlos. (...)'
 
 (subraya el editor)
 

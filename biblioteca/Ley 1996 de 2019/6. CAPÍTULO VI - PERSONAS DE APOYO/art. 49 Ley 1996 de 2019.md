@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "49"
-epigrafe: "FORMAS DE APOYO QUE NO IMPLICAN REPRESENTACIÓN"
+epigrafe: "Formas de apoyo que no implican representación"
 capitulo: "[[Ley 1996 de 2019 - Capítulo VI|CAPÍTULO VI - PERSONAS DE APOYO]]"
 vigencia: "vigente"
 anterior: "[[art. 48 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo VI|Capítulo VI]]
 
-## Artículo 49. FORMAS DE APOYO QUE NO IMPLICAN REPRESENTACIÓN
+## Artículo 49. Formas de apoyo que no implican representación
 
 Las personas de apoyo podrán llevar a cabo las siguientes acciones, siempre y cuando estén contempladas en el acuerdo de apoyos, en la directiva anticipada o en la sentencia de adjudicación de apoyos, sin que las mismas impliquen actos de representación:
 

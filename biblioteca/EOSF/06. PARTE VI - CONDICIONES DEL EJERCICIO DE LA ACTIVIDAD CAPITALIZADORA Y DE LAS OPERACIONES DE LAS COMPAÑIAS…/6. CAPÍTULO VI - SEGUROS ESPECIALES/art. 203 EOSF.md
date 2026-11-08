@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "203"
-epigrafe: "SEGURO DE MANEJO O DE CUMPLIMIENTO"
+epigrafe: "Seguro de Manejo o de Cumplimiento"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo VI|CAPÍTULO VI - SEGUROS ESPECIALES]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo VI|Capítulo VI]]
 
-## Artículo 203. SEGURO DE MANEJO O DE CUMPLIMIENTO
+## Artículo 203. Seguro de Manejo o de Cumplimiento
 
 1\. Objeto del seguro. Dentro de los seguros de manejo o de cumplimiento habrá uno que tendrá por objeto garantizar el correcto manejo de fondos o valores de cualquier clase que se confíen a los empleados públicos o a los particulares, en favor de las entidades o personas ante las cuales sean responsables; y podrá extenderse también al pago de impuestos, tasas y derechos y al cumplimiento de obligaciones que emanen de leyes o de contratos.
 

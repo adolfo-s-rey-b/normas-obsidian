@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 605 CGP|Artículo 605]] — EFECTOS DE LAS SENTENCIAS EXTRANJERAS
-- [[art. 606 CGP|Artículo 606]] — REQUISITOS
-- [[art. 607 CGP|Artículo 607]] — TRÁMITE DEL EXEQUÁTUR
+- [[art. 605 CGP|Artículo 605]] — Efectos de las sentencias extranjeras
+- [[art. 606 CGP|Artículo 606]] — Requisitos
+- [[art. 607 CGP|Artículo 607]] — Trámite del exequátur
 
 ---
 ↑ [[CGP - Libro Quinto - Título I|Título I]] · [[CGP - Libro Quinto - Título I - Capítulo II|Capítulo II]] →

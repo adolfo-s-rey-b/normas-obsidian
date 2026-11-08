@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "16"
-epigrafe: "CORRUPCIÓN PRIVADA"
+epigrafe: "Corrupción privada"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 15 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 16. CORRUPCIÓN PRIVADA
+## Artículo 16. Corrupción privada
 
 La Ley 599 de 2000 tendrá un artículo [[art. 250A CP|250A]], el cual quedará así:
 

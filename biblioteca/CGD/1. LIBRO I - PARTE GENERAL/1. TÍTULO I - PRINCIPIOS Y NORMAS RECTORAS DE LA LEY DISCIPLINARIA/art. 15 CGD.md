@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "15"
-epigrafe: "DERECHO A LA DEFENSA"
+epigrafe: "Derecho a la defensa"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 15. DERECHO A LA DEFENSA
+## Artículo 15. Derecho a la defensa
 
 Durante la actuación disciplinaria el investigado tiene derecho a la defensa material y a la designación de un abogado. Si el procesado solicita la designación de un defensor así deberá procederse. Cuando se juzgue como persona ausente deberá estar representado a través de apoderado judicial. Si no lo hiciere, se designará defensor de oficio*, que podrá ser estudiante del Consultorio Jurídico de las universidades reconocidas legalmente.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "21"
-epigrafe: "CLÁUSULA DE EXCLUSIÓN"
+epigrafe: "Cláusula de exclusión"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 21. CLÁUSULA DE EXCLUSIÓN
+## Artículo 21. Cláusula de exclusión
 
 Toda prueba obtenida con violación de los derechos y garantías fundamentales será nula de pleno derecho, por lo quedeberá excluirse de la actuación procesal.
 

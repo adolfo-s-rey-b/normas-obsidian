@@ -20,11 +20,11 @@ tags:
 
 ### Contenido
 
-- [[art. 110 Ley 489 de 1998|Artículo 110]] — CONDICIONES PARA EL EJERCICIO DE FUNCIONES ADMINISTRATIVAS POR PARTICULARES
-- [[art. 111 Ley 489 de 1998|Artículo 111]] — REQUISITOS Y PROCEDIMIENTOS DE LOS ACTOS ADMINISTRATIVOS Y CONVENIOS PARA CONFERIR FUNCIONES ADMINISTRATIVAS A PARTICULARES
-- [[art. 112 Ley 489 de 1998|Artículo 112]] — REGIMEN JURIDICO DE LOS ACTOS Y CONTRATOS
-- [[art. 113 Ley 489 de 1998|Artículo 113]] — INHABILIDADES E INCOMPATIBILIDADES
-- [[art. 114 Ley 489 de 1998|Artículo 114]] — CONTROL SOBRE LAS FUNCIONES
+- [[art. 110 Ley 489 de 1998|Artículo 110]] — Condiciones para el ejercicio de funciones administrativas por particulares
+- [[art. 111 Ley 489 de 1998|Artículo 111]] — Requisitos y procedimientos de los actos administrativos y convenios para conferir funciones administrativas a particulares
+- [[art. 112 Ley 489 de 1998|Artículo 112]] — Régimen jurídico de los actos y contratos
+- [[art. 113 Ley 489 de 1998|Artículo 113]] — Inhabilidades e incompatibilidades
+- [[art. 114 Ley 489 de 1998|Artículo 114]] — Control sobre las funciones
 
 ---
 ← [[Ley 489 de 1998 - Capítulo XV|Capítulo XV]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo XVII|Capítulo XVII]] →

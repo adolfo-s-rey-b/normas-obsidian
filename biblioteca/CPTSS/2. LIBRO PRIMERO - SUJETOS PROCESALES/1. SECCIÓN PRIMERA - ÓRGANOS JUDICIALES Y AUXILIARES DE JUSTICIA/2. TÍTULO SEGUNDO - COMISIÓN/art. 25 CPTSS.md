@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "25"
-epigrafe: "PODERES DEL COMISIONADO"
+epigrafe: "Poderes del comisionado"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Segundo|TÍTULO SEGUNDO - COMISIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Segundo|Título Segundo]]
 
-## Artículo 25. PODERES DEL COMISIONADO
+## Artículo 25. Poderes del comisionado
 
 El comisionado tendrá las mismas facultades del comitente en relación con la diligencia que se le delegue, inclusive las de resolver reposiciones y conceder apelaciones ante su superior contra las providencias que dicte, susceptibles de esos recursos. Sobre la concesión de las apelaciones que se interpongan se resolverá al final de la diligencia.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "401"
-epigrafe: "CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA"
+epigrafe: "Circunstancias de atenuación punitiva"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título XV|TÍTULO XV - DELITOS CONTRA LA ADMINISTRACIÓN PUBLICA]]"
 capitulo: "[[CP - Libro Segundo - Título XV - Capítulo Primero|CAPÍTULO PRIMERO - DEL PECULADO]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título XV|Título XV]] › [[CP - Libro Segundo - Título XV - Capítulo Primero|Capítulo Primero]]
 
-## Artículo 401. CIRCUNSTANCIAS DE ATENUACIÓN PUNITIVA
+## Artículo 401. Circunstancias de atenuación punitiva
 
 Si antes de iniciarse la investigación, el agente, por sí o por tercera persona, hiciere cesar el mal uso, reparare lo dañado, corrigiere la aplicación oficial diferente, o reintegrare lo apropiado, perdido o extraviado, o su valor actualizado con intereses la pena se disminuirá en la mitad.
 

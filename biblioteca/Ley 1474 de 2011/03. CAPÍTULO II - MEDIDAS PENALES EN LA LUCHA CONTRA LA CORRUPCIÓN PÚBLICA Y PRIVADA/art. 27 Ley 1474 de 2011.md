@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "27"
-epigrafe: "ACUERDOS RESTRICTIVOS DE LA COMPETENCIA"
+epigrafe: "Acuerdos restrictivos de la competencia"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 26 Ley 1474 de 2011]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 27. ACUERDOS RESTRICTIVOS DE LA COMPETENCIA
+## Artículo 27. Acuerdos restrictivos de la competencia
 
 La Ley 599 de 2000 tendrá un artículo [[art. 410A CP|410A]], el cual quedará así:
 

@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 44 CPTSS|Artículo 44]] — LITISCONSORTES FACULTATIVOS
-- [[art. 45 CPTSS|Artículo 45]] — LITISCONSORCIO NECESARIO E INTEGRACIÓN DEL CONTRADICTORIO
-- [[art. 46 CPTSS|Artículo 46]] — LITISCONSORTES CUASINECESARIOS
-- [[art. 47 CPTSS|Artículo 47]] — INTERVENCIÓN EXCLUYENTE
-- [[art. 48 CPTSS|Artículo 48]] — LLAMAMIENTO EN GARANTÍA
-- [[art. 49 CPTSS|Artículo 49]] — REQUISITOS DEL LLAMAMIENTO
-- [[art. 50 CPTSS|Artículo 50]] — TRÁMITE
-- [[art. 51 CPTSS|Artículo 51]] — SUCESIÓN PROCESAL
+- [[art. 44 CPTSS|Artículo 44]] — Litisconsortes facultativos
+- [[art. 45 CPTSS|Artículo 45]] — Litisconsorcio necesario e integración del contradictorio
+- [[art. 46 CPTSS|Artículo 46]] — Litisconsortes cuasinecesarios
+- [[art. 47 CPTSS|Artículo 47]] — Intervención excluyente
+- [[art. 48 CPTSS|Artículo 48]] — Llamamiento en garantía
+- [[art. 49 CPTSS|Artículo 49]] — Requisitos del llamamiento
+- [[art. 50 CPTSS|Artículo 50]] — Trámite
+- [[art. 51 CPTSS|Artículo 51]] — Sucesión procesal
 
 ---
 ← [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]] · ↑ [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo III|Capítulo III]] →

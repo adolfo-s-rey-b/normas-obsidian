@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 142 CPP|Artículo 142]] — DEBERES ESPECÍFICOS DE LA FISCALÍA GENERAL DE LA NACIÓN
+- [[art. 142 CPP|Artículo 142]] — Deberes específicos de la Fiscalía General de la Nación
 
 ---
 ← [[CPP - Libro I - Título V - Capítulo II|Capítulo II]] · ↑ [[CPP - Libro I - Título V|Título V]] · [[CPP - Libro I - Título V - Capítulo IV|Capítulo IV]] →

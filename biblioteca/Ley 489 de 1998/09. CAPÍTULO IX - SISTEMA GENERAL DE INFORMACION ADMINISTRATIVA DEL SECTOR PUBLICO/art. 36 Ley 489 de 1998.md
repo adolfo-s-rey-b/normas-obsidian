@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "36"
-epigrafe: "SISTEMA GENERAL DE INFORMACION ADMINISTRATIVA"
+epigrafe: "Sistema General de Información Administrativa"
 capitulo: "[[Ley 489 de 1998 - Capítulo IX|CAPÍTULO IX - SISTEMA GENERAL DE INFORMACION ADMINISTRATIVA DEL SECTOR PUBLICO]]"
 vigencia: "vigente"
 anterior: "[[art. 35 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo IX|Capítulo IX]]
 
-## Artículo 36. SISTEMA GENERAL DE INFORMACION ADMINISTRATIVA
+## Artículo 36. Sistema General de Información Administrativa
 
 Créase el Sistema General de Información Administrativa del Sector Público, integrado, entre otros, por los subsistemas de organización institucional, de gestión de recursos humanos, materiales y físicos, y el de desarrollo administrativo. El diseño, dirección e implementación del Sistema será responsabilidad del Departamento Administrativo de la Función Pública en coordinación con los organismos competentes en sistemas de información, y de los cuales se levantará una memoria institucional.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "43"
-epigrafe: "REPRESENTACIÓN AGENCIAS Y SUCURSALES DE SOCIEDADES NACIONALES"
+epigrafe: "Representación agencias y sucursales de sociedades nacionales"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CPTSS - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 43. REPRESENTACIÓN AGENCIAS Y SUCURSALES DE SOCIEDADES NACIONALES
+## Artículo 43. Representación agencias y sucursales de sociedades nacionales
 
 Las sociedades domiciliadas en Colombia deberán constituir apoderados, con capacidad para representarlas, en los lugares en donde se establezcan agencias, en la forma indicada en el inciso 2º del artículo precedente, pero el registro se efectuará en la respectiva cámara de comercio. Si no los constituyen llevará su representación quien tenga la dirección de la respectiva agencia.
 

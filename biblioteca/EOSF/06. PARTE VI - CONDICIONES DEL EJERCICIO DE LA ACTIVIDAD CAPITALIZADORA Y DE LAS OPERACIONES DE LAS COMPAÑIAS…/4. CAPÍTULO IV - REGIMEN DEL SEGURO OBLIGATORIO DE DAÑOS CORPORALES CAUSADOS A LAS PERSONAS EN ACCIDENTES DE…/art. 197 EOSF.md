@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "197"
-epigrafe: "CONTROL Y ACTUALIZACION DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES POR ACCIDENTES DE TRANSITO"
+epigrafe: "Control y Actualización del Seguro Obligatorio de Daños Corporales por Accidentes de Tránsito"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo IV|CAPÍTULO IV - REGIMEN DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES CAUSADOS A LAS PERSONAS EN ACCIDENTES DE TRANSITO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo IV|Capítulo IV]]
 
-## Artículo 197. CONTROL Y ACTUALIZACION DEL SEGURO OBLIGATORIO DE DAÑOS CORPORALES POR ACCIDENTES DE TRANSITO
+## Artículo 197. Control y Actualización del Seguro Obligatorio de Daños Corporales por Accidentes de Tránsito
 
 1\. Control de la existencia del seguro. Para la expedición del certificado de movilización previsto en el Decreto Ley 1809 de 1990 será necesario acreditar la vigencia del seguro al cual se refiere el presente capítulo.
 

@@ -22,12 +22,12 @@ tags:
 
 ### Contenido
 
-- [[art. 70 Ley 446 de 1998|Artículo 70]] — ASUNTOS SUSCEPTIBLES DE CONCILIACION
-- [[art. 71 Ley 446 de 1998|Artículo 71]] — REVOCATORIA DIRECTA
+- [[art. 70 Ley 446 de 1998|Artículo 70]] — Asuntos susceptibles de conciliación
+- [[art. 71 Ley 446 de 1998|Artículo 71]] — Revocatoria directa
 - [[art. 72 Ley 446 de 1998|Artículo 72]] — Conclusión del procedimiento conciliatorio
-- [[art. 73 Ley 446 de 1998|Artículo 73]] — COMPETENCIA
+- [[art. 73 Ley 446 de 1998|Artículo 73]] — Competencia
 - [[art. 74 Ley 446 de 1998|Artículo 74]] — SANCIONES
-- [[art. 75 Ley 446 de 1998|Artículo 75]] — COMITE DE CONCILIACION
+- [[art. 75 Ley 446 de 1998|Artículo 75]] — Comité de conciliación
 - [[art. 76 Ley 446 de 1998|Artículo 76]] — PRUEBAS
 
 ---

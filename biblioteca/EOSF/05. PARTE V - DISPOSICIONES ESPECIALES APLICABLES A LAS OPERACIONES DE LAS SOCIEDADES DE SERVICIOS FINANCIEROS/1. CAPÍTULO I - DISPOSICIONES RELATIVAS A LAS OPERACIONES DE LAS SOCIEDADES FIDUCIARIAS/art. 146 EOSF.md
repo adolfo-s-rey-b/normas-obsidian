@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "146"
-epigrafe: "NORMAS GENERALES DE LAS OPERACIONES FIDUCIARIAS"
+epigrafe: "Normas Generales de las Operaciones Fiduciarias"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo I|CAPÍTULO I - DISPOSICIONES RELATIVAS A LAS OPERACIONES DE LAS SOCIEDADES FIDUCIARIAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 38 Ley 795 de 2003]]"
 derogado_por:
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo I|Capítulo I]]
 
-## Artículo 146. NORMAS GENERALES DE LAS OPERACIONES FIDUCIARIAS
+## Artículo 146. Normas Generales de las Operaciones Fiduciarias
 
 1\. Normas aplicables a los encargos fiduciarios. En relación con los encargos fiduciarios se aplicarán las disposiciones que regulan el contrato de fiducia mercantil, y subsidiariamente las disposiciones del Código de Comercio que regulan el contrato de mandato, en cuanto unas y otras sean compatibles con la naturaleza propia de estos negocios y no se opongan a las reglas especiales previstas en el presente Estatuto.
 

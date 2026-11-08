@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 435 CPP|Artículo 435]] — PROCEDENCIA
-- [[art. 436 CPP|Artículo 436]] — CRITERIOS PARA DECRETARLA
+- [[art. 435 CPP|Artículo 435]] — Procedencia
+- [[art. 436 CPP|Artículo 436]] — Criterios para decretarla
 
 ---
 ← [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]] · ↑ [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] · [[CPP - Libro III - Título IV - Capítulo III - Parte VI|Parte VI]] →

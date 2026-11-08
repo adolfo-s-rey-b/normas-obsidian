@@ -24,12 +24,12 @@ tags:
 
 ### Contenido
 
-- [[art. 233 CPTSS|Artículo 233]] — PROCEDENCIA
-- [[art. 234 CPTSS|Artículo 234]] — COMPETENCIA
-- [[art. 235 CPTSS|Artículo 235]] — CAUSALES DE REVISIÓN
-- [[art. 236 CPTSS|Artículo 236]] — TÉRMINO PARA INTERPONER EL RECURSO
-- [[art. 237 CPTSS|Artículo 237]] — FORMULACIÓN DEL RECURSO
-- [[art. 238 CPTSS|Artículo 238]] — TRÁMITE
+- [[art. 233 CPTSS|Artículo 233]] — Procedencia
+- [[art. 234 CPTSS|Artículo 234]] — Competencia
+- [[art. 235 CPTSS|Artículo 235]] — Causales de revisión
+- [[art. 236 CPTSS|Artículo 236]] — Término para interponer el recurso
+- [[art. 237 CPTSS|Artículo 237]] — Formulación del recurso
+- [[art. 238 CPTSS|Artículo 238]] — Trámite
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo V|Capítulo V]] · ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]] →

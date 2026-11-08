@@ -23,7 +23,7 @@ tags:
 ### Contenido
 
 - [[art. 143 Ley 222 de 1995|Artículo 143]] — VIGENCIA
-- [[art. 144 Ley 222 de 1995|Artículo 144]] — DECRETO, PRACTICA Y OPOSICION
+- [[art. 144 Ley 222 de 1995|Artículo 144]] — DECRETO, PRÁCTICA Y OPOSICION
 - [[art. 145 Ley 222 de 1995|Artículo 145]] — LEVANTAMIENTO
 
 ---

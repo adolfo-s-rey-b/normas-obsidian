@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "29"
-epigrafe: "ENRIQUECIMIENTO ILÍCITO"
+epigrafe: "Enriquecimiento ilícito"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 28 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 29. ENRIQUECIMIENTO ILÍCITO
+## Artículo 29. Enriquecimiento ilícito
 
 El artículo [[art. 412 CP|412]] del Código Penal quedará así:
 

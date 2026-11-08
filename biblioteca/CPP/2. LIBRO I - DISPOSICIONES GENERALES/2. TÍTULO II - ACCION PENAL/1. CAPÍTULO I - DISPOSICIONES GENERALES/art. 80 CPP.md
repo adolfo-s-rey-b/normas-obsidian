@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "80"
-epigrafe: "EFECTOS DE LA EXTINCIÓN"
+epigrafe: "Efectos de la extinción"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 80. EFECTOS DE LA EXTINCIÓN
+## Artículo 80. Efectos de la extinción
 
 La extinción de la acción penal producirá efectos de cosa juzgada. Sin embargo, no se extenderá a la acción civil derivada del injusto ni a la acción de extinción de dominio.
 

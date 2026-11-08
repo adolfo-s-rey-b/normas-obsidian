@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "95"
-epigrafe: "ASOCIACION ENTRE ENTIDADES PUBLICAS"
+epigrafe: "Asociación entre entidades públicas"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente inexequible"
 anterior: "[[art. 94 Ley 489 de 1998]]"
 siguiente: "[[art. 96 Ley 489 de 1998]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0489_1998.html"
@@ -19,12 +19,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_489_de_1998
-  - vigencia/vigente
+  - vigencia/parcialmente_inexequible
 ---
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 95. ASOCIACION ENTRE ENTIDADES PUBLICAS
+## Artículo 95. Asociación entre entidades públicas
 
 > [!note] Artículo CONDICIONALMENTE EXEQUIBLE
 

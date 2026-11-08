@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "239"
-epigrafe: "ALCANCE DE LA FUNCIÓN JURISDICCIONAL DISCIPLINARIA"
+epigrafe: "Alcance de la función jurisdiccional disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo I|Capítulo I]]
 
-## Artículo 239. ALCANCE DE LA FUNCIÓN JURISDICCIONAL DISCIPLINARIA
+## Artículo 239. Alcance de la función jurisdiccional disciplinaria
 
 Mediante el ejercicio de la función jurisdiccional disciplinaria, se tramitarán y resolverán los procesos que, por infracción al régimen disciplinario contenido en el presente estatuto, se adelanten contra los funcionarios y empleados judiciales, incluidos los de la Fiscalía General de la Nación, así como contra los particulares disciplinables conforme a esta ley, y demás autoridades que administran 'justicia de manera excepcional, temporal o permanente, excepto quienes tengan fuero especial.
 

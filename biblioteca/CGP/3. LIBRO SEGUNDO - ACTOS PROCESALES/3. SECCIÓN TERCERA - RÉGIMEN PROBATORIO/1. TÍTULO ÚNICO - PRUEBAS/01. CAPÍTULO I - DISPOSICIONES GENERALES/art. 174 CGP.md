@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "174"
-epigrafe: "PRUEBA TRASLADADA Y PRUEBA EXTRAPROCESAL"
+epigrafe: "Prueba trasladada y prueba extraprocesal"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 174. PRUEBA TRASLADADA Y PRUEBA EXTRAPROCESAL
+## Artículo 174. Prueba trasladada y prueba extraprocesal
 
 Las pruebas practicadas válidamente en un proceso podrán trasladarse a otro en copia y serán apreciadas sin más formalidades, siempre que en el proceso de origen se hubieren practicado a petición de la parte contra quien se aducen o con audiencia de ella. En caso contrario, deberá surtirse la contradicción en el proceso al que están destinadas. La misma regla se aplicará a las pruebas extraprocesales.
 

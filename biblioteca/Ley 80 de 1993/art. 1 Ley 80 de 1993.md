@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "1"
-epigrafe: "DEL OBJETO"
+epigrafe: "Del objeto"
 vigencia: "vigente"
 siguiente: "[[art. 2 Ley 80 de 1993]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0080_1993.html"
@@ -21,7 +21,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 1. DEL OBJETO
+## Artículo 1. Del objeto
 
 La presente ley tiene por objeto disponer las reglas y principios que rigen los contratos de las entidades estatales.
 

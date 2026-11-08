@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "468"
-epigrafe: "SUSPENSIÓN, SUSTITUCIÓN O CESACIÓN DE LA MEDIDA DE SEGURIDAD"
+epigrafe: "Suspensión, sustitución o cesación de la medida de seguridad"
 libro: "[[CPP - Libro IV|LIBRO IV - EJECUCION DE SENTENCIAS]]"
 titulo: "[[CPP - Libro IV - Título I|TÍTULO I - EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD]]"
 capitulo: "[[CPP - Libro IV - Título I - Capítulo II|CAPÍTULO II - EJECUCIÓN DE MEDIDAS DE SEGURIDAD]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro IV|Libro IV]] › [[CPP - Libro IV - Título I|Título I]] › [[CPP - Libro IV - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 468. SUSPENSIÓN, SUSTITUCIÓN O CESACIÓN DE LA MEDIDA DE SEGURIDAD
+## Artículo 468. Suspensión, sustitución o cesación de la medida de seguridad
 
 El juez de ejecución de penas y medidas de seguridad, de oficio o a solicitud de parte y previo concepto de perito oficial y de conformidad con lo dispuesto en el Código Penal, podrá:
 

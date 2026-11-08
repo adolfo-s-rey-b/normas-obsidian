@@ -24,9 +24,9 @@ tags:
 
 ### Contenido
 
-- [[art. 473 CGP|Artículo 473]] — APERTURA Y PUBLICACIÓN JUDICIAL DEL TESTAMENTO CERRADO EN CASO DE OPOSICIÓN
-- [[art. 474 CGP|Artículo 474]] — PUBLICACIÓN DEL TESTAMENTO OTORGADO ANTE CINCO (5) TESTIGOS
-- [[art. 475 CGP|Artículo 475]] — REDUCCIÓN A ESCRITO DEL TESTAMENTO VERBAL
+- [[art. 473 CGP|Artículo 473]] — Apertura y publicación judicial del testamento cerrado en caso de oposición
+- [[art. 474 CGP|Artículo 474]] — Publicación del testamento otorgado ante cinco (5) testigos
+- [[art. 475 CGP|Artículo 475]] — Reducción a escrito del testamento verbal
 
 ---
 ↑ [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] · [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo II|Capítulo II]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "33"
-epigrafe: "COMPETENCIA FUNCIONAL DE LOS JUECES CIVILES DEL CIRCUITO"
+epigrafe: "Competencia funcional de los jueces civiles del circuito"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 33. COMPETENCIA FUNCIONAL DE LOS JUECES CIVILES DEL CIRCUITO
+## Artículo 33. Competencia funcional de los jueces civiles del circuito
 
 Los jueces civiles del circuito conocerán en segunda instancia:
 
@@ -38,7 +38,7 @@ Los jueces civiles del circuito conocerán en segunda instancia:
 
 2\. De los procesos atribuidos en primera a las autoridades administrativas en ejercicio de funciones jurisdiccionales, cuando el juez desplazado en su competencia sea el juez civil municipal. En estos casos, conocerá el juez civil del circuito de la sede principal de la autoridad administrativa o de la sede regional correspondiente al lugar en donde se adoptó la decisión, según fuere el caso.
 
-> [!note] Notas de Vigencia: Este numeral empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este numeral empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 3\. Del recurso de queja contra los autos que nieguen apelaciones de providencias proferidas por las autoridades mencionadas en los numerales anteriores.
 

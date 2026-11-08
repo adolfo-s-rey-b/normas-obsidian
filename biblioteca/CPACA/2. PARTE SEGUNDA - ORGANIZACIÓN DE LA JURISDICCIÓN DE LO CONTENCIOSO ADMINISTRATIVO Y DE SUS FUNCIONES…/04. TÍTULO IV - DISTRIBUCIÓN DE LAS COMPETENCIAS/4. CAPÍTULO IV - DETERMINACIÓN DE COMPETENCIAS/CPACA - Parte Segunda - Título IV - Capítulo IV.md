@@ -23,9 +23,9 @@ tags:
 
 ### Contenido
 
-- [[art. 156 CPACA|Artículo 156]] — COMPETENCIA POR RAZÓN DEL TERRITORIO
-- [[art. 157 CPACA|Artículo 157]] — COMPETENCIA POR RAZÓN DE LA CUANTÍA
-- [[art. 158 CPACA|Artículo 158]] — CONFLICTOS DE COMPETENCIA
+- [[art. 156 CPACA|Artículo 156]] — Competencia por razón del territorio
+- [[art. 157 CPACA|Artículo 157]] — Competencia por razón de la cuantía
+- [[art. 158 CPACA|Artículo 158]] — Conflictos de competencia
 
 ---
 ← [[CPACA - Parte Segunda - Título IV - Capítulo III|Capítulo III]] · ↑ [[CPACA - Parte Segunda - Título IV|Título IV]]

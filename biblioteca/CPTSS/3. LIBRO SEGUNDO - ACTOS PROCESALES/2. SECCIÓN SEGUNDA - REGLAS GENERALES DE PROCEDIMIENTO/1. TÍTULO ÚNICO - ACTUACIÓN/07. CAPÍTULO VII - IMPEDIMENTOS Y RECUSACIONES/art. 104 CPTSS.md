@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "104"
-epigrafe: "IMPEDIMENTOS Y RECUSACIONES DE LOS SECRETARIOS"
+epigrafe: "Impedimentos y recusaciones de los secretarios"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VII|Capítulo VII]]
 
-## Artículo 104. IMPEDIMENTOS Y RECUSACIONES DE LOS SECRETARIOS
+## Artículo 104. Impedimentos y recusaciones de los secretarios
 
 Los secretarios están impedidos y pueden ser recusados en la misma oportunidad y por las causales señaladas para los jueces, salvo las de los numerales 2 y 12 del artículo [[art. 99 CPTSS|99]].
 

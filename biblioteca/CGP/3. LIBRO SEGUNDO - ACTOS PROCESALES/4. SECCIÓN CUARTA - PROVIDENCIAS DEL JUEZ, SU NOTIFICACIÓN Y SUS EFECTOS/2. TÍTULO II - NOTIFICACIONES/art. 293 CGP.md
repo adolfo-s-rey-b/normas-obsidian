@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "293"
-epigrafe: "EMPLAZAMIENTO PARA NOTIFICACIÓN PERSONAL"
+epigrafe: "Emplazamiento para notificación personal"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título II|TÍTULO II - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título II|Título II]]
 
-## Artículo 293. EMPLAZAMIENTO PARA NOTIFICACIÓN PERSONAL
+## Artículo 293. Emplazamiento para notificación personal
 
 Cuando el demandante o el interesado en una notificación personal manifieste que ignora el lugar donde puede ser citado el demandado o quien deba ser notificado personalmente, se procederá al emplazamiento en la forma prevista en este código.
 

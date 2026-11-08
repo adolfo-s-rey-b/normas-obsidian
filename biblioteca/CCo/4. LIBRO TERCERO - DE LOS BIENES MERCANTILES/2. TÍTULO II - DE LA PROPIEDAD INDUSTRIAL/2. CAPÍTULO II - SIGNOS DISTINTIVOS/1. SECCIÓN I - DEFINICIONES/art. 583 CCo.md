@@ -33,19 +33,19 @@ tags:
 
 ## Artículo 583. SIGNOS REGISTRABLES Y CONCEPTO DE MARCA
 
-1)
+1\. *(texto no vigente)*
 
 (Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
 > [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'.
 
-2)
+2\. *(texto no vigente)*
 
 (Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
 > [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-3)
+3\. *(texto no vigente)*
 
 (Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
@@ -55,13 +55,13 @@ tags:
 
 5\. Se entiende por enseña el signo que utiliza una empresa para identificar su establecimiento;
 
-6)
+6\. *(texto no vigente)*
 
 (Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 
 > [!warning] Notas del Editor: Destaca el editor sebre la vigencia de estas normas, lo dispuesto por la Corte Constitucional mediante Sentencia C-234-19 de 29 de mayo de 2019, Magistrada Ponente Dra. Diana Fajardo Rivera. '55. En razón al proceso de integración del Estado colombiano a la Comunidad Andina, el derecho derivado expedido, v. gr., por la Comisión Andina de Naciones a través de sus decisiones con pretensiones regulatorias, adquiere vigencia en el País una vez se efectúa su publicación, irradiando efectos directos y de prevalenci. Esto significa que, como lo ha sostenido la Corte Constitucional a partir de la Sentencia C-137 de 1996, se puede solicitar su aplicación por las autoridades nacionales y, del otro lado, en casos de conflicto desplaza la norma nacional, sin que por tal motivo se genere su derogatoria o pérdida de validez–'
 
-7)
+7\. *(texto no vigente)*
 
 (Se aplica la Decisión 486 de 14 de septiembre de 2000 del Acuerdo de Cartagena)
 

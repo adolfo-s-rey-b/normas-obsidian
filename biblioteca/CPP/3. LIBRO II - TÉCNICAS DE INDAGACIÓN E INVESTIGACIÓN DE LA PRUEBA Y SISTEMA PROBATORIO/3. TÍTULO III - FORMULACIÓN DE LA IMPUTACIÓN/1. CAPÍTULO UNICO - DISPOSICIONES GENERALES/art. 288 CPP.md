@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "288"
-epigrafe: "CONTENIDO"
+epigrafe: "Contenido"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título III|TÍTULO III - FORMULACIÓN DE LA IMPUTACIÓN]]"
 capitulo: "[[CPP - Libro II - Título III - Capítulo Unico|CAPÍTULO UNICO - DISPOSICIONES GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título III|Título III]] › [[CPP - Libro II - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 288. CONTENIDO
+## Artículo 288. Contenido
 
 Para la formulación de la imputación, el fiscal deberá expresar oralmente:
 

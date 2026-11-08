@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "212"
-epigrafe: "FINES Y TRÁMITE DE LA INVESTIGACIÓN"
+epigrafe: "Fines y trámite de la investigación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo II|CAPÍTULO II - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 212. FINES Y TRÁMITE DE LA INVESTIGACIÓN
+## Artículo 212. Fines y trámite de la investigación
 
 La investigación tendrá como fines verificar la ocurrencia de la conducta, determinar si es constitutiva de falta disciplinaria o si se ha actuado al amparo de una causal de exclusión de la responsabilidad.
 

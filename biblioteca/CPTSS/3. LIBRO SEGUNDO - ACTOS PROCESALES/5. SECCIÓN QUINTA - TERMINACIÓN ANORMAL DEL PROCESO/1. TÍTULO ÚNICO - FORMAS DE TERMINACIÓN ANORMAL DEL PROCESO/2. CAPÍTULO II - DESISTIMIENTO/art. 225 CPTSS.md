@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "225"
-epigrafe: "DESISTIMIENTO DE CIERTOS ACTOS PROCESALES"
+epigrafe: "Desistimiento de ciertos actos procesales"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Quinta|SECCIÓN QUINTA - TERMINACIÓN ANORMAL DEL PROCESO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Quinta - Título Único|TÍTULO ÚNICO - FORMAS DE TERMINACIÓN ANORMAL DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Quinta|Sección Quinta]] › [[CPTSS - Libro Segundo - Sección Quinta - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Quinta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 225. DESISTIMIENTO DE CIERTOS ACTOS PROCESALES
+## Artículo 225. Desistimiento de ciertos actos procesales
 
 Las partes podrán desistir de los recursos interpuestos y de los incidentes, las excepciones y los demás actos procesales que hayan promovido. Las partes podrán desistir de las pruebas no practicadas que hubieren solicitado. No podrán desistir de las pruebas ya practicadas. Podrá desistirse de la prueba documental tachada antes de ser resuelta la tacha.
 

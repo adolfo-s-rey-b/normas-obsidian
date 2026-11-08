@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "276"
-epigrafe: "OBLIGACIÓN DE QUIEN RINDE EL INFORME"
+epigrafe: "Obligación de quien rinde el informe"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo X|Capítulo X]]
 
-## Artículo 276. OBLIGACIÓN DE QUIEN RINDE EL INFORME
+## Artículo 276. Obligación de quien rinde el informe
 
 El juez solicitará los informes indicando en forma precisa su objeto y el plazo para rendirlos. La demora, renuencia o inexactitud injustificada para rendir el informe será sancionada con multa de cinco (5) a diez (10) salarios mínimos legales mensuales vigentes (smlmv), sin perjuicio de las demás sanciones a que hubiere lugar.
 

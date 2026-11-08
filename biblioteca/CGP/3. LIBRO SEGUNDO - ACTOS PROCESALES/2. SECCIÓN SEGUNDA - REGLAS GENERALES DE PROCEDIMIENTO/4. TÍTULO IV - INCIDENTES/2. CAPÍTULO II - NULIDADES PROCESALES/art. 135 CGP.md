@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "135"
-epigrafe: "REQUISITOS PARA ALEGAR LA NULIDAD"
+epigrafe: "Requisitos para alegar la nulidad"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título IV|TÍTULO IV - INCIDENTES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]] › [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 135. REQUISITOS PARA ALEGAR LA NULIDAD
+## Artículo 135. Requisitos para alegar la nulidad
 
 La parte que alegue una nulidad deberá tener legitimación para proponerla, expresar la causal invocada y los hechos en que se fundamenta, y aportar o solicitar las pruebas que pretenda hacer valer.
 

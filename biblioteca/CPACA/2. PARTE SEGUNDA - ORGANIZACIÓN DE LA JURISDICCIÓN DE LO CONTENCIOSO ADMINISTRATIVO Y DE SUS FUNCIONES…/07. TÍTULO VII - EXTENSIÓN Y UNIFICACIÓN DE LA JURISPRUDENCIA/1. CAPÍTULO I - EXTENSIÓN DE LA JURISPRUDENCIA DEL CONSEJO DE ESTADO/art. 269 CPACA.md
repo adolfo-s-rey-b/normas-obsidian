@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "269"
-epigrafe: "PROCEDIMIENTO PARA LA EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A TERCEROS"
+epigrafe: "Procedimiento para la extensión de la jurisprudencia del Consejo de Estado a terceros"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VII|TÍTULO VII - EXTENSIÓN Y UNIFICACIÓN DE LA JURISPRUDENCIA]]"
 capitulo: "[[CPACA - Parte Segunda - Título VII - Capítulo I|CAPÍTULO I - EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VII|Título VII]] › [[CPACA - Parte Segunda - Título VII - Capítulo I|Capítulo I]]
 
-## Artículo 269. PROCEDIMIENTO PARA LA EXTENSIÓN DE LA JURISPRUDENCIA DEL CONSEJO DE ESTADO A TERCEROS
+## Artículo 269. Procedimiento para la extensión de la jurisprudencia del Consejo de Estado a terceros
 
 Si se niega la extensión de los efectos de una sentencia de unificación o la autoridad hubiere guardado silencio en los términos del artículo [[art. 102 CPACA|102]] de este código, el interesado, a través de apoderado, podrá acudir ante el Consejo de Estado mediante escrito razonado en el que evidencie que se encuentra en similar situación de hecho y de derecho del demandante al cual se le reconoció el derecho en la sentencia de unificación invocada.
 
@@ -83,7 +83,7 @@ Si el Consejo de Estado encuentra que la solicitud de extensión de jurisprudenc
 
 > [!info] Notas de Vigencia: Artículo modificado por el artículo [[art. 77 Ley 2080 de 2021|77]] de la Ley 2080 de 2021, 'por medio de la cual se Reforma el Código de Procedimiento Administrativo y de lo Contencioso Administrativo –Ley 1437 de 2011– y se dictan otras disposiciones en materia de descongestión en los procesos que se tramitan ante la jurisdicción', publicada en el Diario Oficial No. 51.568 de 25 de enero de 2021. Consultar el régimen de vigencia y transición normativa contenido en el artículo 86 . - Inciso modificado por el artículo [[art. 616 CGP|616]] de la Ley 1564 de 2012, 'por medio de la cual se expide el Código General del Proceso y se dictan otras disposiciones', publicada en el Diario Oficial No. 48.489 de 12 de julio de 2012. La modificación rige a partir de su promulgación.
 
-> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado del texto original del inciso 2o. declarado CONSTITUCIONAL por la Corte Constitucional mediante Sentencia C-588-12 de 25 de julio de 2012, Magistrado Ponente Dr. Mauricio González Cuervo. Destaca el editor: '6.3.6. En todo caso, las expresiones 'si se niega la extensión de los efectos de una sentencia de unificación', del inciso 1° del artículo 269 de la misma Ley, y 'la administración podrá oponerse por las mismas razones a que se refiere el artículo [[art. 102 CPACA|102]] de este Código', del inciso 2º del mismo artículo, se declararan compatibles con la Constitución, bajo el entendimiento que tanto la negación administrativa de la extensión de los efectos al solicitante como la oposición de la administración en el marco del procedimiento del artículo [[art. 269 CPACA|269]] de la Ley 1437/11, proceden por las causales consagradas en los incisos 1º y 2º del respectivo inciso. '
+> [!note] Jurisprudencia Vigencia: Corte Constitucional - Aparte subrayado del texto original del inciso 2o. declarado CONSTITUCIONAL por la Corte Constitucional mediante Sentencia C-588-12 de 25 de julio de 2012, Magistrado Ponente Dr. Mauricio González Cuervo. Destaca el editor: '6.3.6. En todo caso, las expresiones 'si se niega la extensión de los efectos de una sentencia de unificación', del inciso 1° del artículo 269 de la misma Ley, y 'la administración podrá oponerse por las mismas razones a que se refiere el artículo 102 de este Código', del inciso 2º del mismo artículo, se declararan compatibles con la Constitución, bajo el entendimiento que tanto la negación administrativa de la extensión de los efectos al solicitante como la oposición de la administración en el marco del procedimiento del artículo [[art. 269 CPACA|269]] de la Ley 1437/11, proceden por las causales consagradas en los incisos 1º y 2º del respectivo inciso. '
 
 ---
 ← [[art. 268 CPACA]] · ↑ [[CPACA - Parte Segunda - Título VII - Capítulo I|Capítulo I]] · [[art. 270 CPACA]] →

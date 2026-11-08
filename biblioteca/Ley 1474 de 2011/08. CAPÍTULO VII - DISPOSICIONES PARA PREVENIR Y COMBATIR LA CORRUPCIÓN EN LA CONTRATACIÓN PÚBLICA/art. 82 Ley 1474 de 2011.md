@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "82"
-epigrafe: "RESPONSABILIDAD DE LOS INTERVENTORES"
+epigrafe: "Responsabilidad de los interventores"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 81 Ley 1474 de 2011]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 82. RESPONSABILIDAD DE LOS INTERVENTORES
+## Artículo 82. Responsabilidad de los interventores
 
 Modifíquese el artículo [[art. 53 Ley 80 de 1993|53]] de la Ley 80 de 1993, el cual quedará así:
 

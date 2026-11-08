@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "249"
-epigrafe: "SECCION DE AHORRO Y VIVIENDA"
+epigrafe: "Sección de Ahorro y Vivienda"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo IV|CAPÍTULO IV - BANCO CENTRAL HIPOTECARIO B.C.H]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo IV|Capítulo IV]]
 
-## Artículo 249. SECCION DE AHORRO Y VIVIENDA
+## Artículo 249. Sección de Ahorro y Vivienda
 
 1\. Autorización para crearla. De conformidad con el artículo [[art. 1 EOSF|1]]o. del Decreto 2404 de 1974 se autorizó al BCH para abrir y mantener una sección especial destinada a la captación de ahorro y a otorgar créditos hipotecarios dentro de sistema de valor constante.
 

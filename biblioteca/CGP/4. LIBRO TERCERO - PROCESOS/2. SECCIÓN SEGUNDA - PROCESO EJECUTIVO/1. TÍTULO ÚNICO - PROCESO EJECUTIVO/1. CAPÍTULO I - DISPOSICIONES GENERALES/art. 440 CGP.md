@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "440"
-epigrafe: "CUMPLIMIENTO DE LA OBLIGACIÓN, ORDEN DE EJECUCIÓN Y CONDENA EN COSTAS"
+epigrafe: "Cumplimiento de la obligación, orden de ejecución y condena en costas"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 440. CUMPLIMIENTO DE LA OBLIGACIÓN, ORDEN DE EJECUCIÓN Y CONDENA EN COSTAS
+## Artículo 440. Cumplimiento de la obligación, orden de ejecución y condena en costas
 
 Cumplida la obligación dentro del término señalado en el mandamiento ejecutivo, se condenará en costas al ejecutado, quien sin embargo, podrá pedir dentro de los tres (3) días siguientes a la notificación del auto que las imponga, que se le exonere de ellas si prueba que estuvo dispuesto a pagar antes de ser demandado y que el acreedor no se allanó a recibirle. Esta petición se tramitará como incidente que no impedirá la entrega al demandante del valor del crédito.
 

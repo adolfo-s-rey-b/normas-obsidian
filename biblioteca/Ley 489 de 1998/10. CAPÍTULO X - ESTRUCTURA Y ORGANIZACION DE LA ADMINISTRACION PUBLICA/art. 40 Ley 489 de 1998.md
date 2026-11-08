@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "40"
-epigrafe: "ENTIDADES Y ORGANISMOS ESTATALES SUJETOS A REGIMEN ESPECIAL"
+epigrafe: "Entidades y organismos estatales sujetos a régimen especial"
 capitulo: "[[Ley 489 de 1998 - Capítulo X|CAPÍTULO X - ESTRUCTURA Y ORGANIZACION DE LA ADMINISTRACION PUBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 39 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo X|Capítulo X]]
 
-## Artículo 40. ENTIDADES Y ORGANISMOS ESTATALES SUJETOS A REGIMEN ESPECIAL
+## Artículo 40. Entidades y organismos estatales sujetos a régimen especial
 
 El Banco de la República, los entes universitarios autónomos, las corporaciones autónomas regionales, la Comisión Nacional de Televisión y los demás organismos y entidades con régimen especial otorgado por la Constitución Política se sujetan a las disposiciones que para ellos establezcan las respectivas leyes.
 

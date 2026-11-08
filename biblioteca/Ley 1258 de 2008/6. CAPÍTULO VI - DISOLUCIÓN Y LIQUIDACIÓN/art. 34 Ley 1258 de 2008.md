@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "34"
-epigrafe: "DISOLUCIÓN Y LIQUIDACIÓN"
+epigrafe: "Disolución y liquidación"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI|CAPÍTULO VI - DISOLUCIÓN Y LIQUIDACIÓN]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 4 Ley 2069 de 2020]]"
 anterior: "[[art. 33 Ley 1258 de 2008]]"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_1258_de_2008
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI|Capítulo VI]]
 
-## Artículo 34. DISOLUCIÓN Y LIQUIDACIÓN
+## Artículo 34. Disolución y liquidación
 
 La sociedad por acciones simplificada se disolverá:
 

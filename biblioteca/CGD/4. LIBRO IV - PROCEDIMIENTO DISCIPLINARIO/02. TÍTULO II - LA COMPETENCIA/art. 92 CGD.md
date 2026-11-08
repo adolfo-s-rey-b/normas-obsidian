@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "92"
-epigrafe: "COMPETENCIA POR LA CALIDAD DEL SUJETO DISCIPLINABLE"
+epigrafe: "Competencia por la calidad del sujeto disciplinable"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título II|TÍTULO II - LA COMPETENCIA]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título II|Título II]]
 
-## Artículo 92. COMPETENCIA POR LA CALIDAD DEL SUJETO DISCIPLINABLE
+## Artículo 92. Competencia por la calidad del sujeto disciplinable
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

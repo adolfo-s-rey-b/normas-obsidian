@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "402"
-epigrafe: "SE EFECTUA AL MOMENTO DEL PAGO"
+epigrafe: "SE EFECTÚA AL MOMENTO DEL PAGO"
 libro: "[[ET - Libro Segundo|LIBRO SEGUNDO - RETENCIÓN EN LA FUENTE]]"
 titulo: "[[ET - Libro Segundo - Título III|TÍTULO III - CONCEPTOS SUJETOS A RETENCIÓN]]"
 capitulo: "[[ET - Libro Segundo - Título III - Capítulo VII|CAPÍTULO VII - LOTERIAS, RIFAS, APUESTAS Y SIMILARES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Segundo|Libro Segundo]] › [[ET - Libro Segundo - Título III|Título III]] › [[ET - Libro Segundo - Título III - Capítulo VII|Capítulo VII]]
 
-## Artículo 402. SE EFECTUA AL MOMENTO DEL PAGO
+## Artículo 402. SE EFECTÚA AL MOMENTO DEL PAGO
 
 Cuando se trate de pagos por concepto de premios de loterías, rifas, apuestas y similares, el impuesto de ganancias ocasionales debe ser retenido por las personas naturales o jurídicas encargadas de efectuar el pago en el momento del mismo.
 

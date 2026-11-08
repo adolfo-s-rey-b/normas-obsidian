@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "174"
-epigrafe: "RECEPCIÓN DEL TESTIMONIO"
+epigrafe: "Recepción del testimonio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 174. RECEPCIÓN DEL TESTIMONIO
+## Artículo 174. Recepción del testimonio
 
 Los testimonios serán recogidos y conservados por el medio más idóneo, de tal manera que faciliten su examen cuantas veces sea necesario, sobre lo cual se dejará constancia.
 

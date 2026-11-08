@@ -11,7 +11,7 @@ articulo: "189"
 epigrafe: "COMPENSACION EN DINERO DE LAS VACACIONES"
 titulo: "[[CST - Título VII|TÍTULO VII - DESCANSOS OBLIGATORIOS]]"
 capitulo: "[[CST - Título VII - Capítulo IV|CAPÍTULO IV - VACACIONES ANUALES REMUNERADAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 14 Decreto 2351 de 1965]]"
   - "[[art. 20 Ley 1429 de 2010]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CST|CST]] › [[CST - Título VII|Título VII]] › [[CST - Título VII - Capítulo IV|Capítulo IV]]
@@ -49,7 +49,7 @@ tags:
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Numeral 1) declarado EXEQUIBLE por la Corte Constitucional mediante Sentencia C-710-96 del 9 de diciembre de 1996 Magistrado Ponente Dr. Jorge Arango Mejía.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 2 Ley 995 de 2005|2]] de la Ley 995 de 2005. Ver Notas del Editor
 

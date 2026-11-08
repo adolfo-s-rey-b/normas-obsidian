@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "35"
-epigrafe: "AMPLIACIÓN DE TÉRMINOS PARA INVESTIGACIÓN"
+epigrafe: "Ampliación de términos para investigación"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 34-7 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 35. AMPLIACIÓN DE TÉRMINOS PARA INVESTIGACIÓN
+## Artículo 35. Ampliación de términos para investigación
 
 El artículo [[art. 175 CPP|175]] de la Ley 906 de 2004 tendrá un parágrafo, el cual quedará así:
 

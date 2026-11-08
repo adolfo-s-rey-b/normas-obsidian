@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "190"
-epigrafe: "TRÁMITE DE LA EXHIBICIÓN"
+epigrafe: "Trámite de la exhibición"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 190. TRÁMITE DE LA EXHIBICIÓN
+## Artículo 190. Trámite de la exhibición
 
 Quien pida la exhibición expresará los hechos que pretende demostrar y deberá afirmar que el documento o bienes muebles se encuentran en poder de la persona llamada a exhibirlos, su clase y la relación que tenga con aquellos hechos. Si la solicitud reúne los anteriores requisitos el juez ordenará que se realice la exhibición en la respectiva audiencia y señalará la forma en que deba hacerse.
 

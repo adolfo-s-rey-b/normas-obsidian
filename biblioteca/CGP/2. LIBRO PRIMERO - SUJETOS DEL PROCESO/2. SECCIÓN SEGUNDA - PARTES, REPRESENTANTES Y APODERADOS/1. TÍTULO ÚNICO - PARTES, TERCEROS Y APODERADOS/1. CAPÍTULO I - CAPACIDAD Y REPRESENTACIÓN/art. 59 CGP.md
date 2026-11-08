@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "59"
-epigrafe: "AGENCIAS Y SUCURSALES DE SOCIEDADES NACIONALES"
+epigrafe: "Agencias y sucursales de sociedades nacionales"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Segunda|SECCIÓN SEGUNDA - PARTES, REPRESENTANTES Y APODERADOS]]"
 titulo: "[[CGP - Libro Primero - Sección Segunda - Título Único|TÍTULO ÚNICO - PARTES, TERCEROS Y APODERADOS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Primero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Primero - Sección Segunda - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 59. AGENCIAS Y SUCURSALES DE SOCIEDADES NACIONALES
+## Artículo 59. Agencias y sucursales de sociedades nacionales
 
 Las sociedades domiciliadas en Colombia deberán constituir apoderados, con capacidad para representarlas, en los lugares en donde se establezcan agencias, en la forma indicada en el inciso 2o del artículo precedente, pero el registro se efectuará en la respectiva Cámara de Comercio. Si no los constituyen llevará su representación quien tenga la dirección de la respectiva agencia.
 

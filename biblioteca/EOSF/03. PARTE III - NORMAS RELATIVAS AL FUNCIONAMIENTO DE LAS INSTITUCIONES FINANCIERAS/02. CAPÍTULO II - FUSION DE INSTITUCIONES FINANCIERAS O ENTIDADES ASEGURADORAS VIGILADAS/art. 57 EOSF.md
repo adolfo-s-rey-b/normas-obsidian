@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "57"
-epigrafe: "AVISO A LOS ACCIONISTAS O APORTANTES"
+epigrafe: "Aviso a los Accionistas o Aportantes"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo II|CAPÍTULO II - FUSION DE INSTITUCIONES FINANCIERAS O ENTIDADES ASEGURADORAS VIGILADAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo II|Capítulo II]]
 
-## Artículo 57. AVISO A LOS ACCIONISTAS O APORTANTES
+## Artículo 57. Aviso a los Accionistas o Aportantes
 
 Cuando los representantes legales de las entidades interesadas hayan dado un aviso anticipado de fusión a la Superintendencia Bancaria deberán también poner en conocimiento de los accionistas o aportantes de las mismas, mediante comunicación telegráfica o por aviso que se publicará en uno de los principales diarios de circulación nacional, un resumen de la información a que hacen referencia las letras a. y c. del numeral 2. del artículo anterior con dos (2) meses de antelación a la fecha prevista para la reunión de asambleas a cuya consideración se someterá el compromiso de fusión. A partir de ese momento, los libros de contabilidad y demás comprobantes exigidos por la ley deberán ponerse a disposición de los accionistas en las oficinas de la administración hasta la asamblea que estudie la fusión.
 

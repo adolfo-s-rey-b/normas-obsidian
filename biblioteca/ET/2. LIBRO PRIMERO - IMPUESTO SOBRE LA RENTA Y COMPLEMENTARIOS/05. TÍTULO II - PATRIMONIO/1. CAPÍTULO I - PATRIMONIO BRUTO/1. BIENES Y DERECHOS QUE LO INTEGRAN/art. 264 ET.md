@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "264"
-epigrafe: "PRESUNCIÓN DE APROVECHAMIENTO ECONOMICO"
+epigrafe: "PRESUNCIÓN DE APROVECHAMIENTO ECONÓMICO"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo I|CAPÍTULO I - PATRIMONIO BRUTO]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] › [[ET - Libro Primero - Título II - Capítulo I - Bienes y derechos que lo integran|Bienes y derechos que lo integran]]
 
-## Artículo 264. PRESUNCIÓN DE APROVECHAMIENTO ECONOMICO
+## Artículo 264. PRESUNCIÓN DE APROVECHAMIENTO ECONÓMICO
 
 Se presume que el poseedor inscrito de un inmueble o quien aparezca como titular de un bien mueble sujeto a inscripción o registro, lo aprovecha económicamente en su beneficio.
 

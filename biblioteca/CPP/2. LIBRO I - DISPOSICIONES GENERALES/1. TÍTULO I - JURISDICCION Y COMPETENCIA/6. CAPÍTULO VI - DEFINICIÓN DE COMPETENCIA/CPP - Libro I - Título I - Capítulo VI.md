@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 54 CPP|Artículo 54]] — TRÁMITE
-- [[art. 55 CPP|Artículo 55]] — PRÓRROGA
+- [[art. 54 CPP|Artículo 54]] — Trámite
+- [[art. 55 CPP|Artículo 55]] — Prórroga
 
 ---
 ← [[CPP - Libro I - Título I - Capítulo V|Capítulo V]] · ↑ [[CPP - Libro I - Título I|Título I]] · [[CPP - Libro I - Título I - Capítulo VII|Capítulo VII]] →

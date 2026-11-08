@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "144"
-epigrafe: "PROTECCIÓN DE LOS DERECHOS E INTERESES COLECTIVOS"
+epigrafe: "Protección de los derechos e intereses colectivos"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título III|TÍTULO III - MEDIOS DE CONTROL]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título III|Título III]]
 
-## Artículo 144. PROTECCIÓN DE LOS DERECHOS E INTERESES COLECTIVOS
+## Artículo 144. Protección de los derechos e intereses colectivos
 
 Cualquier persona puede demandar la protección de los derechos e intereses colectivos para lo cual podrá pedir que se adopten las medidas necesarias con el fin de evitar el daño contingente, hacer cesar el peligro, la amenaza, la vulneración o agravio sobre los mismos, o restituir las cosas a su estado anterior cuando fuere posible.
 

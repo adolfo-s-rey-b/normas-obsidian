@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "181"
-epigrafe: "COMPARECENCIA DEL PERITO A LA AUDIENCIA"
+epigrafe: "Comparecencia del perito a la audiencia"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo III|CAPÍTULO III - PERITACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo III|Capítulo III]]
 
-## Artículo 181. COMPARECENCIA DEL PERITO A LA AUDIENCIA
+## Artículo 181. Comparecencia del perito a la audiencia
 
 De oficio o a petición de los sujetos procesales, se podrá ordenar la comparecencia del perito a la audiencia para que explique el dictamen y responda las preguntas que sean procedentes.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "24"
-epigrafe: "AJUSTES RAZONABLES RELACIONADOS CON LAS DIRECTIVAS ANTICIPADAS"
+epigrafe: "Ajustes razonables relacionados con las directivas anticipadas"
 capitulo: "[[Ley 1996 de 2019 - Capítulo IV|CAPÍTULO IV - DIRECTIVAS ANTICIPADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 23 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo IV|Capítulo IV]]
 
-## Artículo 24. AJUSTES RAZONABLES RELACIONADOS CON LAS DIRECTIVAS ANTICIPADAS
+## Artículo 24. Ajustes razonables relacionados con las directivas anticipadas
 
 En caso de que la persona titular del acto jurídico requiera ajustes razonables para la suscripción de la directiva anticipada, será obligación del notario o del conciliador extrajudicial en derecho, según sea el caso, realizar los ajustes razonables necesarios.
 

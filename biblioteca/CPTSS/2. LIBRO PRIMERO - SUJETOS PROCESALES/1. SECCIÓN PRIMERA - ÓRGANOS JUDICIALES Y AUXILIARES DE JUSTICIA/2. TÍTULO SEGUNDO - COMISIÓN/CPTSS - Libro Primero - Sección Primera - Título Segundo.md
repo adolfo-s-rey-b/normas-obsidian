@@ -23,11 +23,11 @@ tags:
 
 ### Contenido
 
-- [[art. 22 CPTSS|Artículo 22]] — REGLAS GENERALES
-- [[art. 23 CPTSS|Artículo 23]] — COMPETENCIA
-- [[art. 24 CPTSS|Artículo 24]] — OTORGAMIENTO Y PRÁCTICA DE LA COMISIÓN
-- [[art. 25 CPTSS|Artículo 25]] — PODERES DEL COMISIONADO
-- [[art. 26 CPTSS|Artículo 26]] — COMISIÓN EN EL EXTERIOR
+- [[art. 22 CPTSS|Artículo 22]] — Reglas generales
+- [[art. 23 CPTSS|Artículo 23]] — Competencia
+- [[art. 24 CPTSS|Artículo 24]] — Otorgamiento y práctica de la comisión
+- [[art. 25 CPTSS|Artículo 25]] — Poderes del comisionado
+- [[art. 26 CPTSS|Artículo 26]] — Comisión en el exterior
 
 ---
 ← [[CPTSS - Libro Primero - Sección Primera - Título Primero|Título Primero]] · ↑ [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] · [[CPTSS - Libro Primero - Sección Primera - Título Tercero|Título Tercero]] →

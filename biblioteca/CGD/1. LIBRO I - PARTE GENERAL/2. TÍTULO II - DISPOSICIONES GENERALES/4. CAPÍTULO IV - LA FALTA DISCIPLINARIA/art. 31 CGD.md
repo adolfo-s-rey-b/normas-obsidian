@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "31"
-epigrafe: "CAUSALES DE EXCLUSIÓN DE LA RESPONSABILIDAD DISCIPLINARIA"
+epigrafe: "Causales de exclusión de la responsabilidad disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título II|TÍTULO II - DISPOSICIONES GENERALES]]"
 capitulo: "[[CGD - Libro I - Título II - Capítulo IV|CAPÍTULO IV - LA FALTA DISCIPLINARIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título II|Título II]] › [[CGD - Libro I - Título II - Capítulo IV|Capítulo IV]]
 
-## Artículo 31. CAUSALES DE EXCLUSIÓN DE LA RESPONSABILIDAD DISCIPLINARIA
+## Artículo 31. Causales de exclusión de la responsabilidad disciplinaria
 
 No habrá lugar a responsabilidad disciplinaria cuando la conducta se realice:
 

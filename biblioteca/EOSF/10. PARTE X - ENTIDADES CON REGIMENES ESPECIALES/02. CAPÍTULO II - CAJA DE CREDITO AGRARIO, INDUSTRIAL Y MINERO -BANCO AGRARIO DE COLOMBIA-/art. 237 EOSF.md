@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "237"
-epigrafe: "INVERSIONES EN FILIALES"
+epigrafe: "Inversiones en Filiales"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo II|CAPÍTULO II - CAJA DE CREDITO AGRARIO, INDUSTRIAL Y MINERO <BANCO AGRARIO DE COLOMBIA>]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo II|Capítulo II]]
 
-## Artículo 237. INVERSIONES EN FILIALES
+## Artículo 237. Inversiones en Filiales
 
 La Caja de Crédito Agrario, Industrial y Minero está autorizada para que, mediante reglamentaciones de su junta directiva y con la previa aprobación del Gobierno Nacional constituya empresas filiales, en las cuales podrán participar entidades nacionales adscritas o vinculadas al Ministerio de Agricultura u otras que desarrollen actividades en el sector agropecuario. Esas empresas deberán obedecer, en su estructuración y en su manejo, cuando ello fuere viable de la junta directiva de la Caja de Crédito Agrario, Industrial y Minero, a sanas políticas de descentralización y equilibrio regional.
 

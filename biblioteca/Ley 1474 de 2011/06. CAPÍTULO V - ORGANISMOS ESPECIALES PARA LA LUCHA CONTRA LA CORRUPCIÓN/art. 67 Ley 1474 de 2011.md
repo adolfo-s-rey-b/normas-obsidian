@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "67"
-epigrafe: "DESIGNACIÓN DE COMISIONADOS"
+epigrafe: "Designación de Comisionados"
 capitulo: "[[Ley 1474 de 2011 - Capítulo V|CAPÍTULO V - ORGANISMOS ESPECIALES PARA LA LUCHA CONTRA LA CORRUPCIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 66 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo V|Capítulo V]]
 
-## Artículo 67. DESIGNACIÓN DE COMISIONADOS
+## Artículo 67. Designación de Comisionados
 
 La designación de los Comisionados Ciudadanos corresponde al Presidente de la República, de ternas enviadas por cada sector. El desempeño del cargo será por períodos fijos de cuatro (4) años y ejercerán sus funciones ad honórem.
 

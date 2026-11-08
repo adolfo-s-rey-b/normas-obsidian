@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "131"
-epigrafe: "OFICINAS DE REPRESENTACIÓN"
+epigrafe: "Oficinas de representación"
 capitulo: "[[Ley 1474 de 2011 - Capítulo IX|CAPÍTULO IX - OFICINAS DE REPRESENTACIÓN]]"
 vigencia: "vigente"
 anterior: "[[art. 130 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo IX|Capítulo IX]]
 
-## Artículo 131. OFICINAS DE REPRESENTACIÓN
+## Artículo 131. Oficinas de representación
 
 Lo dispuesto en la presente ley también se aplicará a las oficinas de representación o a cualquier persona que gestione intereses de personas jurídicas que tengan su domicilio fuera del territorio nacional.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "24"
-epigrafe: "EJERCICIO DE FUNCIONES JURISDICCIONALES POR AUTORIDADES ADMINISTRATIVAS"
+epigrafe: "Ejercicio de funciones jurisdiccionales por autoridades administrativas"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 24. EJERCICIO DE FUNCIONES JURISDICCIONALES POR AUTORIDADES ADMINISTRATIVAS
+## Artículo 24. Ejercicio de funciones jurisdiccionales por autoridades administrativas
 
 Las autoridades administrativas a que se refiere este artículo ejercerán funciones jurisdiccionales conforme a las siguientes reglas:
 
@@ -107,7 +107,7 @@ Cuando la competencia la hubiese podido ejercer el juez en única instancia, los
 
 **PARÁGRAFO 6o.** Las competencias que enuncia este artículo no excluyen las otorgadas por otras leyes especiales por la naturaleza del asunto.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 ---
 ← [[art. 23 CGP]] · ↑ [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]] · [[art. 25 CGP]] →

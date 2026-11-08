@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "42"
-epigrafe: "FACULTADES DE LA AGENCIA DE SEGUROS"
+epigrafe: "Facultades de la Agencia de Seguros"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XII|CAPÍTULO XII - INTERMEDIARIOS DE SEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XII|Capítulo XII]]
 
-## Artículo 42. FACULTADES DE LA AGENCIA DE SEGUROS
+## Artículo 42. Facultades de la Agencia de Seguros
 
 Toda agencia de seguros debe tener por lo menos las siguientes facultades otorgadas por la compañía o compañías que represente:
 

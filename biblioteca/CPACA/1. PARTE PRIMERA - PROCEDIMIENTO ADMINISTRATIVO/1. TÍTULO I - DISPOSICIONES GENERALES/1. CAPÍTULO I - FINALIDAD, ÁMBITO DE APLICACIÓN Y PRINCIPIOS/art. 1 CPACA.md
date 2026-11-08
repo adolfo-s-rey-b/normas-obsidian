@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "1"
-epigrafe: "FINALIDAD DE LA PARTE PRIMERA"
+epigrafe: "Finalidad de la parte primera"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo I|CAPÍTULO I - FINALIDAD, ÁMBITO DE APLICACIÓN Y PRINCIPIOS]]"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 1. FINALIDAD DE LA PARTE PRIMERA
+## Artículo 1. Finalidad de la parte primera
 
 Las normas de esta Parte Primera tienen como finalidad proteger y garantizar los derechos y libertades de las personas, la primacía de los intereses generales, la sujeción de las autoridades a la Constitución y demás preceptos del ordenamiento jurídico, el cumplimiento de los fines estatales, el funcionamiento eficiente y democrático de la administración, y la observancia de los deberes del Estado y de los particulares.
 

@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "319"
-epigrafe: "REGIMEN PATRIMONIAL"
+epigrafe: "Régimen Patrimonial"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo I|CAPÍTULO I - FONDO DE GARANTIAS DE INSTITUCIONES FINANCIERAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 27 Decreto 2331 de 1998]]"
   - "[[art. 31 Ley 510 de 1999]]"
@@ -40,12 +40,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo I|Capítulo I]]
 
-## Artículo 319. REGIMEN PATRIMONIAL
+## Artículo 319. Régimen Patrimonial
 
 1\. Recursos del Fondo. El Fondo de Garantías de Instituciones Financieras contará con los siguientes recursos que destinará al objeto señalado en el numeral 2o. artículo [[art. 316 EOSF|316]] del presente Estatuto:
 

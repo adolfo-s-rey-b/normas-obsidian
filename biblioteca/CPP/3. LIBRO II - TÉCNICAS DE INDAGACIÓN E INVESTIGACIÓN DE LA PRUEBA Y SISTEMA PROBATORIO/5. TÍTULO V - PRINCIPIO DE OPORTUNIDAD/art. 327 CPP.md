@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "327"
-epigrafe: "CONTROL JUDICIAL EN LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD"
+epigrafe: "Control judicial en la aplicación del principio de oportunidad"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 5 Ley 1312 de 2009]]"
 anterior: "[[art. 326 CPP]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 327. CONTROL JUDICIAL EN LA APLICACIÓN DEL PRINCIPIO DE OPORTUNIDAD
+## Artículo 327. Control judicial en la aplicación del principio de oportunidad
 
 El juez de control de garantías deberá efectuar el control de legalidad de las solicitudes individuales o colectivas respectivas dentro de los cinco (5) días siguientes a la determinación de la Fiscalía de dar aplicación al principio de oportunidad.
 

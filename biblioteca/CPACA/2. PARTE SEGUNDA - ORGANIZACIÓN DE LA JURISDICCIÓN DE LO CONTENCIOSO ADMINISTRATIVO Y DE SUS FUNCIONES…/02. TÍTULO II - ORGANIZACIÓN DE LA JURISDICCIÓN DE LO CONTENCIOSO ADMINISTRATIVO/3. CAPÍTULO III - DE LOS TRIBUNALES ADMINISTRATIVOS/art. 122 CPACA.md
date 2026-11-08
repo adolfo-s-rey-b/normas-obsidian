@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "122"
-epigrafe: "JURISDICCIÓN"
+epigrafe: "Jurisdicción"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título II|TÍTULO II - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título II - Capítulo III|CAPÍTULO III - DE LOS TRIBUNALES ADMINISTRATIVOS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título II|Título II]] › [[CPACA - Parte Segunda - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 122. JURISDICCIÓN
+## Artículo 122. Jurisdicción
 
 Los Tribunales Administrativos son creados por la Sala Administrativa del Consejo Superior de la Judicatura para el cumplimiento de las funciones que determine la ley procesal en cada distrito judicial administrativo. Tienen el número de Magistrados que determine la Sala Administrativa del Consejo Superior de la Judicatura que, en todo caso, no será menor de tres (3).
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "163"
-epigrafe: "VIGENCIA"
+epigrafe: "Vigencia"
 parte: "[[Ley 446 de 1998 - Parte VI|PARTE VI - VIGENCIA, DEROGATORIAS Y OTRAS DISPOSICIONES]]"
 vigencia: "vigente"
 anterior: "[[art. 162 Ley 446 de 1998]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte VI|Parte VI]]
 
-## Artículo 163. VIGENCIA
+## Artículo 163. Vigencia
 
 Esta ley rige desde su publicación. Salvo disposición en contrario, los recursos interpuestos, los términos que hubieren comenzado a correr y las notificaciones que se estén surtiendo se regirán por las normas vigentes cuando se interpuso el recurso, el término, se promovió el incidente, o comenzó a surtirse la notificación. Los procesos en curso que se encuentren en período probatorio se someterán de inmediato a las normas que en materia de pruebas contiene la presente ley en cuanto a su práctica el Juez o Magistrado concederá a las partes un término de tres (3) días para que reformulen la petición de pruebas no practicadas de acuerdo a la presente ley.
 

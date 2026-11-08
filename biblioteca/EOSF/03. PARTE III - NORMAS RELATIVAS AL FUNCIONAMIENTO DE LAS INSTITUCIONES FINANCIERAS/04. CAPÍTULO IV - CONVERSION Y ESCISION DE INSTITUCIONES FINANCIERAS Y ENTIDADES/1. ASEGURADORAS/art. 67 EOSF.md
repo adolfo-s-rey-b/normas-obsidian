@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "67"
-epigrafe: "ESCISION"
+epigrafe: "Escisión"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo IV|CAPÍTULO IV - CONVERSION Y ESCISION DE INSTITUCIONES FINANCIERAS Y ENTIDADES]]"
 rubro: "[[EOSF - Parte III - Capítulo IV - Aseguradoras|ASEGURADORAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo IV|Capítulo IV]] › [[EOSF - Parte III - Capítulo IV - Aseguradoras|Aseguradoras]]
 
-## Artículo 67. ESCISION
+## Artículo 67. Escisión
 
 La empresa y el patrimonio de una entidad sometida al control y vigilancia de la Superintendencia Bancaria, ~~con excepción de los intermediarios de seguros~~, podrán dividirse en dos o más empresas que constituyan el objeto de dos o más sociedades formadas por todos o por algunos de sus socios.
 

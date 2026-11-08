@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "99"
-epigrafe: "NOMBRAMIENTO DE PERITOS POR EL TRIBUNAL ARBITRAL"
+epigrafe: "Nombramiento de peritos por el tribunal arbitral"
 seccion: "[[Ley 1563 de 2012 - Sección Tercera|SECCIÓN TERCERA - ARBITRAJE INTERNACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|CAPÍTULO VI - SUSTANCIACIÓN DE LAS ACTUACIONES ARBITRALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Tercera|Sección Tercera]] › [[Ley 1563 de 2012 - Sección Tercera - Capítulo VI|Capítulo VI]]
 
-## Artículo 99. NOMBRAMIENTO DE PERITOS POR EL TRIBUNAL ARBITRAL
+## Artículo 99. Nombramiento de peritos por el tribunal arbitral
 
 Salvo acuerdo en contrario de las partes:
 

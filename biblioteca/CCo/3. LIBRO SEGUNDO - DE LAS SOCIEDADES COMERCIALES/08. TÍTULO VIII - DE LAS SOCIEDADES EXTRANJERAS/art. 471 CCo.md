@@ -11,7 +11,7 @@ articulo: "471"
 epigrafe: "REQUISITOS PARA EMPRENDER NEGOCIOS PERMANENTES EN COLOMBIA"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título VIII|TÍTULO VIII - DE LAS SOCIEDADES EXTRANJERAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 515 CCo]]"
   - "[[art. 3 CCo]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título VIII|Título VIII]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "160"
-epigrafe: "REGLAMENTO"
+epigrafe: "Reglamento"
 parte: "[[EOSF - Parte V|PARTE V - DISPOSICIONES ESPECIALES APLICABLES A LAS OPERACIONES DE LAS SOCIEDADES DE SERVICIOS FINANCIEROS]]"
 capitulo: "[[EOSF - Parte V - Capítulo V|CAPÍTULO V - REGIMEN DE LOS FONDOS DE CESANTIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte V|Parte V]] › [[EOSF - Parte V - Capítulo V|Capítulo V]]
 
-## Artículo 160. REGLAMENTO
+## Artículo 160. Reglamento
 
 Todo fondo de cesantía deberá tener un reglamento de funcionamiento, aprobado de manera general o individual por la Superintendencia Bancaria, el cual debe contener, a lo menos, las siguientes previsiones:
 

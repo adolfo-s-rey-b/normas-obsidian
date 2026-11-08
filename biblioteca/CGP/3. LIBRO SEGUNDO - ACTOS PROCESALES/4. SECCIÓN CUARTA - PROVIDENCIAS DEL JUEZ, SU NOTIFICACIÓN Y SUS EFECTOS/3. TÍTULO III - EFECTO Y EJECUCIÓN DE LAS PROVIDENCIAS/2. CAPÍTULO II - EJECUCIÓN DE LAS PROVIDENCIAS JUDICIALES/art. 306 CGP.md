@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "306"
-epigrafe: "EJECUCIÓN"
+epigrafe: "Ejecución"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título III|TÍTULO III - EFECTO Y EJECUCIÓN DE LAS PROVIDENCIAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título III|Título III]] › [[CGP - Libro Segundo - Sección Cuarta - Título III - Capítulo II|Capítulo II]]
 
-## Artículo 306. EJECUCIÓN
+## Artículo 306. Ejecución
 
 Cuando la sentencia condene al pago de una suma de dinero, a la entrega de cosas muebles que no hayan sido secuestradas en el mismo proceso, o al cumplimiento de una obligación de hacer, el acreedor, sin necesidad de formular demanda, deberá solicitar la ejecución con base en la sentencia, ante el juez del conocimiento, para que se adelante el proceso ejecutivo a continuación y dentro del mismo expediente en que fue dictada. Formulada la solicitud el juez librará mandamiento ejecutivo de acuerdo con lo señalado en la parte resolutiva de la sentencia y, de ser el caso, por las costas aprobadas, sin que sea necesario, para iniciar la ejecución, esperar a que se surta el trámite anterior.
 

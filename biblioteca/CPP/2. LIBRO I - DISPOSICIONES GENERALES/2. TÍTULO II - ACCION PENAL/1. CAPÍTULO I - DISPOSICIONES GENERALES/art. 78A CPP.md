@@ -12,7 +12,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "78A"
-epigrafe: "REPARACIÓN INTEGRAL"
+epigrafe: "Reparación integral"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -36,7 +36,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo I|Capítulo I]]
 
-## Artículo 78A. REPARACIÓN INTEGRAL
+## Artículo 78A. Reparación integral
 
 En los delitos que admiten desistimiento, en los de homicidio culposo y lesiones personales culposas cuando no concurra alguna de las circunstancias de agravación punitiva consagradas en los artículos [[art. 110 CP|110]] y [[art. 121 CP|121]] del Código Penal, en los de lesiones personales dolosas con secuelas transitorias, en los delitos contra los derechos de autor, en el delito de inasistencia alimentaria y en los procesos por los delitos contra el patrimonio económico, excepto el hurto calificado por la violencia contra las personas y extorsión, la acción penal se extinguirá para todos los imputados o acusados cuando cualquiera de ellos realice la reparación integral del daño causado.
 

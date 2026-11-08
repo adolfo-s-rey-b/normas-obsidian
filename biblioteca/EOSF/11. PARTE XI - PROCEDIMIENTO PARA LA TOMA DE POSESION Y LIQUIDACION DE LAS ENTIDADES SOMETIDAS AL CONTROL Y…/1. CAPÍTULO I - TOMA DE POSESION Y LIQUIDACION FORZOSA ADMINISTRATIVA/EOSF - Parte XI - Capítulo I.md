@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 290 EOSF|Artículo 290]] — AMBITO DE APLICACION
+- [[art. 290 EOSF|Artículo 290]] — Ámbito de Aplicación
 
 ---
 ↑ [[EOSF - Parte XI|Parte XI]] · [[EOSF - Parte XI - Capítulo II|Capítulo II]] →

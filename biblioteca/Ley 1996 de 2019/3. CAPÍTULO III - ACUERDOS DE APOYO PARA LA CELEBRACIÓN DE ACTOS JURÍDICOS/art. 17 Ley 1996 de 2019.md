@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1996 de 2019"
 articulo: "17"
-epigrafe: "ACUERDOS DE APOYO ANTE CONCILIADORES EXTRAJUDICIALES EN DERECHO"
+epigrafe: "Acuerdos de apoyo ante conciliadores extrajudiciales en derecho"
 capitulo: "[[Ley 1996 de 2019 - Capítulo III|CAPÍTULO III - ACUERDOS DE APOYO PARA LA CELEBRACIÓN DE ACTOS JURÍDICOS]]"
 vigencia: "vigente"
 anterior: "[[art. 16 Ley 1996 de 2019]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1996 de 2019|Ley 1996 de 2019]] › [[Ley 1996 de 2019 - Capítulo III|Capítulo III]]
 
-## Artículo 17. ACUERDOS DE APOYO ANTE CONCILIADORES EXTRAJUDICIALES EN DERECHO
+## Artículo 17. Acuerdos de apoyo ante conciliadores extrajudiciales en derecho
 
 Los acuerdos de apoyo podrán realizarse ante los conciliadores extrajudiciales en derecho inscritos en los centros de conciliación. Durante la conciliación, el conciliador deberá entrevistarse por separado con la persona titular del acto y verificar que es su voluntad suscribir el acuerdo de apoyos.
 

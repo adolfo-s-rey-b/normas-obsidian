@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "66"
-epigrafe: "DEBER DE NOTIFICACIÓN DE LOS ACTOS ADMINISTRATIVOS DE CARÁCTER PARTICULAR Y CONCRETO"
+epigrafe: "Deber de notificación de los actos administrativos de carácter particular y concreto"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo V|CAPÍTULO V - PUBLICACIONES, CITACIONES, COMUNICACIONES Y NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo V|Capítulo V]]
 
-## Artículo 66. DEBER DE NOTIFICACIÓN DE LOS ACTOS ADMINISTRATIVOS DE CARÁCTER PARTICULAR Y CONCRETO
+## Artículo 66. Deber de notificación de los actos administrativos de carácter particular y concreto
 
 Los actos administrativos de carácter particular deberán ser notificados en los términos establecidos en las disposiciones siguientes.
 

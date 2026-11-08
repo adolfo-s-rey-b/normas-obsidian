@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "64"
-epigrafe: "FALTAS RELACIONADAS CON EL RÉGIMEN PENITENCIARIO Y CARCELARIO"
+epigrafe: "Faltas relacionadas con el régimen penitenciario y carcelario"
 libro: "[[CGD - Libro II|LIBRO II - PARTE ESPECIAL]]"
 titulo: "[[CGD - Libro II - Título Único|TÍTULO ÚNICO - LA DESCRIPCIÓN DE LAS FALTAS DISCIPLINARIA EN PARTICULAR]]"
 capitulo: "[[CGD - Libro II - Título Único - Capítulo I|CAPÍTULO I - FALTAS GRAVÍSIMAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro II|Libro II]] › [[CGD - Libro II - Título Único|Título Único]] › [[CGD - Libro II - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 64. FALTAS RELACIONADAS CON EL RÉGIMEN PENITENCIARIO Y CARCELARIO
+## Artículo 64. Faltas relacionadas con el régimen penitenciario y carcelario
 
 Sin perjuicio de lo dispuesto en este Código y en las demás disposiciones legales vigentes, para los servidores públicos que ejerzan dirección, administración, control y vigilancia sobre las instituciones penitenciarias y carcelarias también serán faltas gravísimas las siguientes:
 

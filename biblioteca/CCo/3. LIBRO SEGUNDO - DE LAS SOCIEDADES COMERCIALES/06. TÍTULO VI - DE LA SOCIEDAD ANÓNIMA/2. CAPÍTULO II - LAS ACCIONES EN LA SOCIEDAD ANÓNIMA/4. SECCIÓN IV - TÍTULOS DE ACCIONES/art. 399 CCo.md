@@ -13,7 +13,7 @@ libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título VI|TÍTULO VI - DE LA SOCIEDAD ANÓNIMA]]"
 capitulo: "[[CCo - Libro Segundo - Título VI - Capítulo II|CAPÍTULO II - LAS ACCIONES EN LA SOCIEDAD ANÓNIMA]]"
 seccion: "[[CCo - Libro Segundo - Título VI - Capítulo II - Sección IV|SECCIÓN IV - TÍTULOS DE ACCIONES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 515 CCo]]"
   - "[[art. 3 CCo]]"
@@ -31,7 +31,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título VI|Título VI]] › [[CCo - Libro Segundo - Título VI - Capítulo II|Capítulo II]] › [[CCo - Libro Segundo - Título VI - Capítulo II - Sección IV|Sección IV]]

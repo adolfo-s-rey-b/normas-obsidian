@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "129"
-epigrafe: "PLANEACIÓN ESTRATÉGICA EN LAS CONTRALORÍAS TERRITORIALES"
+epigrafe: "Planeación estratégica en las contralorías territoriales"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Tercera|SECCIÓN TERCERA - MEDIDAS ESPECIALES PARA EL FORTALECIMIENTO DEL EJERCICIO DE LA FUNCIÓN DE CONTROL FISCAL TERRITORIAL]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Tercera|Sección Tercera]]
 
-## Artículo 129. PLANEACIÓN ESTRATÉGICA EN LAS CONTRALORÍAS TERRITORIALES
+## Artículo 129. Planeación estratégica en las contralorías territoriales
 
 Cada Contraloría departamental, distrital o municipal elaborará su plan estratégico institucional para el período del respectivo Contralor, el cual deberá ser adoptado a más tardar dentro de los tres meses siguientes a su posesión.
 

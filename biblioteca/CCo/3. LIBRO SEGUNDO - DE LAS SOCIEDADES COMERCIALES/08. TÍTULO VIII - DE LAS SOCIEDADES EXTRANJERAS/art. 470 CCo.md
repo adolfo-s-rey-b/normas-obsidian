@@ -11,7 +11,7 @@ articulo: "470"
 epigrafe: "VIGILANCIA DEL ESTADO A SUCURSALES DE SOCIEDADES EXTRANJERAS CON ACTIVIDAD PERMANENTE EN COLOMBIA"
 libro: "[[CCo - Libro Segundo|LIBRO SEGUNDO - DE LAS SOCIEDADES COMERCIALES]]"
 titulo: "[[CCo - Libro Segundo - Título VIII|TÍTULO VIII - DE LAS SOCIEDADES EXTRANJERAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 124 Ley 1116 de 2006]]"
   - "[[art. 470 CCo]]"
@@ -27,7 +27,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Segundo|Libro Segundo]] › [[CCo - Libro Segundo - Título VIII|Título VIII]]

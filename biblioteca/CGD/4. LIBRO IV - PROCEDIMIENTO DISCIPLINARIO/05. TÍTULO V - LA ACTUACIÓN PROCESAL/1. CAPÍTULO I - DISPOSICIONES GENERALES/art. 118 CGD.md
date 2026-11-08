@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "118"
-epigrafe: "UTILIZACIÓN DE MEDIOS TÉCNICOS"
+epigrafe: "Utilización de medios técnicos"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título V|TÍTULO V - LA ACTUACIÓN PROCESAL]]"
 capitulo: "[[CGD - Libro IV - Título V - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título V|Título V]] › [[CGD - Libro IV - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 118. UTILIZACIÓN DE MEDIOS TÉCNICOS
+## Artículo 118. Utilización de medios técnicos
 
 Para la práctica de las pruebas y para el desarrollo de la actuación se podrán utilizar medios técnicos, siempre y cuando su uso no atente contra los derechos y garantías constitucionales.
 

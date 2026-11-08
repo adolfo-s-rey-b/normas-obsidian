@@ -23,8 +23,8 @@ tags:
 
 ### Contenido
 
-- [[art. 138 CPP|Artículo 138]] — DEBERES
-- [[art. 139 CPP|Artículo 139]] — DEBERES ESPECÍFICOS DE LOS JUECES
+- [[art. 138 CPP|Artículo 138]] — Deberes
+- [[art. 139 CPP|Artículo 139]] — Deberes específicos de los jueces
 
 ---
 ↑ [[CPP - Libro I - Título V|Título V]] · [[CPP - Libro I - Título V - Capítulo II|Capítulo II]] →

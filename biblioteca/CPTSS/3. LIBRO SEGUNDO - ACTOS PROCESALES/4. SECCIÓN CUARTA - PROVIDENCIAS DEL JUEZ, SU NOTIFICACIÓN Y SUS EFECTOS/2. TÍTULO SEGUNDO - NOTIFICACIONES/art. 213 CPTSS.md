@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "213"
-epigrafe: "EMPLAZAMIENTO DEL DEMANDADO Y DESIGNACIÓN DE CURADOR AD LITEM"
+epigrafe: "Emplazamiento del demandado y designación de curador ad litem"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|TÍTULO SEGUNDO - NOTIFICACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CPTSS - Libro Segundo - Sección Cuarta - Título Segundo|Título Segundo]]
 
-## Artículo 213. EMPLAZAMIENTO DEL DEMANDADO Y DESIGNACIÓN DE CURADOR AD LITEM
+## Artículo 213. Emplazamiento del demandado y designación de curador ad litem
 
 Cuando el demandante manifieste bajo la gravedad de juramento que ignora el domicilio del demandado, aseveración cuya legitimidad emana con la presentación de la demanda; una vez admitida, el juez deberá proceder a nombrarle un curador para la litis con quien se continuará el proceso; y paralelamente, ordenará su emplazamiento, con la advertencia de habérsele designado el respectivo curador ad litem.
 

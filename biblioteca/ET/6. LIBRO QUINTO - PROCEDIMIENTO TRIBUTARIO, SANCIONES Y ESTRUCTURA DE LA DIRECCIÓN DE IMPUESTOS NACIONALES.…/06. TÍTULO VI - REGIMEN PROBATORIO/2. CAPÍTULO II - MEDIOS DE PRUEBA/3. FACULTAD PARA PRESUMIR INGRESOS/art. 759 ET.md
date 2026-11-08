@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "759"
-epigrafe: "PRESUNCIÓN POR OMISION DE REGISTRO DE VENTAS O PRESTACIÓN DE SERVICIOS"
+epigrafe: "PRESUNCIÓN POR OMISIÓN DE REGISTRO DE VENTAS O PRESTACIÓN DE SERVICIOS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título VI|TÍTULO VI - REGIMEN PROBATORIO]]"
 capitulo: "[[ET - Libro Quinto - Título VI - Capítulo II|CAPÍTULO II - MEDIOS DE PRUEBA]]"
@@ -35,7 +35,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título VI|Título VI]] › [[ET - Libro Quinto - Título VI - Capítulo II|Capítulo II]] › [[ET - Libro Quinto - Título VI - Capítulo II - Facultad para presumir ingresos|Facultad para presumir ingresos]]
 
-## Artículo 759. PRESUNCIÓN POR OMISION DE REGISTRO DE VENTAS O PRESTACIÓN DE SERVICIOS
+## Artículo 759. PRESUNCIÓN POR OMISIÓN DE REGISTRO DE VENTAS O PRESTACIÓN DE SERVICIOS
 
 Cuando se constate que el responsable ha omitido registrar ventas o prestaciones de servicios durante no menos de cuatro (4) meses de un año calendario, podrá presumirse que durante los períodos comprendidos en dicho año se han omitido ingresos por ventas o servicios gravados por una cuantía igual al resultado de multiplicar por el número de meses del período, el promedio de los ingresos omitidos durante los meses constatados. Así mismo, se presumirá que en materia del impuesto sobre la renta y complementarios, el contribuyente omitió ingresos, constitutivos de renta líquida gravable, por igual cuantía en el respectivo año o período gravable.
 

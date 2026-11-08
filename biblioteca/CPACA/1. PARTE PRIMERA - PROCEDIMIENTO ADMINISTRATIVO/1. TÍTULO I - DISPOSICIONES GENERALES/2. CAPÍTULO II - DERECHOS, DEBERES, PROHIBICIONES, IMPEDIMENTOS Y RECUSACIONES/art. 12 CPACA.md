@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "12"
-epigrafe: "TRÁMITE DE LOS IMPEDIMENTOS Y RECUSACIONES"
+epigrafe: "Trámite de los impedimentos y recusaciones"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título I|TÍTULO I - DISPOSICIONES GENERALES]]"
 capitulo: "[[CPACA - Parte Primera - Título I - Capítulo II|CAPÍTULO II - DERECHOS, DEBERES, PROHIBICIONES, IMPEDIMENTOS Y RECUSACIONES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título I|Título I]] › [[CPACA - Parte Primera - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 12. TRÁMITE DE LOS IMPEDIMENTOS Y RECUSACIONES
+## Artículo 12. Trámite de los impedimentos y recusaciones
 
 En caso de impedimento el servidor enviará dentro de los tres (3) días siguientes a su conocimiento la actuación con escrito motivado al superior, o si no lo tuviere, a la cabeza del respectivo sector administrativo. A falta de todos los anteriores, al Procurador General de la Nación cuando se trate de autoridades nacionales o del Alcalde Mayor del Distrito Capital, o al procurador regional en el caso de las autoridades territoriales.
 

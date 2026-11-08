@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "522"
-epigrafe: "REGLAS PARA DETERMINAR LAS CUANTIAS"
+epigrafe: "REGLAS PARA DETERMINAR LAS CUANTÍAS"
 libro: "[[ET - Libro Cuarto|LIBRO CUARTO - IMPUESTO DE TIMBRE NACIONAL]]"
 titulo: "[[ET - Libro Cuarto - Título II|TÍTULO II - ACTUACIONES GRAVADAS Y SUS TARIFAS]]"
 vigencia: "modificado"
@@ -33,7 +33,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Cuarto|Libro Cuarto]] › [[ET - Libro Cuarto - Título II|Título II]]
 
-## Artículo 522. REGLAS PARA DETERMINAR LAS CUANTIAS
+## Artículo 522. REGLAS PARA DETERMINAR LAS CUANTÍAS
 
 (Fuente original compilada: L. 02/76 Art 34.) Para la determinación de las cuantías en el impuesto de timbre, se observarán las siguientes reglas:
 

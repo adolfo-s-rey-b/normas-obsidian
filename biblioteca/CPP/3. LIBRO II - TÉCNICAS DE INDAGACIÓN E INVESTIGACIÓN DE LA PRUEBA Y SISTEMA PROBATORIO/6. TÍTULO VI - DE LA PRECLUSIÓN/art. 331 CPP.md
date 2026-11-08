@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "331"
-epigrafe: "PRECLUSIÓN"
+epigrafe: "Preclusión"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título VI|TÍTULO VI - DE LA PRECLUSIÓN]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 9 Ley 2477 de 2025]]"
 anterior: "[[art. 330 CPP]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título VI|Título VI]]
 
-## Artículo 331. PRECLUSIÓN
+## Artículo 331. Preclusión
 
 En cualquier momento el fiscal solicitará al juez de conocimiento la preclusión una vez sobrevenga alguna de las causales previstas en el siguiente artículo.
 

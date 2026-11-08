@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "249"
-epigrafe: "OBTENCIÓN DE MUESTRAS QUE INVOLUCREN AL IMPUTADO"
+epigrafe: "Obtención de muestras que involucren al imputado"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo III|CAPÍTULO III - ACTUACIONES QUE REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 249. OBTENCIÓN DE MUESTRAS QUE INVOLUCREN AL IMPUTADO
+## Artículo 249. Obtención de muestras que involucren al imputado
 
 > [!note] Artículo CONDICIONALMENTE exequible
 

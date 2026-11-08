@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "556"
-epigrafe: "REPRESENTACIÓN DE LAS PERSONAS JURIDICAS"
+epigrafe: "REPRESENTACIÓN DE LAS PERSONAS JURÍDICAS"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título I|TÍTULO I - ACTUACIÓN]]"
 rubro: "[[ET - Libro Quinto - Título I - Normas generales|NORMAS GENERALES]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título I|Título I]] › [[ET - Libro Quinto - Título I - Normas generales|Normas generales]]
 
-## Artículo 556. REPRESENTACIÓN DE LAS PERSONAS JURIDICAS
+## Artículo 556. REPRESENTACIÓN DE LAS PERSONAS JURÍDICAS
 
 La representación legal de las personas jurídicas será ejercida por el Presidente, el Gerente o cualquiera de sus suplentes, en su orden, de acuerdo con lo establecido en los artículos [[art. 372 CCo|372]], [[art. 440 CCo|440]], [[art. 441 CCo|441]] y [[art. 442 CCo|442]] del Código de Comercio, o por la persona señalada en los estatutos de la sociedad, si no se tiene la denominación de presidente o gerente. Para la actuación de un suplente no se requiere comprobar la ausencia temporal o definitiva del principal, sólo será necesaria la certificación de la Cámara de Comercio sobre su inscripción en el registro mercantil. La sociedad también podrá hacerse representar por medio de apoderado especial.
 

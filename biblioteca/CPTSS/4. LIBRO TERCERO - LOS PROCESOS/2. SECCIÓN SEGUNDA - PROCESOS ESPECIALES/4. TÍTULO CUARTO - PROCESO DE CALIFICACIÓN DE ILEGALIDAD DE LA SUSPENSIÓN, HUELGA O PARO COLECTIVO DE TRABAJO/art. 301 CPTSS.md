@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "301"
-epigrafe: "CALIFICACIÓN DE LA SUSPENSIÓN O PARO COLECTIVO DEL TRABAJO"
+epigrafe: "Calificación de la suspensión o paro colectivo del trabajo"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Cuarto|TÍTULO CUARTO - PROCESO DE CALIFICACIÓN DE ILEGALIDAD DE LA SUSPENSIÓN, HUELGA O PARO COLECTIVO DE TRABAJO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Cuarto|Título Cuarto]]
 
-## Artículo 301. CALIFICACIÓN DE LA SUSPENSIÓN O PARO COLECTIVO DEL TRABAJO
+## Artículo 301. Calificación de la suspensión o paro colectivo del trabajo
 
 Mediante procedimiento especial y preferente, el tribunal superior del distrito judicial conocerá, en primera instancia, de la calificación de la suspensión o paro colectivo del trabajo, a solicitud de parte interesada.
 

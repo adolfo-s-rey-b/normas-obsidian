@@ -10,10 +10,10 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "431"
-epigrafe: "CAUSACIÓN EN EL SERVICIO DE TRANSPORTE AEREO O MARITIMO"
+epigrafe: "CAUSACIÓN EN EL SERVICIO DE TRANSPORTE AÉREO O MARÍTIMO"
 libro: "[[ET - Libro Tercero|LIBRO TERCERO - IMPUESTO SOBRE LAS VENTAS]]"
 titulo: "[[ET - Libro Tercero - Título II|TÍTULO II - CAUSACIÓN DEL IMPUESTO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 476 ET]]"
   - "[[art. 25 Ley 6 de 1992]]"
@@ -29,12 +29,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/et
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[ET|ET]] › [[ET - Libro Tercero|Libro Tercero]] › [[ET - Libro Tercero - Título II|Título II]]
 
-## Artículo 431. CAUSACIÓN EN EL SERVICIO DE TRANSPORTE AEREO O MARITIMO
+## Artículo 431. CAUSACIÓN EN EL SERVICIO DE TRANSPORTE AÉREO O MARÍTIMO
 
 En el caso del servicio de transporte internacional de pasajeros de que trata el artículo [[art. 476 ET|476]] numeral 6, el impuesto se causa en el momento de la expedición de la orden de cambio, o del conocimiento por parte del responsable de la emisión del tiquete, y se liquidará, sobre el valor total del tiquete u orden de cambio cuando éstos se expidan de una vía solamente y sobre el cincuenta por ciento (50%) de su valor cuando se expidan de ida y regreso.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "367"
-epigrafe: "IMPOSICIÓN DE MULTAS Y SU COBRO EJECUTIVO"
+epigrafe: "Imposición de multas y su cobro ejecutivo"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Séptima|SECCIÓN SÉPTIMA - COSTAS Y MULTAS]]"
 titulo: "[[CGP - Libro Segundo - Sección Séptima - Título II|TÍTULO II - MULTAS]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Séptima|Sección Séptima]] › [[CGP - Libro Segundo - Sección Séptima - Título II|Título II]]
 
-## Artículo 367. IMPOSICIÓN DE MULTAS Y SU COBRO EJECUTIVO
+## Artículo 367. Imposición de multas y su cobro ejecutivo
 
 Las multas serán impuestas a favor del Consejo Superior de la Judicatura, salvo que la ley disponga otra cosa, y son exigibles desde la ejecutoria de la providencia que las imponga.
 

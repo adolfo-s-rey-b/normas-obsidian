@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "16"
-epigrafe: "DE LA MODIFICACIÓN UNILATERAL"
+epigrafe: "De la Modificación Unilateral"
 vigencia: "vigente"
 anterior: "[[art. 15 Ley 80 de 1993]]"
 siguiente: "[[art. 17 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 16. DE LA MODIFICACIÓN UNILATERAL
+## Artículo 16. De la Modificación Unilateral
 
 Si durante la ejecución del contrato y para evitar la paralización o la afectación grave del servicio público que se deba satisfacer con él, fuere necesario introducir variaciones en el contrato y previamente las partes no llegan al acuerdo respectivo, la entidad en acto administrativo debidamente motivado, lo modificará mediante la supresión o adición de obras, trabajos, suministros o servicios.
 

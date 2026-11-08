@@ -22,7 +22,7 @@ tags:
 
 ### Contenido
 
-- [[art. 29 EOSF|Artículo 29]] — OPERACIONES AUTORIZADAS
+- [[art. 29 EOSF|Artículo 29]] — Operaciones Autorizadas
 
 ---
 ← [[EOSF - Parte I - Capítulo VI|Capítulo VI]] · ↑ [[EOSF - Parte I|Parte I]] · [[EOSF - Parte I - Capítulo VIII|Capítulo VIII]] →

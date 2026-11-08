@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 3 Ley 489 de 1998|Artículo 3]] — PRINCIPIOS DE LA FUNCION ADMINISTRATIVA
-- [[art. 4 Ley 489 de 1998|Artículo 4]] — FINALIDADES DE LA FUNCION ADMINISTRATIVA
+- [[art. 3 Ley 489 de 1998|Artículo 3]] — Principios de la función administrativa
+- [[art. 4 Ley 489 de 1998|Artículo 4]] — Finalidades de la función administrativa
 
 ---
 ← [[Ley 489 de 1998 - Capítulo I|Capítulo I]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]] · [[Ley 489 de 1998 - Capítulo III|Capítulo III]] →

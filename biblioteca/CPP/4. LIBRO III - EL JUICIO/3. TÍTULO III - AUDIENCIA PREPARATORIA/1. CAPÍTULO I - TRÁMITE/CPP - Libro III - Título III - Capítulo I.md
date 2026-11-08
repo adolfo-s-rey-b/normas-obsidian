@@ -23,14 +23,14 @@ tags:
 
 ### Contenido
 
-- [[art. 355 CPP|Artículo 355]] — INSTALACIÓN DE LA AUDIENCIA PREPARATORIA
-- [[art. 356 CPP|Artículo 356]] — DESARROLLO DE LA AUDIENCIA PREPARATORIA
-- [[art. 357 CPP|Artículo 357]] — SOLICITUDES PROBATORIAS
-- [[art. 358 CPP|Artículo 358]] — EXHIBICIÓN DE LOS ELEMENTOS MATERIALES DE PRUEBA
-- [[art. 359 CPP|Artículo 359]] — EXCLUSIÓN, RECHAZO E INADMISIBILIDAD DE LOS MEDIOS DE PRUEBA
-- [[art. 360 CPP|Artículo 360]] — PRUEBA ILEGAL
-- [[art. 361 CPP|Artículo 361]] — PROHIBICIÓN DE PRUEBAS DE OFICIO
-- [[art. 362 CPP|Artículo 362]] — DECISIÓN SOBRE EL ORDEN DE LA PRESENTACIÓN DE LA PRUEBA
+- [[art. 355 CPP|Artículo 355]] — Instalación de la audiencia preparatoria
+- [[art. 356 CPP|Artículo 356]] — Desarrollo de la audiencia preparatoria
+- [[art. 357 CPP|Artículo 357]] — Solicitudes probatorias
+- [[art. 358 CPP|Artículo 358]] — Exhibición de los elementos materiales de prueba
+- [[art. 359 CPP|Artículo 359]] — Exclusión, rechazo e inadmisibilidad de los medios de prueba
+- [[art. 360 CPP|Artículo 360]] — Prueba ilegal
+- [[art. 361 CPP|Artículo 361]] — Prohibición de pruebas de oficio
+- [[art. 362 CPP|Artículo 362]] — Decisión sobre el orden de la presentación de la prueba
 
 ---
 ↑ [[CPP - Libro III - Título III|Título III]] · [[CPP - Libro III - Título III - Capítulo II|Capítulo II]] →

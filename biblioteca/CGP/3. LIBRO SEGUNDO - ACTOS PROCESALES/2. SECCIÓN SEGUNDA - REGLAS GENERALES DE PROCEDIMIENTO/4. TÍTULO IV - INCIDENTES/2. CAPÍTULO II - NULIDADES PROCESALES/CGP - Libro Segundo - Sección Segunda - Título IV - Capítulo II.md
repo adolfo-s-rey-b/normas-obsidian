@@ -24,13 +24,13 @@ tags:
 
 ### Contenido
 
-- [[art. 132 CGP|Artículo 132]] — CONTROL DE LEGALIDAD
-- [[art. 133 CGP|Artículo 133]] — CAUSALES DE NULIDAD
-- [[art. 134 CGP|Artículo 134]] — OPORTUNIDAD Y TRÁMITE
-- [[art. 135 CGP|Artículo 135]] — REQUISITOS PARA ALEGAR LA NULIDAD
-- [[art. 136 CGP|Artículo 136]] — SANEAMIENTO DE LA NULIDAD
-- [[art. 137 CGP|Artículo 137]] — ADVERTENCIA DE LA NULIDAD
-- [[art. 138 CGP|Artículo 138]] — EFECTOS DE LA DECLARACIÓN DE FALTA DE JURISDICCIÓN O COMPETENCIA Y DE LA NULIDAD DECLARADA
+- [[art. 132 CGP|Artículo 132]] — Control de legalidad
+- [[art. 133 CGP|Artículo 133]] — Causales de nulidad
+- [[art. 134 CGP|Artículo 134]] — Oportunidad y trámite
+- [[art. 135 CGP|Artículo 135]] — Requisitos para alegar la nulidad
+- [[art. 136 CGP|Artículo 136]] — Saneamiento de la nulidad
+- [[art. 137 CGP|Artículo 137]] — Advertencia de la nulidad
+- [[art. 138 CGP|Artículo 138]] — Efectos de la declaración de falta de jurisdicción o competencia y de la nulidad declarada
 
 ---
 ← [[CGP - Libro Segundo - Sección Segunda - Título IV - Capítulo I|Capítulo I]] · ↑ [[CGP - Libro Segundo - Sección Segunda - Título IV|Título IV]]

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "197"
-epigrafe: "SANCIONES AL IMPUGNANTE VENCIDO"
+epigrafe: "Sanciones al impugnante vencido"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 197. SANCIONES AL IMPUGNANTE VENCIDO
+## Artículo 197. Sanciones al impugnante vencido
 
 Cuando la tacha de falsedad se resuelva en contra de la parte solicitante, el juez condenará a aquella a pagar a quien aportó el documento, el valor del veinte por ciento (20%) del monto de las obligaciones contenidas en él, o de diez (10) a veinte (20) salarios mínimos legales mensuales vigentes (SMLMV), cuando no represente un valor económico.
 

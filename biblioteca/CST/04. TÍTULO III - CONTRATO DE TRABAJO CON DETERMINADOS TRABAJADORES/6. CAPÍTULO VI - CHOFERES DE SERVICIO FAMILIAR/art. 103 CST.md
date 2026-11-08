@@ -11,7 +11,7 @@ articulo: "103"
 epigrafe: "TERMINACION DEL CONTRATO"
 titulo: "[[CST - Título III|TÍTULO III - CONTRATO DE TRABAJO CON DETERMINADOS TRABAJADORES]]"
 capitulo: "[[CST - Título III - Capítulo VI|CAPÍTULO VI - CHOFERES DE SERVICIO FAMILIAR]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 104 CST]]"
   - "[[art. 46 Decreto 3743 de 1950]]"
@@ -32,7 +32,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cst
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CST|CST]] › [[CST - Título III|Título III]] › [[CST - Título III - Capítulo VI|Capítulo VI]]
@@ -43,7 +43,7 @@ tags:
 
 1\. Al contrato de trabajo con los choferes de servicio familiar se le aplican las disposiciones establecidas para trabajadores domésticos, pero la cesantía, las vacaciones remuneradas y el auxilio en caso de enfermedad no profesional se les liquidaran en la forma ordinaria.
 
-2.
+2\. *(texto no vigente)*
 
 > [!warning] Numeral derogado tácitamente Sentencia C-036-20
 

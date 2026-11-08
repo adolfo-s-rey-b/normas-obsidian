@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "149"
-epigrafe: "MEDIOS DE PRUEBA"
+epigrafe: "Medios de prueba"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 149. MEDIOS DE PRUEBA
+## Artículo 149. Medios de prueba
 
 Son medios de prueba la confesión, el testimonio, la peritación, la inspección disciplinaria y los documentos, los cuales se practicarán de acuerdo con las reglas previstas en este código.
 

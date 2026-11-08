@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "143"
-epigrafe: "FORMULACIÓN Y TRÁMITE DE LA RECUSACIÓN"
+epigrafe: "Formulación y trámite de la recusación"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título V|TÍTULO V - CONFLICTOS DE COMPETENCIA, IMPEDIMENTOS Y RECUSACIONES, ACUMULACIÓN DE PROCESOS, AMPARO DE POBREZA, INTERRUPCIÓN Y SUSPENSIÓN DEL PROCESO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título V|Título V]] › [[CGP - Libro Segundo - Sección Segunda - Título V - Capítulo II|Capítulo II]]
 
-## Artículo 143. FORMULACIÓN Y TRÁMITE DE LA RECUSACIÓN
+## Artículo 143. Formulación y trámite de la recusación
 
 La recusación se propondrá ante el juez del conocimiento o el magistrado ponente, con expresión de la causal alegada, de los hechos en que se fundamente y de las pruebas que se pretenda hacer valer.
 

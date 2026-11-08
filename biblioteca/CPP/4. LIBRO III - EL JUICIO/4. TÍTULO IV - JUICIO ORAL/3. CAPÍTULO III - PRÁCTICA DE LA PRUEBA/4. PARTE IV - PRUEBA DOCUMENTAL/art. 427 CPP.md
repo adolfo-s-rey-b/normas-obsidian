@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "427"
-epigrafe: "DOCUMENTOS PROCEDENTES DEL EXTRANJERO"
+epigrafe: "Documentos procedentes del extranjero"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte IV|Parte IV]]
 
-## Artículo 427. DOCUMENTOS PROCEDENTES DEL EXTRANJERO
+## Artículo 427. Documentos procedentes del extranjero
 
 Los documentos debidamente apostillados pueden ser ingresados por uno de los investigadores que participaron en el caso o por el investigador que recolectó o recibió el elemento material probatorio.
 

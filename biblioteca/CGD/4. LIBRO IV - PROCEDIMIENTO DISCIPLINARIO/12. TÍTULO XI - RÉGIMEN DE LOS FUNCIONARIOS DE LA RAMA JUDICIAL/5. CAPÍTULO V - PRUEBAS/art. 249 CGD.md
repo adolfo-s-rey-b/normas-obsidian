@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "249"
-epigrafe: "PRÁCTICA DE PRUEBAS POR COMISIONADO Y FACULTADES DE POLICÍA JUDICIAL"
+epigrafe: "Practica de pruebas por comisionado y facultades de policía judicial"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título XI|TÍTULO XI - RÉGIMEN DE LOS FUNCIONARIOS DE LA RAMA JUDICIAL]]"
 capitulo: "[[CGD - Libro IV - Título XI - Capítulo V|CAPÍTULO V - PRUEBAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título XI|Título XI]] › [[CGD - Libro IV - Título XI - Capítulo V|Capítulo V]]
 
-## Artículo 249. PRÁCTICA DE PRUEBAS POR COMISIONADO Y FACULTADES DE POLICÍA JUDICIAL
+## Artículo 249. Practica de pruebas por comisionado y facultades de policía judicial
 
 Para la práctica de pruebas, los miembros de las Comisiones Seccionales de Disciplina Judicial, podrán comisionar dentro de su sede a los empleados de su dependencia y fuera de ella a funcionarios judiciales de igual o inferior categoría. ·
 

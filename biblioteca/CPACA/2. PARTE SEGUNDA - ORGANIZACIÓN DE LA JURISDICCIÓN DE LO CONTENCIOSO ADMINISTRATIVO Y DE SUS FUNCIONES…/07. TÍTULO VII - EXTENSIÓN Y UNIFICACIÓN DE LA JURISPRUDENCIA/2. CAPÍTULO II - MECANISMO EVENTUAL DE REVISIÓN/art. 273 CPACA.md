@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "273"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título VII|TÍTULO VII - EXTENSIÓN Y UNIFICACIÓN DE LA JURISPRUDENCIA]]"
 capitulo: "[[CPACA - Parte Segunda - Título VII - Capítulo II|CAPÍTULO II - MECANISMO EVENTUAL DE REVISIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título VII|Título VII]] › [[CPACA - Parte Segunda - Título VII - Capítulo II|Capítulo II]]
 
-## Artículo 273. PROCEDENCIA
+## Artículo 273. Procedencia
 
 La revisión eventual procederá, a petición de parte o del Ministerio Público, contra las sentencias o providencias que determinen la finalización o archivo de los procesos promovidos para la protección de los derechos e intereses colectivos y la reparación de daños causados a un grupo, proferidas por los Tribunales Administrativos, que no sean susceptibles del recurso de apelación ante el Consejo de Estado, en los siguientes casos:
 

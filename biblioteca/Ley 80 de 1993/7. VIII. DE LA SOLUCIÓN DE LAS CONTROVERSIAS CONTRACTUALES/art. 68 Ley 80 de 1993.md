@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "68"
-epigrafe: "DE LA UTILIZACIÓN DE MECANISMOS DE SOLUCIÓN DIRECTA DE LAS CONTROVERSIAS CONTRACTUALES"
+epigrafe: "De la Utilización de Mecanismos de Solución Directa de las Controversias Contractuales"
 rubro: "[[Ley 80 de 1993 - Viii. de la solución de las controversias…|VIII. DE LA SOLUCIÓN DE LAS CONTROVERSIAS CONTRACTUALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 226 Decreto 1818 de 1998]]"
   - "[[art. 118 Ley 1563 de 2012]]"
@@ -23,12 +23,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_80_de_1993
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Viii. de la solución de las controversias…|Viii. de la solución de las controversias…]]
 
-## Artículo 68. DE LA UTILIZACIÓN DE MECANISMOS DE SOLUCIÓN DIRECTA DE LAS CONTROVERSIAS CONTRACTUALES
+## Artículo 68. De la Utilización de Mecanismos de Solución Directa de las Controversias Contractuales
 
 > [!warning] Incisos 1o. y 2o. derogados al ser derogado el artículo [[art. 226 Decreto 1818 de 1998|226]] del Estatuto de los Mecanismos Alternativos de Solución de Conflictos - Decreto Extraordinario 1818 de 1998 por el artículo [[art. 118 Ley 1563 de 2012|118]] de la Ley 1563 de 2012. Entra a regir a partir del 12 de octubre de 2012
 

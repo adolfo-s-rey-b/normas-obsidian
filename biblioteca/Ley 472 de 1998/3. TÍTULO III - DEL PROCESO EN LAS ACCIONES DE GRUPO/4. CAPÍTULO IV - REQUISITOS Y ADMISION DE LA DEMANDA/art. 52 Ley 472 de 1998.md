@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "52"
-epigrafe: "REQUISITOS DE LA DEMANDA"
+epigrafe: "Requisitos de la Demanda"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 52. REQUISITOS DE LA DEMANDA
+## Artículo 52. Requisitos de la Demanda
 
 La demanda mediante la cual se ejerza una acción de grupo deberá reunir los requisitos establecidos en el Código de Procedimiento Civil o en el Código Contencioso Administrativo, según el caso, y además expresar en ella:
 

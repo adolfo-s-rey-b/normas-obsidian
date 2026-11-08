@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "29"
-epigrafe: "CLASES Y MEDIOS DE PRUEBA"
+epigrafe: "Clases y Medios de Prueba"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo VIII|CAPÍTULO VIII - PERIODO PROBATORIO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 29. CLASES Y MEDIOS DE PRUEBA
+## Artículo 29. Clases y Medios de Prueba
 
 Para estas acciones son procedentes los medios de prueba establecidos en el Código de Procedimiento Civil, sin perjuicio de lo que respecto de ellos se disponga en la presente ley.
 

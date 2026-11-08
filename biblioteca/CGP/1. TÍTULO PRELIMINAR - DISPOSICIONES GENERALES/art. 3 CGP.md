@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "3"
-epigrafe: "PROCESO ORAL Y POR AUDIENCIAS"
+epigrafe: "Proceso oral y por audiencias"
 titulo: "[[CGP - Título Preliminar|TÍTULO PRELIMINAR - DISPOSICIONES GENERALES]]"
 vigencia: "vigente"
 anterior: "[[art. 2 CGP]]"
@@ -27,7 +27,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Título Preliminar|Título Preliminar]]
 
-## Artículo 3. PROCESO ORAL Y POR AUDIENCIAS
+## Artículo 3. Proceso oral y por audiencias
 
 Las actuaciones se cumplirán en forma oral, pública y en audiencias, salvo las que expresamente se autorice realizar por escrito o estén amparadas por reserva.
 

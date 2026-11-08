@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "62"
-epigrafe: "VICEMINISTROS"
+epigrafe: "Viceministros"
 capitulo: "[[Ley 489 de 1998 - Capítulo XII|CAPÍTULO XII - PRESIDENCIA DE LA REPUBLICA, MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y SUPERINTENDENCIAS]]"
 vigencia: "vigente"
 anterior: "[[art. 61 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XII|Capítulo XII]]
 
-## Artículo 62. VICEMINISTROS
+## Artículo 62. Viceministros
 
 Son funciones de los viceministros, además de las que les señalan la Constitución Política, el acto de creación o las disposiciones legales especiales y, dependiendo del número existente en el respectivo Ministerio, las siguientes:
 

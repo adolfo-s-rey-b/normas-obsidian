@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "6"
-epigrafe: "CONTROL AL ACTO CONSTITUTIVO Y A SUS REFORMAS"
+epigrafe: "Control al acto constitutivo y a sus reformas"
 capitulo: "[[Ley 1258 de 2008 - Capítulo II|CAPÍTULO II - CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 5 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo II|Capítulo II]]
 
-## Artículo 6. CONTROL AL ACTO CONSTITUTIVO Y A SUS REFORMAS
+## Artículo 6. Control al acto constitutivo y a sus reformas
 
 Las Cámaras de Comercio verificarán la conformidad de las estipulaciones del acto constitutivo, de los actos de nombramiento y de cada una de sus reformas con lo previsto en la ley. Por lo tanto, se abstendrán de inscribir el documento mediante el cual se constituya, se haga un nombramiento o se reformen los estatutos de la sociedad, cuando se omita alguno de los requisitos previstos en el artículo anterior o en la ley.
 

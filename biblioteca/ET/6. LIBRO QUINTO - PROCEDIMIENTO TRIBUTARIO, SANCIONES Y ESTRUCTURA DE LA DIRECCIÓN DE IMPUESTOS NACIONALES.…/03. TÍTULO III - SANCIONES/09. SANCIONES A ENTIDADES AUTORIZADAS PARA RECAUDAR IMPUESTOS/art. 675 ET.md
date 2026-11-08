@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "675"
-epigrafe: "INCONSISTENCIA EN LA INFORMACIÓN REMITIDA"
+epigrafe: "Inconsistencia en la información remitida"
 libro: "[[ET - Libro Quinto|LIBRO QUINTO - PROCEDIMIENTO TRIBUTARIO, SANCIONES Y ESTRUCTURA DE LA DIRECCIÓN DE IMPUESTOS NACIONALES. < 1 >]]"
 titulo: "[[ET - Libro Quinto - Título III|TÍTULO III - SANCIONES]]"
 rubro: "[[ET - Libro Quinto - Título III - Sanciones a entidades autorizadas para recaudar…|SANCIONES A ENTIDADES AUTORIZADAS PARA RECAUDAR IMPUESTOS]]"
@@ -43,7 +43,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Quinto|Libro Quinto]] › [[ET - Libro Quinto - Título III|Título III]] › [[ET - Libro Quinto - Título III - Sanciones a entidades autorizadas para recaudar…|Sanciones a entidades autorizadas para recaudar…]]
 
-## Artículo 675. INCONSISTENCIA EN LA INFORMACIÓN REMITIDA
+## Artículo 675. Inconsistencia en la información remitida
 
 Sin perjuicio de lo dispuesto en el artículo anterior, cuando la información remitida en el medio magnético no coincida con la contenida en los formularios o recibos de pago recepcionados por la entidad autorizada para tal efecto, y esta situación se presente respecto de un número de documentos que supere el medio por ciento (0.5%) del total de documentos correspondientes a la recepción o recaudo de un mismo día, la respectiva entidad será acreedora a una sanción por cada documento que presente uno o varios errores, liquidada como se señala a continúación:
 

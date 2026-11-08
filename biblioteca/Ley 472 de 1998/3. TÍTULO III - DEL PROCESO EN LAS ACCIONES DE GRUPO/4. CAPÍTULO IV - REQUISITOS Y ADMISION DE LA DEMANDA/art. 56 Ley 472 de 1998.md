@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "56"
-epigrafe: "EXCLUSION DEL GRUPO"
+epigrafe: "Exclusión del Grupo"
 titulo: "[[Ley 472 de 1998 - Título III|TÍTULO III - DEL PROCESO EN LAS ACCIONES DE GRUPO]]"
 capitulo: "[[Ley 472 de 1998 - Título III - Capítulo IV|CAPÍTULO IV - REQUISITOS Y ADMISION DE LA DEMANDA]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título III|Título III]] › [[Ley 472 de 1998 - Título III - Capítulo IV|Capítulo IV]]
 
-## Artículo 56. EXCLUSION DEL GRUPO
+## Artículo 56. Exclusión del Grupo
 
 Dentro de los cinco (5) días siguientes al vencimiento del término de traslado de la demanda, cualquier miembro de un mismo grupo podrá manifestar su deseo de ser excluido del grupo y, en consecuencia, no ser vinculado por el acuerdo de conciliación o la sentencia. Un miembro del grupo no quedará vinculado a los efectos de la sentencia en dos situaciones:
 

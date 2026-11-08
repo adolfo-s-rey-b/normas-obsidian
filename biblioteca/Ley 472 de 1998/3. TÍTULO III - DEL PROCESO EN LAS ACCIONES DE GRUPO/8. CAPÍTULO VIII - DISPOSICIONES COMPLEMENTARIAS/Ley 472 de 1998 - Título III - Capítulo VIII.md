@@ -21,8 +21,8 @@ tags:
 
 ### Contenido
 
-- [[art. 68 Ley 472 de 1998|Artículo 68]] — ASPECTOS NO REGULADOS
-- [[art. 69 Ley 472 de 1998|Artículo 69]] — OTRAS ACCIONES DE GRUPO QUE SE TRAMITARAN POR LA PRESENTE LEY
+- [[art. 68 Ley 472 de 1998|Artículo 68]] — Aspectos no Regulados
+- [[art. 69 Ley 472 de 1998|Artículo 69]] — Otras Acciones de Grupo que se Tramitarán por la Presente Ley
 
 ---
 ← [[Ley 472 de 1998 - Título III - Capítulo VII|Capítulo VII]] · ↑ [[Ley 472 de 1998 - Título III|Título III]]

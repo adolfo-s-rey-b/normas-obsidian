@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "89"
-epigrafe: "EXPEDICIÓN DE ADENDAS"
+epigrafe: "Expedición de adendas"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VII|CAPÍTULO VII - DISPOSICIONES PARA PREVENIR Y COMBATIR LA CORRUPCIÓN EN LA CONTRATACIÓN PÚBLICA]]"
 vigencia: "vigente"
 anterior: "[[art. 88 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VII|Capítulo VII]]
 
-## Artículo 89. EXPEDICIÓN DE ADENDAS
+## Artículo 89. Expedición de adendas
 
 El inciso 2o del numeral 5 del artículo [[art. 30 Ley 80 de 1993|30]] de la Ley 80 de 1993 quedará así:
 

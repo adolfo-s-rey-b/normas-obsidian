@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 365 CGP|Artículo 365]] — CONDENA EN COSTAS
-- [[art. 366 CGP|Artículo 366]] — LIQUIDACIÓN
+- [[art. 365 CGP|Artículo 365]] — Condena en costas
+- [[art. 366 CGP|Artículo 366]] — Liquidación
 
 ---
 ← [[CGP - Libro Segundo - Sección Séptima - Título I - Capítulo II|Capítulo II]] · ↑ [[CGP - Libro Segundo - Sección Séptima - Título I|Título I]]

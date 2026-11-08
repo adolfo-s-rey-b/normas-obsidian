@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "116"
 titulo: "[[CPol - Título V|TÍTULO V - De la organización del Estado]]"
 capitulo: "[[CPol - Título V - Capítulo 1|CAPÍTULO 1 - De la estructura del Estado]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 1 Acto Legislativo 3 de 2002]]"
   - "[[art. 1 Acto Legislativo 3 de 2023]]"
@@ -36,7 +36,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CPol|CPol]] › [[CPol - Título V|Título V]] › [[CPol - Título V - Capítulo 1|Capítulo 1]]

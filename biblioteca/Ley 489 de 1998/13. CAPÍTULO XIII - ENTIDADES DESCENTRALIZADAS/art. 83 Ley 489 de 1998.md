@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "83"
-epigrafe: "EMPRESAS SOCIALES DEL ESTADO"
+epigrafe: "Empresas sociales del Estado"
 capitulo: "[[Ley 489 de 1998 - Capítulo XIII|CAPÍTULO XIII - ENTIDADES DESCENTRALIZADAS]]"
 vigencia: "vigente"
 anterior: "[[art. 82 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 83. EMPRESAS SOCIALES DEL ESTADO
+## Artículo 83. Empresas sociales del Estado
 
 Las empresas sociales del Estado, creadas por la Nación o por las entidades territoriales para la prestación en forma directa de servicios de salud se sujetan al régimen previsto en la Ley 100 de 1993, la Ley 344 de 1996 y en la presente ley en los aspectos no regulados por dichas leyes y a las normas que las complementen, sustituyan o adicionen.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "115"
-epigrafe: "PROCEDENCIA DE LA MEDIDA"
+epigrafe: "Procedencia de la Medida"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XXI|CAPÍTULO XXI - TOMA DE POSESION]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XXI|Capítulo XXI]]
 
-## Artículo 115. PROCEDENCIA DE LA MEDIDA
+## Artículo 115. Procedencia de la Medida
 
 El Superintendente Bancario, previo concepto del Consejo Asesor y con la aprobación del Ministro de Hacienda y Crédito Público, podrá tomar inmediata posesión de los bienes, haberes y negocios de una institución vigilada.
 

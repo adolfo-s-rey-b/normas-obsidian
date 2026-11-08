@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "17"
-epigrafe: "SUBARRIENDO Y CESIÓN"
+epigrafe: "Subarriendo y cesión"
 capitulo: "[[Ley 820 de 2003 - Capítulo V|CAPÍTULO V - SUBARRIENDO Y CESIÓN DEL CONTRATO]]"
 vigencia: "vigente"
 anterior: "[[art. 16 Ley 820 de 2003]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo V|Capítulo V]]
 
-## Artículo 17. SUBARRIENDO Y CESIÓN
+## Artículo 17. Subarriendo y cesión
 
 El arrendatario no tiene la facultad de ceder el arriendo ni de subarrendar, a menos que medie autorización expresa del arrendador.
 

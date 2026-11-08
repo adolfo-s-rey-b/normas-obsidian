@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "167"
-epigrafe: "EL DICTAMEN PERICIAL DE ENTIDADES Y DEPENDENCIAS OFICIALES"
+epigrafe: "El dictamen pericial de entidades y dependencias oficiales"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo VI|Capítulo VI]]
 
-## Artículo 167. EL DICTAMEN PERICIAL DE ENTIDADES Y DEPENDENCIAS OFICIALES
+## Artículo 167. El dictamen pericial de entidades y dependencias oficiales
 
 Los jueces deberán ordenar de oficio o a petición de parte los servicios de entidades y dependencias oficiales para los dictámenes periciales que versen sobre materias propias de la actividad de aquellas. Con tal fin las decretará y ordenará librar el oficio respectivo para que el director de las mismas designe el funcionario o los funcionarios que deben rendir el dictamen.
 

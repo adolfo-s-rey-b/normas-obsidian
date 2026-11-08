@@ -11,7 +11,7 @@ articulo: "242"
 epigrafe: "LEGITIMACIÓN DE PERSONA INCAPAZ"
 libro: "[[CC - Libro Primero|LIBRO PRIMERO - DE LAS PERSONAS]]"
 titulo: "[[CC - Libro Primero - Título XI|TÍTULO XI - DE LOS HIJOS LEGITIMADOS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 70 Decreto 2820 de 1974]]"
 anterior: "[[art. 241 CC]]"
@@ -23,7 +23,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Primero|Libro Primero]] › [[CC - Libro Primero - Título XI|Título XI]]

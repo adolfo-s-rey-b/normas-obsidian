@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "26"
-epigrafe: "LOS INGRESOS SON BASE DE LA RENTA LIQUIDA"
+epigrafe: "LOS INGRESOS SON BASE DE LA RENTA LÍQUIDA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo I|CAPÍTULO I - INGRESOS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 26. LOS INGRESOS SON BASE DE LA RENTA LIQUIDA
+## Artículo 26. LOS INGRESOS SON BASE DE LA RENTA LÍQUIDA
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 15 ET|15]]) La renta líquida gravable se determina así: de la suma de todos los ingresos ordinarios y extraordinarios realizados en el año o período gravable, que sean susceptibles de producir un incremento neto del patrimonio en el momento de su percepción, y que no hayan sido expresamente exceptuados, se restan las devoluciones, rebajas y descuentos, con lo cual se obtienen los ingresos netos. De los ingresos netos se restan, cuando sea el caso, los costos realizados imputables a tales ingresos, con lo cual se obtiene la renta bruta. De la renta bruta se restan las deducciones realizadas, con lo cual se obtiene la renta líquida. Salvo las excepciones legales, la renta líquida es renta gravable y a ella se aplican las tarifas señaladas en la ley.
 

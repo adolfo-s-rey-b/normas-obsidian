@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "112"
-epigrafe: "DEDUCCIÓN DE LA PROVISION PARA EL PAGO DE FUTURAS PENSIONES"
+epigrafe: "DEDUCCIÓN DE LA PROVISIÓN PARA EL PAGO DE FUTURAS PENSIONES"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo V|CAPÍTULO V - DEDUCCIONES]]"
@@ -32,7 +32,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo V|Capítulo V]] › [[ET - Libro Primero - Título I - Capítulo V - Prestaciones sociales|Prestaciones sociales]]
 
-## Artículo 112. DEDUCCIÓN DE LA PROVISION PARA EL PAGO DE FUTURAS PENSIONES
+## Artículo 112. DEDUCCIÓN DE LA PROVISIÓN PARA EL PAGO DE FUTURAS PENSIONES
 
 (Fuente original compilada: D. 2053/74 Art. [[art. 52 ET|52]]) Las sociedades que están sometidas o se sometan durante todo el año o período gravable a la vigilancia del Estado, por intermedio de la Superintendencia respectiva, pueden apropiar y deducir cuotas anuales para el pago de futuras pensiones de jubilación o invalidez, en cuanto no estuvieren amparadas por seguros o por el Instituto de Seguros Sociales y siempre que en su determinación se apliquen las siguientes normas:
 

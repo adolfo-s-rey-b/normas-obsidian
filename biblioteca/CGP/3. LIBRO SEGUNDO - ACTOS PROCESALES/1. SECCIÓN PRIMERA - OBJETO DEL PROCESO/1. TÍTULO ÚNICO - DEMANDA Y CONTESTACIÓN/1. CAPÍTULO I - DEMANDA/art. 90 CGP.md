@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "90"
-epigrafe: "ADMISIÓN, INADMISIÓN Y RECHAZO DE LA DEMANDA"
+epigrafe: "Admisión, inadmisión y rechazo de la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 90. ADMISIÓN, INADMISIÓN Y RECHAZO DE LA DEMANDA
+## Artículo 90. Admisión, inadmisión y rechazo de la demanda
 
 El juez admitirá la demanda que reúna los requisitos de ley, y le dará el trámite que legalmente le corresponda aunque el demandante haya indicado una vía procesal inadecuada. En la misma providencia el juez deberá integrar el litisconsorcio necesario y ordenarle al demandado que aporte, durante el traslado de la demanda, los documentos que estén en su poder y que hayan sido solicitados por el demandante.
 

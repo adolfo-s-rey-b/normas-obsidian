@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "149"
-epigrafe: "PRINCIPIO DE PUBLICIDAD"
+epigrafe: "Principio de publicidad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo II|CAPÍTULO II - PUBLICIDAD DE LOS PROCEDIMIENTOS]]"
@@ -33,7 +33,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 149. PRINCIPIO DE PUBLICIDAD
+## Artículo 149. Principio de publicidad
 
 Todas las audiencias que se desarrollen durante la etapa de juzgamiento serán públicas y no se podrá denegar el acceso a nadie, sin decisión judicial previa. Aun cuando se limite la publicidad al máximo, no podrá excluirse a la Fiscalía, el acusado, la defensa, el Ministerio Público, la víctima y su representación legal.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "265"
-epigrafe: "DIRECCION Y ADMINISTRACION"
+epigrafe: "Dirección y Administración"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VII|CAPÍTULO VII - BANCO CAFETERO]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VII|Capítulo VII]]
 
-## Artículo 265. DIRECCION Y ADMINISTRACION
+## Artículo 265. Dirección y Administración
 
 1\. Organos de dirección y administración. La dirección y administración del Banco Cafetero, corresponderá a la Asamblea General de Accionistas, la Junta Directiva y el Presidente, quien será su representante legal.
 

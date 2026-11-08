@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "100"
-epigrafe: "REGIMEN DE PROTECCION A TOMADORES DE SEGUROS Y ASEGURADOS"
+epigrafe: "Régimen de Protección a Tomadores de Seguros y Asegurados"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIV|CAPÍTULO XIV - REGLAS RELATIVAS A LA COMPETENCIA Y A LA PROTECCION DEL CONSUMIDOR]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIV|Capítulo XIV]]
 
-## Artículo 100. REGIMEN DE PROTECCION A TOMADORES DE SEGUROS Y ASEGURADOS
+## Artículo 100. Régimen de Protección a Tomadores de Seguros y Asegurados
 
 1\. Reglas sobre condiciones de las pólizas y tarifas. La determinación de las condiciones de las pólizas y las tarifas responderá al régimen de libertad de competencia en el mercado de seguros, y respetará siempre las reglas previstas en el artículo [[art. 184 EOSF|184]] numerales 2. y 3. del presente Estatuto.
 

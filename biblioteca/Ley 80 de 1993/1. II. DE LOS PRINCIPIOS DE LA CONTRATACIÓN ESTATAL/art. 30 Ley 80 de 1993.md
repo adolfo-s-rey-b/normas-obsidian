@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "30"
-epigrafe: "DE LA ESTRUCTURA DE LOS PROCEDIMIENTOS DE SELECCIÓN"
+epigrafe: "De la Estructura de los Procedimientos de Selección"
 rubro: "[[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|II. DE LOS PRINCIPIOS DE LA CONTRATACIÓN ESTATAL]]"
 vigencia: "parcialmente derogado"
 modificado_por:
@@ -32,7 +32,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Ii. de los principios de la contratación estatal|Ii. de los principios de la contratación estatal]]
 
-## Artículo 30. DE LA ESTRUCTURA DE LOS PROCEDIMIENTOS DE SELECCIÓN
+## Artículo 30. De la Estructura de los Procedimientos de Selección
 
 La licitación o ~~concurso~~ se efectuará conforme a las siguientes reglas:
 
@@ -118,7 +118,7 @@ Dentro del mismo término de adjudicación, podrá declararse desierta la licita
 
 De la audiencia se levantará un acta en la que se dejará constancia de las deliberaciones y decisiones que en el desarrollo de la misma se hubieren producido.
 
-11.
+11\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 32 Ley 1150 de 2007|32]] de la Ley 1150 de 2007
 

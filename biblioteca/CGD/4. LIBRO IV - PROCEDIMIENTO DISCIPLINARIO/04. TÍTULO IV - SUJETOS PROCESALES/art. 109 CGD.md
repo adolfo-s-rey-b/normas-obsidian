@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "109"
-epigrafe: "SUJETOS PROCESALES EN LA ACTUACIÓN DISCIPLINARIA"
+epigrafe: "Sujetos procesales en la actuación disciplinaria"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IV|TÍTULO IV - SUJETOS PROCESALES]]"
 vigencia: "parcialmente derogado"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IV|Título IV]]
 
-## Artículo 109. SUJETOS PROCESALES EN LA ACTUACIÓN DISCIPLINARIA
+## Artículo 109. Sujetos procesales en la actuación disciplinaria
 
 Podrán intervenir en la actuación disciplinaria, como sujetos procesales, el investigado y su defensor, el Ministerio Público, cuando la actuación se adelante en la Comisión Nacional de Disciplina Judicial y las Comisiones Seccionales de Disciplina Judicial, ~~o quienes hagan sus veces~~, o en el Congreso de la República contra los funcionarios a que se refiere el artículo [[art. 174 CPol|174]] de la Constitución Política. Esta misma condición la ostentarán las víctimas de conductas violatorias de derechos humanos y el Derecho Internacional Humanitario, así como de acoso laboral.
 

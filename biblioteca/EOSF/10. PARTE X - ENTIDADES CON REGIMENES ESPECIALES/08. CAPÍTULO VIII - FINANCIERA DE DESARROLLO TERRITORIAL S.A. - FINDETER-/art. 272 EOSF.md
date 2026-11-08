@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "272"
-epigrafe: "RESTRICCIONES Y LIMITACIONES"
+epigrafe: "Restricciones y Limitaciones"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo VIII|CAPÍTULO VIII - FINANCIERA DE DESARROLLO TERRITORIAL S.A. - FINDETER-]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 272. RESTRICCIONES Y LIMITACIONES
+## Artículo 272. Restricciones y Limitaciones
 
 El Gobierno Nacional determinará la relación pasivos a capital de la Financiera de Desarrollo Territorial S.A., Findeter, y podrá disponer que organice un fondo de liquidez.
 

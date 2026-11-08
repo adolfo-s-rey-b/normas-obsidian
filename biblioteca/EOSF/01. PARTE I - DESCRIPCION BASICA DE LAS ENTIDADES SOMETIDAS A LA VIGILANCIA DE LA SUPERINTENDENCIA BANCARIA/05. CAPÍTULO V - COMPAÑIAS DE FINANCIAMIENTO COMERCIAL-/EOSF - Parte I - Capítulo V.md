@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 24 EOSF|Artículo 24]] — OPERACIONES AUTORIZADAS
+- [[art. 24 EOSF|Artículo 24]] — Operaciones Autorizadas
 - [[art. 25 EOSF|Artículo 25]] — Inversiones
 - [[art. 26 EOSF|Artículo 26]] — DISPOSICIONES ESPECIALES RELATIVAS A LAS COMPAÑIAS DE FINANCIAMIENTO COMERCIAL* ESPECIALIZADAS EN LEASING
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "90"
-epigrafe: "INTERVENCIÓN EN INCIDENTES O PARA TRÁMITES ESPECIALES"
+epigrafe: "Intervención en incidentes o para trámites especiales"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Segunda - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 90. INTERVENCIÓN EN INCIDENTES O PARA TRÁMITES ESPECIALES
+## Artículo 90. Intervención en incidentes o para trámites especiales
 
 Cuando la intervención se concrete a un incidente o trámite, el interviniente sólo será parte en ellos.
 

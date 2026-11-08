@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "210"
-epigrafe: "RESPONSABILIDAD CIVIL"
+epigrafe: "Responsabilidad Civil"
 parte: "[[EOSF - Parte VII|PARTE VII - REGIMEN SANCIONATORIO]]"
 capitulo: "[[EOSF - Parte VII - Capítulo II|CAPÍTULO II - RÉGIMEN PERSONAL]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VII|Parte VII]] › [[EOSF - Parte VII - Capítulo II|Capítulo II]]
 
-## Artículo 210. RESPONSABILIDAD CIVIL
+## Artículo 210. Responsabilidad Civil
 
 Todo director, administrador, representante legal, funcionario de una institución vigilada por la Superintendencia Bancaria que viole a sabiendas o permita que se violen las disposiciones legales será personalmente responsable de las pérdidas que cualquier persona natural o jurídica sufra por razón de tales infracciones, sin perjuicio de las demás sanciones civiles o penales que señala la ley y de las medidas que conforme a sus atribuciones pueda imponer la Superintendencia Bancaria.
 

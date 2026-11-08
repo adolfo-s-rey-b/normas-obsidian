@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "398"
-epigrafe: "CANCELACIÓN, REPOSICIÓN Y REIVINDICACIÓN DE TÍTULOS VALORES"
+epigrafe: "Cancelación, reposición y reivindicación de títulos valores"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Primera|SECCIÓN PRIMERA - PROCESOS DECLARATIVOS]]"
 titulo: "[[CGP - Libro Tercero - Sección Primera - Título II|TÍTULO II - PROCESO VERBAL SUMARIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Primera|Sección Primera]] › [[CGP - Libro Tercero - Sección Primera - Título II|Título II]] › [[CGP - Libro Tercero - Sección Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 398. CANCELACIÓN, REPOSICIÓN Y REIVINDICACIÓN DE TÍTULOS VALORES
+## Artículo 398. Cancelación, reposición y reivindicación de títulos valores
 
 Quien haya sufrido el extravío, pérdida, hurto, deterioro o la destrucción total o parcial de un título valor, podrá solicitar la cancelación y, en su caso, la reposición, comunicando al emisor, aceptante o girador la pérdida, hurto, deterioro o destrucción, mediante escrito acompañado de las constancias y pruebas pertinentes y, en su caso, devolviendo el título deteriorado o parcialmente destruido al principal obligado.
 

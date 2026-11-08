@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "47"
-epigrafe: "CRITERIOS PARA DETERMINAR LA GRAVEDAD O LEVEDAD DE LA FALTA DISCIPLINARIA"
+epigrafe: "Criterios para determinar la gravedad o levedad de la falta disciplinaria"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título V|TÍTULO V - FALTAS Y SANCIONES DISCIPLINARIAS]]"
 capitulo: "[[CGD - Libro I - Título V - Capítulo I|CAPÍTULO I - CLASIFICACIÓN Y CONNOTACIÓN DE LAS FALTAS DISCIPLINARIAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título V|Título V]] › [[CGD - Libro I - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 47. CRITERIOS PARA DETERMINAR LA GRAVEDAD O LEVEDAD DE LA FALTA DISCIPLINARIA
+## Artículo 47. Criterios para determinar la gravedad o levedad de la falta disciplinaria
 
 Las faltas gravísimas están taxativamente señaladas en la ley. Se determinará si la falta es grave o leve de conformidad con los siguientes criterios:
 

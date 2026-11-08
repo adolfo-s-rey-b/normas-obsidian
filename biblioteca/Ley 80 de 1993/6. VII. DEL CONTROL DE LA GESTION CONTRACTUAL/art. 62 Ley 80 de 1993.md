@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "62"
-epigrafe: "DE LA INTERVENCIÓN DEL MINISTERIO PÚBLICO"
+epigrafe: "De la Intervención del Ministerio Publico"
 rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 61 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
 
-## Artículo 62. DE LA INTERVENCIÓN DEL MINISTERIO PÚBLICO
+## Artículo 62. De la Intervención del Ministerio Publico
 
 La Procuraduría General de la Nación y los demás agentes del ministerio público, de oficio o a petición de cualquier persona, adelantarán las investigaciones sobre la observancia de los principios y fines de la contratación estatal y promoverán las acciones pertinentes tendientes a obtener las sanciones pecuniarias y disciplinarias para quienes quebranten tal normatividad.
 

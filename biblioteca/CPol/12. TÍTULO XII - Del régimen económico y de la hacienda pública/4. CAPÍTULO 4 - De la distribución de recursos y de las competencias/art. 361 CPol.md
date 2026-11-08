@@ -13,7 +13,7 @@ sigla: "CPol"
 articulo: "361"
 titulo: "[[CPol - Título XII|TÍTULO XII - Del régimen económico y de la hacienda pública]]"
 capitulo: "[[CPol - Título XII - Capítulo 4|CAPÍTULO 4 - De la distribución de recursos y de las competencias]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 1 Acto Legislativo 5 de 2019]]"
   - "[[art. 1 Acto Legislativo 4 de 2017]]"
@@ -22,15 +22,8 @@ modificado_por:
   - "[[art. 2 Acto Legislativo 5 de 2011]]"
 derogado_por:
   - "[[art. 1 Acto Legislativo 5 de 2019]]"
-  - "[[art. 106 CPol]]"
-  - "[[art. 126 CPol]]"
-  - "[[art. 128 CPol]]"
-  - "[[art. 199 CPol]]"
-  - "[[art. 200 CPol]]"
   - "[[art. 2 Decreto 1534 de 2017]]"
   - "[[art. 5 Decreto 1534 de 2017]]"
-  - "[[art. 4 CPol]]"
-  - "[[art. 5 CPol]]"
 anterior: "[[art. 360 CPol]]"
 siguiente: "[[art. 362 CPol]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991.html"
@@ -43,7 +36,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpol
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPol|CPol]] › [[CPol - Título XII|Título XII]] › [[CPol - Título XII - Capítulo 4|Capítulo 4]]
@@ -140,7 +133,7 @@ Para cumplir con lo dispuesto en el presente parágrafo transitorio, el Gobierno
 
 > [!note] Concordancias: Decreto Ley 416 de 2018
 
-> [!warning] Notas del Editor: Destaca es editor que según lo ordena el parágrafo 2 transitorio del artículo [[art. 1 Acto Legislativo 5 de 2019|1]] del Acto Legislativo 5 de 2019, '[h]asta tanto se promulgue la ley, seguirá vigente el régimen de regalías contemplado en los Actos Legislativos 05 de 2011 y 04 de 2017 y las normas que lo desarrollen'. El Congreso de la República expidió la Ley 2056 de 2020, 'por la cual se regula la organización y el funcionamiento del Sistema General de Regalías', publicada en el Diario Oficial No. 51.453 de 30 de septiembre de 2020. Sin embargo no toda la ley rige a partir de su promulgación; Sobre su entrada en vigencia, establece la misma en su artículo 211 : 'ARTÍCULO 211 . VIGENCIA Y DEROGATORIAS. La presente ley rige a partir del 1 de enero de 2021 y deroga todas las disposiciones que le sean contrarias, en especial la Ley 1530 de 2012, con excepción de los artículos del [[art. 106 CPol|106]] al [[art. 126 CPol|126]] y [[art. 128 CPol|128]] para efectos de la transitoriedad de los procedimientos administrativos a que se refieren los artículos [[art. 199 CPol|199]] y [[art. 200 CPol|200]] de la presente ley y los artículos [[art. 2 Decreto 1534 de 2017|2]]o y [[art. 5 Decreto 1534 de 2017|5]]o del Decreto Ley 1534 de 2017. PARÁGRAFO. Los artículos [[art. 4 CPol|4]]o , [[art. 5 CPol|5]]o , literal A del 7o , 8o , 9o , 12 , 22 , 23 , 25 , 26 , 27 , 40 , 44 , 45 , 48 , 49 , 50 , 51 , 52 , 53 , 60 , 61 , 62 , 67 , 73 , 88 , 102 , 111 , 113 , 122 , 139 , 141 , 142 , 143 , 145 , 146 , 151 , 152 , 157 , 167 , 182 , 183 , 194 , 195 , 197 , parágrafo 4 del 206 , 207 , 208 , entrarán en vigencia a partir de la promulgación de la presente ley.'.
+> [!warning] Notas del Editor: Destaca es editor que según lo ordena el parágrafo 2 transitorio del artículo [[art. 1 Acto Legislativo 5 de 2019|1]] del Acto Legislativo 5 de 2019, '[h]asta tanto se promulgue la ley, seguirá vigente el régimen de regalías contemplado en los Actos Legislativos 05 de 2011 y 04 de 2017 y las normas que lo desarrollen'. El Congreso de la República expidió la Ley 2056 de 2020, 'por la cual se regula la organización y el funcionamiento del Sistema General de Regalías', publicada en el Diario Oficial No. 51.453 de 30 de septiembre de 2020. Sin embargo no toda la ley rige a partir de su promulgación; Sobre su entrada en vigencia, establece la misma en su artículo 211 : 'ARTÍCULO 211 . VIGENCIA Y DEROGATORIAS. La presente ley rige a partir del 1 de enero de 2021 y deroga todas las disposiciones que le sean contrarias, en especial la Ley 1530 de 2012, con excepción de los artículos del 106 al 126 y 128 para efectos de la transitoriedad de los procedimientos administrativos a que se refieren los artículos 199 y 200 de la presente ley y los artículos [[art. 2 Decreto 1534 de 2017|2]]o y [[art. 5 Decreto 1534 de 2017|5]]o del Decreto Ley 1534 de 2017. PARÁGRAFO. Los artículos 4o , 5o , literal A del 7o , 8o , 9o , 12 , 22 , 23 , 25 , 26 , 27 , 40 , 44 , 45 , 48 , 49 , 50 , 51 , 52 , 53 , 60 , 61 , 62 , 67 , 73 , 88 , 102 , 111 , 113 , 122 , 139 , 141 , 142 , 143 , 145 , 146 , 151 , 152 , 157 , 167 , 182 , 183 , 194 , 195 , 197 , parágrafo 4 del 206 , 207 , 208 , entrarán en vigencia a partir de la promulgación de la presente ley.'.
 
 (subraya el editor)
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "39"
-epigrafe: "EXCLUSIÓN DE ACCIONISTAS"
+epigrafe: "Exclusión de accionistas"
 capitulo: "[[Ley 1258 de 2008 - Capítulo VI (2)|CAPÍTULO VI - <sic; es VII>]]"
 rubro: "[[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|DISPOSICIONES FINALES]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo VI (2)|Capítulo VI]] › [[Ley 1258 de 2008 - Capítulo VI - Disposiciones finales|Disposiciones finales]]
 
-## Artículo 39. EXCLUSIÓN DE ACCIONISTAS
+## Artículo 39. Exclusión de accionistas
 
 Los estatutos podrán prever causales de exclusión de accionistas, en cuyo caso deberá cumplirse el procedimiento de reembolso previsto en los artículos [[art. 14 Ley 222 de 1995|14]] a [[art. 16 Ley 222 de 1995|16]] de la Ley 222 de 1995.
 

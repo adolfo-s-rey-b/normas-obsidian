@@ -22,7 +22,7 @@ tags:
 
 - [[art. 2 ET|Artículo 2]] — CONTRIBUYENTES
 - [[art. 3 ET|Artículo 3]] — RESPONSABLES
-- [[art. 4 ET|Artículo 4]] — SINONIMOS
+- [[art. 4 ET|Artículo 4]] — SINÓNIMOS
 
 ---
 ↑ [[ET - Título Preliminar|Título Preliminar]]

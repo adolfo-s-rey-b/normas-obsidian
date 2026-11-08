@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "98"
-epigrafe: "ALLANAMIENTO A LA DEMANDA"
+epigrafe: "Allanamiento a la demanda"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Primera|SECCIÓN PRIMERA - OBJETO DEL PROCESO]]"
 titulo: "[[CGP - Libro Segundo - Sección Primera - Título Único|TÍTULO ÚNICO - DEMANDA Y CONTESTACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Primera|Sección Primera]] › [[CGP - Libro Segundo - Sección Primera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Primera - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 98. ALLANAMIENTO A LA DEMANDA
+## Artículo 98. Allanamiento a la demanda
 
 En la contestación o en cualquier momento anterior a la sentencia de primera instancia el demandado podrá allanarse expresamente a las pretensiones de la demanda reconociendo sus fundamentos de hecho, caso en el cual se procederá a dictar sentencia de conformidad con lo pedido. Sin embargo, el juez podrá rechazar el allanamiento y decretar pruebas de oficio cuando advierta fraude, colusión o cualquier otra situación similar.
 

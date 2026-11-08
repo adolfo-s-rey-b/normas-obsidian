@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "181"
-epigrafe: "DECLARACIÓN CON INTÉRPRETE"
+epigrafe: "Declaración con intérprete"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 181. DECLARACIÓN CON INTÉRPRETE
+## Artículo 181. Declaración con intérprete
 
 Siempre que deba recibirse declaración a un sordo o mudo que se dé a entender por signos o alguna persona que no entienda el castellano o no se exprese en este idioma, se designará por el juez un intérprete, quien deberá tomar posesión del cargo.
 

@@ -11,7 +11,7 @@ articulo: "2347"
 epigrafe: "RESPONSABILIDAD POR EL HECHO PROPIO Y DE LAS PERSONAS A CARGO"
 libro: "[[CC - Libro Cuarto|LIBRO CUARTO - DE LAS OBLIGACIONES EN GENERAL Y DE LOS CONTRATOS]]"
 titulo: "[[CC - Libro Cuarto - Título XXXIV|TÍTULO XXXIV - RESPONSABILIDAD COMUN POR LOS DELITOS Y LAS CULPAS]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 65 Decreto 2820 de 1974]]"
 derogado_por:
@@ -25,7 +25,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Cuarto|Libro Cuarto]] › [[CC - Libro Cuarto - Título XXXIV|Título XXXIV]]

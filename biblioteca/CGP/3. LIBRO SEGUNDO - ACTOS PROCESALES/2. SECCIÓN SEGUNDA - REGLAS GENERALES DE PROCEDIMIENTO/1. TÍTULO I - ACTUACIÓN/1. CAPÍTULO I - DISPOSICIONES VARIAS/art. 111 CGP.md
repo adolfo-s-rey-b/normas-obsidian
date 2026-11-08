@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "111"
-epigrafe: "COMUNICACIONES"
+epigrafe: "Comunicaciones"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Segunda|SECCIÓN SEGUNDA - REGLAS GENERALES DE PROCEDIMIENTO]]"
 titulo: "[[CGP - Libro Segundo - Sección Segunda - Título I|TÍTULO I - ACTUACIÓN]]"
@@ -31,7 +31,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Segunda|Sección Segunda]] › [[CGP - Libro Segundo - Sección Segunda - Título I|Título I]] › [[CGP - Libro Segundo - Sección Segunda - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 111. COMUNICACIONES
+## Artículo 111. Comunicaciones
 
 Los tribunales y jueces deberán entenderse entre sí, con las autoridades y con los particulares, por medio de despachos y oficios que se enviarán por el medio más rápido y con las debidas seguridades. Los oficios y despachos serán firmados únicamente por el secretario. Las comunicaciones de que trata este artículo podrán remitirse a través de mensajes de datos.
 

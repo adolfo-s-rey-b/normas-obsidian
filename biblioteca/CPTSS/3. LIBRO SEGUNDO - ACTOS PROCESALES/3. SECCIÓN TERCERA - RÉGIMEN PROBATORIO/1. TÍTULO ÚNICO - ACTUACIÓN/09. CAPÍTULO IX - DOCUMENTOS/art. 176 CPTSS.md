@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "176"
-epigrafe: "APORTACIÓN, INDIVISIBILIDAD Y ALCANCE PROBATORIO DE LOS DOCUMENTOS"
+epigrafe: "Aportación, indivisibilidad y alcance probatorio de los documentos"
 libro: "[[CPTSS - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CPTSS - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - ACTUACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Segundo|Libro Segundo]] › [[CPTSS - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CPTSS - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 176. APORTACIÓN, INDIVISIBILIDAD Y ALCANCE PROBATORIO DE LOS DOCUMENTOS
+## Artículo 176. Aportación, indivisibilidad y alcance probatorio de los documentos
 
 Los documentos se aportarán al proceso en original o en copia.
 

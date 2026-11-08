@@ -20,8 +20,8 @@ tags:
 
 ### Contenido
 
-- [[art. 27 Ley 489 de 1998|Artículo 27]] — CREACION
-- [[art. 28 Ley 489 de 1998|Artículo 28]] — OBJETO
+- [[art. 27 Ley 489 de 1998|Artículo 27]] — Creación
+- [[art. 28 Ley 489 de 1998|Artículo 28]] — Objeto
 - [[art. 29 Ley 489 de 1998|Artículo 29]] — DIRECCION Y COORDINACION
 
 ---

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "38"
-epigrafe: "DEL RÉGIMEN ESPECIAL PARA LAS ENTIDADES ESTATALES QUE PRESTAN EL SERVICIO DE TELECOMUNICACIONES"
+epigrafe: "Del Régimen Especial para las Entidades Estatales que Prestan el Servicio de Telecomunicaciones"
 rubro: "[[Ley 80 de 1993 - Iii. del contrato estatal|III. DEL CONTRATO ESTATAL]]"
 vigencia: "derogado"
 derogado_por:
@@ -26,7 +26,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Iii. del contrato estatal|Iii. del contrato estatal]]
 
-## Artículo 38. DEL RÉGIMEN ESPECIAL PARA LAS ENTIDADES ESTATALES QUE PRESTAN EL SERVICIO DE TELECOMUNICACIONES
+## Artículo 38. Del Régimen Especial para las Entidades Estatales que Prestan el Servicio de Telecomunicaciones
 
 Las entidades estatales que tengan por objeto la prestación de servicios y actividades de telecomunicaciones, en los contratos que celebren para la adquisición y suministro de equipos, construcción, instalación y mantenimiento de redes y de los sitios donde se ubiquen, no estarán sujetos a los procedimientos de selección previstos en esta ley.
 

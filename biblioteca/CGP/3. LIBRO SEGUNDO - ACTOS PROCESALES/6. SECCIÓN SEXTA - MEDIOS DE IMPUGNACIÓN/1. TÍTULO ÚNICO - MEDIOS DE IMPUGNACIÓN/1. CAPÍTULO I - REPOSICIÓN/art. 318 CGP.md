@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "318"
-epigrafe: "PROCEDENCIA Y OPORTUNIDADES"
+epigrafe: "Procedencia y oportunidades"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo I|Capítulo I]]
 
-## Artículo 318. PROCEDENCIA Y OPORTUNIDADES
+## Artículo 318. Procedencia y oportunidades
 
 Salvo norma en contrario, el recurso de reposición procede contra los autos que dicte el juez, contra los del magistrado sustanciador no susceptibles de súplica y contra los de la Sala de Casación Civil de la Corte Suprema de Justicia, para que se reformen o revoquen.
 

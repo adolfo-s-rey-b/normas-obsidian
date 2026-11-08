@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "336"
-epigrafe: "CAJA DE PREVISION SOCIAL DE LA SUPERINTENDENCIA BANCARIA"
+epigrafe: "Caja de Previsión Social de la Superintendencia Bancaria"
 parte: "[[EOSF - Parte XIII|PARTE XIII - AUTORIDADES DE INTERVENCION Y VIGILANCIA]]"
 capitulo: "[[EOSF - Parte XIII - Capítulo II|CAPÍTULO II - SUPERINTENDENCIA BANCARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte XIII|Parte XIII]] › [[EOSF - Parte XIII - Capítulo II|Capítulo II]]
 
-## Artículo 336. CAJA DE PREVISION SOCIAL DE LA SUPERINTENDENCIA BANCARIA
+## Artículo 336. Caja de Previsión Social de la Superintendencia Bancaria
 
 1\. Naturaleza jurídica. La Caja de Previsión Social de la Superintendencia Bancaria "CAPRESUB" es un establecimiento público del orden nacional, dotado de personería jurídica, autonomía administrativa y patrimonio independiente, adscrito al Ministerio de Hacienda y Crédito Público.
 

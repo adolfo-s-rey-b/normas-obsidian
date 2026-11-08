@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "462"
-epigrafe: "CITACIÓN DE ACREEDORES CON GARANTÍA REAL"
+epigrafe: "Citación de acreedores con garantía real"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESO EJECUTIVO]]"
 titulo: "[[CGP - Libro Tercero - Sección Segunda - Título Único|TÍTULO ÚNICO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CGP - Libro Tercero - Sección Segunda - Título Único|Título Único]] › [[CGP - Libro Tercero - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]]
 
-## Artículo 462. CITACIÓN DE ACREEDORES CON GARANTÍA REAL
+## Artículo 462. Citación de acreedores con garantía real
 
 Si del certificado de la oficina de registro correspondiente aparece que sobre los bienes embargados existen garantías prendarias* o hipotecarias, el juez ordenará notificar a los respectivos acreedores, cuyos créditos se harán exigibles si no lo fueren, para que los hagan valer ante el mismo juez, bien sea en proceso separado o en el que se les cita, dentro de los veinte (20) días siguientes a su notificación personal. Si dentro del proceso en que se hace la citación alguno de los acreedores formula demanda que sea de competencia de un juez de superior categoría, se le remitirá el expediente para que continúe el trámite del proceso.
 

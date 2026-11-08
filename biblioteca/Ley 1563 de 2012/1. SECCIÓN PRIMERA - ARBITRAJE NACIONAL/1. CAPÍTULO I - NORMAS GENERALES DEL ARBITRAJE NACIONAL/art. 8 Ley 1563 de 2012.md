@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "8"
-epigrafe: "DESIGNACIÓN DE LOS ÁRBITROS"
+epigrafe: "Designación de los árbitros"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo I|CAPÍTULO I - NORMAS GENERALES DEL ARBITRAJE NACIONAL]]"
 vigencia: "vigente"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo I|Capítulo I]]
 
-## Artículo 8. DESIGNACIÓN DE LOS ÁRBITROS
+## Artículo 8. Designación de los árbitros
 
 Las partes nombrarán conjuntamente los árbitros, o delegarán tal labor en un centro de arbitraje o un tercero, total o parcialmente. La designación a cargo de los centros de arbitraje se realizará siempre mediante sorteo, dentro de la especialidad jurídica relativa a la respectiva controversia y asegurando una distribución equitativa entre los árbitros de la lista.
 

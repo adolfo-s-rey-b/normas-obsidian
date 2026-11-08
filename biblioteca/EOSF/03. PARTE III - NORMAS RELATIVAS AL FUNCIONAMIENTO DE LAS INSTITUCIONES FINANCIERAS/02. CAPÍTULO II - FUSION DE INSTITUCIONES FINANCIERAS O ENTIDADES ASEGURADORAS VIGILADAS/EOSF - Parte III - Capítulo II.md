@@ -22,14 +22,14 @@ tags:
 
 ### Contenido
 
-- [[art. 55 EOSF|Artículo 55]] — ASPECTOS GENERALES DE LA FUSION
-- [[art. 56 EOSF|Artículo 56]] — AVISO A LA SUPERINTENDENCIA BANCARIA
-- [[art. 57 EOSF|Artículo 57]] — AVISO A LOS ACCIONISTAS O APORTANTES
-- [[art. 58 EOSF|Artículo 58]] — FACULTAD DE OBJECION
-- [[art. 59 EOSF|Artículo 59]] — PROCEDENCIA DEL AVISO DE APROBACION DEL COMPROMISO
-- [[art. 60 EOSF|Artículo 60]] — PROCEDIMIENTO DE FORMALIZACION Y EFECTOS DE LA FUSION
-- [[art. 61 EOSF|Artículo 61]] — FUSION DE ENTIDADES DE PROPIEDAD GUBERNAMENTAL
-- [[art. 62 EOSF|Artículo 62]] — DERECHOS DE LOS ACCIONISTAS MINORITARIOS
+- [[art. 55 EOSF|Artículo 55]] — Aspectos Generales de la Fusión
+- [[art. 56 EOSF|Artículo 56]] — Aviso a la Superintendencia Bancaria
+- [[art. 57 EOSF|Artículo 57]] — Aviso a los Accionistas o Aportantes
+- [[art. 58 EOSF|Artículo 58]] — Facultad de Objeción
+- [[art. 59 EOSF|Artículo 59]] — Procedencia del Aviso de Aprobación del Compromiso
+- [[art. 60 EOSF|Artículo 60]] — Procedimiento de Formalización y Efectos de la Fusión
+- [[art. 61 EOSF|Artículo 61]] — Fusión de Entidades de Propiedad Gubernamental
+- [[art. 62 EOSF|Artículo 62]] — Derechos de los Accionistas Minoritarios
 
 ---
 ← [[EOSF - Parte III - Capítulo I|Capítulo I]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo III|Capítulo III]] →

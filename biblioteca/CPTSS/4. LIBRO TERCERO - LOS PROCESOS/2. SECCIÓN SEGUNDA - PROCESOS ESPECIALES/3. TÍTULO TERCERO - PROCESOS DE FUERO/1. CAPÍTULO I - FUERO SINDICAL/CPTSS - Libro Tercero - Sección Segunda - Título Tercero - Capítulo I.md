@@ -24,14 +24,14 @@ tags:
 
 ### Contenido
 
-- [[art. 292 CPTSS|Artículo 292]] — DEMANDA DEL EMPLEADOR
-- [[art. 293 CPTSS|Artículo 293]] — DEMANDA DEL TRABAJADOR
-- [[art. 294 CPTSS|Artículo 294]] — TRASLADO Y AUDIENCIAS
-- [[art. 295 CPTSS|Artículo 295]] — INASISTENCIA DE LAS PARTES
-- [[art. 296 CPTSS|Artículo 296]] — CONTENIDO DE LA SENTENCIA
-- [[art. 297 CPTSS|Artículo 297]] — APELACIÓN
-- [[art. 298 CPTSS|Artículo 298]] — PRESCRIPCIÓN
-- [[art. 299 CPTSS|Artículo 299]] — PARTE SINDICAL
+- [[art. 292 CPTSS|Artículo 292]] — Demanda del empleador
+- [[art. 293 CPTSS|Artículo 293]] — Demanda del trabajador
+- [[art. 294 CPTSS|Artículo 294]] — Traslado y audiencias
+- [[art. 295 CPTSS|Artículo 295]] — Inasistencia de las partes
+- [[art. 296 CPTSS|Artículo 296]] — Contenido de la sentencia
+- [[art. 297 CPTSS|Artículo 297]] — Apelación
+- [[art. 298 CPTSS|Artículo 298]] — Prescripción
+- [[art. 299 CPTSS|Artículo 299]] — Parte sindical
 
 ---
 ↑ [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero|Título Tercero]] · [[CPTSS - Libro Tercero - Sección Segunda - Título Tercero - Capítulo II|Capítulo II]] →

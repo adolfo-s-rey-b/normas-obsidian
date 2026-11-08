@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "37"
-epigrafe: "DESIGNACIÓN"
+epigrafe: "Designación"
 libro: "[[CPTSS - Libro Primero|LIBRO PRIMERO - SUJETOS PROCESALES]]"
 seccion: "[[CPTSS - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y AUXILIARES DE JUSTICIA]]"
 titulo: "[[CPTSS - Libro Primero - Sección Primera - Título Cuarto|TÍTULO CUARTO - AUXILIARES DE LA JUSTICIA]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Primero|Libro Primero]] › [[CPTSS - Libro Primero - Sección Primera|Sección Primera]] › [[CPTSS - Libro Primero - Sección Primera - Título Cuarto|Título Cuarto]]
 
-## Artículo 37. DESIGNACIÓN
+## Artículo 37. Designación
 
 Para la reglamentación de la actividad de los auxiliares de la justicia se estará a lo reglamentado por el Consejo Superior de la Judicatura.
 

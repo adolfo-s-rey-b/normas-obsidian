@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "30"
-epigrafe: "PARTICIPES"
+epigrafe: "Participes"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título III|TÍTULO III]]"
 capitulo: "[[CP - Libro Primero - Título III - Capítulo Unico|CAPÍTULO UNICO - DE LA CONDUCTA PUNIBLE]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título III|Título III]] › [[CP - Libro Primero - Título III - Capítulo Unico|Capítulo Unico]]
 
-## Artículo 30. PARTICIPES
+## Artículo 30. Participes
 
 Son partícipes el determinador y el cómplice.
 

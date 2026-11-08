@@ -12,7 +12,7 @@ epigrafe: "PRINCIPIO DE INDIVISIBILIDAD"
 libro: "[[CCo - Libro Primero|LIBRO PRIMERO - DE LOS COMERCIANTES Y DE LOS ASUNTOS DE COMERCIO]]"
 titulo: "[[CCo - Libro Primero - Título IV|TÍTULO IV - DE LOS LIBROS DE COMERCIO]]"
 capitulo: "[[CCo - Libro Primero - Título IV - Capítulo III|CAPÍTULO III - EFICACIA PROBATORIA DE LOS LIBROS Y PAPELES DE COMERCIO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
 anterior: "[[art. 71 CCo]]"
@@ -26,7 +26,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cco
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CCo|CCo]] › [[CCo - Libro Primero|Libro Primero]] › [[CCo - Libro Primero - Título IV|Título IV]] › [[CCo - Libro Primero - Título IV - Capítulo III|Capítulo III]]

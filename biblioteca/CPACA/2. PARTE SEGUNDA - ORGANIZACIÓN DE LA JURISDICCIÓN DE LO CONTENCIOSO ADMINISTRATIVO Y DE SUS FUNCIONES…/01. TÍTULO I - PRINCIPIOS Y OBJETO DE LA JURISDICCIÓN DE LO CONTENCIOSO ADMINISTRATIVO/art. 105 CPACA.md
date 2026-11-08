@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "105"
-epigrafe: "EXCEPCIONES"
+epigrafe: "Excepciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título I|TÍTULO I - PRINCIPIOS Y OBJETO DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título I|Título I]]
 
-## Artículo 105. EXCEPCIONES
+## Artículo 105. Excepciones
 
 La Jurisdicción de lo Contencioso Administrativo no conocerá de los siguientes asuntos:
 

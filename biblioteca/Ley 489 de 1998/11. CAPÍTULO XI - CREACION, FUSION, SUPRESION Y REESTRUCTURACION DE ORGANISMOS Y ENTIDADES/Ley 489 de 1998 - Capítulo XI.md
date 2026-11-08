@@ -20,12 +20,12 @@ tags:
 
 ### Contenido
 
-- [[art. 49 Ley 489 de 1998|Artículo 49]] — CREACION DE ORGANISMOS Y ENTIDADES ADMINISTRATIVAS
-- [[art. 50 Ley 489 de 1998|Artículo 50]] — CONTENIDO DE LOS ACTOS DE CREACION
+- [[art. 49 Ley 489 de 1998|Artículo 49]] — Creación de organismos y entidades administrativas
+- [[art. 50 Ley 489 de 1998|Artículo 50]] — Contenido de los actos de creación
 - [[art. 51 Ley 489 de 1998|Artículo 51]] — Modalidades de la fusión de entidades u organismos nacionales que decrete el Gobierno. , decía así
-- [[art. 52 Ley 489 de 1998|Artículo 52]] — DE LA SUPRESION, DISOLUCION Y LIQUIDACION DE ENTIDADES U ORGANISMOS ADMINISTRATIVOS NACIONALES
+- [[art. 52 Ley 489 de 1998|Artículo 52]] — De la supresión, disolución y liquidación de entidades u organismos administrativos nacionales
 - [[art. 53 Ley 489 de 1998|Artículo 53]] — Escisión de empresas industriales y comerciales del Estado y de sociedades de economía mixta. , decía así
-- [[art. 54 Ley 489 de 1998|Artículo 54]] — PRINCIPIOS Y REGLAS GENERALES CON SUJECION A LAS CUALES EL GOBIERNO NACIONAL PUEDE MODIFICAR LA ESTRUCTURA DE LOS MINISTERIOS, DEPARTAMENTOS ADMINISTRATIVOS Y DEMAS ORGANISMOS ADMINISTRATIVOS DEL ORDEN NACIONAL
+- [[art. 54 Ley 489 de 1998|Artículo 54]] — Principios y reglas generales con sujeción a las cuales el Gobierno Nacional puede modificar la estructura de los ministerios, departamentos administrativos y demás organismos administrativos del orden nacional
 - [[art. 55 Ley 489 de 1998|Artículo 55]] — Comisión de seguimiento. , decía así
 
 ---

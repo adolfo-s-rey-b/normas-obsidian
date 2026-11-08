@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 124 CPACA|Artículo 124]] — RÉGIMEN
+- [[art. 124 CPACA|Artículo 124]] — Régimen
 
 ---
 ← [[CPACA - Parte Segunda - Título II - Capítulo III|Capítulo III]] · ↑ [[CPACA - Parte Segunda - Título II|Título II]] · [[CPACA - Parte Segunda - Título II - Capítulo V|Capítulo V]] →

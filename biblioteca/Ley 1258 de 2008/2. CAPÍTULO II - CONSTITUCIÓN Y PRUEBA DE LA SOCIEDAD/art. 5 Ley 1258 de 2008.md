@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1258 de 2008"
 articulo: "5"
-epigrafe: "CONTENIDO DEL DOCUMENTO DE CONSTITUCIÓN"
+epigrafe: "Contenido del documento de constitución"
 capitulo: "[[Ley 1258 de 2008 - Capítulo II|CAPÍTULO II - CONSTITUCIÓN Y PRUEBA DE LA SOCIEDAD]]"
 vigencia: "vigente"
 anterior: "[[art. 4 Ley 1258 de 2008]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1258 de 2008|Ley 1258 de 2008]] › [[Ley 1258 de 2008 - Capítulo II|Capítulo II]]
 
-## Artículo 5. CONTENIDO DEL DOCUMENTO DE CONSTITUCIÓN
+## Artículo 5. Contenido del documento de constitución
 
 La sociedad por acciones simplificada se creará mediante contrato o acto unilateral que conste en documento privado, inscrito en el Registro Mercantil de la Cámara de Comercio del lugar en que la sociedad establezca su domicilio principal, en el cual se expresará cuando menos lo siguiente:
 

@@ -4,11 +4,11 @@ aliases:
 tipo: articulo
 norma: "Ley 222 de 1995"
 articulo: "102"
-epigrafe: "INTERRUPCION DEL TERMINO DE PRESCRIPCION E INOPERANCIA DE LA CADUCIDAD"
+epigrafe: "INTERRUPCION DEL TÉRMINO DE PRESCRIPCION E INOPERANCIA DE LA CADUCIDAD"
 titulo: "[[Ley 222 de 1995 - Título II|TÍTULO II - REGIMEN DE PROCESOS CONCURSALES]]"
 capitulo: "[[Ley 222 de 1995 - Título II - Capítulo II|CAPÍTULO II - DEL CONCORDATO]]"
 seccion: "[[Ley 222 de 1995 - Título II - Capítulo II - Sección III|SECCIÓN III - EFECTOS DE LA APERTURA DEL CONCORDATO]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 126 Ley 1116 de 2006]]"
 anterior: "[[art. 101 Ley 222 de 1995]]"
@@ -23,12 +23,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_222_de_1995
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 222 de 1995|Ley 222 de 1995]] › [[Ley 222 de 1995 - Título II|Título II]] › [[Ley 222 de 1995 - Título II - Capítulo II|Capítulo II]] › [[Ley 222 de 1995 - Título II - Capítulo II - Sección III|Sección III]]
 
-## Artículo 102. INTERRUPCION DEL TERMINO DE PRESCRIPCION E INOPERANCIA DE LA CADUCIDAD
+## Artículo 102. INTERRUPCION DEL TÉRMINO DE PRESCRIPCION E INOPERANCIA DE LA CADUCIDAD
 
 Desde la apertura del concordato y hasta la terminación del mismo o la declaratoria de cumplimiento o incumplimiento del acuerdo concordatario, se interrumpe el término de prescripción y no operará la caducidad de las acciones respecto de los créditos que contra el deudor se hubieren perfeccionado o hechos exigibles antes de la iniciación del concordato.
 

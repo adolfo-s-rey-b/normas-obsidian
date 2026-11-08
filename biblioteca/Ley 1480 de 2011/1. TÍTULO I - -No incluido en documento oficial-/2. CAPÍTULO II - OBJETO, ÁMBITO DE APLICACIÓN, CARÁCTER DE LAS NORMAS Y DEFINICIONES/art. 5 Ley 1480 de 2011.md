@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "5"
-epigrafe: "DEFINICIONES"
+epigrafe: "Definiciones"
 titulo: "[[Ley 1480 de 2011 - Título I|TÍTULO I - <No incluido en documento oficial>]]"
 capitulo: "[[Ley 1480 de 2011 - Título I - Capítulo II|CAPÍTULO II - OBJETO, ÁMBITO DE APLICACIÓN, CARÁCTER DE LAS NORMAS Y DEFINICIONES]]"
 vigencia: "modificado"
@@ -27,7 +27,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título I|Título I]] › [[Ley 1480 de 2011 - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 5. DEFINICIONES
+## Artículo 5. Definiciones
 
 Para los efectos de la presente ley, se entiende por:
 

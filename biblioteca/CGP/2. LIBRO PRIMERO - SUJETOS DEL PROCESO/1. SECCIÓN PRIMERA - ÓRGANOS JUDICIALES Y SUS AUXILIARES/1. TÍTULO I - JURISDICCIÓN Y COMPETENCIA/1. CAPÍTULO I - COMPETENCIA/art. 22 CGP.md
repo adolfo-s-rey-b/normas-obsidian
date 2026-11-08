@@ -8,15 +8,14 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "22"
-epigrafe: "COMPETENCIA DE LOS JUECES DE FAMILIA EN PRIMERA INSTANCIA"
+epigrafe: "Competencia de los jueces de familia en primera instancia"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
 capitulo: "[[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|CAPÍTULO I - COMPETENCIA]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 35 Ley 1996 de 2019]]"
-  - "[[art. 52 CGP]]"
 derogado_por:
   - "[[art. 61 Ley 1996 de 2019]]"
   - "[[art. 40 Ley 2524 de 2025]]"
@@ -32,12 +31,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cgp
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 22. COMPETENCIA DE LOS JUECES DE FAMILIA EN PRIMERA INSTANCIA
+## Artículo 22. Competencia de los jueces de familia en primera instancia
 
 Los jueces de familia conocen, en primera instancia, de los siguientes asuntos:
 
@@ -49,13 +48,13 @@ Los jueces de familia conocen, en primera instancia, de los siguientes asuntos:
 
 4\. De la pérdida, suspensión y rehabilitación de la patria potestad y de la administración de los bienes de los hijos.
 
-5.
+5\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019
 
 > [!warning] Notas de Vigencia: Numeral derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019, 'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019.
 
-6.
+6\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 61 Ley 1996 de 2019|61]] de la Ley 1996 de 2019
 
@@ -73,7 +72,7 @@ ARTÍCULO 55 . PROCESOS DE INTERDICCIÓN O INHABILITACIÓN EN CURSO. Aquellos pr
 
 (subraya el editor)
 
-> [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 35 Ley 1996 de 2019|35]] de la Ley 1996 de 2019, 'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019. Según lo dispuesto en el artículo [[art. 52 CGP|52]] , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
+> [!info] Notas de Vigencia: Numeral modificado por el artículo [[art. 35 Ley 1996 de 2019|35]] de la Ley 1996 de 2019, 'por medio de la cual se establece el régimen para el ejercicio de la capacidad legal de las personas con discapacidad mayores de edad', publicada en el Diario Oficial No. 51.057 de 26 de agosto 2019. Según lo dispuesto en el artículo 52 , este artículo entrará en vigencia veinticuatro (24) meses después de la promulgación de la presente ley, es decir a partir del 26 de agosto de 2021.
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional declaró estarse a lo resuelto en la Sentencia C-022-21 , mediante Sentencia C-118-21 de 29 de marzo de 2021, Magistrada Ponente Dra. Gloria Stella Ortiz Delgado. - Ley 1996 de 2019 declarada EXEQUIBLE, por el cargo de reserva de ley estatutaria sobre la integralidad de la Ley, por la Corte Constitucional mediante Sentencia C-022-21 de 4 de febrero de 2021, Magistrada Ponente Dra. Cristina Pardo Schlesinger.
 
@@ -107,7 +106,7 @@ ARTÍCULO 55 . PROCESOS DE INTERDICCIÓN O INHABILITACIÓN EN CURSO. Aquellos pr
 
 22\. De la sanción prevista en el artículo [[art. 1824 CC|1824]] del Código Civil.
 
-23.
+23\. *(texto no vigente)*
 
 > [!warning] Numeral derogado por el artículo [[art. 40 Ley 2524 de 2025|40]] de la Ley 2524 de 2025
 

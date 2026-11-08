@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "256"
-epigrafe: "VIGILANCIA Y CONTROL"
+epigrafe: "Vigilancia y Control"
 parte: "[[EOSF - Parte X|PARTE X - ENTIDADES CON REGIMENES ESPECIALES]]"
 capitulo: "[[EOSF - Parte X - Capítulo V|CAPÍTULO V - INSTITUTO DE FOMENTO INDUSTRIAL IFI]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte X|Parte X]] › [[EOSF - Parte X - Capítulo V|Capítulo V]]
 
-## Artículo 256. VIGILANCIA Y CONTROL
+## Artículo 256. Vigilancia y Control
 
 El Instituto de Fomento Industrial, IFI, está sometido a la inspección y vigilancia de la Superintendencia Bancaria.
 

@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 472 de 1998"
 articulo: "20"
-epigrafe: "ADMISION DE LA DEMANDA"
+epigrafe: "Admisión de la Demanda"
 titulo: "[[Ley 472 de 1998 - Título II|TÍTULO II - DE LAS ACCIONES POPULARES]]"
 capitulo: "[[Ley 472 de 1998 - Título II - Capítulo V|CAPÍTULO V - ADMISION, NOTIFICACION Y TRASLADO]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 472 de 1998|Ley 472 de 1998]] › [[Ley 472 de 1998 - Título II|Título II]] › [[Ley 472 de 1998 - Título II - Capítulo V|Capítulo V]]
 
-## Artículo 20. ADMISION DE LA DEMANDA
+## Artículo 20. Admisión de la Demanda
 
 Dentro de los tres (3) días hábiles siguientes a la presentación de la demanda o petición inicial, el juez competente se pronunciará sobre su admisión.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "25"
-epigrafe: "RECHAZO DE LAS PETICIONES DE INFORMACIÓN POR MOTIVO DE RESERVA"
+epigrafe: "Rechazo de las peticiones de información por motivo de reserva"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título II|TÍTULO II - DERECHO DE PETICIÓN]]"
 capitulo: "[[CPACA - Parte Primera - Título II - Capítulo II|CAPÍTULO II - DERECHO DE PETICIÓN ANTE AUTORIDADES. REGLAS ESPECIALES]]"
@@ -35,7 +35,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título II|Título II]] › [[CPACA - Parte Primera - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 25. RECHAZO DE LAS PETICIONES DE INFORMACIÓN POR MOTIVO DE RESERVA
+## Artículo 25. Rechazo de las peticiones de información por motivo de reserva
 
 Toda decisión que rechace la petición de informaciones o documentos será motivada, indicará en forma precisa las disposiciones legales que impiden la entrega de información o documentos pertinentes y deberá notificarse al peticionario. Contra la decisión que rechace la petición de informaciones o documentos por motivos de reserva legal, no procede recurso alguno, salvo lo previsto en el artículo siguiente.
 

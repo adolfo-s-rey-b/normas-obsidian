@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "222"
-epigrafe: "ALCANCE DE LA ORDEN DE REGISTRO Y ALLANAMIENTO"
+epigrafe: "Alcance de la orden de registro y allanamiento"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 222. ALCANCE DE LA ORDEN DE REGISTRO Y ALLANAMIENTO
+## Artículo 222. Alcance de la orden de registro y allanamiento
 
 La orden expedida por el fiscal deberá determinar los lugares que se van a registrar. Si se trata de edificaciones, naves o aeronaves que dispongan de varias habitaciones o compartimentos, se indicará expresamente cuáles se encuentran comprendidos en la diligencia.
 

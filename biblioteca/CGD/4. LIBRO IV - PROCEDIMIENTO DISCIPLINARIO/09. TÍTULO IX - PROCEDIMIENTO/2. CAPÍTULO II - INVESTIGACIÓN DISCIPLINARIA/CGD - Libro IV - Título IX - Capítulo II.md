@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 211 CGD|Artículo 211]] — PROCEDENCIA DE LA INVESTIGACIÓN DISCIPLINARIA
-- [[art. 212 CGD|Artículo 212]] — FINES Y TRÁMITE DE LA INVESTIGACIÓN
-- [[art. 213 CGD|Artículo 213]] — TÉRMINO DE LA INVESTIGACIÓN
-- [[art. 214 CGD|Artículo 214]] — RUPTURA DE LA UNIDAD PROCESAL
-- [[art. 215 CGD|Artículo 215]] — CONTENIDO DE LA INVESTIGACIÓN DISCIPLINARIA
-- [[art. 216 CGD|Artículo 216]] — INFORME DE LA INICIACIÓN DE LA INVESTIGACIÓN
+- [[art. 211 CGD|Artículo 211]] — Procedencia de la investigación disciplinaria
+- [[art. 212 CGD|Artículo 212]] — Fines y trámite de la investigación
+- [[art. 213 CGD|Artículo 213]] — Termino de la investigación
+- [[art. 214 CGD|Artículo 214]] — Ruptura de la unidad procesal
+- [[art. 215 CGD|Artículo 215]] — Contenido de la investigación disciplinaria
+- [[art. 216 CGD|Artículo 216]] — Informe de la iniciación de la investigación
 
 ---
 ← [[CGD - Libro IV - Título IX - Capítulo I|Capítulo I]] · ↑ [[CGD - Libro IV - Título IX|Título IX]] · [[CGD - Libro IV - Título IX - Capítulo III|Capítulo III]] →

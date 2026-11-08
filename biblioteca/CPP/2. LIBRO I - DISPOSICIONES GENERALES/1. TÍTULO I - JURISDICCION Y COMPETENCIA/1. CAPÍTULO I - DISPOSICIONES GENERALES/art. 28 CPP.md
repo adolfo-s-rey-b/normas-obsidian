@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "28"
-epigrafe: "LA JURISDICCIÓN PENAL ORDINARIA"
+epigrafe: "La jurisdicción penal ordinaria"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo I|CAPÍTULO I - DISPOSICIONES GENERALES]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 28. LA JURISDICCIÓN PENAL ORDINARIA
+## Artículo 28. La jurisdicción penal ordinaria
 
 La jurisdicción penal ordinaria es única y nacional, con independencia de los procedimientos que se establezcan en este código para la persecución penal.
 

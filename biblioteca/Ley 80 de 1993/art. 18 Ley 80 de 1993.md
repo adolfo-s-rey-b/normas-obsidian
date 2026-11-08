@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "18"
-epigrafe: "DE LA CADUCIDAD Y SUS EFECTOS"
+epigrafe: "De la Caducidad y sus Efectos"
 vigencia: "vigente"
 anterior: "[[art. 17B Ley 80 de 1993]]"
 siguiente: "[[art. 19 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]]
 
-## Artículo 18. DE LA CADUCIDAD Y SUS EFECTOS
+## Artículo 18. De la Caducidad y sus Efectos
 
 La caducidad es la estipulación en virtud de la cual si se presenta alguno de los hechos constitutivos de incumplimiento de las obligaciones a cargo del contratista, que afecte de manera grave y directa la ejecución del contrato y evidencie que puede conducir a su paralización, la entidad por medio de acto administrativo debidamente motivado lo dará por terminado y ordenará su liquidación en el estado en que se encuentre.
 

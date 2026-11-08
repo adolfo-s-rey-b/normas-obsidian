@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "192"
-epigrafe: "CUMPLIMIENTO DE SENTENCIAS O CONCILIACIONES POR PARTE DE LAS ENTIDADES PÚBLICAS"
+epigrafe: "Cumplimiento de sentencias o conciliaciones por parte de las entidades públicas"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo VI|CAPÍTULO VI - SENTENCIA]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 87 Ley 2080 de 2021]]"
 anterior: "[[art. 191 CPACA]]"
@@ -27,12 +27,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo VI|Capítulo VI]]
 
-## Artículo 192. CUMPLIMIENTO DE SENTENCIAS O CONCILIACIONES POR PARTE DE LAS ENTIDADES PÚBLICAS
+## Artículo 192. Cumplimiento de sentencias o conciliaciones por parte de las entidades públicas
 
 Cuando la sentencia imponga una condena que no implique el pago o devolución de una cantidad líquida de dinero, la autoridad a quien corresponda su ejecución dentro del término de treinta (30) días contados desde su comunicación, adoptará las medidas necesarias para su cumplimiento.
 

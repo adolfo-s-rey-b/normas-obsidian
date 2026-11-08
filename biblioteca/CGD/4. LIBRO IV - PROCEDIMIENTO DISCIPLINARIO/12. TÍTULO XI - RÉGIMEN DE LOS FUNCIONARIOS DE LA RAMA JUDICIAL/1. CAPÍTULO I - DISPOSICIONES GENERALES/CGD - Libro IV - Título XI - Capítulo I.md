@@ -21,9 +21,9 @@ tags:
 
 ### Contenido
 
-- [[art. 239 CGD|Artículo 239]] — ALCANCE DE LA FUNCIÓN JURISDICCIONAL DISCIPLINARIA
-- [[art. 240 CGD|Artículo 240]] — TITULARIDAD DE LA ACCIÓN DISCIPLINARIA
-- [[art. 241 CGD|Artículo 241]] — INTEGRACIÓN NORMATIVA
+- [[art. 239 CGD|Artículo 239]] — Alcance de la función jurisdiccional disciplinaria
+- [[art. 240 CGD|Artículo 240]] — Titularidad de la acción disciplinaria
+- [[art. 241 CGD|Artículo 241]] — Integración normativa
 
 ---
 ↑ [[CGD - Libro IV - Título XI|Título XI]] · [[CGD - Libro IV - Título XI - Capítulo II|Capítulo II]] →

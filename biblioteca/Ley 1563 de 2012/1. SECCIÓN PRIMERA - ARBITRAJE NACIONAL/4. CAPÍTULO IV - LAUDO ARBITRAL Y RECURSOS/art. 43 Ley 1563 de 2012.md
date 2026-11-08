@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "43"
-epigrafe: "EFECTOS DE LA SENTENCIA DE ANULACIÓN"
+epigrafe: "Efectos de la sentencia de anulación"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 43. EFECTOS DE LA SENTENCIA DE ANULACIÓN
+## Artículo 43. Efectos de la sentencia de anulación
 
 Cuando prospere cualquiera de las causales señaladas en los numerales 1 a 7 del artículo [[art. 41 Ley 1563 de 2012|41]], se declarará la nulidad del laudo. En los demás casos, este se corregirá o adicionará.
 

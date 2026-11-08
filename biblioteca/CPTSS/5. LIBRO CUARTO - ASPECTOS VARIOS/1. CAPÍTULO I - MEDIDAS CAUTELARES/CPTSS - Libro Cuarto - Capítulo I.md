@@ -22,8 +22,8 @@ tags:
 
 ### Contenido
 
-- [[art. 315 CPTSS|Artículo 315]] — MEDIDAS CAUTELARES EN PROCESOS DECLARATIVOS
-- [[art. 316 CPTSS|Artículo 316]] — SOLICITUD Y DECRETO
+- [[art. 315 CPTSS|Artículo 315]] — Medidas cautelares en procesos declarativos
+- [[art. 316 CPTSS|Artículo 316]] — Solicitud y decreto
 
 ---
 ↑ [[CPTSS - Libro Cuarto|Libro Cuarto]] · [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]] →

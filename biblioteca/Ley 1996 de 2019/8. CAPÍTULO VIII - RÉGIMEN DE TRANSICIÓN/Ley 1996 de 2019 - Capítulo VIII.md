@@ -20,11 +20,11 @@ tags:
 
 ### Contenido
 
-- [[art. 52 Ley 1996 de 2019|Artículo 52]] — VIGENCIA
-- [[art. 53 Ley 1996 de 2019|Artículo 53]] — PROHIBICIÓN DE INTERDICCIÓN
-- [[art. 54 Ley 1996 de 2019|Artículo 54]] — PROCESO DE ADJUDICACIÓN JUDICIAL DE APOYOS TRANSITORIO
-- [[art. 55 Ley 1996 de 2019|Artículo 55]] — PROCESOS DE INTERDICCIÓN O INHABILITACIÓN EN CURSO
-- [[art. 56 Ley 1996 de 2019|Artículo 56]] — PROCESO DE REVISIÓN DE INTERDICCIÓN O INHABILITACIÓN
+- [[art. 52 Ley 1996 de 2019|Artículo 52]] — Vigencia
+- [[art. 53 Ley 1996 de 2019|Artículo 53]] — Prohibición de interdicción
+- [[art. 54 Ley 1996 de 2019|Artículo 54]] — Proceso de adjudicación judicial de apoyos transitorio
+- [[art. 55 Ley 1996 de 2019|Artículo 55]] — Procesos de interdicción o inhabilitación en curso
+- [[art. 56 Ley 1996 de 2019|Artículo 56]] — Proceso de revisión de interdicción o inhabilitación
 
 ---
 ← [[Ley 1996 de 2019 - Capítulo VII|Capítulo VII]] · ↑ [[Ley 1996 de 2019|Ley 1996 de 2019]] · [[Ley 1996 de 2019 - Capítulo IX|Capítulo IX]] →

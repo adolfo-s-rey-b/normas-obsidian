@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "10"
-epigrafe: "RESPONSABLES DE LA GARANTÍA LEGAL"
+epigrafe: "Responsables de la garantía legal"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 10. RESPONSABLES DE LA GARANTÍA LEGAL
+## Artículo 10. Responsables de la garantía legal
 
 Ante los consumidores, la responsabilidad por la garantía legal recae solidariamente en los productores y proveedores respectivos.
 

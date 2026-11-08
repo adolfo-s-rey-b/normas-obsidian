@@ -25,11 +25,11 @@ tags:
 ### Contenido
 
 - [[art. 261 ET|Artículo 261]] — PATRIMONIO BRUTO
-- [[art. 262 ET|Artículo 262]] — QUE SON DERECHOS APRECIABLES EN DINERO
-- [[art. 263 ET|Artículo 263]] — QUE SE ENTIENDE POR POSESIÓN
-- [[art. 264 ET|Artículo 264]] — PRESUNCIÓN DE APROVECHAMIENTO ECONOMICO
-- [[art. 265 ET|Artículo 265]] — BIENES POSEIDOS EN EL PAIS
-- [[art. 266 ET|Artículo 266]] — BIENES NO POSEIDOS EN EL PAIS
+- [[art. 262 ET|Artículo 262]] — QUÉ SON DERECHOS APRECIABLES EN DINERO
+- [[art. 263 ET|Artículo 263]] — QUÉ SE ENTIENDE POR POSESIÓN
+- [[art. 264 ET|Artículo 264]] — PRESUNCIÓN DE APROVECHAMIENTO ECONÓMICO
+- [[art. 265 ET|Artículo 265]] — BIENES POSEÍDOS EN EL PAÍS
+- [[art. 266 ET|Artículo 266]] — BIENES NO POSEÍDOS EN EL PAÍS
 
 ---
 ↑ [[ET - Libro Primero - Título II - Capítulo I|Capítulo I]] · [[ET - Libro Primero - Título II - Capítulo I - Valor patrimonial de los activos|Valor patrimonial de los activos]] →

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "47"
-epigrafe: "SOLICITUD DE CAMBIO"
+epigrafe: "Solicitud de cambio"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo IV|CAPÍTULO IV - CAMBIO DE RADICACIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 47. SOLICITUD DE CAMBIO
+## Artículo 47. Solicitud de cambio
 
 > [!note] Aparte subrayado CONDICIONALMENTE exequible
 

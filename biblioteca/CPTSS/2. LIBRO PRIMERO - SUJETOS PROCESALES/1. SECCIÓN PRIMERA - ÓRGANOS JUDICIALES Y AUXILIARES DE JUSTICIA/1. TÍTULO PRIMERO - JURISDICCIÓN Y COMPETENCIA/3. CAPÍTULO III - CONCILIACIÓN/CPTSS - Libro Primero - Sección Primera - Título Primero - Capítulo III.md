@@ -24,8 +24,8 @@ tags:
 
 ### Contenido
 
-- [[art. 19 CPTSS|Artículo 19]] — CONCILIACIÓN
-- [[art. 20 CPTSS|Artículo 20]] — CONCILIACIÓN ANTES DEL PROCESO
+- [[art. 19 CPTSS|Artículo 19]] — Conciliación
+- [[art. 20 CPTSS|Artículo 20]] — Conciliación antes del proceso
 - [[art. 21 CPTSS|Artículo 21]] — Asuntos conciliables
 
 ---

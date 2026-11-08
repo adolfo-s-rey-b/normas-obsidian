@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "288"
-epigrafe: "IRREGULARIDADES EN LA FIRMA DE LAS PROVIDENCIAS"
+epigrafe: "Irregularidades en la firma de las providencias"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Cuarta|SECCIÓN CUARTA - PROVIDENCIAS DEL JUEZ, SU NOTIFICACIÓN Y SUS EFECTOS]]"
 titulo: "[[CGP - Libro Segundo - Sección Cuarta - Título I|TÍTULO I - PROVIDENCIAS DEL JUEZ]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Cuarta|Sección Cuarta]] › [[CGP - Libro Segundo - Sección Cuarta - Título I|Título I]] › [[CGP - Libro Segundo - Sección Cuarta - Título I - Capítulo III|Capítulo III]]
 
-## Artículo 288. IRREGULARIDADES EN LA FIRMA DE LAS PROVIDENCIAS
+## Artículo 288. Irregularidades en la firma de las providencias
 
 Cuando un juez colegiado profiera una providencia que no haya sido suscrita por todos sus integrantes, mientras conserve el expediente deberá subsanar la irregularidad de oficio o a petición de parte.
 

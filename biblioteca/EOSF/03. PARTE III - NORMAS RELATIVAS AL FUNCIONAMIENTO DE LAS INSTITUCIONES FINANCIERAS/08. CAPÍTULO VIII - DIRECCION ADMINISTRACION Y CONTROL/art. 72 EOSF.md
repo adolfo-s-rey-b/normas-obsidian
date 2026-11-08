@@ -11,7 +11,7 @@ articulo: "72"
 epigrafe: "REGLAS DE CONDUCTA Y OBLIGACIONES LEGALES DE LAS ENTIDADES VIGILADAS, DE SUS ADMINISTRADORES, DIRECTORES, REPRESENTANTES LEGALES, REVISORES FISCALES Y FUNCIONARIOS"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo VIII|CAPÍTULO VIII - DIRECCION ADMINISTRACION Y CONTROL]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 12 Ley 795 de 2003]]"
 derogado_por:
@@ -28,7 +28,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo VIII|Capítulo VIII]]

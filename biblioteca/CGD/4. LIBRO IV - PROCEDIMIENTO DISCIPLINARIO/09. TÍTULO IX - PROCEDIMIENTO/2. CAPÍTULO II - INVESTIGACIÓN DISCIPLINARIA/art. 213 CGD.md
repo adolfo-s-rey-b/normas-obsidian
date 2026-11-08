@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "213"
-epigrafe: "TÉRMINO DE LA INVESTIGACIÓN"
+epigrafe: "Termino de la investigación"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título IX|TÍTULO IX - PROCEDIMIENTO]]"
 capitulo: "[[CGD - Libro IV - Título IX - Capítulo II|CAPÍTULO II - INVESTIGACIÓN DISCIPLINARIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título IX|Título IX]] › [[CGD - Libro IV - Título IX - Capítulo II|Capítulo II]]
 
-## Artículo 213. TÉRMINO DE LA INVESTIGACIÓN
+## Artículo 213. Termino de la investigación
 
 La investigación tendrá una duración de seis (6) meses, contados a partir de la decisión de apertura. Este término podrá prorrogarse hasta en otro tanto, cuando en la misma actuación se investiguen varias faltas o a dos (2) o más servidores o particulares en ejercicio de función pública y culminará con el archivo definitivo o la notificación de la formulación del pliego de cargos.
 

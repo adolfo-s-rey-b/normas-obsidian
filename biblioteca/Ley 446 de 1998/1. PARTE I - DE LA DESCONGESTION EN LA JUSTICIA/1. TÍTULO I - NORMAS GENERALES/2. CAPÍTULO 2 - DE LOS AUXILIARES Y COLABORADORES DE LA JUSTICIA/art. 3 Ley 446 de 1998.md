@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 446 de 1998"
 articulo: "3"
-epigrafe: "DESIGNACION Y CALIDADES"
+epigrafe: "Designación y calidades"
 parte: "[[Ley 446 de 1998 - Parte I|PARTE I - DE LA DESCONGESTION EN LA JUSTICIA]]"
 titulo: "[[Ley 446 de 1998 - Parte I - Título I|TÍTULO I - NORMAS GENERALES]]"
 capitulo: "[[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|CAPÍTULO 2 - DE LOS AUXILIARES Y COLABORADORES DE LA JUSTICIA]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 446 de 1998|Ley 446 de 1998]] › [[Ley 446 de 1998 - Parte I|Parte I]] › [[Ley 446 de 1998 - Parte I - Título I|Título I]] › [[Ley 446 de 1998 - Parte I - Título I - Capítulo 2|Capítulo 2]]
 
-## Artículo 3. DESIGNACION Y CALIDADES
+## Artículo 3. Designación y calidades
 
 Adiciónase el artículo [[art. 9 Ley 446 de 1998|9]]o. del Código de Procedimiento Civil con el siguiente parágrafo:
 

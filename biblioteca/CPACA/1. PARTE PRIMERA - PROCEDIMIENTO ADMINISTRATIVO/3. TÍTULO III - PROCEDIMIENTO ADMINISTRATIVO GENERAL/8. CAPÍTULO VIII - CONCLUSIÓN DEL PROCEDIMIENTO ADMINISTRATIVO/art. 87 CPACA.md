@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "87"
-epigrafe: "FIRMEZA DE LOS ACTOS ADMINISTRATIVOS"
+epigrafe: "Firmeza de los actos administrativos"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VIII|CAPÍTULO VIII - CONCLUSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 87. FIRMEZA DE LOS ACTOS ADMINISTRATIVOS
+## Artículo 87. Firmeza de los actos administrativos
 
 Los actos administrativos quedarán en firme:
 

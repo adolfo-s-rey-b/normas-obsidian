@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "36"
-epigrafe: "OPERACIONES ENCUBIERTAS CONTRA LA CORRUPCIÓN"
+epigrafe: "Operaciones encubiertas contra la corrupción"
 capitulo: "[[Ley 1474 de 2011 - Capítulo II|CAPÍTULO II - MEDIDAS PENALES EN LA LUCHA CONTRA LA CORRUPCIÓN PÚBLICA Y PRIVADA]]"
 vigencia: "vigente"
 anterior: "[[art. 35 Ley 1474 de 2011]]"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo II|Capítulo II]]
 
-## Artículo 36. OPERACIONES ENCUBIERTAS CONTRA LA CORRUPCIÓN
+## Artículo 36. Operaciones encubiertas contra la corrupción
 
 La Ley 906 de 2004 tendrá un artículo [[art. 242 CPP|242]]-A, el cual quedará así:
 

@@ -23,7 +23,7 @@ tags:
 
 ### Contenido
 
-- [[art. 25 CGD|Artículo 25]] — DESTINATARIOS DE LA LEY DISCIPLINARIA
+- [[art. 25 CGD|Artículo 25]] — Destinatarios de la ley disciplinaria
 
 ---
 ← [[CGD - Libro I - Título II - Capítulo II|Capítulo II]] · ↑ [[CGD - Libro I - Título II|Título II]] · [[CGD - Libro I - Título II - Capítulo IV|Capítulo IV]] →

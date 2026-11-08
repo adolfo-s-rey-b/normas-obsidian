@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "82"
-epigrafe: "PROCEDENCIA"
+epigrafe: "Procedencia"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título II|TÍTULO II - ACCION PENAL]]"
 capitulo: "[[CPP - Libro I - Título II - Capítulo II|CAPÍTULO II - COMISO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título II|Título II]] › [[CPP - Libro I - Título II - Capítulo II|Capítulo II]]
 
-## Artículo 82. PROCEDENCIA
+## Artículo 82. Procedencia
 
 El comiso procederá sobre los bienes y recursos del penalmente responsable que provengan o sean producto directo o indirecto del delito, o sobre aquellos utilizados o destinados a ser utilizados en los delitos dolosos como medio o instrumentos para la ejecución del mismo, sin perjuicio de los derechos que tengan sobre ellos los sujetos pasivos o los terceros de buena fe.
 

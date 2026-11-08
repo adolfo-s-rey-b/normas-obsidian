@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "186"
-epigrafe: "REGIMEN DE RESERVAS TECNICAS E INVERSIONES"
+epigrafe: "Régimen de Reservas Técnicas e Inversiones"
 parte: "[[EOSF - Parte VI|PARTE VI - CONDICIONES DEL EJERCICIO DE LA ACTIVIDAD CAPITALIZADORA Y DE LAS OPERACIONES DE LAS COMPAÑIAS DE SEGUROS, REASEGUROS Y SUS INTERMEDIARIOS]]"
 capitulo: "[[EOSF - Parte VI - Capítulo II|CAPÍTULO II - NORMAS ESPECIALES RELATIVAS A LAS COMPAÑIAS DE SEGUROS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte VI|Parte VI]] › [[EOSF - Parte VI - Capítulo II|Capítulo II]]
 
-## Artículo 186. REGIMEN DE RESERVAS TECNICAS E INVERSIONES
+## Artículo 186. Régimen de Reservas Técnicas e Inversiones
 
 Las entidades aseguradoras y las que administren el Sistema General de Riesgos Profesionales, cualquiera que sea su naturaleza, deberán constituir, entre otras, las siguientes reservas técnicas, de acuerdo con las normas de cará cter general que para el efecto expida el Gobierno Nacional:
 

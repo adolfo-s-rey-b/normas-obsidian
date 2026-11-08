@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "79"
-epigrafe: "PEDAGOGÍA DE LAS COMPETENCIAS CIUDADANAS"
+epigrafe: "Pedagogía de las competencias ciudadanas"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VI|CAPÍTULO VI - POLÍTICAS INSTITUCIONALES Y PEDAGÓGICAS]]"
 vigencia: "vigente"
 anterior: "[[art. 78 Ley 1474 de 2011]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VI|Capítulo VI]]
 
-## Artículo 79. PEDAGOGÍA DE LAS COMPETENCIAS CIUDADANAS
+## Artículo 79. Pedagogía de las competencias ciudadanas
 
 Los establecimientos educativos de educación básica y media incluirán en su Proyecto Educativo Institucional, según lo consideren pertinente, estrategias para el desarrollo de competencias ciudadanas para la convivencia pacífica, la participación y la responsabilidad democrática, y la identidad y valoración de la diferencia, lo cual deberá verse reflejado en actividades destinadas a todos los miembros de la comunidad educativa. Específicamente, desde el ámbito de participación se orientará hacia la construcción de una cultura de la legalidad y del cuidado de los bienes comunes.
 

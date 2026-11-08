@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "8"
-epigrafe: "FAVORABILIDAD"
+epigrafe: "Favorabilidad"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -29,7 +29,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 8. FAVORABILIDAD
+## Artículo 8. Favorabilidad
 
 En materia disciplinaria la ley permisiva o favorable, sustancial o procesal de efectos sustanciales, aun cuando sea posterior, se aplicará de preferencia a la restrictiva o desfavorable. Este principio rige también para quien esté cumpliendo la sanción, salvo lo dispuesto en la Constitución Política.
 

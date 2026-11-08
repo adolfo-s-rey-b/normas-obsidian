@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "40"
-epigrafe: "PRUEBAS"
+epigrafe: "Pruebas"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo I|CAPÍTULO I - REGLAS GENERALES]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 40. PRUEBAS
+## Artículo 40. Pruebas
 
 Durante la actuación administrativa y hasta antes de que se profiera la decisión de fondo se podrán aportar, pedir y practicar pruebas de oficio o a petición del interesado sin requisitos especiales. Contra el acto que decida la solicitud de pruebas no proceden recursos. El interesado contará con la oportunidad de controvertir las pruebas aportadas o practicadas dentro de la actuación, antes de que se dicte una decisión de fondo.
 

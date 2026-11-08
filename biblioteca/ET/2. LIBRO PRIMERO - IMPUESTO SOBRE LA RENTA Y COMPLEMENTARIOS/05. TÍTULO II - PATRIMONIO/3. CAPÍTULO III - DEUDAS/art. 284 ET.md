@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "284"
-epigrafe: "PASIVOS DE COMPAÑIAS DE SEGUROS"
+epigrafe: "PASIVOS DE COMPAÑÍAS DE SEGUROS"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título II|TÍTULO II - PATRIMONIO]]"
 capitulo: "[[ET - Libro Primero - Título II - Capítulo III|CAPÍTULO III - DEUDAS]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título II|Título II]] › [[ET - Libro Primero - Título II - Capítulo III|Capítulo III]]
 
-## Artículo 284. PASIVOS DE COMPAÑIAS DE SEGUROS
+## Artículo 284. PASIVOS DE COMPAÑÍAS DE SEGUROS
 
 (Fuente original compilada: D.2053/74 Art. [[art. 125 ET|125]]) Las compañías de seguros deben incluir dentro de su pasivo:
 

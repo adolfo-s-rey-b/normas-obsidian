@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "44"
-epigrafe: "ASPECTOS GENERALES"
+epigrafe: "Aspectos Generales"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XIII|CAPÍTULO XIII - INTERMEDIARIOS DE REASEGUROS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 44. ASPECTOS GENERALES
+## Artículo 44. Aspectos Generales
 
 1\. Tipo societario y objeto social exclusivo. Las sociedades corredoras de reaseguros deberán constituirse bajo la forma de sociedades comerciales y podrán revestir cualquiera de los tipos societarios previstos en el Código de Comercio; tendrán como objeto social exclusivo el ofrecimiento del contrato de reaseguro y la promoción para su celebración o renovación a título de intermediario entre las entidades aseguradoras y las reaseguradoras.
 

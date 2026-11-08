@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "4"
-epigrafe: "SINONIMOS"
+epigrafe: "SINÓNIMOS"
 titulo: "[[ET - Título Preliminar|TÍTULO PRELIMINAR - OBLIGACIÓN TRIBUTARIA]]"
 rubro: "[[ET - Título Preliminar - Sujetos pasivos|SUJETOS PASIVOS]]"
 vigencia: "vigente"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Título Preliminar|Título Preliminar]] › [[ET - Título Preliminar - Sujetos pasivos|Sujetos pasivos]]
 
-## Artículo 4. SINONIMOS
+## Artículo 4. SINÓNIMOS
 
 Para fines del impuesto sobre las ventas se consideran sinónimos los términos contribuyente y responsable.
 

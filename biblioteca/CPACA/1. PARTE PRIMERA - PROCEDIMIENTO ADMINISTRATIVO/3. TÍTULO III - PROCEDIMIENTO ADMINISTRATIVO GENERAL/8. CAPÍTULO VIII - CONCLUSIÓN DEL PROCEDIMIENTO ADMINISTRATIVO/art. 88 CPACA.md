@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "88"
-epigrafe: "PRESUNCIÓN DE LEGALIDAD DEL ACTO ADMINISTRATIVO"
+epigrafe: "Presunción de legalidad del acto administrativo"
 parte: "[[CPACA - Parte Primera|PARTE PRIMERA - PROCEDIMIENTO ADMINISTRATIVO]]"
 titulo: "[[CPACA - Parte Primera - Título III|TÍTULO III - PROCEDIMIENTO ADMINISTRATIVO GENERAL]]"
 capitulo: "[[CPACA - Parte Primera - Título III - Capítulo VIII|CAPÍTULO VIII - CONCLUSIÓN DEL PROCEDIMIENTO ADMINISTRATIVO]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Primera|Parte Primera]] › [[CPACA - Parte Primera - Título III|Título III]] › [[CPACA - Parte Primera - Título III - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 88. PRESUNCIÓN DE LEGALIDAD DEL ACTO ADMINISTRATIVO
+## Artículo 88. Presunción de legalidad del acto administrativo
 
 Los actos administrativos se presumen legales mientras no hayan sido anulados por la Jurisdicción de lo Contencioso Administrativo. Cuando fueren suspendidos, no podrán ejecutarse hasta tanto se resuelva definitivamente sobre su legalidad o se levante dicha medida cautelar.
 

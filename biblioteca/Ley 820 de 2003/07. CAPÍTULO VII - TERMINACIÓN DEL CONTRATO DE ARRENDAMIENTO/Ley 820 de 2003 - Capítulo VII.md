@@ -20,13 +20,13 @@ tags:
 
 ### Contenido
 
-- [[art. 21 Ley 820 de 2003|Artículo 21]] — TERMINACIÓN POR MUTUO ACUERDO
-- [[art. 22 Ley 820 de 2003|Artículo 22]] — TERMINACIÓN POR PARTE DEL ARRENDADOR
-- [[art. 23 Ley 820 de 2003|Artículo 23]] — REQUISITOS PARA LA TERMINACIÓN UNILATERAL POR PARTE DEL ARRENDADOR MEDIANTE PREAVISO CON INDEMNIZACIÓN
-- [[art. 24 Ley 820 de 2003|Artículo 24]] — TERMINACIÓN POR PARTE DEL ARRENDATARIO
-- [[art. 25 Ley 820 de 2003|Artículo 25]] — REQUISITOS PARA LA TERMINACIÓN UNILATERAL POR PARTE DEL ARRENDATARIO MEDIANTE PREAVISO CON INDEMNIZACIÓN
-- [[art. 26 Ley 820 de 2003|Artículo 26]] — DERECHO DE RETENCIÓN
-- [[art. 27 Ley 820 de 2003|Artículo 27]] — DESCUENTO POR REPARACIONES INDISPENSABLES NO LOCATIVAS
+- [[art. 21 Ley 820 de 2003|Artículo 21]] — Terminación por mutuo acuerdo
+- [[art. 22 Ley 820 de 2003|Artículo 22]] — Terminación por parte del arrendador
+- [[art. 23 Ley 820 de 2003|Artículo 23]] — Requisitos para la terminación unilateral por parte del arrendador mediante preaviso con indemnización
+- [[art. 24 Ley 820 de 2003|Artículo 24]] — Terminación por parte del arrendatario
+- [[art. 25 Ley 820 de 2003|Artículo 25]] — Requisitos para la terminación unilateral por parte del arrendatario mediante preaviso con indemnización
+- [[art. 26 Ley 820 de 2003|Artículo 26]] — Derecho de retención
+- [[art. 27 Ley 820 de 2003|Artículo 27]] — Descuento por reparaciones indispensables no locativas
 
 ---
 ← [[Ley 820 de 2003 - Capítulo VI|Capítulo VI]] · ↑ [[Ley 820 de 2003|Ley 820 de 2003]] · [[Ley 820 de 2003 - Capítulo VIII|Capítulo VIII]] →

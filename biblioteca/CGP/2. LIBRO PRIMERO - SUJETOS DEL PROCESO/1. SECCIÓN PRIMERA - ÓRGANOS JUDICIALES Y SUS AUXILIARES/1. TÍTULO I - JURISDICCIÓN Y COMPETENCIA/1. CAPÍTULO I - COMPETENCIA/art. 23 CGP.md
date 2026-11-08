@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "23"
-epigrafe: "FUERO DE ATRACCIÓN"
+epigrafe: "Fuero de atracción"
 libro: "[[CGP - Libro Primero|LIBRO PRIMERO - SUJETOS DEL PROCESO]]"
 seccion: "[[CGP - Libro Primero - Sección Primera|SECCIÓN PRIMERA - ÓRGANOS JUDICIALES Y SUS AUXILIARES]]"
 titulo: "[[CGP - Libro Primero - Sección Primera - Título I|TÍTULO I - JURISDICCIÓN Y COMPETENCIA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Primero|Libro Primero]] › [[CGP - Libro Primero - Sección Primera|Sección Primera]] › [[CGP - Libro Primero - Sección Primera - Título I|Título I]] › [[CGP - Libro Primero - Sección Primera - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 23. FUERO DE ATRACCIÓN
+## Artículo 23. Fuero de atracción
 
 Cuando la sucesión que se esté tramitando sea de mayor cuantía, el juez que conozca de ella y sin necesidad de reparto, será competente para conocer de todos los juicios que versen sobre nulidad y validez del testamento, reforma del testamento, desheredamiento, indignidad o incapacidad para suceder, petición de herencia, reivindicación por el heredero sobre cosas hereditarias, controversias sobre derechos a la sucesión por testamento o abintestato o por incapacidad de los asignatarios, lo mismo que de los procesos sobre el régimen económico del matrimonio y la sociedad patrimonial entre compañeros permanentes, relativos a la rescisión de la partición por lesión y nulidad de la misma, las acciones que resulten de la caducidad, inexistencia o nulidad de las capitulaciones matrimoniales, la revocación de la donación por causa del matrimonio, el litigio sobre la propiedad de bienes, cuando se disputa si estos son propios o de la sociedad conyugal, y las controversias sobre subrogación de bienes o las compensaciones respecto de los cónyuges y a cargo de la sociedad conyugal o a favor de esta o a cargo de aquellos en caso de disolución y liquidación de la sociedad conyugal o sociedad patrimonial entre compañeros permanentes.
 

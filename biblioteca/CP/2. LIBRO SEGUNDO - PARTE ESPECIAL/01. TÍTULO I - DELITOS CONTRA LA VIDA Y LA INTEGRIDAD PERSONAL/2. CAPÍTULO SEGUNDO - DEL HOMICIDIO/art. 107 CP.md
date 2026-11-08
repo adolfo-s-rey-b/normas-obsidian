@@ -8,14 +8,13 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "107"
-epigrafe: "INDUCCIÓN O AYUDA AL SUICIDIO"
+epigrafe: "Inducción o ayuda al suicidio"
 libro: "[[CP - Libro Segundo|LIBRO SEGUNDO - PARTE ESPECIAL]]"
 titulo: "[[CP - Libro Segundo - Título I|TÍTULO I - DELITOS CONTRA LA VIDA Y LA INTEGRIDAD PERSONAL]]"
 capitulo: "[[CP - Libro Segundo - Título I - Capítulo Segundo|CAPÍTULO SEGUNDO - DEL HOMICIDIO]]"
 vigencia: "modificado"
 modificado_por:
   - "[[art. 14 Ley 890 de 2004]]"
-  - "[[art. 15 CP]]"
 anterior: "[[art. 106 CP]]"
 siguiente: "[[art. 108 CP]]"
 fuente: "http://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html"
@@ -32,7 +31,7 @@ tags:
 
 [[CP|CP]] › [[CP - Libro Segundo|Libro Segundo]] › [[CP - Libro Segundo - Título I|Título I]] › [[CP - Libro Segundo - Título I - Capítulo Segundo|Capítulo Segundo]]
 
-## Artículo 107. INDUCCIÓN O AYUDA AL SUICIDIO
+## Artículo 107. Inducción o ayuda al suicidio
 
 El que eficazmente induzca a otro al suicidio, o le preste una ayuda efectiva para su realización, incurrirá en prisión de treinta y dos (32) a ciento ocho (108) meses.
 
@@ -46,7 +45,7 @@ Cuando la inducción o ayuda esté dirigida a poner fin a intensos sufrimientos 
 
 > [!note] Notas del Editor: En criterio del editor para la interpretación de este artículo debe tenerse en cuenta la advertencia dada por la Corte Constitucional al declarar exequible el artículo [[art. 326 CP|326]] del Código Penal anterior, mediante Sentencia C-239-97 , de 20 de mayo de 1997, Magistrado Ponente Dr. Carlos Gaviria Díaz: 'con la advertencia de que en el caso de los enfermos terminales en que concurra la voluntad libre del sujeto pasivo del acto, no podrá derivarse responsabilidad para el médico autor, pues la conducta está justificada'.
 
-> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo [[art. 15 CP|15]] , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
+> [!info] Notas de Vigencia: Ver la ADVERTENCIA y el Resumen de Notas de Vigencia al comienzo de este Código. Artículo modificado por el artículo [[art. 14 Ley 890 de 2004|14]] de la Ley 890 de 2004, publicada en el Diario Oficial No. 45.602, de 7 de julio de 2004, el cual establece en su versión original: 'ARTÍCULO 14. Las penas previstas en los tipos penales contenidos en la Parte Especial del Código Penal se aumentarán en la tercera parte en el mínimo y en la mitad en el máximo. En todo caso, la aplicación de esta regla general de incremento deberá respetar el tope máximo de la pena privativa de la libertad para los tipos penales de acuerdo con lo establecido en el artículo 2 o. de la presente ley. ...' El artículo 15 , dispone: '... La presente ley rige a partir del 1o. de enero de 2005 ...'
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - Mediante Sentencia C-045-03 de 28 de enero de 2003, Magistrado Ponente Dr. Alvaro Tafur Galvis, la Corte Constitucional se declaró INHIBIDA de fallar sobre el inciso 2o. de este artículo por ineptitud de la demanda.
 

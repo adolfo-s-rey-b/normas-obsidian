@@ -4,9 +4,9 @@ aliases:
 tipo: articulo
 norma: "Ley 820 de 2003"
 articulo: "41"
-epigrafe: "FOMENTO A LA INVERSIÓN"
+epigrafe: "Fomento a la inversión"
 capitulo: "[[Ley 820 de 2003 - Capítulo XII|CAPÍTULO XII - DISPOSICIONES FINALES]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 376 Ley 1819 de 2016]]"
 anterior: "[[art. 40 Ley 820 de 2003]]"
@@ -21,12 +21,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/ley_820_de_2003
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[Ley 820 de 2003|Ley 820 de 2003]] › [[Ley 820 de 2003 - Capítulo XII|Capítulo XII]]
 
-## Artículo 41. FOMENTO A LA INVERSIÓN
+## Artículo 41. Fomento a la inversión
 
 El Estado podrá, tanto en su nivel nacional como territorial establecer subsidios a familias de escasos recursos para el alquiler de vivienda, cuando carezcan de ella. Tendrán derecho preferencial los desplazados por la violencia, las madres cabeza de familia y las personas de la tercera edad. El Gobierno establecerá los requisitos, condiciones y procedimientos para la asignación y uso de estos subsidios.
 

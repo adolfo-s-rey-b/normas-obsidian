@@ -10,7 +10,7 @@ tipo: articulo
 norma: "Decreto Ley 624 de 1989"
 sigla: "ET"
 articulo: "178"
-epigrafe: "DETERMINACIÓN DE LA RENTA LIQUIDA"
+epigrafe: "DETERMINACIÓN DE LA RENTA LÍQUIDA"
 libro: "[[ET - Libro Primero|LIBRO PRIMERO - IMPUESTO SOBRE LA RENTA Y COMPLEMENTARIOS]]"
 titulo: "[[ET - Libro Primero - Título I|TÍTULO I - RENTA]]"
 capitulo: "[[ET - Libro Primero - Título I - Capítulo VI|CAPÍTULO VI - RENTA LIQUIDA]]"
@@ -31,7 +31,7 @@ tags:
 
 [[ET|ET]] › [[ET - Libro Primero|Libro Primero]] › [[ET - Libro Primero - Título I|Título I]] › [[ET - Libro Primero - Título I - Capítulo VI|Capítulo VI]]
 
-## Artículo 178. DETERMINACIÓN DE LA RENTA LIQUIDA
+## Artículo 178. DETERMINACIÓN DE LA RENTA LÍQUIDA
 
 La renta líquida está constituida por la renta bruta menos las deducciones que tengan relación de causalidad con las actividades productoras de renta.
 

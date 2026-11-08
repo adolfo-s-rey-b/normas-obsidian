@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "158"
-epigrafe: "INEXISTENCIA DE LA PRUEBA"
+epigrafe: "Inexistencia de la prueba"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]]
 
-## Artículo 158. INEXISTENCIA DE LA PRUEBA
+## Artículo 158. Inexistencia de la prueba
 
 La prueba recaudada sin el lleno de las formalidades sustanciales o con desconocimiento de los derechos fundamentales del investigado se tendrá como inexistente.
 

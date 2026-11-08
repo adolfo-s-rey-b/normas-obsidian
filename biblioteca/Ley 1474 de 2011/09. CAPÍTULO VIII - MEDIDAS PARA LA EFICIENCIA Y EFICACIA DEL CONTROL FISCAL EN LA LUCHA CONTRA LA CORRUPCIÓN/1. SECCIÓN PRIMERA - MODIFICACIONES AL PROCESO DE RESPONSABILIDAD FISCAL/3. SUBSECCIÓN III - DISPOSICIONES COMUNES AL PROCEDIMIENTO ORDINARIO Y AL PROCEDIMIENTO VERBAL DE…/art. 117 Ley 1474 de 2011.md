@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1474 de 2011"
 articulo: "117"
-epigrafe: "INFORME TÉCNICO"
+epigrafe: "Informe Técnico"
 capitulo: "[[Ley 1474 de 2011 - Capítulo VIII|CAPÍTULO VIII - MEDIDAS PARA LA EFICIENCIA Y EFICACIA DEL CONTROL FISCAL EN LA LUCHA CONTRA LA CORRUPCIÓN]]"
 seccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|SECCIÓN PRIMERA - MODIFICACIONES AL PROCESO DE RESPONSABILIDAD FISCAL]]"
 subseccion: "[[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|SUBSECCIÓN III - DISPOSICIONES COMUNES AL PROCEDIMIENTO ORDINARIO Y AL PROCEDIMIENTO VERBAL DE RESPONSABILIDAD FISCAL]]"
@@ -25,7 +25,7 @@ tags:
 
 [[Ley 1474 de 2011|Ley 1474 de 2011]] › [[Ley 1474 de 2011 - Capítulo VIII|Capítulo VIII]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera|Sección Primera]] › [[Ley 1474 de 2011 - Capítulo VIII - Sección Primera - Subsección III|Subsección III]]
 
-## Artículo 117. INFORME TÉCNICO
+## Artículo 117. Informe Técnico
 
 Los órganos de vigilancia y control fiscal podrán comisionar a sus funcionarios para que rindan informes técnicos que se relacionen con su profesión o especialización. Así mismo, podrán requerir a entidades públicas o particulares, para que en forma gratuita rindan informes técnicos o especializados que se relacionen con su naturaleza y objeto. Estas pruebas estarán destinadas a demostrar o ilustrar hechos que interesen al proceso. El informe se pondrá a disposición de los sujetos procesales para que ejerzan su derecho de defensa y contradicción, por el término que sea establecido por el funcionario competente, de acuerdo con la complejidad del mismo.
 

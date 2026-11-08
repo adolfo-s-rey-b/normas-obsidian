@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "328"
-epigrafe: "LA PARTICIPACIÓN DE LAS VÍCTIMAS"
+epigrafe: "La participación de las víctimas"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título V|TÍTULO V - PRINCIPIO DE OPORTUNIDAD]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título V|Título V]]
 
-## Artículo 328. LA PARTICIPACIÓN DE LAS VÍCTIMAS
+## Artículo 328. La participación de las víctimas
 
 En la aplicación del principio de oportunidad el fiscal deberá tener en cuenta los intereses de las víctimas. Para estos efectos deberá oír a las que se hayan hecho presentes en la actuación.
 

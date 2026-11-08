@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "97"
-epigrafe: "INFORMACION"
+epigrafe: "Información"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo XIII|CAPÍTULO XIII - REGIMEN DE LA INFORMACION FINANCIERA Y COMERCIAL]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 23 Ley 795 de 2003]]"
 anterior: "[[art. 96 EOSF]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/eosf
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo XIII|Capítulo XIII]]
 
-## Artículo 97. INFORMACION
+## Artículo 97. Información
 
 1\. Información a los usuarios. Las entidades vigiladas deben suministrar a los usuarios de los servicios que prestan la información necesaria para lograr la mayor transparencia en las operaciones que realicen, de suerte que les permita, a través de elementos de juicio claros y objetivos, escoger las mejores opciones del mercado y poder tomar decisiones informadas.
 

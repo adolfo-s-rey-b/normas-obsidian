@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "221"
-epigrafe: "HONORARIOS DEL PERITO"
+epigrafe: "Honorarios del perito"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo IX|CAPÍTULO IX - PRUEBAS]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo IX|Capítulo IX]]
 
-## Artículo 221. HONORARIOS DEL PERITO
+## Artículo 221. Honorarios del perito
 
 Practicado el dictamen pericial y surtida la contradicción de este, el juez fijará los honorarios del perito mediante auto que presta mérito ejecutivo, contra el cual solo procede el recurso de reposición. En el evento en que se tramite el proceso ejecutivo la competencia se regirá por el factor conexidad cuando el ejecutado sea una entidad pública. Si el ejecutado es un particular conocerá de este proceso ejecutivo la jurisdicción ordinaria.
 

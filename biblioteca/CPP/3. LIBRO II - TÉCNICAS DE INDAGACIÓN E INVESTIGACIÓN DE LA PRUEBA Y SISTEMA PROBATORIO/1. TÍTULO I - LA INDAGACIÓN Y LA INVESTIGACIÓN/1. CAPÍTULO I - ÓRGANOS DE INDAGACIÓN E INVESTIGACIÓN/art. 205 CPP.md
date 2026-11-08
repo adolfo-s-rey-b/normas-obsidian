@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "205"
-epigrafe: "ACTIVIDAD DE POLICÍA JUDICIAL EN LA INDAGACIÓN E INVESTIGACIÓN"
+epigrafe: "Actividad de policía judicial en la indagación e investigación"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo I|CAPÍTULO I - ÓRGANOS DE INDAGACIÓN E INVESTIGACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo I|Capítulo I]]
 
-## Artículo 205. ACTIVIDAD DE POLICÍA JUDICIAL EN LA INDAGACIÓN E INVESTIGACIÓN
+## Artículo 205. Actividad de policía judicial en la indagación e investigación
 
 Los servidores públicos que, en ejercicio de sus funciones de policía judicial, reciban denuncias, querellas o informes de otra clase, de los cuales se infiera la posible comisión de un delito, realizarán de inmediato todos los actos urgentes, tales como inspección en el lugar del hecho, inspección de cadáver, entrevistas e interrogatorios. Además, identificarán, recogerán, embalarán técnicamente los elementos materiales probatorios y evidencia física y registrarán por escrito, grabación magnetofónica o fonóptica las entrevistas e interrogatorios y se someterán a cadena de custodia.
 

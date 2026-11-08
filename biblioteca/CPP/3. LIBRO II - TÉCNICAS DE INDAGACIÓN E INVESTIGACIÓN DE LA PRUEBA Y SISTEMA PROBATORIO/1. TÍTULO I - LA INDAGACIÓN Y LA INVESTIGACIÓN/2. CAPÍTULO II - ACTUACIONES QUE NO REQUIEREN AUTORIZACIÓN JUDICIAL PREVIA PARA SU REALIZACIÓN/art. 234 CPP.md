@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "234"
-epigrafe: "EXAMEN Y DEVOLUCIÓN DE LA CORRESPONDENCIA"
+epigrafe: "Examen y devolución de la correspondencia"
 libro: "[[CPP - Libro II|LIBRO II - TÉCNICAS DE INDAGACIÓN E INVESTIGACIÓN DE LA PRUEBA Y SISTEMA PROBATORIO]]"
 titulo: "[[CPP - Libro II - Título I|TÍTULO I - LA INDAGACIÓN Y LA INVESTIGACIÓN]]"
 capitulo: "[[CPP - Libro II - Título I - Capítulo II|CAPÍTULO II - ACTUACIONES QUE NO REQUIEREN AUTORIZACIÓN JUDICIAL PREVIA PARA SU REALIZACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro II|Libro II]] › [[CPP - Libro II - Título I|Título I]] › [[CPP - Libro II - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 234. EXAMEN Y DEVOLUCIÓN DE LA CORRESPONDENCIA
+## Artículo 234. Examen y devolución de la correspondencia
 
 La policía judicial examinará la correspondencia retenida y si encuentra elementos materiales probatorios y evidencia física que resulten relevantes a los fines de la investigación, en un plazo máximo de doce (12) horas, informará de ello al fiscal que expidió la orden.
 

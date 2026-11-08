@@ -8,11 +8,11 @@ tipo: articulo
 norma: "Ley 599 de 2000"
 sigla: "CP"
 articulo: "64"
-epigrafe: "LIBERTAD CONDICIONAL"
+epigrafe: "Libertad Condicional"
 libro: "[[CP - Libro Primero|LIBRO PRIMERO - PARTE GENERAL]]"
 titulo: "[[CP - Libro Primero - Título IV|TÍTULO IV - DE LAS CONSECUENCIAS JURIDICAS DE LA CONDUCTA PUNIBLE]]"
 capitulo: "[[CP - Libro Primero - Título IV - Capítulo Tercero|CAPÍTULO TERCERO - DE LOS MECANISMOS SUSTITUTIVOS DE LA PENA PRIVATIVA DE LA LIBERTAD]]"
-vigencia: "modificado"
+vigencia: "parcialmente inexequible"
 modificado_por:
   - "[[art. 30 Ley 1709 de 2014]]"
   - "[[art. 5 Ley 2098 de 2021]]"
@@ -43,12 +43,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cp
-  - vigencia/modificado
+  - vigencia/parcialmente_inexequible
 ---
 
 [[CP|CP]] › [[CP - Libro Primero|Libro Primero]] › [[CP - Libro Primero - Título IV|Título IV]] › [[CP - Libro Primero - Título IV - Capítulo Tercero|Capítulo Tercero]]
 
-## Artículo 64. LIBERTAD CONDICIONAL
+## Artículo 64. Libertad Condicional
 
 El juez, previa valoración de la conducta punible, concederá la libertad condicional a la persona condenada a pena privativa de la libertad cuando haya cumplido con los siguientes requisitos:
 

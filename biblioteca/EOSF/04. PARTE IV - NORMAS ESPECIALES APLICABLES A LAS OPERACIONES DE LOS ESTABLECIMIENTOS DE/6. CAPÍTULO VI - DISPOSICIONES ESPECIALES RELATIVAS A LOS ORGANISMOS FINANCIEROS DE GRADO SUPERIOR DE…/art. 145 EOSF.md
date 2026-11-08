@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "145"
-epigrafe: "TASAS DE INTERES DE CAPTACION"
+epigrafe: "Tasas de Interés de Captación"
 parte: "[[EOSF - Parte IV|PARTE IV - NORMAS ESPECIALES APLICABLES A LAS OPERACIONES DE LOS ESTABLECIMIENTOS DE]]"
 capitulo: "[[EOSF - Parte IV - Capítulo VI|CAPÍTULO VI - DISPOSICIONES ESPECIALES RELATIVAS A LOS ORGANISMOS FINANCIEROS DE GRADO SUPERIOR DE CARACTER FINANCIERO]]"
 vigencia: "derogado"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte IV|Parte IV]] › [[EOSF - Parte IV - Capítulo VI|Capítulo VI]]
 
-## Artículo 145. TASAS DE INTERES DE CAPTACION
+## Artículo 145. Tasas de Interés de Captación
 
 (Artículo Suprimido por disposición del artículo [[art. 57 Ley 454 de 1998|57]] de la Ley 454 de 1998)
 

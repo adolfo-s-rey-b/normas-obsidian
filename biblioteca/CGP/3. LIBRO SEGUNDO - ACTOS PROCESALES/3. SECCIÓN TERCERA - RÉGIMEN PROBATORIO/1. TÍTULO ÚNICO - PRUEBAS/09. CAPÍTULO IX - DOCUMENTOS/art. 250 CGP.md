@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "250"
-epigrafe: "INDIVISIBILIDAD Y ALCANCE PROBATORIO DEL DOCUMENTO"
+epigrafe: "Indivisibilidad y alcance probatorio del documento"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Tercera|SECCIÓN TERCERA - RÉGIMEN PROBATORIO]]"
 titulo: "[[CGP - Libro Segundo - Sección Tercera - Título Único|TÍTULO ÚNICO - PRUEBAS]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Tercera|Sección Tercera]] › [[CGP - Libro Segundo - Sección Tercera - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Tercera - Título Único - Capítulo IX|Capítulo IX]]
 
-## Artículo 250. INDIVISIBILIDAD Y ALCANCE PROBATORIO DEL DOCUMENTO
+## Artículo 250. Indivisibilidad y alcance probatorio del documento
 
 La prueba que resulte de los documentos públicos y privados es indivisible y comprende aun lo meramente enunciativo, siempre que tenga relación directa con lo dispositivo del acto o contrato.
 

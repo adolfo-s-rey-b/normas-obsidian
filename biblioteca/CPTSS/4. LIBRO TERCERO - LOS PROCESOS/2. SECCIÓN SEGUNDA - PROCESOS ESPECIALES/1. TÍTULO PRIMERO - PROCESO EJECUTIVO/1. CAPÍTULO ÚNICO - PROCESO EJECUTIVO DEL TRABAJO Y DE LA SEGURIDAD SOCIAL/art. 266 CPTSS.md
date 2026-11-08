@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "266"
-epigrafe: "JUEZ COMPETENTE EN LAS EJECUCIONES PROMOVIDAS POR LAS ENTIDADES ADMINISTRADORAS DEL SISTEMA DE SEGURIDAD SOCIAL"
+epigrafe: "Juez competente en las ejecuciones promovidas por las entidades administradoras del sistema de seguridad social"
 libro: "[[CPTSS - Libro Tercero|LIBRO TERCERO - LOS PROCESOS]]"
 seccion: "[[CPTSS - Libro Tercero - Sección Segunda|SECCIÓN SEGUNDA - PROCESOS ESPECIALES]]"
 titulo: "[[CPTSS - Libro Tercero - Sección Segunda - Título Primero|TÍTULO PRIMERO - PROCESO EJECUTIVO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Tercero|Libro Tercero]] › [[CPTSS - Libro Tercero - Sección Segunda|Sección Segunda]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero|Título Primero]] › [[CPTSS - Libro Tercero - Sección Segunda - Título Primero - Capítulo Único|Capítulo Único]]
 
-## Artículo 266. JUEZ COMPETENTE EN LAS EJECUCIONES PROMOVIDAS POR LAS ENTIDADES ADMINISTRADORAS DEL SISTEMA DE SEGURIDAD SOCIAL
+## Artículo 266. Juez competente en las ejecuciones promovidas por las entidades administradoras del sistema de seguridad social
 
 De las ejecuciones de que trata el artículo anterior, conocerán los jueces del trabajo del domicilio del demandado, teniendo en cuenta las reglas generales sobre competencia por razón de la cuantía.
 

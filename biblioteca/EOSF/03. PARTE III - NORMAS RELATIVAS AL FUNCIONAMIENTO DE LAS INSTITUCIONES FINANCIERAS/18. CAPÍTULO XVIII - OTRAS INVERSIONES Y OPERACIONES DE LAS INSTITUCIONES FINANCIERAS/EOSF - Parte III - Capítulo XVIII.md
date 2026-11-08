@@ -23,7 +23,7 @@ tags:
 ### Contenido
 
 - [[art. 110 EOSF|Artículo 110]] — Inversiones
-- [[art. 111 EOSF|Artículo 111]] — OTRAS OPERACIONES
+- [[art. 111 EOSF|Artículo 111]] — Otras Operaciones
 
 ---
 ← [[EOSF - Parte III - Capítulo XVII|Capítulo XVII]] · ↑ [[EOSF - Parte III|Parte III]] · [[EOSF - Parte III - Capítulo XIX|Capítulo XIX]] →

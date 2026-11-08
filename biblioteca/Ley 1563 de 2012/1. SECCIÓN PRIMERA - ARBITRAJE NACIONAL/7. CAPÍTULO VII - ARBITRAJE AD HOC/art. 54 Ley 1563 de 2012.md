@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "54"
-epigrafe: "ACEPTACIÓN DE LOS ÁRBITROS"
+epigrafe: "Aceptación de los árbitros"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo VII|CAPÍTULO VII - ARBITRAJE AD HOC]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo VII|Capítulo VII]]
 
-## Artículo 54. ACEPTACIÓN DE LOS ÁRBITROS
+## Artículo 54. Aceptación de los árbitros
 
 Ambas partes o una de ellas, o el juez, según el caso, comunicarán a los árbitros la designación por el medio que consideren más expedito y eficaz, para que en el término de cinco (5) días se pronuncien. Si alguno de los árbitros no acepta o guarda silencio, se procederá a su reemplazo por quien lo hubiese designado.
 

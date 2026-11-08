@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "12"
-epigrafe: "CONSTANCIAS DE RECIBO Y REPARACIÓN"
+epigrafe: "Constancias de recibo y reparación"
 titulo: "[[Ley 1480 de 2011 - Título III|TÍTULO III - GARANTÍAS]]"
 capitulo: "[[Ley 1480 de 2011 - Título III - Capítulo I|CAPÍTULO I - DE LAS GARANTÍAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título III|Título III]] › [[Ley 1480 de 2011 - Título III - Capítulo I|Capítulo I]]
 
-## Artículo 12. CONSTANCIAS DE RECIBO Y REPARACIÓN
+## Artículo 12. Constancias de recibo y reparación
 
 Cuando se entregue un producto para hacer efectiva la garantía, el garante o quien realice la reparación en su nombre deberá expedir una constancia de recibo conforme con las reglas previstas para la prestación de servicios que suponen la entrega de un bien, e indicará los motivos de la reclamación.
 

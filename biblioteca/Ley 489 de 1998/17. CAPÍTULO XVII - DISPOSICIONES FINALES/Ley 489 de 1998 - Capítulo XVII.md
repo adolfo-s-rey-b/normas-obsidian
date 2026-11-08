@@ -20,13 +20,13 @@ tags:
 
 ### Contenido
 
-- [[art. 115 Ley 489 de 1998|Artículo 115]] — PLANTA GLOBAL Y GRUPOS INTERNOS DE TRABAJO
-- [[art. 116 Ley 489 de 1998|Artículo 116]] — RESPONSABILIDAD DE LOS MIEMBROS DE LAS COMISIONES, COMITES O CONSEJOS
-- [[art. 117 Ley 489 de 1998|Artículo 117]] — INVESTIGACION
-- [[art. 118 Ley 489 de 1998|Artículo 118]] — REORGANIZACION
-- [[art. 119 Ley 489 de 1998|Artículo 119]] — PUBLICACION EN EL DIARIO OFICIAL
+- [[art. 115 Ley 489 de 1998|Artículo 115]] — Planta global y grupos internos de trabajo
+- [[art. 116 Ley 489 de 1998|Artículo 116]] — Responsabilidad de los miembros de las comisiones, comités o consejos
+- [[art. 117 Ley 489 de 1998|Artículo 117]] — Investigación
+- [[art. 118 Ley 489 de 1998|Artículo 118]] — Reorganización
+- [[art. 119 Ley 489 de 1998|Artículo 119]] — Publicación en el Diario Oficial
 - [[art. 120 Ley 489 de 1998|Artículo 120]] — Facultades extraordinarias
-- [[art. 121 Ley 489 de 1998|Artículo 121]] — VIGENCIA Y DEROGATORIAS
+- [[art. 121 Ley 489 de 1998|Artículo 121]] — Vigencia y derogatorias
 
 ---
 ← [[Ley 489 de 1998 - Capítulo XVI|Capítulo XVI]] · ↑ [[Ley 489 de 1998|Ley 489 de 1998]]

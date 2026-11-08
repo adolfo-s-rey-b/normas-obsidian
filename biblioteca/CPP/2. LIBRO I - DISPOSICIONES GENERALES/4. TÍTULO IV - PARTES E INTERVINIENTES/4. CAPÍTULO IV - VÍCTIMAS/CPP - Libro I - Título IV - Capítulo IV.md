@@ -23,12 +23,12 @@ tags:
 
 ### Contenido
 
-- [[art. 132 CPP|Artículo 132]] — VÍCTIMAS
-- [[art. 133 CPP|Artículo 133]] — ATENCIÓN Y PROTECCIÓN INMEDIATA A LAS VÍCTIMAS
-- [[art. 134 CPP|Artículo 134]] — MEDIDAS DE ATENCIÓN Y PROTECCIÓN A LAS VÍCTIMAS
-- [[art. 135 CPP|Artículo 135]] — GARANTÍA DE COMUNICACIÓN A LAS VÍCTIMAS
-- [[art. 136 CPP|Artículo 136]] — DERECHO A RECIBIR INFORMACIÓN
-- [[art. 137 CPP|Artículo 137]] — INTERVENCIÓN DE LAS VÍCTIMAS EN LA ACTUACIÓN PENAL
+- [[art. 132 CPP|Artículo 132]] — Víctimas
+- [[art. 133 CPP|Artículo 133]] — Atención y protección inmediata a las víctimas
+- [[art. 134 CPP|Artículo 134]] — Medidas de atención y protección a las víctimas
+- [[art. 135 CPP|Artículo 135]] — Garantía de comunicación a las víctimas
+- [[art. 136 CPP|Artículo 136]] — Derecho a recibir información
+- [[art. 137 CPP|Artículo 137]] — Intervención de las víctimas en la actuación penal
 
 ---
 ← [[CPP - Libro I - Título IV - Capítulo III|Capítulo III]] · ↑ [[CPP - Libro I - Título IV|Título IV]]

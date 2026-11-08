@@ -37,7 +37,7 @@ tags:
 
 > [!info] Artículo modificado por el artículo 9o. del Decreto 13 de 1967. El nuevo texto es el siguiente:
 
-1.
+1\. *(texto no vigente)*
 
 > [!warning] Numeral INEXEQUIBLE
 

@@ -24,10 +24,10 @@ tags:
 
 ### Contenido
 
-- [[art. 251 CPTSS|Artículo 251]] — RECURSO DE ANULACIÓN
-- [[art. 252 CPTSS|Artículo 252]] — TRÁMITE
-- [[art. 253 CPTSS|Artículo 253]] — RECURSO DE ANULACIÓN EN CONFLICTOS DE INTERESES
-- [[art. 254 CPTSS|Artículo 254]] — TRÁMITE
+- [[art. 251 CPTSS|Artículo 251]] — Recurso de anulación
+- [[art. 252 CPTSS|Artículo 252]] — Trámite
+- [[art. 253 CPTSS|Artículo 253]] — Recurso de anulación en conflictos de intereses
+- [[art. 254 CPTSS|Artículo 254]] — Trámite
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Sexta - Título Único - Capítulo VII|Capítulo VII]] · ↑ [[CPTSS - Libro Segundo - Sección Sexta - Título Único|Título Único]]

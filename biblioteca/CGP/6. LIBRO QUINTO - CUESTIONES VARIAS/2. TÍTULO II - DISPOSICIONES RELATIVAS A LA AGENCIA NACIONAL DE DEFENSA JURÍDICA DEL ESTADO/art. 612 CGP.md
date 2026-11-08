@@ -50,7 +50,7 @@ En los procesos que se tramiten ante cualquier jurisdicción en donde sea demand
 
 La notificación de la Agencia Nacional de Defensa Jurídica del Estado se hará en los términos establecidos y con la remisión de los documentos a que se refiere este artículo para la parte demandada.
 
-> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo [[art. 627 CGP|627]] .
+> [!note] Notas de Vigencia: Este artículo empieza a regir a partir de la promulgación de la presente ley, según lo dispuesto en el numeral 1o. del artículo 627 .
 
 > [!note] Jurisprudencia Vigencia: Corte Constitucional - La Corte Constitucional se declaró INHIBIDA de fallar sobre los dos últimos incisos de este artículo por ineptitud de la demanda, mediante Sentencia C-030-14 de 29 de enero de 2014, Magistrado Ponente Dra. María Victoria Calle Correa.
 

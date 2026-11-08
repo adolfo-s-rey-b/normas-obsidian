@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "490"
-epigrafe: "APERTURA DEL PROCESO"
+epigrafe: "Apertura del proceso"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 490. APERTURA DEL PROCESO
+## Artículo 490. Apertura del proceso
 
 Presentada la demanda con los requisitos legales y los anexos, el Juez declarará abierto el proceso de sucesión, ordenará notificar a los herederos conocidos y al cónyuge o compañero permanente, para los efectos previstos en el artículo [[art. 492 CGP|492]], así como emplazar a los demás que se crean con derecho a intervenir en él, en la forma prevista en este código. Si en la demanda no se señalan herederos conocidos y el demandante no lo es, el juez ordenará notificar al Instituto Colombiano de Bienestar Familiar o a las entidades que tengan vocación legal. En todo caso, ordenará además informar a la Dirección de Impuestos y Aduanas Nacionales.
 

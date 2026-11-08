@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "11"
-epigrafe: "FINES DEL PROCESO DISCIPLINARIO"
+epigrafe: "Fines del proceso disciplinario"
 libro: "[[CGD - Libro I|LIBRO I - PARTE GENERAL]]"
 titulo: "[[CGD - Libro I - Título I|TÍTULO I - PRINCIPIOS Y NORMAS RECTORAS DE LA LEY DISCIPLINARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro I|Libro I]] › [[CGD - Libro I - Título I|Título I]]
 
-## Artículo 11. FINES DEL PROCESO DISCIPLINARIO
+## Artículo 11. Fines del proceso disciplinario
 
 Las finalidades del proceso son la prevalencia de la justicia, la efectividad del derecho sustantivo, la búsqueda de la verdad material y el cumplimiento de los derechos y garantías debidos a las personas que en él intervienen.
 

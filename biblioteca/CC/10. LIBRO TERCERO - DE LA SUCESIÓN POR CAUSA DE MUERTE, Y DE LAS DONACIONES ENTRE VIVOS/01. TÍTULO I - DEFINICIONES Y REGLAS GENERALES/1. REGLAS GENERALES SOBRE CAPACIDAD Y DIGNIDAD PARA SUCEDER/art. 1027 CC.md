@@ -12,7 +12,7 @@ epigrafe: "INDINIGDAD DEL INCAPAZ POR OMISIÓN DE SOLICITUD DE GUARDADOR"
 libro: "[[CC - Libro Tercero|LIBRO TERCERO - DE LA SUCESIÓN POR CAUSA DE MUERTE, Y DE LAS DONACIONES ENTRE VIVOS]]"
 titulo: "[[CC - Libro Tercero - Título I|TÍTULO I - DEFINICIONES Y REGLAS GENERALES]]"
 rubro: "[[CC - Libro Tercero - Título I - Reglas generales sobre capacidad y dignidad para…|REGLAS GENERALES SOBRE CAPACIDAD Y DIGNIDAD PARA SUCEDER]]"
-vigencia: "modificado"
+vigencia: "parcialmente derogado"
 modificado_por:
   - "[[art. 2 Ley 1306 de 2009]]"
   - "[[art. 58 Decreto 2820 de 1974]]"
@@ -29,7 +29,7 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cc
-  - vigencia/modificado
+  - vigencia/parcialmente_derogado
 ---
 
 [[CC|CC]] › [[CC - Libro Tercero|Libro Tercero]] › [[CC - Libro Tercero - Título I|Título I]] › [[CC - Libro Tercero - Título I - Reglas generales sobre capacidad y dignidad para…|Reglas generales sobre capacidad y dignidad para…]]

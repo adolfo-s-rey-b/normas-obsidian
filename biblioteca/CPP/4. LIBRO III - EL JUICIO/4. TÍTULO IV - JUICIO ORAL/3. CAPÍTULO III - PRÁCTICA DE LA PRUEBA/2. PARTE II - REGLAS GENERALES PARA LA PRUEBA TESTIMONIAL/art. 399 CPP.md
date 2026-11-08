@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "399"
-epigrafe: "TESTIMONIO DE POLICÍA JUDICIAL"
+epigrafe: "Testimonio de policía judicial"
 libro: "[[CPP - Libro III|LIBRO III - EL JUICIO]]"
 titulo: "[[CPP - Libro III - Título IV|TÍTULO IV - JUICIO ORAL]]"
 capitulo: "[[CPP - Libro III - Título IV - Capítulo III|CAPÍTULO III - PRÁCTICA DE LA PRUEBA]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro III|Libro III]] › [[CPP - Libro III - Título IV|Título IV]] › [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] › [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]]
 
-## Artículo 399. TESTIMONIO DE POLICÍA JUDICIAL
+## Artículo 399. Testimonio de policía judicial
 
 El servidor público de policía judicial podrá ser citado al juicio oral y público a rendir testimonio con relación al caso. El juez podrá autorizarlo para consultar su informe y notas relativas al mismo, como recurso para recordar.
 

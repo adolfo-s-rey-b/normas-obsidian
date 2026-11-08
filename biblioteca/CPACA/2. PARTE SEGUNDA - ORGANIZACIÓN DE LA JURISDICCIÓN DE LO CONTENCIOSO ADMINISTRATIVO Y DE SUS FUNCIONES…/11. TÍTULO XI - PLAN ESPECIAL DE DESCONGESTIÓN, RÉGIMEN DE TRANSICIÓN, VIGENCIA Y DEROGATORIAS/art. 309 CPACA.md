@@ -8,10 +8,10 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "309"
-epigrafe: "DEROGACIONES"
+epigrafe: "Derogaciones"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título XI|TÍTULO XI - PLAN ESPECIAL DE DESCONGESTIÓN, RÉGIMEN DE TRANSICIÓN, VIGENCIA Y DEROGATORIAS]]"
-vigencia: "vigente"
+vigencia: "parcialmente derogado"
 derogado_por:
   - "[[art. 626 CGP]]"
   - "[[art. 14 Ley 153 de 1887]]"
@@ -26,12 +26,12 @@ fecha_extraccion: 2026-11-08
 tags:
   - normas/articulo
   - normas/cpaca
-  - vigencia/vigente
+  - vigencia/parcialmente_derogado
 ---
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título XI|Título XI]]
 
-## Artículo 309. DEROGACIONES
+## Artículo 309. Derogaciones
 
 Deróganse a partir de la vigencia dispuesta en el artículo anterior todas las disposiciones que sean contrarias a este Código, en especial, el Decreto 01 de 1984, el Decreto 2304 de 1989, los artículos [[art. 30 Ley 446 de 1998|30]] a [[art. 63 Ley 446 de 1998|63]] y [[art. 164 Ley 446 de 1998|164]] de la Ley 446 de 1998, la Ley 809 de 2003, la Ley 954 de 2005, la Ley 1107 de 2006, el artículo [[art. 73 Ley 270 de 1996|73]] de la Ley 270 de 1996, el artículo [[art. 9 Ley 962 de 2005|9]]o de la Ley 962 de 2005, y los artículos [[art. 57 Ley 1395 de 2010|57]] a [[art. 72 Ley 1395 de 2010|72]] del Capítulo V, 102 a 112 del Capítulo VIII y 114 de la Ley 1395 de 2010.
 

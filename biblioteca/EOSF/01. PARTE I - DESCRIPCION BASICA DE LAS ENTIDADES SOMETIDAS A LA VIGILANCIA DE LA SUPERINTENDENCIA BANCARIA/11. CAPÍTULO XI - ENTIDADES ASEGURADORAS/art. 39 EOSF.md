@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "39"
-epigrafe: "PERSONAS NO AUTORIZADAS"
+epigrafe: "Personas no Autorizadas"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo XI|CAPÍTULO XI - ENTIDADES ASEGURADORAS]]"
 vigencia: "modificado"
@@ -31,7 +31,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo XI|Capítulo XI]]
 
-## Artículo 39. PERSONAS NO AUTORIZADAS
+## Artículo 39. Personas no Autorizadas
 
 Salvo lo previsto en los parágrafos del presente artículo, queda prohibido celebrar en el territorio nacional operaciones de seguros con entidades extranjeras no autorizadas para desarrollar la actividad aseguradora en Colombia o hacerlo con agentes o representantes que trabajen para las mismas. Las personas naturales o jurídicas que contravengan lo dispuesto en el presente artículo quedarán sujetas a las sanciones previstas en el artículo [[art. 208 EOSF|208]] del presente Estatuto.
 

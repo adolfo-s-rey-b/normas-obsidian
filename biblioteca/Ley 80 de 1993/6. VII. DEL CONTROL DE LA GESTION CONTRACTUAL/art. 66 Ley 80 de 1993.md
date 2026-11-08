@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 80 de 1993"
 articulo: "66"
-epigrafe: "DE LA PARTICIPACIÓN COMUNITARIA"
+epigrafe: "De la Participación Comunitaria"
 rubro: "[[Ley 80 de 1993 - Vii. del control de la gestion contractual|VII. DEL CONTROL DE LA GESTION CONTRACTUAL]]"
 vigencia: "vigente"
 anterior: "[[art. 65 Ley 80 de 1993]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 80 de 1993|Ley 80 de 1993]] › [[Ley 80 de 1993 - Vii. del control de la gestion contractual|Vii. del control de la gestion contractual]]
 
-## Artículo 66. DE LA PARTICIPACIÓN COMUNITARIA
+## Artículo 66. De la Participación Comunitaria
 
 Todo contrato que celebren las entidades estatales, estará sujeto a la vigilancia y control ciudadano.
 

@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1437 de 2011"
 sigla: "CPACA"
 articulo: "159"
-epigrafe: "CAPACIDAD Y REPRESENTACIÓN"
+epigrafe: "Capacidad y representación"
 parte: "[[CPACA - Parte Segunda|PARTE SEGUNDA - ORGANIZACIÓN DE LA JURISDICCIÓN DE LO CONTENCIOSO ADMINISTRATIVO Y DE SUS FUNCIONES JURISDICCIONAL Y CONSULTIVA]]"
 titulo: "[[CPACA - Parte Segunda - Título V|TÍTULO V - DEMANDA Y PROCESO CONTENCIOSO ADMINISTRATIVO]]"
 capitulo: "[[CPACA - Parte Segunda - Título V - Capítulo I|CAPÍTULO I - CAPACIDAD, REPRESENTACIÓN Y DERECHO DE POSTULACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPACA|CPACA]] › [[CPACA - Parte Segunda|Parte Segunda]] › [[CPACA - Parte Segunda - Título V|Título V]] › [[CPACA - Parte Segunda - Título V - Capítulo I|Capítulo I]]
 
-## Artículo 159. CAPACIDAD Y REPRESENTACIÓN
+## Artículo 159. Capacidad y representación
 
 Las entidades públicas, los particulares que cumplen funciones públicas y los demás sujetos de derecho que de acuerdo con la ley tengan capacidad para comparecer al proceso, podrán obrar como demandantes, demandados o intervinientes en los procesos contencioso administrativos, por medio de sus representantes, debidamente acreditados.
 

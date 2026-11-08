@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 92 CPTSS|Artículo 92]] — CAUSALES DE NULIDAD
-- [[art. 93 CPTSS|Artículo 93]] — OPORTUNIDAD Y TRÁMITE DE LAS NULIDADES
-- [[art. 94 CPTSS|Artículo 94]] — REQUISITOS PARA ALEGAR LA NULIDAD
-- [[art. 95 CPTSS|Artículo 95]] — EFECTOS DE LA DECLARACIÓN DE FALTA DE JURISDICCIÓN O COMPETENCIA Y DE LA NULIDAD DECLARADA
-- [[art. 96 CPTSS|Artículo 96]] — SANEAMIENTO DE LA NULIDAD
+- [[art. 92 CPTSS|Artículo 92]] — Causales de nulidad
+- [[art. 93 CPTSS|Artículo 93]] — Oportunidad y trámite de las nulidades
+- [[art. 94 CPTSS|Artículo 94]] — Requisitos para alegar la nulidad
+- [[art. 95 CPTSS|Artículo 95]] — Efectos de la declaración de falta de jurisdicción o competencia y de la nulidad declarada
+- [[art. 96 CPTSS|Artículo 96]] — Saneamiento de la nulidad
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IV|Capítulo IV]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo VI|Capítulo VI]] →

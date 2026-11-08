@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "555"
-epigrafe: "EFECTOS DE LA CELEBRACIÓN DEL ACUERDO DE PAGO SOBRE LOS PROCESOS EN CURSO"
+epigrafe: "Efectos de la celebración del acuerdo de pago sobre los procesos en curso"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título IV|TÍTULO IV - INSOLVENCIA DE LA PERSONA NATURAL NO COMERCIANTE Y DE LA PEQUEÑA COMERCIANTE]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título IV|Título IV]] › [[CGP - Libro Tercero - Sección Tercera - Título IV - Capítulo II|Capítulo II]]
 
-## Artículo 555. EFECTOS DE LA CELEBRACIÓN DEL ACUERDO DE PAGO SOBRE LOS PROCESOS EN CURSO
+## Artículo 555. Efectos de la celebración del acuerdo de pago sobre los procesos en curso
 
 Una vez celebrado el acuerdo de pago, los procesos de ejecución y de restitución de tenencia promovidos por los acreedores continuarán suspendidos hasta tanto se verifique cumplimiento o incumplimiento del acuerdo.
 

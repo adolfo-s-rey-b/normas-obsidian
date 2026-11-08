@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1952 de 2019"
 sigla: "CGD"
 articulo: "164"
-epigrafe: "DEBER DE RENDIR TESTIMONIO"
+epigrafe: "Deber de rendir testimonio"
 libro: "[[CGD - Libro IV|LIBRO IV - PROCEDIMIENTO DISCIPLINARIO]]"
 titulo: "[[CGD - Libro IV - Título VI|TÍTULO VI - PRUEBAS]]"
 capitulo: "[[CGD - Libro IV - Título VI - Capítulo II|CAPÍTULO II - TESTIMONIO]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGD|CGD]] › [[CGD - Libro IV|Libro IV]] › [[CGD - Libro IV - Título VI|Título VI]] › [[CGD - Libro IV - Título VI - Capítulo II|Capítulo II]]
 
-## Artículo 164. DEBER DE RENDIR TESTIMONIO
+## Artículo 164. Deber de rendir testimonio
 
 Toda persona está en la obligación de rendir bajo juramento el testimonio que se le solicita en la actuación procesal, salvo las excepciones constitucionales y legales.
 

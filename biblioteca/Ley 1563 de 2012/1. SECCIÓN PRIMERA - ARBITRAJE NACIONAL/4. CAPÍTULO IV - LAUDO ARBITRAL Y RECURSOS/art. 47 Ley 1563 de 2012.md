@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1563 de 2012"
 articulo: "47"
-epigrafe: "REGISTRO Y ARCHIVO"
+epigrafe: "Registro y archivo"
 seccion: "[[Ley 1563 de 2012 - Sección Primera|SECCIÓN PRIMERA - ARBITRAJE NACIONAL]]"
 capitulo: "[[Ley 1563 de 2012 - Sección Primera - Capítulo IV|CAPÍTULO IV - LAUDO ARBITRAL Y RECURSOS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1563 de 2012|Ley 1563 de 2012]] › [[Ley 1563 de 2012 - Sección Primera|Sección Primera]] › [[Ley 1563 de 2012 - Sección Primera - Capítulo IV|Capítulo IV]]
 
-## Artículo 47. REGISTRO Y ARCHIVO
+## Artículo 47. Registro y archivo
 
 El laudo ordenará su inscripción en el correspondiente registro, cuando a ello hubiere lugar, y el archivo del expediente en el centro en el que se hubiese adelantado el proceso, respecto del cual este podrá expedir copias y autorizar desgloses. Transcurridos tres (3) años, el centro podrá disponer que el expediente se conserve por cualquier medio técnico que garantice su reproducción.
 

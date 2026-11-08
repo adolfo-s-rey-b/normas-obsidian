@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "34"
-epigrafe: "DE LOS TRIBUNALES SUPERIORES DE DISTRITO"
+epigrafe: "De los tribunales superiores de distrito"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título I|TÍTULO I - JURISDICCION Y COMPETENCIA]]"
 capitulo: "[[CPP - Libro I - Título I - Capítulo II|CAPÍTULO II - DE LA COMPETENCIA]]"
@@ -32,7 +32,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título I|Título I]] › [[CPP - Libro I - Título I - Capítulo II|Capítulo II]]
 
-## Artículo 34. DE LOS TRIBUNALES SUPERIORES DE DISTRITO
+## Artículo 34. De los tribunales superiores de distrito
 
 Las salas penales de los tribunales superiores de distrito judicial conocen:
 

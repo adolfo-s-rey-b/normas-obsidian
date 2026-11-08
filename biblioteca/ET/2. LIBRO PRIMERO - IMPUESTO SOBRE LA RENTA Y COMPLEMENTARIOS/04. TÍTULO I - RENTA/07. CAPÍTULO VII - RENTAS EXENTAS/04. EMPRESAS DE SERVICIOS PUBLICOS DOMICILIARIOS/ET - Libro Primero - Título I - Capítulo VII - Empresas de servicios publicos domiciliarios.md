@@ -24,7 +24,7 @@ tags:
 
 ### Contenido
 
-- [[art. 211 ET|Artículo 211]] — EXENCIÓN PARA EMPRESAS DE SERVICIOS PUBLICOS DOMICILIARIOS
+- [[art. 211 ET|Artículo 211]] — Exención para Empresas de Servicios Públicos Domiciliarios
 - [[art. 211-1 ET|Artículo 211-1]]
 - [[art. 211-2 ET|Artículo 211-2]]
 

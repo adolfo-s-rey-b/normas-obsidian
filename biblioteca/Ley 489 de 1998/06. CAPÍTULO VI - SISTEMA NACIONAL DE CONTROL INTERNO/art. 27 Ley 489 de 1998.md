@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 489 de 1998"
 articulo: "27"
-epigrafe: "CREACION"
+epigrafe: "Creación"
 capitulo: "[[Ley 489 de 1998 - Capítulo VI|CAPÍTULO VI - SISTEMA NACIONAL DE CONTROL INTERNO]]"
 vigencia: "vigente"
 anterior: "[[art. 26 Ley 489 de 1998]]"
@@ -23,7 +23,7 @@ tags:
 
 [[Ley 489 de 1998|Ley 489 de 1998]] › [[Ley 489 de 1998 - Capítulo VI|Capítulo VI]]
 
-## Artículo 27. CREACION
+## Artículo 27. Creación
 
 Créase el Sistema Nacional de Control Interno, conformado por el conjunto de instituciones, instancias de participación, políticas, normas, procedimientos, recursos, planes, programas, proyectos, metodologías, sistemas de información, y tecnología aplicable, inspirado en los principios constitucionales de la función administrativa cuyo sustento fundamental es el servidor público.
 

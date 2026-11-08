@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "325"
-epigrafe: "EXAMEN PRELIMINAR"
+epigrafe: "Examen preliminar"
 libro: "[[CGP - Libro Segundo|LIBRO SEGUNDO - ACTOS PROCESALES]]"
 seccion: "[[CGP - Libro Segundo - Sección Sexta|SECCIÓN SEXTA - MEDIOS DE IMPUGNACIÓN]]"
 titulo: "[[CGP - Libro Segundo - Sección Sexta - Título Único|TÍTULO ÚNICO - MEDIOS DE IMPUGNACIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Segundo|Libro Segundo]] › [[CGP - Libro Segundo - Sección Sexta|Sección Sexta]] › [[CGP - Libro Segundo - Sección Sexta - Título Único|Título Único]] › [[CGP - Libro Segundo - Sección Sexta - Título Único - Capítulo II|Capítulo II]]
 
-## Artículo 325. EXAMEN PRELIMINAR
+## Artículo 325. Examen preliminar
 
 Si la providencia apelada se profirió por fuera de audiencia, el juez o el magistrado sustanciador verificará si se encuentra suscrita por el juez de primera instancia y, en caso negativo, adoptará las medidas necesarias para establecer su autoría. En cualquier caso, la concesión del recurso hace presumir la autoría de la providencia apelada.
 

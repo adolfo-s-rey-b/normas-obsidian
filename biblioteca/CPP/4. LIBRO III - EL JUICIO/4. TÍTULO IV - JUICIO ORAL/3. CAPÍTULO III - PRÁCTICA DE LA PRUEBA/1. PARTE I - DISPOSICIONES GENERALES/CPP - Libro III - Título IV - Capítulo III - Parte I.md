@@ -24,17 +24,17 @@ tags:
 
 ### Contenido
 
-- [[art. 372 CPP|Artículo 372]] — FINES
-- [[art. 373 CPP|Artículo 373]] — LIBERTAD
-- [[art. 374 CPP|Artículo 374]] — OPORTUNIDAD DE PRUEBAS
-- [[art. 375 CPP|Artículo 375]] — PERTINENCIA
-- [[art. 376 CPP|Artículo 376]] — ADMISIBILIDAD
-- [[art. 377 CPP|Artículo 377]] — PUBLICIDAD
-- [[art. 378 CPP|Artículo 378]] — CONTRADICCIÓN
-- [[art. 379 CPP|Artículo 379]] — INMEDIACIÓN
-- [[art. 380 CPP|Artículo 380]] — CRITERIOS DE VALORACIÓN
-- [[art. 381 CPP|Artículo 381]] — CONOCIMIENTO PARA CONDENAR
-- [[art. 382 CPP|Artículo 382]] — MEDIOS DE CONOCIMIENTO
+- [[art. 372 CPP|Artículo 372]] — Fines
+- [[art. 373 CPP|Artículo 373]] — Libertad
+- [[art. 374 CPP|Artículo 374]] — Oportunidad de pruebas
+- [[art. 375 CPP|Artículo 375]] — Pertinencia
+- [[art. 376 CPP|Artículo 376]] — Admisibilidad
+- [[art. 377 CPP|Artículo 377]] — Publicidad
+- [[art. 378 CPP|Artículo 378]] — Contradicción
+- [[art. 379 CPP|Artículo 379]] — Inmediación
+- [[art. 380 CPP|Artículo 380]] — Criterios de valoración
+- [[art. 381 CPP|Artículo 381]] — Conocimiento para condenar
+- [[art. 382 CPP|Artículo 382]] — Medios de conocimiento
 
 ---
 ↑ [[CPP - Libro III - Título IV - Capítulo III|Capítulo III]] · [[CPP - Libro III - Título IV - Capítulo III - Parte II|Parte II]] →

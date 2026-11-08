@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 906 de 2004"
 sigla: "CPP"
 articulo: "190"
-epigrafe: "DE LA LIBERTAD"
+epigrafe: "De la libertad"
 libro: "[[CPP - Libro I|LIBRO I - DISPOSICIONES GENERALES]]"
 titulo: "[[CPP - Libro I - Título VI|TÍTULO VI - LA ACTUACION]]"
 capitulo: "[[CPP - Libro I - Título VI - Capítulo IX|CAPÍTULO IX - CASACIÓN]]"
@@ -29,7 +29,7 @@ tags:
 
 [[CPP|CPP]] › [[CPP - Libro I|Libro I]] › [[CPP - Libro I - Título VI|Título VI]] › [[CPP - Libro I - Título VI - Capítulo IX|Capítulo IX]]
 
-## Artículo 190. DE LA LIBERTAD
+## Artículo 190. De la libertad
 
 Durante el trámite del recurso extraordinario de casación lo referente a la libertad y demás asuntos que no estén vinculados con la impugnación, serán de la exclusiva competencia del juez de primera instancia.
 

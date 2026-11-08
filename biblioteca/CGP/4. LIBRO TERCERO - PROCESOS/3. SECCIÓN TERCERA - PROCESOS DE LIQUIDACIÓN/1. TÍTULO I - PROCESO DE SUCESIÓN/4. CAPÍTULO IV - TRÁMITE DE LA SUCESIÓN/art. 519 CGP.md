@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 1564 de 2012"
 sigla: "CGP"
 articulo: "519"
-epigrafe: "SUCESIÓN PROCESAL"
+epigrafe: "Sucesión procesal"
 libro: "[[CGP - Libro Tercero|LIBRO TERCERO - PROCESOS]]"
 seccion: "[[CGP - Libro Tercero - Sección Tercera|SECCIÓN TERCERA - PROCESOS DE LIQUIDACIÓN]]"
 titulo: "[[CGP - Libro Tercero - Sección Tercera - Título I|TÍTULO I - PROCESO DE SUCESIÓN]]"
@@ -30,7 +30,7 @@ tags:
 
 [[CGP|CGP]] › [[CGP - Libro Tercero|Libro Tercero]] › [[CGP - Libro Tercero - Sección Tercera|Sección Tercera]] › [[CGP - Libro Tercero - Sección Tercera - Título I|Título I]] › [[CGP - Libro Tercero - Sección Tercera - Título I - Capítulo IV|Capítulo IV]]
 
-## Artículo 519. SUCESIÓN PROCESAL
+## Artículo 519. Sucesión procesal
 
 Si falleciere alguno de los asignatarios después de haber sido reconocido en el proceso, cualquiera de sus herederos podrá intervenir en su lugar para los fines del artículo [[art. 1378 CC|1378]] del Código Civil, pero en la partición o adjudicación de bienes la hijuela se hará a nombre y a favor del difunto.
 

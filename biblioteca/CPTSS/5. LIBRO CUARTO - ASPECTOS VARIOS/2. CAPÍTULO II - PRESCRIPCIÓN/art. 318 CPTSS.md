@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Ley 2452 de 2025"
 sigla: "CPTSS"
 articulo: "318"
-epigrafe: "INTERRUPCIÓN JUDICIAL"
+epigrafe: "Interrupción judicial"
 libro: "[[CPTSS - Libro Cuarto|LIBRO CUARTO - ASPECTOS VARIOS]]"
 capitulo: "[[CPTSS - Libro Cuarto - Capítulo II|CAPÍTULO II - PRESCRIPCIÓN]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[CPTSS|CPTSS]] › [[CPTSS - Libro Cuarto|Libro Cuarto]] › [[CPTSS - Libro Cuarto - Capítulo II|Capítulo II]]
 
-## Artículo 318. INTERRUPCIÓN JUDICIAL
+## Artículo 318. Interrupción judicial
 
 En los procesos laborales, con la presentación de la demanda se interrumpe el término para la prescripción siempre que el auto admisorio de aquella o el mandamiento ejecutivo se notifique al demandado dentro del término de un (1) año contado a partir del día siguiente a la notificación de tales providencias al demandante. Pasado este término, los mencionados efectos solo se producirán con la notificación al demandado.
 

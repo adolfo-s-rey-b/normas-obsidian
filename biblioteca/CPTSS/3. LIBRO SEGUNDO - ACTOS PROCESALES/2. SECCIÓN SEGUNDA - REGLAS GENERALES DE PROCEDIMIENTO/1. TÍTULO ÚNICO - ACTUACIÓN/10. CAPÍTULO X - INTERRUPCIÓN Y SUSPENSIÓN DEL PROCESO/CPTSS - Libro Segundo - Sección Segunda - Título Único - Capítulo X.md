@@ -24,11 +24,11 @@ tags:
 
 ### Contenido
 
-- [[art. 117 CPTSS|Artículo 117]] — CAUSALES DE INTERRUPCIÓN
-- [[art. 118 CPTSS|Artículo 118]] — CITACIONES
-- [[art. 119 CPTSS|Artículo 119]] — SUSPENSIÓN DEL PROCESO
-- [[art. 120 CPTSS|Artículo 120]] — DECRETO DE LA SUSPENSIÓN Y SUS EFECTOS
-- [[art. 121 CPTSS|Artículo 121]] — REANUDACIÓN DEL PROCESO
+- [[art. 117 CPTSS|Artículo 117]] — Causales de interrupción
+- [[art. 118 CPTSS|Artículo 118]] — Citaciones
+- [[art. 119 CPTSS|Artículo 119]] — Suspensión del proceso
+- [[art. 120 CPTSS|Artículo 120]] — Decreto de la suspensión y sus efectos
+- [[art. 121 CPTSS|Artículo 121]] — Reanudación del proceso
 
 ---
 ← [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo IX|Capítulo IX]] · ↑ [[CPTSS - Libro Segundo - Sección Segunda - Título Único|Título Único]] · [[CPTSS - Libro Segundo - Sección Segunda - Título Único - Capítulo XI|Capítulo XI]] →

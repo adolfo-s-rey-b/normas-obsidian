@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "89"
-epigrafe: "DEMOCRATIZACION DE LAS ACCIONES DE LAS ADMINISTRADORAS"
+epigrafe: "Democratización de las Acciones de las Administradoras"
 parte: "[[EOSF - Parte III|PARTE III - NORMAS RELATIVAS AL FUNCIONAMIENTO DE LAS INSTITUCIONES FINANCIERAS]]"
 capitulo: "[[EOSF - Parte III - Capítulo X|CAPÍTULO X - PROPIEDAD ACCIONARIA]]"
 vigencia: "vigente"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte III|Parte III]] › [[EOSF - Parte III - Capítulo X|Capítulo X]]
 
-## Artículo 89. DEMOCRATIZACION DE LAS ACCIONES DE LAS ADMINISTRADORAS
+## Artículo 89. Democratización de las Acciones de las Administradoras
 
 Las sociedades administradoras de fondos de pensiones y de cesantía deberán ofrecer en pública suscripción, a más tardar dentro de los dos (2) años siguientes a la fecha en que la Superintendencia expida el correspondiente certificado de autorización, un número de acciones que permita a terceros inversionistas adquirir a lo menos un veinticinco por ciento (25%) del capital de la sociedad.
 

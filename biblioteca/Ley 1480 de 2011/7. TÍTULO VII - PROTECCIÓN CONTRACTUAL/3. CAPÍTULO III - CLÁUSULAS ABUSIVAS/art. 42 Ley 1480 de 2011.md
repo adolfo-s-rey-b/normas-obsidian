@@ -4,7 +4,7 @@ aliases:
 tipo: articulo
 norma: "Ley 1480 de 2011"
 articulo: "42"
-epigrafe: "CONCEPTO Y PROHIBICIÓN"
+epigrafe: "Concepto y prohibición"
 titulo: "[[Ley 1480 de 2011 - Título VII|TÍTULO VII - PROTECCIÓN CONTRACTUAL]]"
 capitulo: "[[Ley 1480 de 2011 - Título VII - Capítulo III|CAPÍTULO III - CLÁUSULAS ABUSIVAS]]"
 vigencia: "vigente"
@@ -24,7 +24,7 @@ tags:
 
 [[Ley 1480 de 2011|Ley 1480 de 2011]] › [[Ley 1480 de 2011 - Título VII|Título VII]] › [[Ley 1480 de 2011 - Título VII - Capítulo III|Capítulo III]]
 
-## Artículo 42. CONCEPTO Y PROHIBICIÓN
+## Artículo 42. Concepto y prohibición
 
 Son cláusulas abusivas aquellas que producen un desequilibrio injustificado en perjuicio del consumidor y las que, en las mismas condiciones, afecten el tiempo, modo o lugar en que el consumidor puede ejercer sus derechos. Para establecer la naturaleza y magnitud del desequilibrio, serán relevantes todas las condiciones particulares de la transacción particular que se analiza.
 

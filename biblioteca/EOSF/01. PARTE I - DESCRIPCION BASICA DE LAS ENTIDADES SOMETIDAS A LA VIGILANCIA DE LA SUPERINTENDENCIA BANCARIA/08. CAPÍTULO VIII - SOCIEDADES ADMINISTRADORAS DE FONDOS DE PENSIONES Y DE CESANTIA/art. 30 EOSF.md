@@ -8,7 +8,7 @@ tipo: articulo
 norma: "Decreto 663 de 1993"
 sigla: "EOSF"
 articulo: "30"
-epigrafe: "OBJETO Y DEFINICIONES"
+epigrafe: "Objeto y Definiciones"
 parte: "[[EOSF - Parte I|PARTE I - DESCRIPCION BASICA DE LAS ENTIDADES SOMETIDAS A LA VIGILANCIA DE LA SUPERINTENDENCIA BANCARIA]]"
 capitulo: "[[EOSF - Parte I - Capítulo VIII|CAPÍTULO VIII - SOCIEDADES ADMINISTRADORAS DE FONDOS DE PENSIONES Y DE CESANTIA]]"
 vigencia: "parcialmente derogado"
@@ -28,7 +28,7 @@ tags:
 
 [[EOSF|EOSF]] › [[EOSF - Parte I|Parte I]] › [[EOSF - Parte I - Capítulo VIII|Capítulo VIII]]
 
-## Artículo 30. OBJETO Y DEFINICIONES
+## Artículo 30. Objeto y Definiciones
 
 1\. Objeto. Las sociedades administradoras de fondos de cesantía, también denominadas en este Estatuto administradoras, tienen por objeto exclusivo la administración y manejo de los fondos de cesantía que se constituyan en desarrollo de lo previsto en el artículo [[art. 99 Ley 50 de 1990|99]] de la Ley 50 de 1990.
 
